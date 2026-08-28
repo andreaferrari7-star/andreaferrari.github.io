@@ -1,3 +1,58 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+/* --- LAYOUT ACCADEMICO --- */
+/* Allarga la colonna centrale (default è spesso troppo stretta) */
+.center, .page {
+  max-width: 850px !important; 
+}
+
+/* Interlinea più rilassata per il corpo del testo */
+article p, article li {
+  line-height: 1.7;
+}
+
+/* --- FIX GRAFICI MERMAID --- */
+/* Crea un "contenitore" pulito per isolare i diagrammi complessi */
+.mermaid {
+  background-color: #ffffff;
+  padding: 1.5rem;
+  border-radius: 8px;
+  border: 1px solid #e5e5e5;
+  display: flex;
+  justify-content: center;
+  margin: 2.5rem 0;
+  overflow-x: auto; /* Permette lo scroll se il grafico è troppo largo */
+  
+  svg {
+    max-width: 100% !important;
+    height: auto !important;
+    font-family: "Inter", sans-serif !important; /* Forza il font pulito nei grafici */
+  }
+
+  /* Gestione dei nodi testuali per evitare accavallamenti */
+  .node text {
+    font-size: 14px;
+  }
+}
+
+/* --- FIX TABELLE --- */
+/* Stile accademico per le tavole sinottiche */
+article table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 2rem 0;
+  font-size: 0.9rem;
+  font-family: "Inter", sans-serif; /* Le tabelle rendono meglio in Sans-Serif */
+}
+
+article th {
+  background-color: #f1f1f1;
+  text-align: left;
+  border-bottom: 2px solid #ccc;
+}
+
+article td {
+  border-bottom: 1px solid #e5e5e5;
+}
