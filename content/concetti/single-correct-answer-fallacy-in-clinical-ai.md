@@ -97,7 +97,7 @@ sequenceDiagram
 ---
 
 ## Related Pages
-- [[Clinical_decision_making_and_artificial_intelligence]]
+- [[clinical-decision-making-and-artificial-intelligence]]
 - [[information-without-explanation-in-clinical-ai]]
 - [[human-in-the-reasoning]]
 - [[modello-centauro-clinico]]

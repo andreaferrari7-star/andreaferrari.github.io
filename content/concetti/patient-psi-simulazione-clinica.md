@@ -97,5 +97,5 @@ flowchart TD
 ---
 
 ## Relazioni
-- Scheda sintesi collegata: [[Clinical_AI_Blueprint]]
+- Scheda sintesi collegata: [[clinical-ai-blueprint]]
 - Concetti correlati: [[coast-framework-clinical-prompting]], [[mind-safe-framework]], [[simulazione-pazienti-ai]], [[deliberate-practice-in-psicoterapia-ia]], [[sycophantic-mirroring]], [[over-deference-in-llm-supervision]], [[cbt-dialogue-systems-and-tools]], [[libet-prime-agenti-didattici]].

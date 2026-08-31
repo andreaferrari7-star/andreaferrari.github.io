@@ -104,7 +104,7 @@ stateDiagram-v2
 ---
 
 ## Related Pages
-- [[Clinical_decision_making_and_artificial_intelligence]]
+- [[clinical-decision-making-and-artificial-intelligence]]
 - [[single-correct-answer-fallacy-in-clinical-ai]]
 - [[human-in-the-reasoning]]
 - [[automation-bias-clinical-reasoning]]

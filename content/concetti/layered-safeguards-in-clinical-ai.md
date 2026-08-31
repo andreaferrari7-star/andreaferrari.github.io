@@ -121,7 +121,7 @@ La tabella sintetizza i principali pattern di sicurezza implementati nei sistemi
 ---
 
 ## Relazioni
-- [[Generative_AI_Mental_Health_Chatbot_Interventions]]: Scoping review di Olisaeloka et al. (2026) su safety e UX nei chatbot GenAI.
+- [[generative-ai-mental-health-chatbot-interventions]]: Scoping review di Olisaeloka et al. (2026) su safety e UX nei chatbot GenAI.
 - [[relational-engagement-paradox-genai]]: Il paradosso tra alta alleanza terapeutica iniziale e drastico calo di engagement nel tempo.
 - [[clinical-readiness-gap-in-mh-chatbots]]: Il divario di prontezza clinica e sicurezza nei chatbot per la salute mentale.
 - [[traffic-light-quality-appraisal-clinical-ai]]: Framework di valutazione a semaforo per il rischio etico e la validazione esterna.

@@ -96,5 +96,5 @@ flowchart LR
 ---
 
 ## Relazioni
-- Scheda sintesi collegata: [[Clinical_AI_Blueprint]]
+- Scheda sintesi collegata: [[clinical-ai-blueprint]]
 - Concetti correlati: [[mind-safe-framework]], [[patient-psi-simulazione-clinica]], [[chart-reporting-guideline]], [[cbt-dialogue-systems-and-tools]], [[llm-case-conceptualization-pipeline]], [[stepwise-cot]], [[audit-bias-llm-clinici]], [[deliberate-practice-in-psicoterapia-ia]].

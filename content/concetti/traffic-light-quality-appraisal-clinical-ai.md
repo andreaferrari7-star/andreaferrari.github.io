@@ -110,7 +110,7 @@ Sulla base del Traffic Light Framework, ogni futuro studio su sistemi conversazi
 ---
 
 ## Relazioni
-- [[ai_v5i1e80348]]: Systematic review di Cho et al. (2026) in cui il framework è introdotto.
+- [[ai-v5i1e80348]]: Systematic review di Cho et al. (2026) in cui il framework è introdotto.
 - [[clinical-readiness-gap-in-mh-chatbots]]: Il divario di prontezza clinica evidenziato dal framework.
 - [[counseling-benchmarks-evaluation]]: Metodologie avanzate di benchmarking clinico per LLM.
 - [[three-layer-governance-framework]]: Quadro di governance etica e sicurezza a tre livelli.

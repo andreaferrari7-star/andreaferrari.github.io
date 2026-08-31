@@ -110,7 +110,7 @@ Per trasformare i chatbot da prototipi sperimentali a interventi digitali clinic
 ---
 
 ## Relazioni
-- [[ai_v5i1e80348]]: Systematic review di Cho et al. (2026) su metodologie ed etica dei chatbot LLM.
+- [[ai-v5i1e80348]]: Systematic review di Cho et al. (2026) su metodologie ed etica dei chatbot LLM.
 - [[traffic-light-quality-appraisal-clinical-ai]]: Framework di valutazione a 5 domini per misurare la qualità metodologica.
 - [[evidence-adoption-gap-ai-mental-health]]: Analisi del divario tra adozione pubblica di massa ed evidenze cliniche controllate.
 - [[healthcare-conversational-agents]]: Tassonomia ed efficacia clinica degli agenti conversazionali in sanità.
