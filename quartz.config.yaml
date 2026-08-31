@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: andreaferrari7-star.github.io/andreaferrari.github.io
+  baseUrl: "andreaferrari7-star.github.io"
   ignorePatterns:
     - private
     - templates
