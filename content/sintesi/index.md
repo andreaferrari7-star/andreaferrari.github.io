@@ -1,0 +1,4 @@
+---
+title: Sintesi
+---
+# Indice Sintesi
