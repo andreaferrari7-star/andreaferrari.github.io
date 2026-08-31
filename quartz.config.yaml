@@ -1,13 +1,13 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: La mia Wiki
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: andreaferrari7-star.github.io
+  baseUrl: andreaferrari7-star.github.io/andreaferrari.github.io
   ignorePatterns:
     - private
     - templates
