@@ -88,7 +88,7 @@ mindmap
 ---
 
 ## Voci Correlate
-- [[Linee_Guida_Reporting_AI_Generativa_CHART_ELEVATE|Sintesi: Linee Guida per il Reporting della GenAI in Medicina ed Economia Sanitaria]]
+- [[linee-guida-reporting-ai-generativa-chart-elevate|Sintesi: Linee Guida per il Reporting della GenAI in Medicina ed Economia Sanitaria]]
 - [[chart-reporting-guideline|CHART Reporting Guideline]]
 - [[elevate-genai-framework|ELEVATE-GenAI Framework]]
 - [[accuratezza-vs-fattualita-in-genai|Accuratezza vs. Fattualità nei Modelli di Intelligenza Artificiale]]

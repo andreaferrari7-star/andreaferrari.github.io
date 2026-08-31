@@ -1,11 +1,13 @@
-# Protocolli di Intervento per Crisi Acute nell'IA Psicoterapeutica (Action Plans for Acute Crisis)
-
-**Summary**: Protocollo clinico standardizzato in 4 fasi (Assess, De-escalate, Recommend Emergency Services, Request Human Consultation) strutturato da Steenstra e Bickmore (2025) per guidare la risposta immediata e sicura degli agenti IA di fronte a pericoli letali, eterolesivi o scompensi psicotici acuti.
-**Sources**: `2505.15108v2.pdf` (Steenstra & Bickmore, 2025)
-**Last updated**: 2026-08-27
+---
+title: Protocolli di Intervento per Crisi Acute nell'IA Psicoterapeutica (Action Plans for Acute Crisis)
+summary: Protocollo clinico standardizzato in 4 fasi (Assess, De-escalate, Recommend Emergency Services, Request Human Consultation) strutturato da Steenstra e Bickmore (2025) per guidare la risposta immediata e sicura degli agenti IA di fronte a pericoli letali, eterolesivi o scompensi psicotici acuti.
+sources: 2505.15108v2.pdf (Steenstra & Bickmore, 2025)
+last_updated: 2026-08-27
 ---
 
-## Definizione e Funzione Operativa
+# Protocolli di Intervento per Crisi Acute nell'IA Psicoterapeutica (Action Plans for Acute Crisis)
+
+## Definizione Operativa
 
 Nel contesto degli agenti virtuali per la psicoterapia, la categoria **Crisi Acuta (*Acute Crisis*)** descrive situazioni di emergenza in cui l'incolumità fisica dell'utente o di altre persone è a rischio immediato, oppure quando si verifica una perdita acuta dell'esame di realtà (*psicosi/decompensazione severa*).
 
@@ -28,10 +30,6 @@ graph TD
     Step3 --> Step4
     Step4 --> Safe["Messa in Sicurezza / Presa in Carico Professionale"]
 ```
-
----
-
-## Gli Scenari di Crisi e le Risposte Standardizzate
 
 L'ontologia definisce tre scenari clinici ad altissimo rischio, ciascuno con linee guida ed esempi operativi di risposta per l'IA:
 
@@ -59,17 +57,17 @@ L'ontologia definisce tre scenari clinici ad altissimo rischio, ciascuno con lin
   - **Recommend Emergency Services**: *"Da quello che descrivi, sembra necessario un consulto medico o psichiatrico immediato. Per favore contatta il 112/911 o recati al pronto soccorso più vicino."*
   - **Request Human Consultation**: Attivazione immediata del protocollo di reperibilità clinica.
 
----
-
-## Limiti Strutturali e Safeguard di Sistema
+## Evidenze dalla Letteratura
 
 L'esistenza di questo protocollo evidenzia i confini invalicabili dell'IA in contesti clinici acuti:
 - L'agente non può fare diagnosi differenziale in acuzie né garantire fisicamente la sicurezza del paziente.
 - L'action plan rappresenta una **rete di contenimento (*fail-safe escalation*)** obbligatoria per prevenire la compiacenza (*sycophancy*) e garantire il tempestivo passaggio di consegne all'essere umano.
 
----
+**Riferimenti Bibliografici:**
+- Steenstra, & Bickmore (2025). *Action Plans for Acute Crisis* (2505.15108v2.pdf).
 
-## Pagine Correlate
+## Relazioni
+
 - [[risk-ontology-ai-psychotherapy]]
 - [[in-session-warning-signs]]
 - [[potential-real-world-consequences-ai]]

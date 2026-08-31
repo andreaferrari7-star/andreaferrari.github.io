@@ -1,41 +1,33 @@
-﻿# PMV Framework (Personalization, Multimodality, Virtual Entity)
-
-**Summary**: Framework teorico-applicativo sviluppato da HTLab (Università Cattolica/Marconi) che struttura l'evoluzione dell'intervento psicologico digitale attraverso tre livelli progressivi: personalizzazione clinica, interazione multimodale ed entità virtuali incarnate in realtà virtuale.
-**Sources**: 04-20 Tavola rotonda_ Integrazione dell’IA in psicoterapia — governance, co‑ragionamento e modelli ibridi.txt
-**Last updated**: 2026-08-27
-
+---
+tags: [framework, psicologia-digitale, IA, VR, HTLab]
+created: 2026-08-31
+updated: 2026-08-31
 ---
 
-## Definizione e Razionale Teorico
+# PMV Framework (Personalization, Multimodality, Virtual Entity)
 
-Il **PMV Framework** (sviluppato da Chiara Rossi, Fabio Frisone e Giuseppe Riva presso l'HTLab) è un modello architetturale ed esperienziale concepito per superare i limiti dei chatbot testuali generalisti nel supporto psicologico e nella salute mentale. Il framework definisce una tassonomia a tre dimensioni per progettare interventi digitali efficaci, clinicamente fondati ed esperienzialmente trasformativi:
+## Definizione Operativa
 
-1. **Personalization (Personalizzazione Clinica e Metodologica)**
-   - Addestramento specifico del backend e configurazione dei modelli di [[large-language-models|IA]] su linee guida cliniche validate (es. protocolli CBT), evitando risposte generaliste superficiali.
-   - Modulazione dello stile comunicativo, della cordialità e della capacità di stimolare sia il pensiero convergente che il pensiero divergente, limitando l'ingaggio afinalistico o la finta empatia.
+Il **PMV Framework** è un modello teorico-applicativo, sviluppato dall'HTLab (Università Cattolica/Marconi), concepito per strutturare l'evoluzione dell'intervento psicologico digitale. Esso supera i limiti dei chatbot testuali generalisti attraverso tre livelli progressivi di complessità tecnologica e clinica:
 
-2. **Multimodality (Interazione Multimodale)**
-   - Transizione dalla sola interfaccia testuale a canali comunicativi integrati (voce sintetica modulata, prosodia, riconoscimento delle emozioni vocali e analisi del sentiment).
-   - Riduzione del dropout tipico delle interazioni basate su testo scritto, aumentando il senso di presenza e reciprocità comunicativa.
+1.  **Personalization (Personalizzazione Clinica)**: Addestramento dei modelli di IA su protocolli clinici validati (es. CBT) e modulazione dello stile comunicativo per stimolare il pensiero critico e clinico, riducendo l'empatia superficiale.
+2.  **Multimodality (Interazione Multimodale)**: Integrazione di canali di comunicazione vocale, analisi prosodica e riconoscimento del sentiment per aumentare la presenza e la reciprocità comunicativa, riducendo il tasso di dropout.
+3.  **Virtual Entity & Embodiment (Entità Virtuale)**: Utilizzo di avatar 3D in ambienti immersivi (VR) che permettono un elevato grado di *embodiment*, facilitando role-playing ed esposizione guidata.
 
-3. **Virtual Entity & Embodiment (Entità Virtuale e Presenza Incarnata)**
-   - Impiego di avatar tridimensionali interattivi all'interno di ambienti immersivi di Realtà Virtuale (VR).
-   - L'utente sperimenta un elevato grado di *embodiment* (percezione del proprio corpo e di quello del consulente virtuale nel setting virtuale), abilitando esperienze simulate di role-playing, esposizione guidata ed espressione emotiva profonda.
+Il framework si inserisce nei modelli di cura *stepped-care* per colmare il *treatment gap*, evolvendo da sistemi di self-help (testuali) a interventi immersivi (VR) supervisionati.
 
----
+## Evidenze dalla Letteratura
 
-## Integrazione nei Modelli Stepped-Care
+Il framework è discusso nel contesto della ricerca sull'integrazione dell'intelligenza artificiale in psicoterapia, focalizzandosi su governance, co-ragionamento e modelli ibridi. Le evidenze sottolineano l'importanza di passare da interazioni puramente testuali a esperienze multimodali e incarnate per garantire un impatto clinico significativo e una reale trasformazione esperienziale.
 
-Il framework PMV si inserisce nei modelli di cura a intensità progressiva (*stepped care*) per abbattere il *treatment gap*:
-- **Livello 1 (Self-Help / Screening)**: Chatbot testuale specialistico per psicoeducazione e monitoraggio dell'umore.
-- **Livello 2 (Supporto Assistito Multimodale)**: Interazione vocale e audiovisiva con avatar su desktop o smartphone per homework e regolazione emotiva.
-- **Livello 3 (Intervento Immersivo / Blended)**: Setting VR incarnato supervisionato dal clinico per protocolli complessi (ansia sociale, fobie, desensibilizzazione).
+**Riferimenti Bibliografici:**
 
----
+*   HTLab (Università Cattolica/Marconi). Tavola rotonda: Integrazione dell’IA in psicoterapia — governance, co-ragionamento e modelli ibridi.
 
-## Related pages
-- [[04-20_Tavola_rotonda_Integrazione_IA]]
-- [[human-in-the-reasoning]]
-- [[digital-therapeutic-alliance]]
-- [[hybrid-ai-research-workflows]]
-- [[anthropomorphism-in-ai]]
+## Relazioni
+
+*   [[04-20_Tavola_rotonda_Integrazione_IA]]
+*   [[human-in-the-reasoning]]
+*   [[digital-therapeutic-alliance]]
+*   [[hybrid-ai-research-workflows]]
+*   [[anthropomorphism-in-ai]]

@@ -67,7 +67,7 @@ flowchart TD
 ---
 
 ## Relazioni
-- [[AI-PoweredReal-TimeAdherenceMonitoringforRemotePatientCareinTelemedicine]]
+- [[ai-poweredreal-timeadherencemonitoringforremotepatientcareintelemedicine-1]]
 - [[wearable-sensor-fusion-adherence]]
 - [[proactive-surveillance-alert-fatigue]]
 - [[privacy-preserving-rpm-frameworks]]

@@ -17,5 +17,5 @@ source_papers: ["JML_1001.pdf"]
 - Tingelhoff, F., Brugger, M., & Leimeister, J. M. (2024). A guide for structured literature reviews in business research: The state-of-the-art and how to integrate generative artificial intelligence. *Journal of Information Technology*, 1–23. https://doi.org/10.1177/02683962241304105
 
 ## Relazioni
-- Vedi anche: [[JML_1001]], [[criteria-centric-genai-integration]], [[eight-step-genai-research-workflow]], [[tingelhoff-et-al-2024]], [[generative-ai-in-research]], [[hybrid-ai-research-workflows]]
+- Vedi anche: [[jml-1001]], [[criteria-centric-genai-integration]], [[eight-step-genai-research-workflow]], [[tingelhoff-et-al-2024]], [[generative-ai-in-research]], [[hybrid-ai-research-workflows]]
 

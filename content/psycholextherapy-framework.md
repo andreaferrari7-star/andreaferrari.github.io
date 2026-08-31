@@ -75,4 +75,4 @@ flowchart TD
 - Wiest, I. C., Ferber, D., Zhu, J., van Treeck, M., Meyer, S. K., Juglan, R., et al. (2024). Privacy-preserving large language models for structured medical information retrieval. *NPJ Digital Medicine*, 7, 257.
 
 ## Relazioni
-- Vedi anche: [[2510.03913v1]], [[therapeutic-reasoning-paths]], [[on-device-slm-mental-health]], [[persian-psychotherapy-benchmarks]], [[memory-augmented-therapeutic-dialogue]], [[crdial-framework]], [[cbt-dialogue-systems-and-tools]], [[simulated-therapeutic-alliance]], [[stepwise-cot]]
+- Vedi anche: [[2510-03913v1]], [[therapeutic-reasoning-paths]], [[on-device-slm-mental-health]], [[persian-psychotherapy-benchmarks]], [[memory-augmented-therapeutic-dialogue]], [[crdial-framework]], [[cbt-dialogue-systems-and-tools]], [[simulated-therapeutic-alliance]], [[stepwise-cot]]

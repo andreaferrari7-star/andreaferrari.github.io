@@ -258,8 +258,8 @@ Balan & Gumpel (2025) delineano una matrice operativa per l'integrazione gradual
 - [[clinical-readiness-gap-in-mh-chatbots]]: Divario tra fluenza linguistica computazionale ed evidenze cliniche rigorose negli agenti conversazionali.
 - [[algorithmic-tractability-in-psychotherapy]]: Tassonomia della trattabilità computazionale dei disturbi mentali (Orrù & Mannarini, 2026).
 - [[epistemological-paradox-in-clinical-ai]]: Il dilemma etico-metodologico della sperimentazione su popolazioni vulnerabili.
-- [[CPP-33-e70242]]: Systematic review PRISMA di Orrù & Mannarini (2026) su AI e NLP in psicologia clinica.
-- [[ai_v5i1e80348]]: Systematic review PRISMA 2020 di Cho et al. (2026) su metodologie ed etica dei chatbot LLM.
+- [[cpp-33-e70242-1]]: Systematic review PRISMA di Orrù & Mannarini (2026) su AI e NLP in psicologia clinica.
+- [[ai-v5i1e80348]]: Systematic review PRISMA 2020 di Cho et al. (2026) su metodologie ed etica dei chatbot LLM.
 - [[ai-v5-e84305]]: Systematic review di Kandeel et al. (2026) su governance legale, GDPR e AI Act in salute mentale.
 - [[modello-centauro-clinico]]: Paradigma di cooperazione Human-in-the-Loop tra terapeuta e intelligenza artificiale.
 - [[sycophantic-mirroring]]: Meccanismo di validazione compiacente e distorsione del reality testing nei modelli linguistici.

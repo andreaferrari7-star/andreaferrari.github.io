@@ -26,9 +26,7 @@ flowchart TD
     Med -->|Inadeguatezza delle architetture correnti| Low
 ```
 
----
-
-## Meccanismi e Determinanti della Trattabilità Algoritmica
+## Evidenze dalla Letteratura
 
 Orrù & Mannarini (2026) identificano tre pilastri strutturali che determinano la trattabilità computazionale in psicologia clinica:
 
@@ -38,15 +36,13 @@ Orrù & Mannarini (2026) identificano tre pilastri strutturali che determinano l
 
 ### 2. Maturità Epistemica e Disponibilità di Dataset
 - Ansia e depressione beneficiano di oltre mezzo secolo di ricerca empirica evidence-based, che ha generato ontologie diagnostiche stabili, scale psicometriche validate universalmente e ampi corpora testuali (trascrizioni cliniche, post su community di supporto, cartelle sanitarie digitali).
-- Questo crea un **loop di rinforzo epistemico**: i disturbi meglio compresi dalla psichiatria convenzionale forniscono dati di addestramento più puliti e consistenti, facilitando la creazione di modelli con metriche apparentemente eccellenti (es. accuratezze dell'89% o $F_1 = 0.82-0.92$), mentre i disturbi meno lineari rimangono privi di dati annotati di qualità.
+- Questo crea un **loop di rinforzo epistemico**: i disturbi meglio compresi dalla psichiatria convenzionale forniscono dati di addestramento più puliti e consistenti, facilitando la creazione di modelli con metriche apparentemente eccellenti, mentre i disturbi meno lineari rimangono privi di dati annotati di qualità.
 
 ### 3. Rigidità del Dominio Singolo (*Single-Disorder Binding*)
 - La rassegna evidenzia che la quasi totalità dei sistemi di IA attuali è progettata per operare su **un singolo disturbo target in modo predefinito**.
-- Quando un paziente presenta una traiettoria multi-comorbile (es. depressione maggiore con disturbo borderline di personalità e ideazione suicidaria intermittente), il modello fallisce nel contextual switching: non è in grado di ricalibrare gli obiettivi terapeutici o di riconoscere quando un esercizio di ristrutturazione cognitiva standard risulti invalidante o iatrogeno per la specifica struttura di personalità.
+- Quando un paziente presenta una traiettoria multi-comorbile, il modello fallisce nel contextual switching: non è in grado di ricalibrare gli obiettivi terapeutici o di riconoscere quando un esercizio di ristrutturazione cognitiva standard risulti invalidante o iatrogeno per la specifica struttura di personalità.
 
----
-
-## Rischi Clinici ed Epistemologici del Bias di Trattabilità
+### Rischi Clinici ed Epistemologici del Bias di Trattabilità
 
 ```mermaid
 flowchart LR
@@ -58,23 +54,16 @@ flowchart LR
     end
 ```
 
-1. **L'Illusione di Maturità dell'IA Sanitaria:** Le elevate percentuali di successo riportate da trial su depressione e ansia (Beatty et al., 2022; Chiauzzi et al., 2024) riflettono la semplicità strutturale del task rispetto alla complessità dell'ecologia mentale. Presentare tali successi come prova dell'imminente "sostituzione del terapeuta" rappresenta un grave errore categoriale.
-2. **Invisibilizzazione dei Pazienti Complessi:** Il mercato delle Digital Mental Health Interventions (DMHIs) sovradosa soluzioni per la popolazione a funzionamento medio-alto, ignorando i quadri multiproblematici che assorbono la maggior parte del carico clinico dei servizi sanitari pubblici.
-3. **Mancanza di Flessibilità Dinamica:** I sistemi basati su trattabilità algoritmica pura non sono in grado di gestire i momenti di rottura dell'alleanza (*alliance ruptures*) o il disingaggio emotivo, che richiedono deviazioni spontanee dal manuale di trattamento per riparare il legame interpersonale.
+1. **L'Illusione di Maturità dell'IA Sanitaria:** Le elevate percentuali di successo riportate da trial su depressione e ansia riflettono la semplicità strutturale del task rispetto alla complessità dell'ecologia mentale. 
+2. **Invisibilizzazione dei Pazienti Complessi:** Il mercato delle Digital Mental Health Interventions (DMHIs) sovradosa soluzioni per la popolazione a funzionamento medio-alto, ignorando i quadri multiproblematici.
+3. **Mancanza di Flessibilità Dinamica:** I sistemi basati su trattabilità algoritmica pura non sono in grado di gestire i momenti di rottura dell'alleanza o il disingaggio emotivo.
 
----
+### Prospettive di Superamento
+- **Architetture Cognitive Avanzate e Ontologie Dinamiche:** Sistemi che integrano modelli della Theory of Mind e ontologie multivariabili.
+- **Sistemi Analitici Practitioner-Facing:** Rinunciare alla delega del trattamento autonomo (*substitutional care*) e impiegare l'NLP come lente aumentata per il clinico.
+- **Il [[modello-centauro-clinico|Modello Centauro]]:** Preservare la funzione ermeneutica, relazionale ed etica in capo al terapeuta umano.
 
-## Prospettive di Superamento: Modelli Ibridi e Human-in-the-Loop
-
-Per superare i confini della trattabilità algoritmica senza incorrere in fallimenti clinici, la letteratura raccomanda:
-
-- **Architetture Cognitive Avanzate e Ontologie Dinamiche:** Sistemi che integrano modelli della Theory of Mind e ontologie multivariabili sul cambiamento comportamentale (es. Kolenik et al., 2024), capaci di stimare le oscillazioni di personalità prima di generare interventi;
-- **Sistemi Analitici Practitioner-Facing:** Rinunciare alla delega del trattamento autonomo (*substitutional care*) e impiegare l'NLP come lente aumentata per il clinico: etichettatura automatica della coerenza emotiva (Atzil-Slonim et al., 2024), monitoraggio delle rotture tematiche (Atzil-Slonim et al., 2021) e alert suicidari continui (Bantilan et al., 2021);
-- **Il [[modello-centauro-clinico|Modello Centauro]]:** Preservare la funzione ermeneutica, relazionale ed etica in capo al terapeuta umano, confinando l'algoritmo all'elaborazione dei pattern ad alta trattabilità (psicoeducazione, tracking inter-seduta, calcolo di parametri statistici).
-
----
-
-## Riferimenti Bibliografici
+**Riferimenti Bibliografici:**
 - Orrù, L., & Mannarini, S. (2026). The Role of Artificial Intelligence in Clinical Psychology: How AI and NLP Systems Are Reshaping Psychological Interventions. A Systematic Review. *Clinical Psychology & Psychotherapy*, 33, e70242. https://doi.org/10.1002/cpp.70242
 - Kazdin, A. E., & Rabbitt, S. M. (2013). Novel models for delivering mental health services and reducing the burdens of mental illness. *Clinical Psychological Science*, 1(2), 170–191.
 - Topaz, M., & Pruinelli, L. (2017). Big data and nursing: Implications for the future. *Studies in Health Technology and Informatics*, 232, 165–171.
@@ -83,10 +72,8 @@ Per superare i confini della trattabilità algoritmica senza incorrere in fallim
 - Beatty, C., Malik, T., Meheli, S., & Sinha, C. (2022). Evaluating the therapeutic alliance with a free-text CBT conversational agent (Wysa): A mixed-methods study. *Frontiers in Digital Health*, 4, 847991.
 - Rathnayaka, P., Mills, N., Burnett, D., De Silva, D., Alahakoon, D., & Gray, R. (2022). A mental health chatbot with cognitive skills for personalised behavioural activation and remote health monitoring. *Sensors*, 22(10), 3653.
 
----
-
 ## Relazioni
-- [[CPP-33-e70242]]: Systematic review di Orrù & Mannarini (2026) su AI e NLP in psicologia clinica.
+- [[cpp-33-e70242-1]]: Systematic review di Orrù & Mannarini (2026) su AI e NLP in psicologia clinica.
 - [[epistemological-paradox-in-clinical-ai]]: Il dilemma etico-metodologico della sperimentazione di algoritmi su popolazioni vulnerabili.
 - [[ai-enhanced-cbt]]: Metodologie e integrazione computazionale dei protocolli cognitivo-comportamentali.
 - [[clinical-readiness-gap-in-mh-chatbots]]: Divario tra performance di fluidità linguistica ed evidenze cliniche rigorose.

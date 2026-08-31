@@ -142,7 +142,7 @@ flowchart TD
 ---
 
 ## Relazioni
-- [[mental_v12i1e67802]]: Systematic review e meta-analisi a 3 livelli di Maran et al. (2025) su Automatic Speech Analysis e depressione.
+- [[mental-v12i1e67802]]: Systematic review e meta-analisi a 3 livelli di Maran et al. (2025) su Automatic Speech Analysis e depressione.
 - [[vocal-biomarkers-in-depression]]: Tassonomia completa dei biomarcatori vocali e delle feature acustico-computazionali.
 - [[algorithmic-tractability-in-psychotherapy]]: Analisi del bias verso costrutti manualizzati e strutturati rispetto alla complessità psicopatologica.
 - [[epistemological-paradox-in-clinical-ai]]: Il dilemma metodologico tra sicurezza della validazione e testing su popolazioni vulnerabili.

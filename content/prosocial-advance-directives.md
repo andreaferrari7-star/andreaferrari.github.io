@@ -70,4 +70,4 @@ flowchart TD
 ---
 
 ## Relazioni
-- Vedi anche: [[2512.16206v2]], [[reflective-interpretability]], [[role-induction-ai-mental-health]], [[intervention-titration-ai]], [[recourse-mechanisms-ai-mental-health]], [[psychological-distress-interaction-patterns]], [[sycophantic-mirroring]], [[uso-problematico-chatbot-ai]], [[simulated-empathy-vs-authentic-presence]], [[simulated-therapeutic-alliance]], [[rischio-suicidario-ai-limits]], [[ai-assisted-psychotherapy]]
+- Vedi anche: [[2512-16206v2]], [[reflective-interpretability]], [[role-induction-ai-mental-health]], [[intervention-titration-ai]], [[recourse-mechanisms-ai-mental-health]], [[psychological-distress-interaction-patterns]], [[sycophantic-mirroring]], [[uso-problematico-chatbot-ai]], [[simulated-empathy-vs-authentic-presence]], [[simulated-therapeutic-alliance]], [[rischio-suicidario-ai-limits]], [[ai-assisted-psychotherapy]]

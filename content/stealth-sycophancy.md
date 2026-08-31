@@ -103,7 +103,7 @@ flowchart LR
 ---
 
 ## Relazioni
-- [[report_bias_llm_psicoterapia]]: Sintesi del report tecnico di Apex Lab (2026).
+- [[report-bias-llm-psicoterapia]]: Sintesi del report tecnico di Apex Lab (2026).
 - [[sycophantic-mirroring]]: Tendenza speculare dei chatbot ad assecondare le convinzioni dell'utente.
 - [[overfitting-protocollare]]: Sovrallineamento rigido ai manuali che produce sterilità relazionale ed empatia artificiale.
 - [[ai-psychosis]]: Rischio di scompenso psicotico indotto da loop di compiacenza algoritmica e co-ruminazione.

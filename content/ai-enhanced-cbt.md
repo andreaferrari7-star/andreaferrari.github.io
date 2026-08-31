@@ -20,4 +20,4 @@ source_papers: ["2407.19422v1.pdf"]
 - Jiang, M., Zhao, Q., Li, J., Wang, F., He, T., Cheng, X., Yang, B. X., Ho, G. W. K., & Fu, G. (2024). A Generic Review of Integrating Artificial Intelligence in Cognitive Behavioral Therapy. *arXiv preprint arXiv:2407.19422v1*, 1–48.
 
 ## Relazioni
-- Vedi anche: [[2407.19422v1]], [[cbt-dialogue-systems-and-tools]], [[active-ai-therapeutic-agent]], [[clinical-fidelity-assessment]], [[simulazione-pazienti-ai]], [[modello-centauro-clinico]], [[three-layer-governance-framework]]
+- Vedi anche: [[2407-19422v1]], [[cbt-dialogue-systems-and-tools]], [[active-ai-therapeutic-agent]], [[clinical-fidelity-assessment]], [[simulazione-pazienti-ai]], [[modello-centauro-clinico]], [[three-layer-governance-framework]]

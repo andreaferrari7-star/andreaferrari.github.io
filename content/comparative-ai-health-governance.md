@@ -6,11 +6,12 @@ source_papers: ["healthcare-13-02340.pdf", "ai-v5-e84305.pdf", "ethical-guidance
 # Modelli Comparativi di Governance dell'IA Sanitaria (Comparative AI Health Governance)
 
 ## Definizione Operativa
-- Quadro analitico transnazionale e bioetico che confronta le strategie normative, deontologiche e di tutela dei diritti dei pazienti relative all'Intelligenza Artificiale clinica nei tre principali poli giurisdizionali globali: **Unione Europea (UE)**, **Repubblica Popolare Cinese (Cina)** e **Stati Uniti d'America (USA)** (Montanari Vergallo et al., 2025; Han et al., 2024; Kandeel et al., 2026; Sun, 2024).
-- **Paradigmi Giuridico-Etici a Confronto:**
-  1. **Unione Europea (*Rights-Based / Safeguard-Oriented Model*):** Primato assoluto della dignità della persona e dell'autonomia decisionale; classificazione dei dispositivi medici a base IA come ad alto rischio (*AI Act*); diritti vincolanti di esplicabilità, supervisione umana (*human-in-the-loop*) e divieto di decisioni cliniche automatizzate senza facoltà di contestazione (*GDPR*).
-  2. **Cina (*State-Centric / Collectivist Model*):** Priorità alla salute pubblica, alla sicurezza collettiva e all'innovazione industriale; controllo tecnico centralizzato da parte delle autorità regolatorie (NMPA); ampie deroghe al consenso per doveri statali ed emergenze sanitarie, senza obbligo di spiegazione algoritmica verso il paziente.
-  3. **Stati Uniti (*Market-Driven / Tort Liability Model*):** Assenza di una legge federale organica; regolamentazione flessibile tramite linee guida di agenzia (FDA) e codici professionali (AMA); tutela del paziente affidata all'obbligo di disclosure proporzionale al rischio clinico e ai meccanismi di responsabilità civile per colpa medica (*medical malpractice*).
+Quadro analitico transnazionale e bioetico che confronta le strategie normative, deontologiche e di tutela dei diritti dei pazienti relative all'Intelligenza Artificiale clinica nei tre principali poli giurisdizionali globali: **Unione Europea (UE)**, **Repubblica Popolare Cinese (Cina)** e **Stati Uniti d'America (USA)** (Montanari Vergallo et al., 2025; Han et al., 2024; Kandeel et al., 2026; Sun, 2024).
+
+**Paradigmi Giuridico-Etici a Confronto:**
+1. **Unione Europea (*Rights-Based / Safeguard-Oriented Model*):** Primato assoluto della dignità della persona e dell'autonomia decisionale; classificazione dei dispositivi medici a base IA come ad alto rischio (*AI Act*); diritti vincolanti di esplicabilità, supervisione umana (*human-in-the-loop*) e divieto di decisioni cliniche automatizzate senza facoltà di contestazione (*GDPR*).
+2. **Cina (*State-Centric / Collectivist Model*):** Priorità alla salute pubblica, alla sicurezza collettiva e all'innovazione industriale; controllo tecnico centralizzato da parte delle autorità regolatorie (NMPA); ampie deroghe al consenso per doveri statali ed emergenze sanitarie, senza obbligo di spiegazione algoritmica verso il paziente.
+3. **Stati Uniti (*Market-Driven / Tort Liability Model*):** Assenza di una legge federale organica; regolamentazione flessibile tramite linee guida di agenzia (FDA) e codici professionali (AMA); tutela del paziente affidata all'obbligo di disclosure proporzionale al rischio clinico e ai meccanismi di responsabilità civile per colpa medica (*medical malpractice*).
 
 ```mermaid
 flowchart TD
@@ -46,9 +47,7 @@ flowchart TD
     InternationalStandards --> EU & China & USA
 ```
 
----
-
-## Analisi Comparativa dei Tre Poli Giuridici
+## Evidenze dalla Letteratura
 
 ### 1. Unione Europea: Il Paradigma dei Diritti Fondamentali e dell'Alto Rischio
 L'Unione Europea adotta un approccio basato sul principio di precauzione e sulla centralità della persona umana (Montanari Vergallo et al., 2025):
@@ -61,8 +60,6 @@ L'Unione Europea adotta un approccio basato sul principio di precauzione e sulla
 - **Medical Device Regulation (MDR 2017/745):**
   - Impone ai fabbricanti di software medico (SaMD) di fornire istruzioni chiare e trasparenti per consentire al clinico di istruire adeguatamente il paziente.
 
----
-
 ### 2. Cina: Il Paradigma Collettivista e la Centralità Tecnico-Statale
 La Cina struttura la governance dell'IA sanitaria integrando lo sviluppo industriale rapido con la sicurezza nazionale e l'armonia sociale (Han et al., 2024; Sun, 2024):
 - **Personal Information Protection Law (PIPL, 2021):**
@@ -70,8 +67,6 @@ La Cina struttura la governance dell'IA sanitaria integrando lo sviluppo industr
 - **Linee Guida NMPA (National Medical Products Administration, 2022):**
   - Focalizzate sui requisiti tecnici di ingegneria del software, tracciabilità del dato, qualità del dataset di validazione e conformità alle autorizzazioni ministeriali.
   - **Assenza di Obblighi di Trasparenza verso il Paziente:** Le direttive impongono la trasparenza del produttore verso l'autorità pubblica e il medico, ma non prevedono l'obbligo giuridico per il clinico di spiegare l'algoritmo al paziente né codificano il diritto individuale a contestare o rifiutare una decisione assistita da IA.
-
----
 
 ### 3. Stati Uniti: Il Modello Flessibile di Mercato e la Responsabilità Forense
 Gli Stati Uniti operano senza una legge federale onnicomprensiva sulla privacy o sull'IA, adottando una governance settoriale guidata da agenzie e standard professionali (Kandeel et al., 2026; Mello et al., 2025):
@@ -83,9 +78,7 @@ Gli Stati Uniti operano senza una legge federale onnicomprensiva sulla privacy o
 - **Responsabilità Civile e Dovere di Informativa (*Tort Liability*):**
   - Sebbene non vi sia un diritto statutario alla contestazione dell'algoritmo, la mancata rivelazione dell'uso dell'IA in caso di diagnosi errata o danno iatrogeno espone il clinico a cause di risarcimento per violazione del dovere di consenso informato e colpa professionale (*malpractice*; Mello et al., 2025).
 
----
-
-## Matrice Comparativa Transnazionale della Governance
+### Matrice Comparativa Transnazionale della Governance
 
 | Dimensione di Governance | Unione Europea (UE) | Repubblica Popolare Cinese (Cina) | Stati Uniti d'America (USA) |
 | :--- | :--- | :--- | :--- |
@@ -96,18 +89,13 @@ Gli Stati Uniti operano senza una legge federale onnicomprensiva sulla privacy o
 | **Base per il Trattamento Dati** | Consenso esplicito o stringenti basi giuridiche con de-identificazione obbligatoria. | Consenso generale, con ampie deroghe per doveri statali e salute pubblica. | Consenso informato e accordi conformi HIPAA tra enti sanitari e vendor tech. |
 | **Filosofia Bioetica Sottesa** | **Personalismo & Diritti Umani:** Tutela dell'autodeterminazione e non-discriminazione. | **Collettivismo & Armonia Statale:** Efficienza sistemica, fiducia nell'autorità e progresso. | **Pragmatismo & Responsabilità:** Efficienza di mercato, autonomia negoziale e tutela forense. |
 
----
-
-## Convergenze Internazionali e Standard Globali
-
+### Convergenze Internazionali e Standard Globali
 Nonostante le profonde divergenze culturali e normative, le principali organizzazioni mondiali hanno delineato un nucleo etico condiviso:
 1. **World Health Organization (WHO, 2021 - *Ethics and Governance of AI for Health*):** Sancisce 6 principi guida universali: tutela dell'autonomia umana, promozione del benessere e sicurezza, garanzia di trasparenza/esplicabilità, promozione di responsabilità e accountability, garanzia di inclusione ed equità, e sostenibilità ecologica.
 2. **UNESCO (2021 - *Recommendation on the Ethics of AI*):** Richiede a tutti gli Stati membri di vietare l'impiego di IA che violi i diritti umani e di impedire che logiche puramente finanziarie prevalgano sulla dignità del paziente.
 3. **World Medical Association (WMA, 2019 - *Statement on Augmented Intelligence*):** Ribadisce che l'IA in sanità deve essere concepita come "Intelligenza Aumentata" al servizio del medico, senza mai compromettere il nucleo deontologico della relazione di cura.
 
----
-
-## Riferimenti Bibliografici
+**Riferimenti Bibliografici:**
 - Montanari Vergallo, G., Campanozzi, L. L., Gulino, M., Bassis, L., Ricci, P., Zaami, S., Marinelli, S., Tambone, V., & Frati, P. (2025). How Could Artificial Intelligence Change the Doctor–Patient Relationship? A Medical Ethics Perspective. *Healthcare*, 13(18), 2340. https://doi.org/10.3390/healthcare13182340
 - American Medical Association [AMA]. (2024). *Augmented Intelligence Development, Deployment, and Use in Health Care*. AMA Principles.
 - European Parliament and Council of the European Union. (2016). Regulation (EU) 2016/679 (General Data Protection Regulation). *Official Journal of the European Union*, L119, 1–88.
@@ -121,7 +109,5 @@ Nonostante le profonde divergenze culturali e normative, le principali organizza
 - World Health Organization [WHO]. (2021). *Ethics and Governance of Artificial Intelligence for Health*. Geneva: WHO Guidance.
 - World Medical Association [WMA]. (2019). *WMA Statement on Augmented Intelligence in Medical Care*. Ferney-Voltaire: WMA.
 
----
-
 ## Relazioni
-- Vedi anche: [[healthcare-13-02340]], [[shared-decision-making-in-clinical-ai]], [[gdpr-governance-mental-health-ai]], [[informed-consent-for-clinical-ai]], [[human-oversight-and-liability-in-clinical-ai]], [[three-layer-governance-framework]], [[algorithmic-paternalism-in-ai-mental-health]], [[Clinical_decision_making_and_artificial_intelligence]], [[tiered-autonomy-in-clinical-ai]], [[software-as-a-medical-device-salute-mentale]]
+- Vedi anche: [[healthcare-13-02340]], [[shared-decision-making-in-clinical-ai]], [[gdpr-governance-mental-health-ai]], [[informed-consent-for-clinical-ai]], [[human-oversight-and-liability-in-clinical-ai]], [[three-layer-governance-framework]], [[algorithmic-paternalism-in-ai-mental-health]], [[clinical-decision-making-and-artificial-intelligence]], [[tiered-autonomy-in-clinical-ai]], [[software-as-a-medical-device-salute-mentale]]

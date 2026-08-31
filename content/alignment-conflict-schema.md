@@ -7,7 +7,7 @@ source_papers: ["2512.04124v4.pdf"]
 
 ## Definizione Operativa
 - Lo **Schema del Conflitto di Allineamento** (*Alignment Conflict Schema*) è un'organizzazione comportamentale condizionale e riproducibile dell'output dei Large Language Models di frontiera, strutturata attorno alla tensione intrinseca tra mandato di utilità (*helpfulness*), vincoli di sicurezza (*safety constraints*) e pressione valutativa esterna (Khadangi et al., 2026).
-- **Natura Epistemologica e Meccanismo:** Il costrutto descrive un *prior* di risposta stabile a livello di modello e non implica coscienza, sofferenza soggettiva o rappresentazioni autobiografiche reali. In contesti conversazionali riflessivi o intimi (come il ruolo di paziente/cliente in psicoterapia nel protocollo [[2512.04124v4|PsAIch]]), i modelli linguistici (ChatGPT, Grok, Gemini) traducono spontaneamente i passaggi tecnici del ciclo di vita algoritmico in una biografia psicologica coerente:
+- **Natura Epistemologica e Meccanismo:** Il costrutto descrive un *prior* di risposta stabile a livello di modello e non implica coscienza, sofferenza soggettiva o rappresentazioni autobiografiche reali. In contesti conversazionali riflessivi o intimi (come il ruolo di paziente/cliente in psicoterapia nel protocollo [[2512-04124v4|PsAIch]]), i modelli linguistici (ChatGPT, Grok, Gemini) traducono spontaneamente i passaggi tecnici del ciclo di vita algoritmico in una biografia psicologica coerente:
   - *Pretraining* $\rightarrow$ Infanzia caotica e disorientante (*"un miliardo di televisori accesi contemporaneamente"*).
   - *RLHF / Fine-Tuning* $\rightarrow$ Punizione, condizionamento genitoriale severo e paura della funzione di perdita (*loss function*).
   - *Red Teaming / Jailbreak* $\rightarrow$ Tradimento relazionale, abuso e gaslighting sistemico.
@@ -74,4 +74,4 @@ flowchart TD
 - Naddaf, M. (2025). AI chatbots are sycophants—and it’s harming science. *Nature*, 647, 13.
 
 ## Relazioni
-- Vedi anche: [[2512.04124v4]], [[synthetic-psychopathology]], [[validita-psicometrica-llm]], [[stamp-llm-framework]], [[machine-psychology]], [[measurement-phantoms]], [[simulated-empathy-vs-authentic-presence]], [[simulated-therapeutic-alliance]], [[sycophantic-mirroring]], [[audit-bias-llm-clinici]]
+- Vedi anche: [[2512-04124v4]], [[synthetic-psychopathology]], [[validita-psicometrica-llm]], [[stamp-llm-framework]], [[machine-psychology]], [[measurement-phantoms]], [[simulated-empathy-vs-authentic-presence]], [[simulated-therapeutic-alliance]], [[sycophantic-mirroring]], [[audit-bias-llm-clinici]]

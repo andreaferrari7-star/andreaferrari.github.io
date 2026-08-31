@@ -57,4 +57,4 @@ flowchart TD
 ---
 
 ## Relazioni
-- Vedi anche: [[Normativa_LLM_Psicologia_in_Italia]], [[quattro-condizioni-liceita-ia-psicologia]], [[human-oversight-and-liability-in-clinical-ai]], [[over-deference-in-llm-supervision]], [[clinical-decision-making-and-artificial-intelligence]], [[accuratezza-vs-fattualita-in-genai]], [[single-correct-answer-fallacy-in-clinical-ai]], [[Guida-Pratica-AI-OPPV]]
+- Vedi anche: [[normativa-llm-psicologia-in-italia]], [[quattro-condizioni-liceita-ia-psicologia]], [[human-oversight-and-liability-in-clinical-ai]], [[over-deference-in-llm-supervision]], [[clinical-decision-making-and-artificial-intelligence]], [[accuratezza-vs-fattualita-in-genai]], [[single-correct-answer-fallacy-in-clinical-ai]], [[guida-pratica-ai-oppv-1]]

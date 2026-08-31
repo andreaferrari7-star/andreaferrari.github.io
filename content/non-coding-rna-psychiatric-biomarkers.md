@@ -85,4 +85,4 @@ Oltre il 40% dei lncRNA è espresso selettivamente nel cervello umano, fungendo 
 ---
 
 ## Relazioni
-- Vedi anche: [[41398_2025_Article_3497]], [[multi-omics-ai-psychiatry]], [[ai-assisted-psychotherapy]], [[treatment-outcome-and-relapse-prediction]], [[software-as-a-medical-device-salute-mentale]], [[11920_2026_Article_1690]]
+- Vedi anche: [[41398-2025-article-3497]], [[multi-omics-ai-psychiatry]], [[ai-assisted-psychotherapy]], [[treatment-outcome-and-relapse-prediction]], [[software-as-a-medical-device-salute-mentale]], [[11920-2026-article-1690]]

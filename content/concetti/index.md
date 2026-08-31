@@ -1,4 +1,0 @@
----
-title: Concetti
----
-# Indice Concetti

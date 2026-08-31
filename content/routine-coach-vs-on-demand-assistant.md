@@ -115,7 +115,7 @@ La superiorità o appropriatezza dell'uno o dell'altro ruolo dipende dal costrut
 
 ## Collegamenti Strutturali con la Knowledge Base
 
-- **Origine e Dati Empirici:** Estratto da [[jmir_v28i1e79677|Scoping Review JMIR 2026 (Fu et al.)]].
+- **Origine e Dati Empirici:** Estratto da [[jmir-v28i1e79677|Scoping Review JMIR 2026 (Fu et al.)]].
 - **Framework di Misurazione:** Si collega a [[five-domain-chatbot-validation-framework|Framework di Validazione a Cinque Domini per Chatbot di Salute Comportamentale]].
 - **Dicotomie Funzionali Complementari:** Confronta con la distinzione orientata ai fattori emotivi vs compiti in [[social-oriented-vs-task-oriented-chatbots|Social-Oriented vs Task-Oriented Chatbots]].
 - **Architetture Tecniche di Risposta:** Si collega a [[retrieval-vs-generative-clinical-chatbots|Retrieval vs Generative Clinical Chatbots]].

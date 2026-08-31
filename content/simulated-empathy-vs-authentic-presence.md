@@ -17,4 +17,4 @@ source_papers: ["10.1177_00469580261438322.pdf"]
 - Erdemir, N., & Sumbas, E. (2026). Integrating Artificial Intelligence into Psychological Counseling: A Narrative Review and Governance Framework. *INQUIRY: The Journal of Health Care Organization, Provision, and Financing*, 63, 1–16. https://doi.org/10.1177/00469580261438322
 
 ## Relazioni
-- Vedi anche: [[10.1177_00469580261438322]], [[three-layer-governance-framework]], [[digital-therapeutic-alliance]], [[anthropomorphism-in-ai]]
+- Vedi anche: [[10-1177-00469580261438322]], [[three-layer-governance-framework]], [[digital-therapeutic-alliance]], [[anthropomorphism-in-ai]]

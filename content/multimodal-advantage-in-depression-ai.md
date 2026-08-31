@@ -74,10 +74,10 @@ flowchart TD
 ---
 
 ## Pagine e Concetti Correlati
-- [[s41746-026-02886-x_reference|The Effectiveness of CBT-Based NLP-Enabled AI Conversational Agents (Hang et al., 2026)]]
+- [[s41746-026-02886-x-reference|The Effectiveness of CBT-Based NLP-Enabled AI Conversational Agents (Hang et al., 2026)]]
 - [[psychoeducation-dilution-effect-in-ai|Effetto Diluizione della Psicoeducazione negli Agenti Conversazionali]]
 - [[exposure-therapy-deficit-in-mental-health-ai|Deficit di Esposizione Comportamentale nell'IA per la Salute Mentale]]
 - [[digital-therapeutic-alliance|Alleanza Terapeutica Digitale]]
 - [[retrieval-vs-generative-clinical-chatbots|Sistemi di Recupero vs Architetture Generative in Sanità Mentale]]
 - [[subclinical-depression-window-of-opportunity|Finestra di Opportunità Subclinica nell'IA]]
-- [[jmir_v27i1e69639|Efficacia degli Agenti Conversazionali AI per la Salute Mentale Giovanile (Feng et al., 2025)]]
+- [[jmir-v27i1e69639|Efficacia degli Agenti Conversazionali AI per la Salute Mentale Giovanile (Feng et al., 2025)]]

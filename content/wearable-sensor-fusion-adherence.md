@@ -83,7 +83,7 @@ flowchart TD
 ---
 
 ## Relazioni
-- [[AI-PoweredReal-TimeAdherenceMonitoringforRemotePatientCareinTelemedicine]]
+- [[ai-poweredreal-timeadherencemonitoringforremotepatientcareintelemedicine-1]]
 - [[video-observed-therapy-ai]]
 - [[proactive-surveillance-alert-fatigue]]
 - [[privacy-preserving-rpm-frameworks]]

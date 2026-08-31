@@ -77,4 +77,4 @@ flowchart LR
 ---
 
 ## Relazioni
-- Vedi anche: [[2603.27146v3]], [[future-alignment-score]], [[stepwise-cot]], [[hypothesis-generation]], [[hybrid-ai-research-workflows]], [[structured-literature-reviews]], [[wang-et-al-2026]]
+- Vedi anche: [[2603-27146v3]], [[future-alignment-score]], [[stepwise-cot]], [[hypothesis-generation]], [[hybrid-ai-research-workflows]], [[structured-literature-reviews]], [[wang-et-al-2026]]

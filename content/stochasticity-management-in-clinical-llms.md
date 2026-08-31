@@ -8,7 +8,7 @@ source_papers: ["MI-CLEAR-LLM_2025.pdf"]
 ## Definizione Operativa
 - La **Gestione della Stocasticità (*Stochasticity Management*)** nell'intelligenza artificiale clinica definisce l'insieme di strategie metodologiche, iperparametriche e statistiche volte a controllare, quantificare e sintetizzare la variabilità non deterministica intrinseca alle risposte generate dai Large Language Models (LLM) e Large Multimodal Models (LMM).
 - **Meccanismo Probabilistico Fondamentale:** A differenza degli algoritmi di intelligenza artificiale convenzionali (modelli discriminativi, alberi decisionali, reti neurali convoluzionali deterministiche) che restituiscono un output identico per il medesimo input, i modelli basati su architettura Transformer autoregressiva generano sequenze testuali campionando token successivi da una distribuzione di probabilità calcolata tramite la funzione *softmax*.
-- **Rilevanza per la Ricerca Clinica:** In medicina e radiologia, la stocasticità può indurre il modello a formulare diagnosi differenziali discordanti o ad assegnare categorie nosografiche eterogenee (es. LI-RADS 3 vs LI-RADS 4) per la medesima vignetta clinica. Come formalizzato dalle linee guida **[[MI-CLEAR-LLM_2025|MI-CLEAR-LLM]]** (Park et al., 2025) e [[chart-reporting-guideline|CHART]], una rigorosa rendicontazione dei parametri di casualità e dei protocolli di aggregazione delle risposte è indispensabile per validare l'affidabilità scientifica e la sicurezza regolatoria dei modelli sanitari.
+- **Rilevanza per la Ricerca Clinica:** In medicina e radiologia, la stocasticità può indurre il modello a formulare diagnosi differenziali discordanti o ad assegnare categorie nosografiche eterogenee (es. LI-RADS 3 vs LI-RADS 4) per la medesima vignetta clinica. Come formalizzato dalle linee guida **[[mi-clear-llm-2025|MI-CLEAR-LLM]]** (Park et al., 2025) e [[chart-reporting-guideline|CHART]], una rigorosa rendicontazione dei parametri di casualità e dei protocolli di aggregazione delle risposte è indispensabile per validare l'affidabilità scientifica e la sicurezza regolatoria dei modelli sanitari.
 
 ```mermaid
 flowchart TD
@@ -115,13 +115,13 @@ Ogni studio clinico su LLM deve esplicitare nella sezione Metodi:
 
 ## Related pages
 - [[mi-clear-llm-guideline]]
-- [[MI-CLEAR-LLM_2025]]
+- [[mi-clear-llm-2025]]
 - [[chart-reporting-guideline]]
-- [[CHART2025]]
+- [[chart2025-1]]
 - [[elevate-genai-framework]]
-- [[ELEVATE-GenAI2025]]
+- [[elevate-genai2025-1]]
 - [[gamer-reporting-guideline]]
-- [[GAMER2025]]
+- [[gamer2025-1]]
 - [[clinical-fidelity-assessment]]
 - [[single-task-zero-shot-evaluation-trap]]
 - [[power-safety-paradox]]

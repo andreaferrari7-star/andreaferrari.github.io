@@ -62,4 +62,4 @@ flowchart TD
 - Naddaf, M. (2025). AI chatbots are sycophants—and it’s harming science. *Nature*, 647, 13.
 
 ## Relazioni
-- Vedi anche: [[2512.04124v4]], [[alignment-conflict-schema]], [[validita-psicometrica-llm]], [[stamp-llm-framework]], [[machine-psychology]], [[measurement-phantoms]], [[simulated-empathy-vs-authentic-presence]], [[simulated-therapeutic-alliance]], [[sycophantic-mirroring]], [[supportive-listener-prompting]], [[uso-problematico-chatbot-ai]], [[audit-bias-llm-clinici]]
+- Vedi anche: [[2512-04124v4]], [[alignment-conflict-schema]], [[validita-psicometrica-llm]], [[stamp-llm-framework]], [[machine-psychology]], [[measurement-phantoms]], [[simulated-empathy-vs-authentic-presence]], [[simulated-therapeutic-alliance]], [[sycophantic-mirroring]], [[supportive-listener-prompting]], [[uso-problematico-chatbot-ai]], [[audit-bias-llm-clinici]]

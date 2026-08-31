@@ -37,4 +37,4 @@ flowchart TD
 - Kaplan, R. M., & Saccuzzo, D. P. (2009). *Psychological Testing: Principles, Applications, and Issues* (7th ed.). Wadsworth Cengage Learning.
 
 ## Relazioni
-- Vedi anche: [[2509.13324v3]], [[validita-psicometrica-llm]], [[misurazione-bias-razziale-llm]], [[machine-psychology]], [[audit-bias-llm-clinici]], [[measurement-phantoms]], [[pmv-framework]], [[clinical-fidelity-assessment]]
+- Vedi anche: [[2509-13324v3]], [[validita-psicometrica-llm]], [[misurazione-bias-razziale-llm]], [[machine-psychology]], [[audit-bias-llm-clinici]], [[measurement-phantoms]], [[pmv-framework]], [[clinical-fidelity-assessment]]

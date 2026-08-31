@@ -69,4 +69,4 @@ flowchart LR
 - Kwon, W., et al. (2023). Efficient memory management for large language model serving with PagedAttention. In *Proceedings of the 29th ACM SOSP*, pages 611–626.
 
 ## Relazioni
-- Vedi anche: [[2510.25384v1]], [[sqpsych-framework]], [[conversione-questionari-dialoghi-clinici]], [[clinical-ai-simulation]], [[simulazione-pazienti-ai]], [[dsm5agentflow]], [[audit-bias-llm-clinici]], [[software-as-a-medical-device-salute-mentale]], [[ai-research-ethics]], [[modello-centauro-clinico]]
+- Vedi anche: [[2510-25384v1]], [[sqpsych-framework]], [[conversione-questionari-dialoghi-clinici]], [[clinical-ai-simulation]], [[simulazione-pazienti-ai]], [[dsm5agentflow]], [[audit-bias-llm-clinici]], [[software-as-a-medical-device-salute-mentale]], [[ai-research-ethics]], [[modello-centauro-clinico]]

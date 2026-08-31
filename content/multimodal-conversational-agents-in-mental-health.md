@@ -159,7 +159,7 @@ flowchart TD
 ---
 
 ## Pagine Correlate
-- [[pone.0332207|PLoS ONE Meta-Analysis (Humayun et al., 2025)]]: Sintesi meta-analitica su 6 RCT e gradienti di effect size.
+- [[pone-0332207|PLoS ONE Meta-Analysis (Humayun et al., 2025)]]: Sintesi meta-analitica su 6 RCT e gradienti di effect size.
 - [[conversational-ai-vs-bibliotherapy|Conversational AI vs Bibliotherapy]]: Dinamiche dell'alleanza di lavoro e reciprocità dialogica rispetto a testi statici.
 - [[digital-therapeutic-alliance|Digital Therapeutic Alliance]]: Metriche e costrutti per misurare l'alleanza uomo-IA.
 - [[vocal-biomarkers-in-depression|Vocal Biomarkers in Depression]]: Analisi acustica e prosodica come marker clinico predittivo.

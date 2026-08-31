@@ -104,4 +104,4 @@ graph TD
 ---
 
 ## Relazioni
-- Vedi anche: [[mental_v12i1e70610]], [[genai4mh-framework]], [[elevate-genai-framework]], [[chart-reporting-guideline]], [[gamer-reporting-guideline]], [[single-task-zero-shot-evaluation-trap]], [[clinician-user-evaluation-discrepancy]], [[five-domain-chatbot-validation-framework]], [[traffic-light-quality-appraisal-clinical-ai]], [[gai-research-integrity-and-verification]]
+- Vedi anche: [[mental-v12i1e70610]], [[genai4mh-framework]], [[elevate-genai-framework]], [[chart-reporting-guideline]], [[gamer-reporting-guideline]], [[single-task-zero-shot-evaluation-trap]], [[clinician-user-evaluation-discrepancy]], [[five-domain-chatbot-validation-framework]], [[traffic-light-quality-appraisal-clinical-ai]], [[gai-research-integrity-and-verification]]

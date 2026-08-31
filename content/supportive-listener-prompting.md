@@ -24,4 +24,4 @@ source_papers: ["2508.00847v1.pdf"]
 - Aldkheel, A. M., & Zhou, L. (2023). How to Support Domestic Violence Survivors with Conversational Agents: Meta Requirements and Design Principles. In *PACIS 2023*, Nanchang, China.
 
 ## Relazioni
-- Vedi anche: [[2508.00847v1]], [[language-style-matching-human-ai]], [[simulated-empathy-vs-authentic-presence]], [[simulated-therapeutic-alliance]], [[conversational-agents-mental-health]], [[prompting-in-psychology]], [[ai-assisted-psychotherapy]]
+- Vedi anche: [[2508-00847v1]], [[language-style-matching-human-ai]], [[simulated-empathy-vs-authentic-presence]], [[simulated-therapeutic-alliance]], [[conversational-agents-mental-health]], [[prompting-in-psychology]], [[ai-assisted-psychotherapy]]

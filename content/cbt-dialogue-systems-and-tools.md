@@ -22,4 +22,4 @@ source_papers: ["2407.19422v1.pdf"]
 - Abd-Alrazaq, A. A., Alajlani, M., Alalwan, A. A., et al. (2019). An overview of the features of chatbots in mental health: A scoping review. *International Journal of Medical Informatics*, 132, 103978.
 
 ## Relazioni
-- Vedi anche: [[2407.19422v1]], [[ai-enhanced-cbt]], [[active-ai-therapeutic-agent]], [[simulated-empathy-vs-authentic-presence]], [[simulazione-pazienti-ai]], [[healthcare-conversational-agents]]
+- Vedi anche: [[2407-19422v1]], [[ai-enhanced-cbt]], [[active-ai-therapeutic-agent]], [[simulated-empathy-vs-authentic-presence]], [[simulazione-pazienti-ai]], [[healthcare-conversational-agents]]

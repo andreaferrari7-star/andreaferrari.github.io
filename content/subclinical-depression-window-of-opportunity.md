@@ -92,7 +92,7 @@ flowchart LR
 ---
 
 ## Relazioni
-- [[jmir_v27i1e69639]]: Revisione sistematica e meta-analisi di Feng et al. (2025) su CAs per la salute mentale giovanile.
+- [[jmir-v27i1e69639]]: Revisione sistematica e meta-analisi di Feng et al. (2025) su CAs per la salute mentale giovanile.
 - [[exposure-therapy-deficit-in-mental-health-ai]]: Limiti dei chatbot AI nel trattamento dell'ansia per assenza di componenti espositive.
 - [[aya-digital-mental-health-affordances]]: Caratteristiche e benefici dell'interazione digitale per adolescenti e giovani adulti.
 - [[care-continuum-ai-functions-mental-health]]: Mappatura delle funzioni dell'IA lungo l'intero continuum di cura in salute mentale.

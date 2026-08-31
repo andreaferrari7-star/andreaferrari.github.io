@@ -20,4 +20,4 @@ source_papers: ["11920_2026_Article_1690.pdf"]
 - Morrin, H., Nicholls, L., Levin, M., et al. (2025). Delusions by design? How everyday AIs might be fuelling psychosis (and what can be done about it). *PsyArXiv*.
 
 ## Relazioni
-- Vedi anche: [[11920_2026_Article_1690]], [[calibrated-mismatches]], [[simulated-empathy-vs-authentic-presence]], [[uso-problematico-chatbot-ai]], [[three-layer-governance-framework]], [[modello-centauro-clinico]]
+- Vedi anche: [[11920-2026-article-1690]], [[calibrated-mismatches]], [[simulated-empathy-vs-authentic-presence]], [[uso-problematico-chatbot-ai]], [[three-layer-governance-framework]], [[modello-centauro-clinico]]

@@ -100,4 +100,4 @@ La prospettiva della metastabilità offre una spiegazione unitaria e rigorosa di
 - Foa, E. B., Hembree, E. A., Rothbaum, B. O., & Rauch, S. A. M. (2019). *Prolonged Exposure Therapy for PTSD: Emotional Processing of Traumatic Experiences*. Oxford University Press.
 
 ## Relazioni
-- Vedi anche: [[Bollettino_IPERlab_inTherapy_N01_1]], [[early-vs-late-dropout-cbt]], [[treatment-outcome-and-relapse-prediction]], [[processes-of-change-in-psychotherapy]], [[process-based-therapy]], [[clinical-fidelity-assessment]], [[rischi-esposizione-cptsd-ia]], [[000]]\n
+- Vedi anche: [[bollettino-iperlab-intherapy-n01-1]], [[early-vs-late-dropout-cbt]], [[treatment-outcome-and-relapse-prediction]], [[processes-of-change-in-psychotherapy]], [[process-based-therapy]], [[clinical-fidelity-assessment]], [[rischi-esposizione-cptsd-ia]], [[000]]\n

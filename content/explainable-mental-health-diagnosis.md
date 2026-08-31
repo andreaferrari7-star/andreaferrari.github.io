@@ -30,4 +30,4 @@ source_papers: ["2508.11398v2.pdf"]
 - Cirasola, A., Szegedi, D., Fonagy, P., & Midgley, N. (2024). “You can't really have a relationship with them because they just ask you questions”: Understanding adolescent dropout. *Frontiers in Psychology*, 15, 1381901.
 
 ## Relazioni
-- Vedi anche: [[2508.11398v2]], [[dsm5agentflow]], [[audit-bias-llm-clinici]], [[clinical-ai-simulation]], [[risk-ontology-ai-psychotherapy]], [[supervisione-clinica-ai]], [[modello-centauro-clinico]], [[software-as-a-medical-device-salute-mentale]]
+- Vedi anche: [[2508-11398v2]], [[dsm5agentflow]], [[audit-bias-llm-clinici]], [[clinical-ai-simulation]], [[risk-ontology-ai-psychotherapy]], [[supervisione-clinica-ai]], [[modello-centauro-clinico]], [[software-as-a-medical-device-salute-mentale]]

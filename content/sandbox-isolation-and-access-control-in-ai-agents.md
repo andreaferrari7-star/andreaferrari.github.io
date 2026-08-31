@@ -67,4 +67,4 @@ flowchart TD
 ---
 
 ## Relazioni
-- Vedi anche: [[Security_of_AI_Agents]], [[privacy-preserving-computation-in-ai-agents]], [[configurazione-sicurezza-piattaforme-ia-clinica]], [[layered-safeguards-in-clinical-ai]], [[power-safety-paradox]], [[rlhf-safety-therapeutic-conflict]], [[human-in-the-reasoning]], [[automated-clinical-ai-red-teaming]]
+- Vedi anche: [[security-of-ai-agents]], [[privacy-preserving-computation-in-ai-agents]], [[configurazione-sicurezza-piattaforme-ia-clinica]], [[layered-safeguards-in-clinical-ai]], [[power-safety-paradox]], [[rlhf-safety-therapeutic-conflict]], [[human-in-the-reasoning]], [[automated-clinical-ai-red-teaming]]

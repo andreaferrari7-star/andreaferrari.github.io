@@ -187,4 +187,4 @@ flowchart TD
 ---
 
 ## Relazioni
-- Vedi anche: [[clinician-user-evaluation-discrepancy]], [[single-task-zero-shot-evaluation-trap]], [[cultural-adaptation-in-mental-health-llms]], [[modello-centauro-clinico]], [[simulated-empathy-vs-authentic-presence]], [[algorithmic-paternalism-in-ai-mental-health]], [[digital-therapeutic-alliance]], [[five-domain-chatbot-validation-framework]], [[stepwise-cot]], [[ai-enhanced-cbt]], [[fpsyg-16-1715306]], [[ai-v5-e84305]], [[jmir_v28i1e79677]]
+- Vedi anche: [[clinician-user-evaluation-discrepancy]], [[single-task-zero-shot-evaluation-trap]], [[cultural-adaptation-in-mental-health-llms]], [[modello-centauro-clinico]], [[simulated-empathy-vs-authentic-presence]], [[algorithmic-paternalism-in-ai-mental-health]], [[digital-therapeutic-alliance]], [[five-domain-chatbot-validation-framework]], [[stepwise-cot]], [[ai-enhanced-cbt]], [[fpsyg-16-1715306]], [[ai-v5-e84305]], [[jmir-v28i1e79677]]

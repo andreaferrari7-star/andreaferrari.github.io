@@ -224,9 +224,9 @@ sequenceDiagram
 ---
 
 ## Pagine Correlate della Wiki
-- [[REFINE_2026]] — Sintesi completa della pubblicazione originale di Mese et al. (2026).
+- [[refine-2026]] — Sintesi completa della pubblicazione originale di Mese et al. (2026).
 - [[dataset-integrity-and-contamination-in-medical-ai]] — Trattazione approfondita su data leakage, pretraining cutoff e bias di campionamento nei modelli sanitari.
-- [[MI-CLEAR-LLM_2025]] — Linea guida specialistica per la rendicontazione dell'accuratezza diagnostica degli LLM.
+- [[mi-clear-llm-2025]] — Linea guida specialistica per la rendicontazione dell'accuratezza diagnostica degli LLM.
 - [[stochasticity-management-in-clinical-llms]] — Gestione statistica e iperparametrica della variabilità generativa nei modelli Transformer.
 - [[chart-reporting-guideline]] — Linea guida per la rendicontazione degli studi su chatbot di consulenza sanitaria.
 - [[elevate-genai-framework]] — Standard di trasparenza per la ricerca biomedica assistita da GenAI.

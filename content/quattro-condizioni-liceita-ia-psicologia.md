@@ -12,7 +12,7 @@ source_papers: ["Guida-Pratica-AI-OPPV.pdf"]
 
 ## Definizione Operativa e Fondamento Istituzionale
 
-Le **Quattro Condizioni di Liceità e Correttezza Deontologica** costituiscono l'impalcatura regolatoria introdotta dall'[[Guida-Pratica-AI-OPPV|OPPV (2026)]] per dirimere la tensione strutturale tra l'innovazione tecnologica dell'[[large-language-models|Intelligenza Artificiale Generativa]] e i doveri fiduciari della professione psicologica.
+Le **Quattro Condizioni di Liceità e Correttezza Deontologica** costituiscono l'impalcatura regolatoria introdotta dall'[[guida-pratica-ai-oppv-1|OPPV (2026)]] per dirimere la tensione strutturale tra l'innovazione tecnologica dell'[[large-language-models|Intelligenza Artificiale Generativa]] e i doveri fiduciari della professione psicologica.
 
 L'assunto di fondo stabilisce che l'impiego dell'IA non costituisce un semplice atto tecnico neutrale, ma si configura a tutti gli effetti come una complessa operazione di **trattamento di dati personali e particolari**, sottoposta a quattro livelli normativi concorrenti:
 1. **Deontologia Professionale** (Codice Deontologico degli Psicologi Italiani, artt. 5, 11–17, 24);
@@ -146,7 +146,7 @@ Per rendere effettive le quattro condizioni, lo psicologo è tenuto ad attuare a
 
 ## Concetti Correlati
 
-- [[Guida-Pratica-AI-OPPV|Guida Operativa all'Utilizzo dell'AI nella Pratica Professionale (OPPV, 2026)]]: Documento sorgente e inquadramento generale.
+- [[guida-pratica-ai-oppv-1|Guida Operativa all'Utilizzo dell'AI nella Pratica Professionale (OPPV, 2026)]]: Documento sorgente e inquadramento generale.
 - [[configurazione-sicurezza-piattaforme-ia-clinica|Configurazione di Sicurezza e Mitigazione del Rischio per Piattaforme di IA in Ambito Clinico]]: Guida operativa alle impostazioni tecniche dei software.
 - [[informed-consent-for-clinical-ai|Consenso Informato per l'IA nella Pratica Clinica]]: Analisi del modello della divulgazione proporzionata.
 - [[gdpr-governance-mental-health-ai|GDPR Governance e Protezione Dati nell'IA per la Salute Mentale]]: Disciplina europea sui dati sanitari e digital privacy.

@@ -182,4 +182,4 @@ Su 61 studi analizzati:
 ---
 
 ## Relazioni
-- Vedi anche: [[tiered-human-ai-healing-ecosystem]], [[power-safety-paradox]], [[tiered-autonomy-in-clinical-ai]], [[three-layer-governance-framework]], [[simulated-empathy-vs-authentic-presence]], [[rlhf-safety-therapeutic-conflict]], [[ai-psychosis]], [[digital-therapeutic-alliance]], [[modello-centauro-clinico]], [[fpubh-14-1792627]], [[2604.23445v1]], [[10.1177_00469580261438322]]
+- Vedi anche: [[tiered-human-ai-healing-ecosystem]], [[power-safety-paradox]], [[tiered-autonomy-in-clinical-ai]], [[three-layer-governance-framework]], [[simulated-empathy-vs-authentic-presence]], [[rlhf-safety-therapeutic-conflict]], [[ai-psychosis]], [[digital-therapeutic-alliance]], [[modello-centauro-clinico]], [[fpubh-14-1792627]], [[2604-23445v1]], [[10-1177-00469580261438322]]

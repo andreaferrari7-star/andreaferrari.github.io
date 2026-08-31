@@ -115,4 +115,4 @@ Le proposte generate con Stepwise CoT sono risultate sufficientemente dettagliat
 ---
 
 ## Relazioni
-- Vedi anche: [[2603.27146v3]], [[future-alignment-score]], [[time-sliced-scientific-forecasting]], [[hypothesis-generation]], [[hybrid-ai-research-workflows]], [[prompting-in-psychology]], [[large-language-models]], [[therapeutic-reasoning-paths]], [[wang-et-al-2026]]
+- Vedi anche: [[2603-27146v3]], [[future-alignment-score]], [[time-sliced-scientific-forecasting]], [[hypothesis-generation]], [[hybrid-ai-research-workflows]], [[prompting-in-psychology]], [[large-language-models]], [[therapeutic-reasoning-paths]], [[wang-et-al-2026]]

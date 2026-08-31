@@ -131,4 +131,4 @@ flowchart TD
 ---
 
 ## Relazioni
-- Vedi anche: [[mental_v12i1e70610]], [[mi-claim-gen-checklist]], [[elevate-genai-framework]], [[chart-reporting-guideline]], [[gamer-reporting-guideline]], [[layered-safeguards-in-clinical-ai]], [[modello-centauro-clinico]], [[cultural-adaptation-in-mental-health-llms]], [[single-task-zero-shot-evaluation-trap]], [[clinician-user-evaluation-discrepancy]], [[lightweight-domain-models-in-mental-health]], [[mental-privacy-in-clinical-ai]], [[algorithmic-paternalism-in-ai-mental-health]]
+- Vedi anche: [[mental-v12i1e70610]], [[mi-claim-gen-checklist]], [[elevate-genai-framework]], [[chart-reporting-guideline]], [[gamer-reporting-guideline]], [[layered-safeguards-in-clinical-ai]], [[modello-centauro-clinico]], [[cultural-adaptation-in-mental-health-llms]], [[single-task-zero-shot-evaluation-trap]], [[clinician-user-evaluation-discrepancy]], [[lightweight-domain-models-in-mental-health]], [[mental-privacy-in-clinical-ai]], [[algorithmic-paternalism-in-ai-mental-health]]

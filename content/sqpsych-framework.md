@@ -88,4 +88,4 @@ flowchart TD
 - Zhang, M., et al. (2025). CBT-Bench: Evaluating large language models on assisting cognitive behavior therapy. In *Proceedings of NAACL-HLT 2025*, pages 3864–3900.
 
 ## Relazioni
-- Vedi anche: [[2510.25384v1]], [[open-weight-privacy-compliant-synthesis]], [[conversione-questionari-dialoghi-clinici]], [[clinical-ai-simulation]], [[simulazione-pazienti-ai]], [[dsm5agentflow]], [[crdial-framework]], [[crispers-models-and-dataset]], [[cbt-dialogue-systems-and-tools]], [[supportive-listener-prompting]], [[modello-centauro-clinico]], [[ai-assisted-psychotherapy]]
+- Vedi anche: [[2510-25384v1]], [[open-weight-privacy-compliant-synthesis]], [[conversione-questionari-dialoghi-clinici]], [[clinical-ai-simulation]], [[simulazione-pazienti-ai]], [[dsm5agentflow]], [[crdial-framework]], [[crispers-models-and-dataset]], [[cbt-dialogue-systems-and-tools]], [[supportive-listener-prompting]], [[modello-centauro-clinico]], [[ai-assisted-psychotherapy]]

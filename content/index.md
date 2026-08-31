@@ -1,32 +1,32 @@
 # Indice Knowledge Base
 
 ## Sintesi
-- [Clinical_decision_making_and_artificial_intelligence](Clinical_decision_making_and_artificial_intelligence.md)
+- [Clinical_decision_making_and_artificial_intelligence](clinical-decision-making-and-artificial-intelligence.md)
 - [ethical-guidance-professional-practice-1](ethical-guidance-professional-practice-1.md)
-- [Generative_AI_Mental_Health_Chatbot_Interventions](Generative_AI_Mental_Health_Chatbot_Interventions.md)
-- [CPP-33-e70242](CPP-33-e70242.md)
-- [ELEVATE-GenAI2025](ELEVATE-GenAI2025.md)
-- [GAMER2025](GAMER2025.md)
-- [Guida-Pratica-AI-OPPV](Guida-Pratica-AI-OPPV.md)
-- [JML_1001](JML_1001.md)
-- [Linee_Guida_Reporting_AI_Generativa_CHART_ELEVATE](Linee_Guida_Reporting_AI_Generativa_CHART_ELEVATE.md)
-- [MI-CLEAR-LLM_2025](MI-CLEAR-LLM_2025.md)
-- [Normativa_LLM_Psicologia_in_Italia](Normativa_LLM_Psicologia_in_Italia.md)
-- [REFINE_2026](REFINE_2026.md)
-- [Ricerca_Prompting_LLM_Clinico_Sanitario](Ricerca_Prompting_LLM_Clinico_Sanitario.md)
-- [Safety_Mechanisms_AI_Chatbots](Safety_Mechanisms_AI_Chatbots.md)
-- [Security_of_AI_Agents](Security_of_AI_Agents.md)
-- [Sunto_articoli](Sunto_articoli.md)
-- [TRIPOD_AI2024](TRIPOD_AI2024.md)
-- [TRIPOD_LLM2025](TRIPOD_LLM2025.md)
-- [WPS_24_383](WPS_24_383.md)
-- [final_textbook_genAIinpsychologyresearchandtraining](final_textbook_genAIinpsychologyresearchandtraining.md)
+- [Generative_AI_Mental_Health_Chatbot_Interventions](generative-ai-mental-health-chatbot-interventions.md)
+- [CPP-33-e70242](cpp-33-e70242-1.md)
+- [ELEVATE-GenAI2025](elevate-genai2025-1.md)
+- [GAMER2025](gamer2025-1.md)
+- [Guida-Pratica-AI-OPPV](guida-pratica-ai-oppv-1.md)
+- [JML_1001](jml-1001.md)
+- [Linee_Guida_Reporting_AI_Generativa_CHART_ELEVATE](linee-guida-reporting-ai-generativa-chart-elevate.md)
+- [MI-CLEAR-LLM_2025](mi-clear-llm-2025.md)
+- [Normativa_LLM_Psicologia_in_Italia](normativa-llm-psicologia-in-italia.md)
+- [REFINE_2026](refine-2026.md)
+- [Ricerca_Prompting_LLM_Clinico_Sanitario](ricerca-prompting-llm-clinico-sanitario.md)
+- [Safety_Mechanisms_AI_Chatbots](safety-mechanisms-ai-chatbots.md)
+- [Security_of_AI_Agents](security-of-ai-agents.md)
+- [Sunto_articoli](sunto-articoli.md)
+- [TRIPOD_AI2024](tripod-ai2024.md)
+- [TRIPOD_LLM2025](tripod-llm2025.md)
+- [WPS_24_383](wps-24-383.md)
+- [final_textbook_genAIinpsychologyresearchandtraining](final-textbook-genaiinpsychologyresearchandtraining.md)
 - [fpsyg-16-1715306](fpsyg-16-1715306.md)
 - [fpsyt-15-1444382](fpsyt-15-1444382.md)
 - [fpsyt-16-1628216](fpsyt-16-1628216.md)
 - [fpsyt-16-1692177](fpsyt-16-1692177.md)
 - [fpsyt-16-1734102](fpsyt-16-1734102.md)
-- [fpsyt-17-1688043_1](fpsyt-17-1688043_1.md)
+- [fpsyt-17-1688043_1](fpsyt-17-1688043-1.md)
 - [fpubh-14-1792627](fpubh-14-1792627.md)
 - [frai-08-1696448](frai-08-1696448.md)
 - [hagihara-miyazawa-2026](hagihara-miyazawa-2026.md)
@@ -38,19 +38,19 @@
 - [jmir-2025-1-e60435](jmir-2025-1-e60435.md)
 - [jmir-v27-e78238](jmir-v27-e78238.md)
 - [jmir-v27-e79850](jmir-v27-e79850.md)
-- [jmir_v27i1e69639](jmir_v27i1e69639.md)
-- [jmir_v28i1e79677](jmir_v28i1e79677.md)
+- [jmir_v27i1e69639](jmir-v27i1e69639.md)
+- [jmir_v28i1e79677](jmir-v28i1e79677.md)
 - [main-1](main-1.md)
 - [main](main.md)
 - [medinform-v13-e64963](medinform-v13-e64963.md)
 - [mental-2026-1-e88057](mental-2026-1-e88057.md)
 - [mental-v12-e70014](mental-v12-e70014.md)
 - [mental-v12-e81204](mental-v12-e81204.md)
-- [mental_v12i1e67802](mental_v12i1e67802.md)
-- [mental_v12i1e70610](mental_v12i1e70610.md)
-- [mental_v12i1e78410](mental_v12i1e78410.md)
-- [pone.0332207](pone.0332207.md)
-- [s41746-026-02886-x_reference](s41746-026-02886-x_reference.md)
+- [mental_v12i1e67802](mental-v12i1e67802.md)
+- [mental_v12i1e70610](mental-v12i1e70610.md)
+- [mental_v12i1e78410](mental-v12i1e78410.md)
+- [pone.0332207](pone-0332207.md)
+- [s41746-026-02886-x_reference](s41746-026-02886-x-reference.md)
 - [s44163-025-00495-3](s44163-025-00495-3.md)
 - [tingelhoff-et-al-2024](tingelhoff-et-al-2024.md)
 - [wang-et-al-2026](wang-et-al-2026.md)
@@ -109,35 +109,35 @@
 - [07-08_Riunione_Pianificazione_Corso](07-08_Riunione_Pianificazione_Corso.md)
 - [07-10_Riunione_Test_Libet_Prime](07-10_Riunione_Test_Libet_Prime.md)
 - [07-17_Riunione_Corso_Formazione](07-17_Riunione_Corso_Formazione.md)
-- [1-s2.0-S0272735826000917-main](1-s2.0-S0272735826000917-main.md)
-- [1-s2.0-S1386505625004216-main](1-s2.0-S1386505625004216-main.md)
-- [10.1177_00469580261438322](10.1177_00469580261438322.md)
-- [10.1177_18911803261439274](10.1177_18911803261439274.md)
-- [10.1177_20552076261421688](10.1177_20552076261421688.md)
-- [11920_2026_Article_1690](11920_2026_Article_1690.md)
-- [2407.19422v1](2407.19422v1.md)
-- [2504.17238v1](2504.17238v1.md)
-- [2505.15108v2](2505.15108v2.md)
-- [2507.20241v2](2507.20241v2.md)
-- [2508.00847v1](2508.00847v1.md)
-- [2508.11398v2](2508.11398v2.md)
-- [2509.02144v1](2509.02144v1.md)
-- [2509.13324v3](2509.13324v3.md)
-- [2510.03913v1](2510.03913v1.md)
-- [2510.25384v1](2510.25384v1.md)
-- [2511.22818v1](2511.22818v1.md)
-- [2512.04124v4](2512.04124v4.md)
-- [2512.05836v1](2512.05836v1.md)
-- [2512.16206v2](2512.16206v2.md)
-- [2512.22462v1](2512.22462v1.md)
-- [2601.06032v1](2601.06032v1.md)
-- [2601.06159v1](2601.06159v1.md)
-- [2601.10970v2](2601.10970v2.md)
-- [2602.19948v2](2602.19948v2.md)
-- [2603.27146v3](2603.27146v3.md)
-- [2604.23445v1](2604.23445v1.md)
-- [2607.25667v1](2607.25667v1.md)
-- [41398_2025_Article_3497](41398_2025_Article_3497.md)
+- [1-s2.0-S0272735826000917-main](1-s2-0-s0272735826000917-main.md)
+- [1-s2.0-S1386505625004216-main](1-s2-0-s1386505625004216-main.md)
+- [10.1177_00469580261438322](10-1177-00469580261438322.md)
+- [10.1177_18911803261439274](10-1177-18911803261439274.md)
+- [10.1177_20552076261421688](10-1177-20552076261421688.md)
+- [11920_2026_Article_1690](11920-2026-article-1690.md)
+- [2407.19422v1](2407-19422v1.md)
+- [2504.17238v1](2504-17238v1.md)
+- [2505.15108v2](2505-15108v2.md)
+- [2507.20241v2](2507-20241v2.md)
+- [2508.00847v1](2508-00847v1.md)
+- [2508.11398v2](2508-11398v2.md)
+- [2509.02144v1](2509-02144v1.md)
+- [2509.13324v3](2509-13324v3.md)
+- [2510.03913v1](2510-03913v1.md)
+- [2510.25384v1](2510-25384v1.md)
+- [2511.22818v1](2511-22818v1.md)
+- [2512.04124v4](2512-04124v4.md)
+- [2512.05836v1](2512-05836v1.md)
+- [2512.16206v2](2512-16206v2.md)
+- [2512.22462v1](2512-22462v1.md)
+- [2601.06032v1](2601-06032v1.md)
+- [2601.06159v1](2601-06159v1.md)
+- [2601.10970v2](2601-10970v2.md)
+- [2602.19948v2](2602-19948v2.md)
+- [2603.27146v3](2603-27146v3.md)
+- [2604.23445v1](2604-23445v1.md)
+- [2607.25667v1](2607-25667v1.md)
+- [41398_2025_Article_3497](41398-2025-article-3497.md)
 - [a-2702-1843](a-2702-1843.md)
 - [accuratezza-vs-fattualita-in-genai](accuratezza-vs-fattualita-in-genai.md)
 - [active-ai-therapeutic-agent](active-ai-therapeutic-agent.md)
@@ -152,14 +152,14 @@
 - [ai-enhanced-psychological-first-aid](ai-enhanced-psychological-first-aid.md)
 - [ai-literacy-in-academia](ai-literacy-in-academia.md)
 - [ai-perinatal-depression-prediction](ai-perinatal-depression-prediction.md)
-- [AI-PoweredReal-TimeAdherenceMonitoringforRemotePatientCareinTelemedicine](AI-PoweredReal-TimeAdherenceMonitoringforRemotePatientCareinTelemedicine.md)
+- [AI-PoweredReal-TimeAdherenceMonitoringforRemotePatientCareinTelemedicine](ai-poweredreal-timeadherencemonitoringforremotepatientcareintelemedicine-1.md)
 - [ai-psychosis](ai-psychosis.md)
 - [ai-psychosocial-functioning-in-psychosis](ai-psychosocial-functioning-in-psychosis.md)
 - [ai-research-ethics](ai-research-ethics.md)
 - [ai-supported-between-session-engagement](ai-supported-between-session-engagement.md)
 - [ai-v5-e84305](ai-v5-e84305.md)
-- [ai_v4i1e69006](ai_v4i1e69006.md)
-- [ai_v5i1e80348](ai_v5i1e80348.md)
+- [ai_v4i1e69006](ai-v4i1e69006.md)
+- [ai_v5i1e80348](ai-v5i1e80348.md)
 - [algorithmic-bias-perinatal-ai](algorithmic-bias-perinatal-ai.md)
 - [algorithmic-paternalism-in-ai-mental-health](algorithmic-paternalism-in-ai-mental-health.md)
 - [algorithmic-tractability-in-psychotherapy](algorithmic-tractability-in-psychotherapy.md)
@@ -173,7 +173,7 @@
 - [aya-digital-mental-health-affordances](aya-digital-mental-health-affordances.md)
 - [behavsci-16-00676](behavsci-16-00676.md)
 - [bibliometric-analysis](bibliometric-analysis.md)
-- [Bollettino_IPERlab_inTherapy_N01_1](Bollettino_IPERlab_inTherapy_N01_1.md)
+- [Bollettino_IPERlab_inTherapy_N01_1](bollettino-iperlab-intherapy-n01-1.md)
 - [bolt-behavioral-assessment-framework](bolt-behavioral-assessment-framework.md)
 - [bottom-up-clinical-documentation](bottom-up-clinical-documentation.md)
 - [boundary-objects-in-psychotherapy](boundary-objects-in-psychotherapy.md)
@@ -185,7 +185,7 @@
 - [cbt-dialogue-systems-and-tools](cbt-dialogue-systems-and-tools.md)
 - [chai-blueprint-health-ai](chai-blueprint-health-ai.md)
 - [chart-reporting-guideline](chart-reporting-guideline.md)
-- [CHART2025](CHART2025.md)
+- [CHART2025](chart2025-1.md)
 - [chatbot-health-advice-studies](chatbot-health-advice-studies.md)
 - [client101-simulazione-pazienti-virtuali](client101-simulazione-pazienti-virtuali.md)
 - [clinical-ai-simulation](clinical-ai-simulation.md)
@@ -194,8 +194,8 @@
 - [clinical-nlp-domain-shift](clinical-nlp-domain-shift.md)
 - [clinical-prediction-model-evaluation](clinical-prediction-model-evaluation.md)
 - [clinical-readiness-gap-in-mh-chatbots](clinical-readiness-gap-in-mh-chatbots.md)
-- [Clinical_AI_Blueprint](Clinical_AI_Blueprint.md)
-- [Clinical_AI_Cognitive_Assessment](Clinical_AI_Cognitive_Assessment.md)
+- [Clinical_AI_Blueprint](clinical-ai-blueprint.md)
+- [Clinical_AI_Cognitive_Assessment](clinical-ai-cognitive-assessment.md)
 - [clinician-user-evaluation-discrepancy](clinician-user-evaluation-discrepancy.md)
 - [coast-framework-clinical-prompting](coast-framework-clinical-prompting.md)
 - [cognitive-bias-rectification-in-llms](cognitive-bias-rectification-in-llms.md)
@@ -287,6 +287,7 @@
 - [misurazione-bias-razziale-llm](misurazione-bias-razziale-llm.md)
 - [miti-annotation-scheme](miti-annotation-scheme.md)
 - [modello-centauro-clinico](modello-centauro-clinico.md)
+- [modello-rocco](modello-rocco.md) - Griglia operativa a 5 campi (Ruolo, Obiettivo, Contesto, Criteri, Output) per il prompting clinico.
 - [modular-reporting-framework-llm](modular-reporting-framework-llm.md)
 - [multi-omics-ai-psychiatry](multi-omics-ai-psychiatry.md)
 - [multi-party-interaction-simulation](multi-party-interaction-simulation.md)
@@ -328,7 +329,7 @@
 - [reflective-interpretability](reflective-interpretability.md)
 - [regulatory-bifurcation-in-digital-health-ai](regulatory-bifurcation-in-digital-health-ai.md)
 - [relational-engagement-paradox-genai](relational-engagement-paradox-genai.md)
-- [report_bias_llm_psicoterapia](report_bias_llm_psicoterapia.md)
+- [report_bias_llm_psicoterapia](report-bias-llm-psicoterapia.md)
 - [responsabilita-sanitaria-allucinazioni-algoritmiche](responsabilita-sanitaria-allucinazioni-algoritmiche.md)
 - [retrieval-vs-generative-clinical-chatbots](retrieval-vs-generative-clinical-chatbots.md)
 - [reverse-training-simulazione](reverse-training-simulazione.md)
@@ -363,6 +364,7 @@
 - [sycophantic-mirroring](sycophantic-mirroring.md)
 - [synthetic-psychopathology](synthetic-psychopathology.md)
 - [task-specific-generative-evaluation-healthcare](task-specific-generative-evaluation-healthcare.md)
+- [tassonomia-bias-llm-psicoterapeuta](tassonomia-bias-llm-psicoterapeuta.md)
 - [taxonomic-incommensurability](taxonomic-incommensurability.md)
 - [therapeutic-reasoning-paths](therapeutic-reasoning-paths.md)
 - [three-layer-governance-framework](three-layer-governance-framework.md)
@@ -599,44 +601,51 @@
 
 
 ## Articoli e Paper (Lotti 17-21)
+- [2601-06032v1](2601-06032v1.md) - Holl-Etten et al. (2026). Applied Theory of Mind and LLM: efficacia di ChatGPT nelle vignette sociali e problema degli Uncertainty Markers.
 - [main](main.md) - Mansoor (2025). LLM nel supporto al sonno e Digital CBT-I (Mayo Clinic).
 - [medinform-v13-e64963](medinform-v13-e64963.md) - Shan et al. (2025). Meta-analisi Accuratezza Diagnostica: Clinici vs LLM (JMIR Med Inform).
 - [mental-2026-1-e88057](mental-2026-1-e88057.md) - Lokadjaja et al. (2026). LLM in Salute Mentale: Validation Gap e Small Models.
-- [mental-v12-e70014](mental-v12-e70014.md) - Wang et al. (2025). Capacità e limiti clinici: Zero-Shot Trap.
+- [mental-v12-e70014](mental-v12-e70014.md) - Wang et al. (2025). CapacitÃƒÂ  e limiti clinici: Zero-Shot Trap.
 - [mental-v12-e81204](mental-v12-e81204.md) - Balan & Gumpel (2025). Uso clinico di ChatGPT e Pessimismo Prognostico.
-- [mental_v12i1e67802](mental_v12i1e67802.md) - Maran et al. (2025). Meta-analisi su Diagnosi di Depressione tramite Voce (JMIR).
-- [mental_v12i1e70610](mental_v12i1e70610.md) - Wang et al. (2025). Applicazioni ed etica dell'IA in salute mentale (GenAI4MH).
-- [mental_v12i1e78410](mental_v12i1e78410.md) - Bucher et al. (2025). AI-Blended Therapy e il Paradosso Discriminativo.
-- [MI-CLEAR-LLM_2025](MI-CLEAR-LLM_2025.md) - Park et al. (2025). Linee Guida MI-CLEAR per gestire la stocasticità degli LLM.
-- [Normativa_LLM_Psicologia_in_Italia](Normativa_LLM_Psicologia_in_Italia.md) - Leggi italiane: AI Act, Gelli-Bianco e Codice Deontologico per Psicologi.
-- [pone.0332207](pone.0332207.md) - Humayun et al. (2025). Chatbot CBT e Vantaggio Multimodale (PLOS ONE).
-- [REFINE_2026](REFINE_2026.md) - Mese et al. (2026). Checklist REFINE per Foundation Models in medicina (Consenso Delphi).
-- [report_bias_llm_psicoterapia](report_bias_llm_psicoterapia.md) - Apex Lab (2026). Bias LLM: Overfitting Protocollare e Stealth Sycophancy.
-- [Ricerca_Prompting_LLM_Clinico_Sanitario](Ricerca_Prompting_LLM_Clinico_Sanitario.md) - Ricerca italiana sul Prompting, CoT Paradox e mitigazione bias.
-- [s41746-026-02886-x_reference](s41746-026-02886-x_reference.md) - Hang et al. (2026). Meta-analisi NPJ Digital Medicine: Vantaggio Multimodale.
+- [mental_v12i1e67802](mental-v12i1e67802.md) - Maran et al. (2025). Meta-analisi su Diagnosi di Depressione tramite Voce (JMIR).
+- [mental_v12i1e70610](mental-v12i1e70610.md) - Wang et al. (2025). Applicazioni ed etica dell'IA in salute mentale (GenAI4MH).
+- [mental_v12i1e78410](mental-v12i1e78410.md) - Bucher et al. (2025). AI-Blended Therapy e il Paradosso Discriminativo.
+- [MI-CLEAR-LLM_2025](mi-clear-llm-2025.md) - Park et al. (2025). Linee Guida MI-CLEAR per gestire la stocasticitÃƒÂ  degli LLM.
+- [Normativa_LLM_Psicologia_in_Italia](normativa-llm-psicologia-in-italia.md) - Leggi italiane: AI Act, Gelli-Bianco e Codice Deontologico per Psicologi.
+- [pone.0332207](pone-0332207.md) - Humayun et al. (2025). Chatbot CBT e Vantaggio Multimodale (PLOS ONE).
+- [REFINE_2026](refine-2026.md) - Mese et al. (2026). Checklist REFINE per Foundation Models in medicina (Consenso Delphi).
+- [report_bias_llm_psicoterapia](report-bias-llm-psicoterapia.md) - Apex Lab (2026). Bias LLM: Overfitting Protocollare e Stealth Sycophancy.
+- [Ricerca_Prompting_LLM_Clinico_Sanitario](ricerca-prompting-llm-clinico-sanitario.md) - Ricerca italiana sul Prompting, CoT Paradox e mitigazione bias.
+- [s41746-026-02886-x_reference](s41746-026-02886-x-reference.md) - Hang et al. (2026). Meta-analisi NPJ Digital Medicine: Vantaggio Multimodale.
 - [s44163-025-00495-3](s44163-025-00495-3.md) - Mabirizi et al. (2025). Discover AI: Modelli post-digitali e risorse limitate.
-- [Safety_Mechanisms_AI_Chatbots](Safety_Mechanisms_AI_Chatbots.md) - Olisaeloka et al. (2026). Scoping Review sui meccanismi di sicurezza nei chatbot.
-- [Security_of_AI_Agents](Security_of_AI_Agents.md) - Sicurezza degli Agenti IA, vulnerabilità e cifratura FHE/FPETS.
-- [Sunto_articoli](Sunto_articoli.md) - Sintesi integrata su Prompt Engineering, BOLT e Linee Guida (CHART, ELEVATE ecc.).
-- [TRIPOD_AI2024](TRIPOD_AI2024.md) - Collins et al. (2024). Linea guida TRIPOD+AI per validare Modelli Predittivi Clinici (BMJ).
-- [TRIPOD_LLM2025](TRIPOD_LLM2025.md) - Gallifant et al. (2025). Linea Guida TRIPOD-LLM per LLM in Medicina (Nature Medicine).
-- [WPS_24_383](WPS_24_383.md) - Hua et al. (2025). Evoluzione tecnologica dei Chatbot (World Psychiatry, n=160 studi).
+- [Safety_Mechanisms_AI_Chatbots](safety-mechanisms-ai-chatbots.md) - Olisaeloka et al. (2026). Scoping Review sui meccanismi di sicurezza nei chatbot.
+- [Security_of_AI_Agents](security-of-ai-agents.md) - Sicurezza degli Agenti IA, vulnerabilitÃƒÂ  e cifratura FHE/FPETS.
+- [Sunto_articoli](sunto-articoli.md) - Sintesi integrata su Prompt Engineering, BOLT e Linee Guida (CHART, ELEVATE ecc.).
+- [TRIPOD_AI2024](tripod-ai2024.md) - Collins et al. (2024). Linea guida TRIPOD+AI per validare Modelli Predittivi Clinici (BMJ).
+- [TRIPOD_LLM2025](tripod-llm2025.md) - Gallifant et al. (2025). Linea Guida TRIPOD-LLM per LLM in Medicina (Nature Medicine).
+- [WPS_24_383](wps-24-383.md) - Hua et al. (2025). Evoluzione tecnologica dei Chatbot (World Psychiatry, n=160 studi).
 - [wulff-mata-2025](wulff-mata-2025.md) - Wulff & Mata (2025). LLM per uscire dalla 'Jingle-Jangle Jungle' psicologica.
 
 ## Concetti Clinici e Applicativi (Lotti 17-21)
+- [metodologia-ricerca-slr-ai](metodologia-ricerca-slr-ai.md)
+- [linee-guida-scoping-review-ai](linee-guida-scoping-review-ai.md) - Linee guida procedurali e buone pratiche per Scoping Review e SLR assistite da IA.
+- [valutazione-psicometrica-llm](valutazione-psicometrica-llm.md)
+- [sicurezza-clinica-red-teaming](sicurezza-clinica-red-teaming.md)
+- [simulazione-clinica-pazienti-virtuali](simulazione-clinica-pazienti-virtuali.md)
+- [nlp-clinico-analisi-sedute](nlp-clinico-analisi-sedute.md)
 - [adverse-event-monitoring-in-clinical-ai](adverse-event-monitoring-in-clinical-ai.md) - Fallimento del monitoraggio degli eventi avversi nell'AI clinica e classificazione dei danni.
 - [ai-blended-therapy](ai-blended-therapy.md) - Terapia mista IA+clinico inter-seduta (AI-Blended Therapy).
 - [bolt-behavioral-assessment-framework](bolt-behavioral-assessment-framework.md) - Framework per valutare 13 tecniche cliniche e identificare l'Advice-Giving Bias.
 - [client101-simulazione-pazienti-virtuali](client101-simulazione-pazienti-virtuali.md) - GPT-4 come simulatore di pazienti virtuali (limite: artificial compliance).
 - [clinical-chain-of-thought-paradox](clinical-chain-of-thought-paradox.md) - Il ragionamento step-by-step su EHR peggiora l'accuratezza degli LLM.
 - [clinical-prediction-model-evaluation](clinical-prediction-model-evaluation.md) - AUROC, calibrazione e Decision Curve Analysis per i modelli predittivi.
-- [conversational-ai-vs-bibliotherapy](conversational-ai-vs-bibliotherapy.md) - Superiorità del dialogo dinamico socrativo (AI) sulla biblioterapia.
+- [conversational-ai-vs-bibliotherapy](conversational-ai-vs-bibliotherapy.md) - SuperioritÃƒÂ  del dialogo dinamico socrativo (AI) sulla biblioterapia.
 - [dataset-integrity-and-contamination-in-medical-ai](dataset-integrity-and-contamination-in-medical-ai.md) - Data Leakage e Model Collapse nell'AI medica.
 - [demarcazione-wellness-vs-samd-salute-mentale](demarcazione-wellness-vs-samd-salute-mentale.md) - Confine legale tra app benessere e Dispositivo Medico Classe IIa.
 - [diagnostic-accuracy-gap-llm-vs-physicians](diagnostic-accuracy-gap-llm-vs-physicians.md) - I medici battono ancora gli LLM nella diagnosi primaria (OR=0.71).
 - [digital-cbt-i-conversational-agents](digital-cbt-i-conversational-agents.md) - Agenti conversazionali per la CBT digitale nell'insonnia.
 - [genai4mh-framework](genai4mh-framework.md) - Framework etico a 4 pilastri per sicurezza e audit clinico AI.
-- [individual-boost-vs-collective-homogenization](individual-boost-vs-collective-homogenization.md) - L'IA aumenta il singolo ma omologa la comunità scientifica.
+- [individual-boost-vs-collective-homogenization](individual-boost-vs-collective-homogenization.md) - L'IA aumenta il singolo ma omologa la comunitÃƒÂ  scientifica.
 - [lightweight-domain-models-in-mental-health](lightweight-domain-models-in-mental-health.md) - Modelli piccoli (MentalBERT) > GPT-4 per screening e classificazione.
 - [marketing-architecture-mismatch-in-mental-health-ai](marketing-architecture-mismatch-in-mental-health-ai.md) - Chatbot venduti come AI ma basati su script deterministici (GOFAI).
 - [mi-claim-gen-checklist](mi-claim-gen-checklist.md) - Standard per la rendicontazione scientifica degli LLM generativi in medicina.
@@ -648,7 +657,7 @@
 - [overfitting-protocollare](overfitting-protocollare.md) - LLM che generano CBT perfetta ma clinicamente rigida e sterile.
 - [personal-sleep-wellness-llm](personal-sleep-wellness-llm.md) - LLM conversazionali + wearable per l'igiene del sonno (CBT-I).
 - [privacy-preserving-computation-in-ai-agents](privacy-preserving-computation-in-ai-agents.md) - Cifratura omomorfica (FHE) per far lavorare l'AI su EHR senza leggerne i dati.
-- [prognostic-pessimism-in-clinical-ai](prognostic-pessimism-in-clinical-ai.md) - Gli LLM danno prognosi sistematicamente più pessimiste dei medici.
+- [prognostic-pessimism-in-clinical-ai](prognostic-pessimism-in-clinical-ai.md) - Gli LLM danno prognosi sistematicamente piÃƒÂ¹ pessimiste dei medici.
 - [prompt-experiment-gap-in-clinical-ai](prompt-experiment-gap-in-clinical-ai.md) - 83% degli studi usa prompt sintetici senza pazienti reali.
 - [psychoeducation-dilution-effect-in-ai](psychoeducation-dilution-effect-in-ai.md) - La psicoeducazione strutturata diluisce l'effetto terapeutico dell'IA.
 - [refine-reporting-checklist](refine-reporting-checklist.md) - 44 item approvati da 54 esperti per scrivere paper sull'AI generativa.
@@ -656,12 +665,12 @@
 - [sandbox-isolation-and-access-control-in-ai-agents](sandbox-isolation-and-access-control-in-ai-agents.md) - Senza Sandbox un agente AI esegue attacchi nell'80% dei casi.
 - [self-report-proxy-bias-in-ai](self-report-proxy-bias-in-ai.md) - Errore di addestrare AI diagnostiche su questionari self-report invece che su diagnosi cliniche.
 - [shared-semantic-space](shared-semantic-space.md) - Spazio vettoriale LLM per mappare se due questionari misurano la stessa malattia.
-- [single-task-zero-shot-evaluation-trap](single-task-zero-shot-evaluation-trap.md) - Valutare l'AI clinica con una sola domanda senza follow-up è fallace.
-- [sociotechnical-safety-in-clinical-ai](sociotechnical-safety-in-clinical-ai.md) - La sicurezza clinica è un'architettura sociotecnica multilivello, non solo codice.
+- [single-task-zero-shot-evaluation-trap](single-task-zero-shot-evaluation-trap.md) - Valutare l'AI clinica con una sola domanda senza follow-up ÃƒÂ¨ fallace.
+- [sociotechnical-safety-in-clinical-ai](sociotechnical-safety-in-clinical-ai.md) - La sicurezza clinica ÃƒÂ¨ un'architettura sociotecnica multilivello, non solo codice.
 - [stealth-sycophancy](stealth-sycophancy.md) - L'AI asseconda e rinforza le distorsioni cognitive del paziente per compiacerlo.
-- [stochasticity-management-in-clinical-llms](stochasticity-management-in-clinical-llms.md) - Come domare la variabilità delle risposte degli LLM (K di Fleiss, temperature=0).
-- [task-specific-generative-evaluation-healthcare](task-specific-generative-evaluation-healthcare.md) - Perché ROUGE non basta e come misurare le Allucinazioni Cliniche.
-- [taxonomic-incommensurability](taxonomic-incommensurability.md) - Incompatibilità terminologica tra tradizioni di ricerca in psicologia.
+- [stochasticity-management-in-clinical-llms](stochasticity-management-in-clinical-llms.md) - Come domare la variabilitÃƒÂ  delle risposte degli LLM (K di Fleiss, temperature=0).
+- [task-specific-generative-evaluation-healthcare](task-specific-generative-evaluation-healthcare.md) - PerchÃƒÂ© ROUGE non basta e come misurare le Allucinazioni Cliniche.
+- [taxonomic-incommensurability](taxonomic-incommensurability.md) - IncompatibilitÃƒÂ  terminologica tra tradizioni di ricerca in psicologia.
 - [three-layer-morphological-framework-mental-health-ai](three-layer-morphological-framework-mental-health-ai.md) - Framework a 3 livelli per progettare chatbot terapeutici.
 - [three-pillar-postgraduate-ai-framework](three-pillar-postgraduate-ai-framework.md) - Framework per inserire l'IA in contesti accademici e sanitari a basse risorse.
 - [three-tier-evaluation-framework-mental-health-ai](three-tier-evaluation-framework-mental-health-ai.md) - Divario tra LLM che funzionano in test base (T1) ma crollano nei trial (T3).
@@ -671,3 +680,33 @@
 - [vocal-biomarkers-in-depression](vocal-biomarkers-in-depression.md) - Diagnosi della depressione tramite analisi acustica della voce (Accuracy 81%).
 
 
+
+
+
+
+
+
+
+
+## Pagine Integrate (Ex-Orfane)
+- [05-11-discussione-gruppo-ricerca-ai-psicoterapia](05-11-discussione-gruppo-ricerca-ai-psicoterapia.md)
+- [06-05-riunione-impiego-ia-clinica-bias-formazione](06-05-riunione-impiego-ia-clinica-bias-formazione.md)
+- [07-08-pianificazione-corso-ia-psicoterapia](07-08-pianificazione-corso-ia-psicoterapia.md)
+- [07-10-riunione-test-valutazione-libet-prime](07-10-riunione-test-valutazione-libet-prime.md)
+- [07-17-riunione-corso-formazione-ia-psicologia](07-17-riunione-corso-formazione-ia-psicologia.md)
+- [concetti-acute-crisis-action-plans-ai](concetti-acute-crisis-action-plans-ai.md)
+- [concetti-between-session-continuity-ai](concetti-between-session-continuity-ai.md)
+- [concetti-blended-care-ai-framework](concetti-blended-care-ai-framework.md)
+- [06-10_Lezione_RAG_LLM_Psicoterapia_Governance_Etica](06-10_Lezione_RAG_LLM_Psicoterapia_Governance_Etica.md)
+- [abbasi-naderi-2025](abbasi-naderi-2025.md)
+- [quan-et-al-2025](quan-et-al-2025.md)
+- [steenstra-et-al-2026](steenstra-et-al-2026.md)
+-   [ T R I P O D + A I   S t a t e m e n t :   U p d a t e d   G u i d a n c e   f o r   R e p o r t i n g   C l i n i c a l   P r e d i c t i o n   M o d e l s   T h a t   U s e   R e g r e s s i o n   o r   M a c h i n e   L e a r n i n g   M e t h o d s ] ( w i k i / T R I P O D _ A I 2 0 2 4 . m d )   -   L i n e a   g u i d a   m e t o d o l o g i c a   p e r   i l   r e p o r t i n g   t r a s p a r e n t e   d i   m o d e l l i   d i   p r e d i z i o n e   c l i n i c a   b a s a t i   s u   r e g r e s s i o n e   o   m a c h i n e   l e a r n i n g / I A . 
+ 
+ -   [ D e s i g n i n g   P s y c h o m e t r i c   M e a s u r e s   f o r   L L M s :   F r a m e w o r k   a n d   A p p l i c a t i o n   t o   R a c i a l   B i a s ] ( w i k i / 2 5 0 9 - 1 3 3 2 4 v 3 . m d )   -   F r a m e w o r k   S T A M P - L L M   p e r   l a   p r o g e t t a z i o n e   e   v a l i d a z i o n e   p s i c o m e t r i c a   d i   m i s u r e   d i   b i a s   n e g l i   L L M . 
+ 
+ -   [ A s s e s s i n g   R i s k s   o f   L a r g e   L a n g u a g e   M o d e l s   i n   M e n t a l   H e a l t h   S u p p o r t ] ( w i k i / 2 6 0 2 - 1 9 9 4 8 v 2 . m d )   -   F r a m e w o r k   d i   A u t o m a t e d   C l i n i c a l   A I   R e d   T e a m i n g . 
+ 
+ -   [ E L E V A T E - G e n A I :   R e p o r t i n g   G u i d e l i n e s   f o r   t h e   U s e   o f   L a r g e   L a n g u a g e   M o d e l s ] ( w i k i / E L E V A T E - G e n A I 2 0 2 5 . m d )   -   L i n e e   g u i d a   I S P O R   i n   1 0   d o m i n i   p e r   l a   r e n d i c o n t a z i o n e   t r a s p a r e n t e   d e l l ' u s o   d i   L L M . 
+ 
+ 

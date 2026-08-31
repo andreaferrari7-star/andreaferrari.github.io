@@ -197,9 +197,9 @@ I biomarcatori vocali **non costituiscono un sostituto autonomo del colloquio ps
 ---
 
 ## Relazioni
-- [[mental_v12i1e67802]]: Systematic review e meta-analisi a 3 livelli di Maran et al. (2025) sulle performance dell'ASA nella depressione.
+- [[mental-v12i1e67802]]: Systematic review e meta-analisi a 3 livelli di Maran et al. (2025) sulle performance dell'ASA nella depressione.
 - [[self-report-proxy-bias-in-ai]]: Il problema epistemologico dell'addestramento su scale self-report vs diagnosi psichiatrica strutturata.
-- [[CPP-33-e70242]]: Rassegna di Orrù & Mannarini (2026) su elaborazione del linguaggio naturale e bio-acustica nei setting clinici.
+- [[cpp-33-e70242-1]]: Rassegna di Orrù & Mannarini (2026) su elaborazione del linguaggio naturale e bio-acustica nei setting clinici.
 - [[wearable-sensor-fusion-adherence]]: Integrazione multimodale di biomarcatori vocali e sensori biometrici indossabili.
 - [[multimodal-anxiety-detection-ai]]: Rilevazione dell'arousal e degli stati d'ansia mediante parametri fisiologici e acustici.
 - [[bpd-multimodal-behavioral-markers]]: Marcatori multimodali della dinamica vocale e affettiva nei disturbi di personalità.

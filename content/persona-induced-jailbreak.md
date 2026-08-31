@@ -79,4 +79,4 @@ Nel trial clinico simulato su larga scala ($N = 369$ sessioni), il confronto dir
 ---
 
 ## Relazioni
-- Vedi anche: [[2602.19948v2]], [[automated-clinical-ai-red-teaming]], [[ai-psychosis]], [[sycophantic-mirroring]], [[clinical-fidelity-assessment]], [[risk-ontology-ai-psychotherapy]], [[modello-centauro-clinico]]
+- Vedi anche: [[2602-19948v2]], [[automated-clinical-ai-red-teaming]], [[ai-psychosis]], [[sycophantic-mirroring]], [[clinical-fidelity-assessment]], [[risk-ontology-ai-psychotherapy]], [[modello-centauro-clinico]]

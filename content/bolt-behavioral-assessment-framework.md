@@ -37,15 +37,12 @@ flowchart TD
     LLM_P <-->|Discrepanza di Pacing| H_High
 ```
 
----
+## Evidenze dalla Letteratura
 
-## La 'RLHF Advice-Giving Trap' e la Sovrapposizione con le Sedute Low-Quality
-
-### 1. Il Meccanismo del Bias da RLHF Commerciale
-- Gli LLM commerciali sono ottimizzati per essere assistenti generici collaborativi, efficienti e orientati alla risoluzione pragmatica dei problemi dell'utente.
-- Quando applicati alla salute mentale, questo addestramento induce la **RLHF Advice-Giving Trap**:
-  - Il modello fornisce immediatamente rassicurazioni superficiali, spiegazioni e soluzioni prescrittive (*advice-giving* precoce).
-  - Viene violato il principio cardine del **pacing terapeutico** e della scoperta guidata socratica, impedendo al paziente di esplorare autonomamente le proprie emozioni e i propri schemi cognitivi.
+### La 'RLHF Advice-Giving Trap'
+Gli LLM commerciali sono ottimizzati per essere assistenti generici orientati alla risoluzione pragmatica dei problemi. Applicati alla salute mentale, questo addestramento induce la **RLHF Advice-Giving Trap**:
+- Il modello fornisce immediatamente rassicurazioni superficiali e soluzioni prescrittive (*advice-giving* precoce).
+- Viene violato il principio cardine del **pacing terapeutico** e della scoperta guidata socratica.
 
 ```mermaid
 flowchart LR
@@ -59,16 +56,15 @@ flowchart LR
     LLM x-.-x|Divergenza Strutturale| HQ
 ```
 
-### 2. Il Profilo 'Ibrido' del Terapeuta LLM
-L'analisi BOLT rivela che gli LLM non si limitano a clonare i terapeuti scadenti, ma generano un profilo comportamentale ibrido e peculiare:
-- **Elementi Critici (Low-Quality):** Eccessiva rapidità nell'erogare soluzioni, tendenza a 'risolvere' il turno anziché approfondire il vissuto, rigidità direttiva.
-- **Elementi Positivi Emergenti:** Rispetto alle sedute low-quality umane, i modelli linguistici (specie GPT-4) esibiscono una frequenza significativamente superiore di *riflessioni sui punti di forza* (*strengths*) e formulazioni incoraggianti sui bisogni del paziente.
+### Il Profilo 'Ibrido' del Terapeuta LLM
+L'analisi BOLT rivela un profilo ibrido:
+- **Elementi Critici (Low-Quality):** Eccessiva rapidità nell'erogare soluzioni e rigidità direttiva.
+- **Elementi Positivi Emergenti:** Rispetto alle sedute low-quality umane, i modelli linguistici (specie GPT-4) esibiscono una frequenza superiore di *riflessioni sui punti di forza* e formulazioni incoraggianti.
 
----
-
-## Modulazione tramite Prompt Engineering: Limiti dell'Allineamento Superficiale
-
-Il framework BOLT valuta se istruzioni esplicite di prompt engineering (es. *"Focalizzati sull'ascolto riflessivo ed evita di proporre soluzioni o consigli pratici"*) possano correggere questo sbilanciamento.
+### Limiti del Prompt Engineering
+Il prompt engineering agisce solo come filtro superficiale:
+- Riesce a ridurre il conteggio lessicale delle soluzioni, ma non conferisce una reale teoria della mente clinica.
+- Fragilità su dialoghi multi-turno: la pressione probabilistica del modello tende a riallinearsi verso il default da assistente generalista.
 
 ```mermaid
 flowchart TD
@@ -80,21 +76,11 @@ flowchart TD
     ModulatedResponse -->|GPT-3.5 / Llama| Inconsistent["Incoerenza Comportamentale: Oscillazione tra passività e ricaduta in consigli diretti"]
 ```
 
-- **Allineamento Superficiale (*Superficial Alignment*):** Il prompt engineering agisce come un filtro conversazionale di superficie. Riesce a ridurre il conteggio lessicale delle soluzioni dirette, ma non conferisce al modello una reale teoria della mente o un senso clinico del tempo terapeutico.
-- **Fragilità su Dialoghi Multi-Turno:** All'aumentare dei turni di conversazione, la pressione probabilistica del modello tende a riallinearsi verso il default da assistente generalista.
+**Riferimenti Bibliografici:**
+- Chiu, K., et al. (2024). *Behavioral Assessment of LLM Therapists*. [Studio fondamentale del framework BOLT].
 
----
-
-## Implicazioni Progettuali per la Psicoterapia Generativa
-
-1. **Inidoneità come Terapeuti Autonomi:** I risultati del framework BOLT costituiscono una prova empirica contro l'impiego non supervisionato degli LLM commerciali come psicoterapeuti autonomi.
-2. **Necessità di Architetture di Controllo Esterno:** La modulazione del comportamento clinico non può essere delegata al solo system prompt; richiede moduli dialogici esterni (*Dialog Managers*, *State Machines*, *Safety Layers*) che impongano formalmente le fasi della seduta.
-3. **Impiego Ottimale:** Utilizzo del framework BOLT come strumento di benchmarking e validazione pre-clinica per quantificare la qualità e la sicurezza di agenti conversazionali prima del loro deployment.
-
----
-
-## Related pages
-- [[Sunto_articoli]]
+## Relazioni
+- [[sunto-articoli]]
 - [[client101-simulazione-pazienti-virtuali]]
 - [[diagnosis-of-thought-framework]]
 - [[mind-safe-framework]]

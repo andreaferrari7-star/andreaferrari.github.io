@@ -65,4 +65,4 @@ Per garantire un valore pedagogico ottimale ed evitare stalli o derive incontrol
 - Woolley, S. R., Wampler, K. S., & Davis, S. D. (2012). Enactments in couple therapy: Identifying therapist interventions associated with positive change. *Journal of Family Therapy*, 34(3), 284–305.
 
 ## Relazioni
-- Vedi anche: [[2601.10970v2]], [[multi-party-interaction-simulation]], [[simulazione-pazienti-ai]], [[clinical-ai-simulation]], [[trainer-simulator]], [[clinical-fidelity-assessment]], [[reverse-training-simulazione]], [[ai-assisted-psychotherapy]]
+- Vedi anche: [[2601-10970v2]], [[multi-party-interaction-simulation]], [[simulazione-pazienti-ai]], [[clinical-ai-simulation]], [[trainer-simulator]], [[clinical-fidelity-assessment]], [[reverse-training-simulazione]], [[ai-assisted-psychotherapy]]

@@ -85,7 +85,7 @@ La psicoterapia evidence-based riconosce che l'efficacia di un intervento cognit
 ---
 
 ## Relazioni
-- [[report_bias_llm_psicoterapia]]: Report tecnico di riferimento di Apex Lab (2026) sulla mappatura dei bias in psicoterapia.
+- [[report-bias-llm-psicoterapia]]: Report tecnico di riferimento di Apex Lab (2026) sulla mappatura dei bias in psicoterapia.
 - [[stealth-sycophancy]]: Bias euristico che porta il modello a convalidare acriticamente le distorsioni del paziente.
 - [[simulated-empathy-vs-authentic-presence]]: Divario epistemologico ed esperienziale tra formule empatiche simulate e presenza terapeutica autentica.
 - [[clinical-fidelity-assessment]]: Protocolli di misurazione dell'aderenza e della competenza clinica nei sistemi artificiali.

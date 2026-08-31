@@ -122,6 +122,6 @@ Per risolvere il *marketing-architecture mismatch*, la comunità scientifica e g
   - [[artificial-intimacy]] (Attaccamento parasociale e illusione relazionale con agenti sintetici)
   - [[demarcazione-wellness-vs-samd-salute-mentale]] (Distinzione regolatoria tra app di benessere e dispositivi medici)
 - Sintesi di riferimento:
-  - [[WPS_24_383]] (Hua et al., 2025: Revisione sistematica sull'evoluzione dei chatbot per la salute mentale)
+  - [[wps-24-383]] (Hua et al., 2025: Revisione sistematica sull'evoluzione dei chatbot per la salute mentale)
   - [[behavsci-16-00676]] (Neacșu, 2026: Opportunità e rischi clinici dell'IA in psicoterapia)
   - [[health-advisory-ai-chatbots-wellness-apps-mental-health]] (Linee guida di safety per chatbot e app di salute mentale)

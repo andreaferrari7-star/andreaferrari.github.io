@@ -121,10 +121,10 @@ La validità dei test di accuratezza poggia sulla rigorosa separazione delle fon
 ---
 
 ## Related pages
-- [[MI-CLEAR-LLM_2025]]
+- [[mi-clear-llm-2025]]
 - [[stochasticity-management-in-clinical-llms]]
 - [[chart-reporting-guideline]]
-- [[CHART2025]]
+- [[chart2025-1]]
 - [[elevate-genai-framework]]
 - [[gamer-reporting-guideline]]
 - [[living-guidelines-in-health-ai]]

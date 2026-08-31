@@ -27,4 +27,4 @@ source_papers: ["2508.00847v1.pdf"]
 - Aafjes-van Doorn, K., Porcerelli, J., & Müller-Frommeyer, L. C. (2020). Language style matching in psychotherapy: An implicit aspect of alliance. *Journal of Counseling Psychology*, 67(4), 509–522.
 
 ## Relazioni
-- Vedi anche: [[2508.00847v1]], [[supportive-listener-prompting]], [[digital-therapeutic-alliance]], [[simulated-therapeutic-alliance]], [[lexical-psychological-features]], [[in-session-warning-signs]], [[conversational-agents-mental-health]]
+- Vedi anche: [[2508-00847v1]], [[supportive-listener-prompting]], [[digital-therapeutic-alliance]], [[simulated-therapeutic-alliance]], [[lexical-psychological-features]], [[in-session-warning-signs]], [[conversational-agents-mental-health]]

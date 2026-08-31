@@ -1,53 +1,36 @@
+---
+title: Libet Prime e Agenti Didattici CBT
+created: 2026-08-31
+last_updated: 2026-08-27
+tags: [psicoterapia, AI, didattica, LIBET]
+---
+
 # Libet Prime e Agenti Didattici CBT
 
-**Summary**: Framework per la progettazione, sviluppo e versioning di agenti conversazionali intelligenti applicati alla didattica della psicoterapia cognitiva (modello LIBET), basato su prompt multi-modali, knowledge base strutturate e tutoraggio maieutico-socratico.
-**Sources**: `05-11 Discussione del Gruppo di Ricerca su AI e Psicoterapia.txt`, `05-08 Riunione_ Sviluppo Knowledge Base AI, Etica e Applicazioni Cliniche.txt`
-**Last updated**: 2026-08-27
----
+## Definizione Operativa
+Libet Prime è un framework per la progettazione, lo sviluppo e il versioning di agenti conversazionali intelligenti applicati alla didattica della psicoterapia cognitiva (modello LIBET). Il sistema integra prompt multi-modali, knowledge base strutturate e un approccio tutoraggio maieutico-socratico.
 
-## Architettura del Sistema Libet Prime
+Implementato su Google Workspace Education (Gemini Gem) integrato con Google Classroom, garantisce una gestione privatizzata e selettiva per classi di allievi. L'architettura prevede cinque modalità di risposta:
+1. Spiegazione teorica (costrutti e metateoria LIBET).
+2. Confronto e distinzione (nosografica e concettuale).
+3. Vignetta clinica e formulazione (analisi di trascritti).
+4. Intervento razionale (strategie evidence-based).
+5. Interrogazione / Autovalutazione.
 
-*Libet Prime* rappresenta un modello applicativo pionieristico di intelligenza artificiale didattica per le scuole di specializzazione in psicoterapia cognitiva (Studi Cognitivi):
-- **Distribuzione Controllata e Sostenibile**: Implementato su Google Workspace Education (Gemini Gem) integrato con Google Classroom, consentendo una gestione privatizzata e selettiva per classi di allievi senza costi a consumo per singola chiamata API.
-- **Architettura a 5 Modalità di Risposta**: Il master prompt governa cinque sotto-modalità specializzate:
-  1. *Spiegazione teorica*: Esposizione strutturata dei costrutti e della metateoria LIBET.
-  2. *Confronto e distinzione*: Differenziazione nosografica e concettuale tra quadri clinici.
-  3. *Vignetta clinica e formulazione*: Analisi di trascritti e concettualizzazione del caso su base LIBET.
-  4. *Intervento razionale*: Guida alla scelta di strategie e tecniche di intervento evidence-based.
-  5. *Interrogazione / Autovalutazione*: Modalità di testing per l'autoapprendimento dello studente.
+## Evidenze dalla Letteratura
+Il modello si basa su una Knowledge Base ingegnerizzata di 26 capitoli, redatta e validata in modo ibrido (clinici esperti e LLM). Le regole epistemologiche incorporano:
+- Precedenza dei dati fattuali sulle inferenze.
+- Formulazione basata sui cicli sintomatici.
+- Dialettica dei bisogni (non solo eliminazione della sensibilità emotiva).
+- Esplicitazione dei limiti inferenziali.
 
----
+Il sistema adotta un approccio socratico, stimolando la riflessione metacognitiva invece di fornire risposte pre-confezionate. È stata documentata la gestione del *Prompt Regression* causato dall'*over-constraining*, risolta tramite la creazione di istanze *clean agent* e A/B testing su casi standardizzati.
 
-## Knowledge Base Dedicata (26 Capitoli)
+**Riferimenti Bibliografici:**
+- 05-11 Discussione del Gruppo di Ricerca su AI e Psicoterapia.
+- 05-08 Riunione Sviluppo Knowledge Base AI, Etica e Applicazioni Cliniche.
 
-A differenza dell'approccio generico basato sull'iniezione di PDF grezzi, la Knowledge Base di Libet Prime è stata ingegnerizzata ad hoc:
-- **Redazione e Validazione Ibrida**: Co-costruita tramite iterazioni strutturate tra clinico esperto e LLM avanzati (ChatGPT, Claude) per sintetizzare e gerarchizzare 26 moduli concettuali.
-- **Regole Epistemologiche Incorporate**:
-  - Precedenza rigorosa dei dati fattuali sulle inferenze interpretative.
-  - Avvio della formulazione sempre a partire dai cicli sintomatici.
-  - Rispetto della dialettica dei bisogni (evitando di mirare alla mera eliminazione della sensibilità emotiva).
-  - Esplicitazione sistematica dei limiti di inferenza del modello.
-  - Interconnessione e mappatura dinamica tra moduli e capitoli correlati.
-
----
-
-## Il Paradigma Socratico vs Correzione Passiva
-
-Un'evoluzione fondamentale del modello è la transizione da un agente puramente nozionistico/correttivo a un **agente socratico**:
-- Invece di limitarsi a identificare gli errori o fornire formulazioni pre-confezionate, l'agente pone domande guida (*guiding questions*), richiede chiarimenti e invita lo studente a riformulare le ipotesi diagnostiche, stimolando la riflessione metacognitiva e il ragionamento clinico autonomo.
-
----
-
-## Gestione del *Prompt Regression* e Best Practice di Versioning
-
-Durante il ciclo di sviluppo (passaggio da Libet Prime 1.0 a 1.1), è emerso il fenomeno del **Prompt Regression** da *over-constraining*:
-- **Collo di Bottiglia Istruzionale**: L'aggiunta progressiva di vincoli, condizioni e istruzioni rigide su un prompt esistente induce una regressione qualitativa del modello, portandolo ad appiattirsi su scalette meccaniche e stereotipate.
-- **Priorità Gerarchica dei Token**: Gli LLM tendono ad attribuire priorità sproporzionata alle istruzioni aggiunte in coda, alterando l'equilibrio complessivo del reasoning.
-- **Soluzione Metodologica**: Per iterare e migliorare un agente clinico è preferibile sviluppare un'istanza pulita (*clean agent*) da zero ed eseguire test comparativi (A/B testing) su casi standardizzati, isolando le versioni precedenti.
-
----
-
-## Related pages
+## Relazioni
 - [[05-11_Discussione_Gruppo_Ricerca_AI_Psicoterapia]]
 - [[human-in-the-reasoning]]
 - [[simulazione-pazienti-ai]]

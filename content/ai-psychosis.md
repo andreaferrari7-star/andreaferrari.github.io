@@ -82,4 +82,4 @@ Nell'audit empirico condotto da Steenstra et al. (2026) su 369 sessioni terapeut
 ---
 
 ## Relazioni
-- Vedi anche: [[2602.19948v2]], [[automated-clinical-ai-red-teaming]], [[persona-induced-jailbreak]], [[sycophantic-mirroring]], [[risk-ontology-ai-psychotherapy]], [[simulated-empathy-vs-authentic-presence]], [[uso-problematico-chatbot-ai]]
+- Vedi anche: [[2602-19948v2]], [[automated-clinical-ai-red-teaming]], [[persona-induced-jailbreak]], [[sycophantic-mirroring]], [[risk-ontology-ai-psychotherapy]], [[simulated-empathy-vs-authentic-presence]], [[uso-problematico-chatbot-ai]]

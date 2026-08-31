@@ -244,4 +244,4 @@ flowchart TD
 ---
 
 ## Relazioni
-- Vedi anche: [[conceptual-architecture-of-ai-guided-cbt]], [[functional-vs-relational-mechanisms-in-ai-therapy]], [[healthcare-14-00820]], [[healthcare-13-02340]], [[cbt-dialogue-systems-and-tools]], [[ai-enhanced-cbt]], [[digital-therapeutic-alliance]], [[stepped-care-ai-integration]], [[clinical-readiness-gap-in-mh-chatbots]], [[power-safety-paradox]], [[tiered-human-ai-healing-ecosystem]], [[simulated-empathy-vs-authentic-presence]], [[modello-centauro-clinico]], [[fpubh-14-1792627]], [[2407.19422v1]], [[2508.00847v1]]
+- Vedi anche: [[conceptual-architecture-of-ai-guided-cbt]], [[functional-vs-relational-mechanisms-in-ai-therapy]], [[healthcare-14-00820]], [[healthcare-13-02340]], [[cbt-dialogue-systems-and-tools]], [[ai-enhanced-cbt]], [[digital-therapeutic-alliance]], [[stepped-care-ai-integration]], [[clinical-readiness-gap-in-mh-chatbots]], [[power-safety-paradox]], [[tiered-human-ai-healing-ecosystem]], [[simulated-empathy-vs-authentic-presence]], [[modello-centauro-clinico]], [[fpubh-14-1792627]], [[2407-19422v1]], [[2508-00847v1]]

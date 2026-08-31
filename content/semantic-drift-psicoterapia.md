@@ -36,4 +36,4 @@ flowchart LR
 - Tripathi, S., Sukumaran, R., & Cook, T. S. (2024). Efficient healthcare with large language models: Optimizing clinical workflow and enhancing patient care. *Journal of the American Medical Informatics Association*, 31(3), ocad258.
 
 ## Relazioni
-- Vedi anche: [[2511.22818v1]], [[miti-annotation-scheme]], [[clinical-fidelity-assessment]], [[clinical-nlp-domain-shift]], [[supervisione-clinica-ai]], [[bottom-up-clinical-documentation]], [[validita-psicometrica-llm]], [[in-session-warning-signs]], [[misurazione-bias-razziale-llm]]
+- Vedi anche: [[2511-22818v1]], [[miti-annotation-scheme]], [[clinical-fidelity-assessment]], [[clinical-nlp-domain-shift]], [[supervisione-clinica-ai]], [[bottom-up-clinical-documentation]], [[validita-psicometrica-llm]], [[in-session-warning-signs]], [[misurazione-bias-razziale-llm]]

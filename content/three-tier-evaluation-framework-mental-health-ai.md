@@ -109,5 +109,5 @@ Il framework T1-T3 evidenzia una fallacia ricorrente nella digital health: presu
   - [[tiered-autonomy-in-clinical-ai]] (Modello di autonomia stratificata nell'IA clinica)
   - [[safety-mechanisms-ai-chatbots]] (Meccanismi di sicurezza e protocolli di emergenza per chatbot)
 - Sintesi di riferimento:
-  - [[WPS_24_383]] (Revisione sistematica su 160 studi di chatbot per la salute mentale, 2020-2024)
+  - [[wps-24-383]] (Revisione sistematica su 160 studi di chatbot per la salute mentale, 2020-2024)
   - [[mental-2026-1-e88057]] (Lokadjaja et al., 2026: Scoping review sulla validazione degli LLM su dati reali)

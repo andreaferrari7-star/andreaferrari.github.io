@@ -34,4 +34,4 @@ flowchart TD
 - Nosek, B. A., & Banaji, M. R. (2001). The go/no-go association task. *Social Cognition*, 19(6), 625–666.
 
 ## Relazioni
-- Vedi anche: [[2509.13324v3]], [[stamp-llm-framework]], [[validita-psicometrica-llm]], [[machine-psychology]], [[audit-bias-llm-clinici]], [[algorithmic-bias-and-digital-inequalities]], [[weird-bias-cultural-adaptability-ai]]
+- Vedi anche: [[2509-13324v3]], [[stamp-llm-framework]], [[validita-psicometrica-llm]], [[machine-psychology]], [[audit-bias-llm-clinici]], [[algorithmic-bias-and-digital-inequalities]], [[weird-bias-cultural-adaptability-ai]]

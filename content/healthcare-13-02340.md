@@ -163,4 +163,4 @@ flowchart TD
 ---
 
 ## Relazioni
-- Vedi anche: [[shared-decision-making-in-clinical-ai]], [[comparative-ai-health-governance]], [[Clinical_decision_making_and_artificial_intelligence]], [[informed-consent-for-clinical-ai]], [[algorithmic-paternalism-in-ai-mental-health]], [[human-oversight-and-liability-in-clinical-ai]], [[gdpr-governance-mental-health-ai]], [[three-layer-governance-framework]], [[information-without-explanation-in-clinical-ai]], [[modello-centauro-clinico]], [[simulated-empathy-vs-authentic-presence]], [[ai-research-ethics]], [[tiered-autonomy-in-clinical-ai]]
+- Vedi anche: [[shared-decision-making-in-clinical-ai]], [[comparative-ai-health-governance]], [[clinical-decision-making-and-artificial-intelligence]], [[informed-consent-for-clinical-ai]], [[algorithmic-paternalism-in-ai-mental-health]], [[human-oversight-and-liability-in-clinical-ai]], [[gdpr-governance-mental-health-ai]], [[three-layer-governance-framework]], [[information-without-explanation-in-clinical-ai]], [[modello-centauro-clinico]], [[simulated-empathy-vs-authentic-presence]], [[ai-research-ethics]], [[tiered-autonomy-in-clinical-ai]]

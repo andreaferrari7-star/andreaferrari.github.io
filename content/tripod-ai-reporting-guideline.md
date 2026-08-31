@@ -147,7 +147,7 @@ graph TD
 ---
 
 ## Concetti Correlati e Connessioni Wiki
-- [[TRIPOD_AI2024|Sintesi Paper TRIPOD+AI 2024 (Collins et al., BMJ)]] - Scheda bibliografica e sintesi estesa del paper BMJ
+- [[tripod-ai2024|Sintesi Paper TRIPOD+AI 2024 (Collins et al., BMJ)]] - Scheda bibliografica e sintesi estesa del paper BMJ
 - [[clinical-prediction-model-evaluation|Valutazione dei Modelli Predittivi Clinici]] - Quadro concettuale: calibrazione continua, discriminazione, utilità clinica e ricalibrazione
 - [[tripod-llm-reporting-guideline|TRIPOD-LLM Reporting Guideline]] - Linea guida per modelli generativi e prompt engineering
 - [[chart-reporting-guideline|CHART Reporting Guideline]] - Standard di reporting per studi di consulenza sanitaria con Chatbot/LLM

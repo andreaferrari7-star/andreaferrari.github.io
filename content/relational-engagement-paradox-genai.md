@@ -110,7 +110,7 @@ L'analisi di Olisaeloka et al. (2026) individua i pattern tecnici ed operativi c
 ---
 
 ## Relazioni
-- [[Generative_AI_Mental_Health_Chatbot_Interventions]]: Scoping review di Olisaeloka et al. (2026) su UX e safety nei chatbot di salute mentale.
+- [[generative-ai-mental-health-chatbot-interventions]]: Scoping review di Olisaeloka et al. (2026) su UX e safety nei chatbot di salute mentale.
 - [[layered-safeguards-in-clinical-ai]]: Architettura di salvaguardie multilivello per garantire la sicurezza clinica.
 - [[clinical-readiness-gap-in-mh-chatbots]]: Il divario tra scorrevolezza computazionale e prontezza clinico-regolatoria.
 - [[emotional-infrastructure]]: L'IA come infrastruttura affettiva e il rischio di dipendenza da stampella digitale.

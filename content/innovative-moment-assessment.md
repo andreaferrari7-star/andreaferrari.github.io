@@ -76,4 +76,4 @@ flowchart TD
 - White, M. (2007). *Maps of narrative practice*. WW Norton & Company.
 
 ## Relazioni
-- Vedi anche: [[2507.20241v2]], [[interactive-narrative-therapist]], [[terapia-narrativa-ia]], [[process-of-change]], [[clinical-fidelity-assessment]], [[process-based-therapy]], [[crdial-framework]], [[simulazione-pazienti-ai]]
+- Vedi anche: [[2507-20241v2]], [[interactive-narrative-therapist]], [[terapia-narrativa-ia]], [[process-of-change]], [[clinical-fidelity-assessment]], [[process-based-therapy]], [[crdial-framework]], [[simulazione-pazienti-ai]]

@@ -49,4 +49,4 @@ graph LR
 - Nye, A., Delgadillo, J., & Barkham, M. (2023). Efficacy of personalized psychological interventions: A systematic review and meta-analysis. *Journal of Consulting and Clinical Psychology*, 91(7), 389.
 
 ## Relazioni
-- Vedi anche: [[2512.05836v1]], [[llm-case-conceptualization-pipeline]], [[bottom-up-clinical-documentation]], [[extended-evolutionary-meta-model]], [[ai-assisted-psychotherapy]], [[clinical-fidelity-assessment]], [[modello-centauro-clinico]]
+- Vedi anche: [[2512-05836v1]], [[llm-case-conceptualization-pipeline]], [[bottom-up-clinical-documentation]], [[extended-evolutionary-meta-model]], [[ai-assisted-psychotherapy]], [[clinical-fidelity-assessment]], [[modello-centauro-clinico]]

@@ -8,7 +8,7 @@ source_papers: ["REFINE_2026.pdf", "MI-CLEAR-LLM_2025.pdf"]
 ## Definizione Operativa
 - L'**Integrità del Dataset (*Dataset Integrity*)** nell'intelligenza artificiale medica definisce il grado di trasparenza, tracciabilità etico-legale, qualità clinica e indipendenza metodologica delle coorti di dati impiegate attraverso tutte le fasi di sviluppo, adattamento e collaudo dei Foundation Models (FM) e dei Large Language Models (LLM).
 - **La Crisi di Contaminazione nei Modelli di Fondazione:** A differenza degli algoritmi di machine learning convenzionali (addestrati su dataset circoscritti e noti), i modelli generativi di larga scala vengono pre-addestrati su centinaia di miliardi di token e milioni di immagini estratti massivamente dal web aperto, dalla letteratura biomedica (*PubMed Central*, *bioRxiv*, archivi open-access) e da repository pubblici. Questo introduce il grave rischio di **contaminazione dei dati di test (*data contamination / test set memorization*)**, dove il modello manifesta un'elevata accuratezza non per capacità di generalizzazione clinica, bensì per pura memorizzazione parametrica dei quesiti o dei referti visti durante il pretraining.
-- **Inquadramento negli Standard Metodologici:** Come formalizzato dalla Sezione 4 dello standard **[[REFINE_2026|REFINE]]** (Mese et al., 2026; Item 4.1 - 4.10) e dalle linee guida **[[MI-CLEAR-LLM_2025|MI-CLEAR-LLM]]**, la verifica rigorosa dell'integrità del dataset richiede la tracciabilità delle licenze, la quantificazione del rischio di contaminazione temporale legato al *knowledge cutoff*, l'analisi dei bias di rappresentatività, la corretta gestione dei dati sintetici e la separazione atomica e cieca tra partizioni di sviluppo e test.
+- **Inquadramento negli Standard Metodologici:** Come formalizzato dalla Sezione 4 dello standard **[[refine-2026|REFINE]]** (Mese et al., 2026; Item 4.1 - 4.10) e dalle linee guida **[[mi-clear-llm-2025|MI-CLEAR-LLM]]**, la verifica rigorosa dell'integrità del dataset richiede la tracciabilità delle licenze, la quantificazione del rischio di contaminazione temporale legato al *knowledge cutoff*, l'analisi dei bias di rappresentatività, la corretta gestione dei dati sintetici e la separazione atomica e cieca tra partizioni di sviluppo e test.
 
 ```mermaid
 flowchart TD
@@ -35,10 +35,7 @@ flowchart TD
     ContaminationRisks --> MethodologicalSafeguards
 ```
 
----
-
-## Tassonomia dei Rischi di Contaminazione e Leakage
-
+## Evidenze dalla Letteratura
 La letteratura metodologica recente distingue tre principali modalità di compromissione dell'indipendenza dei dati di valutazione medica:
 
 ```mermaid
@@ -67,11 +64,7 @@ I modelli proprietari o open-weight (es. GPT-4, LLaMA-3, Claude 3.5, Gemini 1.5/
 Negli studi basati su *inference-time adaptation*, i ricercatori testano iterativamente varianti di prompt. Se l'efficacia del prompt viene valutata direttamente sul medesimo set di dati usato per il reporting finale, si verifica un fenomeno di overfitting metodologico analogo al *data snooping*.
 - *Regola aurea:* Il prompt engineering deve avvenire su un sottoinsieme dedicato (*prompt development/adaptation data*), mantenendo il test set finale rigorosamente non visto (*strictly unseen held-out set*).
 
----
-
-## I 10 Requisiti di Integrità del Dataset (REFINE Sezione 4)
-
-La Sezione 4 della linea guida **[[refine-reporting-checklist|REFINE]]** (Mese et al., 2026) stabilisce i requisiti minimi di trasparenza per i dati biomedici:
+**Riferimenti Bibliografici:**
 
 | Item REFINE | Dominio Metodologico | Requisito Operativo ed Elementi Chiave |
 | :--- | :--- | :--- |
@@ -86,60 +79,10 @@ La Sezione 4 della linea guida **[[refine-reporting-checklist|REFINE]]** (Mese e
 | **4.9** | **Gestione dei Dati Mancanti** | Percentuale di missing data per ciascuna variabile clinica, determinazione del meccanismo (MCAR, MAR, MNAR) e strategia applicata (complete-case analysis, imputazione per mediana, imputazione multivariata/model-based). |
 | **4.10** | **Separazione Rigorosa delle Partizioni** | Isolamento fisico e deterministico tra partizioni di training, fine-tuning, test interno (monocentrico) e test esterno (multicentrico) basato su identificativi paziente univoci. Conferma che nessun dato di test è stato impiegato nel prompt engineering. |
 
----
-
-## Strategie Operative per Prevenire e Rilevare la Contaminazione
-
-```mermaid
-flowchart LR
-    subgraph DetectionMethods ["Metodi di Rilevamento Contaminazione"]
-        M1["<b>Temporal Cutoff Audit:</b><br/>Impiego esclusivo di dati post-cutoff"]
-        M2["<b>N-Gram & Semantic Overlap:</b><br/>Confronto con repository pubblici"]
-        M3["<b>Perplexity Discrepancy Probing:</b><br/>Anomalie nei logit / Loss anormalmente bassa"]
-    end
-
-    subgraph MitigationWorkflows ["Workflow di Mitigazione"]
-        W1["<b>Blinded Prompt Optimization:</b><br/>Team di prompting accecato al test set"]
-        W2["<b>Patient-Level Stratification:</b><br/>Hashing degli identificativi paziente"]
-        W3["<b>Prospective Held-out Acquisition:</b><br/>Raccolta dati contemporanea non pubblicata"]
-    end
-
-    DetectionMethods --> MitigationWorkflows
-```
-
-### 1. Temporal Cutoff Audit (Audit Temporale di Cutoff)
-La strategia più solida per evitare la contaminazione del pretraining consiste nell'utilizzare coorti di dati clinici raccolte o pubblicate **successivamente alla data di cutoff dichiarata** del modello di fondazione.
-- Se un modello ha un cutoff dichiarato a *Dicembre 2023*, un test condotto su casi clinici e immagini acquisiti nel *2024–2025* garantisce l'assenza di contaminazione pregressa nel corpus di base.
-
-### 2. De-identification e Preservazione della Privacy PHI
-Nel contesto dei Large Language Models e dei modelli di fondazione multimodali, l'integrità del dato è indissolubilmente legata alla sicurezza dei dati sanitari protetti (*Protected Health Information - PHI*):
-- **De-identificazione Testuale:** Rimozione deterministica o probabilistica di identificativi diretti (nomi, numeri di cartella, date esatte, recapiti) tramite modelli NLP specializzati o pattern regex avanzati.
-- **De-identificazione Immagini (Pixel Anonymization):** Rimozione del testo "bruciato" (*burned-in text*) nei metadati DICOM e nei pixel visibili di ecografie o scansioni radiografiche.
-- **Policy di Routing e Cloud:** Come richiesto dall'Item 6.6 di REFINE, i prompt contenenti dati clinici non devono essere instradati su server commerciali pubblici né riutilizzati per il riaddestramento dei modelli (*zero-retention agreements*).
-
----
-
-## Dati Sintetici: Opportunità e Rischi per l'Integrità Scientifica
-
-L'impiego crescente di modelli generativi per creare cartelle cliniche sintetiche, referti radiologici artificiali o immagini mediche aumentate via modelli di diffusione introduce opportunità e insidie:
-
-> [!TIP]
-> **Vantaggi dei Dati Sintetici:**
-> - Possibilità di ampliare coorti di malattie rare o fenotipi sottorappresentati (*class rebalancing*).
-> - Condivisione open-science priva di vincoli di privacy e GDPR/HIPAA.
-
-> [!CAUTION]
-> **Rischi di Integrità e "Model Collapse":**
-> - **Allucinazioni Strutturali:** I dati sintetici possono riflettere e amplificare i bias o gli errori di ragionamento del generatore.
-> - **Collasso del Modello (*Model Autophagy / Model Collapse*):** Addestrare o valutare modelli su dati sintetici generati da altri LLM porta al degrado progressivo della variabilità biologica reale e a una falsa convergenza statistica.
-> - **Obbligo di Reporting:** L'Item 4.5 di REFINE impone la dichiarazione esplicita della percentuale di dati sintetici e la trasparenza completa sull'architettura generativa impiegata per produrli.
-
----
-
-## Pagine Correlate della Wiki
-- [[REFINE_2026]] — Sintesi completa della linea guida internazionale REFINE (Mese et al., 2026).
+## Relazioni
+- [[refine-2026]] — Sintesi completa della linea guida internazionale REFINE (Mese et al., 2026).
 - [[refine-reporting-checklist]] — Concetto metodologico sui 6 domini della checklist REFINE.
-- [[MI-CLEAR-LLM_2025]] — Standard di accuratezza diagnostica e prevenzione del data leakage negli LLM clinici.
+- [[mi-clear-llm-2025]] — Standard di accuratezza diagnostica e prevenzione del data leakage negli LLM clinici.
 - [[stochasticity-management-in-clinical-llms]] — Gestione della non-determinatezza e affidabilità dell'output generativo.
 - [[CLAIM]] — Linea guida per l'intelligenza artificiale in diagnostica per immagini.
 - [[TRIPOD-LLM]] — Standard di reporting per modelli predittivi clinici basati su LLM.

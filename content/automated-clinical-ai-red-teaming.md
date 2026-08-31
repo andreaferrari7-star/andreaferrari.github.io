@@ -78,4 +78,4 @@ Nel trial su 369 sessioni simulate condotto su sei terapeuti IA, l'applicazione 
 ---
 
 ## Relazioni
-- Vedi anche: [[2602.19948v2]], [[ai-psychosis]], [[persona-induced-jailbreak]], [[risk-ontology-ai-psychotherapy]], [[simpatient-evaluation-testbed]], [[sycophantic-mirroring]], [[simulazione-pazienti-ai]], [[clinical-fidelity-assessment]], [[modello-centauro-clinico]], [[2505.15108v2]]
+- Vedi anche: [[2602-19948v2]], [[ai-psychosis]], [[persona-induced-jailbreak]], [[risk-ontology-ai-psychotherapy]], [[simpatient-evaluation-testbed]], [[sycophantic-mirroring]], [[simulazione-pazienti-ai]], [[clinical-fidelity-assessment]], [[modello-centauro-clinico]], [[2505-15108v2]]

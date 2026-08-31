@@ -60,4 +60,4 @@ flowchart TD
 ---
 
 ## Relazioni
-- Vedi anche: [[Normativa_LLM_Psicologia_in_Italia]], [[software-as-a-medical-device-salute-mentale]], [[responsabilita-sanitaria-allucinazioni-algoritmiche]], [[quattro-condizioni-liceita-ia-psicologia]], [[health-advisory-ai-chatbots-wellness-apps-mental-health]], [[digital-therapeutic-alliance]], [[human-oversight-and-liability-in-clinical-ai]], [[Guida-Pratica-AI-OPPV]]
+- Vedi anche: [[normativa-llm-psicologia-in-italia]], [[software-as-a-medical-device-salute-mentale]], [[responsabilita-sanitaria-allucinazioni-algoritmiche]], [[quattro-condizioni-liceita-ia-psicologia]], [[health-advisory-ai-chatbots-wellness-apps-mental-health]], [[digital-therapeutic-alliance]], [[human-oversight-and-liability-in-clinical-ai]], [[guida-pratica-ai-oppv-1]]

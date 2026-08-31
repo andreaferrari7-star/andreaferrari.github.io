@@ -101,7 +101,7 @@ graph LR
 ---
 
 ## Related pages
-- [[2601.06159v1]]: Sintesi completa dello studio empirico originale.
+- [[2601-06159v1]]: Sintesi completa dello studio empirico originale.
 - [[open-data-scarcity-clinical-psychology]]: Quadro etico e metodologico della carenza di dati condivisi in ambito clinico.
 - [[mccv-and-statistical-validation-clinical-ml]]: Protocolli di validazione MCCV e inferenza statistica corretta.
 - [[treatment-outcome-and-relapse-prediction]]: Modelli predittivi dell'efficacia psicoterapeutica.

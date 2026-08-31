@@ -76,4 +76,4 @@ flowchart TD
 ---
 
 ## Relazioni
-- Vedi anche: [[2512.16206v2]], [[role-induction-ai-mental-health]], [[prosocial-advance-directives]], [[intervention-titration-ai]], [[recourse-mechanisms-ai-mental-health]], [[psychological-distress-interaction-patterns]], [[sycophantic-mirroring]], [[calibrated-mismatches]], [[synthetic-psychopathology]], [[alignment-conflict-schema]], [[simulated-empathy-vs-authentic-presence]], [[ai-assisted-psychotherapy]], [[software-as-a-medical-device-salute-mentale]], [[risk-ontology-ai-psychotherapy]]
+- Vedi anche: [[2512-16206v2]], [[role-induction-ai-mental-health]], [[prosocial-advance-directives]], [[intervention-titration-ai]], [[recourse-mechanisms-ai-mental-health]], [[psychological-distress-interaction-patterns]], [[sycophantic-mirroring]], [[calibrated-mismatches]], [[synthetic-psychopathology]], [[alignment-conflict-schema]], [[simulated-empathy-vs-authentic-presence]], [[ai-assisted-psychotherapy]], [[software-as-a-medical-device-salute-mentale]], [[risk-ontology-ai-psychotherapy]]

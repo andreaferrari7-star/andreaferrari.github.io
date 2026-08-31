@@ -35,4 +35,4 @@ flowchart TD
 - Constantino, M. J., Vîslă, A., Coyne, A. E., & Boswell, J. F. (2018). A meta-analysis of the association between patients' early treatment outcome expectation and their posttreatment outcomes. *Psychotherapy*, 55(4), 473–485.
 
 ## Relazioni
-- Vedi anche: [[2509.02144v1]], [[genuineness-gap]], [[processes-of-change-in-psychotherapy]], [[modello-centauro-clinico]], [[digital-therapeutic-alliance]], [[ai-assisted-psychotherapy]], [[supervisione-clinica-ai]]
+- Vedi anche: [[2509-02144v1]], [[genuineness-gap]], [[processes-of-change-in-psychotherapy]], [[modello-centauro-clinico]], [[digital-therapeutic-alliance]], [[ai-assisted-psychotherapy]], [[supervisione-clinica-ai]]

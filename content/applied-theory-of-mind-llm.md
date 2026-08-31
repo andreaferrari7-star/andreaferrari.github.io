@@ -1,4 +1,4 @@
-﻿---
+---
 tags: [theory-of-mind, applied-tom, large-language-models, mentalization, social-vignettes, faux-pas-test, autism-spectrum, perspective-taking, machine-psychology]
 source_papers: ["2601.06032v1.pdf"]
 ---
@@ -69,4 +69,4 @@ flowchart TD
 - Vetter, N. C., Leipold, K., Kliegel, M., Phillips, L. H., & Altgassen, M. (2013). Ongoing development of social cognition in adolescence. *Child Neuropsychology*, 19(6), 615–629.
 
 ## Relazioni
-- Vedi anche: [[2601.06032v1]], [[epistemic-markers-in-ai]], [[large-language-models]], [[machine-psychology]], [[validita-psicometrica-llm]], [[ai-assisted-psychotherapy]], [[simulated-empathy-vs-authentic-presence]], [[simulated-therapeutic-alliance]], [[modello-centauro-clinico]]
+- Vedi anche: [[2601-06032v1]], [[epistemic-markers-in-ai]], [[large-language-models]], [[machine-psychology]], [[validita-psicometrica-llm]], [[ai-assisted-psychotherapy]], [[simulated-empathy-vs-authentic-presence]], [[simulated-therapeutic-alliance]], [[modello-centauro-clinico]]

@@ -21,4 +21,4 @@ source_papers: ["2505.15108v2.pdf"]
 - Steenstra, I., & Bickmore, T. (2025). A Risk Ontology for Evaluating AI-Powered Psychotherapy Virtual Agents. In *Preprint*, ACM, New York, NY, USA, 11 pages. https://doi.org/10.1145/3717511.3749286 / arXiv:2505.15108v2 [cs.CL]
 
 ## Relazioni
-- Vedi anche: [[2505.15108v2]], [[in-session-warning-signs]], [[active-ai-therapeutic-agent]], [[clinical-fidelity-assessment]], [[ai-assisted-psychotherapy]], [[clinical-ai-simulation]]
+- Vedi anche: [[2505-15108v2]], [[in-session-warning-signs]], [[active-ai-therapeutic-agent]], [[clinical-fidelity-assessment]], [[ai-assisted-psychotherapy]], [[clinical-ai-simulation]]

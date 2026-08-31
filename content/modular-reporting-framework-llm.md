@@ -6,7 +6,7 @@ source_papers: ["TRIPOD-LLM2025.pdf"]
 # Modular Reporting Framework for Large Language Models in Healthcare
 
 ## Definizione Operativa
-- Il **Modular Reporting Framework for LLMs** è il paradigma metodologico introdotto dallo standard internazionale [[TRIPOD_LLM2025|TRIPOD-LLM]] (Gallifant et al., *Nature Medicine* 2025) per superare i limiti delle checklist di rendicontazione monolitiche e statiche nella ricerca biomedica basata su modelli linguistici generativi.
+- Il **Modular Reporting Framework for LLMs** è il paradigma metodologico introdotto dallo standard internazionale [[tripod-llm2025|TRIPOD-LLM]] (Gallifant et al., *Nature Medicine* 2025) per superare i limiti delle checklist di rendicontazione monolitiche e statiche nella ricerca biomedica basata su modelli linguistici generativi.
 - **Superamento del Modello Monolitico:** Mentre le linee guida tradizionali dell'[[chart-reporting-guideline|EQUATOR Network]] (come CONSORT, STROBE o TRIPOD 2015) applicavano un insieme rigido e indifferenziato di requisiti a qualsiasi studio, i Large Language Models ([[large-language-models|LLM]]) operano come modelli fondazionali multi-scopo capaci di spaziare dalla classificazione all'estrazione di informazioni, dalla sintesi documentale al dialogo clinico interattivo.
 - **Architettura a Matrice Bidimensionale:** Il framework adotta una struttura a matrice che interseca **4 Disegni di Ricerca** (*Research Designs*) e **9 Categorie di Task Clinici** (*LLM Tasks*), consentendo un filtraggio dinamico e contestuale dei requisiti di trasparenza metodologica (riducendo i 59/50 item totali solo alle voci pertinenti allo specifico studio).
 - **Integrazione Digitale:** Il framework è reso operativo tramite un'applicazione web interattiva open-access ([tripod-llm.vercel.app](https://tripod-llm.vercel.app/)) che guida gli autori nella selezione delle variabili di studio e genera automaticamente il documento PDF conforme da allegare alla sottomissione editoriale.
@@ -118,6 +118,6 @@ mindmap
 ---
 
 ## Relazioni
-- Linea Guida Madre: [[TRIPOD_LLM2025]]
-- Concetti Metodologici Correlati: [[task-specific-generative-evaluation-healthcare]], [[living-guidelines-in-health-ai]], [[tripod-llm-reporting-guideline]], [[TRIPOD_AI2024]]
+- Linea Guida Madre: [[tripod-llm2025]]
+- Concetti Metodologici Correlati: [[task-specific-generative-evaluation-healthcare]], [[living-guidelines-in-health-ai]], [[tripod-llm-reporting-guideline]], [[tripod-ai2024]]
 - Governance e Sicurezza: [[human-oversight-and-liability-in-clinical-ai]], [[dataset-integrity-and-contamination-in-medical-ai]], [[stochasticity-management-in-clinical-llms]]

@@ -71,4 +71,4 @@ flowchart TD
 - Madigan, S. (2011). *Narrative therapy*. American Psychological Association.
 
 ## Relazioni
-- Vedi anche: [[2507.20241v2]], [[innovative-moment-assessment]], [[terapia-narrativa-ia]], [[crdial-framework]], [[crispers-models-and-dataset]], [[clinical-fidelity-assessment]], [[simulazione-pazienti-ai]], [[ai-assisted-psychotherapy]], [[process-of-change]], [[active-ai-therapeutic-agent]]
+- Vedi anche: [[2507-20241v2]], [[innovative-moment-assessment]], [[terapia-narrativa-ia]], [[crdial-framework]], [[crispers-models-and-dataset]], [[clinical-fidelity-assessment]], [[simulazione-pazienti-ai]], [[ai-assisted-psychotherapy]], [[process-of-change]], [[active-ai-therapeutic-agent]]

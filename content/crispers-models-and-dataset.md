@@ -53,4 +53,4 @@ flowchart TD
 - Watson, D., Clark, L. A., & Tellegen, A. (1988). Development and validation of brief measures of positive and negative affect: The PANAS scales. *Journal of Personality and Social Psychology*, 54(6), 1063–1070.
 
 ## Relazioni
-- Vedi anche: [[2504.17238v1]], [[crdial-framework]], [[defense-attorney-technique]], [[cbt-dialogue-systems-and-tools]], [[clinical-fidelity-assessment]], [[active-ai-therapeutic-agent]], [[conversational-agents-mental-health]]
+- Vedi anche: [[2504-17238v1]], [[crdial-framework]], [[defense-attorney-technique]], [[cbt-dialogue-systems-and-tools]], [[clinical-fidelity-assessment]], [[active-ai-therapeutic-agent]], [[conversational-agents-mental-health]]

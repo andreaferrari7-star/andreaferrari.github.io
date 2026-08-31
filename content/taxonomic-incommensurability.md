@@ -1,4 +1,4 @@
-﻿---
+---
 tags: [taxonomic-incommensurability, costrutti, frammentazione-linguistica, psicometria, validita]
 source_papers: ["wulff-mata-2025-escaping-the-jingle-jangle-jungle-increasing-conceptual-clarity-in-psychology-using-large-language.pdf"]
 ---

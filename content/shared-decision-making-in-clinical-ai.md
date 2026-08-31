@@ -111,4 +111,4 @@ flowchart LR
 ---
 
 ## Relazioni
-- Vedi anche: [[healthcare-13-02340]], [[comparative-ai-health-governance]], [[Clinical_decision_making_and_artificial_intelligence]], [[algorithmic-paternalism-in-ai-mental-health]], [[informed-consent-for-clinical-ai]], [[human-oversight-and-liability-in-clinical-ai]], [[modello-centauro-clinico]], [[single-correct-answer-fallacy-in-clinical-ai]], [[information-without-explanation-in-clinical-ai]], [[simulated-empathy-vs-authentic-presence]]
+- Vedi anche: [[healthcare-13-02340]], [[comparative-ai-health-governance]], [[clinical-decision-making-and-artificial-intelligence]], [[algorithmic-paternalism-in-ai-mental-health]], [[informed-consent-for-clinical-ai]], [[human-oversight-and-liability-in-clinical-ai]], [[modello-centauro-clinico]], [[single-correct-answer-fallacy-in-clinical-ai]], [[information-without-explanation-in-clinical-ai]], [[simulated-empathy-vs-authentic-presence]]

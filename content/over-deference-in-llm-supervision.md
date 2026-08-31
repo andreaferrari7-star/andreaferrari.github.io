@@ -107,4 +107,4 @@ stateDiagram-v2
 ---
 
 ## Relazioni
-- Vedi anche: [[2607.25667v1]], [[native-speech-vs-text-in-clinical-simulation]], [[mymentorllm-framework]], [[supervisione-clinica-ai]], [[sycophantic-mirroring]], [[deliberate-practice-in-psicoterapia-ia]], [[modello-centauro-clinico]], [[trainer-simulator]], [[large-language-models]], [[2602.19948v2]]
+- Vedi anche: [[2607-25667v1]], [[native-speech-vs-text-in-clinical-simulation]], [[mymentorllm-framework]], [[supervisione-clinica-ai]], [[sycophantic-mirroring]], [[deliberate-practice-in-psicoterapia-ia]], [[modello-centauro-clinico]], [[trainer-simulator]], [[large-language-models]], [[2602-19948v2]]

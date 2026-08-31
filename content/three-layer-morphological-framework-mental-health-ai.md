@@ -150,7 +150,7 @@ Il framework evidenzia come l'evoluzione della salute mentale digitale sia stata
 ---
 
 ## Relazioni
-- [[mental_v12i1e78410]]
+- [[mental-v12i1e78410]]
 - [[ai-blended-therapy]]
 - [[prognostic-pessimism-in-clinical-ai]]
 - [[prompt-experiment-gap-in-clinical-ai]]

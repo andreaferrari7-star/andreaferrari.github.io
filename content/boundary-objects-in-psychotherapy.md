@@ -79,5 +79,5 @@ Quando integrati responsabilmente, gli oggetti di confine potenziati da LLM prom
 - Callon, M. (1984). Some elements of a sociology of translation: Domestication of the scallops and the fishermen of St Brieuc Bay. *The Sociological Review*, 32(1), 196–233.
 
 ## Relazioni
-- Vedi anche: [[2512.22462v1]], [[dynamic-boundary-mediation-framework]], [[educator-burden-marginalized-clients]], [[interazione-triadica-terapeuta-paziente-ia]], [[negotiable-data-visibility-privacy]], [[contextualized-relational-memory]], [[between-session-continuity-ai]], [[simulated-empathy-vs-authentic-presence]], [[ai-assisted-psychotherapy]]
+- Vedi anche: [[2512-22462v1]], [[dynamic-boundary-mediation-framework]], [[educator-burden-marginalized-clients]], [[interazione-triadica-terapeuta-paziente-ia]], [[negotiable-data-visibility-privacy]], [[contextualized-relational-memory]], [[between-session-continuity-ai]], [[simulated-empathy-vs-authentic-presence]], [[ai-assisted-psychotherapy]]
 

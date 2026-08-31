@@ -110,5 +110,5 @@ sequenceDiagram
 - Meyer, I. H. (2003). Prejudice, social stress, and mental health in lesbian, gay, and bisexual populations: Conceptual issues and research evidence. *Psychological Bulletin*, 129(5), 674–697.
 
 ## Relazioni
-- Vedi anche: [[2512.22462v1]], [[boundary-objects-in-psychotherapy]], [[educator-burden-marginalized-clients]], [[negotiable-data-visibility-privacy]], [[contextualized-relational-memory]], [[between-session-continuity-ai]], [[interazione-triadica-terapeuta-paziente-ia]], [[ai-mental-health-vulnerable-populations]], [[simulated-empathy-vs-authentic-presence]], [[genuineness-gap]], [[weird-bias-cultural-adaptability-ai]]
+- Vedi anche: [[2512-22462v1]], [[boundary-objects-in-psychotherapy]], [[educator-burden-marginalized-clients]], [[negotiable-data-visibility-privacy]], [[contextualized-relational-memory]], [[between-session-continuity-ai]], [[interazione-triadica-terapeuta-paziente-ia]], [[ai-mental-health-vulnerable-populations]], [[simulated-empathy-vs-authentic-presence]], [[genuineness-gap]], [[weird-bias-cultural-adaptability-ai]]
 

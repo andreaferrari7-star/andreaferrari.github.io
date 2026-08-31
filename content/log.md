@@ -164,3 +164,76 @@ Registro cronologico di acquisizioni, query e manutenzione.
 - 36 pagine senza frontmatter YAML (principalmente sintesi di riunioni pre-lotto-12).
 - 2 wikilink rotti rilevati (campione 50 file).
 - Rapporto Lint salvato nell'artifact di conversazione.
+
+## [2026-08-28] query | tassonomia-bias-llm-psicoterapeuta
+- Risposta a quesito: "principali bias conosciuti degli LLM di cui uno psicoterapeuta deve essere consapevole".
+- Creata pagina sintetica `tassonomia-bias-llm-psicoterapeuta.md` (macro-classi A/B/C, tabella 12 bias con implicazioni cliniche, evidenze ed esempi di prompt di de-biasing).
+- Fonti sintetizzate da wiki: report_bias_llm_psicoterapia, audit-bias-llm-clinici, stealth-sycophancy, sycophantic-mirroring, korsakoff-confabulazione-llm, prognostic-pessimism-in-clinical-ai, over-deference-in-llm-supervision, misurazione-bias-razziale-llm, single-correct-answer-fallacy-in-clinical-ai, cognitive-bias-rectification-in-llms.
+- Aggiornato index.md (voce alfabetica aggiunta).
+
+## [2026-08-28] update | tassonomia-bias-llm-psicoterapeuta
+- Aggiunta colonna "Modelli LLM interessati (evidenze)" alla tabella tassonomica: associazione per-bias dei modelli citati in letteratura (es. ChatGPT-3.5/4 per prognostic pessimism; Gemma-4-E2B per over-deference; ChatGPT-4o per bias razziale; GPT/Claude/Gemini/Grok per audit di genere; DeepSeek-V3 per WEIRD; tutti i foundation model per confabulazione/sycophancy).
+
+## [2026-08-28] maintenance | wiki-search.ps1 (collezione + modalità default)
+- Corretto `.qmd/scripts/wiki-search.ps1`: il collection era referenziato con lo slug letterale `wiki`, non risolto da QMD (collection indicizzata per percorso). Sostituiti i 4 riferimenti `-c 'wiki'` con il percorso esplicito `C:\Users\ANDREA\AI Knowledge Base\wiki` e i prefissi `qmd://wiki/` con `qmd://C:\Users\ANDREA\AI Knowledge Base\wiki/`.
+- Causa radicale: `.qmd/config/qmd/index.yml` definisce `collections.wiki.path` in minuscolo (`ai knowledge base`) diverso dal reale (`AI Knowledge Base`); da qui il "Collection not found: wiki".
+- Embedding già presenti (`qmd embed` → "All content hashes already have embeddings").
+- `qmd pull` non completa (nessun modello reranker recuperabile in questo ambiente) → la modalità `hybrid` (con rerank) resta bloccata in timeout.
+- Impostato il DEFAULT dello script da `hybrid` a `fast` (hybrid senza rerank): `./wiki-search "<query>"` ora risponde in ~11s tramite retrieval vettoriale+BM25.
+
+## [2026-08-28] query | chatbot
+- Risposta a quesito: "cos'è un chatbot?" tramite `./wiki-search` (modalità predefinita `fast`, retrieval da `wiki/`).
+- Definizione sintetizzata: agente conversazionale basato su NLP / LLM / assistenti vocali / agenti incarnati (ECA), impiegato in comunicazione sanitaria, triage, gestione patologie e supporto clinico; in salute mentale eroga interventi CBT/psicoeducativi di prevenzione, monitoraggio e mitigazione di distress (depressione, ansia, stress) [`healthcare-conversational-agents.md`, `concetti/conversational-agents-mental-health.md`].
+- Evidence: efficacia a breve termine (depressione g=0.26–0.64; ansia g=0.19–0.47) con attenuazione ai follow-up (g=0.08–0.16); agenti embodied superiori (g=0.88). Limite: non idonei a crisi acute/rischio suicidario, necessitano routing umano [`concetti/conversational-agents-mental-health.md`, `social-oriented-vs-task-oriented-chatbots.md`].
+- Fonti: healthcare-conversational-agents.md, concetti/conversational-agents-mental-health.md, social-oriented-vs-task-oriented-chatbots.md, 2509.02144v1.md.
+
+## [2026-08-28] ingest | modello-rocco
+- Creata la pagina di sintesi del concetto modello-rocco.md.
+- Aggiornato index.md con il collegamento alla nuova pagina.
+
+## [2026-08-28] lint | health-check e ridenominazione massiva
+- Eseguito script di ridenominazione automatica per 64 file non conformi.
+- I nomi con maiuscole, spazi e underscore sono stati convertiti nel formato standard minuscolo coi trattini.
+- Aggiornati automaticamente tutti i wiki-links e i link markdown interni.
+
+## [2026-08-28] lint | risoluzione link orfani e interrotti
+- Create automaticamente 73 pagine stub in concetti/ per risolvere i link interrotti.
+- Aggiunti 0 file orfani all'indice principale sotto la sezione 'Da Categorizzare'.
+
+## [2026-08-28] lint | consolidamento Jangle Fallacy (Area 5)
+- Unificati i paper arXiv sull'NLP clinico e Small Language Models in nlp-clinico-analisi-sedute.md.
+- Rimossi i 3 markdown ridondanti.
+
+## [2026-08-28] lint | consolidamento Jangle Fallacy (Area 1)
+- Unificati 4 paper arXiv in simulazione-clinica-pazienti-virtuali.md.
+- Rimossi i markdown originali grezzi.
+
+## [2026-08-28] lint | consolidamento Jangle Fallacy (Area 2)
+- Unificati 3 paper arXiv sulla AI Safety clinica in sicurezza-clinica-red-teaming.md.
+- Rimossi i markdown originali grezzi.
+
+## [2026-08-28] lint | consolidamento Jangle Fallacy (Area 3)
+- Unificati i paper arXiv su psicometria LLM e Machine Psychology in valutazione-psicometrica-llm.md.
+- Rimossi i markdown originali grezzi.
+
+## [2026-08-28] lint | consolidamento Jangle Fallacy (Area 4)
+- Unificati i paper sulla metodologia della ricerca IA e SLR ibrida in metodologia-ricerca-slr-ai.md.
+- Rimossi i markdown originali grezzi (incluso lin-2026).
+
+## [2026-08-28] ingest | batch
+- 08-28-riunione-corso-ia-clinici.md (da 08-28 Riunione settimanale_ Progettazione corso IA per clinici...)
+- risultati-apprendimento-attesi-raa.md (da 2.3_esempi_raa.pdf)
+
+## [2026-08-29] catalog | raw
+- Esecuzione comando Catalog: mappati e indicizzati 116 file in catalogo_raw.md.
+
+## [2026-08-29] query | scoping-review-ai-best-practices
+- Creata pagina linee-guida-scoping-review-ai.md con sintesi operativa delle buone pratiche e governance per Scoping Review assistite da IA.
+
+## [2026-08-31] ingest | 2601-06032v1
+- Ingestione del paper 'Applied Theory of Mind and Large Language Models'. Creato riassunto strutturato evidenziando efficacia di GPT-4 nella ToM e i limiti derivanti dall'eccessivo uso di Uncertainty Markers.
+# #   [ 2 0 2 6 - 0 8 - 3 1 ]   i n g e s t   |   T R I P O D + A I 2 0 2 4 . p d f  
+ # #   [ 2 0 2 6 - 0 8 - 3 1 ]   i n g e s t   |   2 5 0 9 . 1 3 3 2 4 v 3 . p d f  
+ # #   [ 2 0 2 6 - 0 8 - 3 1 ]   i n g e s t   |   2 6 0 2 . 1 9 9 4 8 v 2 . p d f  
+ # #   [ 2 0 2 6 - 0 8 - 3 1 ]   i n g e s t   |   E L E V A T E - G e n A I 2 0 2 5 . p d f  
+ 

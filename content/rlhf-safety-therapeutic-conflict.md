@@ -112,4 +112,4 @@ graph LR
 - Vinh, T., Goodman, G., & Sherrill, A. M. (2026). Psychiatry’s blind spot: Independent use of general-purpose large language models by individuals with psychopathology. *Mayo Clinic Proceedings: Digital Health*, 4(2):100353.
 
 ## Relazioni
-- Vedi anche: [[2604.23445v1]], [[five-axis-clinical-evaluation]], [[clinical-fidelity-assessment]], [[software-as-a-medical-device-salute-mentale]], [[alignment-conflict-schema]], [[synthetic-psychopathology]], [[simulated-empathy-vs-authentic-presence]], [[audit-bias-llm-clinici]], [[automated-clinical-ai-red-teaming]], [[modello-centauro-clinico]], [[000]]
+- Vedi anche: [[2604-23445v1]], [[five-axis-clinical-evaluation]], [[clinical-fidelity-assessment]], [[software-as-a-medical-device-salute-mentale]], [[alignment-conflict-schema]], [[synthetic-psychopathology]], [[simulated-empathy-vs-authentic-presence]], [[audit-bias-llm-clinici]], [[automated-clinical-ai-red-teaming]], [[modello-centauro-clinico]], [[000]]

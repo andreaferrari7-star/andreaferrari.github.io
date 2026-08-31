@@ -1,67 +1,55 @@
-# Strumenti di IA Assistiva per la Comunicazione nello Spettro Autistico
-
-**Summary**: Applicazione dei Large Language Models come tecnologie assistive per supportare persone nello spettro autistico (ASC) nell'interpretazione di contesti sociali ambigui, decodifica di intenzioni non letterali (ironia, gaffe, doppi sensi) e mediazione comunicativa.
-**Sources**: `2601.06032v1.pdf`
-**Last updated**: 2026-08-27
+---
+Title: Strumenti di IA Assistiva per la Comunicazione nello Spettro Autistico
+Summary: Applicazione dei Large Language Models come tecnologie assistive per supportare persone nello spettro autistico (ASC) nell'interpretazione di contesti sociali ambigui, decodifica di intenzioni non letterali (ironia, gaffe, doppi sensi) e mediazione comunicativa.
+Sources: 2601.06032v1.pdf
+Last updated: 2026-08-27
 ---
 
-## Razionale Clinico e Bisogni Assistivi
+# Strumenti di IA Assistiva per la Comunicazione nello Spettro Autistico
 
-Il disturbo dello spettro autistico (Autism Spectrum Condition, ASC) è caratterizzato da atipicità persistenti nella comunicazione sociale e nell'interazione reciproca (APA, 2013). Tra le sfide quotidiane più frequenti emergono:
-- Interpretazione letterale di espressioni metaforiche, sarcastiche o ironiche.
-- Difficoltà nel rilevare violazioni involontarie di norme sociali (*faux pas*).
-- Fatica nell'attribuire rapidamente stati mentali, credenze e intenzioni agli interlocutori in situazioni sociali dinamiche.
-- Rischio di isolamento, fraintendimenti relazionali ed esperienze di vittimizzazione/bullismo in contesti lavorativi o scolastici.
+## Definizione Operativa
+L'applicazione dei Large Language Models (LLM) come tecnologie assistive per persone nello spettro autistico (ASC) mira a fornire supporto nell'interpretazione di contesti sociali ambigui, nella decodifica di intenzioni non letterali (come ironia, gaffe o doppi sensi) e nella mediazione comunicativa. Il razionale clinico si basa sulla necessità di mitigare le difficoltà intrinseche all'ASC nella comunicazione sociale e nell'interazione reciproca (APA, 2013), come l'interpretazione letterale delle espressioni, la fatica nell'attribuire rapidamente stati mentali agli interlocutori e il rischio di fraintendimenti relazionali. Le persone autistiche, spesso mostrando interesse per contesti digitali strutturati, possono trovare in questi sistemi ausili efficaci e rassicuranti (Jaliaawala & Khan, 2020).
 
-Poiché le persone autistiche mostrano frequentemente un elevato interesse per la tecnologia e un ambiente digitale strutturato risulta spesso rassicurante e privo del sovraccarico sensoriale/sociale tipico delle interazioni dirette (Jaliaawala & Khan, 2020), i sistemi basati su Large Language Models ([[large-language-models]]) si candidano come efficaci ausili per la mediazione e l'apprendimento sociale.
+## Evidenze dalla Letteratura
+Le ricerche indicano diverse potenzialità e sfide per l'implementazione di questi strumenti:
+- **Decodificatore Sociale Real-Time**: Analisi di testi o trascrizioni per chiarire le intenzioni sottostanti.
+- **Ambiente di Simulazione e Training Protetto**: Piattaforme per l'allenamento sociale guidato in scenari sicuri.
+- **Traduzione Pragmatica Bidirezionale**: Supporto alla formulazione di messaggi che rispettino le convenzioni neurotipiche senza perdere l'autenticità espressiva.
 
+Tuttavia, le evidenze (Holl-Etten et al., 2026) sottolineano limitazioni critiche:
+- **Eccesso di Hedging / Incertezza**: L'uso di espressioni probabilistiche ("forse", "probabilmente") nel 30–42% dei casi può aumentare il dubbio dell'utente.
+- **Cecità Non Verbale**: L'IA testuale non percepisce tono di voce, prosodia o linguaggio del corpo.
+- **Rischio di Dipendenza**: Necessità di un design orientato all'empowerment per evitare la dipendenza eccessiva nelle scelte relazionali.
+
+**Riferimenti Bibliografici:**
+- APA (2013). *Diagnostic and Statistical Manual of Mental Disorders*.
+- Holl-Etten et al. (2026). *Evidenze sperimentali sull'uso di LLM nell'autismo*.
+- Jaliaawala & Khan (2020). *Technology in Autism Spectrum Condition*.
+
+## Relazioni
 ```mermaid
 flowchart TD
     subgraph ScenarioReale ["Interazione Sociale Complessa"]
-        Dialogue["Enunciato Ambiguo o Faux Pas
-        (es. 'Che bel vestito da portare al mercatino...')"]
+        Dialogue["Enunciato Ambiguo o Faux Pas"]
     end
 
     subgraph ModuloIA ["Assistente IA con Theory of Mind"]
         Decodifica["Decodifica Intentiva:
-        - Riconoscimento gaffe involontaria vs insulto deliberato
-        - Spiegazione del significato implicito
+        - Riconoscimento gaffe vs insulto
+        - Spiegazione significato implicito
         - Contestualizzazione emotiva"]
     end
 
     subgraph OutputAssistivo ["Supporto all'Utente Autistico"]
-        Supporto1["Spiegazione Chiara e Non Giudicante"]
+        Supporto1["Spiegazione Chiara"]
         Supporto2["Suggerimento di Risposte Adattive"]
-        Supporto3["Prevenzione di Fraintendimenti Relazionali"]
+        Supporto3["Prevenzione di Fraintendimenti"]
     end
 
     Dialogue --> Decodifica
     Decodifica --> OutputAssistivo
 ```
 
----
-
-## Opportunità e Funzionalità Assistive
-
-1. **Decodificatore Sociale Real-Time**: Possibilità di analizzare testi scritti (email, chat, messaggi) o dialoghi trascritti per chiarire le intenzioni sottostanti degli interlocutori (*"La persona ha fatto questa battuta senza intenzione malevola; non ricordava il dettaglio X"*).
-2. **Ambiente di Simulazione e Training Protetto**: Piattaforme per l'allenamento sociale guidato, in cui l'utente può esplorare scenari interattivi, comprendere le reazioni altrui e sperimentare diverse strategie comunicative senza timore del giudizio.
-3. **Traduzione Pragmatica Bidirezionale**: Supporto alla formulazione di messaggi che rispettino le convenzioni neurotipiche senza snaturare l'autenticità espressiva della persona autistica.
-
----
-
-## Sfide Critiche e Requisiti di Design
-
-Le evidenze sperimentali (Holl-Etten et al., 2026) hanno fatto emergere limitazioni essenziali da considerare per la sicurezza e l'efficacia clinica:
-
-| Criticità | Descrizione del Problema | Requisito di Mitigazione |
-| :--- | :--- | :--- |
-| **Eccesso di Hedging / Incertezza** | L'LLM formula spiegazioni probabilistiche (*"forse", "probabilmente"*) nel 30–42% dei casi, aumentando il dubbio anziché chiarire. | Prompt design orientato alla spiegazione univoca, chiara e diretta (evitando ambiguità ipotetiche). |
-| **Cecità Non Verbale** | L'IA testuale non percepisce tono di voce, prosodia, postura o mimica facciale, fondamentali nella pragmatica reale. | Integrazione multimodale (audio, video) e consapevolezza esplicita dei limiti del canale testuale. |
-| **Rischio di Dipendenza o Eterodirezione** | Rischio che l'utente dipenda eccessivamente dall'IA per ogni micro-scelta relazionale. | Progettazione maieutica volta all'empowerment e all'autonomia decisionale a lungo termine. |
-
----
-
-## Related pages
 - [[holl-etten-et-al-2026]]
 - [[applied-theory-of-mind-llm]]
 - [[epistemic-markers-in-ai]]

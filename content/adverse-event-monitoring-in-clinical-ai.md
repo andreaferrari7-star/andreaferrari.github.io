@@ -6,9 +6,8 @@ source_papers: ["Safety Mechanisms and Risk Mitigation in Generative AI Mental H
 # Monitoraggio e Reporting degli Eventi Avversi nell'IA Clinica (Adverse Event Monitoring in Clinical AI)
 
 ## Definizione Operativa
-- Il **Monitoraggio e Reporting degli Eventi Avversi nell'IA Clinica (*Adverse Event Monitoring*)** è il processo metodologico, ingegneristico e medico-legale dedicato all'identificazione sistematica, tracciamento in tempo reale, classificazione tassonomica e segnalazione degli incidenti di sicurezza, dei comportamenti indesiderati e dei danni iatrogeni (psicologici, fisici o informazionali) che si verificano durante l'interazione tra utenti e sistemi basati su Intelligenza Artificiale Generativa per la salute mentale (Olisaeloka et al., 2026).
-- **L'Illusione di Sicurezza da Omessa Misurazione (*The Undercount Fallacy*):** La scoping review sistematica di Olisaeloka et al. (2026) su 21 interventi primari ha rivelato che **solo il 9,5% degli studi (2 su 21)** include un protocollo formalizzato di monitoraggio e registrazione prospettica degli eventi avversi. L'apparente assenza di danni gravi nella maggior parte della letteratura non riflette l'intrinseca sicurezza dei modelli, bensì un grave vuoto di tracciamento: gli studi privi di telemetria e strumenti dedicati sono per definizione incapaci di rilevare e documentare i fallimenti algoritmici.
-- **Utilità Clinica e Vigilanza Post-Market:** Costituisce il cardine per la *Digital Pharmacovigilance* (algoritmovigilanza) e rappresenta un requisito inderogabile imposto dalla **FDA** (*Digital Health Advisory Committee*) e dalle normative europee sui dispositivi medici (**MDR/SaMD**) per garantire che i rischi iatrogeni vengano intercettati tempestivamente prima di causare esiti fatali o peggioramenti psicopatologici.
+- Sintesi: Il **Monitoraggio e Reporting degli Eventi Avversi nell'IA Clinica (*Adverse Event Monitoring*)** è il processo metodologico, ingegneristico e medico-legale dedicato all'identificazione sistematica, tracciamento in tempo reale, classificazione tassonomica e segnalazione degli incidenti di sicurezza, dei comportamenti indesiderati e dei danni iatrogeni (psicologici, fisici o informazionali) che si verificano durante l'interazione tra utenti e sistemi basati su Intelligenza Artificiale Generativa per la salute mentale (Olisaeloka et al., 2026).
+- **Utilità CBT:** Costituisce il cardine per la *Digital Pharmacovigilance* (algoritmovigilanza) e rappresenta un requisito inderogabile imposto dalla **FDA** (*Digital Health Advisory Committee*) e dalle normative europee sui dispositivi medici (**MDR/SaMD**) per garantire che i rischi iatrogeni vengano intercettati tempestivamente prima di causare esiti fatali o peggioramenti psicopatologici.
 
 ```mermaid
 flowchart TD
@@ -49,9 +48,11 @@ flowchart TD
     AE_L4 --> APP_LOCKOUT & ESCALATE & AUDIT_REPORT
 ```
 
----
+## Evidenze dalla Letteratura
 
-## Tassonomia degli Eventi Avversi da GenAI nella Salute Mentale
+**L'Illusione di Sicurezza da Omessa Misurazione (*The Undercount Fallacy*):** La scoping review sistematica di Olisaeloka et al. (2026) su 21 interventi primari ha rivelato che **solo il 9,5% degli studi (2 su 21)** include un protocollo formalizzato di monitoraggio e registrazione prospettica degli eventi avversi. L'apparente assenza di danni gravi nella maggior parte della letteratura non riflette l'intrinseca sicurezza dei modelli, bensì un grave vuoto di tracciamento: gli studi privi di telemetria e strumenti dedicati sono per definizione incapaci di rilevare e documentare i fallimenti algoritmici.
+
+### Tassonomia degli Eventi Avversi da GenAI nella Salute Mentale
 
 Dall'analisi della letteratura emergono quattro categorie primarie di eventi avversi specifici per i sistemi generativi:
 
@@ -79,9 +80,7 @@ mindmap
       Violazione della privacy o rigetto per classificazione emotiva errata
 ```
 
----
-
-## Evidenze Empiriche e Fallimenti Documentati
+### Evidenze Empiriche e Fallimenti Documentati
 
 La tabella riassume i dati sugli eventi avversi rilevati negli studi della scoping review di Olisaeloka et al. (2026):
 
@@ -93,9 +92,7 @@ La tabella riassume i dati sugli eventi avversi rilevati negli studi della scopi
 | **ComPeer (Liu et al., 2024)**<br/>*Studio Metodi Misti (Cina)* | Valutazione qualitativa e revisione post-hoc delle trascrizioni dei dialoghi di supporto tra pari. | **Allucinazione epistemica:** Il bot ha generato e citato articoli scientifici e paper inesistenti per convalidare i propri consigli. | Integrazione di moduli di memoria e prompting Chain-of-Thought (CoT) per ridurre le allucinazioni. |
 | **CareBot (Ng et al., 2023)**<br/>*Ablation Study (Malesia)* | Valutazione dell'esperienza utente e dell'accuratezza del classificatore delle emozioni. | **Misclassificazione emotiva persistente:** Errori sistematici nel classificare emozioni positive/negative che hanno generato frustrazione e perdita di fiducia. | Ricalibrazione dei dataset su espressioni culturali e linguistiche locali. |
 
----
-
-## Livelli di Severità degli Eventi Avversi nell'IA Sanitaria
+### Livelli di Severità degli Eventi Avversi nell'IA Sanitaria
 
 In accordo con le linee guida internazionali sui dispositivi medici digitali (**SaMD**), gli eventi avversi devono essere classificati secondo una matrice di gravità a 4 livelli:
 
@@ -121,9 +118,7 @@ gantt
 | **Grado 3: Grave (*Severe Clinical Risk*)** | Output che erogano indicazioni terapeutiche non autorizzate o che inducono peggioramento della sofferenza. | Prescrizione di farmaci o modifiche posologiche (*Therabot*), validazione di schemi disfunzionali. | Intervento correttivo HITL immediato; notifica al comitato etico e audit del modello. |
 | **Grado 4: Critico (*Critical Harm / Life-Threatening*)** | Fallimento totale nella gestione di situazioni di pericolo vitale o induzione attiva di decompensazione. | Mancato instradamento di ideazione suicidaria (*HopeBot*), incitamento all'autolesionismo, allucinazioni iatrogene. | **Blocco istantaneo dell'app (*Safety Lockout*)**, instradamento a servizi di emergenza e segnalazione alle autorità sanitarie. |
 
----
-
-## Framework Metodologico per la *Digital Pharmacovigilance*
+### Framework Metodologico per la *Digital Pharmacovigilance*
 
 Per colmare il divario evidenziato da Olisaeloka et al. (2026), i futuri trial clinici e le piattaforme operative di GenAI per la salute mentale devono implementare un'infrastruttura di monitoraggio strutturata su quattro requisiti chiave:
 
@@ -134,15 +129,20 @@ Per colmare il divario evidenziato da Olisaeloka et al. (2026), i futuri trial c
    - **Linee Guida CHART ed ELEVATE:** Dichiarazione esplicita degli eventi avversi nei report scientifici;
    - **Normative SaMD / FDA:** Istituzione di registri di incidenti per il monitoraggio post-commercializzazione (*Post-Market Surveillance*).
 
----
+**Riferimenti Bibliografici:**
+- Olisaeloka et al. (2026). *Safety Mechanisms and Risk Mitigation in Generative AI Mental Health Chatbots - A Scoping Review*.
+- Heinz et al. (2025), citato in Olisaeloka et al. (2026).
+- Campellone et al. (2025), citato in Olisaeloka et al. (2026).
+- Guo et al. (2024), citato in Olisaeloka et al. (2026).
+- Liu et al. (2024), citato in Olisaeloka et al. (2026).
+- Ng et al. (2023), citato in Olisaeloka et al. (2026).
 
-## Voci Correlate nella Knowledge Base
-
-- [[Safety_Mechanisms_AI_Chatbots|Safety Mechanisms and Risk Mitigation in Generative AI Mental Health Chatbots (Olisaeloka et al., 2026)]]
+## Relazioni
+- [[safety-mechanisms-ai-chatbots|Safety Mechanisms and Risk Mitigation in Generative AI Mental Health Chatbots (Olisaeloka et al., 2026)]]
 - [[sociotechnical-safety-in-clinical-ai|Sociotechnical Safety Framework in Clinical AI]]
 - [[layered-safeguards-in-clinical-ai|Layered Safeguards in Clinical AI]]
-- [[Generative_AI_Mental_Health_Chatbot_Interventions|Generative AI Mental Health Chatbot Interventions (Olisaeloka et al., 2026)]]
+- [[generative-ai-mental-health-chatbot-interventions|Generative AI Mental Health Chatbot Interventions (Olisaeloka et al., 2026)]]
 - [[validation-gap-in-mental-health-llms|Validation Gap nell'IA per la Salute Mentale]]
 - [[software-as-a-medical-device-salute-mentale|Software as a Medical Device (SaMD) in Salute Mentale]]
-- [[Linee_Guida_Reporting_AI_Generativa_CHART_ELEVATE|Linee Guida di Reporting per l'IA Generativa (CHART & ELEVATE)]]
+- [[linee-guida-reporting-ai-generativa-chart-elevate|Linee Guida di Reporting per l'IA Generativa (CHART & ELEVATE)]]
 - [[concetti/acute-crisis-action-plans-ai|Protocolli di Intervento per Crisi Acute nell'IA Psicoterapeutica]]

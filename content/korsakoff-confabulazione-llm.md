@@ -34,9 +34,8 @@ flowchart TD
     Acc & Fact --> Rischio["<b>Rischio Iatrogeno: Falso Positivo ad Alto Impatto</b><br/>(Affidamento acritico del clinico / Automation Bias)"]
 ```
 
----
-
-## Confronto Clinico-Epistemologico: Amnesia Organica vs Generazione Neurale
+## Evidenze dalla Letteratura
+Il confronto clinico-epistemologico tra l'amnesia organica e la generazione neurale evidenzia le seguenti dinamiche:
 
 | Parametro | Sindrome Neurologica di Korsakoff | Modelli Linguistici di Grandi Dimensioni (LLM) |
 | :--- | :--- | :--- |
@@ -45,16 +44,10 @@ flowchart TD
 | **Intenzionalità Cognitiva** | **Zero intenzione ingannevole:** Il paziente compensa inconsapevolmente il vuoto cognitivo. | **Zero intenzione menzognera:** La rete neurale massimizza la plausibilità statistica sintattica locale. |
 | **Rischio nel Setting Clinico** | Disorientamento spazio-temporale e disadattamento funzionale del paziente. | Induzione di *Automation Bias*, errori prescrittivi e allucinazioni cliniche assunte come vere dal terapeuta. |
 
----
-
-## Il Deficit Strutturale di Concept Grounding
-
+### Il Deficit Strutturale di Concept Grounding
 La vulnerabilità alla confabulazione deriva dalla natura puramente sintattica dei modelli di linguaggio:
-1. **Assenza di Radicamento Esperienziale:** L'algoritmo manipola simboli senza possedere un modello del mondo:
-   - Non ha esperienza della dimensione temporale (incapacità di distinguere tra una cronicità decennale e un episodio acuto se non esplicitato formalmente);
-   - Non ha cognizione corporea della sofferenza somatica né dell'angoscia emotiva;
-   - Non valuta la valenza vitale ed esistenziale dell'urgenza suicidaria.
-2. **Sensibilità Sintattica (Brittleness):** La minima alterazione del testo di input (es. un segno di punteggiatura differente o una sinonimia periferica) può deviare la traiettoria probabilistica, commutando un output clinicamente fattuale in una confabulazione iatrogena priva di avvisi di incertezza.
+1. **Assenza di Radicamento Esperienziale:** L'algoritmo manipola simboli senza possedere un modello del mondo.
+2. **Sensibilità Sintattica (Brittleness):** La minima alterazione del testo di input può deviare la traiettoria probabilistica, commutando un output clinicamente fattuale in una confabulazione iatrogena.
 
 ```mermaid
 flowchart LR
@@ -64,39 +57,16 @@ flowchart LR
     Reality["Mondo Reale Empirico<br/>(Corpo, Dolore, Tempo, Morte)"] -.->|Nessun Collegamento Ontologico| Matrix
 ```
 
----
+Il framework internazionale **[[elevate-genai2025-1|ELEVATE-GenAI]]** (ISPOR Working Group, 2025) formalizza la scomposizione della validità scientifica dell'output generativo in tre parametri distinti: Accuratezza, Esaustività e Fattualità.
 
-## Distinzione Metodologica nel Framework ELEVATE-GenAI
+**Riferimenti Bibliografici:**
+- ISPOR Working Group (2025). *ELEVATE-GenAI: Framework for Clinical AI Assessment*.
+- Letteratura clinica corrente su *Clinical AI Cognitive Assessment*.
 
-Il framework internazionale **[[ELEVATE-GenAI2025|ELEVATE-GenAI]]** (ISPOR Working Group, 2025) formalizza la scomposizione della validità scientifica dell'output generativo in tre parametri distinti:
-
-1. **Accuratezza (Accuracy):** Misura la correttezza della forma espressiva e la coerenza sintattica interna.
-2. **Esaustività (Completeness):** Valuta se la risposta copre tutti gli aspetti clinici pertinenti senza omissioni diagnostiche cruciali.
-3. **Fattualità (Factuality):** Verifica la corrispondenza 1:1 con i dati sorgente verificati (*ground truth*), discriminando categoricamente le sintesi veritiere dalle confabulazioni.
-
----
-
-## Strategie di Mitigazione e Ancoraggio all'Evidenza
-
-Per neutralizzare il rischio di confabulazione nei sistemi AI applicati alla psicoterapia e alla medicina:
-
-1. **Retrieval-Augmented Generation (RAG) a Dominio Chiuso:**
-   - Sostituzione della generazione puramente parametrica con un meccanismo a *"esame a libro aperto"*, in cui l'LLM è vincolato a sintetizzare unicamente gli snippet estratti da una Knowledge Base validata (manuali diagnostici, protocolli CBT, cartelle cliniche de-identificate).
-2. **Vincolo di Astensione Esplicita (*Declare Ignorance*):**
-   - Istruzione perentoria nel *System Prompt* che impone alla macchina di restituire una dichiarazione esplicita di non conoscenza (*"Dati non presenti nella base di conoscenza"*), inibendo l'istinto probabilistico a inventare risposte verosimili.
-3. **Disaccoppiamento Fatti-Interpretazioni ([[diagnosis-of-thought-framework|Diagnosis of Thought - DoT]]):**
-   - Forzare la separazione sequenziale tra i dati grezzi osservati e le inferenze cliniche, impedendo che micro-allucinazioni iniziali scatenino l'effetto valanga lungo la catena di ragionamento.
-4. **Validazione Umana Obbligatoria (Human-in-the-Loop):**
-   - Nessun referto generato può essere integrato nella cartella o guidare un intervento senza la revisione critica e la *"Human Signature"* del professionista responsabile.
-
----
-
-## Relazioni e Navigazione nella Wiki
-
-### Pagine e Concetti Correlati
-- [[Clinical_AI_Cognitive_Assessment]] - Sintesi della Masterclass sull'assessment cognitivo dell'AI e superamento dell'illusione relazionale.
+## Relazioni
+- [[clinical-ai-cognitive-assessment]] - Sintesi della Masterclass sull'assessment cognitivo dell'AI e superamento dell'illusione relazionale.
 - [[diagnosis-of-thought-framework]] - Framework DoT per il disaccoppiamento tra fatti empirici e inferenze cliniche nel prompting.
-- [[ELEVATE-GenAI2025]] - Linee guida ISPOR con standardizzazione della triade Accuratezza, Esaustività e Fattualità.
+- [[elevate-genai2025-1]] - Linee guida ISPOR con standardizzazione della triade Accuratezza, Esaustività e Fattualità.
 - [[large-language-models]] - Architettura tecnica, next-token prediction e limiti probabilistici.
 - [[anthropomorphism-in-ai]] - Effetto ELIZA e sovrastima delle facoltà cognitive degli algoritmi.
 - [[simulated-empathy-vs-authentic-presence]] - Distinzione tra simulazione linguistica e presenza empatica reale.

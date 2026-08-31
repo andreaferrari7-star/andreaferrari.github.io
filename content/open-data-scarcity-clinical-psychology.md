@@ -94,7 +94,7 @@ Per abilitare modelli predittivi robusti e riproducibili nel rispetto della priv
 ---
 
 ## Related pages
-- [[2601.06159v1]]: Studio di valutazione empirica sull'uso di dati simulati da letteratura.
+- [[2601-06159v1]]: Studio di valutazione empirica sull'uso di dati simulati da letteratura.
 - [[pretraining-simulated-data-clinical-ml]]: Algoritmi e modelli di pretraining su statistiche descrittive.
 - [[mccv-and-statistical-validation-clinical-ml]]: Metodologia di cross-validation e test di generalizzazione in campioni clinici.
 - [[etica-privacy-bias-ia-clinica]]: Aspetti etici, deontologici e di privacy nell'uso dell'IA in clinica.

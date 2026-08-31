@@ -17,4 +17,4 @@ source_papers: ["1-s2.0-S1386505625004216-main.pdf"]
 - Huynh, A. L., Roy, T. J., Jackson, K. N., Lee, A. G., Liaw, W., & Hossain, M. M. (2026). Applications of artificial intelligence-based conversational agents in healthcare: A systematic umbrella review. *International Journal of Medical Informatics*, 207, Article 106204. https://doi.org/10.1016/j.ijmedinf.2025.106204
 
 ## Relazioni
-- Vedi anche: [[1-s2.0-S1386505625004216-main]], [[addiction-cessation-chatbots]], [[ai-assisted-psychotherapy]], [[human-in-the-reasoning]]
+- Vedi anche: [[1-s2-0-s1386505625004216-main]], [[addiction-cessation-chatbots]], [[ai-assisted-psychotherapy]], [[human-in-the-reasoning]]

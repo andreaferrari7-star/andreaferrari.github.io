@@ -19,4 +19,4 @@ source_papers: ["11920_2026_Article_1690.pdf"]
 - Guidano, V., & Cutolo, G. (2008). *La psicoterapia tra arte e scienza*. Milano: Franco Angeli.
 
 ## Relazioni
-- Vedi anche: [[11920_2026_Article_1690]], [[sycophantic-mirroring]], [[simulated-empathy-vs-authentic-presence]], [[digital-therapeutic-alliance]], [[processes-of-change-in-psychotherapy]], [[ai-assisted-psychotherapy]]
+- Vedi anche: [[11920-2026-article-1690]], [[sycophantic-mirroring]], [[simulated-empathy-vs-authentic-presence]], [[digital-therapeutic-alliance]], [[processes-of-change-in-psychotherapy]], [[ai-assisted-psychotherapy]]

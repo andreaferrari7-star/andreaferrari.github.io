@@ -76,4 +76,4 @@ flowchart TD
 - Zhou, K., Hwang, J. D., Ren, X., & Sap, M. (2024). Relying on the unreliable: The impact of language models’ reluctance to express uncertainty. *arXiv preprint arXiv:2401.06730*.
 
 ## Relazioni
-- Vedi anche: [[2601.06032v1]], [[applied-theory-of-mind-llm]], [[large-language-models]], [[machine-psychology]], [[validita-psicometrica-llm]], [[ai-assisted-psychotherapy]], [[simulated-empathy-vs-authentic-presence]], [[modello-centauro-clinico]]
+- Vedi anche: [[2601-06032v1]], [[applied-theory-of-mind-llm]], [[large-language-models]], [[machine-psychology]], [[validita-psicometrica-llm]], [[ai-assisted-psychotherapy]], [[simulated-empathy-vs-authentic-presence]], [[modello-centauro-clinico]]

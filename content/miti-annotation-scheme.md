@@ -46,4 +46,4 @@ mindmap
 - Hallgren, K. A. (2012). Computing inter-rater reliability for observational data: An overview and tutorial. *Tutorials in Quantitative Methods for Psychology*, 8(1), 23–34.
 
 ## Relazioni
-- Vedi anche: [[2511.22818v1]], [[semantic-drift-psicoterapia]], [[clinical-fidelity-assessment]], [[supervisione-clinica-ai]], [[in-session-warning-signs]], [[stamp-llm-framework]], [[cbt-dialogue-systems-and-tools]], [[validita-psicometrica-llm]], [[simulazione-pazienti-ai]]
+- Vedi anche: [[2511-22818v1]], [[semantic-drift-psicoterapia]], [[clinical-fidelity-assessment]], [[supervisione-clinica-ai]], [[in-session-warning-signs]], [[stamp-llm-framework]], [[cbt-dialogue-systems-and-tools]], [[validita-psicometrica-llm]], [[simulazione-pazienti-ai]]

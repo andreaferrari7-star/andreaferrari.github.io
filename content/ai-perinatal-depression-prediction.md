@@ -8,6 +8,7 @@ source_papers: ["fpsyt-16-1734102.pdf"]
 ## Definizione Operativa
 - L'**Intelligenza Artificiale nella Predizione della Depressione Perinatale** definisce l'applicazione di algoritmi di Machine Learning supervisionato, Deep Learning, Natural Language Processing (NLP) e analisi del segnale vocale per la stima precoce del rischio, lo screening automatizzato e la prevenzione della depressione perinatale e postpartum (PPD) (Ruger-Navarrete et al., 2026; *Frontiers in Psychiatry*, doi: 10.3389/fpsyt.2025.1734102).
 - **Il Cambio di Paradigma: Dal Postpartum al Continuum Peripartum:** Superando la visione tradizionale che confina la depressione alla sola fase successiva al parto, l'evidenza clinico-computazionale riconosce che circa il **50% degli episodi depressivi postpartum esordisce durante la gravidanza (fase antepartum)**. I modelli di IA consentono di anticipare la finestra di screening dal terzo trimestre o fin dalle prime visite ostetriche, integrando dati anamnestici, cartelle cliniche elettroniche (EHR/EMR), risposte psicometriche (EPDS) e biomarker digitali/acustici per abilitare interventi preventivi tempestivi.
+- **Utilità CBT:** L'identificazione precoce dei fattori di vulnerabilità nel continuum peripartum abilita lo psicoterapeuta cognitivo-comportamentale ad avviare tempestivamente protocolli evidence-based (CBT perinatale, ristrutturazione cognitiva delle credenze disfunzionali materne, Interpersonal Psychotherapy - IPT, training di regolazione emotiva e igiene del sonno), riducendo l'incidenza di quadri depressivi severi e tutelando la qualità della relazione di attaccamento precoce con il neonato.
 
 ```mermaid
 flowchart TD
@@ -40,7 +41,7 @@ flowchart TD
 
 ---
 
-## Evidenze Empiriche e Prestazioni Computazionali
+## Evidenze dalla Letteratura
 
 ### 1. Sintesi Meta-Analitica delle Prestazioni Diagnostiche
 La meta-analisi di Ruger-Navarrete et al. (2026), basata su 16 studi internazionali ($N > 300.000$ partecipanti), fornisce stime quantitative solide sull'efficacia predittiva dell'IA:
@@ -79,7 +80,7 @@ I modelli di Machine Learning hanno permesso di stabilire una precisa gerarchia 
 
 ---
 
-## Matrice Comparativa delle Architetture Algoritmiche
+### 4. Matrice Comparativa delle Architetture Algoritmiche
 
 | Famiglia Algoritmica | Studi Chiave | Punti di Forza Clinici | Limiti & Rischi Critici | Raccomandazione d'Uso |
 | :--- | :--- | :--- | :--- | :--- |
@@ -91,7 +92,7 @@ I modelli di Machine Learning hanno permesso di stabilire una precisa gerarchia 
 
 ---
 
-## Implicazioni per la Psicoterapia e la Clinica Perinatale
+### 5. Implicazioni per la Psicoterapia e la Clinica Perinatale
 
 1. **Screening Anticipatorio e Prevenzione Primaria:** L'identificazione precoce nel primo/secondo trimestre di gravidanza abilita l'avvio tempestivo di protocolli psicoterapeutici evidence-based (CBT perinatale, Interpersonal Psychotherapy - IPT, training di regolazione emotiva e igiene del sonno), riducendo drasticamente l'incidenza di forme depressive severe e psicosi puerperali.
 2. **Protezione dello Sviluppo Neonatale e del Legame di Attaccamento:** Prevenendo la cronicizzazione depressiva materna, gli interventi precoci tutelano la qualità dell'interazione madre-bambino, prevenendo ritardi nell'acquisizione del linguaggio, deficit cognitivi infantili e disturbi del neurosviluppo a lungo termine correlati allo stress materno cronico.
@@ -99,7 +100,7 @@ I modelli di Machine Learning hanno permesso di stabilire una precisa gerarchia 
 
 ---
 
-## Riferimenti Bibliografici
+**Riferimenti Bibliografici:**
 - Ruger-Navarrete, A., Gómez-Ferrera, M., Mérida-Yáñez, B., Vázquez-Lara, J. M., Gómez-Salgado, J., García-Oliva, S., et al. (2026). Artificial intelligence in the prevention and early detection of postpartum depression: a systematic review and meta-analysis. *Frontiers in Psychiatry*, 16, 1734102. https://doi.org/10.3389/fpsyt.2025.1734102
 - Andersson, S., Bathula, D. R., Iliadis, S. I., Walter, M., & Skalkidou, A. (2021). Predicting women with depressive symptoms postpartum with machine learning methods. *Scientific Reports*, 11, 7877. https://doi.org/10.1038/s41598-021-86368-y
 - Fanos, V., Dessì, A., Deledda, L., Lai, A., Ranzi, P., Avellino, I., et al. (2023). Postpartum depression screening through artificial intelligence: preliminary data through the Talking About algorithm. *Journal of Pediatric and Neonatal Individualized Medicine*, 12(1), 1–11. https://doi.org/10.7363/120222

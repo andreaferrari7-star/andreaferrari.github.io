@@ -90,7 +90,7 @@ flowchart LR
 ---
 
 ## Pagine e Concetti Correlati
-- [[s41746-026-02886-x_reference|The Effectiveness of CBT-Based NLP-Enabled AI Conversational Agents (Hang et al., 2026)]]
+- [[s41746-026-02886-x-reference|The Effectiveness of CBT-Based NLP-Enabled AI Conversational Agents (Hang et al., 2026)]]
 - [[multimodal-advantage-in-depression-ai|Vantaggio Multimodale negli Agenti Conversazionali per la Depressione]]
 - [[conceptual-architecture-of-ai-guided-cbt|Architettura Concettuale dell'AI-Guided CBT]]
 - [[exposure-therapy-deficit-in-mental-health-ai|Deficit di Esposizione Comportamentale nell'IA per la Salute Mentale]]

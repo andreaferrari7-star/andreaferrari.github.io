@@ -31,4 +31,4 @@ flowchart LR
 - Zhou, J., Chen, Y., Yin, J., Huang, Y., Shi, Y., Zhang, X., Peng, L., Zhang, R., Lv, T., Hu, Z., Wang, H., & Huang, M. (2025). CRISP: Cognitive Restructuring of Negative Thoughts through Multi-turn Supportive Dialogues. *arXiv preprint arXiv:2504.17238*. https://arxiv.org/abs/2504.17238
 
 ## Relazioni
-- Vedi anche: [[2504.17238v1]], [[crdial-framework]], [[crispers-models-and-dataset]], [[cbt-dialogue-systems-and-tools]], [[automated-cognitive-restructuring]], [[active-ai-therapeutic-agent]]
+- Vedi anche: [[2504-17238v1]], [[crdial-framework]], [[crispers-models-and-dataset]], [[cbt-dialogue-systems-and-tools]], [[automated-cognitive-restructuring]], [[active-ai-therapeutic-agent]]

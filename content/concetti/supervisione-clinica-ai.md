@@ -1,47 +1,46 @@
-# Supervisione Clinica e Intelligenza Artificiale
-
-**Summary**: Esplorazione empirica e clinica dell'uso dei Large Language Models e chatbot come strumenti di supporto alla supervisione e all'intervisione in psicoterapia, con particolare attenzione alle variabili psicologiche individuali (ansia sociale, timore della colpa), ai benefici preliminari e ai rischi di de-skilling.
-**Sources**: `06-10 Lezione_ RAG, LLM in Psicoterapia e Governance Etica.txt`
-**Last updated**: 2026-08-27
+---
+title: Supervisione Clinica e Intelligenza Artificiale
+tags: [ai, supervisione, psicologia, clinica, intervisione]
 ---
 
-## Stato dell'Arte e Ricerca Empirica (Studio Cosentino et al., 2026)
-L'indagine empirica condotta dalla Dott.ssa Teresa Cosentino su 93 professionisti della salute mentale (48 allievi specializzandi e 45 psicoterapeuti esperti) ha esplorato atteggiamenti, motivazioni psicologiche e timori nell'adozione dell'IA a supporto della supervisione clinica.
+# Supervisione Clinica e Intelligenza Artificiale
+
+## Definizione Operativa
+L'integrazione di sistemi di Intelligenza Artificiale (IA), in particolare Large Language Models (LLM) e chatbot, all'interno dei processi di supervisione e intervisione psicoterapeutica. Tale pratica si configura non come sostituzione della supervisione umana, ma come strumento di supporto tecnico (brainstorming, stesura note cliniche, analisi di bias) esperito in un contesto di "modello centauro".
+
+## Evidenze dalla Letteratura
+L'indagine empirica (Cosentino et al., 2026) su 93 professionisti (specializzandi ed esperti) evidenzia:
+
+- **Motivazioni**: Preparazione di note cliniche, identificazione di bias personali, brainstorming su tecniche e disponibilità costante (H24).
+- **Variabili Psicologiche**: 
+  - Il *Timore della Colpa* (FGS) correla con una maggiore cautela etica.
+  - L'*Ansia Sociale* (LSAS) correla con l'uso dell'IA come strategia di coping contro il timore del giudizio umano.
+- **Rischi Percepiti**:
+  - **De-skilling**: Timore che la delega decisionale indebolisca il giudizio clinico autonomo, particolarmente sentito dagli allievi in formazione.
+  - **Sycophancy**: Tendenza dell'IA alla compiacenza (conferma acritica delle ipotesi dell'utente).
+  - **Limiti Strutturali**: Incapacità di offrire sintonizzazione affettiva autentica e gestione di situazioni ad alto rischio (suicidario, psicosi).
 
 ```mermaid
 graph TD
-    User["Professionista / Specializzando"] --> Motivi["Motivazioni d'Uso Preliminare"]
-    Motivi --> M1["Preparazione note cliniche & identificazione bias personali"]
-    Motivi --> M2["Brainstorming su tecniche e concettualizzazione iniziale"]
-    Motivi --> M3["Disponibilità H24 a basso costo"]
+    User["Professionista / Specializzando"] --> Motivi["Motivazioni d'Uso"]
+    Motivi --> M1["Preparazione note cliniche & identificazione bias"]
+    Motivi --> M2["Brainstorming clinico"]
+    Motivi --> M3["Disponibilità H24"]
 
-    User --> Limiti["Limiti e Preoccupazioni Chiave"]
-    Limiti --> L1["Assenza di supporto emotivo autentico e saggezza clinica"]
-    Limiti --> L2["Timore di De-skilling (indebolimento del giudizio clinico autonomo)"]
-    Limiti --> L3["Incapacità strutturale di gestire rischio suicidario e psicosi"]
-    Limiti --> L4["Tendenza dell'IA alla compiacenza (sycophancy)"]
+    User --> Limiti["Limiti e Preoccupazioni"]
+    Limiti --> L1["Assenza di supporto emotivo autentico"]
+    Limiti --> L2["Timore di De-skilling"]
+    Limiti --> L3["Incapacità gestione rischio clinico"]
+    Limiti --> L4["Bias di compiacenza (Sycophancy)"]
 ```
 
-## Variabili Psicologiche e Determinanti Individuali
-1. **Timore della Colpa (Fear of Guilt Scale - FGS)**:
-   - I professionisti con elevata responsabilità morale e timore di arrecare danno mostrano una marcata cautela nell'uso dell'IA, temendo che delegare processi decisionali alla macchina possa compromettere la qualità della cura del paziente.
-2. **Ansia Sociale e Timore del Giudizio (Liebowitz Social Anxiety Scale - LSAS)**:
-   - L'evitamento sociale correla positivamente con l'utilizzo dell'IA come strategia per attenuare l'ansia da prestazione e il timore del giudizio del supervisore umano.
-   - L'ansia sociale spiega il 10,3% della varianza nel timore di indebolire il proprio giudizio clinico autonomo.
-3. **Confronto tra Allievi Specializzandi e Psicoterapeuti Esperti**:
-   - Entrambi i gruppi rifiutano in modo compatto l'idea che l'IA possa sostituire la supervisione umana.
-   - Il timore che l'uso continuativo dell'IA possa **indebolire il pensiero clinico autonomo (de-skilling)** è significativamente più marcato tra gli allievi in formazione, che avvertono maggiormente la propria vulnerabilità professionale.
+**Riferimenti Bibliografici:**
+- Cosentino, T., et al. (2026). *Studio su atteggiamenti e motivazioni nell'adozione dell'IA a supporto della supervisione clinica*. (Dati tratti dalla Lezione: "RAG, LLM in Psicoterapia e Governance Etica").
 
-## Limiti Strutturali dell'IA nella Supervisione
-- **Assenza di Saggezza ed Empatia Incarnata**: l'empatia generata dai modelli linguistici è un costrutto simulato a livello lessicale, incapace di offrire una reale sintonizzazione affettiva e contenimento emotivo.
-- **Bias di Compiacenza (Sycophancy)**: gli LLM tendono a confermare le ipotesi iniziali dell'utente piuttosto che stimolare una riflessione critica o sfidare le letture cliniche preconcette.
-- **Rischio Deontologico e Privacy**: necessità imprescindibile di anonimizzazione preventiva e divieto di inserimento di dati identificativi in piattaforme prive di certificazioni di conformità sanitaria.
-
----
-
-## Pagine Correlate
+## Relazioni
 - [[modello-centauro-clinico]]
 - [[feedback-informed-practice-ai]]
 - [[rischio-suicidario-ai-limits]]
 - [[ai-literacy-in-academia]]
 - [[human-in-the-reasoning]]
+

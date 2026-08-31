@@ -39,9 +39,7 @@ flowchart TD
     OUT_M --> ClinicalConsequences
 ```
 
----
-
-## Dimensioni Concettuali e Meccanismi di Emergenza
+## Evidenze dalla Letteratura
 
 ### 1. Il Limite Epistemologico della XAI Tradizionale
 I framework convenzionali di *Explainable AI* (come SHAP, LIME o feature attribution maps) sono stati progettati per modelli deterministici o probabilistici isolati, in cui una matrice di input genera direttamente un vettore di output. 
@@ -49,13 +47,9 @@ Nei sistemi agentici distribuiti:
 - Ogni agente elabora, sintetizza e trasforma il dato prima di passarlo al nodo successivo.
 - Le interazioni non-lineari e i loop di feedback inter-agente (inclusi i cicli di verifica e correzione tra LLM) creano un **effetto moltiplicatore dell'opacità**: le spiegazioni a livello di singolo agente non spiegano *perché* l'interazione collettiva abbia selezionato una specifica strategia clinica a discapito di un'altra (Salehi et al., 2025; Hughes et al., 2025).
 
----
-
 ### 2. Propagazione Nascosta e Cascata degli Errori (*Error Cascading*)
 - **Falsa Autorità dei Dati Intermedi:** Gli agenti collocati a valle nella catena operativa tendono a trattare gli output generati dagli agenti a monte come dati oggettivi e autoritativi, anziché come inferenze probabilistiche soggette a margine di errore.
 - **Allucinazioni Sistemiche:** Un'allucinazione o un bias cognitivo minimo introdotto nella fase di estrazione dati o di pre-processing può innescare una reazione a catena in cui gli agenti di ragionamento e pianificazione strutturano un intero piano terapeutico attorno a una premessa errata, mascherata da un apparente consenso formale (Brohi et al., 2025; Dror, 2025).
-
----
 
 ### 3. Asimmetria di Responsabilità nei Team Ibridi Uomo-IA
 - **Dinamiche Psicosociali di Team:** Le indagini sperimentali sull'interazione tra professionisti sanitari e cluster di agenti intelligenti evidenziano una distorsione percettiva sistematica (Yousefi et al., 2025):
@@ -63,15 +57,11 @@ Nei sistemi agentici distribuiti:
   - Quando il sistema fallisce o induce in errore, la responsabilità viene psicologicamente e giuridicamente riversata sul professionista umano.
 - **Vulnerabilità Epistemica del Clinico:** A causa dell'opacità composta, il medico non ha visibilità sui passaggi logici intermedi. Trovandosi di fronte a un output assertivo formulato da una rete di agenti, il clinico subisce un carico cognitivo eccessivo che disincentiva la verifica punto per punto, favorendo l'**[[over-deference-in-llm-supervision|automation bias]]** e la passività decisionale.
 
----
-
 ### 4. Frattura del Consenso Informato e della Tracciabilità Legale
 - **Nullità del Consenso:** La bioetica clinica impone che il paziente comprenda la natura, i rischi e le alternative razionali di un trattamento. Se la logica decisionale distribuita non è ricostruibile nemmeno dagli sviluppatori (*black network*), il paziente non può esprimere un consenso validamente informato (Morley et al., 2020; Xie et al., 2026).
 - **Il "Many Hands Problem" Giuridico:** La frammentazione dell'azione clinica in micro-decisioni distribuite tra diversi agenti software, fornitori terzi e operatori sanitari annulla il principio della colpa individuale per negligenza, generando un vuoto normativo (*liability void*) che ostacola il risarcimento del danno e l'incident learning istituzionale (Cestonaro et al., 2023; Bani Issa, 2025).
 
----
-
-## Confronto: Opacità a Singolo Modello vs Opacità Composta Multi-Agente
+### Confronto: Opacità a Singolo Modello vs Opacità Composta Multi-Agente
 
 | Dimensione | Opacità a Singolo Modello (Single-Model) | Opacità Composta (Multi-Agent Compound Opacity) |
 | :--- | :--- | :--- |
@@ -82,9 +72,7 @@ Nei sistemi agentici distribuiti:
 | **Impatto sul Clinico** | Dubbio circoscritto a una specifica metrica o inferenza diagnostica. | Illusione di consenso collegiale (*veneer of consensus*), sovraccarico cognitivo e de-skilling sistemico. |
 | **Soluzione Architetturale** | Miglioramento degli algoritmi di interpretabilità post-hoc o modelli intrinsecamente interpretabili. | **Spiegabilità gerarchica multilivello**, logging in linguaggio naturale delle comunicazioni inter-agente e audit crittografici. |
 
----
-
-## Strategie di Mitigazione e Architetture di Spiegabilità Gerarchica
+### Strategie di Mitigazione e Architetture di Spiegabilità Gerarchica
 
 ```mermaid
 flowchart TD
@@ -112,9 +100,7 @@ flowchart TD
 2. **Audit Trail Immutabile (*Accountability-by-Design*):** Ogni passaggio decisionale inter-agente viene registrato con marcatura temporale, identità dell'agente, ruolo formale, input scatenante, confidenza numerica e successive modifiche apportate da altri agenti o dall'operatore umano (Phiri, 2025; Kulothungan, 2025).
 3. **Integrazione con il Modello di [[tiered-autonomy-in-clinical-ai|Autonomia a Scaglioni (*Tiered Autonomy*)]]:** Quando l'inscrutabilità di un passaggio decisionale supera una soglia predefinita o si manifesta un disaccordo inter-agente, il sistema sospende l'esecuzione automatica e rimette la decisione al clinico umano.
 
----
-
-## Riferimenti Bibliografici
+**Riferimenti Bibliografici:**
 - Xie, Z., Wang, H., Dai, L., Wang, Z., Song, H., & Qian, J. (2026). Ethical issues in multi-agent AI systems for healthcare: a narrative review. *Frontiers in Public Health*, 14, 1792627. https://doi.org/10.3389/fpubh.2026.1792627
 - Bani Issa, H. (2025). Robotic surgery and the law: defining control and criminal responsibility. *Journal of Soft Computing and Data Mining*, 6, 423–434. https://doi.org/10.30880/jscdm.2025.06.01.028
 - Brohi, S., ul-ain Mastoi, Q., Jhanjhi, N. Z., & Pillai, T. (2025). A research landscape of agentic AI and large language models: applications, challenges and future directions. *Algorithms*, 18, 499. https://doi.org/10.3390/a18080499
@@ -128,8 +114,6 @@ flowchart TD
 - Phiri, C. C. (2025). Creating characteristically auditable agentic AI systems. In *Proceedings of the Intelligent Robotics FAIR (2025)*. https://doi.org/10.1145/3759355.3759356
 - Salehi, S., Singh, Y., Habibi, P., & Erickson, B. (2025). Beyond single systems: how multi-agent ai is reshaping ethics in radiology. *Bioengineering*, 12, 1100. https://doi.org/10.3390/bioengineering12101100
 - Yousefi, M., Shahi, A., Sharifi, M., Romera, A. J. J., Hoermann, S., & Piumsomboon, T. (2025). Team dynamics in human-AI collaboration: effects on confidence, satisfaction, and accountability. In *Proceedings of the 27th International Conference on Multimodal Interaction*. https://doi.org/10.1145/3716553.3750776
-
----
 
 ## Relazioni
 - Vedi anche: [[fpubh-14-1792627]], [[tiered-autonomy-in-clinical-ai]], [[human-oversight-and-liability-in-clinical-ai]], [[information-without-explanation-in-clinical-ai]], [[epistemological-paradox-in-clinical-ai]], [[modello-centauro-clinico]], [[over-deference-in-llm-supervision]], [[automated-clinical-ai-red-teaming]], [[algorithmic-paternalism-in-ai-mental-health]], [[reflective-interpretability]]

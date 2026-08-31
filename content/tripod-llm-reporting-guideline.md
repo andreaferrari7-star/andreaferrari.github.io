@@ -118,6 +118,6 @@ Uno dei contributi fondativi di TRIPOD-LLM è la formale dichiarazione di inadeg
 ---
 
 ## Relazioni
-- Scheda di sintesi collegata: [[Ricerca_Prompting_LLM_Clinico_Sanitario]]
+- Scheda di sintesi collegata: [[ricerca-prompting-llm-clinico-sanitario]]
 - Standard di reporting correlati: [[chart-reporting-guideline]], [[elevate-genai-framework]], [[gamer-reporting-guideline]], [[living-guidelines-in-health-ai]]
 - Concetti collegati: [[clinical-chain-of-thought-paradox]], [[coast-framework-clinical-prompting]], [[accuratezza-vs-fattualita-in-genai]], [[prompt-experiment-gap-in-clinical-ai]], [[human-oversight-and-liability-in-clinical-ai]]

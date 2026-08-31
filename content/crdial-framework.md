@@ -51,4 +51,4 @@ flowchart TD
 - Beck, J. S. (2011). *Cognitive behavior therapy: Basics and beyond*. Guilford Publications.
 
 ## Relazioni
-- Vedi anche: [[2504.17238v1]], [[crispers-models-and-dataset]], [[defense-attorney-technique]], [[cbt-dialogue-systems-and-tools]], [[automated-cognitive-restructuring]], [[active-ai-therapeutic-agent]], [[conversational-agents-mental-health]], [[digital-therapeutic-alliance]]
+- Vedi anche: [[2504-17238v1]], [[crispers-models-and-dataset]], [[defense-attorney-technique]], [[cbt-dialogue-systems-and-tools]], [[automated-cognitive-restructuring]], [[active-ai-therapeutic-agent]], [[conversational-agents-mental-health]], [[digital-therapeutic-alliance]]

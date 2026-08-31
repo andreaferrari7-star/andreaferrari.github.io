@@ -18,4 +18,4 @@ source_papers: ["1-s2.0-S1386505625004216-main.pdf"]
 - Bendotti, H., Lawler, S., Chan, G. C. K., Gartner, C., Ireland, D., & Marshall, H. M. (2023). Conversational artificial intelligence interventions to support smoking cessation: A systematic review and meta-analysis. *Digital Health*, 9, 20552076231211634. https://doi.org/10.1177/20552076231211634
 
 ## Relazioni
-- Vedi anche: [[1-s2.0-S1386505625004216-main]], [[healthcare-conversational-agents]], [[ai-assisted-psychotherapy]]
+- Vedi anche: [[1-s2-0-s1386505625004216-main]], [[healthcare-conversational-agents]], [[ai-assisted-psychotherapy]]

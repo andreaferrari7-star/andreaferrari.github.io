@@ -142,10 +142,10 @@ sequenceDiagram
 
 ## Voci Correlate nella Knowledge Base
 
-- [[Safety_Mechanisms_AI_Chatbots|Safety Mechanisms and Risk Mitigation in Generative AI Mental Health Chatbots (Olisaeloka et al., 2026)]]
+- [[safety-mechanisms-ai-chatbots|Safety Mechanisms and Risk Mitigation in Generative AI Mental Health Chatbots (Olisaeloka et al., 2026)]]
 - [[layered-safeguards-in-clinical-ai|Layered Safeguards in Clinical AI]]
 - [[adverse-event-monitoring-in-clinical-ai|Adverse Event Monitoring in Clinical AI]]
-- [[Generative_AI_Mental_Health_Chatbot_Interventions|Generative AI Mental Health Chatbot Interventions (Olisaeloka et al., 2026)]]
+- [[generative-ai-mental-health-chatbot-interventions|Generative AI Mental Health Chatbot Interventions (Olisaeloka et al., 2026)]]
 - [[relational-engagement-paradox-genai|Relational-Engagement Paradox in GenAI]]
 - [[software-as-a-medical-device-salute-mentale|Software as a Medical Device (SaMD) in Salute Mentale]]
 - [[demarcazione-wellness-vs-samd-salute-mentale|Demarcazione Wellness vs SaMD in Salute Mentale]]

@@ -1,18 +1,19 @@
-# Reverse Training e Didattica Induttiva con Pazienti Virtuali
-
-**Summary**: Metodologia pedagogica avanzata per la formazione clinica e la psicoterapia in cui lo specializzando modella e addestra un paziente virtuale basato su LLM per dimostrare la padronanza di un quadro diagnostico-funzionale (*learning by teaching*), sottoponendo l'agente simulato alla valutazione del docente/supervisore.
-**Sources**: 06-05 Riunione_ Impiego dell'IA in ambito clinico, bias e formazione.txt, 05-08 Riunione_ Sviluppo Knowledge Base AI, Etica e Applicazioni Cliniche.txt
-**Last updated**: 2026-08-27
+---
+title: Reverse Training e Didattica Induttiva con Pazienti Virtuali
+date: 2026-08-27
+tags: [simulazione, formazione-clinica, didattica-induttiva, LLM, psicologia]
 ---
 
-## Definizione e Fondamenti Teorici
+# Reverse Training e Didattica Induttiva con Pazienti Virtuali
 
-Il **Reverse Training con Pazienti Virtuali** rovescia l'approccio didattico convenzionale nell'uso della simulazione clinica:
-- **Dal Consumo alla Creazione Attiva**: Anziché limitarsi a interagire passivamente come terapeuta con un paziente simulato standard, lo studente assume il ruolo di sviluppatore clinico del modello, configurando credenze di base, cicli interpersonali disfunzionali, bias cognitivi e pattern verbali specifici.
-- **Principio del *Learning by Teaching***: In conformità al metodo induttivo ("insegnando imparo"), la capacità di calibrare un modello linguistico affinché riproduca coerentemente una psicopatologia senza deviare in risposte stereotipate o allucinazioni dimostra una comprensione concettuale profonda del caso clinico.
+## Definizione Operativa
+Il **Reverse Training con Pazienti Virtuali** è una metodologia pedagogica avanzata per la formazione clinica e la psicoterapia in cui lo specializzando modella e addestra un paziente virtuale basato su LLM per dimostrare la padronanza di un quadro diagnostico-funzionale (principio del *learning by teaching*), sottoponendo l'agente simulato alla valutazione del docente o supervisore.
 
-## Meccanismo Operativo nel Setting Formativo e di Supervisione
+Il processo rovescia l'approccio didattico convenzionale:
+*   **Dalla fruizione passiva alla creazione attiva**: Lo studente assume il ruolo di sviluppatore clinico, configurando credenze di base, cicli interpersonali disfunzionali, bias cognitivi e pattern verbali specifici.
+*   **Dimostrazione di comprensione**: La capacità di calibrare un modello affinché riproduca coerentemente una psicopatologia senza deviare in risposte stereotipate o allucinazioni funge da validatore della comprensione concettuale del caso clinico.
 
+### Workflow Operativo
 ```mermaid
 flowchart TD
     A["Allievo / Specializzando"] -->|"1. Formula concettualizzazione del caso (es. LIBET)"| B["Prompt Engineering & Knowledge Base"]
@@ -22,18 +23,20 @@ flowchart TD
     D -->|"5. Valutazione e feedback su accuratezza teorica"| A
 ```
 
-1. **Fase di Modellizzazione e Prompting**: Lo specializzando traduce la concettualizzazione del caso (es. piano semi-adattivo, credenze nucleari, meccanismi di mantenimento) in un set di istruzioni, contesti e guardrail per l'LLM.
-2. **Colloquio del Supervisore**: Il docente o supervisore conduce un colloquio clinico non strutturato con l'agente generato dall'allievo, testandone la coerenza psicopatologica, la resistenza ai tentativi di ristrutturazione e l'autenticità dei bias cognitivi.
-3. **Valutazione Metacognitiva e Debugging Clinico**: Le eventuali incongruenze o stereotipie emerse nel paziente virtuale diventano indicatori diretti di lacune nella concettualizzazione teorica dell'allievo, guidando la supervisione mirata.
+1.  **Modellizzazione e Prompting**: Traduzione della concettualizzazione del caso (es. piano semi-adattivo, credenze nucleari) in istruzioni e *guardrails* per l'LLM.
+2.  **Colloquio del Supervisore**: Il docente testa l'agente simulato per verificarne la coerenza psicopatologica e la resistenza alla ristrutturazione.
+3.  **Valutazione e Debugging**: Eventuali incongruenze nel paziente virtuale indicano lacune nella concettualizzazione teorica dell'allievo, guidando la supervisione.
 
-## Prompting Socratico e Guardrails nelle Guide Didattiche
+## Evidenze dalla Letteratura
+L'approccio si fonda sull'integrazione di:
+*   **Prompting Socratico**: Utilizzo di agenti "maieutici" (es. *Libet Prime*) che guidano l'allievo tramite domande aperte, evitando soluzioni preconfezionate e stimolando la riflessione differenziale.
+*   **Prevenzione della Deriva Ricorsiva**: Necessità di definire regole e *guardrails* per impedire cicli dialogici autoreferenziali, garantendo l'efficacia didattica.
 
-- **Transizione verso Agenti Maieutici**: Nei supporti all'apprendimento (es. *Libet Prime*), l'IA non deve fornire soluzioni preconfezionate ma guidare l'allievo attraverso il dialogo socratico, ponendo domande aperte di secondo livello e stimolando la riflessione differenziale.
-- **Prevenzione della Deriva Ricorsiva**: Necessità di implementare *guardrails* e regole di stop definite per evitare che il dialogo socratico dell'agente si trasformi in una sequenza circolare e autoreferenziale priva di esito didattico.
+**Riferimenti Bibliografici:**
+*   06-05 Riunione: Impiego dell'IA in ambito clinico, bias e formazione.
+*   05-08 Riunione: Sviluppo Knowledge Base AI, Etica e Applicazioni Cliniche.
 
----
-
-## Related pages
+## Relazioni
 - [[simulazione-pazienti-ai]]
 - [[clinical-ai-simulation]]
 - [[human-in-the-reasoning]]
