@@ -6,8 +6,10 @@ source_papers: ["Ricerca Prompting LLM Clinico Sanitario.pdf"]
 # Analisi dei Framework di Prompting Strutturato in Ambito Clinico e Sanitario
 
 **Summary**: Documento di analisi sistematica e rassegna metodologica sullo stato dell'arte del prompt engineering e dei framework di inferenza strutturata applicati alla medicina, alla documentazione clinica (EHR/SOAP) e alla psicoterapia generativa. Il testo approfondisce lo standard internazionale di rendicontazione **[[tripod-llm-reporting-guideline|TRIPOD-LLM]]** (estensione 2025 di TRIPOD+AI), dimostra empiricamente il **[[clinical-chain-of-thought-paradox|paradosso del Chain-of-Thought (CoT) clinico]]** (degradamento delle prestazioni nell'86.3% dei modelli su cartelle elettroniche reali a causa dell'accumulo di errori non vincolati), esamina le architetture terapeutiche basate su partizione System/User e pacing (**[[LLM4CBT]]**, **[[coast-framework-clinical-prompting|COAST]]**), delinea i meccanismi neurali e le strategie di mitigazione dei bias demografici nei layer MLP intermedi (**Exploratory Thinking**, deliberazione **Multi-Agente**) e presenta i paradigmi di simulazione avanzata del paziente (**[[patient-psi-simulazione-clinica|PATIENT-Ψ]]**, **TherapyGym**).
+
 **Sources**: `Ricerca Prompting LLM Clinico Sanitario.pdf` (Rassegna metodologica e tavola sinottica della letteratura clinico-computazionale 2024-2026).
 **Last updated**: 2026-08-28
+
 ---
 
 ## Definizione Operativa e Inquadramento Generale

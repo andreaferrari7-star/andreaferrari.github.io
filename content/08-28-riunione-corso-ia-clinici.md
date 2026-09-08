@@ -1,4 +1,4 @@
-﻿---
+---
 tags: [riunione, corso-ia-psicoterapia, libet-prime, progettazione-didattica, chatbot-tutor]
 source_papers: ["08-28 Riunione settimanale_ Progettazione corso IA per clinici..."]
 ---

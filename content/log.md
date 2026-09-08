@@ -2,6 +2,20 @@
 
 Registro cronologico di acquisizioni, query e manutenzione.
 
+## [2026-09-01] ingest | 2603.27146v3.pdf
+- Ingestito il paper "Learning to Predict Future-Aligned Research Proposals with Language Models".
+- Creata la pagina `2603-27146v3.md` con Efficacia, Limiti/Rischi e Riferimenti.
+- Aggiornato `index.md` nella sezione Lotti 17-21 con il nuovo riferimento bibliografico.
+
+## [2026-09-01] ingest | 2601.10970v2.pdf
+- Ingestito il paper "Simulating Couple Conflict: Designing A Multi-Agent System for Therapy Training and Practice".
+- Creata la pagina `2601-10970v2.md` con l'estrazione di Efficacia, Limiti/Rischi e Riferimenti.
+- Aggiornato `index.md` nella sezione Lotti 17-21 con il nuovo riferimento bibliografico.
+## [2026-09-01] ingest | 2509.13324v3.pdf
+- Ingested paper Benosman (2026) sullo STAMP-LLM Framework e validazione test psicometrici negli LLM.
+- Creata la pagina `2509-13324v3.md` con l'estrazione di Efficacia, Limiti/Rischi e Riferimenti.
+- Aggiornato `index.md` con il collegamento corretto al paper e ai concetti correlati nella sezione Lotti 17-21.
+
 ## [2026-08-27] ingest | 2507.04491v2.pdf
 - Creata la pagina di sintesi del paper `lin-2026.md`.
 - Create pagine di concetti correlati: `measurement-phantoms.md`, `dual-validity-framework.md`, `pseudoreplication.md`.
@@ -232,8 +246,214 @@ Registro cronologico di acquisizioni, query e manutenzione.
 
 ## [2026-08-31] ingest | 2601-06032v1
 - Ingestione del paper 'Applied Theory of Mind and Large Language Models'. Creato riassunto strutturato evidenziando efficacia di GPT-4 nella ToM e i limiti derivanti dall'eccessivo uso di Uncertainty Markers.
-# #   [ 2 0 2 6 - 0 8 - 3 1 ]   i n g e s t   |   T R I P O D + A I 2 0 2 4 . p d f  
- # #   [ 2 0 2 6 - 0 8 - 3 1 ]   i n g e s t   |   2 5 0 9 . 1 3 3 2 4 v 3 . p d f  
- # #   [ 2 0 2 6 - 0 8 - 3 1 ]   i n g e s t   |   2 6 0 2 . 1 9 9 4 8 v 2 . p d f  
- # #   [ 2 0 2 6 - 0 8 - 3 1 ]   i n g e s t   |   E L E V A T E - G e n A I 2 0 2 5 . p d f  
+# #   [ 2 0 2 6 - 0 8 - 3 1 ]   i n g e s t   |   T R I P O D + A I 2 0 2 4 . p d f 
  
+ # #   [ 2 0 2 6 - 0 8 - 3 1 ]   i n g e s t   |   2 5 0 9 . 1 3 3 2 4 v 3 . p d f 
+ 
+ # #   [ 2 0 2 6 - 0 8 - 3 1 ]   i n g e s t   |   2 6 0 2 . 1 9 9 4 8 v 2 . p d f 
+ 
+ # #   [ 2 0 2 6 - 0 8 - 3 1 ]   i n g e s t   |   E L E V A T E - G e n A I 2 0 2 5 . p d f 
+ 
+ 
+## [2026-09-01] ingest | 2505.15108v2.pdf
+- Ingestione del paper sull'ontologia del rischio per psicoterapeuti AI. Creato file md corrispondente e aggiornato index.
+
+## [2026-09-01] ingest | 2510.03913v1.pdf
+- Ingestito il paper "PsychoLexTherapy: Simulating Reasoning in Psychotherapy with Small Language Models in Persian".
+- Creata la pagina `2510-03913v1.md` con Efficacia, Limiti e Riferimenti.
+- Aggiornato `index.md` nella sezione Lotti 17-21.
+
+## [2026-09-01] ingest | 2510.25384v1.pdf
+- Ingestito il paper '2510.25384v1.pdf' ("Roleplaying with Structure: Synthetic Therapist-Client Conversation Generation from Questionnaires").
+- Creata pagina `2510-25384v1.md` con Efficacia, Limiti/Rischi e Riferimenti.
+- Aggiornato index.
+
+## [2026-09-01] ingest | 2511.22818v1.pdf
+Integrazione del paper sull'uso degli LLMs per la sintesi dei dialoghi nel colloquio motivazionale (MI) e la mitigazione del semantic drift. Creato il file markdown e aggiornato l'indice.
+
+## [2026-09-01] ingest | 2512.04124v4.pdf
+- Ingestito il paper "When AI Takes the Couch: Psychometric Jailbreaks Reveal Internal Conflict in Frontier Models".
+- Creata la pagina `2512-04124v4.md` con l'estrazione di Efficacia, Limiti/Rischi e Riferimenti.
+- Aggiornato `index.md` nella sezione Lotti 17-21.
+
+ 
+ # #   [ 2 0 2 6 - 0 9 - 0 1 ]   i n g e s t   |   2 5 1 2 . 0 5 8 3 6 v 1 . p d f 
+ 
+ -   I n g e s t i t o   i l   p a p e r   \ 
+ 
+ U s i n g 
+ 
+ L a r g e 
+ 
+ L a n g u a g e 
+ 
+ M o d e l s 
+ 
+ t o 
+ 
+ C r e a t e 
+ 
+ P e r s o n a l i z e d 
+ 
+ N e t w o r k s 
+ 
+ F r o m 
+ 
+ T h e r a p y 
+ 
+ S e s s i o n s \ . 
+ 
+ -   C r e a t a   l a   p a g i n a   \ 2 5 1 2 - 0 5 8 3 6 v 1 . m d \   c o n   l a   d e f i n i z i o n e   o p e r a t i v a ,   e v i d e n z e   ( e f f i c a c i a   9 0 %   n e l   r i l e v a r e   p r o c e s s i   p s i c o l o g i c i ) ,   l i m i t i   ( a s s e n z a   d i   n o n - v e r b a l e ,   a l l u c i n a z i o n i )   e   r i f e r i m e n t i . 
+ 
+ -   A g g i o r n a t o   \ i n d e x . m d \   i n s e r e n d o   i l   p a p e r   n e l l a   s e z i o n e   L o t t i   1 7 - 2 1 . 
+ 
+ 
+## [2026-09-01] ingest | 2602.19948v2.pdf
+- Ingestito il paper "Assessing Risks of Large Language Models in Mental Health Support".
+- Creata la pagina 2602-19948v2.md con Efficacia, Limiti/Rischi (AI Psychosis, Sycophancy) e Riferimenti.
+- Aggiornato index.md.
+
+## [2026-09-01] ingest | 2604.23445v1.pdf
+- Ingestito il paper 'AI Safety Training Can be Clinically Harmful'.
+- Creata la pagina 2604-23445v1.md con Efficacia, Limiti (crisis cliff, interruzione esposizione, confusione memoria-realt� dovuta a RLHF) e Riferimenti.
+- Aggiornato index.md.
+
+## [2026-09-01] ingest | 2607.25667v1.pdf
+- Ingestito il paper MyMentorLLM: A psychotherapy GenAI environment.
+- Creata la pagina 2607-25667v1.md con Efficacia CBT e over-deference.
+- Aggiornato index.md.
+
+## [2026-09-01] ingest | ELEVATE-GenAI2025.pdf
+- Ingestito il paper ELEVATE-GenAI2025.pdf.
+- Aggiornata la pagina elevate-genai2025-1.md con Efficacia, Limiti/Rischi e Riferimenti.
+- Aggiornato index.md.
+
+
+## [2026-09-01] ingest | TRIPOD+AI2024.pdf
+- Aggiunto il paper Collins et al. (2024) - TRIPOD+AI Statement: Updated Guidance for Reporting Clinical Prediction Models.
+
+## [2026-09-04] query | linee-guida-prisma
+- Creata la pagina linee-guida-prisma.md (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) per archiviare la sintesi metodologica.
+- Aggiornato index.md nella macro-area "Linee Guida, Standard Metodologici e Reporting".
+
+## [2026-09-08] ingest | mjiri-39-30.pdf (Lotto 22)
+- Ingestito il paper "Comparative Effectiveness of Face-to-Face CBT and Combined CBT on Maladaptive Perfectionism".
+- Creata la pagina `mohammadi-et-al-2025.md` con Efficacia, Limiti e Riferimenti.
+- Creata la pagina concetto `concetti/maladaptive-perfectionism.md`.
+- Aggiornato `index.md` nella sezione "Psicoterapia Aumentata, Interventi Digitali e Biomarcatori".
+
+## [2026-09-08] ingest | mhealth-2025-1-e53133.pdf (Lotto 22)
+- Ingestito il paper "Development of a Mobile Intervention for Procrastination Augmented With a Semigenerative Chatbot".
+- Creata la pagina `lee-et-al-2025.md` estraendo Definizione Operativa, Evidenze (Efficacia e Limiti) e Riferimenti.
+- Creata la pagina concetto `concetti/semigenerative-chatbot.md` collegandola ad altri costrutti (alleanza digitale).
+- Aggiornato `index.md` inserendo il paper e i concetti nella sezione "Psicoterapia Aumentata".
+
+## [2026-09-08] ingest | 2605.17333v1.pdf (Lotto 22)
+- Ingestito il paper "Leveraging Error Diversity in Group Rollouts for Reinforcement Learning".
+- Creata la pagina `liu-et-al-2026.md` estraendo Definizione Operativa (RLVR ed EDAS) e Riferimenti.
+- Create le pagine concettuali `concetti/error-diversity-advantage-shaping.md` e `concetti/rlvr.md`.
+- Creata la sezione "Architetture Cliniche, Prompt Engineering e Modelli Operativi" in `index.md` e inseriti i relativi collegamenti.
+
+## [2026-09-08] ingest | preprints202604.0428.v3.pdf (Lotto 22)
+- Ingestito il paper "Agent Harness for Large Language Model Agents: A Survey".
+- Creata la pagina di sintesi `meng-et-al-2026.md` e la relativa pagina concetto `concetti/agent-harness-architecture.md`.
+- Aggiornato l'indice tematico "Architetture Cliniche, Prompt Engineering e Modelli Operativi".
+
+## [2026-09-08] ingest | 40501_2025_Article_359.pdf (Lotto 22)
+- Ingestito il paper "Artificial Intelligence in Obsessive-Compulsive Disorder: A Systematic Review".
+- Creata la pagina di sintesi `kim-et-al-2025.md` e la pagina concettuale `concetti/automated-erp-training.md`.
+- Aggiornato `index.md` nella sezione "Simulazione Clinica, Formazione e Supervisione".
+
+## [2026-09-08] ingest | 04-17 Convegno... (Lotto 23)
+- Ingestito il file "04-17 Convegno_ Integrazione etica dell'IA nella psicoterapia...".
+- Creata la pagina di sintesi in `sintesi/04-17_Convegno_Integrazione_Etica_IA_Formazione_v2.md` (evitando collisioni).
+- Nessun nuovo aggiornamento a `index.md` poiché il convegno era parzialmente già referenziato, ma la KB ora include la sintesi completa.
+
+## [2026-09-08] ingest | 2602.19401v2.pdf (Lotto 23)
+- Ingestito il paper "Reassurance Robots: OCD in the Age of Generative AI".
+- Creata la pagina di sintesi `barkhuff-2026.md` e la pagina concettuale `concetti/reassurance-robots.md`.
+- Aggiornato `index.md` nella sezione "Sicurezza Clinica, Bias, Allineamento e Red Teaming".
+
+## [2026-09-08] ingest | 1-s2.0-S0165032725011711-main.pdf (Lotto 23)
+- Ingestito il paper ENIGMA-OCD sulla predizione della risposta CBT.
+- Creata la pagina di sintesi `van-de-mortel-et-al-2025.md` e la pagina concettuale `concetti/cbt-outcome-prediction-in-ocd.md`.
+- Aggiornato `index.md` nella sezione "Psicoterapia Aumentata, Interventi Digitali e Biomarcatori".
+
+## [2026-09-08] ingest | 40337_2024_Article_967.pdf (Lotto 23)
+- Ingestito il paper "Identifying Overcontrol and Undercontrol Personality Types...".
+- Creata la pagina di sintesi `gilmartin-et-al-2024.md` e la pagina concettuale `concetti/overcontrol-and-undercontrol-personality-types.md`.
+- Aggiornato `index.md` nella sezione "Psicoterapia Aumentata, Interventi Digitali e Biomarcatori".
+
+## [2026-09-08] ingest | 2026.03.13.26348316v1.full.pdf (Lotto 23)
+- Ingestito il paper "Predicting cognitive-behavioral therapy outcomes...".
+- Creata la pagina di sintesi `dzinalija-et-al-2026.md` e la pagina concettuale `concetti/task-based-fmri-cbt-prediction.md`.
+- File duplicati saltati (già ingeriti tramite file equivalenti in questo batch o precedenti): `AI_in_OCD.pdf`, `Predicting cognitive-behavioral therapy outcomes in obsessivecompulsive disorder from inhibitory control neural activity.pdf`, `generative-ai-and-reassurance-seeking-in-ocd.pdf`.
+- Aggiornato `index.md` nella sezione "Psicoterapia Aumentata, Interventi Digitali e Biomarcatori".
+
+## [2026-09-08] ingest | behavsci-15-00488.pdf (Lotto 24)
+- Ingestito il paper "Brain Network Abnormalities in Obsessive-Compulsive Disorder: Insights from Edge Functional Connectivity Analysis".
+- Creata la pagina di sintesi `xu-et-al-2025.md` e la pagina concettuale `concetti/edge-functional-connectivity-entropy.md`.
+- Aggiornato `index.md` nella sezione "Psicoterapia Aumentata, Interventi Digitali e Biomarcatori".
+
+## [2026-09-08] ingest | British J Clinic Psychol - 2023 - Abramovitch... (Lotto 24)
+- Ingestito il paper "A randomized clinical trial of a gamified app for the treatment of perfectionism".
+- Creata la pagina di sintesi `abramovitch-et-al-2024.md` e la pagina concettuale `concetti/gamified-cbt-app.md`.
+- Aggiornato `index.md` nella sezione "Psicoterapia Aumentata, Interventi Digitali e Biomarcatori".
+
+## [2026-09-08] ingest | Chandran_D_et_al_NLP_for_OCS... (Lotto 24)
+- Ingestito il paper sull'NLP basato su regole per EHR.
+- Creata la pagina di sintesi `chandran-et-al-2019.md` e la pagina concettuale `concetti/nlp-ehr-ocs-detection.md`.
+- Aggiornato `index.md` (auto-compilato dal linter).
+
+## [2026-09-08] ingest | fnhum-19-1559760.pdf (Lotto 24)
+- Ingestito il paper "Gray and white matter alterations in Obsessive-Compulsive Personality Disorder...".
+- Creata la pagina di sintesi `arena-et-al-2025.md` e la pagina concettuale `concetti/ocpd-neural-correlates.md`.
+- L'indice tematico si aggiorna in automatico.
+
+## [2026-09-08] ingest | fpsyt-14-1231024.pdf (Lotto 24)
+- Ingestito il paper "Predicting obsessive-compulsive disorder episodes in adolescents using a wearable biosensor".
+- Creata la pagina di sintesi `lonfeldt-et-al-2023.md` e la pagina concettuale `concetti/wearable-biosensors-ocd.md`.
+
+## [2026-09-08] ingest | JAYPS-7-5-KH7.pdf (Lotto 25)
+- Ingestito il paper "A Multimodal Machine Learning Approach to Adolescent Loneliness...".
+- Creata la pagina di sintesi `villanueva-et-al-2026.md` e la pagina concettuale `concetti/digital-isolation.md`.
+
+## [2026-09-08] ingest | mental-2023-1-e45572.pdf (Lotto 25)
+- Ingestito il paper "Wearable and Mobile Technologies for the Evaluation and Treatment of Obsessive-Compulsive Disorder: Scoping Review".
+- Creata la pagina di sintesi `frank-et-al-2023.md` e la pagina concettuale `concetti/digital-phenotyping-ocd.md`.
+
+## [2026-09-08] ingest | mhealth-2024-1-e63316.pdf (Lotto 25)
+- Ingestito il paper "Efficacy of the mHealth App Intellect in Improving Subclinical Obsessive-Compulsive Disorder...".
+- Creata la pagina di sintesi `lee-yoon-li-et-al-2024.md` e la pagina concettuale `concetti/self-guided-mhealth-ocd.md`.
+
+## [2026-09-08] ingest | nihms-2055764.pdf (Lotto 25)
+- Ingestito il paper "Leveraging normative personality data and machine learning to examine the brain structure correlates of Obsessive-Compulsive Personality Disorder traits".
+- Creata la pagina di sintesi `moreau-et-al-2024.md` e la pagina concettuale `concetti/ffm-ocpd-prediction.md`.
+
+## [2026-09-08] ingest | nihpp-2026.03.02.709169v2.pdf (Lotto 25)
+- Ingestito il paper "A Multidimensional Framework for Behavioral Persistence...".
+- Creata la pagina di sintesi `cao-et-al-2026.md` e la pagina concettuale `concetti/percs-behavioral-persistence.md`.
+
+## [2026-09-08] ingest | reggente-et-al-2018... (Lotto 25)
+- Ingestito il paper "Multivariate resting-state functional connectivity predicts response to cognitive behavioral therapy...".
+- Creata la pagina di sintesi `reggente-et-al-2018.md` collegata al concetto esistente `concetti/cbt-outcome-prediction-in-ocd.md`.
+
+## [2026-09-08] ingest | s44271-026-00503-x_reference.pdf (Lotto 25)
+- Ingestito il paper "Leveraging large language models to map triggers of contamination-related obsessive-compulsive symptoms".
+- Creata la pagina di sintesi `bentz-wulff-2026.md` e la pagina concettuale `concetti/llm-trigger-mapping.md`.
+
+## [2026-09-08] lint | conformità index.md alle direttive agent.md
+- Eseguito audit completo di conformità di `wiki/index.md` rispetto alle direttive di `agent.md`.
+- Rimossa la sezione spuria/duplicata "Sicurezza Clinica, Bias, Allineamento e Red Teaming Clinici e Applicativi (Lotti 17-21)" e rimosso il blocco corrotto con spaziatura anomala.
+- Riorganizzate tutte le 699 pagine della Knowledge Base rigorosamente all'interno dei 6 macro-domini tematici verticali previsti, eliminando le liste alfabetiche indifferenziate.
+- Normalizzati tutti gli anchor text: convertiti codici grezzi (arXiv, DOI, nomi file) in titoli concettuali leggibili ed esplicativi in lingua italiana.
+- Aggiunta una descrizione puntuale ed esaustiva di una riga per ciascuna pagina della wiki.
+- Risolti 12 link orfani/spezzati e reintegrate le pagine della wiki precedentemente omesse dall'indice (totale indicizzato: 699 file).
+- Corretti problemi di codifica non-UTF8 su 6 file markdown e rimosse le sequenze corrotte.
+- Sincronizzato `index.md` nella cartella di pubblicazione `quartz/content/`.
+## [2026-09-09] ingest | healthcare-13-02340.pdf
+- Ingestito il paper "How Could Artificial Intelligence Change the Doctor–Patient Relationship? A Medical Ethics Perspective" (Montanari Vergallo et al., 2025).
+- Creata la pagina di sintesi `healthcare-13-02340.md`.
+- Creata la pagina concettuale `responsabilita-sanitaria-allucinazioni-algoritmiche.md` relativa all'intrasferibilità della colpa professionale e all'assorbimento di responsabilità sanitaria dello psicologo.
+- Aggiornato `index.md` con l'indicizzazione delle nuove pagine.
+

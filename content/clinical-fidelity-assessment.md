@@ -1,40 +1,18 @@
 ---
-Title: Clinical Fidelity Assessment
-Last Updated: 2026-08-27
-Tags: [Clinical Fidelity, AI, Psychotherapy, NLP, Implementation Science]
+tags: [Clinical Fidelity, AI, Psychotherapy, NLP, Implementation Science]
+source_papers: []
 ---
 
-# Clinical Fidelity Assessment
-
-La **Clinical Fidelity Assessment** (valutazione della fedeltà clinica o integrità del trattamento) è la metodologia automatizzata per la verifica dell'aderenza e della competenza nell'erogazione di psicoterapie evidence-based (EBT) mediante tecniche di NLP e Large Language Models.
-
 ## Definizione Operativa
-
-La fedeltà clinica si articola in due componenti distinte:
-
-1.  **Aderenza (*Adherence*)**: Parametro quantitativo che misura se il terapeuta include tutti gli elementi obbligatori previsti dal protocollo di trattamento nella sequenza corretta, evitando l'introduzione di tecniche proscritte o controindicate.
-2.  **Competenza (*Competence*)**: Parametro qualitativo che valuta il livello di maestria, accuratezza, responsività relazionale e giudizio clinico con cui le singole tecniche vengono implementate.
+- Metodologia automatizzata per verificare aderenza e competenza nell'erogazione di psicoterapie evidence-based (EBT) tramite NLP e LLM.
+- **Utilita CBT / Applicativa:** Supera i costi di supervisione manuale, previene l'erosione della fedeltà post-training e fornisce feedback clinico scalabile.
 
 ## Evidenze dalla Letteratura
+- Dati emersi: I sistemi basati su NLP e LLM superano il collo di bottiglia della valutazione manuale, permettendo monitoraggi continui (Adamkovic, 2025).
+- Limiti tecnici, bias e rischi specifici documentati: Necessità di ancoraggio rigoroso a scale psicometriche validate per gli LLM e garanzia di conformità HIPAA per l'elaborazione on-premise (Adamkovic, 2025).
 
-La letteratura corrente evidenzia diverse criticità e opportunità nell'uso di sistemi computazionali per la valutazione della fedeltà:
-
-*   **Superamento del Collo di Bottiglia Tradizionale**: La valutazione manuale richiede risorse elevate (tempo, personale esperto, costi), limitando la scalabilità della supervisione.
-*   **Contrasto all'Erosione della Fedeltà (*Fidelity Erosion*)**: Gli studi di implementation science mostrano che, terminata la fase di training iniziale, l'aderenza decade rapidamente senza supervisione continua.
-*   **Approcci Computazionali**:
-    *   **NLP Rule-Based**: Ideale per l'aderenza stretta (es. verifica presenza elementi protocollo), garantisce elevata privacy e conformità (es. HIPAA) operando on-premise.
-    *   **Large Language Models (LLM)**: Efficaci per l'analisi semantica complessa e la generazione di feedback qualitativi, ma necessitano di ancoraggio rigoroso a scale psicometriche validate.
-*   **Framework READY**: Per l'adozione clinica, i sistemi devono soddisfare criteri di Validità Psicometrica, Sicurezza/Protezione Dati e Accettabilità/Usabilità.
-
-**Riferimenti Bibliografici:**
-
-*   [[adamkovic-2025]]
-*   [[000]]
+## Riferimenti Bibliografici
+- Adamkovic, M. (2025). Non specificato. *Non specificato*, 0(0), 0-0. https://doi.org/Non specificato
 
 ## Relazioni
-
-*   [[ai-assisted-psychotherapy]]
-*   [[large-language-models]]
-*   [[ai-research-ethics]]
-*   [[prompting-in-psychology]]
-*   [[000]]
+- Vedi anche: [[ai-assisted-psychotherapy]], [[large-language-models]], [[ai-research-ethics]], [[prompting-in-psychology]]

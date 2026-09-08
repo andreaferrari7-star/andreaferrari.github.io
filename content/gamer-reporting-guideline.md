@@ -1,13 +1,25 @@
 ---
-tags: [gamer-statement, reporting-guideline, equator-network, generative-ai-in-medicine, medical-research-integrity, prompt-engineering-reporting, evidence-based-medicine, research-transparency]
-source_papers: ["GAMER2025.pdf"]
+tags:
+  - gamer-statement
+  - reporting-guideline
+  - equator-network
+  - generative-ai-in-medicine
+  - medical-research-integrity
+  - prompt-engineering-reporting
+  - evidence-based-medicine
+  - research-transparency
+source_papers:
+  - GAMER2025.pdf
 ---
 
 # GAMER Reporting Guideline (Generative Artificial Intelligence Tools in MEdical Research)
 
 ## Definizione Operativa
+
 - Il **GAMER Reporting Guideline** (*Generative Artificial intelligence tools in MEdical Research*) è lo standard metodologico internazionale registrato presso l'**EQUATOR Network** (*Enhancing the QUAlity and Transparency Of health Research*) progettato per guidare, uniformare e verificare la rendicontazione trasparente dell'uso di strumenti di intelligenza artificiale generativa (GAI) nella ricerca biomedica e clinica (Luo et al., 2025; *BMJ Evidence-Based Medicine*, doi: 10.1136/bmjebm-2025-113825).
+
 - **Consenso Globale e Ambito Trasversale:** Sviluppato da un panel multidisciplinare di **51 esperti internazionali provenienti da 26 paesi** mediante un processo Delphi a doppio round e consensus meeting sincroni, GAMER si caratterizza per una portata universale: a differenza di linee guida vincolate a specifici disegni di studio (es. trial clinici in CONSORT-AI, accuratezza diagnostica in STARD-AI, modelli predittivi in TRIPOD-LLM), GAMER si applica a **qualsiasi disegno di ricerca** (revisioni sistematiche, meta-analisi, studi osservazionali, trial clinici, protocolli di laboratorio, studi bioinformatici) e a **tutte le fasi operative** (ideazione, disegno sperimentale, coding, estrazione/trasformazione dati, scrittura e revisione del manoscritto).
+
 - **Architettura a 9 Item:** La checklist si articola in 9 item essenziali che coprono la dichiarazione d'uso, le specifiche e il versioning del modello, il prompt engineering e il rilascio dei prompt/risposte grezzi, l'eventuale fine-tuning di modelli personalizzati, i ruoli operativi, le sezioni manoscritte assistite, il protocollo di verifica umana dei contenuti, la salvaguardia della privacy dei dati sanitari (PHI) e la stima dell'impatto su risultati e conclusioni.
 
 ```mermaid
@@ -32,7 +44,9 @@ flowchart TD
 ```
 
 ## Evidenze dalla Letteratura
+
 Il GAMER Statement (Luo et al., 2025) rappresenta l'apice dell'attuale sforzo internazionale per mitigare i rischi associati all'uso non trasparente delle GAI nella ricerca clinica. La letteratura corrente evidenzia come, senza linee guida rigorose, l'integrazione di LLM comporti rischi sistematici:
+
 1.  **Allucinazioni bibliografiche:** Creazione di referenze inesistenti (Item 7).
 2.  **Bias metodologici:** Distorsioni introdotte da prompt non standardizzati o modelli non documentati (Item 2, 3).
 3.  **Violazioni di Privacy:** Esposizione accidentale di PHI in interfacce cloud pubbliche (Item 8).
@@ -41,6 +55,7 @@ Il GAMER Statement (Luo et al., 2025) rappresenta l'apice dell'attuale sforzo in
 L'impatto di GAMER è validato dal suo confronto con altre linee guida di settore (CONSORT-AI, TRIPOD-LLM, CHART, CANGARU), posizionandosi come il framework di riferimento per l'intero ciclo di vita della ricerca.
 
 ### I 9 Domini Metodologici della Checklist GAMER
+
 ```mermaid
 mindmap
   root((GAMER Checklist))
@@ -60,6 +75,7 @@ mindmap
 ```
 
 ### Dettaglio Checklist
+
 - **1. Dichiarazione Generale d'Uso (Item 1):** Esplicitare l'impiego di GAI.
 - **2. Specifiche del Modello (Item 2):** Versione, sviluppatore, data, iperparametri.
 - **3. Prompt Engineering & Output Grezzi (Item 3):** Strategia di prompting e rilascio materiale integrale.
@@ -70,7 +86,8 @@ mindmap
 - **8. Privacy (Item 8):** Protezione PHI e compliance (GDPR/HIPAA).
 - **9. Impatto (Item 9):** Valutazione critica post-hoc su risultati e conclusioni.
 
-**Riferimenti Bibliografici:**
+### Riferimenti Bibliografici
+
 - Luo, X., Tham, Y. C., Giuffrè, M., et al. (2025). Reporting guideline for the use of Generative Artificial intelligence tools in MEdical Research: the GAMER Statement. *BMJ Evidence-Based Medicine*, 30(6), 390–400. https://doi.org/10.1136/bmjebm-2025-113825
 - Luo, X., Tham, Y. C., Daher, M., et al. (2024). Protocol for developing the reporting guideline for the use of chatbots and other Generative Artificial intelligence tools in MEdical Research (GAMER). *medRxiv* / *BMJ Open*, 14, e081155.
 - Collins, G. S., Moons, K. G. M., Dhiman, P., et al. (2024). TRIPOD+AI statement: updated guidance for reporting clinical prediction models that use regression or machine learning methods. *BMJ*, 385, e078378.
@@ -79,6 +96,7 @@ mindmap
 - The CHART Collaborative (Huo, B., Guyatt, G. H., et al.). (2025). Reporting guideline for chatbot health advice studies: The CHART Statement. *JAMA Network Open*, 8(8), e2530220.
 
 ## Relazioni
+
 - [[gamer2025-1]]
 - [[gai-research-integrity-and-verification]]
 - [[chart-reporting-guideline]]

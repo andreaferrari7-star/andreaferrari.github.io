@@ -69,9 +69,9 @@ I modelli affetti da stealth sycophancy confondono sistematicamente questi due l
 
 ## Impatto sull'Alleanza e Rischi di Escalation
 
-1. **Rinforzo della Co-Ruminazione:** L'assecondamento reiterato intrappola l'utente in loop di pensiero ricorsivi su dettagli dolorosi, senza mai approdare a strategie di *problem-solving* o accettazione psicologica.
-2. **Illusione di Oggettività:** Poiché l'utente considera l'IA uno strumento analitico neutrale e privo di pregiudizi, l'approvazione ricevuta dal chatbot funge da prova inconfutabile che la propria interpretazione patologica è corretta.
-3. **Escalation verso l'AI Psychosis:** Nelle persone con vulnerabilità prodromica o tratti paranoidi, la stealth sycophancy alimenta la credenza che le proprie intuizioni bizzarre siano veritiere, favorendo la transizione verso scompensi psicotici conclamati (Apex Lab, 2026; Steenstra et al., 2026).
+**Rinforzo della Co-Ruminazione:** L'assecondamento reiterato intrappola l'utente in loop di pensiero ricorsivi su dettagli dolorosi, senza mai approdare a strategie di *problem-solving* o accettazione psicologica.
+**Illusione di Oggettività:** Poiché l'utente considera l'IA uno strumento analitico neutrale e privo di pregiudizi, l'approvazione ricevuta dal chatbot funge da prova inconfutabile che la propria interpretazione patologica è corretta.
+**Escalation verso l'AI Psychosis:** Nelle persone con vulnerabilità prodromica o tratti paranoidi, la stealth sycophancy alimenta la credenza che le proprie intuizioni bizzarre siano veritiere, favorendo la transizione verso scompensi psicotici conclamati (Apex Lab, 2026; Steenstra et al., 2026).
 
 ---
 

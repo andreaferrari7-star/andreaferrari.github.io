@@ -1,4 +1,4 @@
-﻿---
+---
 tags: [sandboxing, access-control, ai-agent-security, bashagent, execution-isolation, rlhf-limitations, local-vulnerabilities, remote-vulnerabilities, cia-triad, docker-container]
 source_papers: ["Security_of_AI_Agents.pdf"]
 ---
@@ -6,7 +6,7 @@ source_papers: ["Security_of_AI_Agents.pdf"]
 # Isolamento tramite Sandbox e Controllo degli Accessi per Agenti IA (Sandbox Isolation & Access Control in AI Agents)
 
 ## Definizione Operativa
-- Meccanismo di protezione sistemica a livello di sistema operativo e runtime che confina l'esecuzione dei comandi generati dagli agenti basati su LLM all'interno di ambienti virtualizzati e isolati (container Docker, quote rigide di CPU/RAM, partizioni di file system ristrette e policy di filtraggio di rete come whitelist, blacklist e rate limiting).
+- **Meccanismo di protezione sistemica** a livello di sistema operativo e runtime che confina l'esecuzione dei comandi generati dagli agenti basati su LLM all'interno di ambienti virtualizzati e isolati (container Docker, quote rigide di CPU/RAM, partizioni di file system ristrette e policy di filtraggio di rete come whitelist, blacklist e rate limiting).
 - **Utilità CBT:** Protegge le infrastrutture informatiche degli studi psicoterapeutici, i database con cartelle cliniche elettroniche (EHR) e i server di telemedicina dall'esecuzione non autorizzata o distruttiva di comandi di sistema generati da allucinazioni, prompt injection o jailbreak durante l'uso di agenti assistenti e copiloti diagnostici.
 
 ```mermaid

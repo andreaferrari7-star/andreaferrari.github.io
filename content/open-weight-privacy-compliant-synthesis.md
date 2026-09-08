@@ -1,4 +1,4 @@
-﻿---
+---
 tags: [privacy-salute-mentale, open-weight-llm, gdpr, hipaa, synthetic-data, vllm, on-premise-ai, governance-clinica, data-security]
 source_papers: ["2510.25384v1.pdf"]
 ---
@@ -6,7 +6,8 @@ source_papers: ["2510.25384v1.pdf"]
 # Open-Weight Privacy-Compliant Synthesis
 
 ## Definizione Operativa
-- Metodologia e paradigma di governance computazionale introdotto da Vu et al. (2025) per la generazione di dataset clinici e psicoterapeutici sintetici mediante modelli linguistici di larga scala (*open-weight LLM*) ospitati e serviti esclusivamente su infrastrutture hardware locali on-premise (es. tramite runtime `vLLM` su GPU dedicate).
+
+- **Metodologia e paradigma di governance computazionale** introdotto da Vu et al. (2025) per la generazione di dataset clinici e psicoterapeutici sintetici mediante modelli linguistici di larga scala (*open-weight LLM*) ospitati e serviti esclusivamente su infrastrutture hardware locali on-premise (es. tramite runtime `vLLM` su GPU dedicate).
 - **Utilità CBT / Clinica:** Risolve l'incompatibilità strutturale tra la ricerca sull'IA in salute mentale e le normative cogenti sulla protezione dei dati sensibili (GDPR nell'UE, HIPAA negli USA, PIPL in Cina). Mentre gli approcci basati su API cloud commerciali terze (es. OpenAI GPT-4) trasmettono cartelle cliniche, questionari psicometrici e metadati di pazienti reali a server esterni violando i vincoli di non-divulgazione, la sintesi open-weight garantisce l'isolamento crittografico e operativo dei dati sanitari originali pur generando dialoghi sintetici ad alta fedeltà clinica da cui distillare modelli specialistici distribuiti.
 
 ```mermaid
@@ -61,7 +62,8 @@ flowchart LR
 - **Implicazioni per la Scienza dell'Implementazione:**
   - La sintesi open-weight dimostra la fattibilità di pipeline cliniche decentralizzate in cui i centri sanitari possono utilizzare i propri dati psicometrici storici per addestrare modelli interni o generare dati didattici per gli allievi senza esporre i dati sensibili a rischi legali o di cybersicurezza.
 
-**Riferimenti Bibliografici:**
+### Riferimenti Bibliografici
+
 - Vu, D. N. L., Tan, R., Moench, L., Francke, S. J., Woiwod, D., Thomas-Odenthal, F., Stroth, S., Kircher, T., Hermann, C., Dannlowski, U., Jamalabadi, H., & Ji, S. (2025). Roleplaying with Structure: Synthetic Therapist-Client Conversation Generation from Questionnaires. *arXiv preprint arXiv:2510.25384v1 [cs.CL]*.
 - De Freitas, J., Uguralp, A. K., Oguz-Uguralp, Z., & Puntoni, S. (2022). Chatbots and mental health: Insights into the safety of generative AI. *Journal of Consumer Psychology*.
 - Cabrera, J., Loyola, M. S., Magaña, I., & Rojas, R. (2023). Ethical dilemmas, mental health, artificial intelligence, and LLM-based chatbots. In *IWBBIO 2023*, pages 313–326.
@@ -69,4 +71,5 @@ flowchart LR
 - Kwon, W., et al. (2023). Efficient memory management for large language model serving with PagedAttention. In *Proceedings of the 29th ACM SOSP*, pages 611–626.
 
 ## Relazioni
+
 - Vedi anche: [[2510-25384v1]], [[sqpsych-framework]], [[conversione-questionari-dialoghi-clinici]], [[clinical-ai-simulation]], [[simulazione-pazienti-ai]], [[dsm5agentflow]], [[audit-bias-llm-clinici]], [[software-as-a-medical-device-salute-mentale]], [[ai-research-ethics]], [[modello-centauro-clinico]]

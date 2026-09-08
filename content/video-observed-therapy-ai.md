@@ -1,4 +1,4 @@
-﻿---
+---
 tags: [computer-vision, vdot, video-observed-therapy, medication-adherence, 3d-resnet, i3d, aicure, directly-observed-therapy, deep-learning, telemedicine]
 source_papers: ["AI-PoweredReal-TimeAdherenceMonitoringforRemotePatientCareinTelemedicine.pdf"]
 ---
@@ -6,6 +6,7 @@ source_papers: ["AI-PoweredReal-TimeAdherenceMonitoringforRemotePatientCareinTel
 # Video-Observed Therapy (VDOT) and Computer Vision for Ingestion Confirmation
 
 ## Definizione Operativa
+
 - L'impiego di algoritmi di Computer Vision e reti neurali convoluzionali (CNN) per analizzare flussi video registrati o in tempo reale (acquisiti tramite fotocamera dello smartphone o dispositivi dedicati), al fine di verificare oggettivamente l'identità del paziente, il riconoscimento del farmaco specifico e l'avvenuta deglutizione (*swallowing confirmation*), automatizzando ed estendendo la classica *Directly Observed Therapy* (DOT) in ambito telemedico (Joshua & Peterson, 2025; Labovitz et al., 2020).
 - **Utilità Clinica e Telemedica:** Supera radicalmente i limiti delle misure indirette (self-report, conteggio pillole, smart bottle sensibili a false aperture ed eventi di "curiosity opening"), fornendo una prova visiva e oggettiva dell'ingestione in regimi terapeutici critici ad alto impatto (es. anticoagulanti orali post-ictus, tubercolosi, disturbi psichiatrici maggiori).
 
@@ -32,6 +33,7 @@ flowchart TD
 ## Evidenze dalla Letteratura
 
 ### 1. Architettura della Pipeline di Preprocessing e Visione Artificiale
+
 - **Campionamento e Normalizzazione:** I video registrati dai pazienti vengono processati mediante framework video come `FFmpeg` per estrarre una sequenza costante di circa 160 frame chiave, successivamente scalati a una risoluzione standardizzata di $224 \times 224$ pixel per alimentare le reti neurali profonde (Joshua & Peterson, 2025).
 - **Filtraggio degli Artefatti:** Protocolli di pre-annotazione automatica scartano sequenze video caratterizzate da scarsa illuminazione ambientale, parziale occlusione del volto o movimenti bruschi della fotocamera.
 - **Modelli Deep Learning Comparati:**
@@ -43,6 +45,7 @@ flowchart TD
 ---
 
 ### 2. Validazione Clinica ed Evidenze Sperimentali
+
 - **Trial Anticoagulanti Post-Ictus (Piattaforma AiCure):** In studi clinici randomizzati su pazienti reduci da ictus in terapia anticoagulante orale, l'impiego di VDOT automatizzato tramite smartphone ha garantito un tasso di aderenza del **100%**, contro il solo **50%** rilevato nel gruppo di controllo sottoposto a cure standard non monitorate (Labovitz et al., 2020).
 - **Trattamento della Tubercolosi (TB):** Nei protocolli di cura per la tubercolosi (dove la mancata compliance genera ceppi multi-resistenti MDR-TB), i sistemi VDOT basati su deep learning hanno raggiunto una sensibilità del **95.8%** nell'identificare correttamente l'ingestione (Sekandi et al., 2023; Joshua & Peterson, 2025).
 - **Popolazioni Psichiatriche e Deficit Cognitivi:** In un trial di 24 settimane condotto su pazienti affetti da schizofrenia e compromissione cognitiva, la VDOT basata su riconoscimento facciale e rilevamento pillola ha prodotto un incremento dell'aderenza del **+17.9%** rispetto alla directly observed therapy modificata (Joshua & Peterson, 2025).
@@ -60,6 +63,7 @@ flowchart TD
 ---
 
 **Riferimenti Bibliografici:**
+
 - Joshua, C., & Peterson, W. (2025). AI-Powered Real-Time Adherence Monitoring for Remote Patient Care in Telemedicine. *Research Article*, June 2025.
 - Labovitz, D. L., et al. (2020). Using Artificial Intelligence to Measure Adherence to Anticoagulants in Stroke Patients. *Stroke and Cerebrovascular Diseases*, 29(10), 105048.
 - Sekandi, J. N., et al. (2023). Application of AI to the Monitoring of Medication Adherence for TB Treatment in Africa. *JMIR AI*, 2(1), e40167.
@@ -67,9 +71,10 @@ flowchart TD
 ---
 
 ## Relazioni
+
 - [[ai-poweredreal-timeadherencemonitoringforremotepatientcareintelemedicine-1]]
 - [[wearable-sensor-fusion-adherence]]
 - [[proactive-surveillance-alert-fatigue]]
 - [[privacy-preserving-rpm-frameworks]]
 - [[chronic-disease-monitoring-adherence]]
-- [[software-as-a-medical-device-salute-mentale]]
+- [[software-as-a-medical-device-salute-mentale]]

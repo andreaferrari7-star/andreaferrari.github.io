@@ -20,8 +20,8 @@ Il framework articola la validazione su cinque pilastri fondamentali:
 1. **Prestazioni Tecniche (*Technical Performance*):** Verifica l'accuratezza NLU/NLP (intenti ed estrazioni), la tempestività, il sistema di *Error Management* (gestione fuori dominio), la consistenza linguistica e il rispetto degli standard di privacy (GDPR/HIPAA).
 2. **Usabilità (*Usability*):** Valuta l'interfaccia e il carico cognitivo tramite la *System Usability Scale (SUS)*, puntando a superare la soglia industriale di 68, con casi eccellenti che raggiungono 84.8-88.2. Include l'analisi del *pacing* conversazionale e dell'onboarding.
 3. **User Engagement (Bi-Dimensionale):**
-   - *Comportamentale:* Analisi di dosaggio (sessioni <30 min), volume conversazionale (245-547 messaggi/utente) e metriche di ritenzione/aderenza.
-   - *Esperienza Soggettiva:* Misura l'alleanza terapeutica digitale, l'utilità percepita e il calore emotivo. È emerso il fenomeno degli "Efficient Engagers", utenti con bassa intensità d'uso ma alta alleanza terapeutica digitale ($g = -0.60$ di riduzione distress).
+   - **Comportamentale:** Analisi di dosaggio (sessioni <30 min), volume conversazionale (245-547 messaggi/utente) e metriche di ritenzione/aderenza.
+   - **Esperienza Soggettiva:** Misura l'alleanza terapeutica digitale, l'utilità percepita e il calore emotivo. È emerso il fenomeno degli "Efficient Engagers", utenti con bassa intensità d'uso ma alta alleanza terapeutica digitale ($g = -0.60$ di riduzione distress).
 4. **Esiti di Cambiamento Comportamentale:** Misura l'impatto clinico sugli 8 comportamenti target della medicina dello stile di vita, utilizzando grandezze di effetto come $Hedges\ g$ o $Cohen\ d$ con focus sulla tenuta nel lungo termine (52 settimane).
 5. **Costo ed Economia Sanitaria:** Analizza la sostenibilità finanziaria (ICER, QALY, DALY, costo per paziente). Attualmente, la letteratura presenta un gap sistemico: **0% di evidenze** documentate su studi del settore.
 
@@ -31,9 +31,9 @@ Il framework articola la validazione su cinque pilastri fondamentali:
 - Perski O, et al. "Engagement with digital behavior change interventions." *Translational Behavioral Medicine*, 2017.
 
 ## Relazioni
-- **Studio Fondativo:** [[jmir-v28i1e79677|Scoping Review JMIR 2026 (Fu et al.)]].
-- **Dinamica Posologica:** [[routine-coach-vs-on-demand-assistant|Routine Coach vs On-Demand Assistant]].
-- **Valutazione Clinica Avanzata:** [[five-axis-clinical-evaluation|Five-Axis Clinical Evaluation Framework]].
-- **Valutazione Economico-Sanitaria:** [[heor-generative-ai-validation|HEOR Generative AI Validation]].
-- **Fattori Relazionali e di Ingaggio:** [[digital-therapeutic-alliance|Alleanza Terapeutica Digitale]], [[social-oriented-vs-task-oriented-chatbots|Social-Oriented vs Task-Oriented Chatbots]].
-- **Integrazione Sensori:** [[wearable-sensor-fusion-adherence|Wearable Sensor Fusion Adherence]].
+- **Studio Fondativo:** [[jmir-v28i1e79677|Scoping Review JMIR 2026 (Fu et al.)]]
+- **Dinamica Posologica:** [[routine-coach-vs-on-demand-assistant|Routine Coach vs On-Demand Assistant]]
+- **Valutazione Clinica Avanzata:** [[five-axis-clinical-evaluation|Five-Axis Clinical Evaluation Framework]]
+- **Valutazione Economico-Sanitaria:** [[heor-generative-ai-validation|HEOR Generative AI Validation]]
+- **Fattori Relazionali e di Ingaggio:** [[digital-therapeutic-alliance|Alleanza Terapeutica Digitale]], [[social-oriented-vs-task-oriented-chatbots|Social-Oriented vs Task-Oriented Chatbots]]
+- **Integrazione Sensori:** [[wearable-sensor-fusion-adherence|Wearable Sensor Fusion Adherence]]

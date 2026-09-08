@@ -1,25 +1,25 @@
 ---
 title: "AI-Driven Mental Health Interventions in Vulnerable & Humanitarian Settings"
 tags: [mental-health, vulnerable-populations, humanitarian, AI, LLM, ethics]
-last_updated: 2026-08-27
+last_updated: 2026-09-01
 ---
 
 # AI-Driven Mental Health Interventions in Vulnerable & Humanitarian Settings
 
 ## Definizione Operativa
-Quadro metodologico, etico e applicativo per l'implementazione di interventi di salute mentale guidati da agenti intelligenti in contesti umanitari, paesi LMIC e regimi autoritari, caratterizzati da trauma diffuso, violenza di genere, carenza strutturale di specialisti e severo stigma. 
+Quadro metodologico, etico e applicativo per l'implementazione di interventi di salute mentale guidati da agenti intelligenti in contesti umanitari, paesi LMIC e regimi autoritari, caratterizzati da trauma diffuso, violenza di genere, carenza strutturale di specialisti e severo stigma sociale.
 
-L'obiettivo è fornire supporto psicologico scalabile, accessibile e sicuro in ambienti dove l'assistenza tradizionale è inaccessibile.
+L'obiettivo è fornire supporto psicologico scalabile, accessibile e sicuro in ambienti dove l'assistenza tradizionale risulta inaccessibile.
 
 ## Evidenze dalla Letteratura
 Oltre l'80% della popolazione globale affetta da disturbi mentali risiede in **Paesi a Basso e Medio Reddito (LMICs)**. Sahab et al. (2025) dimostrano che l'integrazione di LLM in queste popolazioni richiede:
 
 1. **Architettura Stateless/Memoryless**: Per prevenire rischi derivanti dall'ispezione dei dispositivi (autorità/familiari) e ridurre la rievocazione non controllata di traumi.
-2. **Interventi a Sessione Singola (SSI)**: Focalizzati su 60 minuti di valore terapeutico immediato (de-escalation dell'ansia, ristrutturazione cognitiva) data l'instabilità delle connessioni e dell'accesso ai dispositivi.
+2. **Interventi a Sessione Singola (SSI)**: Focalizzati su 60 minuti di valore terapeutico immediato (de-escalation dell'ansia, ristrutturazione cognitiva), data l'instabilità delle connessioni e dell'accesso ai dispositivi.
 3. **Sicurezza Pre-Sessione**: Verifica della privacy fisica e istruzioni chiare per evitare la divulgazione di dati identificativi.
 
 **Riferimenti Bibliografici:**
-- Sahab et al. (2025) - `2508.00847v1.pdf`
+- Sahab et al. (2025) - [`2508.00847v1.md`](file:///C:/Users/ANDREA/AI%20Knowledge%20Base/wiki/2508-00847v1.md)
 - World Health Organization (WHO), 2021
 - Schwartz et al. (2023)
 

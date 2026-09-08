@@ -1,8 +1,9 @@
 ---
-Title: Strumenti di IA Assistiva per la Comunicazione nello Spettro Autistico
-Summary: Applicazione dei Large Language Models come tecnologie assistive per supportare persone nello spettro autistico (ASC) nell'interpretazione di contesti sociali ambigui, decodifica di intenzioni non letterali (ironia, gaffe, doppi sensi) e mediazione comunicativa.
-Sources: 2601.06032v1.pdf
-Last updated: 2026-08-27
+title: Strumenti di IA Assistiva per la Comunicazione nello Spettro Autistico
+summary: Applicazione dei Large Language Models come tecnologie assistive per supportare persone nello spettro autistico (ASC) nell'interpretazione di contesti sociali ambigui, decodifica di intenzioni non letterali (ironia, gaffe, doppi sensi) e mediazione comunicativa.
+sources: 
+  - 2601.06032v1.pdf
+last_updated: 2026-09-01
 ---
 
 # Strumenti di IA Assistiva per la Comunicazione nello Spettro Autistico

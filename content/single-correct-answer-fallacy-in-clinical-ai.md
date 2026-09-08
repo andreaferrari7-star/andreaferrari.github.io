@@ -1,11 +1,23 @@
 ---
-tags: [single-correct-answer-fallacy, diagnostic-reasoning, clinical-decision-making, pattern-recognition, clinical-uncertainty, relational-medicine, biomedical-reductionism, clinical-ai-benchmarks, triage-systems, doctor-patient-relationship]
-source_papers: ["Clinical decision-making and artificial intelligence_ The role of.pdf"]
+tags:
+  - single-correct-answer-fallacy
+  - diagnostic-reasoning
+  - clinical-decision-making
+  - pattern-recognition
+  - clinical-uncertainty
+  - relational-medicine
+  - biomedical-reductionism
+  - clinical-ai-benchmarks
+  - triage-systems
+  - doctor-patient-relationship
+source_papers:
+  - "Clinical decision-making and artificial intelligence_ The role of.pdf"
 ---
 
 # Single-Correct-Answer Fallacy in Clinical AI (Fallacia della Risposta Univoca nell'IA Clinica)
 
 ## Definizione Operativa
+
 - La **Single-Correct-Answer Fallacy in Clinical AI** (fallacia della risposta univoca o corretta a priori nell'IA medica) identifica l'errore metodologico ed epistemologico consistente nel concepire il processo decisionale clinico come un task chiuso di classificazione, risolvibile mediante il mero abbinamento statistico di pattern (*pattern recognition*) verso una diagnosi formalmente "esatta".
 - **Identificazione e Formalizzazione:** Evidenziata da Bhasin et al. (2025) nell'analisi critica del trial randomizzato di Goh et al. (*JAMA Network Open*, 2024), dimostra l'inadeguatezza dei tradizionali benchmark di valutazione dell'IA in medicina: testare i modelli su vignette cliniche sintetiche con un'unica etichetta diagnostica corretta sovrastima le capacità dell'algoritmo e nasconde la sua inefficacia nel supportare il clinico nella pratica reale.
 - **Rilevanza Clinica:** La medicina reale opera in una condizione di **incertezza intrinseca, complessità contestuale e co-costruzione relazionale**. Le decisioni cliniche non preesistono come formule astratte, ma emergono all'interno dell'alleanza tra medico e paziente, integrando il sottotesto emotivo, la storia psicosociale, le preferenze soggettive e le dinamiche di transfert/controtransfert.
@@ -35,7 +47,7 @@ flowchart TD
 
 ## De-costruzione Empirica e Limiti Metodologici
 
-### 1. Il Paradosso di Goh et al. (2024)
+### Il Paradosso di Goh et al. (2024)
 - Nel trial randomizzato di Goh et al. (2024), l'LLM da solo ha superato i medici nei test diagnostici sintetici, ma **l'affiancamento del modello ai medici non ha prodotto alcun miglioramento rispetto all'uso di risorse convenzionali** (*UpToDate*).
 - **Spiegazione del Paradosso:**
   - I test sintetici premiano l'estrazione lessicale diretta e la correlazione sintomatica rigida (dove l'LLM eccelle);
@@ -86,6 +98,7 @@ sequenceDiagram
 ---
 
 ## Riferimenti Bibliografici
+
 - **Bhasin, R., El-Sayed, W., Salami, K., Abdul-Nabi, M., Elashmawy, A., & Jaruzel II, M. E. (2025).** Clinical decision-making and artificial intelligence: The role of large language models in medicine. *Clinical Research in Practice*, 11(1), eP3601. https://doi.org/10.22237/crp/1743681960
 - **Cassel, E. J. (1982).** The nature of suffering and the goals of medicine. *New England Journal of Medicine*, 306(11), 639–645.
 - **Clarke, D. M., & Kissane, D. W. (2002).** Demoralization: its phenomenology and importance. *Aust N Z J Psychiatry*, 36(6), 733–742.
@@ -97,6 +110,7 @@ sequenceDiagram
 ---
 
 ## Related Pages
+
 - [[clinical-decision-making-and-artificial-intelligence]]
 - [[information-without-explanation-in-clinical-ai]]
 - [[human-in-the-reasoning]]
@@ -107,3 +121,4 @@ sequenceDiagram
 - [[automation-bias-clinical-reasoning]]
 - [[bottom-up-clinical-documentation]]
 - [[traffic-light-quality-appraisal-clinical-ai]]
+al-clinical-ai]]

@@ -1,4 +1,4 @@
-﻿---
+---
 tags: [privacy-preserving, homomorphic-encryption, fhe, fpets, format-preserving-encryption, data-confidentiality, prompt-tuning, coala-architecture, medical-privacy, hipaa, gdpr]
 source_papers: ["Security_of_AI_Agents.pdf"]
 ---
@@ -74,4 +74,4 @@ flowchart TD
 ---
 
 ## Relazioni
-- Vedi anche: [[security-of-ai-agents]], [[sandbox-isolation-and-access-control-in-ai-agents]], [[gdpr-governance-mental-health-ai]], [[mental-privacy-in-clinical-ai]], [[open-weight-privacy-compliant-synthesis]], [[federated-learning-and-differential-privacy-mental-health]], [[configurazione-sicurezza-piattaforme-ia-clinica]], [[layered-safeguards-in-clinical-ai]]
+- Vedi anche: [security-of-ai-agents](file:///c:/Users/ANDREA/AI%20Knowledge%20Base/wiki/security-of-ai-agents.md), [sandbox-isolation-and-access-control-in-ai-agents](file:///c:/Users/ANDREA/AI%20Knowledge%20Base/wiki/sandbox-isolation-and-access-control-in-ai-agents.md), [gdpr-governance-mental-health-ai](file:///c:/Users/ANDREA/AI%20Knowledge%20Base/wiki/gdpr-governance-mental-health-ai.md), [mental-privacy-in-clinical-ai](file:///c:/Users/ANDREA/AI%20Knowledge%20Base/wiki/mental-privacy-in-clinical-ai.md), [open-weight-privacy-compliant-synthesis](file:///c:/Users/ANDREA/AI%20Knowledge%20Base/wiki/open-weight-privacy-compliant-synthesis.md), [federated-learning-and-differential-privacy-mental-health](file:///c:/Users/ANDREA/AI%20Knowledge%20Base/wiki/federated-learning-and-differential-privacy-mental-health.md), [configurazione-sicurezza-piattaforme-ia-clinica](file:///c:/Users/ANDREA/AI%20Knowledge%20Base/wiki/configurazione-sicurezza-piattaforme-ia-clinica.md), [layered-safeguards-in-clinical-ai](file:///c:/Users/ANDREA/AI%20Knowledge%20Base/wiki/layered-safeguards-in-clinical-ai.md)

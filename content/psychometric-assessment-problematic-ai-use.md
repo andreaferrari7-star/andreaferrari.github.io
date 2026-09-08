@@ -1,11 +1,23 @@
 ---
-tags: [psychometrics, problematic-ai-use, ai-dependence, pcus, pcgus, caids-20, generative-ai-dependency-scale, igd-criteria, measurement-invariance, clinical-threshold]
-source_papers: ["main (1).pdf"]
+tags:
+  - psychometrics
+  - problematic-ai-use
+  - ai-dependence
+  - pcus
+  - pcgus
+  - caids-20
+  - generative-ai-dependency-scale
+  - igd-criteria
+  - measurement-invariance
+  - clinical-threshold
+source_papers:
+  - main (1).pdf
 ---
 
-# Assessment Psicometrico dell'Uso Problematico e Dipendenza da IA Generativa (Psychometric Assessment of Problematic Generative AI Use)
+# Assessment Psicometrico dell'Uso Problematico e Dipendenza da IA Generativa
 
 ## Definizione Operativa
+
 - L'**Assessment Psicometrico dell'Uso Problematico di IA Generativa** comprende l'insieme di strumenti quantitativi standardizzati, validati empiricamente e ancorati ai modelli teorici delle dipendenze comportamentali (criteri IGD del DSM-5-TR, modello delle componenti di Griffiths, modello I-PACE) per misurare la severità della dipendenza psicologica, della perdita di controllo e dell'impatto disfunzionale legati all'interazione con assistenti virtuali intelligenti e LLM (Liao, Ko, & Yen, 2026).
 - **Utilità Clinica e Diagnostica:** Consente di stabilire una **soglia diagnostica oggettiva** (*clinical cutoff*) in grado di discriminare tra l'utilizzo intensivo ma altamente adattivo (studio, lavoro, programmazione) e la reale dipendenza patologica (*maladaptive reliance*). Valuta dimensioni multidimensionali quali la preoccupazione cognitiva, l'astinenza affettiva, la tolleranza temporale, l'esternalizzazione cognitiva (*cognitive outsourcing*), l'intimità virtuale surrogata e la compromissione funzionale nella vita quotidiana.
 
@@ -78,6 +90,7 @@ classDiagram
 ```
 
 ### 1. Problematic ChatGPT Use Scale (PCUS) – Yu et al. (2024)
+
 - **Campione e Sviluppo:** Validata su un campione di $1.040$ adulti a Taiwan (età media $25.5$ anni).
 - **Architettura del Costrutto:** 11 item su scala Likert a 4 punti ($1 = \text{fortemente in disaccordo}$ a $4 = \text{fortemente d'accordo}$). Mappa direttamente i 6 criteri diagnostici dell'IGD e del modello delle componenti:
   1. *Preoccupazione/Salienza:* Pensiero costante rivolto alle future interazioni con ChatGPT.
@@ -91,6 +104,7 @@ classDiagram
 ---
 
 ### 2. Problematic ChatGPT Use Scale - Turkish (PCGUS) – Maral et al. (2025)
+
 - **Campione e Adattamento:** Validata su un campione di $864$ adulti in Turchia suddivisi in due coorti indipendenti.
 - **Modifiche di Scala:** Struttura a 9 item monofattoriale, derivata dall'eliminazione di 2 item della versione PCUS a causa di basse saturazioni fattoriali nel contesto culturale turco.
 - **Validità Convergente e Discriminante:** Correlazione positiva statisticamente significativa con la scala di dipendenza da IA (*Digital Addiction / AI Scale* - DAIS), la dipendenza da Internet (*Young's Internet Addiction Test Short Form* - YIBT-SF) e l'IGDS9-SF. Correlazione negativa con il tratto di **Coscienziosità** (*Big Five Inventory* - BFI).
@@ -99,6 +113,7 @@ classDiagram
 ---
 
 ### 3. Conversational AI Dependence Scale (CAIDS-20) – Chen et al. (2025)
+
 - **Campione:** Sviluppata su una coorte di $2.315$ studenti universitari cinesi attraverso 3 studi iterativi di validazione.
 - **Struttura a 4 Fattori (20 item):**
   1. *Incontrollabilità (*Uncontrollability*):* Include salienza cognitiva, tempo prolungato e tolleranza ($6$ item).
@@ -111,6 +126,7 @@ classDiagram
 ---
 
 ### 4. Generative AI Dependency Scale – Goh et al. (2025)
+
 - **Campione:** Sviluppata a Singapore su $1.333$ partecipanti attraverso 6 trial sperimentali e psicometrici.
 - **Struttura a 3 Fattori (11 item su scala Likert 1-5):**
   1. *Preoccupazione Cognitiva (*Cognitive Preoccupation*):* Pensiero intrusivo e anticipazione continua dell'uso.
@@ -159,6 +175,7 @@ flowchart TD
 ---
 
 ## Related pages
+
 - [[main-1]]
 - [[uso-problematico-chatbot-ai]]
 - [[cognitive-debt-in-generative-ai]]

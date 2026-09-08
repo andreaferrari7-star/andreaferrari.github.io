@@ -3,11 +3,13 @@
 **Summary**: Metodologia per la generazione dinamica e continua di manuali clinici operativi, linee guida procedurali e alberi decisionali a partire dall'elaborazione computazionale (tramite LLM) dei trascritti di riunioni d'équipe e discussioni su casi clinici reali. Introduce il paradigma del *Living Clinical Document* ad aggiornamento incrementale e con autorato clinico diffuso.
 **Sources**: 07-17 Riunione_ Corso di Formazione sull'IA in Psicologia e Utilizzo Clinico.txt
 **Last updated**: 2026-08-27
+
 ---
 
 ## 1. Il Divario tra Manualistica Accademica e Prassi Clinica Reale
 
 I manuali clinici tradizionali e la letteratura evidence-based adottano prevalentemente un approccio **top-down**: descrivono protocolli di trattamento standardizzati per patologie idealizzate e pazienti "puri". Nella pratica quotidiana delle organizzazioni sanitarie e dei centri di psicoterapia complessa, i terapeuti affrontano regolarmente snodi relazionali e procedurali raramente codificati nei testi accademici:
+
 - **Gestione dei passaggi di consegne (*transfer*)**: Passaggio di un paziente tra terapeuti per maternità, ripresa dopo interruzione o invio a un setting specialistico.
 - **Paziente passivo-richiestivo**: Gestione delle aspettative irrealistiche di guarigione immediata (*"bacchetta magica"*), atteggiamento passivo e tendenza a svalutare i precedenti colleghi.
 - **Interfaccia clinica tra segreteria e terapeuta**: Criteri di accoglienza, lettura del movente della domanda e assegnazione mirata del caso.
@@ -30,6 +32,7 @@ flowchart LR
 La metodologia sviluppata all'interno delle équipe specialistiche (sperimentata nel network *inTherapy*, es. équipe DOC) impiega modelli linguistici avanzati (es. *Anthropic Claude*) come sintetizzatori ed estrattori strutturali del ragionamento clinico collettivo:
 
 ### Struttura Standard dell'Addendum Clinico-Operativo
+
 1. **Premesse e Scopo**: Definizione della lacuna procedurale nel manuale clinico esistente (es. assenza di linee guida cliniche per i trasferimenti intra-struttura).
 2. **Caso Indice ed Episodio Critico**: Sintesi del caso clinico reale o della criticità relazionale che ha motivato la discussione in équipe.
 3. **Temi Clinici Trasversali**: Formalizzazione dei principi guida emergenti:
@@ -43,6 +46,7 @@ La metodologia sviluppata all'interno delle équipe specialistiche (sperimentata
 ## 3. Il Paradigma del "Living Clinical Document"
 
 A differenza dei manuali cartacei statici, un **Living Clinical Document**:
+
 - **Si aggiorna incrementalmente per aree tematiche**: Quando una riunione d'équipe successiva torna ad approfondire lo stesso quadro clinico, l'agente AI riconosce il tema, integra le nuove osservazioni e aggiorna il documento senza duplicare le informazioni.
 - **Tiene traccia del versioning**: Documenta la storia delle revisioni (v1.0, v1.1, v2.0), registrando l'evoluzione progressiva delle prassi e delle competenze del centro clinico.
 - **È fruibile in ambienti digitali protetti**: Consultabile su portali web/HTML interni riservati con accesso sicuro e autenticato per i terapeuti dell'organizzazione.
@@ -68,6 +72,7 @@ graph TD
 ---
 
 ## Related pages
+
 - [[07-17_Riunione_Corso_Formazione]]
 - [[llm-wiki]]
 - [[clinical-fidelity-assessment]]

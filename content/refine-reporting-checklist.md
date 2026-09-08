@@ -6,6 +6,7 @@ source_papers: ["REFINE_2026.pdf"]
 # REFINE Reporting Checklist for Foundation and Large Language Models
 
 ## Definizione Operativa
+
 - La **REFINE Reporting Checklist** (*REporting checklist for FoundatIon and large laNguagE models*) è lo standard metodologico internazionale e consensuale di reporting specificamente progettato per guidare la progettazione, la rendicontazione, la peer review e la sintesi di evidenze scientifiche negli studi biomedici che impiegano **Foundation Models (FM)** e **Large Language Models (LLM)** unimodali e multimodali.
 - **Sviluppo e Consenso Delphi:** Pubblicato nel 2026 da Mese et al. (*Diagnostic and Interventional Radiology*; DOI: [10.4274/dir.2026.263812](https://doi.org/10.4274/dir.2026.263812)), il framework è il risultato di un rigoroso processo Delphi modificato a due round, condotto su 54 panelist e 3 membri dello steering committee (57 esperti totali da 17 Paesi), seguito da una fase di armonizzazione terminologica e procedurale.
 - **Architettura Strutturale:** Il framework comprende **44 item organizzati in 6 domini metodologici** sequenziali che coprono l'intero ciclo di vita del modello generativo:
@@ -224,9 +225,9 @@ sequenceDiagram
 ---
 
 ## Pagine Correlate della Wiki
-- [[refine-2026]] — Sintesi completa della pubblicazione originale di Mese et al. (2026).
-- [[dataset-integrity-and-contamination-in-medical-ai]] — Trattazione approfondita su data leakage, pretraining cutoff e bias di campionamento nei modelli sanitari.
-- [[mi-clear-llm-2025]] — Linea guida specialistica per la rendicontazione dell'accuratezza diagnostica degli LLM.
-- [[stochasticity-management-in-clinical-llms]] — Gestione statistica e iperparametrica della variabilità generativa nei modelli Transformer.
-- [[chart-reporting-guideline]] — Linea guida per la rendicontazione degli studi su chatbot di consulenza sanitaria.
-- [[elevate-genai-framework]] — Standard di trasparenza per la ricerca biomedica assistita da GenAI.
+- [refine-2026](wiki/refine-2026.md) — Sintesi completa della pubblicazione originale di Mese et al. (2026).
+- [dataset-integrity-and-contamination-in-medical-ai](wiki/dataset-integrity-and-contamination-in-medical-ai.md) — Trattazione approfondita su data leakage, pretraining cutoff e bias di campionamento nei modelli sanitari.
+- [mi-clear-llm-2025](wiki/mi-clear-llm-2025.md) — Linea guida specialistica per la rendicontazione dell'accuratezza diagnostica degli LLM.
+- [stochasticity-management-in-clinical-llms](wiki/stochasticity-management-in-clinical-llms.md) — Gestione statistica e iperparametrica della variabilità generativa nei modelli Transformer.
+- [chart-reporting-guideline](wiki/chart-reporting-guideline.md) — Linea guida per la rendicontazione degli studi su chatbot di consulenza sanitaria.
+- [elevate-genai-framework](wiki/elevate-genai-framework.md) — Standard di trasparenza per la ricerca biomedica assistita da GenAI.

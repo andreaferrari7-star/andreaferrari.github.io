@@ -1,11 +1,26 @@
 ---
-tags: [apa-health-advisory, generative-ai-chatbots, wellness-apps, digital-mental-health, clinical-safety, sycophancy, digital-therapeutic-alliance, mental-privacy, crisis-management, pediatric-vulnerabilities, professional-misrepresentation, fda-regulation, single-person-echo-chambers]
-source_papers: ["health-advisory-ai-chatbots-wellness-apps-mental-health.pdf"]
+tags:
+  - apa-health-advisory
+  - generative-ai-chatbots
+  - wellness-apps
+  - digital-mental-health
+  - clinical-safety
+  - sycophancy
+  - digital-therapeutic-alliance
+  - mental-privacy
+  - crisis-management
+  - pediatric-vulnerabilities
+  - professional-misrepresentation
+  - fda-regulation
+  - single-person-echo-chambers
+source_papers:
+  - health-advisory-ai-chatbots-wellness-apps-mental-health.pdf
 ---
 
 # APA Health Advisory on the Use of Generative AI Chatbots and Wellness Applications for Mental Health (APA, 2025)
 
 ## Definizione Operativa
+
 - Documento di indirizzo clinico e regolatorio ufficiale emanato a novembre 2025 dall'**American Psychological Association (APA)**, formulato da un pannello consultivo multidisciplinare di esperti in psicologia clinica, neuroscienze, etica, diritto e intelligenza artificiale (con il coordinamento scientifico e dirigenziale di Wright, Evans, Nunes, Deegan, Fortunato, Jones e Prinstein).
 - Il documento analizza l'uso massivo e non regolamentato di agenti conversazionali di **Intelligenza Artificiale Generativa (GenAI)** generalisti (es. ChatGPT, Character.ai) e di applicazioni di benessere digitale (*wellness apps*) da parte di milioni di utenti per rispondere a bisogni di salute mentale insoddisfatti, generati dalla crisi globale dei servizi sanitari, dall'epidemia di solitudine, dalle barriere economiche e dalla carenza di professionisti sul territorio.
 - **Utilità Clinica e CBT:** Stabilisce una chiara distinzione tassonomica e funzionale tra strumenti digitali di supporto complementare (*supportive adjuncts*) all'interno di una relazione terapeutica strutturata e surrogati autonomi di psicoterapia privi di validazione scientifica. Delinea i rischi clinici specifici (falsa [[simulated-therapeutic-alliance|alleanza terapeutica]], [[sycophantic-mirroring|bias di sicofanzia]], allucinazioni cliniche, inaffidabilità nella gestione delle crisi e del suicidio, amplificazione di distorsioni cognitive, loop di rassicurazione nel DOC, deliri e [[ai-psychosis|AI psychosis]], creazione di [[single-person-echo-chambers|camere d'eco monopersonali]] e violazione della [[mental-privacy-in-clinical-ai|mental privacy]]) e articola 8 raccomandazioni operative rivolte a consumatori, clinici, sviluppatori, ricercatori e decisori politici.
@@ -111,3 +126,4 @@ L'APA richiede la protezione della **Mental Privacy** come diritto fondamentale,
 
 ## Relazioni
 - Documenti e concetti collegati: [[single-person-echo-chambers]], [[mental-privacy-in-clinical-ai]], [[sycophantic-mirroring]], [[simulated-therapeutic-alliance]], [[artificial-intimacy]], [[emotional-infrastructure]], [[uso-problematico-chatbot-ai]], [[ai-psychosis]], [[calibrated-mismatches]], [[anthropomorphism-in-ai]], [[software-as-a-medical-device-salute-mentale]], [[pediatric-ai-bias-and-vulnerabilities]], [[deployment-readiness-checklist-mental-health-ai]], [[human-oversight-and-liability-in-clinical-ai]], [[behavsci-16-00676]]
+

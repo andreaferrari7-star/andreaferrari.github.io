@@ -3,16 +3,17 @@ tags: [exposure-therapy, anxiety-disorders, digital-mental-health, conversationa
 source_papers: ["jmir_v27i1e69639.pdf"]
 ---
 
-# Exposure Therapy Deficit in Mental Health AI (Deficit di Esposizione Comportamentale nell'IA per la Salute Mentale)
+# Exposure Therapy Deficit in Mental Health AI
 
 ## Definizione Operativa
-- Il **Deficit di Esposizione Comportamentale nell'IA per la Salute Mentale** (*Exposure Therapy Deficit in Mental Health AI*) identifica la discrepanza strutturale ed empirica per cui gli agenti conversazionali guidati da intelligenza artificiale ([[large-language-models|NLP]] e Machine Learning) dimostrano una solida efficacia nella riduzione dei sintomi depressivi ma falliscono sistematicamente nel produrre miglioramenti clinicamente e statisticamente significativi su **ansia generalizzata, fobie, stress e affetto negativo** (Feng et al., 2025; Carpenter et al., 2018; Zhong et al., 2024).
+Il **Deficit di Esposizione Comportamentale nell'IA per la Salute Mentale** (*Exposure Therapy Deficit in Mental Health AI*) identifica la discrepanza strutturale ed empirica per cui gli agenti conversazionali guidati da intelligenza artificiale ([[large-language-models|NLP]] e Machine Learning) dimostrano una solida efficacia nella riduzione dei sintomi depressivi, ma falliscono sistematicamente nel produrre miglioramenti clinicamente e statisticamente significativi su **ansia generalizzata, fobie, stress e affetto negativo** (Feng et al., 2025; Carpenter et al., 2018; Zhong et al., 2024).
 
 ## Evidenze dalla Letteratura
 - **Evidenze Quantitative di Divergenza:** Nella meta-analisi di Feng et al. (2025) su adolescenti e giovani adulti ($N = 1.974$), a fronte di un effetto medio-grande sulla **depressione** ($\text{Hedges } g = 0.61$, $P < .001$; $g = 0.74$ nei subclinici), gli esiti aggregati (corretti per publication bias) su tutte le dimensioni correlate all'ansia sono risultati **completamente nulli o trascurabili**:
   - **Ansia Generalizzata:** $\text{Hedges } g = 0.06$ ($95\%\text{ CI } [-0.21, 0.32]$, $P = .17$);
   - **Stress Percepito:** $\text{Hedges } g = 0.002$ ($95\%\text{ CI } [-0.19, 0.20]$, $P = .98$);
   - **Affetto Negativo:** $\text{Hedges } g = 0.07$ ($95\%\text{ CI } [-0.13, 0.27]$, $P = .17$).
+
 - **Spiegazione Epistemologico-Clinica:** La terapia cognitivo-comportamentale (CBT) per la depressione agisce prioritariamente sulla ristrutturazione cognitiva dei pensieri automatici negativi e sulla pianificazione delle attività (*behavioral scheduling*), processi cognitivo-linguistici che presentano un naturale isomorfismo con il dialogo testuale dei modelli linguistici. Al contrario, il trattamento *gold standard* evidence-based per l'ansia e i disturbi correlati a stress e trauma richiede protocolli di **esposizione comportamentale (in vivo, immaginativa, interocettiva)** basati sul modello dell'**apprendimento inibitorio** (*inhibitory learning*; Craske et al., 2014), che non possono essere surrogati dal solo scambio verbale-testuale.
 
 ### Meccanismi Clinici e Psicopatologici del Fallimento nell'Ansia
@@ -20,7 +21,7 @@ source_papers: ["jmir_v27i1e69639.pdf"]
 2. **Il Rischio Iatrogeno della Rassicurazione Algoritmica (*Safety Behavior Trap*):** La rassicurazione immediata tipica dei bot funge da comportamento di sicurezza iatrogeno, rinforzando la convinzione che l'ansia sia intollerabile.
 3. **Asimmetria tra Riduzione del Deficit e Promozione del Benessere:** I modelli attuali orientati alla riduzione dei sintomi (*deficit-reduction model*) non generano risorse psicologiche positive (resilienza, senso di scopo, autoefficacia).
 
-**Riferimenti Bibliografici:**
+## Riferimenti Bibliografici
 - **Feng, Y., Hang, Y., Wu, W., Song, X., Xiao, X., Dong, F., & Qiao, Z. (2025).** Effectiveness of AI-Driven Conversational Agents in Improving Mental Health Among Young People: Systematic Review and Meta-Analysis. *Journal of Medical Internet Research*, 27, e69639.
 - **Carpenter, J. K., Andrews, L. A., Witcraft, S. M., Powers, M. B., Smits, J. A. J., & Hofmann, S. G. (2018).** Cognitive behavioral therapy for anxiety and related disorders: a meta-analysis of randomized placebo-controlled trials. *Depression and Anxiety*, 35(6), 502–514.
 - **Craske, M. G., Treanor, M., Conway, C. C., Zbozinek, T., & Vervliet, B. (2014).** Maximizing exposure therapy: An inhibitory learning approach. *Behaviour Research and Therapy*, 58, 10–23.

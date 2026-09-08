@@ -14,7 +14,6 @@ source_papers: ["Generative AI Mental Health Chatbot Interventions - A Scoping R
   - Dimostra l'imprescindibilità di un'architettura di sicurezza sociotecnica multilivello (**[[layered-safeguards-in-clinical-ai|Layered Safeguards]]**) che combina controlli algoritmici (fine-tuning clinico, RAG con soglie di astensione, filtri multilivello e classificatori di rischio), salvaguardie procedurali (onboarding, chiarimento del ruolo, co-design esperto) e governance operativa (supervisione *Human-in-the-Loop* e percorsi di escalation per le crisi).
 
 ## Evidenze dalla Letteratura
-*(Contenuto riorganizzato dalle sezioni originali "Caratteristiche dei Sistemi...", "Tabella Comparativa...", "Analisi Approfondita...", "Architettura di Sicurezza...", "Lacune...")*
 
 ### 1. Condizioni Cliniche e Approcci Terapeutici
 L'analisi evidenzia una forte focalizzazione sui disturbi internalizzanti (Ansia n=11, Depressione n=10) tramite framework CBT e Third-Wave (CBT, ACT, mindfulness). Gli approcci complementari includono psicologia positiva, terapia della reminiscenza, esposizione in realtà aumentata (PTSD) e arteterapia.
@@ -33,7 +32,7 @@ Le strategie di mitigazione si dividono in:
 - Mancanza di metriche specifiche per rischi GenAI (es. AI psychosis, allucinazioni cliniche).
 - Scarsa trasparenza architetturale e sui dati di deployment.
 
-**Riferimenti Bibliografici:**
+## Riferimenti Bibliografici
 - Olisaeloka, L., Richardson, C., Wang, A. Y., Munthali, R., & Vigo, D. (2026). Generative AI Mental Health Chatbot Interventions: A Scoping Review of Safety and User Experience. *Department of Psychiatry, University of British Columbia*.
 - Olisaeloka, L., Richardson, C., & Vigo, D. (2026). User experience and safety of generative AI-based mental health chatbots: Scoping review protocol. *PLOS ONE*, 21, e0341631. https://doi.org/10.17605/OSF.IO/HSNXA
 - Campellone, T. R., et al. (2025). Safety and User Experience of a Generative Artificial Intelligence Digital Mental Health Intervention. *Journal of Medical Internet Research*, 27, e67365.

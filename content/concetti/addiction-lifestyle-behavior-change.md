@@ -8,7 +8,8 @@ title: "Behavioral Change, Addiction Cessation, and Lifestyle Interventions via 
 
 ## Definizione Operativa
 L'applicazione di agenti conversazionali basati su intelligenza artificiale per promuovere la modifica di comportamenti a rischio, favorire la cessazione delle dipendenze (tabagismo, alcol, sostanze, gioco d'azzardo) e stimolare l'adozione di stili di vita salutari (attività fisica, dieta equilibrata, igiene del sonno, gestione del peso) attraverso tecniche di colloquio motivazionale, automonitoraggio e rinforzo comportamentale (Huynh et al., 2026; Bendotti et al., 2023).
-- **Utilità CBT:** Implementazione automatizzata di diari di consumo/craving, identificazione dei trigger ambientali ed emotivi, pianificazione di attività piacevoli e padroneggianti (*behavioral activation*), gestione dell'urgenza (*urge surfing*) e prevenzione delle ricadute.
+
+- **Utilità CBT**: Implementazione automatizzata di diari di consumo/craving, identificazione dei trigger ambientali ed emotivi, pianificazione di attività piacevoli e padroneggianti (*behavioral activation*), gestione dell'urgenza (*urge surfing*) e prevenzione delle ricadute.
 
 ---
 

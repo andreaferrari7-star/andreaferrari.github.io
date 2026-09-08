@@ -1,11 +1,26 @@
-﻿---
-tags: [scoping-review, prisma-scr, chatgpt, large-language-models, mental-health-ai, clinical-decision-support, diagnostic-accuracy, counseling-chatbots, prognostic-pessimism, prompt-experiments, algorithmic-aversion, clinical-psychology, digital-mental-health]
-source_papers: ["mental-v12-e81204.pdf"]
+---
+tags:
+  - scoping-review
+  - prisma-scr
+  - chatgpt
+  - large-language-models
+  - mental-health-ai
+  - clinical-decision-support
+  - diagnostic-accuracy
+  - counseling-chatbots
+  - prognostic-pessimism
+  - prompt-experiments
+  - algorithmic-aversion
+  - clinical-psychology
+  - digital-mental-health
+source_papers:
+  - "mental-v12-e81204.pdf"
 ---
 
 # ChatGPT Clinical Use in Mental Health Care: Scoping Review of Empirical Evidence (Balan & Gumpel, 2025)
 
 ## Definizione Operativa
+
 - **Scoping Review sistematica** condotta secondo le linee guida **PRISMA-ScR** (*Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension for Scoping Reviews*) e pubblicata su *JMIR Mental Health* (2025, vol. 12, e81204) da Raluca Balan e Thomas P. Gumpel (Seymour Fox School of Education, Hebrew University of Jerusalem; DOI: [10.2196/81204](https://doi.org/10.2196/81204)).
 - **Oggetto e Ambito:** Prima mappatura esaustiva ed empirica dell'impiego clinico di ChatGPT in salute mentale, basata sull'inclusione di **60 studi primari** estratti da 8 banche dati internazionali (*Web of Science, PubMed, Scopus, PsycINFO, ACM Digital Library, IEEE Xplore, OATD, EBSCO, ProQuest*) fino ad aprile 2025 (protocollo registrato prospecticamente su Open Science Framework: [osf.io/z6kyg](https://osf.io/z6kyg)).
 - **Tassonomia dei Domini Clinici Esaminati:**

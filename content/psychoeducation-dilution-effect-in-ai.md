@@ -97,3 +97,4 @@ flowchart LR
 - [[cbt-dialogue-systems-and-tools|Sistemi di Dialogo e Strumenti CBT]]
 - [[subclinical-depression-window-of-opportunity|Finestra di Opportunità Subclinica nell'IA]]
 - [[digital-therapeutic-alliance|Alleanza Terapeutica Digitale]]
+

@@ -1,6 +1,18 @@
 ---
-tags: [client101, simulazione-pazienti, simulated-clients, liwc-validation, memory-assisted-prompt-editing, depressione-ansia, deliberate-practice, compliance-artificiale, stereotipia-clinica, ai-training-psicoterapia, cbt-simulation]
-source_papers: ["Sunto articoli.docx.pdf"]
+tags:
+  - client101
+  - simulazione-pazienti
+  - simulated-clients
+  - liwc-validation
+  - memory-assisted-prompt-editing
+  - depressione-ansia
+  - deliberate-practice
+  - compliance-artificiale
+  - stereotipia-clinica
+  - ai-training-psicoterapia
+  - cbt-simulation
+source_papers:
+  - "Sunto articoli.docx.pdf"
 ---
 
 # Client101: Framework per la Simulazione di Pazienti Virtuali e Benchmarking Psicolinguistico
@@ -29,6 +41,7 @@ I pattern linguistici di Alice e Luke presentano una distribuzione statistica so
 - Cabrera Lozoya et al. (2025). Framework Client101 per la Simulazione di Pazienti Virtuali.
 
 ## Relazioni
+
 ```mermaid
 graph TD
     Client101 --> Alice["Alice (GAD)"]
@@ -38,6 +51,7 @@ graph TD
     Training --> CBTSkills["Competenze CBT"]
 ```
 
+## Voci Correlate
 - [[sunto-articoli]]
 - [[bolt-behavioral-assessment-framework]]
 - [[patient-psi-simulazione-clinica]]
@@ -46,3 +60,4 @@ graph TD
 - [[clinical-fidelity-assessment]]
 - [[large-language-models]]
 - [[ai-assisted-psychotherapy]]
+

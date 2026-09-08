@@ -6,7 +6,9 @@ source_papers: ["mental-2026-1-e88057.pdf"]
 # Modelli Linguistici Compatti e Specializzati di Dominio nella Salute Mentale (Lightweight & Domain-Tuned Models)
 
 ## Definizione Operativa
+
 - Il paradigma dei **Modelli Linguistici Compatti e Specializzati di Dominio (*Lightweight & Domain-Tuned Models*)** nella salute mentale descrive l'adozione strategica e l'adattamento specialistico (*fine-tuning*, *instruction tuning*, integrazione di moduli *LoRA*) di modelli di dimensioni contenute o moderate (Small Language Models - SLM, architetture encoder-only quali *MentalBERT*, *DepRoBERTa*, *XLM-RoBERTa*, e modelli compatti come *TinyBERT*, *MobileBERT*, *DistilBERT*, *Flan-T5*, *MentalLLaMA*, *MentalQLM*) ottimizzati su lessico psicopatologico e corpora clinici, in contrapposizione all'uso acritico di mastodontici modelli frontier commerciali generalisti (*Closed-Source Frontier LLMs* come GPT-4 o Claude) (Lokadjaja et al., 2026).
+
 - **Razionale Clinico e Computazionale:** La ricerca empirica dimostra che, nei contesti clinici e ospedalieri ad alte risorse vincolate o con stringenti requisiti di riservatezza dei dati, i modelli compatti specificamente tarati sul dominio eguagliano o **superano sistematicamente i grandi modelli generalisti non calibrati** in compiti critici di triage, estrazione sintomatica da interviste ed elaborazione di cartelle cliniche (Taylor et al., 2024; Ohse et al., 2024; Shin et al., 2024; Chen et al., 2025).
 
 ```mermaid
@@ -109,6 +111,7 @@ flowchart LR
 ---
 
 ## Riferimenti Bibliografici
+
 - Lokadjaja, M. C., Kho, J. J., Schulz, P. J., & Goh, W. W. B. (2026). Large Language Models and Their Applications in Mental Health: Scoping Review. *JMIR Mental Health*, 13, e88057. https://doi.org/10.2196/88057
 - Adhikary, P. K., Srivastava, A., Kumar, S., et al. (2024). Exploring the efficacy of large language models in summarizing mental health counseling sessions: benchmark study. *JMIR Ment Health*, 11, e57306.
 - Chen, H., Zeng, W., Chen, C., et al. (2025). EEG emotion copilot: optimizing lightweight LLMs for emotional EEG interpretation with assisted medical record generation. *Neural Netw*, 192, 107848.
@@ -126,6 +129,7 @@ flowchart LR
 ---
 
 ## Relazioni
+
 - [[mental-2026-1-e88057]]
 - [[validation-gap-in-mental-health-llms]]
 - [[specialized-nlp-models-mental-health]]

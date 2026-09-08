@@ -1,4 +1,4 @@
-﻿---
+---
 tags: [innovative-moment-assessment, ima-framework, imcs, terapia-narrativa, valutazione-processuale, salienza-narrativa, traiettorie-cliniche, llm-psicoterapia]
 source_papers: ["2507.20241v2.pdf"]
 ---
@@ -76,4 +76,4 @@ flowchart TD
 - White, M. (2007). *Maps of narrative practice*. WW Norton & Company.
 
 ## Relazioni
-- Vedi anche: [[2507-20241v2]], [[interactive-narrative-therapist]], [[terapia-narrativa-ia]], [[process-of-change]], [[clinical-fidelity-assessment]], [[process-based-therapy]], [[crdial-framework]], [[simulazione-pazienti-ai]]
+- Vedi anche: [[2507-20241v2]], [[interactive-narrative-therapist]], [[terapia-narrativa-ia]], [[process-of-change]], [[clinical-fidelity-assessment]], [[process-based-therapy]], [[crdial-framework]], [[simulazione-pazienti-ai]]

@@ -1,13 +1,14 @@
 # Human-in-the-Reasoning
 
 **Summary**: Paradigma di interazione clinica uomo-macchina che supera la mera supervisione operativa (Human-in-the-loop), integrando il clinico nella comprensione e co-guida attiva dei processi inferenziali, logico-decisionali e metacognitivi del modello.
-**Sources**: 04-20 Tavola rotonda_ Integrazione dell’IA in psicoterapia — governance, co‑ragionamento e modelli ibridi.txt, 05-08 Riunione_ Sviluppo Knowledge Base AI, Etica e Applicazioni Cliniche.txt
+**Sources**: [04-20 Tavola rotonda_ Integrazione dell’IA in psicoterapia — governance, co‑ragionamento e modelli ibridi.txt](file:///c:/Users/ANDREA/AI%20Knowledge%20Base/04-20%20Tavola%20rotonda_%20Integrazione%20dell%E2%80%99IA%20in%20psicoterapia%20%E2%80%94%20governance,%20co%E2%80%91ragionamento%20e%20modelli%20ibridi.txt), [05-08 Riunione_ Sviluppo Knowledge Base AI, Etica e Applicazioni Cliniche.txt](file:///c:/Users/ANDREA/AI%20Knowledge%20Base/05-08%20Riunione_%20Sviluppo%20Knowledge%20Base%20AI,%20Etica%20e%20Applicazioni%20Cliniche.txt)
 **Last updated**: 2026-08-27
 ---
 
 ## Definizione Concettuale
 
 Il concetto di **Human-in-the-Reasoning** ridefinisce il ruolo del clinico nell'interazione con gli [[large-language-models]]:
+
 - **Superamento dello Human-in-the-Loop**: A differenza del tradizionale modello *Human-in-the-Loop* — in cui il professionista funge da mero validatore finale (accettazione/rifiuto a posteriori) di un output opaco — lo *Human-in-the-Reasoning* esplicita e governa l'albero decisionale, i pesi inferenziali, i livelli di astrazione e i criteri logici utilizzati dall'algoritmo.
 - **Metacognizione dell'interazione**: Così come il terapeuta indaga le logiche e gli schemi cognitivi del paziente, allo stesso modo deve apprendere come "ragiona" l'IA per impostare un'interazione efficace ed evitare la delega acritica.
 
@@ -24,6 +25,7 @@ Il concetto di **Human-in-the-Reasoning** ridefinisce il ruolo del clinico nell'
 - **Supervisione e Disconferma di Ipotesi**: Utilizzo del co-ragionamento per sollecitare scenari differenziali, contro-argomentazioni e ristrutturazioni cognitive alternative.
 
 ## Related pages
+
 - [[05-08_Riunione_Knowledge_Base]]
 - [[04-20_Tavola_rotonda_Integrazione_IA]]
 - [[simulazione-pazienti-ai]]

@@ -1,6 +1,22 @@
 ---
-tags: [clinical-ai-blueprint, llm-psicoterapia, mind-safe, patient-psi, coast-framework, tripod-llm, chart-framework, prompt-engineering, human-in-the-loop, zero-data-retention, exploratory-thinking, deskilling-clinico, effetto-valanga-cot, in-context-learning, llm4cbt]
-source_papers: ["Clinical_AI_Blueprint.pdf"]
+tags:
+  - clinical-ai-blueprint
+  - llm-psicoterapia
+  - mind-safe
+  - patient-psi
+  - coast-framework
+  - tripod-llm
+  - chart-framework
+  - prompt-engineering
+  - human-in-the-loop
+  - zero-data-retention
+  - exploratory-thinking
+  - deskilling-clinico
+  - effetto-valanga-cot
+  - in-context-learning
+  - llm4cbt
+source_papers:
+  - Clinical_AI_Blueprint.pdf
 ---
 
 # L'Intelligenza Artificiale Generativa in Psicoterapia: Dalla Scatola Nera alla Pratica Clinica Sicura (Clinical AI Blueprint)
@@ -22,7 +38,7 @@ Il **Clinical AI Blueprint** è un quadro sistematico e programmatico per la tra
 - Wu, K., et al. (2025). The Avalanche Effect: How Chain-of-Thought Reasoning Degrades Performance on Unstructured Real-World Clinical Records. *Nature Digital Medicine*.
 
 ## Relazioni
-- Concetti Chiave: [[coast-framework-clinical-prompting]], [[patient-psi-simulazione-clinica]], [[mind-safe-framework]], [[chart-reporting-guideline]].
-- Framework Metodologici: [[haicef-framework]], [[chai-blueprint-health-ai]], [[five-axis-clinical-evaluation]], [[reflective-interpretability]], [[stepwise-cot]].
-- Governance: [[gdpr-governance-mental-health-ai]], [[rischio-suicidario-ai-limits]], [[three-layer-governance-framework]], [[audit-bias-llm-clinici]].
-- Modelli Clinici: [[cbt-dialogue-systems-and-tools]], [[deliberate-practice-in-psicoterapia-ia]], [[modello-centauro-clinico]].
+- **Concetti Chiave**: [[coast-framework-clinical-prompting]], [[patient-psi-simulazione-clinica]], [[mind-safe-framework]], [[chart-reporting-guideline]].
+- **Framework Metodologici**: [[haicef-framework]], [[chai-blueprint-health-ai]], [[five-axis-clinical-evaluation]], [[reflective-interpretability]], [[stepwise-cot]].
+- **Governance**: [[gdpr-governance-mental-health-ai]], [[rischio-suicidario-ai-limits]], [[three-layer-governance-framework]], [[audit-bias-llm-clinici]].
+- **Modelli Clinici**: [[cbt-dialogue-systems-and-tools]], [[deliberate-practice-in-psicoterapia-ia]], [[modello-centauro-clinico]].

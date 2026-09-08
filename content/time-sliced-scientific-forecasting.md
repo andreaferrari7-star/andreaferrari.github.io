@@ -1,4 +1,4 @@
-﻿---
+---
 tags: [time-sliced-scientific-forecasting, scientific-forecasting, future-alignment, methodology, proposal-generation, llm-benchmarking]
 source_papers: ["2603.27146v3.pdf"]
 ---
@@ -6,6 +6,7 @@ source_papers: ["2603.27146v3.pdf"]
 # Time-Sliced Scientific Forecasting
 
 ## Definizione Operativa
+
 - Paradigma metodologico introdotto da Heng Wang et al. (UIUC, 2026) che riformula l'addestramento e la valutazione dell'ideazione scientifica nei [[large-language-models]] come un problema di **previsione temporale retrospettiva a divisione temporale (*time-sliced forecasting*)**.
 - **Principio Fondamentale:** Anziché misurare concetti astratti e soggetti a bias umano (come "creatività" o "eleganza"), il framework suddivide un corpus scientifico cronologico in:
   1. *Contesto Osservabile ($t \le t_C$):* Letteratura scientifica, citazioni e domande di ricerca disponibili prima di una data limite $t_C$.
@@ -78,3 +79,4 @@ flowchart LR
 
 ## Relazioni
 - Vedi anche: [[2603-27146v3]], [[future-alignment-score]], [[stepwise-cot]], [[hypothesis-generation]], [[hybrid-ai-research-workflows]], [[structured-literature-reviews]], [[wang-et-al-2026]]
+

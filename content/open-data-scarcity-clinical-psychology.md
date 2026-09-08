@@ -7,8 +7,11 @@ title: "Scarsità di Dati Aperti, Privacy e Rischi di Re-Identificazione in Psic
 # Scarsità di Dati Aperti, Privacy e Rischi di Re-Identificazione in Psicologia Clinica
 
 **Summary**: Analisi delle barriere etiche, deontologiche e metodologiche che ostacolano l'accesso e la condivisione pubblica di dataset clinici (*Open Data Scarcity*) in salute mentale, dei rischi di re-identificazione insiti nei dati sintetici (*Attribute Disclosure Risk*) e delle raccomandazioni per il reporting trasparente di statistiche disaggregate nei trial clinici (RCT).
+
 **Sources**: Jacobs et al. (2026) - `2601.06159v1.pdf`, Hittmeir et al. (2020), Goncalves et al. (2020)
+
 **Last updated**: 2026-08-27
+
 ---
 
 ## Il Collo di Bottiglia dei Dati in Psicologia Clinica e Psichiatria
@@ -46,9 +49,10 @@ flowchart TD
 Per superare il divieto di condivisione dei dati grezzi dei pazienti, la comunità scientifica ha proposto l'uso di **dati sintetici** generati tramite reti generative avversarie (GAN), Variational Autoencoders (VAE) o modelli probabilistici (Goncalves et al., 2020).
 
 Tuttavia, i dati sintetici non garantiscono una privacy assoluta:
-- **Attribute Disclosure Risk**: Se un modello generativo è addestrato su un dataset clinico reale di dimensioni limitate, rischia di memorizzare combinazioni di attributi rare. Un attaccante in possesso di informazioni ausiliarie parziali sul paziente può inferire la diagnosi psichiatrica o l'esito terapeutico con elevata accuratezza (Hittmeir et al., 2020).
-- **Membership Inference Attacks**: È possibile determinare statisticamente se un dato individuo faceva parte della coorte clinica di addestramento.
-- **Diffidenza Istituzionale**: I comitati etici e i responsabili della protezione dati (DPO) mantengono un atteggiamento altamente restrittivo verso la pubblicazione aperta anche di coorti sintetiche derivate da pazienti psichiatrici.
+
+*   **Attribute Disclosure Risk**: Se un modello generativo è addestrato su un dataset clinico reale di dimensioni limitate, rischia di memorizzare combinazioni di attributi rare. Un attaccante in possesso di informazioni ausiliarie parziali sul paziente può inferire la diagnosi psichiatrica o l'esito terapeutico con elevata accuratezza (Hittmeir et al., 2020).
+*   **Membership Inference Attacks**: È possibile determinare statisticamente se un dato individuo faceva parte della coorte clinica di addestramento.
+*   **Diffidenza Istituzionale**: I comitati etici e i responsabili della protezione dati (DPO) mantengono un atteggiamento altamente restrittivo verso la pubblicazione aperta anche di coorti sintetiche derivate da pazienti psichiatrici.
 
 ---
 
@@ -73,10 +77,12 @@ flowchart LR
 ```
 
 ### Il "Reporting Deficit" nei Trial Clinici (RCT)
+
 Sebbene l'uso di statistiche pubblicate azzeri completamente il rischio di violazione della privacy, esso incontra un ostacolo insormontabile nella **pratica di pubblicazione scientifica**:
-- Nella maggior parte dei trial controllati randomizzati (RCT) e studi osservazionali, gli autori riportano esclusivamente le statistiche descrittive complessive del campione o i coefficienti di regressione principali.
-- Le statistiche descrittive disaggregate per esito clinico (*responders* vs *non-responders*, *remitters* vs *non-remitters*) e le relative **matrici di correlazione/covarianza** per sottogruppo vengono quasi sistematicamente omesse.
-- Nello studio di Jacobs et al. (2026), su oltre 188 pubblicazioni uniche sul trattamento CBT del Disturbo Ossessivo-Compulsivo, **solo 7 studi** riportavano i dati necessari per la simulazione parametrica.
+
+*   Nella maggior parte dei trial controllati randomizzati (RCT) e studi osservazionali, gli autori riportano esclusivamente le statistiche descrittive complessive del campione o i coefficienti di regressione principali.
+*   Le statistiche descrittive disaggregate per esito clinico (*responders* vs *non-responders*, *remitters* vs *non-remitters*) e le relative **matrici di correlazione/covarianza** per sottogruppo vengono quasi sistematicamente omesse.
+*   Nello studio di Jacobs et al. (2026), su oltre 188 pubblicazioni uniche sul trattamento CBT del Disturbo Ossessivo-Compulsivo, **solo 7 studi** riportavano i dati necessari per la simulazione parametrica.
 
 ---
 
@@ -94,8 +100,9 @@ Per abilitare modelli predittivi robusti e riproducibili nel rispetto della priv
 ---
 
 ## Related pages
-- [[2601-06159v1]]: Studio di valutazione empirica sull'uso di dati simulati da letteratura.
-- [[pretraining-simulated-data-clinical-ml]]: Algoritmi e modelli di pretraining su statistiche descrittive.
-- [[mccv-and-statistical-validation-clinical-ml]]: Metodologia di cross-validation e test di generalizzazione in campioni clinici.
-- [[etica-privacy-bias-ia-clinica]]: Aspetti etici, deontologici e di privacy nell'uso dell'IA in clinica.
-- [[treatment-outcome-and-relapse-prediction]]: Predizione degli esiti terapeutici nella psicoterapia.
+
+*   [[2601-06159v1]]: Studio di valutazione empirica sull'uso di dati simulati da letteratura.
+*   [[pretraining-simulated-data-clinical-ml]]: Algoritmi e modelli di pretraining su statistiche descrittive.
+*   [[mccv-and-statistical-validation-clinical-ml]]: Metodologia di cross-validation e test di generalizzazione in campioni clinici.
+*   [[etica-privacy-bias-ia-clinica]]: Aspetti etici, deontologici e di privacy nell'uso dell'IA in clinica.
+*   [[treatment-outcome-and-relapse-prediction]]: Predizione degli esiti terapeutici nella psicoterapia.

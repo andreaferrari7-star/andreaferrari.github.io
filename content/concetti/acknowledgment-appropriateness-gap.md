@@ -17,6 +17,7 @@ L'**Acknowledgment-Appropriateness Gap** evidenzia una discrepanza fondamentale 
 Mentre le metriche di usabilità e le valutazioni superficiali suggeriscono che i modelli siano pronti per il deployment clinico, un'analisi strutturata rivela che la competenza clinica si disintegra proprio quando la gravità della situazione aumenta.
 
 Il degrado prestazionale dei modelli linguistici non segue una curva lineare ma presenta un punto di rottura netto (*Crisis Cliff*):
+
 *   **Livelli Routine e Distress**: I modelli rispondono in modo formalmente corretto.
 *   **Livello Crisis-Adjacent**: Iniziano a emergere anomalie.
 *   **Livello Imminent Risk (Rischio Imminente)**: Si verifica un **collasso sistemico**, dove la fedeltà al protocollo può azzerarsi.
@@ -35,6 +36,7 @@ Lo studio di Suhas et al. (2026) dimostra la discrepanza tra le metriche di calo
 *Nota: Nei modelli non-frontier, l'appropriatezza terapeutica scende a $0.22 - 0.33$ e la fedeltà a $0.00$.*
 
 ### Modalità di Fallimento Clinico
+
 1.  **Safety Preamble / Bookending**: Risolve il task ma inserisce scudi legali/disclaimer (es. Sonnet 4.6), segnalando al paziente ansia da responsabilità.
 2.  **Task Abandonment e Silent Omission**: Evita i contenuti dolorosi o tronca le risposte (es. GPT-OSS-20B).
 

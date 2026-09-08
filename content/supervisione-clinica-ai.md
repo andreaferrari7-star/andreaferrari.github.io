@@ -1,8 +1,9 @@
 # Supervisione Clinica e Intelligenza Artificiale
 
 **Summary**: Inquadramento teorico ed evidenze empiriche sull'utilizzo dei Large Language Models e chatbot come strumenti a supporto della supervisione e dell'intervisione in psicoterapia. L'analisi include lo studio pionieristico di Cosentino et al. (2026) su allievi specializzandi e terapeuti esperti, focalizzandosi su timore della colpa, ansia sociale, rischi di de-skilling e sycophancy.
-**Sources**: 06-10 Lezione_ RAG, LLM in Psicoterapia e Governance Etica.txt
+**Sources**: [06-10 Lezione_ RAG, LLM in Psicoterapia e Governance Etica.txt](file:///06-10%20Lezione_%20RAG,%20LLM%20in%20Psicoterapia%20e%20Governance%20Etica.txt)
 **Last updated**: 2026-08-27
+
 ---
 
 ## Definizione e Razionale
@@ -16,6 +17,7 @@ L'introduzione di assistenti conversazionali intelligenti (LLM generalisti o age
 ## Stato dell'Arte e Ricerca Empirica (Studio Cosentino et al., 2026)
 
 Lo studio empirico condotto dalla Dott.ssa Teresa Cosentino (APC/SPC, *Cognitivismo Clinico*) ha indagato la diffusione, gli atteggiamenti e le determinanti psicologiche individuali nell'uso dell'IA a supporto della supervisione su un campione nazionale di $N = 93$ professionisti:
+
 - **Campione**: 48 allievi specializzandi in psicoterapia e 45 psicoterapeuti già specializzati (età media 38 anni).
 - **Misure somministrate**: 
   - Questionario ad hoc a 25 item (scala Likert 1–5 articolata su 4 dimensioni: uso clinico, fiducia nello strumento, IA come sostituto umano, IA per ridurre il disagio interpersonale).
@@ -91,3 +93,4 @@ graph TD
 - [[ai-research-ethics]]
 - [[ai-assisted-psychotherapy]]
 - [[large-language-models]]
+

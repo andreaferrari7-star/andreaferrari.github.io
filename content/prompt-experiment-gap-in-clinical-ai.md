@@ -1,4 +1,4 @@
-﻿---
+---
 tags: [prompt-experiment-gap, synthetic-benchmarks, ecological-validity, clinical-trials, evaluation-frameworks, digital-mental-health, prompt-engineering, generalizability-crisis, clinical-psychology]
 source_papers: ["mental-v12-e81204.pdf"]
 ---

@@ -1,4 +1,4 @@
-﻿---
+---
 tags: [prognostic-pessimism, mental-health-ai, clinical-trajectories, psychiatric-forecasting, chatgpt-bias, learned-helplessness, nocebo-effect, treatment-demoralization, longitudinal-calibration, clinical-psychology]
 source_papers: ["mental-v12-e81204.pdf"]
 ---

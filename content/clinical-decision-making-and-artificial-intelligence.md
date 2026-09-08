@@ -1,6 +1,19 @@
 ---
-tags: [clinical-decision-making, large-language-models, primary-care, diagnostic-reasoning, epistemic-opacity, ai-hallucinations, triage-systems, doctor-patient-relationship, human-in-the-loop, medical-ethics, ambient-ai, goh-trial]
-source_papers: ["Clinical decision-making and artificial intelligence_ The role of.pdf"]
+tags:
+  - clinical-decision-making
+  - large-language-models
+  - primary-care
+  - diagnostic-reasoning
+  - epistemic-opacity
+  - ai-hallucinations
+  - triage-systems
+  - doctor-patient-relationship
+  - human-in-the-loop
+  - medical-ethics
+  - ambient-ai
+  - goh-trial
+source_papers:
+  - "Clinical decision-making and artificial intelligence_ The role of.pdf"
 ---
 
 # Clinical Decision-Making and Artificial Intelligence: The Role of Large Language Models in Medicine
@@ -14,14 +27,16 @@ L'integrazione di Large Language Models (LLM) nei contesti clinici pone il quesi
 ## Evidenze dalla Letteratura
 
 ### 1. Il Trial di Goh et al. (2024)
+
 Il trial di Goh et al. (*JAMA Network Open*, 2024) evidenzia un paradosso nell'uso degli LLM: sebbene il modello autonomo possa superare le coorti umane in test diagnostici sintetici, l'affiancamento del medico all'LLM non mostra un beneficio incrementale rispetto all'uso di risorse convenzionali. Questo sottolinea la potenziale "fallacia della risposta univoca" (*single-correct-answer-fallacy*), dove la metrica sperimentale ignora le sfumature della cura reale.
 
 ### 2. Sintesi degli Studi
+
 *   **Harari et al. (2025):** Conferma che la massima accuratezza si ottiene in modelli di clinico-supervisionato (clinician-in-the-loop).
 *   **Hatem et al. (2023):** Identifica il rischio critico di "allucinazioni cliniche" e fabbricazione di riferimenti bibliografici, minando la sicurezza.
 *   **Tankelevitch et al. (2024):** Documenta i rischi di *de-skilling* (perdita di competenze) e riduzione dello sforzo cognitivo autonomo indotti dall'uso prolungato di IA.
 
-**Riferimenti Bibliografici:**
+### Riferimenti Bibliografici
 
 - **Bhasin, R., et al. (2025).** Clinical decision-making and artificial intelligence: The role of large language models in medicine. *Clinical Research in Practice*, 11(1), eP3601.
 - **Cabral, S., et al. (2024).** Clinical Reasoning of a Generative Artificial Intelligence Model Compared With Physicians. *JAMA Internal Medicine*.

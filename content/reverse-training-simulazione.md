@@ -1,13 +1,17 @@
 # Reverse Training e Didattica Induttiva con Pazienti Virtuali
 
 **Summary**: Metodologia pedagogica avanzata per la formazione clinica e la psicoterapia in cui lo specializzando modella e addestra un paziente virtuale basato su LLM per dimostrare la padronanza di un quadro diagnostico-funzionale (*learning by teaching*), sottoponendo l'agente simulato alla valutazione del docente/supervisore.
-**Sources**: 06-05 Riunione_ Impiego dell'IA in ambito clinico, bias e formazione.txt, 05-08 Riunione_ Sviluppo Knowledge Base AI, Etica e Applicazioni Cliniche.txt
+
+**Sources**: [06-05 Riunione_ Impiego dell'IA in ambito clinico, bias e formazione.txt](file:///c:/Users/ANDREA/AI%20Knowledge%20Base/wiki/06-05%20Riunione_%20Impiego%20dell'IA%20in%20ambito%20clinico,%20bias%20e%20formazione.txt), [05-08 Riunione_ Sviluppo Knowledge Base AI, Etica e Applicazioni Cliniche.txt](file:///c:/Users/ANDREA/AI%20Knowledge%20Base/wiki/05-08%20Riunione_%20Sviluppo%20Knowledge%20Base%20AI,%20Etica%20e%20Applicazioni%20Cliniche.txt)
+
 **Last updated**: 2026-08-27
+
 ---
 
 ## Definizione e Fondamenti Teorici
 
 Il **Reverse Training con Pazienti Virtuali** rovescia l'approccio didattico convenzionale nell'uso della simulazione clinica:
+
 - **Dal Consumo alla Creazione Attiva**: Anziché limitarsi a interagire passivamente come terapeuta con un paziente simulato standard, lo studente assume il ruolo di sviluppatore clinico del modello, configurando credenze di base, cicli interpersonali disfunzionali, bias cognitivi e pattern verbali specifici.
 - **Principio del *Learning by Teaching***: In conformità al metodo induttivo ("insegnando imparo"), la capacità di calibrare un modello linguistico affinché riproduca coerentemente una psicopatologia senza deviare in risposte stereotipate o allucinazioni dimostra una comprensione concettuale profonda del caso clinico.
 
@@ -34,6 +38,7 @@ flowchart TD
 ---
 
 ## Related pages
+
 - [[06-05_Riunione_Impiego_IA]]
 - [[simulazione-pazienti-ai]]
 - [[clinical-ai-simulation]]

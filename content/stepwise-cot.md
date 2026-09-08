@@ -1,4 +1,4 @@
-﻿---
+---
 tags: [stepwise-cot, chain-of-thought, citation-grounded-reasoning, staged-planning, structured-ideation, scientific-reasoning, cognitive-scaffolding]
 source_papers: ["2603.27146v3.pdf"]
 ---
@@ -6,7 +6,8 @@ source_papers: ["2603.27146v3.pdf"]
 # Stepwise CoT (Chain-of-Thought) nella Pianificazione Scientifica
 
 ## Definizione Operativa
-- Metodologia avanzata di supervisione del ragionamento per [[large-language-models]] introdotta da Heng Wang et al. (UIUC, 2026), progettata per la formulazione strutturata di proposte di ricerca e piani metodologici complessi.
+
+- **Metodologia avanzata di supervisione del ragionamento** per [[large-language-models]] introdotta da Heng Wang et al. (UIUC, 2026), progettata per la formulazione strutturata di proposte di ricerca e piani metodologici complessi.
 - **Meccanismo Computazionale:** Supera sia la generazione diretta senza ragionamento (*Direct SFT*) sia il classico Chain-of-Thought monolitico posizionato in blocco unico prima dell'output (*Monolithic CoT*). Lo **Stepwise CoT SFT** scompone il processo ideativo e di pianificazione in **tre stadi sequenziali interleavati**, in cui ciascuna fase di ragionamento critico genera direttamente la rispettiva sezione strutturata della proposta:
   1. *Stage 1 (Problem Identification & Gap Analysis)* $\to$ Genera **Research Question + Hypothesis**;
   2. *Stage 2 (Method Design Reasoning & Inspiration Borrowing)* $\to$ Genera **Proposed Method + Novelty Claims**;
@@ -47,6 +48,7 @@ flowchart TD
 ## Evidenze dalla Letteratura
 
 ### 1. Limiti del CoT Monolitico e Razionale della Scomposizione
+
 - **Il Problema della Perdita di Contesto e Deriva (*Reasoning Drift*):** Quando un modello di linguaggio è istruito a generare un'unica lunga catena di pensiero prima dell'intero documento (come in Wei et al., 2022 o nei CoT non strutturati), il modello tende a concentrarsi eccessivamente sulle prime fasi del problema o a produrre ragionamenti vaghi che non si traducono in dettagli operativi nelle sezioni finali (Wang et al., 2026).
 - **Interleaving come Vincolo Strutturale:** Distribuire il ragionamento in prossimità diretta delle sezioni a cui si riferisce (*interleaved reasoning*) costringe l'LLM a mantenere la coerenza tra le premesse analitiche e la formulazione tecnica specifica, eliminando la dispersione dell'attenzione.
 

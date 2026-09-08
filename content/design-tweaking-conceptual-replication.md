@@ -1,6 +1,17 @@
 ---
-tags: [design-tweaking, conceptual-replication, experimental-design, factorial-vignettes, synthetic-stimuli, temperature-sampling, behavioral-research, prompt-engineering, generalizability, researchagent]
-source_papers: ["final_textbook_genAIinpsychologyresearchandtraining.pdf"]
+tags:
+  - design-tweaking
+  - conceptual-replication
+  - experimental-design
+  - factorial-vignettes
+  - synthetic-stimuli
+  - temperature-sampling
+  - behavioral-research
+  - prompt-engineering
+  - generalizability
+  - researchagent
+source_papers:
+  - "final_textbook_genAIinpsychologyresearchandtraining.pdf"
 ---
 
 # Design Tweaking and Conceptual Replication with LLMs (Riprogettazione Sperimentale e Replicazione Concettuale Assistita da IA)
@@ -18,7 +29,7 @@ source_papers: ["final_textbook_genAIinpsychologyresearchandtraining.pdf"]
 - **Esplorazione Divergente:** La manipolazione della temperatura (alte temperature $\ge 2.0$) abilita la generazione di varianti creative (es. Digit Origami, Reversed Gravity) utili per replicazioni concettuali di paradigmi classici (Döderlein et al., 2022; Adamkovič, 2025).
 - **Validazione:** Studi su larga scala suggeriscono che, se supervisionati da ricercatori umani (*Human-in-the-Loop*), gli LLM possono supportare efficacemente l'ideazione e la validazione di nuove ipotesi (Baek et al., 2024; Si et al., 2024).
 
-**Riferimenti Bibliografici:**
+### Riferimenti Bibliografici
 - **Adamkovič, M. (2025).** *Large Language Models in (Not Only) Psychology Training and Research: A Brief Introduction*. Centre of Social and Psychological Sciences, Slovak Academy of Sciences. https://doi.org/10.31577/2025.9788082980144
 - **Baek, J., Jauhar, S. K., Cucerzan, S., & Hwang, S. J. (2024).** ResearchAgent: Iterative research idea generation over scientific literature with large language models. *arXiv preprint*, arXiv:2404.07738.
 - **Döderlein, J.-B., Acher, M., Khelladi, D. E., & Combemale, B. (2022).** Piloting Copilot and Codex: Hot temperature, cold prompts, or black magic? *arXiv preprint*, arXiv:2210.14699.
@@ -34,3 +45,4 @@ source_papers: ["final_textbook_genAIinpsychologyresearchandtraining.pdf"]
 - [[structured-literature-reviews]]
 - [[validita-psicometrica-llm]]
 - [[ai-research-ethics]]
+

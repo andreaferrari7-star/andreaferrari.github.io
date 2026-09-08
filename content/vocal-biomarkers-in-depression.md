@@ -116,10 +116,10 @@ L'efficacia diagnostica dei biomarcatori vocali dipende fortemente dal protocoll
 
 | Paradigma Vocale | Frequenza nella Letteratura | Vantaggi Clinico-Metodologici | Limiti e Fattori di Disturbo |
 | :--- | :--- | :--- | :--- |
-| **Free Speech / Intervista Spontanea** | **72.4%** (76/105) | Massima validità ecologica; stimola processi di recupero mnestico, carico emotivo e modulazione prosodica naturale; cattura pause spontanee. | Elevata variabilità inter-individuale nel contenuto; rumore di fondo; difficoltà di standardizzazione sintattica. |
-| **Compiti di Lettura Standardizzata** | **36.2%** (38/105) | Perfetta comparabilità fonetica tra partecipanti (es. *The Rainbow Passage*, *The North Wind and the Sun*); isolamento dei soli parametri acustici a contenuto costante. | Bassa risonanza emotiva spontanea; influenza del livello di scolarità e di eventuali disturbi di lettura/dislessia. |
-| **Conteggio Numerico** | **2.9%** (3/105) | Task cognitivo a basso carico linguistico; utile in popolazioni anziane o con deficit linguistici. | Informazione acustico-prosodica limitata; assenza di risonanza affettiva. |
-| **Vocali Sostenute (/a/, /e/, /i/, /o/, /u/)** | **1.9%** (2/105) | Isolamento puro della stabilità dell'oscillatore glottale (Jitter, Shimmer, HNR); zero interferenza semantica. | Incapacità di valutare la pianificazione temporale, la sintassi e la prosodia sovra-segmentale. |
+| **Free Speech / Intervista Spontanea** | **72.4%** | Massima validità ecologica; stimola processi di recupero mnestico, carico emotivo e modulazione prosodica naturale; cattura pause spontanee. | Elevata variabilità inter-individuale nel contenuto; rumore di fondo; difficoltà di standardizzazione sintattica. |
+| **Compiti di Lettura Standardizzata** | **36.2%** | Perfetta comparabilità fonetica tra partecipanti (es. *The Rainbow Passage*, *The North Wind and the Sun*); isolamento dei soli parametri acustici a contenuto costante. | Bassa risonanza emotiva spontanea; influenza del livello di scolarità e di eventuali disturbi di lettura/dislessia. |
+| **Conteggio Numerico** | **2.9%** | Task cognitivo a basso carico linguistico; utile in popolazioni anziane o con deficit linguistici. | Informazione acustico-prosodica limitata; assenza di risonanza affettiva. |
+| **Vocali Sostenute (/a/, /e/, /i/, /o/, /u/)** | **1.9%** | Isolamento puro della stabilità dell'oscillatore glottale (Jitter, Shimmer, HNR); zero interferenza semantica. | Incapacità di valutare la pianificazione temporale, la sintassi e la prosodia sovra-segmentale. |
 
 ---
 

@@ -1,4 +1,4 @@
-﻿---
+---
 tags: [ai-agent-security, llm-security, cybersecurity, sandboxing, session-management, model-pollution, privacy-leak, prompt-injection, fpets, fhe, formal-verification, state-monad, cia-triad, tool-use]
 source_papers: ["Security_of_AI_Agents.pdf"]
 ---
@@ -13,7 +13,7 @@ source_papers: ["Security_of_AI_Agents.pdf"]
 - **Tassonomia delle Vulnerabilità Identificate:**
   1. *Gestione delle Sessioni (Sessions):* Difficoltà di isolamento multi-utente quando le istanze condividono le medesime API key; rischio di cross-leakage della cronologia di chat, disallineamento delle azioni (*action mis-assignment*) e attacchi Denial of Service (DoS) per saturazione delle risorse GPU.
   2. *Inquinamento del Modello e Fuga di Dati Privati (Model Pollution & Privacy Leak):* L'addestramento continuo (*fine-tuning*) sui log di interazione espone i modelli ad attacchi di avvelenamento dati (*data poisoning*) — anche tramite prompt non singolarmente malevoli ma concatenati — e ad attacchi di estrazione dati (*data extraction attacks*) su informazioni altamente confidenziali (codici fiscali/SSN, coordinate bancarie, cartelle cliniche elettroniche).
-  3. *Programmi Agente ed Esecuzione con Effetti Collaterali (Agent Programs & Effectful Planning):* L'accesso alla shell permette l'esfiltrazione di file riservati (violazione del principio "no read up" di Bell-LaPadula), la corruzione di file critici e l'esaurimento delle risorse hardware (CPU/RAM). Inoltre, strategie di pianificazione avanzate (*ReAct*, *Tree-of-Thoughts*, *ToolChain**) generano effetti collaterali a ogni iterazione esplorativa, rischiando di trasformare l'agente in un vettore inconsapevole di attacchi DoS o web scraping abusivo su API remote.
+  3. *Programmi Agente ed Esecuzione con Effetti Collaterali (Agent Programs & Effectful Planning):* L'accesso alla shell permette l'esfiltrazione di file riservati (violazione del principio "no read up" di Bell-LaPadula), la corruzione di file critici e l'esaurimento delle risorse hardware (CPU/RAM). Inoltre, strategie di pianificazione avanzate (*ReAct*, *Tree-of-Thoughts*, *ToolChain*) generano effetti collaterali a ogni iterazione esplorativa, rischiando di trasformare l'agente in un vettore inconsapevole di attacchi DoS o web scraping abusivo su API remote.
 - **Contromisure e Difese Proposte:**
   - *Isolamento tramite Sandbox e Controllo degli Accessi:* Esecuzione vincolata in container Docker con quote rigide di CPU/memoria, partizionamento del file system e regole proattive (whitelist, blacklist, rate limiting).
   - *Formalizzazione dello Stato tramite Monade (State Transformer Monad):* Modellazione rigorosa delle transizioni di stato dell'agente ($\text{StateLM}: Q \to (A, Q)$) basata su logica monadica e tipizzazione statica per garantire isolamento e verifica formale.

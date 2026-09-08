@@ -1,6 +1,8 @@
 ---
+title: Conversational AI vs. Bibliotherapy in Mental Health
 tags: [conversational-ai, bibliotherapy, digital-cbt, working-alliance, therapeutic-rapport, interactive-scaffolding, clinical-effectiveness, meta-analysis, socratic-dialogue, humayun-2025]
 source_papers: ["pone.0332207.pdf"]
+date: 2026-09-01
 ---
 
 # Conversational AI vs. Bibliotherapy in Mental Health

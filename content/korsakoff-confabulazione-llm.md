@@ -6,6 +6,7 @@ source_papers: ["Clinical_AI_Cognitive_Assessment.pdf", "ELEVATE-GenAI2025.pdf"]
 # Confabulazione di Tipo Korsakoff e Dissociazione Accuratezza-Fattualità nei Modelli Linguistici
 
 ## Definizione Operativa
+
 - La **Confabulazione di Tipo Korsakoff negli LLM** è un'analogia neuropsicologica ed epistemologica utilizzata nell'[[assessment-cognitivo-ai|Assessment Cognitivo dell'AI]] per descrivere la propensione intrinseca dei [[large-language-models]] a colmare lacune informative, ambiguità contestuali o assenza di dati empirici generando narrazioni, diagnosi o riferimenti bibliografici **sintatticamente ineccepibili, altamente plausibili ma completamente privi di fondamento reale**.
 - **La Dissociazione Cardine: Accuratezza vs Fattualità:**
   - **Accuratezza (Accuracy):** Misura della correttezza formale, coerenza grammaticale, eleganza stilistica e fluidità espositiva del testo generato rispetto alle regole del linguaggio naturale.
@@ -35,6 +36,7 @@ flowchart TD
 ```
 
 ## Evidenze dalla Letteratura
+
 Il confronto clinico-epistemologico tra l'amnesia organica e la generazione neurale evidenzia le seguenti dinamiche:
 
 | Parametro | Sindrome Neurologica di Korsakoff | Modelli Linguistici di Grandi Dimensioni (LLM) |
@@ -45,7 +47,9 @@ Il confronto clinico-epistemologico tra l'amnesia organica e la generazione neur
 | **Rischio nel Setting Clinico** | Disorientamento spazio-temporale e disadattamento funzionale del paziente. | Induzione di *Automation Bias*, errori prescrittivi e allucinazioni cliniche assunte come vere dal terapeuta. |
 
 ### Il Deficit Strutturale di Concept Grounding
+
 La vulnerabilità alla confabulazione deriva dalla natura puramente sintattica dei modelli di linguaggio:
+
 1. **Assenza di Radicamento Esperienziale:** L'algoritmo manipola simboli senza possedere un modello del mondo.
 2. **Sensibilità Sintattica (Brittleness):** La minima alterazione del testo di input può deviare la traiettoria probabilistica, commutando un output clinicamente fattuale in una confabulazione iatrogena.
 
@@ -64,6 +68,7 @@ Il framework internazionale **[[elevate-genai2025-1|ELEVATE-GenAI]]** (ISPOR Wor
 - Letteratura clinica corrente su *Clinical AI Cognitive Assessment*.
 
 ## Relazioni
+
 - [[clinical-ai-cognitive-assessment]] - Sintesi della Masterclass sull'assessment cognitivo dell'AI e superamento dell'illusione relazionale.
 - [[diagnosis-of-thought-framework]] - Framework DoT per il disaccoppiamento tra fatti empirici e inferenze cliniche nel prompting.
 - [[elevate-genai2025-1]] - Linee guida ISPOR con standardizzazione della triade Accuratezza, Esaustività e Fattualità.

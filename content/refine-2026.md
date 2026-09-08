@@ -269,3 +269,9 @@ REFINE si posiziona come lo standard più comprensivo e granulare per i modelli 
 - [[chart-reporting-guideline]] — Standard di reporting per studi su chatbot di consulenza sanitaria al paziente.
 - [[elevate-genai-framework]] — Framework strutturale per la trasparenza e la riproducibilità della GenAI nella ricerca medica.
 - [[linee-guida-reporting-ai-generativa-chart-elevate]] — Quadro comparativo generale sulle linee guida per la ricerca con IA generativa.
+
+- [[mi-clear-llm-2025]] — Linea guida specialistica per la rendicontazione dell'accuratezza diagnostica dei modelli linguistici in sanità.
+- [[stochasticity-management-in-clinical-llms]] — Meccanismi fisici, iperparametrici e statistici per il controllo della stocasticità negli LLM clinici.
+- [[chart-reporting-guideline]] — Standard di reporting per studi su chatbot di consulenza sanitaria al paziente.
+- [[elevate-genai-framework]] — Framework strutturale per la trasparenza e la riproducibilità della GenAI nella ricerca medica.
+- [[linee-guida-reporting-ai-generativa-chart-elevate]] — Quadro comparativo generale sulle linee guida per la ricerca con IA generativa.

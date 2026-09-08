@@ -39,7 +39,7 @@ Per neutralizzare il paradosso, sono stati convalidati framework di confinamento
 *   **Framework COAST:** Separa programmaticamente la base empirica dalle operazioni deduttive, ancorando ogni inferenza a citazioni letterali.
 *   **Architettura LLM4CBT:** Risolve il bias da problem-solving precoce imponendo regole dinamiche di interazione (es. rallentamento del *pacing*, risposte riflessive) (Kim et al., 2025).
 
-**Riferimenti Bibliografici:**
+### Riferimenti Bibliografici
 - Wu, K., et al. (2025). Why Chain of Thought Fails in Clinical Text Understanding. *arXiv:2509.21933* / *OpenReview*.
 - Source-Aware Clinical AI Group. (2026). When Reasoning Hurts: Source-Aware Evaluation of Frontier LLMs for Clinical SOAP Note Generation. *arXiv:2605.24902*.
 - Kim, S., et al. (2025). Aligning large language models for cognitive behavioral therapy: a proof-of-concept study. *Frontiers in Psychiatry*, 16:1583739.

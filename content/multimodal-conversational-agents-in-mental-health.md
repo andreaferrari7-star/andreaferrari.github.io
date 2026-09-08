@@ -1,4 +1,4 @@
-﻿---
+---
 tags: [multimodal-ai, conversational-agents, voice-interfaces, speech-processing, nonverbal-cues, digital-mental-health, therapeutic-alliance, accessibility, parkinsons-disease, older-adults, humayun-2025]
 source_papers: ["pone.0332207.pdf"]
 ---

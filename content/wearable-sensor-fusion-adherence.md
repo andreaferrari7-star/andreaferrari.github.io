@@ -1,4 +1,4 @@
-﻿---
+---
 tags: [wearables, sensor-fusion, gesture-recognition, bi-lstm, sfoa, accelerometer, gyroscope, medication-adherence, passive-monitoring, remote-patient-monitoring]
 source_papers: ["AI-PoweredReal-TimeAdherenceMonitoringforRemotePatientCareinTelemedicine.pdf"]
 ---

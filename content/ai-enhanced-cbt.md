@@ -1,6 +1,14 @@
 ---
-tags: [cbt, ai-enhanced-cbt, digital-mental-health, machine-learning, deep-learning, llm, clinical-workflows]
-source_papers: ["2407.19422v1.pdf"]
+tags:
+  - cbt
+  - ai-enhanced-cbt
+  - digital-mental-health
+  - machine-learning
+  - deep-learning
+  - llm
+  - clinical-workflows
+source_papers:
+  - 2407.19422v1.pdf
 ---
 
 # AI-Enhanced Cognitive Behavioral Therapy

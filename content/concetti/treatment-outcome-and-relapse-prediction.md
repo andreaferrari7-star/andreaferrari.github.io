@@ -1,6 +1,6 @@
 ---
-tags: [cbt, machine-learning, treatment-prediction, relapse-prediction, neuroimaging, fmri, adaptive-treatment-strategies, licbt, icbt]
-source_papers: ["2407.19422v1.pdf"]
+tags: [cbt, machine-learning, treatment-prediction, relapse-prediction, neuroimaging, fmri, task-based-fmri, prediction-vs-association-gap, adaptive-treatment-strategies, licbt, icbt]
+source_papers: ["2407.19422v1.pdf", "2026.03.13.26348316v1.full.pdf"]
 title: "Treatment Outcome and Relapse Prediction"
 ---
 
@@ -48,9 +48,9 @@ graph TD
 - **Accuratezza Generale:** La meta-analisi di Vieira et al. (2022) ha stabilito che i modelli di Machine Learning predicono il beneficio clinico individuale della CBT con un'accuratezza media di circa il **74.0%**.
 - **CBT vs Terapie Alternative:** Algoritmi prescrittivi applicati a dati pre-trattamento (Schwartz et al., 2021; Delgadillo & Gonzalez Salas Duhne, 2020) consentono di orientare il paziente verso la CBT o la Psicoterapia Psicodinamica (PDT), riducendo il costoso e dannoso metodo del *trial-and-error*.
 
-### 2. Biomarcatori di Neuroimaging (fMRI)
+### 2. Biomarcatori di Neuroimaging (fMRI) e il "Prediction vs. Association Gap"
 - **Dorsolateral Prefrontal Cortex (DLPFC):** Wei et al. (2023), utilizzando Support Vector Regression su punteggi HDRS, hanno identificato l'omogeneità regionale (*Regional Homogeneity* - ReHo) nel DLPFC sinistro come biomarcatore solido dell'efficacia della CBT nella depressione.
-- **Connettività Funzionale nell'OCD:** Reggente et al. (2018) e Ball et al. (2014) hanno dimostrato che i pattern di connettività a riposo predicono la risposta alla CBT intensiva nei disturbi ossessivo-compulsivi e d'ansia.
+- **Connettività Funzionale e Task fMRI nell'OCD (Studi Monocentrici vs. Mega-Analisi):** Sebbene studi pilota monocentrici su campioni ridotti abbiano suggerito che la connettività resting-state (Reggente et al., 2018) o compiti di inibizione (Norman et al., 2021) possano predire la risposta alla CBT, recenti studi su larga scala del consorzio internazionale **ENIGMA-OCD** (van de Mortel et al., 2025; Džinalija et al., 2026) hanno evidenziato il **Prediction vs. Association Gap**: nonostante la presenza di solide associazioni a livello di gruppo (es. deattivazione del DMN e della corteccia motoria), i modelli di machine learning (SVM, Random Forest) con validazione out-of-sample (*Leave-One-Site-Out*) falliscono nel predire risposta e remissione individuale al di sopra del caso ($AUC \approx 0.50 - 0.59$) (vedi [[task-based-fmri-cbt-prediction]] e [[dzinalija-et-al-2026]]).
 
 ### 3. Predizione basata su Dati Clinici di Routine
 - Ricerche di Hilbert et al. (2020, 2021) hanno confermato che anche senza ricorrere a costosi esami di neuroimaging, l'analisi ML di variabili socio-demografiche standard e punteggi clinici di routine permette di identificare i soggetti non-responder all'intervento ambulatoriale con un'accuratezza significativamente superiore al caso.
@@ -72,6 +72,10 @@ graph TD
 ---
 
 ## Relazioni
+- [[cbt-outcome-prediction-in-ocd]]: Analisi focalizzata su OCD, predittori clinici vs fallimento predittivo della rs-fMRI multicentrica.
+- [[van-de-mortel-et-al-2025]]: Studio multicentrico empirico ENIGMA-OCD (Journal of Affective Disorders).
+- [[task-based-fmri-cbt-prediction]]: Predizione tramite fMRI task-based e analisi del Prediction vs. Association Gap.
+- [[dzinalija-et-al-2026]]: Studio di mega-analisi ENIGMA-OCD su 5 coorti e fallimento della predizione out-of-sample con ML.
 - [[ai-enhanced-cbt]]: Inquadramento generale nel ciclo di vita della CBT.
 - [[ctrs-automated-evaluation]]: Valutazione della correlazione tra qualità erogata ed esito clinico.
 - [[ai-clinical-decision-support]]: Sistemi di supporto decisionale per lo psichiatra e lo psicoterapeuta.

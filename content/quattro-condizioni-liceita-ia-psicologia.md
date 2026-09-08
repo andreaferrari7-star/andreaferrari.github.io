@@ -1,13 +1,30 @@
 ---
-tags: [condizioni-liceita, deontologia-ia, oppv, gdpr-sanita, ai-act, legge-132-2025, ehds, consenso-informato, human-in-the-loop, identificabilita-contestuale, segreto-professionale, privacy-clinica, responsabilita-professionale]
-source_papers: ["Guida-Pratica-AI-OPPV.pdf"]
+tags:
+  - condizioni-liceita
+  - deontologia-ia
+  - oppv
+  - gdpr-sanita
+  - ai-act
+  - legge-132-2025
+  - ehds
+  - consenso-informato
+  - human-in-the-loop
+  - identificabilita-contestuale
+  - segreto-professionale
+  - privacy-clinica
+  - responsabilita-professionale
+source_papers:
+  - Guida-Pratica-AI-OPPV.pdf
 ---
 
 # Le Quattro Condizioni di Liceità e Correttezza Deontologica per l'IA in Psicologia
 
 **Summary**: Modello dottrinale e procedurale formalizzato dal Gruppo di Lavoro Intelligenza Artificiale dell'Ordine delle Psicologhe e degli Psicologi del Veneto (OPPV, 2026). Definisce i quattro vincoli simultanei e non negoziabili che legittimano giuridicamente e deontologicamente l'adozione di sistemi di intelligenza artificiale nella professione psicologica: tutela rafforzata dei dati particolari (con superamento del mito della de-identificazione parziale), segretezza e sovranità dell'infrastruttura di trattamento, trasparenza contrattuale con consenso modulare (estensione del patto fiduciario) e titolarità esclusiva della decisione clinica (*Human-in-the-Loop*).
+
 **Sources**: `Guida-Pratica-AI-OPPV.pdf` (OPPV, 2026)
+
 **Last updated**: 2026-08-27
+
 ---
 
 ## Definizione Operativa e Fondamento Istituzionale
@@ -15,6 +32,7 @@ source_papers: ["Guida-Pratica-AI-OPPV.pdf"]
 Le **Quattro Condizioni di Liceità e Correttezza Deontologica** costituiscono l'impalcatura regolatoria introdotta dall'[[guida-pratica-ai-oppv-1|OPPV (2026)]] per dirimere la tensione strutturale tra l'innovazione tecnologica dell'[[large-language-models|Intelligenza Artificiale Generativa]] e i doveri fiduciari della professione psicologica.
 
 L'assunto di fondo stabilisce che l'impiego dell'IA non costituisce un semplice atto tecnico neutrale, ma si configura a tutti gli effetti come una complessa operazione di **trattamento di dati personali e particolari**, sottoposta a quattro livelli normativi concorrenti:
+
 1. **Deontologia Professionale** (Codice Deontologico degli Psicologi Italiani, artt. 5, 11–17, 24);
 2. **Protezione dei Dati Personali** (Regolamento UE 2016/679 - GDPR e D.Lgs. 101/2018);
 3. **Diritto alla Salute e Autodeterminazione** (Costituzione Italiana art. 32 e Legge 219/2017 sul consenso informato);
@@ -52,6 +70,7 @@ flowchart TD
 ## Analisi Approfondita delle Quattro Condizioni
 
 ### 1. Condizione A: Tutela Rafforzata dei Dati Particolari e Superamento del Mito dell'Anonimizzazione Parziale
+
 - **Quadro Normativo:** Articolo 9 GDPR (*Trattamento di categorie particolari di dati personali*). I dati relativi alla salute mentale e al benessere psicologico appartengono alle categorie protette da divieto generale di trattamento, salvo specifiche deroghe per finalità di cura, diagnosi e assistenza sanitaria.
 - **La Fallacia dell'Anonimizzazione Parziale:** Nella prassi clinica è frequente l'errore cognitivo secondo cui l'eliminazione del nome anagrafico (*"Tolgo Mario Rossi e scrivo Paziente X"*) renda il materiale anonimo. Nei contesti clinici e psicoterapeutici, la ricchezza narrativa del materiale (età esatta, professione specialistica in un'area geografica ristretta, eventi di vita traumatici unici, dinamiche familiari atipiche) comporta un'elevata **identificabilità per contesto (*contextual re-identification*)**.
 - **Vincolo Operativo:** La pseudonimizzazione non equivale ad anonimizzazione irreversibile. Pertanto, l'immissione di descrizioni cliniche dettagliate all'interno di piattaforme di IA non conformi o aperte viola direttamente l'art. 9 GDPR e l'art. 11 del Codice Deontologico.
@@ -71,6 +90,7 @@ graph LR
 ---
 
 ### 2. Condizione B: Segretezza Professionale, Sovranità del Dato e Divieto di Retraining
+
 - **Quadro Normativo:** Artt. 11–17 Codice Deontologico; Artt. 5.1.f, 28, 44–49 GDPR.
 - **Dovere di Tracciabilità dell'Infrastruttura:** Lo psicologo ha il dovere di conoscere e poter documentare **dove risiedono i server** dell'applicativo utilizzato, quali protocolli di crittografia vengono impiegati e con quali tempi di conservazione.
 - **Il Rischio Sistemico del Riaddestramento (*Retraining*):** La maggior parte dei servizi gratuiti o "consumer" utilizza i prompt, i testi incollati, le immagini e le registrazioni vocali per migliorare e riaddestrare continuamente i pesi neurali dei modelli. Il frammento clinico immesso rischia di diventare parte della struttura statistica del modello e di essere riprodotto (anche parzialmente) in sessioni di altri utenti.
@@ -79,6 +99,7 @@ graph LR
 ---
 
 ### 3. Condizione C: Trasparenza Relazionale e Consenso Informato Modulare (Estensione del Patto Fiduciario)
+
 - **Quadro Normativo:** Art. 24 Codice Deontologico; Artt. 13–14 GDPR; Legge 219/2017; Legge 23 settembre 2025 n. 132; Regolamento (UE) 2025/327 (EHDS).
 - **L'IA come Trattamento di Dati Non Tacito:** L'adozione di software basati su IA non può mai avvenire all'insaputa del paziente o rimanere implicita. La trasparenza costituisce un'estensione diretta dell'alleanza terapeutica e del patto fiduciario.
 - **Architettura Modulare del Consenso:** La Guida OPPV rifiuta il consenso "a pacchetto unico" (*all-in-one*), introducendo una struttura modulare in quattro sezioni distinte:
@@ -116,6 +137,7 @@ classDiagram
 ---
 
 ### 4. Condizione D: Responsabilità Professionale Esclusiva e Human-in-the-Loop Inderogabile
+
 - **Quadro Normativo:** Artt. 3, 4, 5 Codice Deontologico; EU AI Act (Reg. UE 2024/1689); Legge n. 132/2025.
 - **Divieto di Delega Algoritmica:** L'IA non può in alcun caso formulare diagnosi, stabilire indicazioni terapeutiche, valutare il rischio clinico o sostituire il ragionamento dello psicologo.
 - **Imputabilità Giuridica e Deontologica Integrale:** L'IA è priva di personalità giuridica e di responsabilità morale. Ogni testo, bozza, interpretazione o sintesi generata dall'algoritmo diventa parte dell'atto professionale solo quando viene vagliata, corretta e assunta dallo psicologo, che ne risponde a titolo personale.
