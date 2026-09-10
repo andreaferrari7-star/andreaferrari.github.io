@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - v5
+  workflow_dispatch: # Aggiungendo questa riga abiliterai il pulsante per il futuro
 
 permissions:
   contents: read
