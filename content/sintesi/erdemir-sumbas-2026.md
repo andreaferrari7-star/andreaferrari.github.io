@@ -12,7 +12,7 @@ source_papers: ["10.1177_00469580261438322.pdf"]
 
 ## Inquadramento Generale e Obiettivi
 
-La crescente domanda globale di servizi di salute mentale ha oltrepassato la capacità delle risorse e del personale specializzato disponibili, generando significativi divari di accessibilità, tempestività ed economicità delle cure. In questo scenario, l'**Intelligenza Artificiale (IA)** — dai sistemi basati su agenti conversazionali e [[large-language-models]] (LLM) agli algoritmi di analisi predittiva e supporto alle decisioni cliniche — emerge come tecnologia trasformativa con un elevato potenziale di supporto.
+La crescente domanda globale di servizi di salute mentale ha oltrepassato la capacità delle risorse e del personale specializzato disponibili, generando significativi divari di accessibilità, tempestività ed economicità delle cure. In questo scenario, l'**Intelligenza Artificiale (IA)** — dai sistemi basati su agenti conversazionali e [large-language-models](../large-language-models.md) (LLM) agli algoritmi di analisi predittiva e supporto alle decisioni cliniche — emerge come tecnologia trasformativa con un elevato potenziale di supporto.
 
 Tuttavia, il dibattito accademico e professionale oscilla frequentemente tra un ingenuo ottimismo tecnocratico e un allarmismo etico paralizzante. La review di **Nuri Erdemir ed Ezgi Sumbas (2026)** si propone di superare questa polarizzazione attraverso una sintesi critica della letteratura peer-reviewed pubblicata tra il 2018 e il marzo 2025 (database PubMed, Scopus, Web of Science, PsycINFO), delineando una visione integrata in cui l'IA è concettualizzata come **strumento complementare di potenziamento (*augmentation*) che supporta, senza mai sostituire, la relazione terapeutica, il giudizio clinico umano e l'etica professionale**.
 
@@ -139,7 +139,7 @@ graph TD
 | Livello di Governance | Obiettivi Chiave | Misure e Salvaguardie Operative |
 | :--- | :--- | :--- |
 | **1. Technical Safeguards** *(Salvaguardie Tecniche)* | Garantire affidabilità, trasparenza e sicurezza algoritmica prima e durante il deployment. | - Monitoraggio costante dei tassi di allucinazione e stabilità.<br>- Benchmarking prestazionale rispetto a criteri clinici standardizzati.<br>- Meccanismi di spiegabilità (*explainability*) del ragionamento del modello.<br>- Protocolli vincolanti di reindirizzamento immediato (*fail-safe escalation*) al clinico umano in presenza di ideazione suicidaria o distress acuto. |
-| **2. Clinical Governance** *(Governance Clinica)* | Preservare la centralità e la responsabilità del professionista della salute mentale. | - Posizionamento dell'IA esclusivamente come ausilio decisionale (*augmentation tool*).<br>- Riserva esclusiva dell'autorità interpretativa, diagnostica e di pianificazione al clinico abilitato.<br>- Definizione di protocolli d'uso, controindicazioni e standard documentali.<br>- Inserimento dell'[[ai-literacy-in-academia|AI Literacy]] nei programmi formativi accademici e di specializzazione. |
+| **2. Clinical Governance** *(Governance Clinica)* | Preservare la centralità e la responsabilità del professionista della salute mentale. | - Posizionamento dell'IA esclusivamente come ausilio decisionale (*augmentation tool*).<br>- Riserva esclusiva dell'autorità interpretativa, diagnostica e di pianificazione al clinico abilitato.<br>- Definizione di protocolli d'uso, controindicazioni e standard documentali.<br>- Inserimento dell'[AI Literacy](../concetti/ai-literacy-in-academia.md) nei programmi formativi accademici e di specializzazione. |
 | **3. Policy & Institutional Oversight** *(Supervisione Istituzionale e Regolatoria)* | Regolare il sistema a livello macro-istituzionale, garantendo equità e responsabilità. | - Certificazione e accreditamento dinamico dei dispositivi digitali per la salute mentale (ispirati alla *post-market surveillance* medica).<br>- Definizione univoca della catena di responsabilità legale (sviluppatori, enti sanitari, professionisti).<br>- Politiche di acquisto orientate a sistemi validati culturalmente, multilingue e accessibili, contrastando il divario digitale. |
 
 ---
@@ -172,12 +172,14 @@ Gli autori evidenziano diverse priorità di indagine per la comunità scientific
 ---
 
 ## Relazioni e Concetti Correlati
-- [[three-layer-governance-framework]]: Dettaglio del modello di governance multilivello per l'IA in salute mentale.
-- [[simulated-empathy-vs-authentic-presence]]: Analisi differenziale tra empatia algoritmica e risonanza emotiva umana.
-- [[stepped-care-ai-integration]]: Inquadramento dell'IA all'interno dei percorsi di cura a gradini.
-- [[technical-vulnerabilities-llm-counseling]]: Studio delle fragilità strutturali degli LLM nel setting clinico.
-- [[algorithmic-bias-and-digital-inequalities]]: Disamina dei bias nei dataset e delle disuguaglianze di accesso digitale.
-- [[digital-therapeutic-alliance]]: La ridefinizione dell'alleanza di lavoro in setting triadici (paziente-terapeuta-tecnologia).
-- [[human-in-the-reasoning]]: Il superamento della mera supervisione formale a favore del co-ragionamento clinico trasparente.
-- [[clinical-fidelity-assessment]]: Metodologie di valutazione della fedeltà e sicurezza dei sistemi di IA.
-- [[ai-assisted-psychotherapy]]: Panoramica generale sull'impiego dell'IA in psicoterapia.
+- [three-layer-governance-framework](../concetti/concetti/concetti\three-layer-governance-framework.md): Dettaglio del modello di governance multilivello per l'IA in salute mentale.
+- [simulated-empathy-vs-authentic-presence](../concetti/concetti/concetti\simulated-empathy-vs-authentic-presence.md): Analisi differenziale tra empatia algoritmica e risonanza emotiva umana.
+- [stepped-care-ai-integration](../concetti/stepped-care-ai-integration.md): Inquadramento dell'IA all'interno dei percorsi di cura a gradini.
+- [technical-vulnerabilities-llm-counseling](../concetti/technical-vulnerabilities-llm-counseling.md): Studio delle fragilità strutturali degli LLM nel setting clinico.
+- [algorithmic-bias-and-digital-inequalities](../concetti/algorithmic-bias-and-digital-inequalities.md): Disamina dei bias nei dataset e delle disuguaglianze di accesso digitale.
+- [digital-therapeutic-alliance](../digital-therapeutic-alliance.md): La ridefinizione dell'alleanza di lavoro in setting triadici (paziente-terapeuta-tecnologia).
+- [human-in-the-reasoning](../human-in-the-reasoning.md): Il superamento della mera supervisione formale a favore del co-ragionamento clinico trasparente.
+- [clinical-fidelity-assessment](../clinical-fidelity-assessment.md): Metodologie di valutazione della fedeltà e sicurezza dei sistemi di IA.
+- [ai-assisted-psychotherapy](../ai-assisted-psychotherapy.md): Panoramica generale sull'impiego dell'IA in psicoterapia.
+
+

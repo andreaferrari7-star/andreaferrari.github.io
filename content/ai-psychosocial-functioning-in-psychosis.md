@@ -68,4 +68,7 @@ flowchart TD
 - Wang, W., Mirjafari, S., Harari, G., Ben-Zeev, D., Brian, R., Choudhury, T., et al. (2020). Social sensing: Assessing social functioning of patients living with schizophrenia using mobile phone sensing. In *Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems* (pp. 1–15). ACM. https://doi.org/10.1145/3313831.3376855
 
 ## Relazioni
-- Vedi anche: [[fpsyt-16-1692177]], [[causal-discovery-psychosocial-targets]], [[modello-centauro-clinico]], [[ai-psychosis]], [[applied-theory-of-mind-llm]], [[synthetic-psychopathology]], [[multimodal-anxiety-detection-ai]], [[social-media-phenotyping-anxiety]], [[clinical-ai-simulation]], [[supervisione-clinica-ai]]
+- Vedi anche: [fpsyt-16-1692177](fpsyt-16-1692177.md), [causal-discovery-psychosocial-targets](causal-discovery-psychosocial-targets.md), [modello-centauro-clinico](concetti/concetti/concetti\modello-centauro-clinico.md), [ai-psychosis](ai-psychosis.md), [applied-theory-of-mind-llm](applied-theory-of-mind-llm.md), [synthetic-psychopathology](synthetic-psychopathology.md), [multimodal-anxiety-detection-ai](multimodal-anxiety-detection-ai.md), [social-media-phenotyping-anxiety](social-media-phenotyping-anxiety.md), [clinical-ai-simulation](clinical-ai-simulation.md), [supervisione-clinica-ai](supervisione-clinica-ai.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

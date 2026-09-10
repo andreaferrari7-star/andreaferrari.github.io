@@ -25,7 +25,7 @@ Le donne afghane affrontano una condizione di vulnerabilità sistemica senza pre
 - **Prevalenza psicopatologica allarmante**: indagini epidemiologiche indicano che il 47% delle donne afghane presenta grave distress psicologico e circa l'80% manifesta sintomi depressivi.
 - **Stigma socioculturale**: forte inibizione alla condivisione della sofferenza emotiva persino all'interno della cerchia familiare o amicale.
 
-In tale scenario, gli agenti conversazionali basati su modelli linguistici di grandi dimensioni ([[large-language-models]]) come GPT-4 rappresentano una risorsa potenzialmente democratizzante per fornire supporto psicologico scalabile, anonimo e accessibile.
+In tale scenario, gli agenti conversazionali basati su modelli linguistici di grandi dimensioni ([large-language-models](../large-language-models.md)) come GPT-4 rappresentano una risorsa potenzialmente democratizzante per fornire supporto psicologico scalabile, anonimo e accessibile.
 
 ```mermaid
 flowchart TD
@@ -164,12 +164,15 @@ L'analisi semantica delle conversazioni ha evidenziato le preoccupazioni primari
 ---
 
 ## Concetti Correlati
-- [[language-style-matching-human-ai]]
-- [[supportive-listener-prompting]]
-- [[ai-mental-health-vulnerable-populations]]
-- [[simulated-empathy-vs-authentic-presence]]
-- [[conversational-agents-mental-health]]
-- [[simulated-therapeutic-alliance]]
-- [[ai-psychotherapy-clinical-effectiveness]]
-- [[etica-privacy-bias-ia-clinica]]
-- [[stepped-care-ai-integration]]
+- [language-style-matching-human-ai](../concetti/concetti/concetti\language-style-matching-human-ai.md)
+- [supportive-listener-prompting](../concetti/concetti/concetti\supportive-listener-prompting.md)
+- [ai-mental-health-vulnerable-populations](../concetti/ai-mental-health-vulnerable-populations.md)
+- [simulated-empathy-vs-authentic-presence](../concetti/concetti/concetti\simulated-empathy-vs-authentic-presence.md)
+- [conversational-agents-mental-health](../concetti/conversational-agents-mental-health.md)
+- [simulated-therapeutic-alliance](../simulated-therapeutic-alliance.md)
+- [ai-psychotherapy-clinical-effectiveness](../concetti/ai-psychotherapy-clinical-effectiveness.md)
+- [etica-privacy-bias-ia-clinica](../concetti/etica-privacy-bias-ia-clinica.md)
+- [stepped-care-ai-integration](../concetti/stepped-care-ai-integration.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

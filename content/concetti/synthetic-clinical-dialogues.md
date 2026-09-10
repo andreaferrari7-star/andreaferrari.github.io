@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Synthetic Clinical Dialogues (Dialoghi Clinici Sintetici)
 
 **Summary**: Metodologia di generazione computazionale di conversazioni e interviste cliniche simulate tra agenti intelligenti guidati da profili psicopatologici ed epidemiologici controllati, finalizzata al superamento della scarsità dei dati sensibili, alla ricerca sull'Explainable AI e al benchmarking rigoroso di modelli per la salute mentale.
@@ -83,10 +87,13 @@ La validazione della qualità dei dialoghi sintetici richiede un approccio integ
 ---
 
 ## Pagine Correlate
-- [[dsm5agentflow]]: Il framework multi-agente per la generazione e valutazione di dialoghi DSM-5.
-- [[ozgun-et-al-2025]]: Sintesi del paper di riferimento (CIKM 2025).
-- [[simulazione-pazienti-ai]]: Principi generali di simulazione di pazienti virtuali e prompt engineering.
-- [[explainable-mental-disorder-diagnosis]]: Trasparenza ed esplicabilità diagnostica basata su dialoghi clinici.
-- [[trade-off-conversazione-ragionamento-llm]]: Valutazione comparativa dei modelli linguistici su compiti sintetici.
-- [[three-layer-governance-framework]]: Quadro etico e di governance per l'uso dell'IA in salute mentale.
-- [[ai-assisted-psychotherapy]]: Stato dell'arte dell'integrazione tra IA e psicoterapia.
+- [dsm5agentflow](dsm5agentflow.md): Il framework multi-agente per la generazione e valutazione di dialoghi DSM-5.
+- [ozgun-et-al-2025](../sintesi/ozgun-et-al-2025.md): Sintesi del paper di riferimento (CIKM 2025).
+- [simulazione-pazienti-ai](simulazione-pazienti-ai.md): Principi generali di simulazione di pazienti virtuali e prompt engineering.
+- [explainable-mental-disorder-diagnosis](explainable-mental-disorder-diagnosis.md): Trasparenza ed esplicabilità diagnostica basata su dialoghi clinici.
+- [trade-off-conversazione-ragionamento-llm](trade-off-conversazione-ragionamento-llm.md): Valutazione comparativa dei modelli linguistici su compiti sintetici.
+- [three-layer-governance-framework](concetti/concetti\three-layer-governance-framework.md): Quadro etico e di governance per l'uso dell'IA in salute mentale.
+- [ai-assisted-psychotherapy](../ai-assisted-psychotherapy.md): Stato dell'arte dell'integrazione tra IA e psicoterapia.
+
+## Riferimenti Bibliografici
+- [Da integrare]

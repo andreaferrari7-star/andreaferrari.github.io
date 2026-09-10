@@ -25,4 +25,7 @@ source_papers: ["1-s2.0-S0272735826000917-main.pdf"]
 - Kazdin, A. E. (2007). Mediators and mechanisms of change in psychotherapy research. *Annual Review of Clinical Psychology*, 3, 1–27. https://doi.org/10.1146/annurev.clinpsy.3.022806.091432
 
 ## Relazioni
-- Vedi anche: [[process-based-therapy]], [[common-vs-specific-factors]], [[terminological-fragmentation]], [[llm-assisted-clustering]], [[hofmann-et-al-2026]]
+- Vedi anche: [process-based-therapy](process-based-therapy.md), [common-vs-specific-factors](common-vs-specific-factors.md), [terminological-fragmentation](terminological-fragmentation.md), [llm-assisted-clustering](llm-assisted-clustering.md), [hofmann-et-al-2026](../sintesi/hofmann-et-al-2026.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

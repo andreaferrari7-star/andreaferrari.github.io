@@ -1,3 +1,8 @@
+---
+tags: []
+source: "riunione"
+---
+
 # Riunione 07-17: Corso di Formazione sull'IA in Psicologia, Gestione Clinica del Paziente e Architetture LLM
 
 **Summary**: Pianificazione e progettazione didattica del corso di formazione sull'IA per psicoterapeuti (struttura a 5 moduli), gestione clinica dei pazienti che utilizzano chatbot, introduzione al paradigma architetturale LLM Wiki (Karpathy) vs RAG, generazione di "Living Documents" clinici bottom-up da trascrizioni d'equipe (inTherapy) e metodologia di fidelity assessment computazionale per gruppi di terapia metacognitiva (SIP).
@@ -7,7 +12,7 @@
 
 ## Partecipanti e Contesto
 - **Partecipanti**: Andrea, Matilde, Gabriele, Erika.
-- **Obiettivo della riunione**: Definizione della scaletta e della struttura didattica del corso di formazione sull'IA per psicologi/psicoterapeuti, esplorazione delle sfide cliniche emergenti legate ai pazienti che usano l'IA, confronto su architetture avanzate di Knowledge Base ([[llm-wiki]]) e analisi computazionale dei trascritti clinici per la redazione di manuali e la valutazione di fedeltà al modello teorico.
+- **Obiettivo della riunione**: Definizione della scaletta e della struttura didattica del corso di formazione sull'IA per psicologi/psicoterapeuti, esplorazione delle sfide cliniche emergenti legate ai pazienti che usano l'IA, confronto su architetture avanzate di Knowledge Base ([llm-wiki](../llm-wiki.md)) e analisi computazionale dei trascritti clinici per la redazione di manuali e la valutazione di fedeltà al modello teorico.
 
 ---
 
@@ -35,7 +40,7 @@
 
 ---
 
-### 3. [[gestione-clinica-paziente-ia]]: Fenomenologia e Intervento
+### 3. [gestione-clinica-paziente-ia](../concetti/gestione-clinica-paziente-ia.md): Fenomenologia e Intervento
 - **Diffusione del fenomeno**: Ampia diffusione dell'uso spontaneo di chatbot da parte dei pazienti per supporto emotivo, riflessione e svolgimento di compiti terapeutici, spesso senza esplicitarlo in seduta.
 - **Pattern psicopatologici di utilizzo**:
   - *Funzionamento Narcisistico*: Utilizzo dell'IA come ottimizzatore prestazionale e moltiplicatore di efficienza.
@@ -50,14 +55,14 @@
 
 ---
 
-### 4. Nuove Architetture di Conoscenza: [[llm-wiki]] (Karpathy) vs RAG
+### 4. Nuove Architetture di Conoscenza: [llm-wiki](../llm-wiki.md) (Karpathy) vs RAG
 - **Criticità del RAG convenzionale**: I sistemi RAG standard (e strumenti come NotebookLM) operano su documenti grezzi statici tramite *chunk retrieval* al momento della query, frammentando il contesto e rischiando risposte discontinue o allucinazioni.
 - **Paradigma LLM Wiki**: Proposto da Andrej Karpathy, prevede che l'LLM elabori proattivamente ogni nuovo documento in ingresso, estraendo concetti, aggiornando le pagine tematiche in formato Markdown e tessendo collegamenti ipertestuali bidirezionali.
 - **Vantaggi operativi**: La consultazione interroga una conoscenza pre-organizzata, strutturata e costantemente raffinata, massimizzando precisione, velocità di recupero e scalabilità per la letteratura e la manualistica clinica.
 
 ---
 
-### 5. [[bottom-up-clinical-documentation]] e "Living Documents" (inTherapy)
+### 5. [bottom-up-clinical-documentation](../bottom-up-clinical-documentation.md) e "Living Documents" (inTherapy)
 - **Metodologia di estrazione da trascritti d'equipe**: Registrazione e trascrizione delle riunioni d'equipe clinica (es. equipe DOC). L'LLM elabora il trascritto per generare addendum operativi e raccomandazioni procedurali per il manuale clinico.
 - **Casi applicativi analizzati**:
   - *Gestione dei trasferimenti di pazienti*: Distinzione tra tratto e stato, movente del passaggio, prevenzione della confusione cognitiva nel paziente, ruolo della segreteria clinica e checklist operative per il terapeuta ricevente.
@@ -66,7 +71,7 @@
 
 ---
 
-### 6. [[clinical-fidelity-assessment]]: Analisi Computazionale dei Gruppi Metacognitivi (SIP)
+### 6. [clinical-fidelity-assessment](../clinical-fidelity-assessment.md): Analisi Computazionale dei Gruppi Metacognitivi (SIP)
 - **Applicazione empirica**: Analisi di 20 registrazioni di sedute di terapia di gruppo metacognitiva (condotte da Andrea e Alba) per valutare l'aderenza al modello teorico (Wells / protocollo Nordahl per disturbo borderline).
 - **Metodo sequenziale di analisi**:
   1. *Confronto computazionale*: Raffronto tra trascritti di seduta e la Knowledge Base del modello teorico.
@@ -90,14 +95,17 @@
 ---
 
 ## Related pages
-- [[gestione-clinica-paziente-ia]]
-- [[llm-wiki]]
-- [[bottom-up-clinical-documentation]]
-- [[clinical-fidelity-assessment]]
-- [[human-in-the-reasoning]]
-- [[simulazione-pazienti-ai]]
-- [[augmented-psychotherapy]]
-- [[ai-assisted-psychotherapy]]
-- [[ai-research-ethics]]
-- [[large-language-models]]
-- [[05-08_Riunione_Knowledge_Base]]
+- [gestione-clinica-paziente-ia](../concetti/gestione-clinica-paziente-ia.md)
+- [llm-wiki](../llm-wiki.md)
+- [bottom-up-clinical-documentation](../bottom-up-clinical-documentation.md)
+- [clinical-fidelity-assessment](../clinical-fidelity-assessment.md)
+- [human-in-the-reasoning](../human-in-the-reasoning.md)
+- [simulazione-pazienti-ai](../simulazione-pazienti-ai.md)
+- [augmented-psychotherapy](../augmented-psychotherapy.md)
+- [ai-assisted-psychotherapy](../ai-assisted-psychotherapy.md)
+- [ai-research-ethics](../ai-research-ethics.md)
+- [large-language-models](../large-language-models.md)
+- [05-08_Riunione_Knowledge_Base](../05-08_Riunione_Knowledge_Base.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

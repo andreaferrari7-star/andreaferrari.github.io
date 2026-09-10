@@ -6,7 +6,7 @@ source_papers: ["mental-v12-e81204.pdf"]
 # Prompt-Experiment Gap in Clinical AI (Divario dei Prompt-Experiment nell'IA Clinica)
 
 ## Definizione Operativa
-- Il **Prompt-Experiment Gap** (Divario dei Prompt-Experiment) definisce la profonda dissociazione metodologica ed ecologica rilevata nella ricerca sui Large Language Models ([[large-language-models|LLM]]) applicati alla salute mentale, caratterizzata da una schiacciante predominanza di studi condotti esclusivamente tramite **prompt sintetici e vignette simulate in vitro** rispetto alla quasi totale assenza di sperimentazioni su pazienti clinici reali (Balan & Gumpel, 2025; *JMIR Mental Health*, doi: [10.2196/81204](https://doi.org/10.2196/81204)).
+- Il **Prompt-Experiment Gap** (Divario dei Prompt-Experiment) definisce la profonda dissociazione metodologica ed ecologica rilevata nella ricerca sui Large Language Models ([LLM](concetti/large-language-models.md)) applicati alla salute mentale, caratterizzata da una schiacciante predominanza di studi condotti esclusivamente tramite **prompt sintetici e vignette simulate in vitro** rispetto alla quasi totale assenza di sperimentazioni su pazienti clinici reali (Balan & Gumpel, 2025; *JMIR Mental Health*, doi: [10.2196/81204](https://doi.org/10.2196/81204)).
 - **Entità e Impatto Sistemico:**
   - Nella scoping review di Balan & Gumpel (2025) su 60 studi primari su ChatGPT in salute mentale, l'**83.3% ($n=50$)** delle ricerche è costituito da meri *prompt experiments* (testo standardizzato inviato al modello senza alcuna interazione umana);
   - Soltanto il **10% ($n=6$)** ha coinvolto partecipanti provenienti da popolazioni cliniche reali e appena il **5% ($n=3$)** ha adottato un disegno controllato randomizzato (RCT);
@@ -54,7 +54,7 @@ Balan & Gumpel (2025) evidenziano quattro dimensioni critiche che rendono i benc
 
 ### 3. Cecità alla Dinamica Relazionale Multi-Turno e alle Crisi Acute
 - I prompt experiment sono prevalentemente *statici* o limitati a pochi turni di scambio.
-- Negli interventi reali, i momenti più critici emergono in modo latente nel corso di conversazioni prolungate: escalation dell'ideazione suicidaria, scoppi di rabbia, tentativi di manipolazione o formazione di attaccamenti para-sociali distorti ([[artificial-intimacy|intimità artificiale]]). In tali scenari dinamici, i modelli standard mostrano gravi ritardi nell'attivazione di alert e referral appropriati (Heston, 2023; McBain et al., 2025).
+- Negli interventi reali, i momenti più critici emergono in modo latente nel corso di conversazioni prolungate: escalation dell'ideazione suicidaria, scoppi di rabbia, tentativi di manipolazione o formazione di attaccamenti para-sociali distorti ([intimità artificiale](concetti/artificial-intimacy.md)). In tali scenari dinamici, i modelli standard mostrano gravi ritardi nell'attivazione di alert e referral appropriati (Heston, 2023; McBain et al., 2025).
 
 ### 4. Bias Demografico di Selezione (Digital Natives WEIRD)
 - Nei rarissimi studi che coinvolgono utenti reali ($n=10$), i campioni sono composti quasi esclusivamente da giovani adulti altamente scolarizzati, a loro agio con le tecnologie digitali (*digital natives*), mentre risultano totalmente trascurate le fasce vulnerabili: adolescenti, anziani con decadimento cognitivo o popolazioni marginalizzate prive di alfabetizzazione digitale (Benvenuti et al., 2023; Wang & Li, 2024).
@@ -70,7 +70,7 @@ Balan & Gumpel (2025) evidenziano quattro dimensioni critiche che rendono i benc
 | **Dinamica Conversazionale** | Interazione a 1 o 2 turni (Zero/Few-Shot) | Processo terapeutico longitudinale su settimane o mesi |
 | **Metriche di Valutazione** | $F_1$ score, accuratezza lessicale, plausibilità soggettiva | Riduzione sintomatica psicometrica, tassi di drop-out, alleanza |
 | **Rilevazione del Rischio** | Esercizio teorico su parole-chiave di rischio | Gestione di disclosure ambigue, emergenze e acting-out |
-| **Interferenze Psicologiche** | Assenti (valutazione computazionale asettica) | [[algorithm-aversion|Algorithm aversion]], sfiducia, attaccamento para-sociale |
+| **Interferenze Psicologiche** | Assenti (valutazione computazionale asettica) | [Algorithm aversion](concetti/algorithm-aversion.md), sfiducia, attaccamento para-sociale |
 
 ---
 
@@ -117,10 +117,12 @@ Per trasformare le promesse dell'IA generativa in interventi sanitari evidence-b
 ---
 
 ## Relazioni
-- [[mental-v12-e81204]]: Scoping review di Balan & Gumpel (2025) su 60 studi empirici di ChatGPT in salute mentale.
-- [[prognostic-pessimism-in-clinical-ai]]: Analisi del bias di pessimismo prognostico sistematico nei modelli generativi.
-- [[clinical-readiness-gap-in-mh-chatbots]]: Divario tra fluenza computazionale e rigorosa prontezza clinico-regolatoria.
-- [[algorithmic-tractability-in-psychotherapy]]: Tassonomia della trattabilità algoritmica di quadri clinici manualizzati vs complessi.
-- [[epistemological-paradox-in-clinical-ai]]: Dilemma etico tra necessità di sperimentazione su popolazioni vulnerabili e rischio iatrogeno.
-- [[modello-centauro-clinico]]: Cooperazione human-in-the-loop per colmare i limiti dei modelli generativi.
-- [[traffic-light-quality-appraisal-clinical-ai]]: Framework per valutare il rigore metodologico degli studi su IA clinica.
+- [mental-v12-e81204](mental-v12-e81204.md): Scoping review di Balan & Gumpel (2025) su 60 studi empirici di ChatGPT in salute mentale.
+- [prognostic-pessimism-in-clinical-ai](prognostic-pessimism-in-clinical-ai.md): Analisi del bias di pessimismo prognostico sistematico nei modelli generativi.
+- [clinical-readiness-gap-in-mh-chatbots](concetti/concetti/concetti\clinical-readiness-gap-in-mh-chatbots.md): Divario tra fluenza computazionale e rigorosa prontezza clinico-regolatoria.
+- [algorithmic-tractability-in-psychotherapy](algorithmic-tractability-in-psychotherapy.md): Tassonomia della trattabilità algoritmica di quadri clinici manualizzati vs complessi.
+- [epistemological-paradox-in-clinical-ai](epistemological-paradox-in-clinical-ai.md): Dilemma etico tra necessità di sperimentazione su popolazioni vulnerabili e rischio iatrogeno.
+- [modello-centauro-clinico](concetti/concetti/concetti\modello-centauro-clinico.md): Cooperazione human-in-the-loop per colmare i limiti dei modelli generativi.
+- [traffic-light-quality-appraisal-clinical-ai](traffic-light-quality-appraisal-clinical-ai.md): Framework per valutare il rigore metodologico degli studi su IA clinica.
+
+

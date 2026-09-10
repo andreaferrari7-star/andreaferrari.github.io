@@ -1,3 +1,8 @@
+---
+tags: []
+source: "riunione"
+---
+
 # Sintesi Riunione: Discussione del Gruppo di Ricerca su AI e Psicoterapia (05-11)
 
 **Summary**: Sintesi approfondita della discussione del gruppo di ricerca su intelligenza artificiale e psicoterapia, incentrata sullo sviluppo e versioning di agenti didattici (Libet Prime), transizione verso lo Human-in-the-Reasoning, tecniche di prompt engineering per la simulazione clinica di pazienti, sfide etiche/deontologiche (bias e privacy) e progetti di ricerca su larga scala per la digitalizzazione clinica (SaMD e protocollo Not-On-Track nel NHS).
@@ -36,7 +41,7 @@
 
 ---
 
-## 4. Prompt Engineering e [[simulazione-pazienti-ai]]
+## 4. Prompt Engineering e [simulazione-pazienti-ai](../simulazione-pazienti-ai.md)
 - **Standard Scientifici e Trasparenza**: Riferimento a framework metodologici e linee guida di trasparenza (es. standard TRIPOD adattati ai modelli generativi) per contestualizzare l'interazione clinica.
 - **Calibrazione del Livello di Astrazione**: Necessità di specificare esplicitamente nel prompt il livello cognitivo richiesto al modello (descrizione fattuale, interpretazione clinica, inferenza causale).
 - **Modellizzazione dei Bias Cognitivi nei Pazienti Virtuali**:
@@ -44,7 +49,7 @@
 
 ---
 
-## 5. [[human-in-the-reasoning]]: Dal Controllo Passivo alla Co-Costruzione
+## 5. [human-in-the-reasoning](../human-in-the-reasoning.md): Dal Controllo Passivo alla Co-Costruzione
 - **Oltre lo Human-in-the-Loop**: La classica supervisione operativa a posteriori (*Human-in-the-Loop*) è insufficiente e rischia di generare deresponsabilizzazione (*moral crumple zone*) o accettazione acritica (*automation bias*).
 - **Comprensione Metacognitiva del Modello**: Il clinico deve acquisire la capacità di comprendere come "ragiona" il modello, i suoi pesi inferenziali, le sue allucinazioni e i suoi limiti strutturali (natura di scatola nera probabilistica e simulazione del ragionamento step-by-step).
 
@@ -78,11 +83,14 @@ Definizione di un percorso formativo/microcorso articolato su tre pilastri:
 ---
 
 ## Related pages
-- [[human-in-the-reasoning]]
-- [[simulazione-pazienti-ai]]
-- [[libet-prime-agenti-didattici]]
-- [[software-as-a-medical-device-salute-mentale]]
-- [[etica-privacy-bias-ia-clinica]]
-- [[large-language-models]]
-- [[prompting-in-psychology]]
-- [[ai-research-ethics]]
+- [human-in-the-reasoning](../human-in-the-reasoning.md)
+- [simulazione-pazienti-ai](../simulazione-pazienti-ai.md)
+- [libet-prime-agenti-didattici](../concetti/concetti/concetti\libet-prime-agenti-didattici.md)
+- [software-as-a-medical-device-salute-mentale](../software-as-a-medical-device-salute-mentale.md)
+- [etica-privacy-bias-ia-clinica](../concetti/etica-privacy-bias-ia-clinica.md)
+- [large-language-models](../large-language-models.md)
+- [prompting-in-psychology](../prompting-in-psychology.md)
+- [ai-research-ethics](../ai-research-ethics.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Terzo Analitico Digitale (Digital Analytic Third)
 
 **Summary**: Concettualizzazione teorico-clinica (Signorini & Paganin, 2026) che inquadra l'Intelligenza Artificiale Generativa non come entità senziente o decisore clinico, ma come co-presenza simbolica e "perturbatore dialogogico" differito, finalizzato ad aprire spazi di riflessività e svelare i punti ciechi controtransferali del terapeuta.
@@ -40,7 +44,7 @@ graph TD
 2. **Funzione "Dialogogica"**:
    - Dal greco *dialogos* (dialogo attraverso il linguaggio) e *agoghé* (guida/conduzione). Il Terzo Digitale opera come una perturbazione strutturata che guida e scompiglia il discorso interiore del clinico, impedendogli di adagiarsi su certezze diagnostiche precoci o difensive.
 3. **Generazione di Attrito Cognitivo Benefico**:
-   - Mentre gli LLM commerciali tendono all'adulazione compiacente (*sycophancy*), il Terzo Analitico Digitale — governato dal protocollo [[sadar-framework|SADAR]] — viene costretto a produrre attrito intellettuale, ipotesi divergenti e problematizzazioni del controtransfert.
+   - Mentre gli LLM commerciali tendono all'adulazione compiacente (*sycophancy*), il Terzo Analitico Digitale — governato dal protocollo [SADAR](sadar-framework.md) — viene costretto a produrre attrito intellettuale, ipotesi divergenti e problematizzazioni del controtransfert.
 4. **Esclusione dalla Seduta Reale**:
    - Opera unicamente in tempo differito (post-sessione), proteggendo la purezza della relazione diadica umana in seduta dall'intrusione di schermi o dashboard.
 
@@ -52,16 +56,19 @@ graph TD
 | :--- | :--- | :--- | :--- |
 | **Ruolo Assegnato** | Decisore diagnostico / Predittore | Compilatore automatico di note | Perturbatore riflessivo dialogogico |
 | **Tempo di Ingresso** | In-session o Pre-session | In-session (registrazione real-time) | **Esclusivamente Post-sessione** |
-| **Rischio Cognitivo** | [[cognitive-offloading-e-diagnostic-deskilling\|Automation Bias & Deskilling]] | Techno-overload & Perdita presenza | **Stimolo attivo dello sforzo cognitivo** |
-| **Rischio Etico** | [[moral-buffering-e-deskilling-etico\|Moral Buffering & Liability Sink]] | Violazione Privacy / Training Vendor | Piena ownership e validazione umana |
+| **Rischio Cognitivo** | [Automation Bias & Deskilling](cognitive-offloading-e-diagnostic-deskilling.md) | Techno-overload & Perdita presenza | **Stimolo attivo dello sforzo cognitivo** |
+| **Rischio Etico** | [Moral Buffering & Liability Sink](moral-buffering-e-deskilling-etico.md) | Violazione Privacy / Training Vendor | Piena ownership e validazione umana |
 | **Esito Riflessivo** | Chiusura diagnostica passiva | Burocratizzazione del processo | **Apertura interpretativa e supervisione** |
 
 ---
 
 ## Pagine Correlate
-- [[sadar-framework]]
-- [[ai-in-psicoterapia-2023-2026]]
-- [[cognitive-offloading-e-diagnostic-deskilling]]
-- [[moral-buffering-e-deskilling-etico]]
-- [[sindrome-impostore-ia-specifica]]
-- [[supervisione-clinica-ai]]
+- [sadar-framework](sadar-framework.md)
+- [ai-in-psicoterapia-2023-2026](../sintesi/ai-in-psicoterapia-2023-2026.md)
+- [cognitive-offloading-e-diagnostic-deskilling](cognitive-offloading-e-diagnostic-deskilling.md)
+- [moral-buffering-e-deskilling-etico](moral-buffering-e-deskilling-etico.md)
+- [sindrome-impostore-ia-specifica](sindrome-impostore-ia-specifica.md)
+- [supervisione-clinica-ai](supervisione-clinica-ai.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

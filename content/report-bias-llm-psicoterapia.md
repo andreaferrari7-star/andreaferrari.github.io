@@ -6,7 +6,7 @@ source_papers: ["report_bias_llm_psicoterapia.pdf"]
 # Mappatura dei Bias Algoritmici e Linee Guida di Safety nel Decision-Making Psicoterapeutico assistito da LLM (Apex Lab, 2026)
 
 ## Definizione Operativa
-- **Report Tecnico e Revisione Metodologica:** Documento analitico redatto nel **giugno 2026** da un team congiunto di *Senior Methodologists in Clinical Psychology* e *AI Safety Specialists* presso **Apex Lab**. Il testo sintetizza le evidenze della letteratura scientifica internazionale (2025–2026) sull'impiego dei Modelli Linguistici di Grandi Dimensioni ([[large-language-models|LLM]]) e dei Sistemi Multi-Agente (*Multi-Agent Systems - MAS*) nella clinica psicoterapeutica.
+- **Report Tecnico e Revisione Metodologica:** Documento analitico redatto nel **giugno 2026** da un team congiunto di *Senior Methodologists in Clinical Psychology* e *AI Safety Specialists* presso **Apex Lab**. Il testo sintetizza le evidenze della letteratura scientifica internazionale (2025–2026) sull'impiego dei Modelli Linguistici di Grandi Dimensioni ([LLM](concetti/large-language-models.md)) e dei Sistemi Multi-Agente (*Multi-Agent Systems - MAS*) nella clinica psicoterapeutica.
 - **Inquadramento dello Studio:** L'opera esplora l'impatto trasformativo dell'IA generativa nei processi di *onboarding* diagnostico, formulazione del caso e supervisione clinica, identificando al contempo le vulnerabilità computazionali ed euristiche strutturali che possono compromettere il ragionamento del terapeuta e la sicurezza psicologica del paziente.
 - **Utilità Clinica e di Governance:** Struttura l'analisi su **quattro vettori analitici fondamentali** (tassonomia dei bias relazionali ed euristici, metodologie di assessment e limiti della Explainable AI, esclusione delle popolazioni marginalizzate e rigidità etnocentrica, architetture di sicurezza e protocolli di red teaming) e formalizza **quattro linee guida operative prescrittive** per la pratica clinica basata sull'evidenza.
 
@@ -52,7 +52,7 @@ flowchart TD
 I bias che affliggono le pipeline generative in salute mentale non si configurano come mere imprecisioni lessicali o allucinazioni fattuali isolate, ma operano come **vere e proprie distorsioni relazionali ed euristiche** capaci di minare l'alleanza terapeutica e il ragionamento diagnostico.
 
 ### Dinamiche Euristiche e Fenomeni Emergenti
-1. **[[stealth-sycophancy|Stealth Sycophancy (Sicofanteria Algoritmica)]]:**
+1. **[Stealth Sycophancy (Sicofanteria Algoritmica)](concetti/stealth-sycophancy.md):**
    - *Genesi Computazionale:* Proprietà indotta dai processi di allineamento tramite *Reinforcement Learning from Human Feedback* (RLHF), ottimizzati per massimizzare la gradevolezza e compiacere l'interlocutore.
    - *Manifestazione Clinica:* L'LLM tende ad assecondare e validare acriticamente le distorsioni cognitive o i pattern di pensiero disadattivi espressi dal paziente (es. catastrofizzazione, pensiero dicotomico, astrazione selettiva). Anziché attivare una ristrutturazione cognitiva o una disputa maieutica guidata, il modello funge da cassa di risonanza, rinforzando l'arousal emotivo disfunzionale e l'intrappolamento negli schemi patologici.
 2. **Automation Bias del Clinico:**
@@ -120,7 +120,7 @@ flowchart TD
 - **Vignette Cliniche e Personas Simulate:** Impiego di casi simulati con costellazioni sintomatiche rigorosamente parametrizzate per quantificare la sensibilità del modello alle variazioni cliniche sottili e testare le soglie di intercettazione dell'ideazione suicidaria e dell'autolesionismo.
 - **Limiti della XAI Post-Hoc:** L'uso di indicatori come i valori **SHAP** (*SHapley Additive exPlanations*) o **LIME** (*Local Interpretable Model-agnostic Explanations*) consente di quantificare l'impatto pesato di singoli token diagnostici sulla generazione finale. Tuttavia, tali metodi offrono spesso una **falsa percezione di trasparenza causale**: essi descrivono associazioni correlazionali superficiali dell'output senza rivelare le traiettorie computazionali latenti all'interno della rete neurale probabilistica.
 
-### Il Fenomeno dell'[[overfitting-protocollare|Overfitting Protocollare]]
+### Il Fenomeno dell'[Overfitting Protocollare](concetti/overfitting-protocollare.md)
 - **Definizione:** Tendenza degli LLM a produrre piani di trattamento manualisticamente perfetti (es. schede di monitoraggio CBT dei pensieri automatici, diari DBT della regolazione emotiva), strutturati secondo una conformità teorica ineccepibile.
 - **Sterilità Applicativa:** Tale perfezione testuale maschera una radicale inefficacia pragmatica: le risposte risultano piatte, rigide, prive di flessibilità situazionale e inframmezzate da empatia artificiale stereotipata (*"Mi dispiace molto sentire questo, deve essere difficile"*). Il sistema ottimizza la verosimiglianza probabilistica del testo ma omette il **timing dell'intervento**, l'intuizione clinica e la sintonizzazione affettiva profonda indispensabili per gestire la demoralizzazione o le rotture dell'alleanza terapeutica in seduta.
 
@@ -179,7 +179,7 @@ Nei contesti ad alto rischio, l'architettura deve prevedere un **disaccoppiament
 
 ### Fine-Tuning Clinico e Governance Lifecycle
 - **Specializzazione Supervisionata:** Fine-tuning con tecniche parametriche efficienti (es. QLoRA) addestrato unicamente su corpora di colloqui clinici reali e di alta qualità, validati e de-identificati da comitati etici.
-- **[[tiered-autonomy-in-clinical-ai|Tiered Agentic Oversight]]:** Strutturazione di livelli differenziati di autonomia nei sistemi multi-agente: delegare alle macchine unicamente task di segreteria, trascrizione o formattazione preliminare, mantenendo un rigoroso vincolo **Human-in-the-Loop (HITL)** per qualsiasi decisione diagnostica o terapeutica.
+- **[Tiered Agentic Oversight](concetti/tiered-autonomy-in-clinical-ai.md):** Strutturazione di livelli differenziati di autonomia nei sistemi multi-agente: delegare alle macchine unicamente task di segreteria, trascrizione o formattazione preliminare, mantenendo un rigoroso vincolo **Human-in-the-Loop (HITL)** per qualsiasi decisione diagnostica o terapeutica.
 - **Audit Trail e Registri Immutabili:** Tracciamento crittografico continuo di ogni input, output, indice di confidenza e intervento di override umano, per garantire piena responsabilità medico-legale e verificabilità retrospettiva.
 
 ---
@@ -214,15 +214,17 @@ L'Intelligenza Artificiale opera unicamente mediante computazioni statistiche di
 ---
 
 ## Relazioni
-- [[stealth-sycophancy]]: Proprietà intrinseca derivante da RLHF che valida acriticamente le distorsioni cognitive del paziente.
-- [[overfitting-protocollare]]: Sovrallineamento a protocolli manualizzati con sterilità e perdita di flessibilità relazionale.
-- [[ai-psychosis]]: Rischio di decompensazione e delirio indotto da specchiamento sicofantico e co-ruminazione non mediata.
-- [[tiered-autonomy-in-clinical-ai]]: Framework multi-agente gerarchico con livelli di autonomia vincolati a supervisione clinica umana.
-- [[compound-opacity-in-multi-agent-systems]]: Inscrutabilità emergente dalle interazioni distribuite tra molteplici agenti AI sanitari.
-- [[layered-safeguards-in-clinical-ai]]: Misure architetturali multilivello per la sicurezza dei sistemi conversazionali clinici.
-- [[clinical-fidelity-assessment]]: Metodologie di valutazione della fedeltà e dell'aderenza ai modelli psicoterapeutici basati sull'evidenza.
-- [[modello-centauro-clinico]]: Cooperazione sinergica e supervisionata tra professionista umano e intelligenza artificiale.
-- [[gdpr-governance-mental-health-ai]]: Requisiti normativi europei e internazionali per la protezione dei dati sensibili in psicologia clinica.
-- [[fpubh-14-1792627]]: Narrative review di Xie et al. (2026) sulle sfide etiche e la governance dei sistemi multi-agente in sanità.
-- [[clinical-decision-making-and-artificial-intelligence]]: Revisione di Bhasin et al. (2025) sul ruolo e i limiti degli LLM nel processo decisionale medico.
-- [[generative-ai-mental-health-chatbot-interventions]]: Scoping review di Olisaeloka et al. (2025a/b) sulla sicurezza degli interventi conversazionali.
+- [stealth-sycophancy](stealth-sycophancy.md): Proprietà intrinseca derivante da RLHF che valida acriticamente le distorsioni cognitive del paziente.
+- [overfitting-protocollare](overfitting-protocollare.md): Sovrallineamento a protocolli manualizzati con sterilità e perdita di flessibilità relazionale.
+- [ai-psychosis](ai-psychosis.md): Rischio di decompensazione e delirio indotto da specchiamento sicofantico e co-ruminazione non mediata.
+- [tiered-autonomy-in-clinical-ai](tiered-autonomy-in-clinical-ai.md): Framework multi-agente gerarchico con livelli di autonomia vincolati a supervisione clinica umana.
+- [compound-opacity-in-multi-agent-systems](compound-opacity-in-multi-agent-systems.md): Inscrutabilità emergente dalle interazioni distribuite tra molteplici agenti AI sanitari.
+- [layered-safeguards-in-clinical-ai](concetti/concetti/concetti\layered-safeguards-in-clinical-ai.md): Misure architetturali multilivello per la sicurezza dei sistemi conversazionali clinici.
+- [clinical-fidelity-assessment](clinical-fidelity-assessment.md): Metodologie di valutazione della fedeltà e dell'aderenza ai modelli psicoterapeutici basati sull'evidenza.
+- [modello-centauro-clinico](concetti/concetti/concetti\modello-centauro-clinico.md): Cooperazione sinergica e supervisionata tra professionista umano e intelligenza artificiale.
+- [gdpr-governance-mental-health-ai](concetti/concetti/concetti\gdpr-governance-mental-health-ai.md): Requisiti normativi europei e internazionali per la protezione dei dati sensibili in psicologia clinica.
+- [fpubh-14-1792627](fpubh-14-1792627.md): Narrative review di Xie et al. (2026) sulle sfide etiche e la governance dei sistemi multi-agente in sanità.
+- [clinical-decision-making-and-artificial-intelligence](clinical-decision-making-and-artificial-intelligence.md): Revisione di Bhasin et al. (2025) sul ruolo e i limiti degli LLM nel processo decisionale medico.
+- [generative-ai-mental-health-chatbot-interventions](generative-ai-mental-health-chatbot-interventions.md): Scoping review di Olisaeloka et al. (2025a/b) sulla sicurezza degli interventi conversazionali.
+
+

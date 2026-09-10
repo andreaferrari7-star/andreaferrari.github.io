@@ -6,7 +6,7 @@ source_papers: ["main.pdf"]
 # Agenti Conversazionali e LLM per la Digital CBT-I (Cognitive Behavioral Therapy for Insomnia)
 
 ## Definizione Operativa
-- Implementazione di agenti conversazionali intelligenti, modelli fine-tunnati e sistemi di distillazione del ragionamento basati su Large Language Models ([[large-language-models|LLM]]) per l'erogazione interattiva ed ecologica dei protocolli di Terapia Cognitivo-Comportamentale per l'Insonnia (CBT-I) (Mansoor, 2025; Chan et al., 2024).
+- Implementazione di agenti conversazionali intelligenti, modelli fine-tunnati e sistemi di distillazione del ragionamento basati su Large Language Models ([LLM](concetti/large-language-models.md)) per l'erogazione interattiva ed ecologica dei protocolli di Terapia Cognitivo-Comportamentale per l'Insonnia (CBT-I) (Mansoor, 2025; Chan et al., 2024).
 - **Utilità CBT:** Automatizza e personalizza i moduli cardine della CBT-I (restrizione del sonno, controllo dello stimolo, igiene del sonno, ristrutturazione dei pensieri disfunzionali e delle credenze catastrofiche sul mancato riposo), integrando il monitoraggio dinamico delle emozioni autocoscienti (colpa, ansia, frustrazione) e sostenendo l'aderenza tra le sedute in modelli di cura stepped-care o a ridotta disponibilità di psicoterapeuti umani.
 
 ```mermaid
@@ -62,4 +62,7 @@ flowchart TD
 - Zheng, H., Xing, X., & Xu, X. (2024). SleepCoT: a lightweight personalized sleep health model via chain-of-thought distillation. *arXiv preprint arXiv:2410.16924*. https://doi.org/10.48550/arXiv.2410.16924
 
 ## Relazioni
-- Vedi anche: [[main]], [[personal-sleep-wellness-llm]], [[cbt-dialogue-systems-and-tools]], [[conceptual-architecture-of-ai-guided-cbt]], [[ai-enhanced-cbt]], [[ai-supported-between-session-engagement]], [[simulated-therapeutic-alliance]], [[stepped-care-ai-integration]]
+- Vedi anche: [main](main.md), [personal-sleep-wellness-llm](personal-sleep-wellness-llm.md), [cbt-dialogue-systems-and-tools](concetti/concetti/concetti\cbt-dialogue-systems-and-tools.md), [conceptual-architecture-of-ai-guided-cbt](concetti/concetti/concetti\conceptual-architecture-of-ai-guided-cbt.md), [ai-enhanced-cbt](concetti/concetti/concetti\concetti/concetti\ai-enhanced-cbt.md), [ai-supported-between-session-engagement](ai-supported-between-session-engagement.md), [simulated-therapeutic-alliance](simulated-therapeutic-alliance.md), [stepped-care-ai-integration](concetti/stepped-care-ai-integration.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

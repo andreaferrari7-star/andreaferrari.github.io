@@ -78,9 +78,10 @@ Un dato cruciale emerso dall'umbrella review di Huynh et al. (2026) riguarda la 
 ---
 
 ## Relazioni
-- [[huynh-et-al-2026]]
-- [[healthcare-conversational-agents]]
-- [[ai-assisted-psychotherapy]]
-- [[augmented-psychotherapy]]
-- [[digital-therapeutic-alliance]]
-- [[human-in-the-reasoning]]
+- [huynh-et-al-2026](../sintesi/huynh-et-al-2026.md)
+- [healthcare-conversational-agents](concetti/concetti\healthcare-conversational-agents.md)
+- [ai-assisted-psychotherapy](../ai-assisted-psychotherapy.md)
+- [augmented-psychotherapy](../augmented-psychotherapy.md)
+- [digital-therapeutic-alliance](../digital-therapeutic-alliance.md)
+- [human-in-the-reasoning](human-in-the-reasoning.md)
+

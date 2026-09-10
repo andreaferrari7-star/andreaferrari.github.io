@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Continuità Tra le Sedute e Mediazione dei Confini Temporali
 
 **Summary**: Funzione di mediazione contestuale e relazionale (Stadio 4, Quan et al., 2025) in cui l'IA agisce come ponte asincrono tra una seduta di psicoterapia e la successiva, rispondendo al bisogno di presenza continuativa dei pazienti vulnerabili senza violare i confini professionali e il carico di lavoro del terapeuta.
@@ -58,9 +62,12 @@ L'IA opera come un **mediatore di confine contestuale e relazionale**, assumendo
 
 ---
 ## Concetti Correlati
-- [[dynamic-boundary-mediation-framework]]
-- [[boundary-objects-in-psychotherapy]]
-- [[negotiable-data-visibility-privacy]]
-- [[contextualized-relational-memory]]
-- [[blended-care-ai-framework]]
-- [[acute-crisis-action-plans-ai]]
+- [dynamic-boundary-mediation-framework](dynamic-boundary-mediation-framework.md)
+- [boundary-objects-in-psychotherapy](boundary-objects-in-psychotherapy.md)
+- [negotiable-data-visibility-privacy](negotiable-data-visibility-privacy.md)
+- [contextualized-relational-memory](contextualized-relational-memory.md)
+- [blended-care-ai-framework](blended-care-ai-framework.md)
+- [acute-crisis-action-plans-ai](acute-crisis-action-plans-ai.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

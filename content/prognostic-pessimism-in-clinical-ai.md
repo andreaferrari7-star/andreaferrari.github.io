@@ -6,7 +6,7 @@ source_papers: ["mental-v12-e81204.pdf"]
 # Prognostic Pessimism in Clinical AI (Pessimismo Prognostico nell'Intelligenza Artificiale Clinica)
 
 ## Definizione Operativa
-- Il costrutto di **Prognostic Pessimism in Clinical AI** (Pessimismo Prognostico dell'IA Clinica) definisce la tendenza sistematica ed empiricamente replicata dei modelli linguistici di grandi dimensioni ([[large-language-models|LLM]]), in particolare della famiglia ChatGPT (GPT-3.5 e GPT-4), a formulare previsioni cliniche sul decorso e sulla guarigione da disturbi mentali marcatamente più negative, infauste e cronificanti rispetto a quelle espresse da clinici umani (psichiatri e psicologi) o stimate da modelli statistici longitudinali (Balan & Gumpel, 2025; *JMIR Mental Health*, doi: [10.2196/81204](https://doi.org/10.2196/81204); Elyoseph, Levkovich & Shinan-Altman, 2024; Elyoseph & Levkovich, 2024; Levkovich, 2025).
+- Il costrutto di **Prognostic Pessimism in Clinical AI** (Pessimismo Prognostico dell'IA Clinica) definisce la tendenza sistematica ed empiricamente replicata dei modelli linguistici di grandi dimensioni ([LLM](concetti/large-language-models.md)), in particolare della famiglia ChatGPT (GPT-3.5 e GPT-4), a formulare previsioni cliniche sul decorso e sulla guarigione da disturbi mentali marcatamente più negative, infauste e cronificanti rispetto a quelle espresse da clinici umani (psichiatri e psicologi) o stimate da modelli statistici longitudinali (Balan & Gumpel, 2025; *JMIR Mental Health*, doi: [10.2196/81204](https://doi.org/10.2196/81204); Elyoseph, Levkovich & Shinan-Altman, 2024; Elyoseph & Levkovich, 2024; Levkovich, 2025).
 - **Rilevanza Clinica e Rischio Iatrogeno:**
   - Nella psicoterapia evidence-based e nel modello delle fasi di cambiamento (Howard et al., 1986), l'instillazione della speranza e l'aspettativa positiva (*remoralization*) costituiscono il primo fattore comune predittivo di esito favorevole;
   - Se un paziente in condizioni di vulnerabilità o distress riceve da un chatbot una prognosi iper-pessimistica, l'interazione può innescare **demoralizzazione iatrogena** (*treatment demoralization*), senso di impotenza appresa (*learned helplessness*) ed effetto nocebo, inducendo disinvestimento emotivo o abbandono precoce del trattamento (*drop-out*).
@@ -112,7 +112,7 @@ Per neutralizzare l'impatto iatrogeno del pessimismo prognostico, Balan & Gumpel
 1. **Divieto di Erogazione Prognostica Standalone:** I sistemi di IA non devono formulare stime prognostiche percentualistiche o predizioni di decorso direttamente all'utente finale;
 2. **Calibrazione su Dati Longitudinali del Mondo Reale:** I moduli predittivi devono essere addestrati e calibrati su registri clinici longitudinali di popolazione (*Electronic Health Records* rappresentativi di cure primarie e secondarie), superando il bias della letteratura accademica pato-centrica;
 3. **Recovery-Oriented Prompting:** Implementazione di prompt di sistema che vincolino l'output del modello a inquadrare la prognosi entro i paradigmi di *recovery*, sottolineando la plasticità del cambiamento e la pluralità dei percorsi terapeutici disponibili;
-4. **Preservazione del [[modello-centauro-clinico|Modello Centauro]]:** La comunicazione della prognosi e il contenimento dell'angoscia sul futuro devono rimanere una prerogativa esclusiva del clinico umano, capace di dosare speranza e realismo all'interno della relazione terapeutica.
+4. **Preservazione del [Modello Centauro](concetti/concetti/concetti\modello-centauro-clinico.md):** La comunicazione della prognosi e il contenimento dell'angoscia sul futuro devono rimanere una prerogativa esclusiva del clinico umano, capace di dosare speranza e realismo all'interno della relazione terapeutica.
 
 ---
 
@@ -127,10 +127,12 @@ Per neutralizzare l'impatto iatrogeno del pessimismo prognostico, Balan & Gumpel
 ---
 
 ## Relazioni
-- [[mental-v12-e81204]]: Scoping review di Balan & Gumpel (2025) su 60 studi empirici di ChatGPT in salute mentale.
-- [[prompt-experiment-gap-in-clinical-ai]]: Divario tra sperimentazioni su prompt sintetici e validazione clinica su pazienti reali.
-- [[clinical-readiness-gap-in-mh-chatbots]]: Divario tra scorrevolezza testuale ed evidenze di efficacia terapeutica controllata.
-- [[modello-centauro-clinico]]: Preservazione del ruolo ermeneutico e relazionale del terapeuta umano.
-- [[sycophantic-mirroring]]: Rischio opposto di compiacenza illusoria nei modelli linguistici.
-- [[digital-therapeutic-alliance]]: Costruzione dell'alleanza di lavoro e instillazione della speranza terapeutica.
-- [[care-continuum-ai-functions-mental-health]]: Mappatura delle funzioni algoritmiche lungo il continuum di cura.
+- [mental-v12-e81204](mental-v12-e81204.md): Scoping review di Balan & Gumpel (2025) su 60 studi empirici di ChatGPT in salute mentale.
+- [prompt-experiment-gap-in-clinical-ai](prompt-experiment-gap-in-clinical-ai.md): Divario tra sperimentazioni su prompt sintetici e validazione clinica su pazienti reali.
+- [clinical-readiness-gap-in-mh-chatbots](concetti/concetti/concetti\clinical-readiness-gap-in-mh-chatbots.md): Divario tra scorrevolezza testuale ed evidenze di efficacia terapeutica controllata.
+- [modello-centauro-clinico](concetti/concetti/concetti\modello-centauro-clinico.md): Preservazione del ruolo ermeneutico e relazionale del terapeuta umano.
+- [sycophantic-mirroring](concetti/concetti/concetti\sycophantic-mirroring.md): Rischio opposto di compiacenza illusoria nei modelli linguistici.
+- [digital-therapeutic-alliance](digital-therapeutic-alliance.md): Costruzione dell'alleanza di lavoro e instillazione della speranza terapeutica.
+- [care-continuum-ai-functions-mental-health](care-continuum-ai-functions-mental-health.md): Mappatura delle funzioni algoritmiche lungo il continuum di cura.
+
+

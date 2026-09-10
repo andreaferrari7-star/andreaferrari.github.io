@@ -176,10 +176,13 @@ flowchart TD
 
 ## Related pages
 
-- [[main-1]]
-- [[uso-problematico-chatbot-ai]]
-- [[cognitive-debt-in-generative-ai]]
-- [[large-language-models]]
-- [[anthropomorphism-in-ai]]
-- [[quattro-condizioni-liceita-ia-psicologia]]
-- [[modello-centauro-clinico]]
+- [main-1](main-1.md)
+- [uso-problematico-chatbot-ai](uso-problematico-chatbot-ai.md)
+- [cognitive-debt-in-generative-ai](cognitive-debt-in-generative-ai.md)
+- [large-language-models](large-language-models.md)
+- [anthropomorphism-in-ai](anthropomorphism-in-ai.md)
+- [quattro-condizioni-liceita-ia-psicologia](quattro-condizioni-liceita-ia-psicologia.md)
+- [modello-centauro-clinico](concetti/concetti/concetti\modello-centauro-clinico.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

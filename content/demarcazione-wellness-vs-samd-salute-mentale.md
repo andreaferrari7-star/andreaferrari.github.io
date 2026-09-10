@@ -6,7 +6,7 @@ source_papers: ["Normativa LLM Psicologia in Italia.pdf"]
 # Demarcazione tra Applicativi Wellness e Software as a Medical Device (SaMD) in Salute Mentale
 
 ## Definizione Operativa
-- Criterio regolatorio (Reg. UE 2017/745, MDCG 2019-11, AI Act) che distingue i software di benessere generale (*lifestyle/wellness*) dagli applicativi che inferiscono condizioni patologiche o forniscono indicazioni terapeutiche, qualificando questi ultimi come Software as a Medical Device ([[software-as-a-medical-device-salute-mentale|SaMD]]) soggetti a marcatura CE obbligatoria (Classe IIa o superiore).
+- Criterio regolatorio (Reg. UE 2017/745, MDCG 2019-11, AI Act) che distingue i software di benessere generale (*lifestyle/wellness*) dagli applicativi che inferiscono condizioni patologiche o forniscono indicazioni terapeutiche, qualificando questi ultimi come Software as a Medical Device ([SaMD](software-as-a-medical-device-salute-mentale.md)) soggetti a marcatura CE obbligatoria (Classe IIa o superiore).
 - **Utilità CBT:** Consente al terapeuta cognitivo-comportamentale di discernere quali strumenti digitali (app di tracciamento dell'umore, chatbot di supporto o moduli di rilassamento) possano essere legittimamente raccomandati come ausili di benessere, e quali configurino invece dispositivi medici non autorizzati o illeciti se privi di marcatura CE.
 
 ```mermaid
@@ -60,4 +60,7 @@ flowchart TD
 ---
 
 ## Relazioni
-- Vedi anche: [[normativa-llm-psicologia-in-italia]], [[software-as-a-medical-device-salute-mentale]], [[responsabilita-sanitaria-allucinazioni-algoritmiche]], [[quattro-condizioni-liceita-ia-psicologia]], [[health-advisory-ai-chatbots-wellness-apps-mental-health]], [[digital-therapeutic-alliance]], [[human-oversight-and-liability-in-clinical-ai]], [[guida-pratica-ai-oppv-1]]
+- Vedi anche: [normativa-llm-psicologia-in-italia](normativa-llm-psicologia-in-italia.md), [software-as-a-medical-device-salute-mentale](software-as-a-medical-device-salute-mentale.md), [responsabilita-sanitaria-allucinazioni-algoritmiche](responsabilita-sanitaria-allucinazioni-algoritmiche.md), [quattro-condizioni-liceita-ia-psicologia](quattro-condizioni-liceita-ia-psicologia.md), [health-advisory-ai-chatbots-wellness-apps-mental-health](health-advisory-ai-chatbots-wellness-apps-mental-health.md), [digital-therapeutic-alliance](digital-therapeutic-alliance.md), [human-oversight-and-liability-in-clinical-ai](human-oversight-and-liability-in-clinical-ai.md), [guida-pratica-ai-oppv-1](guida-pratica-ai-oppv-1.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

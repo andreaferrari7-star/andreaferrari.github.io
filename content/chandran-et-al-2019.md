@@ -17,4 +17,5 @@ source_papers: ["Chandran_D_et_al_NLP_for_OCS_in_SMI_Scientific_Reports_author_a
 - Chandran, D., Ahn, D. Y., Chang, C.-K., Shetty, H., Sanyal, J., Downs, J. M., Fok, M., Ball, M., Jackson, R. G., Stewart, R., Cohen, H., Vermeulen, J. M., Schirmbeck, F., de Haan, L., & Hayes, R. (2019). Use of Natural Language Processing to identify Obsessive Compulsive Symptoms in patients with schizophrenia, schizoaffective disorder or bipolar disorder. *Scientific Reports*.
 
 ## Relazioni
-- Vedi anche: [[nlp-ehr-ocs-detection]]
+- Vedi anche: [nlp-ehr-ocs-detection](concetti/nlp-ehr-ocs-detection.md)
+

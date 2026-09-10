@@ -64,8 +64,9 @@ graph TD
 ---
 
 ## Relazioni
-- [[huynh-et-al-2026]]
-- [[healthcare-conversational-agents]]
-- [[addiction-lifestyle-behavior-change]]
-- [[ai-clinical-decision-support]]
-- [[digital-therapeutic-alliance]]
+- [huynh-et-al-2026](../sintesi/huynh-et-al-2026.md)
+- [healthcare-conversational-agents](concetti/concetti\healthcare-conversational-agents.md)
+- [addiction-lifestyle-behavior-change](addiction-lifestyle-behavior-change.md)
+- [ai-clinical-decision-support](ai-clinical-decision-support.md)
+- [digital-therapeutic-alliance](../digital-therapeutic-alliance.md)
+

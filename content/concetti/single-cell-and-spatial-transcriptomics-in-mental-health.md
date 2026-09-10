@@ -82,8 +82,11 @@ Studi di associazione sull'intero trascrittoma a singolo nucleo (*single-nucleus
 ---
 
 ## Relazioni nel Knowledge Base
-- [[wang-dwivedi-2025]]: Sintesi sistematica della review di riferimento.
-- [[multi-omics-depression-suicide]]: Integrazione di dati a singola cellula con GWAS ed epigenomica.
-- [[non-coding-rna-biomarkers-psychiatry]]: Localizzazione sinaptica e cellulare degli RNA non codificanti.
-- [[ai-multi-omics-psychiatric-biomarkers]]: Algoritmi di apprendimento e clustering per dati a singola cellula.
-- [[peripheral-blood-biomarkers-and-exosomes-in-mdd]]: Validazione periferica di alterazioni cellulari centrali.
+- [wang-dwivedi-2025](../sintesi/wang-dwivedi-2025.md): Sintesi sistematica della review di riferimento.
+- [multi-omics-depression-suicide](multi-omics-depression-suicide.md): Integrazione di dati a singola cellula con GWAS ed epigenomica.
+- [non-coding-rna-biomarkers-psychiatry](non-coding-rna-biomarkers-psychiatry.md): Localizzazione sinaptica e cellulare degli RNA non codificanti.
+- [ai-multi-omics-psychiatric-biomarkers](ai-multi-omics-psychiatric-biomarkers.md): Algoritmi di apprendimento e clustering per dati a singola cellula.
+- [peripheral-blood-biomarkers-and-exosomes-in-mdd](peripheral-blood-biomarkers-and-exosomes-in-mdd.md): Validazione periferica di alterazioni cellulari centrali.
+
+## Riferimenti Bibliografici
+- [Da integrare]

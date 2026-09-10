@@ -12,7 +12,7 @@ source_papers: ["2512.22462v1.pdf"]
 
 ## Inquadramento e Razionale Teorico
 
-Nella letteratura sulla salute mentale digitale, i sistemi basati su **Intelligenza Artificiale Generativa e [[large-language-models|LLM]]** sono stati prevalentemente concettualizzati secondo due paradigmi contrapposti:
+Nella letteratura sulla salute mentale digitale, i sistemi basati su **Intelligenza Artificiale Generativa e [LLM](../concetti/large-language-models.md)** sono stati prevalentemente concettualizzati secondo due paradigmi contrapposti:
 1. **Strumenti amministrativo-diagnostici per il terapeuta**: Sistemi passivi dedicati all'elaborazione di note, screening o supporto decisionale.
 2. **Agenti terapeutici autonomi / Self-help tools**: Piattaforme basate su CBT dialogica (es. Woebot, Wysa) operanti indipendentemente dalla relazione interpersonale tra clinico e paziente.
 
@@ -176,14 +176,17 @@ flowchart TD
 
 ---
 ## Concetti Correlati
-- [[dynamic-boundary-mediation-framework]]
-- [[boundary-objects-in-psychotherapy]]
-- [[educator-burden-marginalized-clients]]
-- [[negotiable-data-visibility-privacy]]
-- [[contextualized-relational-memory]]
-- [[between-session-continuity-ai]]
-- [[interazione-triadica-terapeuta-paziente-ia]]
-- [[ai-mental-health-vulnerable-populations]]
-- [[simulated-empathy-vs-authentic-presence]]
-- [[genuineness-gap]]
-- [[weird-bias-cultural-adaptability-ai]]
+- [dynamic-boundary-mediation-framework](../dynamic-boundary-mediation-framework.md)
+- [boundary-objects-in-psychotherapy](../boundary-objects-in-psychotherapy.md)
+- [educator-burden-marginalized-clients](../concetti/educator-burden-marginalized-clients.md)
+- [negotiable-data-visibility-privacy](../concetti/negotiable-data-visibility-privacy.md)
+- [contextualized-relational-memory](../concetti/contextualized-relational-memory.md)
+- [between-session-continuity-ai](../concetti/between-session-continuity-ai.md)
+- [interazione-triadica-terapeuta-paziente-ia](../concetti/interazione-triadica-terapeuta-paziente-ia.md)
+- [ai-mental-health-vulnerable-populations](../concetti/ai-mental-health-vulnerable-populations.md)
+- [simulated-empathy-vs-authentic-presence](../concetti/concetti/concetti\simulated-empathy-vs-authentic-presence.md)
+- [genuineness-gap](../genuineness-gap.md)
+- [weird-bias-cultural-adaptability-ai](../concetti/weird-bias-cultural-adaptability-ai.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

@@ -17,7 +17,7 @@ La salute mentale rappresenta una delle principali emergenze globali del XXI sec
 - Lo **stigma sociale** impedisce a circa il **60% dei soggetti bisognosi** di rivolgersi a un terapeuta di persona;
 - La pratica convenzionale rimane ancorata a procedure di *trial-and-error* farmacologico e risorse umane sature.
 
-In questo scenario, le tecnologie di **Intelligenza Artificiale (IA)** — attraverso [[natural-language-processing|NLP]], machine learning, deep learning e sensori biometrici — offrono strumenti scalabili a basso costo e disponibili h24. Tuttavia, l'assenza di standard regolatori stringenti espone i pazienti a rischi critici di violazione della privacy, discriminazione algoritmica (*bias*) ed erosione dell'autonomia decisionale.
+In questo scenario, le tecnologie di **Intelligenza Artificiale (IA)** — attraverso [NLP](../concetti/natural-language-processing.md), machine learning, deep learning e sensori biometrici — offrono strumenti scalabili a basso costo e disponibili h24. Tuttavia, l'assenza di standard regolatori stringenti espone i pazienti a rischi critici di violazione della privacy, discriminazione algoritmica (*bias*) ed erosione dell'autonomia decisionale.
 
 La review sistematica di **Moustafa Elmetwaly Kandeel e colleghi (Al Ain University, University of Sharjah, Tanta University, UAE University, Institute of Public Administration Riyadh, 2026)** analizza lo stato dell'arte su 35 studi empirici pubblicati tra il 2013 e il 2024, integrando i risultati clinici con i vincoli del **GDPR europeo (Artt. 5 e 9)**, dell'**HIPAA statunitense**, dell'**EU AI Act (2024)** e degli standard **FDA SaMD**.
 
@@ -243,13 +243,15 @@ flowchart LR
 
 ## Pagine e Concetti Correlati
 
-- [[gdpr-governance-mental-health-ai]]: I vincoli del GDPR (Artt. 5 e 9), consenso esplicito, minimizzazione e rischi di commercializzazione dei dati clinici.
-- [[federated-learning-and-differential-privacy-mental-health]]: Tecniche di tutela avanzata della privacy (apprendimento federato e rumore differenziale) per la salute mentale.
-- [[algorithmic-paternalism-in-ai-mental-health]]: Il conflitto tra automazione algoritmica, delega decisionale e preservazione dell'agency e autonomia del paziente.
-- [[multimodal-diagnostic-ai-mental-health]]: Architetture diagnostiche ibride (NLP, wearables, neuroimaging, cartelle cliniche elettroniche).
-- [[cross-cultural-bias-and-fairness-audits-ai]]: Analisi e mitigazione dei bias etnici, linguistici e culturali nei modelli predittivi psichiatrici.
-- [[software-as-a-medical-device-salute-mentale]]: Standard regolatori e percorsi di validazione clinica per algoritmi e dispositivi SaMD.
-- [[explainable-mental-disorder-diagnosis]]: Metodologie XAI (LIME, SHAP) per la trasparenza e l'adozione fiduciaria da parte di clinici e pazienti.
-- [[three-layer-governance-framework]]: Modello strutturato a tre livelli per la sicurezza tecnica, la governance clinica e la regolamentazione istituzionale.
-- [[etica-privacy-bias-ia-clinica]]: Fondamenti deontologici e rischi di violazione della riservatezza nell'IA applicata alla psicoterapia.
-- [[evidence-adoption-gap-ai-mental-health]]: Il divario tra la proliferazione commerciale di app e la reale validazione empirica evidence-based.
+- [gdpr-governance-mental-health-ai](../concetti/concetti/concetti\gdpr-governance-mental-health-ai.md): I vincoli del GDPR (Artt. 5 e 9), consenso esplicito, minimizzazione e rischi di commercializzazione dei dati clinici.
+- [federated-learning-and-differential-privacy-mental-health](../concetti/federated-learning-and-differential-privacy-mental-health.md): Tecniche di tutela avanzata della privacy (apprendimento federato e rumore differenziale) per la salute mentale.
+- [algorithmic-paternalism-in-ai-mental-health](../concetti/concetti/concetti\algorithmic-paternalism-in-ai-mental-health.md): Il conflitto tra automazione algoritmica, delega decisionale e preservazione dell'agency e autonomia del paziente.
+- [multimodal-diagnostic-ai-mental-health](../concetti/multimodal-diagnostic-ai-mental-health.md): Architetture diagnostiche ibride (NLP, wearables, neuroimaging, cartelle cliniche elettroniche).
+- [cross-cultural-bias-and-fairness-audits-ai](../concetti/cross-cultural-bias-and-fairness-audits-ai.md): Analisi e mitigazione dei bias etnici, linguistici e culturali nei modelli predittivi psichiatrici.
+- [software-as-a-medical-device-salute-mentale](../software-as-a-medical-device-salute-mentale.md): Standard regolatori e percorsi di validazione clinica per algoritmi e dispositivi SaMD.
+- [explainable-mental-disorder-diagnosis](../concetti/explainable-mental-disorder-diagnosis.md): Metodologie XAI (LIME, SHAP) per la trasparenza e l'adozione fiduciaria da parte di clinici e pazienti.
+- [three-layer-governance-framework](../concetti/concetti/concetti\three-layer-governance-framework.md): Modello strutturato a tre livelli per la sicurezza tecnica, la governance clinica e la regolamentazione istituzionale.
+- [etica-privacy-bias-ia-clinica](../concetti/etica-privacy-bias-ia-clinica.md): Fondamenti deontologici e rischi di violazione della riservatezza nell'IA applicata alla psicoterapia.
+- [evidence-adoption-gap-ai-mental-health](../concetti/evidence-adoption-gap-ai-mental-health.md): Il divario tra la proliferazione commerciale di app e la reale validazione empirica evidence-based.
+
+

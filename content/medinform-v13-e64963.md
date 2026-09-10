@@ -15,5 +15,6 @@ source_papers: ["medinform-v13-e64963.pdf"]
 - Shan, G., Chen, X., Wang, C., Liu, L., Gu, Y., Jiang, H., & Shi, T. (2025). Comparing Diagnostic Accuracy of Clinical Professionals and Large Language Models: Systematic Review and Meta-Analysis. *JMIR Medical Informatics*, 13, e64963. https://doi.org/10.2196/64963
 
 ## Relazioni
-- Vedi anche: [[diagnostic-accuracy-gap-llm-vs-physicians]], [[multimodal-diagnostic-paradox-in-llms]], [[single-correct-answer-fallacy-in-clinical-ai]], [[modello-centauro-clinico]]
+- Vedi anche: [diagnostic-accuracy-gap-llm-vs-physicians](concetti/concetti/concetti\diagnostic-accuracy-gap-llm-vs-physicians.md), [multimodal-diagnostic-paradox-in-llms](multimodal-diagnostic-paradox-in-llms.md), [single-correct-answer-fallacy-in-clinical-ai](single-correct-answer-fallacy-in-clinical-ai.md), [modello-centauro-clinico](concetti/concetti/concetti\modello-centauro-clinico.md)
+
 

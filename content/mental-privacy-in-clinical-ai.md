@@ -95,4 +95,5 @@ L'APA Health Advisory formula specifiche prescrizioni per garantire la protezion
 ---
 
 ## Relazioni
-- Concetti e fonti collegate: [[health-advisory-ai-chatbots-wellness-apps-mental-health]], [[single-person-echo-chambers]], [[gdpr-governance-mental-health-ai]], [[software-as-a-medical-device-salute-mentale]], [[emotional-infrastructure]], [[artificial-intimacy]], [[uso-problematico-chatbot-ai]], [[human-oversight-and-liability-in-clinical-ai]], [[pediatric-ai-bias-and-vulnerabilities]], [[open-weight-privacy-compliant-synthesis]]
+- Concetti e fonti collegate: [health-advisory-ai-chatbots-wellness-apps-mental-health](health-advisory-ai-chatbots-wellness-apps-mental-health.md), [single-person-echo-chambers](single-person-echo-chambers.md), [gdpr-governance-mental-health-ai](concetti/concetti/concetti\gdpr-governance-mental-health-ai.md), [software-as-a-medical-device-salute-mentale](software-as-a-medical-device-salute-mentale.md), [emotional-infrastructure](emotional-infrastructure.md), [artificial-intimacy](artificial-intimacy.md), [uso-problematico-chatbot-ai](uso-problematico-chatbot-ai.md), [human-oversight-and-liability-in-clinical-ai](human-oversight-and-liability-in-clinical-ai.md), [pediatric-ai-bias-and-vulnerabilities](pediatric-ai-bias-and-vulnerabilities.md), [open-weight-privacy-compliant-synthesis](open-weight-privacy-compliant-synthesis.md)
+

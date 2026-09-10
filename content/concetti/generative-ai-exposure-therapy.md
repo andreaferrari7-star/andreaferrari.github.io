@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Generative AI-based Exposure Visualization in Trauma Therapy
 
 **Summary**: Applicazione dell'Intelligenza Artificiale Generativa (Diffusion Models, GAN, VAE) per la sintesi rapida e a basso costo di stimoli visivi 2D e 3D personalizzati nella psicoterapia di esposizione, superando i limiti di costo e tempo della Virtual Reality Exposure Therapy (VRET) convenzionale e supportando il recupero di memorie amnesiche nel CPTSD.
@@ -55,9 +59,12 @@ Il paziente non è un fruitore passivo di uno scenario predefinito, ma partecipa
 ---
 
 ## Related pages
-- [[degenhard-et-al-2025]]
-- [[rischi-esposizione-cptsd-ia]]
-- [[interazione-triadica-terapeuta-paziente-ia]]
-- [[distorsione-memoria-imagery-rescripting-ia]]
-- [[ai-assisted-psychotherapy]]
-- [[human-in-the-reasoning]]
+- [degenhard-et-al-2025](../sintesi/degenhard-et-al-2025.md)
+- [rischi-esposizione-cptsd-ia](rischi-esposizione-cptsd-ia.md)
+- [interazione-triadica-terapeuta-paziente-ia](interazione-triadica-terapeuta-paziente-ia.md)
+- [distorsione-memoria-imagery-rescripting-ia](distorsione-memoria-imagery-rescripting-ia.md)
+- [ai-assisted-psychotherapy](../ai-assisted-psychotherapy.md)
+- [human-in-the-reasoning](human-in-the-reasoning.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Framework STAMP-LLM (Standardized Test & Assessment Measurement Protocol for LLMs)
 
 **Summary**: Framework metodologico strutturato in due macro-fasi (Fase Definitoria e Fase Dati/Analisi) e 5 passaggi sequenziali, ideato per progettare, calibrare e validare psicometricamente strumenti di valutazione e misurazione dei bias e delle proprietà cognitive specificamente concepiti per i Large Language Models, superando i limiti del trasferimento diretto di test per umani.
@@ -7,7 +11,7 @@
 
 ## Premessa Epistemologica: Il Limite del Trasferimento Diretto
 
-La ricerca nella cosiddetta *Machine Psychology* ([[machine-psychology]]) ha frequentemente tentato di quantificare bias cognitivi, etici e sociali negli LLM ([[large-language-models]]) somministrando acriticamente strumenti psicometrici creati per soggetti umani (es. *Implicit Association Test*, *Cognitive Reflection Test*, *Modern Racism Scale*). 
+La ricerca nella cosiddetta *Machine Psychology* ([machine-psychology](../machine-psychology.md)) ha frequentemente tentato di quantificare bias cognitivi, etici e sociali negli LLM ([large-language-models](../large-language-models.md)) somministrando acriticamente strumenti psicometrici creati per soggetti umani (es. *Implicit Association Test*, *Cognitive Reflection Test*, *Modern Racism Scale*). 
 
 Questo approccio incorre in una grave vulnerabilità metodologica:
 1. **Assunzione di Invarianza di Misura**: Si assume implicitamente che un test standardizzato per la cognizione biologica umana misuri lo stesso costrutto latente quando somministrato a un'architettura probabilistica di predizione token.
@@ -84,11 +88,13 @@ STAMP-LLM stabilisce standard precisi per la pubblicazione e condivisione di stu
 ---
 
 ## Related pages
-- [[benosman-2025]]: Sintesi del paper fondativo di STAMP-LLM applicato al bias razziale.
-- [[validita-psicometrica-llm]]: Il paradosso tra affidabilità test-retest e validità convergente negli LLM.
-- [[misurazione-bias-razziale-llm]]: Metodologie esplicite e implicite per la quantificazione dei pregiudizi razziali nell'IA.
-- [[audit-bias-llm-clinici]]: Metodologie di auditing e benchmark per bias etici e clinici.
-- [[machine-psychology]]: La disciplina emergente dell'indagine psicologica sui modelli linguistici.
-- [[pmv-framework]]: Framework di validità di misurazione psicometrica per l'IA.
-- [[measurement-phantoms]]: Costrutti fantasma derivanti da vizi di misurazione negli LLM.
-- [[pseudoreplication]]: Errori di campionamento e pseudo-replicazione nelle valutazioni dell'IA.
+- [benosman-2025](../sintesi/benosman-2025.md): Sintesi del paper fondativo di STAMP-LLM applicato al bias razziale.
+- [validita-psicometrica-llm](concetti/concetti\validita-psicometrica-llm.md): Il paradosso tra affidabilità test-retest e validità convergente negli LLM.
+- [misurazione-bias-razziale-llm](concetti/concetti\misurazione-bias-razziale-llm.md): Metodologie esplicite e implicite per la quantificazione dei pregiudizi razziali nell'IA.
+- [audit-bias-llm-clinici](concetti/concetti\audit-bias-llm-clinici.md): Metodologie di auditing e benchmark per bias etici e clinici.
+- [machine-psychology](../machine-psychology.md): La disciplina emergente dell'indagine psicologica sui modelli linguistici.
+- [pmv-framework](../pmv-framework.md): Framework di validità di misurazione psicometrica per l'IA.
+- [measurement-phantoms](../measurement-phantoms.md): Costrutti fantasma derivanti da vizi di misurazione negli LLM.
+- [pseudoreplication](../pseudoreplication.md): Errori di campionamento e pseudo-replicazione nelle valutazioni dell'IA.
+
+

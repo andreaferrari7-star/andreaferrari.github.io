@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Intervention Titration in AI Support (Titolazione dell'Intervento Terapeutico nell'IA)
 
 **Summary**: Principio di design interattivo per la salute mentale digitale mutuato dalla titolazione farmacologica in psichiatria: processo iterativo e collaborativo per regolare l'orientamento teorico, il tono e il livello di approfondimento dell'intervento di supporto dell'IA in base al feedback continuo dell'utente, evitando il sovraccarico cognitivo derivante dall'esposizione grezza delle tracce Chain-of-Thought (CoT).
@@ -47,11 +51,14 @@ Nel paradigma dell'Interpretabilità Riflessiva (Pendse et al., 2026), la titola
 ---
 
 ## Pagine Correlate
-- [[reflective-interpretability]]
-- [[pendse-et-al-2026]]
-- [[role-induction-ai-mental-health]]
-- [[prosocial-advance-directives]]
-- [[recourse-mechanisms-ai-mental-health]]
-- [[psychological-distress-interaction-patterns]]
-- [[calibrated-mismatches]]
-- [[weird-bias-cultural-adaptability-ai]]
+- [reflective-interpretability](reflective-interpretability.md)
+- [pendse-et-al-2026](../sintesi/pendse-et-al-2026.md)
+- [role-induction-ai-mental-health](role-induction-ai-mental-health.md)
+- [prosocial-advance-directives](prosocial-advance-directives.md)
+- [recourse-mechanisms-ai-mental-health](recourse-mechanisms-ai-mental-health.md)
+- [psychological-distress-interaction-patterns](psychological-distress-interaction-patterns.md)
+- [calibrated-mismatches](concetti/concetti\calibrated-mismatches.md)
+- [weird-bias-cultural-adaptability-ai](weird-bias-cultural-adaptability-ai.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

@@ -26,4 +26,5 @@ source_papers:
 
 ## Relazioni
 
-- Vedi anche: [[applied-theory-of-mind-llm]], [[stamp-llm-framework]], [[psychometric-jailbreaks]], [[measurement-phantoms]], [[validita-psicometrica-llm]]
+- Vedi anche: [applied-theory-of-mind-llm](applied-theory-of-mind-llm.md), [stamp-llm-framework](concetti/concetti/concetti\stamp-llm-framework.md), [psychometric-jailbreaks](concetti/psychometric-jailbreaks.md), [measurement-phantoms](measurement-phantoms.md), [validita-psicometrica-llm](concetti/concetti/concetti\validita-psicometrica-llm.md)
+

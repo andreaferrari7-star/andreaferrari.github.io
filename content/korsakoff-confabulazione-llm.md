@@ -7,7 +7,7 @@ source_papers: ["Clinical_AI_Cognitive_Assessment.pdf", "ELEVATE-GenAI2025.pdf"]
 
 ## Definizione Operativa
 
-- La **Confabulazione di Tipo Korsakoff negli LLM** è un'analogia neuropsicologica ed epistemologica utilizzata nell'[[assessment-cognitivo-ai|Assessment Cognitivo dell'AI]] per descrivere la propensione intrinseca dei [[large-language-models]] a colmare lacune informative, ambiguità contestuali o assenza di dati empirici generando narrazioni, diagnosi o riferimenti bibliografici **sintatticamente ineccepibili, altamente plausibili ma completamente privi di fondamento reale**.
+- La **Confabulazione di Tipo Korsakoff negli LLM** è un'analogia neuropsicologica ed epistemologica utilizzata nell'[Assessment Cognitivo dell'AI](concetti/assessment-cognitivo-ai.md) per descrivere la propensione intrinseca dei [large-language-models](large-language-models.md) a colmare lacune informative, ambiguità contestuali o assenza di dati empirici generando narrazioni, diagnosi o riferimenti bibliografici **sintatticamente ineccepibili, altamente plausibili ma completamente privi di fondamento reale**.
 - **La Dissociazione Cardine: Accuratezza vs Fattualità:**
   - **Accuratezza (Accuracy):** Misura della correttezza formale, coerenza grammaticale, eleganza stilistica e fluidità espositiva del testo generato rispetto alle regole del linguaggio naturale.
   - **Fattualità (Factuality):** Grado di riscontro empirico, verità clinico-biomedica oggettiva e corrispondenza veritiera con i dati anamnestici, nosografici o sperimentali del mondo reale (ELEVATE-GenAI, 2025).
@@ -61,7 +61,7 @@ flowchart LR
     Reality["Mondo Reale Empirico<br/>(Corpo, Dolore, Tempo, Morte)"] -.->|Nessun Collegamento Ontologico| Matrix
 ```
 
-Il framework internazionale **[[elevate-genai2025-1|ELEVATE-GenAI]]** (ISPOR Working Group, 2025) formalizza la scomposizione della validità scientifica dell'output generativo in tre parametri distinti: Accuratezza, Esaustività e Fattualità.
+Il framework internazionale **[ELEVATE-GenAI](concetti/elevate-genai2025-1.md)** (ISPOR Working Group, 2025) formalizza la scomposizione della validità scientifica dell'output generativo in tre parametri distinti: Accuratezza, Esaustività e Fattualità.
 
 **Riferimenti Bibliografici:**
 - ISPOR Working Group (2025). *ELEVATE-GenAI: Framework for Clinical AI Assessment*.
@@ -69,12 +69,15 @@ Il framework internazionale **[[elevate-genai2025-1|ELEVATE-GenAI]]** (ISPOR Wor
 
 ## Relazioni
 
-- [[clinical-ai-cognitive-assessment]] - Sintesi della Masterclass sull'assessment cognitivo dell'AI e superamento dell'illusione relazionale.
-- [[diagnosis-of-thought-framework]] - Framework DoT per il disaccoppiamento tra fatti empirici e inferenze cliniche nel prompting.
-- [[elevate-genai2025-1]] - Linee guida ISPOR con standardizzazione della triade Accuratezza, Esaustività e Fattualità.
-- [[large-language-models]] - Architettura tecnica, next-token prediction e limiti probabilistici.
-- [[anthropomorphism-in-ai]] - Effetto ELIZA e sovrastima delle facoltà cognitive degli algoritmi.
-- [[simulated-empathy-vs-authentic-presence]] - Distinzione tra simulazione linguistica e presenza empatica reale.
-- [[mind-safe-framework]] - Architettura a guardrails per l'intercettazione dei rischi e la messa in sicurezza dei flussi clinici.
-- [[coast-framework-clinical-prompting]] - Strutturazione del prompt clinico per vincolare il ragionamento ed evitare allucinazioni.
-- [[modello-centauro-clinico]] - Modello integrato di supervisione clinica uomo-macchina.
+- [clinical-ai-cognitive-assessment](clinical-ai-cognitive-assessment.md) - Sintesi della Masterclass sull'assessment cognitivo dell'AI e superamento dell'illusione relazionale.
+- [diagnosis-of-thought-framework](diagnosis-of-thought-framework.md) - Framework DoT per il disaccoppiamento tra fatti empirici e inferenze cliniche nel prompting.
+- [elevate-genai2025-1](elevate-genai2025-1.md) - Linee guida ISPOR con standardizzazione della triade Accuratezza, Esaustività e Fattualità.
+- [large-language-models](large-language-models.md) - Architettura tecnica, next-token prediction e limiti probabilistici.
+- [anthropomorphism-in-ai](anthropomorphism-in-ai.md) - Effetto ELIZA e sovrastima delle facoltà cognitive degli algoritmi.
+- [simulated-empathy-vs-authentic-presence](concetti/concetti/concetti\simulated-empathy-vs-authentic-presence.md) - Distinzione tra simulazione linguistica e presenza empatica reale.
+- [mind-safe-framework](concetti/mind-safe-framework.md) - Architettura a guardrails per l'intercettazione dei rischi e la messa in sicurezza dei flussi clinici.
+- [coast-framework-clinical-prompting](concetti/concetti/concetti\coast-framework-clinical-prompting.md) - Strutturazione del prompt clinico per vincolare il ragionamento ed evitare allucinazioni.
+- [modello-centauro-clinico](concetti/concetti/concetti\modello-centauro-clinico.md) - Modello integrato di supervisione clinica uomo-macchina.
+
+## Riferimenti Bibliografici
+- [Da integrare]

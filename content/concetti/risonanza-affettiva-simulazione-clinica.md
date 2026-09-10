@@ -13,7 +13,7 @@ title: "Risonanza Affettiva e Dinamiche Emotive nella Simulazione Clinica"
 
 ## Il Problema della Validità Emotiva nella Simulazione Clinica
 
-Perché una simulazione di colloquio clinico mediata da [[large-language-models]] (LLM) sia pedagogicamente utile, la plausibilità conversazionale non è sufficiente. Un paziente virtuale non deve limitarsi a recitare parole chiave sintomatologiche (es. ripetere "tristezza" o "paura"), ma deve esibire **firme emotive psicologicamente coerenti e disturbo-congruenti** che si sviluppano lungo l'interazione (Rizzi et al., 2026).
+Perché una simulazione di colloquio clinico mediata da [large-language-models](../large-language-models.md) (LLM) sia pedagogicamente utile, la plausibilità conversazionale non è sufficiente. Un paziente virtuale non deve limitarsi a recitare parole chiave sintomatologiche (es. ripetere "tristezza" o "paura"), ma deve esibire **firme emotive psicologicamente coerenti e disturbo-congruenti** che si sviluppano lungo l'interazione (Rizzi et al., 2026).
 
 Al contempo, il terapeuta non può rimanere emotivamente indifferente: la relazione terapeutica umana si fonda sull'**attunement affettivo** (*sintonizzazione*), in cui il clinico percepisce lo stato emotivo del paziente, lo accoglie e lo rispecchia in una forma **attenuata, calda e regolata**, fornendo una base sicura di fiducia (*trust*) e prospettiva costruttiva (*anticipation*).
 
@@ -87,9 +87,12 @@ graph LR
 ---
 
 ## Relazioni
-- [[mymentorllm-framework]]: L'ambiente di simulazione in cui operano le dinamiche affettive.
-- [[deliberate-practice-in-psicoterapia-ia]]: Addestramento alla regolazione e sintonizzazione emotiva.
-- [[native-speech-vs-text-in-clinical-simulation]]: Come la voce nativa trasmette prosodia e sfumature affettive.
-- [[simulated-empathy-vs-authentic-presence]]: Distinzione tra risonanza computazionale e autentica presenza clinica.
-- [[calibrated-mismatches]]: Il bilanciamento tra sintonizzazione emotiva e perturbazione strategica.
-- [[rizzi-et-al-2026]]: Studio di riferimento sulle firme emozionali simulate.
+- [mymentorllm-framework](mymentorllm-framework.md): L'ambiente di simulazione in cui operano le dinamiche affettive.
+- [deliberate-practice-in-psicoterapia-ia](deliberate-practice-in-psicoterapia-ia.md): Addestramento alla regolazione e sintonizzazione emotiva.
+- [native-speech-vs-text-in-clinical-simulation](native-speech-vs-text-in-clinical-simulation.md): Come la voce nativa trasmette prosodia e sfumature affettive.
+- [simulated-empathy-vs-authentic-presence](concetti/concetti\simulated-empathy-vs-authentic-presence.md): Distinzione tra risonanza computazionale e autentica presenza clinica.
+- [calibrated-mismatches](concetti/concetti\calibrated-mismatches.md): Il bilanciamento tra sintonizzazione emotiva e perturbazione strategica.
+- [rizzi-et-al-2026](../sintesi/rizzi-et-al-2026.md): Studio di riferimento sulle firme emozionali simulate.
+
+## Riferimenti Bibliografici
+- [Da integrare]

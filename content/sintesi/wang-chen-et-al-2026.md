@@ -14,7 +14,7 @@ source_papers: ["2601.10970v2.pdf"]
 
 La terapia di coppia rappresenta uno degli ambiti clinici più complessi e ad alto carico emotivo della salute mentale, focalizzandosi sulla risoluzione dei conflitti, sul miglioramento della soddisfazione relazionale e sulla crescita psicologica della diade. Tuttavia, la formazione specialistica in questo settore incontra ostacoli strutturali:
 1. **Limiti del Role-Play Tradizionale**: La simulazione tra pari con supervisori (*peer role-play*) è costosa, richiede la disponibilità continuativa di colleghi e supervisori esperti e spesso manca del realismo, dell'intensità affettiva e dell'imprevedibilità dei conflitti di coppia reali.
-2. **Limiti dei Simulatori di Pazienti Virtuali Esistenti**: I precedenti simulatori basati su Large Language Models ([[large-language-models]]) come *Roleplay-doh*, *PATIENT-$\psi$* e *Scaffolding Empathy* sono focalizzati esclusivamente su interazioni diadiche 1-a-1 (un solo paziente simulato) e su prompt statici.
+2. **Limiti dei Simulatori di Pazienti Virtuali Esistenti**: I precedenti simulatori basati su Large Language Models ([large-language-models](../large-language-models.md)) come *Roleplay-doh*, *PATIENT-$\psi$* e *Scaffolding Empathy* sono focalizzati esclusivamente su interazioni diadiche 1-a-1 (un solo paziente simulato) e su prompt statici.
 3. **Mancanza di Dinamiche Multipartitiche e Interdipendenti**: Nella terapia di coppia il terapeuta non interagisce con un singolo individuo, ma deve monitorare contemporaneamente due partner che si influenzano a vicenda in tempo reale (ad es. la critica di un partner scatena il ritiro difensivo dell'altro). I semplici prompt di sistema tendono a soffrire di deriva comportamentale (*behavioral drift*) e perdita di consistenza del ruolo nei dialoghi prolungati.
 
 Per superare queste limitazioni, **Wang, Chen et al. (Carnegie Mellon University, 2026)** introducono un'architettura multi-agente e multimodale che modella la seduta di coppia come un **processo dinamico controllato a stadi**.
@@ -230,12 +230,15 @@ Il differenziale di realismo tra sistema sperimentale e baseline si è rivelato 
 
 ## Relazioni e Concetti Correlati
 
-- [[sense-plan-act-therapy-simulation]]: Approfondimento sull'architettura Sense-Plan-Act e sullo stage-controller dinamico per simulazioni cliniche.
-- [[demand-withdraw-multi-agent-dynamics]]: Dettaglio della modellizzazione computazionale del ciclo conflittuale Demand-Withdraw tra agenti virtuali.
-- [[multi-party-interaction-simulation]]: Analisi delle sfide e metodologie di simulazione multipartitica e turn-taking triadico con LLM.
-- [[therapeutic-enactment-simulation]]: Il processo di Enactment e la transizione da rabbia reattiva ad affettività vulnerabile primaria.
-- [[stage-structured-dialogue-control]]: Tecniche di controllo strutturato a stadi per prevenire il behavioral drift nei sistemi multi-agente.
-- [[simulazione-pazienti-ai]]: Quadro generale sulla simulazione di pazienti mediante intelligenza artificiale.
-- [[clinical-fidelity-assessment]]: Metriche di fedeltà clinica, role-fidelity e stage-fidelity negli agenti LLM.
-- [[simulated-empathy-vs-authentic-presence]]: Risonanza empatica e limiti dell'autenticità nell'IA psicoterapeutica.
-- [[reverse-training-simulazione]]: Metodologie di addestramento inverso e simulazione per la formazione professionale.
+- [sense-plan-act-therapy-simulation](../concetti/sense-plan-act-therapy-simulation.md): Approfondimento sull'architettura Sense-Plan-Act e sullo stage-controller dinamico per simulazioni cliniche.
+- [demand-withdraw-multi-agent-dynamics](../demand-withdraw-multi-agent-dynamics.md): Dettaglio della modellizzazione computazionale del ciclo conflittuale Demand-Withdraw tra agenti virtuali.
+- [multi-party-interaction-simulation](../multi-party-interaction-simulation.md): Analisi delle sfide e metodologie di simulazione multipartitica e turn-taking triadico con LLM.
+- [therapeutic-enactment-simulation](../concetti/therapeutic-enactment-simulation.md): Il processo di Enactment e la transizione da rabbia reattiva ad affettività vulnerabile primaria.
+- [stage-structured-dialogue-control](../concetti/stage-structured-dialogue-control.md): Tecniche di controllo strutturato a stadi per prevenire il behavioral drift nei sistemi multi-agente.
+- [simulazione-pazienti-ai](../simulazione-pazienti-ai.md): Quadro generale sulla simulazione di pazienti mediante intelligenza artificiale.
+- [clinical-fidelity-assessment](../clinical-fidelity-assessment.md): Metriche di fedeltà clinica, role-fidelity e stage-fidelity negli agenti LLM.
+- [simulated-empathy-vs-authentic-presence](../concetti/concetti/concetti\simulated-empathy-vs-authentic-presence.md): Risonanza empatica e limiti dell'autenticità nell'IA psicoterapeutica.
+- [reverse-training-simulazione](../reverse-training-simulazione.md): Metodologie di addestramento inverso e simulazione per la formazione professionale.
+
+## Riferimenti Bibliografici
+- [Da integrare]

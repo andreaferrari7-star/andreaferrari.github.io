@@ -142,11 +142,14 @@ sequenceDiagram
 
 ## Voci Correlate nella Knowledge Base
 
-- [[safety-mechanisms-ai-chatbots|Safety Mechanisms and Risk Mitigation in Generative AI Mental Health Chatbots (Olisaeloka et al., 2026)]]
-- [[layered-safeguards-in-clinical-ai|Layered Safeguards in Clinical AI]]
-- [[adverse-event-monitoring-in-clinical-ai|Adverse Event Monitoring in Clinical AI]]
-- [[generative-ai-mental-health-chatbot-interventions|Generative AI Mental Health Chatbot Interventions (Olisaeloka et al., 2026)]]
-- [[relational-engagement-paradox-genai|Relational-Engagement Paradox in GenAI]]
-- [[software-as-a-medical-device-salute-mentale|Software as a Medical Device (SaMD) in Salute Mentale]]
-- [[demarcazione-wellness-vs-samd-salute-mentale|Demarcazione Wellness vs SaMD in Salute Mentale]]
-- [[configurazione-sicurezza-piattaforme-ia-clinica|Configurazione di Sicurezza per Piattaforme di IA Clinica]]
+- [Safety Mechanisms and Risk Mitigation in Generative AI Mental Health Chatbots (Olisaeloka et al., 2026)](concetti/safety-mechanisms-ai-chatbots.md)
+- [Layered Safeguards in Clinical AI](concetti/concetti/concetti\layered-safeguards-in-clinical-ai.md)
+- [Adverse Event Monitoring in Clinical AI](concetti/adverse-event-monitoring-in-clinical-ai.md)
+- [Generative AI Mental Health Chatbot Interventions (Olisaeloka et al., 2026)](concetti/generative-ai-mental-health-chatbot-interventions.md)
+- [Relational-Engagement Paradox in GenAI](relational-engagement-paradox-genai.md)
+- [Software as a Medical Device (SaMD) in Salute Mentale](software-as-a-medical-device-salute-mentale.md)
+- [Demarcazione Wellness vs SaMD in Salute Mentale](concetti/demarcazione-wellness-vs-samd-salute-mentale.md)
+- [Configurazione di Sicurezza per Piattaforme di IA Clinica](concetti/configurazione-sicurezza-piattaforme-ia-clinica.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

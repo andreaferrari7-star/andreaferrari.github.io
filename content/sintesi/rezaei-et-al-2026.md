@@ -174,15 +174,18 @@ graph LR
 
 ## Pagine Correlate e Concetti
 
-- [[network-based-ai-mental-healthcare]]
-- [[specialized-nlp-models-mental-health]]
-- [[mental-health-chatbot-taxonomy]]
-- [[ieacp-canada-protocol-ethical-frameworks]]
-- [[weird-bias-cultural-adaptability-ai]]
-- [[conversational-agents-mental-health]]
-- [[algorithmic-bias-and-digital-inequalities]]
-- [[etica-privacy-bias-ia-clinica]]
-- [[rischio-suicidario-ai-limits]]
-- [[stepped-care-ai-integration]]
-- [[huynh-et-al-2026]]
-- [[erdemir-sumbas-2026]]
+- [network-based-ai-mental-healthcare](../concetti/network-based-ai-mental-healthcare.md)
+- [specialized-nlp-models-mental-health](../concetti/specialized-nlp-models-mental-health.md)
+- [mental-health-chatbot-taxonomy](../concetti/mental-health-chatbot-taxonomy.md)
+- [ieacp-canada-protocol-ethical-frameworks](../concetti/ieacp-canada-protocol-ethical-frameworks.md)
+- [weird-bias-cultural-adaptability-ai](../concetti/weird-bias-cultural-adaptability-ai.md)
+- [conversational-agents-mental-health](../concetti/conversational-agents-mental-health.md)
+- [algorithmic-bias-and-digital-inequalities](../concetti/algorithmic-bias-and-digital-inequalities.md)
+- [etica-privacy-bias-ia-clinica](../concetti/etica-privacy-bias-ia-clinica.md)
+- [rischio-suicidario-ai-limits](../concetti/rischio-suicidario-ai-limits.md)
+- [stepped-care-ai-integration](../concetti/stepped-care-ai-integration.md)
+- [huynh-et-al-2026](huynh-et-al-2026.md)
+- [erdemir-sumbas-2026](erdemir-sumbas-2026.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

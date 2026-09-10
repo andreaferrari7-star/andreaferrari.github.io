@@ -6,7 +6,7 @@ source_papers: ["s41746-026-02886-x_reference.pdf"]
 # Vantaggio Multimodale negli Agenti Conversazionali per la Depressione (Multimodal Advantage in AI Mental Health)
 
 ## Definizione Operativa
-- Il **Vantaggio Multimodale negli Agenti Conversazionali per la Depressione** (*Multimodal Advantage in Conversational AI for Depression*) è un principio empirico e clinico formalizzato dalla meta-analisi di **Hang et al. (2026)** su *npj Digital Medicine*, che dimostra come gli agenti conversazionali guidati da intelligenza artificiale ([[large-language-models|NLP]]) che integrano **molteplici canali di interazione sincronizzati (testo, voce naturale, stimoli visivi e avatar interattivi)** ottengano una riduzione dei sintomi depressivi significativamente superiore rispetto ai sistemi puramente unimodali (solo testo o solo voce).
+- Il **Vantaggio Multimodale negli Agenti Conversazionali per la Depressione** (*Multimodal Advantage in Conversational AI for Depression*) è un principio empirico e clinico formalizzato dalla meta-analisi di **Hang et al. (2026)** su *npj Digital Medicine*, che dimostra come gli agenti conversazionali guidati da intelligenza artificiale ([NLP](large-language-models.md)) che integrano **molteplici canali di interazione sincronizzati (testo, voce naturale, stimoli visivi e avatar interattivi)** ottengano una riduzione dei sintomi depressivi significativamente superiore rispetto ai sistemi puramente unimodali (solo testo o solo voce).
 - **Evidenze Quantitative di Moderazione:**
   - **Agenti Multimodali ($N=2$ trial):** $\text{Hedges } g = 0.82$ ($95\%\text{ CI } [0.54, 1.09]$, $P < .001$), indicando un'efficacia terapeutica di magnitudo **ampia**;
   - **Agenti Unimodali Testuali/Vocali ($N=11$ trial):** $\text{Hedges } g = 0.24$ ($95\%\text{ CI } [0.12, 0.36]$, $P < .001$), indicando un'efficacia **piccola-modesta**;
@@ -40,7 +40,7 @@ flowchart TD
 ### 1. Presenza Sociale Percepita e Risonanza Affettiva (*Social Presence*)
 - La depressione maggiore e i quadri depressivi subclinici sono caratterizzati da alterazioni profonde nei circuiti di ricompensa sociale, ritiro interpersonale e sentimenti pervasivi di isolamento (*social disconnection* e solitudine; Hames et al., 2013).
 - Mentre una chat puramente testuale richiede un atto volitivo di lettura e scrittura che può risultare cognitivamente affaticante (*text fatigue*) per un paziente con rallentamento psicomotorio, un'**interfaccia multimodale** (voce calda e modulata, animazioni visive empatiche, avatar relazionali incarnati) attiva risposte neurobiologiche di **presenza sociale percepita** (*social presence*; Cho, 2019; Loveys et al., 2022).
-- L'utente non percepisce il sistema come un freddo motore di ricerca di protocolli, ma come un'entità responsiva presente (*embodied conversational companion*), amplificando l'[[digital-therapeutic-alliance|alleanza terapeutica digitale]].
+- L'utente non percepisce il sistema come un freddo motore di ricerca di protocolli, ma come un'entità responsiva presente (*embodied conversational companion*), amplificando l'[Alleanza Terapeutica Digitale](digital-therapeutic-alliance.md).
 
 ### 2. Teoria della Doppia Codifica e Riduzione del Carico di Decodifica
 - In accordo con la *Dual-Coding Theory* (Paivio) e la teoria del carico cognitivo multimediale (Mayer), l'erogazione simultanea di informazioni terapeutiche tramite **canale uditivo-vocale** (intonazione, ritmo empatico) e **canale visivo-grafico** (schemi di ristrutturazione cognitiva, feedback visivi dell'umore) ottimizza la capacità di elaborazione della memoria di lavoro.
@@ -48,7 +48,7 @@ flowchart TD
 
 ### 3. Specificità per la Depressione vs Invarianza nell'Ansia
 - Curiosamente, Hang et al. (2026) e le evidenze correlate (Feng et al., 2025) rilevano che il vantaggio multimodale è marcatamente evidente nei **sintomi depressivi**, mentre non modifica sostanzialmente gli esiti su ansia generalizzata e stress.
-- **Spiegazione:** L'ansia clinica è guidata da iper-arousal fisiologico e condizionamenti di paura che richiedono protocolli mirati di [[exposure-therapy-deficit-in-mental-health-ai|esposizione comportamentale enterocettiva o in vivo]], indipendentemente dalla ricchezza visiva o vocale dell'interfaccia; al contrario, la depressione risponde primariamente alla rottura del circolo di isolamento e anedonia, terreno in cui la ricchezza sensoriale esplica il suo massimo impatto terapeutico.
+- **Spiegazione:** L'ansia clinica è guidata da iper-arousal fisiologico e condizionamenti di paura che richiedono protocolli mirati di [esposizione comportamentale enterocettiva o in vivo](exposure-therapy-deficit-in-mental-health-ai.md), indipendentemente dalla ricchezza visiva o vocale dell'interfaccia; al contrario, la depressione risponde primariamente alla rottura del circolo di isolamento e anedonia, terreno in cui la ricchezza sensoriale esplica il suo massimo impatto terapeutico.
 
 ---
 
@@ -74,10 +74,13 @@ flowchart TD
 ---
 
 ## Pagine e Concetti Correlati
-- [[s41746-026-02886-x-reference|The Effectiveness of CBT-Based NLP-Enabled AI Conversational Agents (Hang et al., 2026)]]
-- [[psychoeducation-dilution-effect-in-ai|Effetto Diluizione della Psicoeducazione negli Agenti Conversazionali]]
-- [[exposure-therapy-deficit-in-mental-health-ai|Deficit di Esposizione Comportamentale nell'IA per la Salute Mentale]]
+- [The Effectiveness of CBT-Based NLP-Enabled AI Conversational Agents (Hang et al., 2026)](s41746-026-02886-x-reference.md)
+- [Effetto Diluizione della Psicoeducazione negli Agenti Conversazionali](psychoeducation-dilution-effect-in-ai.md)
+- [Deficit di Esposizione Comportamentale nell'IA per la Salute Mentale](exposure-therapy-deficit-in-mental-health-ai.md)
 - [[digital-therapeutic-alliance|Alleanza Terapeutica Digitale]]
-- [[retrieval-vs-generative-clinical-chatbots|Sistemi di Recupero vs Architetture Generative in Sanità Mentale]]
-- [[subclinical-depression-window-of-opportunity|Finestra di Opportunità Subclinica nell'IA]]
-- [[jmir-v27i1e69639|Efficacia degli Agenti Conversazionali AI per la Salute Mentale Giovanile (Feng et al., 2025)]]
+- [Sistemi di Recupero vs Architetture Generative in Sanità Mentale](retrieval-vs-generative-clinical-chatbots.md)
+- [Finestra di Opportunità Subclinica nell'IA](subclinical-depression-window-of-opportunity.md)
+- [Efficacia degli Agenti Conversazionali AI per la Salute Mentale Giovanile (Feng et al., 2025)](jmir-v27i1e69639.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

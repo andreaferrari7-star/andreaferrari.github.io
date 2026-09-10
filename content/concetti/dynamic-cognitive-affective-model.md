@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Modello Cognitivo-Affettivo Dinamico (Dynamic Cognitive-Affective Model for Simulated Patients)
 
 **Summary**: Architettura computazionale a 5 stadi (Appraisal, State Update, Belief Formation, Emotion Regulation, Response Formulation) integrata in agenti LLM tramite Chain-of-Thought prompting per simulare con realismo psicologico l'evoluzione degli stati interni, delle credenze e delle reazioni emotive dei pazienti durante la psicoterapia.
@@ -72,8 +76,11 @@ L'agente sintetizza tutti i passaggi interni per generare la risposta verbale es
 ---
 
 ## Concetti Correlati
-- [[automated-clinical-ai-red-teaming]] — Metodologia di red teaming clinico basata su questo modello
-- [[ai-psychosis]] — Fenomeno di deterioramento psicologico tracciabile tramite la pipeline
-- [[four-stage-simulation-cycle]] — Il ciclo di simulazione multi-sessione in cui il modello è inserito
-- [[simpatient-evaluation-testbed]] — Sistema SimPatient per l'addestramento e la valutazione clinica
-- [[risk-ontology-ai-psychotherapy]] — Ontologia dei costrutti e dei segnali di allarme
+- [automated-clinical-ai-red-teaming](automated-clinical-ai-red-teaming.md) — Metodologia di red teaming clinico basata su questo modello
+- [ai-psychosis](ai-psychosis.md) — Fenomeno di deterioramento psicologico tracciabile tramite la pipeline
+- [four-stage-simulation-cycle](four-stage-simulation-cycle.md) — Il ciclo di simulazione multi-sessione in cui il modello è inserito
+- [simpatient-evaluation-testbed](simpatient-evaluation-testbed.md) — Sistema SimPatient per l'addestramento e la valutazione clinica
+- [risk-ontology-ai-psychotherapy](concetti/concetti\risk-ontology-ai-psychotherapy.md) — Ontologia dei costrutti e dei segnali di allarme
+
+## Riferimenti Bibliografici
+- [Da integrare]

@@ -20,5 +20,6 @@ source_papers: ["2511.22818v1.pdf", "2512.05836v1.pdf", "2510.03913v1.pdf"]
 - Kumar, V., Rajawat, P. S., & Ntoutsi, E. (2025). Mitigating semantic drift: Evaluating LLMs' efficacy in psychotherapy through MI dialogue summarization. *arXiv preprint arXiv:2511.22818v1*.
 
 ## Relazioni 
-- Vedi anche: [[semantic-drift-in-therapy-llms]], [[process-based-therapy]], [[on-device-slm-mental-health]]
+- Vedi anche: [semantic-drift-in-therapy-llms](concetti/semantic-drift-in-therapy-llms.md), [process-based-therapy](concetti/process-based-therapy.md), [on-device-slm-mental-health](concetti/on-device-slm-mental-health.md)
+
 

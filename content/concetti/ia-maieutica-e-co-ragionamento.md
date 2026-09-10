@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # IA Maieutica e Co-Ragionamento
 
 **Summary**: Paradigma pedagogico e clinico che impiega l'intelligenza artificiale non come fornitore passivo di soluzioni rapide, ma come interlocutore maieutico e socratico volto ad allungare il processo di riflessione critica, prevenire l'over-confidence e gestire i bias cognitivi.
@@ -9,7 +13,7 @@
 
 Nell'interazione convenzionale con i Large Language Model, l'utente tende a ricercare **scorciatoie cognitive** (*cognitive shortcuts*): risposte immediate, sintesi preconfezionate o soluzioni pronte all'uso.
 
-Nel contesto della formazione clinica e specialistica in psicoterapia (es. con [[libet-prime]]), tale dinamica risulta disfunzionale ed epistemologicamente rischiosa, poiché rischia di atrofizzare le competenze di ragionamento clinico autonomo (*skill atrophy*).
+Nel contesto della formazione clinica e specialistica in psicoterapia (es. con [libet-prime](concetti/concetti\libet-prime.md)), tale dinamica risulta disfunzionale ed epistemologicamente rischiosa, poiché rischia di atrofizzare le competenze di ragionamento clinico autonomo (*skill atrophy*).
 
 L'**IA Maieutica** inverte questo paradigma:
 - L'agente non "chiude" la questione con una diagnosi o una risposta categorica su dati clinici complessi.
@@ -47,17 +51,20 @@ L'interazione tra clinico (o allievo) e agente intelligente solleva specifiche s
 
 ## Integrazione con lo Human-in-the-Reasoning
 
-L'approccio maieutico è la declinazione operativa del paradigma [[human-in-the-reasoning]]:
+L'approccio maieutico è la declinazione operativa del paradigma [human-in-the-reasoning](human-in-the-reasoning.md):
 - **Non sostituzione della responsabilità**: La responsabilità clinica rimane interamente in capo al terapeuta e all'allievo.
 - **Esplicitazione dell'albero inferenziale**: L'allievo impara a decostruire i propri passi logici (perché sceglie una determinata tecnica? Su quali dati si fonda l'ipotesi di piano disfunzionale?), sviluppando una solida competenza metacognitiva indispensabile per la pratica clinica.
 
 ---
 
 ## Related pages
-- [[human-in-the-reasoning]]
-- [[libet-prime]]
-- [[trainer-simulator]]
-- [[testing-e-validazione-agenti-didattici]]
-- [[07-10_Riunione_Test_Valutazione_Libet_Prime]]
-- [[digital-therapeutic-alliance]]
-- [[ai-research-ethics]]
+- [human-in-the-reasoning](human-in-the-reasoning.md)
+- [libet-prime](concetti/concetti\libet-prime.md)
+- [trainer-simulator](trainer-simulator.md)
+- [testing-e-validazione-agenti-didattici](testing-e-validazione-agenti-didattici.md)
+- [07-10_Riunione_Test_Valutazione_Libet_Prime](../sintesi/07-10_Riunione_Test_Valutazione_Libet_Prime.md)
+- [digital-therapeutic-alliance](../digital-therapeutic-alliance.md)
+- [ai-research-ethics](../ai-research-ethics.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

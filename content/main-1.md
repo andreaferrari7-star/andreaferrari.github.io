@@ -15,4 +15,5 @@ source_papers: ["main (1).pdf"]
 - Liao, H.-Y., Ko, C.-H., & Yen, C.-F. (2026). Problematic ChatGPT Use: Manifestations, Etiologies, and Evaluation. *Biomedical Journal*, 49(1), 100998. https://doi.org/10.1016/j.bj.2026.100998
 
 ## Relazioni
-- Vedi anche: [[uso-problematico-chatbot-ai]], [[cognitive-debt-in-generative-ai]], [[psychometric-assessment-problematic-ai-use]], [[anthropomorphism-in-ai]], [[large-language-models]]
+- Vedi anche: [uso-problematico-chatbot-ai](uso-problematico-chatbot-ai.md), [cognitive-debt-in-generative-ai](cognitive-debt-in-generative-ai.md), [psychometric-assessment-problematic-ai-use](psychometric-assessment-problematic-ai-use.md), [anthropomorphism-in-ai](anthropomorphism-in-ai.md), [large-language-models](large-language-models.md)
+

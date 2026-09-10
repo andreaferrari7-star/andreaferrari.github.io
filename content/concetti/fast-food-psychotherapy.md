@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Fast-Food Psychotherapy e Circuiti della Ricompensa Dopaminergica
 
 **Summary**: Concettualizzazione clinica e neurobiologica del rischio di dipendenza comportamentale generato dall'interazione con chatbot di IA: l'immediatezza h24 e la disponibilità continua attivano le vie dopaminergiche mesocorticolimbiche, inducendo craving e uso compulsivo a scapito dell'autonomia e della profondità riflessiva.
@@ -62,9 +66,12 @@ Studi di neuroimaging (Zhang et al., 2025; Cavalera et al., 2026) dimostrano che
 ---
 
 ## Pagine Correlate
-- [[cavalera-et-al-2026]]
-- [[calibrated-mismatches]]
-- [[sycophantic-mirroring]]
-- [[uso-problematico-chatbot-ai]]
-- [[stepped-care-ai-integration]]
-- [[digital-therapeutic-alliance]]
+- [cavalera-et-al-2026](../sintesi/cavalera-et-al-2026.md)
+- [calibrated-mismatches](concetti/concetti\calibrated-mismatches.md)
+- [sycophantic-mirroring](concetti/concetti\sycophantic-mirroring.md)
+- [uso-problematico-chatbot-ai](uso-problematico-chatbot-ai.md)
+- [stepped-care-ai-integration](stepped-care-ai-integration.md)
+- [digital-therapeutic-alliance](../digital-therapeutic-alliance.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

@@ -7,7 +7,7 @@ source_papers: ["2603.27146v3.pdf"]
 
 ## Definizione Operativa
 
-- **Metodologia avanzata di supervisione del ragionamento** per [[large-language-models]] introdotta da Heng Wang et al. (UIUC, 2026), progettata per la formulazione strutturata di proposte di ricerca e piani metodologici complessi.
+- **Metodologia avanzata di supervisione del ragionamento** per [large-language-models](large-language-models.md) introdotta da Heng Wang et al. (UIUC, 2026), progettata per la formulazione strutturata di proposte di ricerca e piani metodologici complessi.
 - **Meccanismo Computazionale:** Supera sia la generazione diretta senza ragionamento (*Direct SFT*) sia il classico Chain-of-Thought monolitico posizionato in blocco unico prima dell'output (*Monolithic CoT*). Lo **Stepwise CoT SFT** scompone il processo ideativo e di pianificazione in **tre stadi sequenziali interleavati**, in cui ciascuna fase di ragionamento critico genera direttamente la rispettiva sezione strutturata della proposta:
   1. *Stage 1 (Problem Identification & Gap Analysis)* $\to$ Genera **Research Question + Hypothesis**;
   2. *Stage 2 (Method Design Reasoning & Inspiration Borrowing)* $\to$ Genera **Proposed Method + Novelty Claims**;
@@ -117,4 +117,5 @@ Le proposte generate con Stepwise CoT sono risultate sufficientemente dettagliat
 ---
 
 ## Relazioni
-- Vedi anche: [[2603-27146v3]], [[future-alignment-score]], [[time-sliced-scientific-forecasting]], [[hypothesis-generation]], [[hybrid-ai-research-workflows]], [[prompting-in-psychology]], [[large-language-models]], [[therapeutic-reasoning-paths]], [[wang-et-al-2026]]
+- Vedi anche: [2603-27146v3](2603-27146v3.md), [future-alignment-score](future-alignment-score.md), [time-sliced-scientific-forecasting](time-sliced-scientific-forecasting.md), [hypothesis-generation](hypothesis-generation.md), [hybrid-ai-research-workflows](hybrid-ai-research-workflows.md), [prompting-in-psychology](prompting-in-psychology.md), [large-language-models](large-language-models.md), [therapeutic-reasoning-paths](therapeutic-reasoning-paths.md), [wang-et-al-2026](wang-et-al-2026.md)
+

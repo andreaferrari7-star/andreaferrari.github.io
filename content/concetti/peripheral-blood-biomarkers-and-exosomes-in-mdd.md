@@ -89,10 +89,13 @@ L'isolamento di **vescicole extracellulari derivate dal cervello (*Brain-Derived
 ---
 
 ## Relazioni nel Knowledge Base
-- [[wang-dwivedi-2025]]: Sintesi sistematica della review di riferimento.
-- [[multi-omics-depression-suicide]]: Integrazione di trascrittoma, metiloma e proteomica.
-- [[non-coding-rna-biomarkers-psychiatry]]: Profili di miRNA, lncRNA e circRNA circolanti.
-- [[single-cell-and-spatial-transcriptomics-in-mental-health]]: Mappatura cellula-specifica confrontata con la periferia.
-- [[ai-multi-omics-psychiatric-biomarkers]]: Algoritmi predittivi applicati a dati ematici e biomarcatori.
-- [[treatment-outcome-and-relapse-prediction]]: Predizione di risposta terapeutica e ricadute.
-- [[rischio-suicidario-ai-limits]]: Limiti dell'approccio clinico soggettivo e necessità di biomarker oggettivi.
+- [wang-dwivedi-2025](../sintesi/wang-dwivedi-2025.md): Sintesi sistematica della review di riferimento.
+- [multi-omics-depression-suicide](multi-omics-depression-suicide.md): Integrazione di trascrittoma, metiloma e proteomica.
+- [non-coding-rna-biomarkers-psychiatry](non-coding-rna-biomarkers-psychiatry.md): Profili di miRNA, lncRNA e circRNA circolanti.
+- [single-cell-and-spatial-transcriptomics-in-mental-health](single-cell-and-spatial-transcriptomics-in-mental-health.md): Mappatura cellula-specifica confrontata con la periferia.
+- [ai-multi-omics-psychiatric-biomarkers](ai-multi-omics-psychiatric-biomarkers.md): Algoritmi predittivi applicati a dati ematici e biomarcatori.
+- [treatment-outcome-and-relapse-prediction](treatment-outcome-and-relapse-prediction.md): Predizione di risposta terapeutica e ricadute.
+- [rischio-suicidario-ai-limits](rischio-suicidario-ai-limits.md): Limiti dell'approccio clinico soggettivo e necessità di biomarker oggettivi.
+
+## Riferimenti Bibliografici
+- [Da integrare]

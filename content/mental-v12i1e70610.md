@@ -9,7 +9,7 @@ source_papers: ["mental_v12i1e70610.pdf"]
 - **Revisione sistematica** condotta secondo le linee guida **PRISMA 2020** e pubblicata su *JMIR Mental Health* da Xi Wang, Yujia Zhou e Guangyu Zhou (*Peking University & Tsinghua University*, Beijing, 2025; DOI: [10.2196/70610](https://doi.org/10.2196/70610)).
 - **Oggetto e Obiettivi:** Esaminare sistematicamente la letteratura scientifica pubblicata dall'introduzione del modello T5 (ottobre 2019 - settembre 2024) sull'impiego dell'Intelligenza Artificiale Generativa (GenAI / LLM) nella salute mentale, mappando 79 studi empirici peer-reviewed su tre domini applicativi fondamentali: (1) Diagnosi e Assessment (47%), (2) Strumenti Terapeutici (25%), e (3) Supporto ai Clinici e ai Professionisti (30%).
 - **Framework Etico GenAI4MH:** Formalizzazione di un'architettura etica quadri-dimensionale (*Data Privacy and Security*, *Information Integrity and Fairness*, *User Safety*, *Ethical Governance and Oversight*) per guidare la progettazione responsabile, la calibrazione del rischio clinico e la supervisione dei sistemi generativi.
-- **Valutazione della Trasparenza di Reporting:** Valutazione metodologica dell'intero corpus mediante la checklist **[[mi-claim-gen-checklist|MI-CLAIM-GEN]]** (*Minimum Information about Clinical Artificial Intelligence for Generative Modeling Research*), che documenta un livello medio di conformità del 45.4%, evidenziando gravi lacune nella riproducibilità (5.5%), nell'audit dei danni e nella rappresentatività dei dati di training (11%).
+- **Valutazione della Trasparenza di Reporting:** Valutazione metodologica dell'intero corpus mediante la checklist **[MI-CLAIM-GEN](concetti/mi-claim-gen-checklist.md)** (*Minimum Information about Clinical Artificial Intelligence for Generative Modeling Research*), che documenta un livello medio di conformità del 45.4%, evidenziando gravi lacune nella riproducibilità (5.5%), nell'audit dei danni e nella rappresentatività dei dati di training (11%).
 - **Utilità Clinica e Psicoterapia CBT:** Mappa in modo granulare l'efficacia comparativa dei modelli linguistici (inclusa la superiorità dei modelli specialistici fine-tuned come *Mental-Alpaca*, *Mental-FLAN-T5* e *T5-Japanese* per il riconoscimento di discrepanze pensiero-sentimento nella CBT), definendo al contempo le condizioni di sicurezza necessarie (filtri di crisi, prevenzione dell'overtrust, mitigazione di allucinazioni su farmaci e protocolli human-in-the-loop).
 
 ```mermaid
@@ -28,8 +28,8 @@ flowchart TD
     end
 
     subgraph Frameworks ["Standard di Valutazione ed Etica"]
-        F1["<b>[[mi-claim-gen-checklist|MI-CLAIM-GEN Checklist]]</b><br/>Conformità media: 45.39%<br/>Forte su Design (73.9%) | Critico su Riproducibilità (5.5%) e Dati (11%)"]
-        F2["<b>[[genai4mh-framework|GenAI4MH Ethical Framework]]</b><br/>1. Data Privacy & Security | 2. Information Integrity & Fairness<br/>3. User Safety (Triage Crisi) | 4. Ethical Governance & Oversight"]
+        F1[MI-CLAIM-GEN Checklist](concetti/mi-claim-gen-checklist.md)</b><br/>Conformità media: 45.39%<br/>Forte su Design (73.9%) | Critico su Riproducibilità (5.5%) e Dati (11%)"]
+        F2[GenAI4MH Ethical Framework](concetti/genai4mh-framework.md)</b><br/>1. Data Privacy & Security | 2. Information Integrity & Fairness<br/>3. User Safety (Triage Crisi) | 4. Ethical Governance & Oversight"]
     end
 
     S4 --> ThreeDomains
@@ -263,4 +263,7 @@ flowchart TD
 ---
 
 ## Relazioni
-- Vedi anche: [[genai4mh-framework]], [[mi-claim-gen-checklist]], [[mental-v12-e70014]], [[mental-2026-1-e88057]], [[elevate-genai-framework]], [[chart-reporting-guideline]], [[gamer-reporting-guideline]], [[modello-centauro-clinico]], [[clinician-user-evaluation-discrepancy]], [[single-task-zero-shot-evaluation-trap]], [[ai-enhanced-cbt]], [[cultural-adaptation-in-mental-health-llms]], [[lightweight-domain-models-in-mental-health]], [[layered-safeguards-in-clinical-ai]], [[five-domain-chatbot-validation-framework]]
+- Vedi anche: [genai4mh-framework](genai4mh-framework.md), [mi-claim-gen-checklist](mi-claim-gen-checklist.md), [mental-v12-e70014](mental-v12-e70014.md), [mental-2026-1-e88057](mental-2026-1-e88057.md), [elevate-genai-framework](elevate-genai-framework.md), [chart-reporting-guideline](chart-reporting-guideline.md), [gamer-reporting-guideline](gamer-reporting-guideline.md), [modello-centauro-clinico](concetti/concetti/concetti\modello-centauro-clinico.md), [clinician-user-evaluation-discrepancy](clinician-user-evaluation-discrepancy.md), [single-task-zero-shot-evaluation-trap](single-task-zero-shot-evaluation-trap.md), [ai-enhanced-cbt](concetti/concetti/concetti\concetti/concetti\ai-enhanced-cbt.md), [cultural-adaptation-in-mental-health-llms](cultural-adaptation-in-mental-health-llms.md), [lightweight-domain-models-in-mental-health](lightweight-domain-models-in-mental-health.md), [layered-safeguards-in-clinical-ai](concetti/concetti/concetti\layered-safeguards-in-clinical-ai.md), [five-domain-chatbot-validation-framework](five-domain-chatbot-validation-framework.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

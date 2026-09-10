@@ -119,4 +119,7 @@ Nella pratica clinica e psicoterapeutica, le competenze professionali non operan
 ---
 
 ## Relazioni
-- Vedi anche: [[mental-v12-e70014]], [[clinician-user-evaluation-discrepancy]], [[stepwise-cot]], [[five-axis-clinical-evaluation]], [[traffic-light-quality-appraisal-clinical-ai]], [[clinical-fidelity-assessment]], [[modello-centauro-clinico]], [[simulated-empathy-vs-authentic-presence]], [[ai-enhanced-cbt]], [[cultural-adaptation-in-mental-health-llms]]
+- Vedi anche: [mental-v12-e70014](mental-v12-e70014.md), [clinician-user-evaluation-discrepancy](clinician-user-evaluation-discrepancy.md), [stepwise-cot](stepwise-cot.md), [five-axis-clinical-evaluation](five-axis-clinical-evaluation.md), [traffic-light-quality-appraisal-clinical-ai](traffic-light-quality-appraisal-clinical-ai.md), [clinical-fidelity-assessment](clinical-fidelity-assessment.md), [modello-centauro-clinico](concetti/concetti/concetti\modello-centauro-clinico.md), [simulated-empathy-vs-authentic-presence](concetti/concetti/concetti\simulated-empathy-vs-authentic-presence.md), [ai-enhanced-cbt](concetti/concetti/concetti\concetti/concetti\ai-enhanced-cbt.md), [cultural-adaptation-in-mental-health-llms](cultural-adaptation-in-mental-health-llms.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

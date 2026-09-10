@@ -121,12 +121,13 @@ Nella nosografia psichiatrica reale, l'ansia e la depressione coesistono in oltr
 ---
 
 ## Relazioni
-- [[fdgth-07-1646724]]
-- [[multimodal-anxiety-detection-ai]]
-- [[clinical-nlp-domain-shift]]
-- [[clinical-readiness-gap-in-mh-chatbots]]
-- [[open-data-scarcity-clinical-psychology]]
-- [[modello-centauro-clinico]]
-- [[software-as-a-medical-device-salute-mentale]]
-- [[traffic-light-quality-appraisal-clinical-ai]]
-- [[uso-problematico-chatbot-ai]]
+- [fdgth-07-1646724](fdgth-07-1646724.md)
+- [multimodal-anxiety-detection-ai](multimodal-anxiety-detection-ai.md)
+- [clinical-nlp-domain-shift](clinical-nlp-domain-shift.md)
+- [clinical-readiness-gap-in-mh-chatbots](concetti/concetti/concetti\clinical-readiness-gap-in-mh-chatbots.md)
+- [open-data-scarcity-clinical-psychology](open-data-scarcity-clinical-psychology.md)
+- [modello-centauro-clinico](concetti/concetti/concetti\modello-centauro-clinico.md)
+- [software-as-a-medical-device-salute-mentale](software-as-a-medical-device-salute-mentale.md)
+- [traffic-light-quality-appraisal-clinical-ai](traffic-light-quality-appraisal-clinical-ai.md)
+- [uso-problematico-chatbot-ai](uso-problematico-chatbot-ai.md)
+

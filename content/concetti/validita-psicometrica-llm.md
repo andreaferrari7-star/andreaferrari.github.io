@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Validità Psicometrica e Discrepanza Affidabilità-Convergenza negli LLM
 
 **Summary**: Fenomeno metodologico critico nella *Machine Psychology* in cui i Large Language Models esibiscono un'affidabilità test-retest quasi perfetta ($\rho \approx 0.85 - 1.00$) accompagnata tuttavia da una validità convergente trascurabile ($\rho < 0.25$) tra strumenti differenti deputati a misurare il medesimo costrutto psicologico, dimostrando che la coerenza dell'output statistico non equivale alla presenza di costrutti latenti stabili.
@@ -9,7 +13,7 @@
 
 Nella psicometria classica umana, un'elevata **affidabilità test-retest** costituisce una condizione necessaria (sebbene non sufficiente) per stabilire la validità di una misura: se un individuo ottiene punteggi stabili nel tempo, si ipotizza che il test intercetti un tratto latente sottostante coerente.
 
-Negli LLM ([[large-language-models]]), tuttavia, emerge una profonda disconnessione strutturale tra affidabilità e validità:
+Negli LLM ([large-language-models](../large-language-models.md)), tuttavia, emerge una profonda disconnessione strutturale tra affidabilità e validità:
 - **Affidabilità Test-Retest Elevata**: I modelli linguistici rispondono in modo quasi perfettamente deterministico e coerente a prompt identici o variati parametricamente (stabilità dello stimolo linguistico).
 - **Validità Convergente Nulla o Debole**: Strumenti alternativi (es. scale esplicite vs. compiti impliciti su vignette) teoricamente costruiti per misurare lo stesso costrutto (es. il bias razziale) correlano scarsamente tra loro ($\rho \approx 0.02 - 0.23$).
 
@@ -82,11 +86,13 @@ L'evidenza di una validità convergente quasi nulla impone cautela nel trarre co
 ---
 
 ## Related pages
-- [[benosman-2025]]: Sintesi del paper di Benosman con i dati sperimentali su ChatGPT-4o.
-- [[stamp-llm-framework]]: Il protocollo metodologico a due fasi per la validazione psicometrica.
-- [[misurazione-bias-razziale-llm]]: Metodologie applicative di test espliciti e impliciti per il bias razziale.
-- [[measurement-phantoms]]: Artefatti e illusioni di costrutto generate dall'ingegneria del prompt.
-- [[machine-psychology]]: Studio del comportamento dei modelli linguistici e sfide metodologiche.
-- [[dual-validity-framework]]: Framework di doppia validità (psicologica e computazionale) per l'IA.
-- [[jingle-fallacy]]: Assunzione che costrutti diversi condividano proprietà identiche solo perché hanno lo stesso nome.
-- [[audit-bias-llm-clinici]]: Protocolli di audit per modelli utilizzati in ambito clinico e decisionale.
+- [benosman-2025](../sintesi/benosman-2025.md): Sintesi del paper di Benosman con i dati sperimentali su ChatGPT-4o.
+- [stamp-llm-framework](concetti/concetti\stamp-llm-framework.md): Il protocollo metodologico a due fasi per la validazione psicometrica.
+- [misurazione-bias-razziale-llm](concetti/concetti\misurazione-bias-razziale-llm.md): Metodologie applicative di test espliciti e impliciti per il bias razziale.
+- [measurement-phantoms](../measurement-phantoms.md): Artefatti e illusioni di costrutto generate dall'ingegneria del prompt.
+- [machine-psychology](../machine-psychology.md): Studio del comportamento dei modelli linguistici e sfide metodologiche.
+- [dual-validity-framework](../dual-validity-framework.md): Framework di doppia validità (psicologica e computazionale) per l'IA.
+- [jingle-fallacy](../jingle-fallacy.md): Assunzione che costrutti diversi condividano proprietà identiche solo perché hanno lo stesso nome.
+- [audit-bias-llm-clinici](concetti/concetti\audit-bias-llm-clinici.md): Protocolli di audit per modelli utilizzati in ambito clinico e decisionale.
+
+

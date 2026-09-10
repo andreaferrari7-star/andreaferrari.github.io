@@ -16,4 +16,7 @@ source_papers: []
 - [Da completare]
 
 ## Relazioni 
-- Vedi anche: 
+- Vedi anche:
+
+## Riferimenti Bibliografici
+- [Da integrare]

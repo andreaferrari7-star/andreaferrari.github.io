@@ -17,4 +17,5 @@ source_papers: ["mjiri-39-30.pdf"]
 - Mohammadi, G., Asgharnezhadfarid, A., Zahedi Tajrishi, K., Gharraee, B., & Moloodi, R. (2025). Comparative Effectiveness of Face-to-Face Cognitive-Behavioral Therapy and Combined Cognitive-Behavioral Therapy (Face-to-Face + Web-Based Application) on Maladaptive Perfectionism in College Students: A Randomized Controlled Trial. *Medical Journal of the Islamic Republic of Iran*, 39, 30. https://doi.org/10.47176/mjiri.39.30
 
 ## Relazioni
-- Vedi anche: [[maladaptive-perfectionism]], [[blended-cbt]], [[ai-blended-therapy]]
+- Vedi anche: [maladaptive-perfectionism](concetti/maladaptive-perfectionism.md), [blended-cbt](concetti/blended-cbt.md), [ai-blended-therapy](ai-blended-therapy.md)
+

@@ -16,4 +16,5 @@ source_papers: ["British J Clinic Psychol - 2023 - Abramovitch - A randomized cl
 - Abramovitch, A., Uwadiale, A., & Robinson, A. (2024). A randomized clinical trial of a gamified app for the treatment of perfectionism. *British Journal of Clinical Psychology*, 63, 73–91. https://doi.org/10.1111/bjc.12444
 
 ## Relazioni
-- Vedi anche: [[abramovitch-et-al-2024]], [[maladaptive-perfectionism]]
+- Vedi anche: [abramovitch-et-al-2024](../abramovitch-et-al-2024.md), [maladaptive-perfectionism](maladaptive-perfectionism.md)
+

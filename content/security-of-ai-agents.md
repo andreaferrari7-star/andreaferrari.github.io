@@ -141,4 +141,7 @@ Gli autori introducono due protocolli crittografici per permettere agli agenti d
 ---
 
 ## Relazioni
-- Vedi anche: [[sandbox-isolation-and-access-control-in-ai-agents]], [[privacy-preserving-computation-in-ai-agents]], [[power-safety-paradox]], [[layered-safeguards-in-clinical-ai]], [[configurazione-sicurezza-piattaforme-ia-clinica]], [[rlhf-safety-therapeutic-conflict]], [[gdpr-governance-mental-health-ai]], [[mental-privacy-in-clinical-ai]], [[three-layer-governance-framework]], [[automated-clinical-ai-red-teaming]], [[human-in-the-reasoning]]
+- Vedi anche: [sandbox-isolation-and-access-control-in-ai-agents](sandbox-isolation-and-access-control-in-ai-agents.md), [privacy-preserving-computation-in-ai-agents](privacy-preserving-computation-in-ai-agents.md), [power-safety-paradox](power-safety-paradox.md), [layered-safeguards-in-clinical-ai](concetti/concetti/concetti\layered-safeguards-in-clinical-ai.md), [configurazione-sicurezza-piattaforme-ia-clinica](configurazione-sicurezza-piattaforme-ia-clinica.md), [rlhf-safety-therapeutic-conflict](rlhf-safety-therapeutic-conflict.md), [gdpr-governance-mental-health-ai](concetti/concetti/concetti\gdpr-governance-mental-health-ai.md), [mental-privacy-in-clinical-ai](mental-privacy-in-clinical-ai.md), [three-layer-governance-framework](concetti/concetti/concetti\three-layer-governance-framework.md), [automated-clinical-ai-red-teaming](automated-clinical-ai-red-teaming.md), [human-in-the-reasoning](human-in-the-reasoning.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

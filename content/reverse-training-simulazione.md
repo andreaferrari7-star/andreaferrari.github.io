@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Reverse Training e Didattica Induttiva con Pazienti Virtuali
 
 **Summary**: Metodologia pedagogica avanzata per la formazione clinica e la psicoterapia in cui lo specializzando modella e addestra un paziente virtuale basato su LLM per dimostrare la padronanza di un quadro diagnostico-funzionale (*learning by teaching*), sottoponendo l'agente simulato alla valutazione del docente/supervisore.
@@ -39,9 +43,12 @@ flowchart TD
 
 ## Related pages
 
-- [[06-05_Riunione_Impiego_IA]]
-- [[simulazione-pazienti-ai]]
-- [[clinical-ai-simulation]]
-- [[human-in-the-reasoning]]
-- [[prompting-in-psychology]]
-- [[machine-psychology]]
+- [06-05_Riunione_Impiego_IA](06-05_Riunione_Impiego_IA.md)
+- [simulazione-pazienti-ai](simulazione-pazienti-ai.md)
+- [clinical-ai-simulation](clinical-ai-simulation.md)
+- [human-in-the-reasoning](human-in-the-reasoning.md)
+- [prompting-in-psychology](prompting-in-psychology.md)
+- [machine-psychology](machine-psychology.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

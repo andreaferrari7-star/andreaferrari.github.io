@@ -7,7 +7,7 @@ source_papers: ["mental_v12i1e67802.pdf"]
 
 ## Definizione Operativa
 - **Revisione sistematica e meta-analisi** condotta secondo le linee guida **PRISMA-DTA** (*Preferred Reporting Items for Systematic Reviews and Meta-Analyses - Diagnostic Test Accuracy*) e registrata su PROSPERO (ID: [CRD42023444431](https://www.crd.york.ac.uk/PROSPERO/view/CRD42023444431)), pubblicata su *JMIR Mental Health* (ottobre 2025; 12:e67802; DOI: [10.2196/67802](https://doi.org/10.2196/67802)) dal gruppo di ricerca guidato da Patricia Laura Maran, María Dolores Braquehais e Amanda Rodríguez-Urrutia (*Vall d'Hebron Research Institute - VHIR, Universitat Autònoma de Barcelona, CIBERSAM, Galatea Clinic, Universitat Internacional de Catalunya*).
-- **Oggetto e Ambito:** Rappresenta la **prima sintesi quantitativa esaustiva** delle prestazioni diagnostiche dell'analisi automatica del parlato (*Automatic Speech Analysis* - ASA / [[vocal-biomarkers-in-depression|biomarcatori vocali]]) per la rilevazione della depressione, includendo sia algoritmi di Machine Learning (ML) tradizionale sia architetture di Deep Learning (DL).
+- **Oggetto e Ambito:** Rappresenta la **prima sintesi quantitativa esaustiva** delle prestazioni diagnostiche dell'analisi automatica del parlato (*Automatic Speech Analysis* - ASA / [biomarcatori vocali](vocal-biomarkers-in-depression.md)) per la rilevazione della depressione, includendo sia algoritmi di Machine Learning (ML) tradizionale sia architetture di Deep Learning (DL).
 - **Corpus Esaminato e Metodologia di Selezione:**
   - *Ricerca Sistematica:* Screening su 8 banche dati (*MEDLINE, APA PsycInfo, Embase, CINAHL, IEEE Xplore, ACM Digital Library, Scopus, Google Scholar*) per il periodo gennaio 2013 – 1° aprile 2025.
   - *Selezione:* 1.345 record identificati $\rightarrow$ 872 unici dopo deduplicazione $\rightarrow$ 281 full-text valutati $\rightarrow$ **105 studi empirici inclusi** (55 paper di conferenza [52.4%], 48 articoli su riviste peer-reviewed [45.7%], 2 tesi di dottorato [1.9%]).
@@ -15,8 +15,8 @@ source_papers: ["mental_v12i1e67802.pdf"]
 - **Innovazione Metodologica (Meta-Analisi a 3 Livelli):** Per superare la violazione dell'assunzione di indipendenza dovuta alla presenza di esperimenti multipli nello stesso studio, gli autori hanno applicato un **modello a effetti casuali a 3 livelli** (*Restricted Maximum Likelihood* - REML; Assink & Wibbelink, 2016; Van den Noortgate et al., 2013), modellando contemporaneamente la varianza campionaria, la varianza tra esperimenti entro lo stesso studio e la varianza tra popolazioni di studi diversi. Inoltre, per contrastare il *reporting bias* e la sovrastima delle performance, hanno estratto sia i valori minimi che massimi riportati.
 - **Rilievi Chiave e Posizionamento Clinico:**
   - *Metriche Pooled:* L'accuratezza media aggregata oscilla tra **0.66** (minimi pooled, 95% CI 0.63–0.69) e **0.81** (massimi pooled, 95% CI 0.79–0.83). La sensibilità varia tra **0.63** e **0.84**, la specificità tra **0.60** e **0.83**, e la precisione tra **0.64** e **0.81**.
-  - *Feature e Algoritmi Superiori:* Le feature basate sull'operatore energetico di Teager (**[[vocal-biomarkers-in-depression#teager-energy-operator-teo|Teager Energy Operator - TEO]]**, che cattura i flussi d'aria non lineari nel tratto vocale) e le architetture Deep Learning (**CNN e DNN**) superano significativamente gli altri approcci ($P=.04$).
-  - *Verdetto Clinico:* L'ASA dimostra elevate potenzialità come **strumento complementare di screening e monitoraggio** (in medicina generale, telemedicina e contesti a basso accesso), ma la sua maturità per l'uso clinico autonomo (*standalone diagnostic tool*) rimane limitata da opacità algoritmica, bias dei dataset e predominanza del **[[self-report-proxy-bias-in-ai|proxy bias da questionari]]** rispetto a diagnosi cliniche strutturate.
+  - *Feature e Algoritmi Superiori:* Le feature basate sull'operatore energetico di Teager (**[Teager Energy Operator - TEO](concetti/vocal-biomarkers-in-depression#teager-energy-operator-teo.md)**, che cattura i flussi d'aria non lineari nel tratto vocale) e le architetture Deep Learning (**CNN e DNN**) superano significativamente gli altri approcci ($P=.04$).
+  - *Verdetto Clinico:* L'ASA dimostra elevate potenzialità come **strumento complementare di screening e monitoraggio** (in medicina generale, telemedicina e contesti a basso accesso), ma la sua maturità per l'uso clinico autonomo (*standalone diagnostic tool*) rimane limitata da opacità algoritmica, bias dei dataset e predominanza del **[proxy bias da questionari](concetti/self-report-proxy-bias-in-ai.md)** rispetto a diagnosi cliniche strutturate.
 
 ```mermaid
 flowchart TD
@@ -50,7 +50,7 @@ flowchart TD
     end
 
     subgraph CriticalBottlenecks ["Criticità Metodologiche & Bias Epistemici"]
-        B1["<b>[[self-report-proxy-bias-in-ai|Proxy Bias da Questionario]]:</b> 70.5% usa PHQ/BDI invece di DSM/MINI/SCID"]
+        B1[Proxy Bias da Questionario](concetti/self-report-proxy-bias-in-ai.md):</b> 70.5% usa PHQ/BDI invece di DSM/MINI/SCID"]
         B2["<b>Limiti di DAIC-WOZ:</b> Sbilanciamento classi (4:1) e genere (5:8 vs 2:7)"]
         B3["<b>Opacità & Mancanza di XAI:</b> Solo 2 studi usano LIME/SHAP"]
         B4["<b>Rischio di Bias QUADAS-2:</b> 47.6% ad alto rischio; 93.3% dati preprocessing carenti"]
@@ -174,7 +174,7 @@ pie title Distribuzione del Rischio di Bias Globale negli Studi Inclusi (N=105)
 
 ### 7. Snodi Critici, Bias dei Dataset e Sfide di Implementazione
 
-#### A. Il [[self-report-proxy-bias-in-ai|Proxy Bias da Questionari Self-Report]]
+#### A. Il [Proxy Bias da Questionari Self-Report](concetti/self-report-proxy-bias-in-ai.md)
 - Il 70.5% degli studi utilizza scale compilate dal paziente (PHQ-8/PHQ-9 o BDI/BDI-II) con cut-off arbitrari come "ground truth" per definire la depressione.
 - I questionari self-report misurano la severità soggettiva dei sintomi o il distress contingente, ma **non equivalgono a una diagnosi psichiatrica formale** di Disturbo Depressivo Maggiore.
 - L'algoritmo finisce quindi per ottimizzarsi sulla **predizione del punteggio del questionario** anziché sui tratti patognomonici del disturbo clinico, apprendendo correlazioni spurie tra inflessioni vocali e risposte a specifici item.
@@ -238,13 +238,15 @@ Maran et al. inquadrano la traslazione clinica dell'ASA attraverso il framework 
 ---
 
 ## Relazioni
-- [[vocal-biomarkers-in-depression]]: Analisi sistematica dei biomarcatori vocali computazionali, feature spettrali/prosodiche/TEO, modelli di machine learning e architetture di deep learning per la rilevazione della depressione.
-- [[self-report-proxy-bias-in-ai]]: Disamina teorica ed epistemologica dell'effetto di sostituzione tra questionari self-report (PHQ-9, BDI) e diagnosi clinica formale nei modelli diagnostici di intelligenza artificiale.
-- [[cpp-33-e70242-1]]: Revisione sistematica di Orrù & Mannarini (2026) su AI e NLP in psicologia clinica, analisi del processo di seduta e bias di trattabilità algoritmica.
-- [[mental-v12-e70014]]: Systematic review di Wang et al. (2025) sulle capacità e limitazioni dell'Intelligenza Artificiale Generativa in salute mentale.
-- [[wearable-sensor-fusion-adherence]]: Integrazione di sensori biometrici indossabili e modelli predittivi per il monitoraggio remoto della salute mentale.
-- [[multimodal-anxiety-detection-ai]]: Rilevazione multimodale di stati d'ansia mediante fusione di segnali fisiologici e comportamentali.
-- [[bpd-multimodal-behavioral-markers]]: Marcatori comportamentali e vocali multimodali per la differenziazione clinica della disregolazione emotiva.
-- [[lexical-psychological-features]]: Estrazione e interpretazione clinica dei pattern lessicali, semantici e psicometrici nei testi dei pazienti.
-- [[explainable-mental-health-diagnosis]]: Metodologie di XAI (SHAP, LIME, Attention Maps) per l'interpretabilità clinica dei modelli diagnostici in psichiatria.
-- [[modello-centauro-clinico]]: Paradigma di cooperazione Human-in-the-Loop che integra l'analisi quantitativa dell'ASA con il giudizio clinico esperto.
+- [vocal-biomarkers-in-depression](vocal-biomarkers-in-depression.md): Analisi sistematica dei biomarcatori vocali computazionali, feature spettrali/prosodiche/TEO, modelli di machine learning e architetture di deep learning per la rilevazione della depressione.
+- [self-report-proxy-bias-in-ai](self-report-proxy-bias-in-ai.md): Disamina teorica ed epistemologica dell'effetto di sostituzione tra questionari self-report (PHQ-9, BDI) e diagnosi clinica formale nei modelli diagnostici di intelligenza artificiale.
+- [cpp-33-e70242-1](cpp-33-e70242-1.md): Revisione sistematica di Orrù & Mannarini (2026) su AI e NLP in psicologia clinica, analisi del processo di seduta e bias di trattabilità algoritmica.
+- [mental-v12-e70014](mental-v12-e70014.md): Systematic review di Wang et al. (2025) sulle capacità e limitazioni dell'Intelligenza Artificiale Generativa in salute mentale.
+- [wearable-sensor-fusion-adherence](wearable-sensor-fusion-adherence.md): Integrazione di sensori biometrici indossabili e modelli predittivi per il monitoraggio remoto della salute mentale.
+- [multimodal-anxiety-detection-ai](multimodal-anxiety-detection-ai.md): Rilevazione multimodale di stati d'ansia mediante fusione di segnali fisiologici e comportamentali.
+- [bpd-multimodal-behavioral-markers](bpd-multimodal-behavioral-markers.md): Marcatori comportamentali e vocali multimodali per la differenziazione clinica della disregolazione emotiva.
+- [lexical-psychological-features](lexical-psychological-features.md): Estrazione e interpretazione clinica dei pattern lessicali, semantici e psicometrici nei testi dei pazienti.
+- [explainable-mental-health-diagnosis](explainable-mental-health-diagnosis.md): Metodologie di XAI (SHAP, LIME, Attention Maps) per l'interpretabilità clinica dei modelli diagnostici in psichiatria.
+- [modello-centauro-clinico](concetti/concetti/concetti\modello-centauro-clinico.md): Paradigma di cooperazione Human-in-the-Loop che integra l'analisi quantitativa dell'ASA con il giudizio clinico esperto.
+
+

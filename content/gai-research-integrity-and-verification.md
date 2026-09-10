@@ -75,13 +75,14 @@ I rischi principali includono:
 *   Flanagin, A., Pirracchio, R., Khera, R., et al. (2024). Reporting Use of AI in Research and Scholarly Publication—JAMA Network Guidance. *JAMA*, 331(13), 1096–1098.
 
 ## Relazioni
-- [[gamer2025-1]]
-- [[gamer-reporting-guideline]]
-- [[chart-reporting-guideline]]
-- [[elevate-genai-framework]]
-- [[ai-research-ethics]]
-- [[gdpr-governance-mental-health-ai]]
-- [[human-in-the-reasoning]]
-- [[large-language-models]]
-- [[prompting-in-psychology]]
-- [[generative-ai-in-research]]
+- [gamer2025-1](gamer2025-1.md)
+- [gamer-reporting-guideline](gamer-reporting-guideline.md)
+- [chart-reporting-guideline](chart-reporting-guideline.md)
+- [elevate-genai-framework](elevate-genai-framework.md)
+- [ai-research-ethics](ai-research-ethics.md)
+- [gdpr-governance-mental-health-ai](concetti/concetti/concetti\gdpr-governance-mental-health-ai.md)
+- [human-in-the-reasoning](human-in-the-reasoning.md)
+- [large-language-models](large-language-models.md)
+- [prompting-in-psychology](prompting-in-psychology.md)
+- [generative-ai-in-research](generative-ai-in-research.md)
+

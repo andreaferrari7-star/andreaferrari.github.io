@@ -122,9 +122,11 @@ flowchart TD
 
 ## Collegamenti Concettuali
 
-*   [[medinform-v13-e64963]] — Sintesi sistematica e meta-analisi di Shan et al. (2025).
-*   [[diagnostic-accuracy-gap-llm-vs-physicians]] — Il divario strutturale tra LLM e clinici umani.
-*   [[hybrid-neuro-symbolic-cdss]] — Sistemi di supporto alle decisioni ibridi che combinano visione, regole e LLM.
-*   [[xai-in-pediatric-surgery]] — Spiegabilità e interpretazione di immagini diagnostiche nei sistemi di intelligenza artificiale.
-*   [[modello-centauro-clinico]] — Collaborazione e supervisione umana nei compiti diagnostici.
+*   [medinform-v13-e64963](medinform-v13-e64963.md) — Sintesi sistematica e meta-analisi di Shan et al. (2025).
+*   [diagnostic-accuracy-gap-llm-vs-physicians](concetti/concetti/concetti\diagnostic-accuracy-gap-llm-vs-physicians.md) — Il divario strutturale tra LLM e clinici umani.
+*   [hybrid-neuro-symbolic-cdss](concetti/hybrid-neuro-symbolic-cdss.md) — Sistemi di supporto alle decisioni ibridi che combinano visione, regole e LLM.
+*   [xai-in-pediatric-surgery](xai-in-pediatric-surgery.md) — Spiegabilità e interpretazione di immagini diagnostiche nei sistemi di intelligenza artificiale.
+*   [modello-centauro-clinico](concetti/concetti/concetti\modello-centauro-clinico.md) — Collaborazione e supervisione umana nei compiti diagnostici.
 
+## Riferimenti Bibliografici
+- [Da integrare]

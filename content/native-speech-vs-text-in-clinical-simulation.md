@@ -87,4 +87,5 @@ La tabella seguente riassume le differenze nelle valutazioni della Cognitive The
 ---
 
 ## Relazioni
-- Vedi anche: [[2607-25667v1]], [[mymentorllm-framework]], [[over-deference-in-llm-supervision]], [[deliberate-practice-in-psicoterapia-ia]], [[supervisione-clinica-ai]], [[simulazione-pazienti-ai]], [[trainer-simulator]], [[ctrs-automated-evaluation]], [[modello-centauro-clinico]], [[large-language-models]]
+- Vedi anche: [2607-25667v1](2607-25667v1.md), [mymentorllm-framework](concetti/mymentorllm-framework.md), [over-deference-in-llm-supervision](over-deference-in-llm-supervision.md), [deliberate-practice-in-psicoterapia-ia](concetti/deliberate-practice-in-psicoterapia-ia.md), [supervisione-clinica-ai](supervisione-clinica-ai.md), [simulazione-pazienti-ai](simulazione-pazienti-ai.md), [trainer-simulator](trainer-simulator.md), [ctrs-automated-evaluation](concetti/ctrs-automated-evaluation.md), [modello-centauro-clinico](concetti/concetti/concetti\modello-centauro-clinico.md), [large-language-models](large-language-models.md)
+

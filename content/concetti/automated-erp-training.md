@@ -39,9 +39,10 @@ source_papers:
 - Stade, B., Eichstaedt, J. C., Kaysen, D., Salecha, A., Greenberger, A., Singhvi, S., & Stirman, S. W. (2024). *TherapyTrainer: using AI to train therapists in written exposure therapy*. OSF Preprints. https://doi.org/10.31219/osf.io/wx93m
 
 ## Relazioni
-- [[kim-et-al-2025]]
-- [[client101-simulazione-pazienti-virtuali]]
-- [[exposure-interruption-mechanism]]
-- [[deliberate-practice-in-psicoterapia-ia]]
-- [[cbt]]
-- [[supervisione-clinica-ai]]
+- [kim-et-al-2025](../kim-et-al-2025.md)
+- [client101-simulazione-pazienti-virtuali](../client101-simulazione-pazienti-virtuali.md)
+- [exposure-interruption-mechanism](exposure-interruption-mechanism.md)
+- [deliberate-practice-in-psicoterapia-ia](deliberate-practice-in-psicoterapia-ia.md)
+- [cbt](cbt.md)
+- [supervisione-clinica-ai](supervisione-clinica-ai.md)
+

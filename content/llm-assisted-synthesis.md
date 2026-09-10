@@ -17,4 +17,7 @@ source_papers: ["2605.24351v1.pdf"]
 - Camelo-Guerrero, A., & Diaz-Rodriguez, J. (2026). How Much Structure Do LLMs Need? Evaluating LLMs for Bibliometric Cluster Description. *arXiv preprint arXiv:2605.24351v1*. https://arxiv.org/abs/2605.24351v1
 
 ## Relazioni
-- Vedi anche: [[bibliometric-analysis]], [[camelo-guerrero-diaz-rodriguez-2026]], [[hybrid-ai-research-workflows]]
+- Vedi anche: [bibliometric-analysis](bibliometric-analysis.md), [camelo-guerrero-diaz-rodriguez-2026](camelo-guerrero-diaz-rodriguez-2026.md), [hybrid-ai-research-workflows](hybrid-ai-research-workflows.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

@@ -6,7 +6,7 @@ source_papers: ["medinform-v13-e64963.pdf"]
 # Diagnostic Accuracy Gap: Large Language Models vs Clinical Professionals
 
 ## Definizione Operativa
-Il **Diagnostic Accuracy Gap** (Divario di Accuratezza Diagnostica) definisce la discrepanza quantitativa e qualitativa di prestazione riscontrata tra i modelli linguistici di grandi dimensioni ([[large-language-models|LLM]]) e i professionisti sanitari qualificati nella formulazione di diagnosi cliniche accurate, stratificazione del rischio e diagnosi differenziale.
+Il **Diagnostic Accuracy Gap** (Divario di Accuratezza Diagnostica) definisce la discrepanza quantitativa e qualitativa di prestazione riscontrata tra i modelli linguistici di grandi dimensioni ([LLM](large-language-models.md)) e i professionisti sanitari qualificati nella formulazione di diagnosi cliniche accurate, stratificazione del rischio e diagnosi differenziale.
 
 - **Evidenza Meta-Analitica Globale (Shan et al., 2025):** Sintetizzando 30 studi clinici primari ($N = 4.762$ casi) e conducendo una meta-analisi su 18 studi mirati sulla diagnosi primaria ($N = 1.472$ casi), la ricerca ha stabilito che i medici superano in modo statisticamente significativo gli LLM:
   $$\text{Pooled Odds Ratio: } \text{OR} = 0.71 \quad (95\%\text{ CI } [0.60, 0.84], Z = 4.06, P < .0001)$$
@@ -21,7 +21,7 @@ Il **Diagnostic Accuracy Gap** (Divario di Accuratezza Diagnostica) definisce la
 ### Meccanismi Epistemologici e Cognitivi
 1. **Conoscenza Tacita (*Polanyi's Paradox*):** La pratica medica esperta si fonda su conoscenza tacita e *clinical gestalt*, integrando indizi non strutturati che gli LLM, operando su base simbolico-testuale, faticano a cogliere.
 2. **Correlazione vs Ragionamento:** Mentre gli LLM sono predittori probabilistici basati sulla frequenza lessicale, i medici applicano modelli causali-fisiopatologici.
-3. **Gestione dell'Incertezza:** La [[single-correct-answer-fallacy-in-clinical-ai|Fallacia della Risposta Corretta Singola]] penalizza gli LLM, che faticano a gestire l'iteratività del processo diagnostico clinico.
+3. **Gestione dell'Incertezza:** La [Fallacia della Risposta Corretta Singola](single-correct-answer-fallacy-in-clinical-ai.md) penalizza gli LLM, che faticano a gestire l'iteratività del processo diagnostico clinico.
 4. **Bias Demografici:** Gli LLM mostrano bias sistematici in base a variabili anagrafiche (etnia, genere) presenti nei dati di pretraining.
 
 ### Analisi per Setting (Shan et al., 2025)
@@ -36,10 +36,13 @@ Il **Diagnostic Accuracy Gap** (Divario di Accuratezza Diagnostica) definisce la
 - Gunes, et al. (2024); Nakaura, et al.; Hirosawa, et al.; Kaya, et al.
 
 ## Relazioni
-- [[medinform-v13-e64963]]: Sintesi sistematica e meta-analisi PRISMA-DTA.
-- [[multimodal-diagnostic-paradox-in-llms]]: Degrado diagnostico nei modelli visione-linguaggio.
-- [[single-correct-answer-fallacy-in-clinical-ai]]: Limiti epistemologici nella valutazione.
-- [[modello-centauro-clinico]]: Framework di simbiosi diagnostica.
-- [[human-in-the-reasoning]]: Preservazione del giudizio critico.
-- [[cognitive-offloading-e-diagnostic-deskilling]]: Rischi di atrofia delle competenze.
-- [[traffic-light-quality-appraisal-clinical-ai]]: Metodologia di valutazione.
+- [medinform-v13-e64963](../medinform-v13-e64963.md): Sintesi sistematica e meta-analisi PRISMA-DTA.
+- [multimodal-diagnostic-paradox-in-llms](multimodal-diagnostic-paradox-in-llms.md): Degrado diagnostico nei modelli visione-linguaggio.
+- [single-correct-answer-fallacy-in-clinical-ai](single-correct-answer-fallacy-in-clinical-ai.md): Limiti epistemologici nella valutazione.
+- [modello-centauro-clinico](concetti/concetti\modello-centauro-clinico.md): Framework di simbiosi diagnostica.
+- [human-in-the-reasoning](human-in-the-reasoning.md): Preservazione del giudizio critico.
+- [cognitive-offloading-e-diagnostic-deskilling](cognitive-offloading-e-diagnostic-deskilling.md): Rischi di atrofia delle competenze.
+- [traffic-light-quality-appraisal-clinical-ai](traffic-light-quality-appraisal-clinical-ai.md): Metodologia di valutazione.
+
+## Riferimenti Bibliografici
+- [Da integrare]

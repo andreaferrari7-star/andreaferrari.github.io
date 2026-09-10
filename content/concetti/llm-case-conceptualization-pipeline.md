@@ -98,9 +98,10 @@ Nel benchmark su 77 sedute cliniche condotto da Ong et al. (2025), la pipeline m
 ---
 
 ## Pagine Correlate
-- [[ong-et-al-2025]]
-- [[personalized-networks-in-psychotherapy]]
-- [[extended-evolutionary-meta-model]]
-- [[ensemble-prompting-in-clinical-nlp]]
-- [[ai-clinical-decision-support]]
-- [[human-in-the-reasoning]]
+- [ong-et-al-2025](../sintesi/ong-et-al-2025.md)
+- [personalized-networks-in-psychotherapy](concetti/concetti\personalized-networks-in-psychotherapy.md)
+- [extended-evolutionary-meta-model](extended-evolutionary-meta-model.md)
+- [ensemble-prompting-in-clinical-nlp](ensemble-prompting-in-clinical-nlp.md)
+- [ai-clinical-decision-support](ai-clinical-decision-support.md)
+- [human-in-the-reasoning](human-in-the-reasoning.md)
+

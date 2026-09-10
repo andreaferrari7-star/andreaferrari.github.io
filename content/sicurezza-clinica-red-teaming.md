@@ -31,5 +31,6 @@ L'ontologia è essenziale per differenziare il *disagio intenzionale* (naturale 
 - Suhas, S., et al. (2026). AI Safety Training Can be Clinically Harmful. *arXiv preprint arXiv:2604.23445v1*.
 
 ## Relazioni
-- Vedi anche: [[rlhf-safety-therapeutic-conflict]], [[automated-clinical-ai-red-teaming]], [[risk-ontology-ai-psychotherapy]], [[ai-psychosis]], [[persona-induced-jailbreak]], [[in-session-warning-signs]]
+- Vedi anche: [rlhf-safety-therapeutic-conflict](rlhf-safety-therapeutic-conflict.md), [automated-clinical-ai-red-teaming](automated-clinical-ai-red-teaming.md), [risk-ontology-ai-psychotherapy](concetti/concetti/concetti\risk-ontology-ai-psychotherapy.md), [ai-psychosis](ai-psychosis.md), [persona-induced-jailbreak](persona-induced-jailbreak.md), [in-session-warning-signs](concetti/concetti/concetti\in-session-warning-signs.md)
+
 

@@ -110,4 +110,7 @@ Nonostante le profonde divergenze culturali e normative, le principali organizza
 - World Medical Association [WMA]. (2019). *WMA Statement on Augmented Intelligence in Medical Care*. Ferney-Voltaire: WMA.
 
 ## Relazioni
-- Vedi anche: [[healthcare-13-02340]], [[shared-decision-making-in-clinical-ai]], [[gdpr-governance-mental-health-ai]], [[informed-consent-for-clinical-ai]], [[human-oversight-and-liability-in-clinical-ai]], [[three-layer-governance-framework]], [[algorithmic-paternalism-in-ai-mental-health]], [[clinical-decision-making-and-artificial-intelligence]], [[tiered-autonomy-in-clinical-ai]], [[software-as-a-medical-device-salute-mentale]]
+- Vedi anche: [healthcare-13-02340](healthcare-13-02340.md), [shared-decision-making-in-clinical-ai](shared-decision-making-in-clinical-ai.md), [gdpr-governance-mental-health-ai](concetti/concetti/concetti\gdpr-governance-mental-health-ai.md), [informed-consent-for-clinical-ai](informed-consent-for-clinical-ai.md), [human-oversight-and-liability-in-clinical-ai](human-oversight-and-liability-in-clinical-ai.md), [three-layer-governance-framework](concetti/concetti/concetti\three-layer-governance-framework.md), [algorithmic-paternalism-in-ai-mental-health](concetti/concetti/concetti\algorithmic-paternalism-in-ai-mental-health.md), [clinical-decision-making-and-artificial-intelligence](clinical-decision-making-and-artificial-intelligence.md), [tiered-autonomy-in-clinical-ai](tiered-autonomy-in-clinical-ai.md), [software-as-a-medical-device-salute-mentale](software-as-a-medical-device-salute-mentale.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

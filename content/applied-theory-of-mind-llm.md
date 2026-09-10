@@ -6,7 +6,7 @@ source_papers: ["2601.06032v1.pdf"]
 # Theory of Mind Applicata nei Large Language Models (Applied Theory of Mind in LLMs)
 
 ## Definizione Operativa
-- La **Theory of Mind (ToM) Applicata** nei Large Language Models ([[large-language-models]]) designa la capacità computazionale di inferire, contestualizzare e attribuire stati mentali complessi (credenze ricorsive, desideri latenti, intenzioni non letterali, emozioni) a diversi protagonisti in narrazioni e vignette sociali ecologiche, decodificando fenomeni pragmatici avanzati quali gaffe involontarie (*faux pas*), ironia, sarcasmo, finzione, bugie bianche (*white lies*) e inganni strategici (Baron-Cohen et al., 1999; Holl-Etten et al., 2026; Stone et al., 1998).
+- La **Theory of Mind (ToM) Applicata** nei Large Language Models ([large-language-models](large-language-models.md)) designa la capacità computazionale di inferire, contestualizzare e attribuire stati mentali complessi (credenze ricorsive, desideri latenti, intenzioni non letterali, emozioni) a diversi protagonisti in narrazioni e vignette sociali ecologiche, decodificando fenomeni pragmatici avanzati quali gaffe involontarie (*faux pas*), ironia, sarcasmo, finzione, bugie bianche (*white lies*) e inganni strategici (Baron-Cohen et al., 1999; Holl-Etten et al., 2026; Stone et al., 1998).
 - **Utilità Clinica e Assistiva:** Costituisce il cardine funzionale per l'impiego dell'IA generativa come tecnologia assistiva per persone con atipicità nella cognizione sociale, in particolare nello spettro autistico (*Autism Spectrum Condition*, ASC). Fornisce uno strumento per spiegare dinamiche relazionali ambigue e prevenire fraintendimenti interpersonali, a condizione che l'architettura sia calibrata per produrre formulazioni chiare, coerenti e clinicamente utilizzabili.
 
 ```mermaid
@@ -69,4 +69,7 @@ flowchart TD
 - Vetter, N. C., Leipold, K., Kliegel, M., Phillips, L. H., & Altgassen, M. (2013). Ongoing development of social cognition in adolescence. *Child Neuropsychology*, 19(6), 615–629.
 
 ## Relazioni
-- Vedi anche: [[2601-06032v1]], [[epistemic-markers-in-ai]], [[large-language-models]], [[machine-psychology]], [[validita-psicometrica-llm]], [[ai-assisted-psychotherapy]], [[simulated-empathy-vs-authentic-presence]], [[simulated-therapeutic-alliance]], [[modello-centauro-clinico]]
+- Vedi anche: [2601-06032v1](2601-06032v1.md), [epistemic-markers-in-ai](epistemic-markers-in-ai.md), [large-language-models](large-language-models.md), [machine-psychology](machine-psychology.md), [validita-psicometrica-llm](concetti/concetti/concetti\validita-psicometrica-llm.md), [ai-assisted-psychotherapy](ai-assisted-psychotherapy.md), [simulated-empathy-vs-authentic-presence](concetti/concetti/concetti\simulated-empathy-vs-authentic-presence.md), [simulated-therapeutic-alliance](simulated-therapeutic-alliance.md), [modello-centauro-clinico](concetti/concetti/concetti\modello-centauro-clinico.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

@@ -73,9 +73,12 @@ flowchart TD
 ---
 
 ## Relazioni nel Knowledge Base
-- [[wang-dwivedi-2025]]: Review sistematica di riferimento su omica e intelligenza artificiale.
-- [[non-coding-rna-biomarkers-psychiatry]]: Il livello regolatorio non codificante (miRNA, lncRNA, circRNA).
-- [[single-cell-and-spatial-transcriptomics-in-mental-health]]: Deconvoluzione cellulare e risoluzione anatomica.
-- [[ai-multi-omics-psychiatric-biomarkers]]: Algoritmi di apprendimento automatico per l'analisi multi-omica.
-- [[peripheral-blood-biomarkers-and-exosomes-in-mdd]]: Applicazioni periferiche e biopsia liquida.
-- [[treatment-outcome-and-relapse-prediction]]: Predizione dell'efficacia terapeutica.
+- [wang-dwivedi-2025](../sintesi/wang-dwivedi-2025.md): Review sistematica di riferimento su omica e intelligenza artificiale.
+- [non-coding-rna-biomarkers-psychiatry](non-coding-rna-biomarkers-psychiatry.md): Il livello regolatorio non codificante (miRNA, lncRNA, circRNA).
+- [single-cell-and-spatial-transcriptomics-in-mental-health](single-cell-and-spatial-transcriptomics-in-mental-health.md): Deconvoluzione cellulare e risoluzione anatomica.
+- [ai-multi-omics-psychiatric-biomarkers](ai-multi-omics-psychiatric-biomarkers.md): Algoritmi di apprendimento automatico per l'analisi multi-omica.
+- [peripheral-blood-biomarkers-and-exosomes-in-mdd](peripheral-blood-biomarkers-and-exosomes-in-mdd.md): Applicazioni periferiche e biopsia liquida.
+- [treatment-outcome-and-relapse-prediction](treatment-outcome-and-relapse-prediction.md): Predizione dell'efficacia terapeutica.
+
+## Riferimenti Bibliografici
+- [Da integrare]

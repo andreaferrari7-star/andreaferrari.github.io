@@ -136,11 +136,12 @@ Il confronto cieco tra la pipeline multi-stadio e una baseline a singolo prompt 
 ---
 
 ## Pagine Correlate
-- [[personalized-networks-in-psychotherapy]]
-- [[extended-evolutionary-meta-model]]
-- [[llm-case-conceptualization-pipeline]]
-- [[ensemble-prompting-in-clinical-nlp]]
-- [[process-based-therapy]]
-- [[process-of-change]]
-- [[ai-clinical-decision-support]]
-- [[modello-centauro-clinico]]
+- [personalized-networks-in-psychotherapy](../concetti/concetti/concetti\personalized-networks-in-psychotherapy.md)
+- [extended-evolutionary-meta-model](../concetti/extended-evolutionary-meta-model.md)
+- [llm-case-conceptualization-pipeline](../concetti/concetti/concetti\llm-case-conceptualization-pipeline.md)
+- [ensemble-prompting-in-clinical-nlp](../concetti/ensemble-prompting-in-clinical-nlp.md)
+- [process-based-therapy](../concetti/process-based-therapy.md)
+- [process-of-change](../concetti/process-of-change.md)
+- [ai-clinical-decision-support](../concetti/ai-clinical-decision-support.md)
+- [modello-centauro-clinico](../concetti/concetti/concetti\modello-centauro-clinico.md)
+

@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Gap Tecnologico-Scientifico e Living Labs in Sanità Digitale
 
 **Summary**: Fenomeno di asincronia e disallineamento sistemico tra la velocità esponenziale di avanzamento delle tecnologie di IA generativa e i tempi pluriennali richiesti dalla validazione empirica formale (trial clinici controllati, certificazioni SaMD, bioetica), con la conseguente necessità di adottare modelli di Living Lab.
@@ -35,9 +39,12 @@ Per colmare questo divario senza rinunciare al rigore metodologico ed etico, eme
 ---
 
 ## Related pages
-- [[audit-bias-llm-clinici]]
-- [[architetture-generative-dinamiche]]
-- [[ai-research-ethics]]
-- [[augmented-psychotherapy]]
-- [[human-in-the-reasoning]]
-- [[06-05_Riunione_Impiego_IA_Clinica_Bias_Formazione]]
+- [audit-bias-llm-clinici](concetti/concetti\audit-bias-llm-clinici.md)
+- [architetture-generative-dinamiche](architetture-generative-dinamiche.md)
+- [ai-research-ethics](../ai-research-ethics.md)
+- [augmented-psychotherapy](../augmented-psychotherapy.md)
+- [human-in-the-reasoning](human-in-the-reasoning.md)
+- [06-05_Riunione_Impiego_IA_Clinica_Bias_Formazione](../sintesi/06-05_Riunione_Impiego_IA_Clinica_Bias_Formazione.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

@@ -12,9 +12,9 @@ source_papers: ["2509.13324v3.pdf"]
 
 ## Inquadramento Epistemologico e Crisi di Misurazione nella Machine Psychology
 
-Con l'integrazione pervasiva dei Large Language Models ([[large-language-models]]) in domini ad alto impatto decisionale e clinico (selezione del personale, ammissioni universitarie, concessione di crediti, decisioni giudiziarie, chatbot per la psicoterapia), la quantificazione dei bias algoritmici è diventata prioritaria. 
+Con l'integrazione pervasiva dei Large Language Models ([large-language-models](../large-language-models.md)) in domini ad alto impatto decisionale e clinico (selezione del personale, ammissioni universitarie, concessione di crediti, decisioni giudiziarie, chatbot per la psicoterapia), la quantificazione dei bias algoritmici è diventata prioritaria. 
 
-Tuttavia, una linea crescente di ricerca nella cosiddetta *Machine Psychology* ([[machine-psychology]]) ha iniziato a somministrare direttamente ai modelli linguistici batterie psicometriche concepite per gli esseri umani (es. *Implicit Association Test* - IAT, *Cognitive Reflection Test* - CRT, *Modern Racism Scale* - MRS, *Ambivalent Sexism Inventory* - ASI) senza una preventiva validazione del costrutto (Binz & Schulz, 2023; Hagendorff et al., 2024; Kosinski, 2023; Bai et al., 2025).
+Tuttavia, una linea crescente di ricerca nella cosiddetta *Machine Psychology* ([machine-psychology](../machine-psychology.md)) ha iniziato a somministrare direttamente ai modelli linguistici batterie psicometriche concepite per gli esseri umani (es. *Implicit Association Test* - IAT, *Cognitive Reflection Test* - CRT, *Modern Racism Scale* - MRS, *Ambivalent Sexism Inventory* - ASI) senza una preventiva validazione del costrutto (Binz & Schulz, 2023; Hagendorff et al., 2024; Kosinski, 2023; Bai et al., 2025).
 
 **M. Benosman (2025)** evidenzia una falla metodologica fondamentale:
 > **I test psicometrici sviluppati per soggetti umani mantengono validità e affidabilità quando somministrati a chatbot e modelli linguistici non umani?**
@@ -172,11 +172,12 @@ Benosman propone l'adozione di STAMP-LLM come protocollo condiviso di rendiconta
 ---
 
 ## Relazioni e Concetti Correlati
-- [[stamp-llm-framework]]: Protocollo metodologico standardizzato per la progettazione di misure psicometriche negli LLM.
-- [[validita-psicometrica-llm]]: Il divario tra stabilità statistica (test-retest) e validità convergente nei modelli linguistici.
-- [[misurazione-bias-razziale-llm]]: Metodologie esplicite e implicite per la rilevazione del bias razziale negli agenti conversazionali.
-- [[machine-psychology]]: Fondamenti teorici e limiti dell'indagine psicologica applicata all'intelligenza artificiale.
-- [[audit-bias-llm-clinici]]: Protocolli di benchmarking e monitoraggio dei bias etici e clinici negli LLM.
-- [[measurement-phantoms]]: Artefatti di misurazione e costrutti illusori generati da prompt engineering.
-- [[pmv-framework]]: Framework di validità psicometrica per l'intelligenza artificiale.
-- [[algorithmic-bias-and-digital-inequalities]]: Disuguaglianze algoritmiche e riflessi clinico-sociali.
+- [stamp-llm-framework](../concetti/concetti/concetti\stamp-llm-framework.md): Protocollo metodologico standardizzato per la progettazione di misure psicometriche negli LLM.
+- [validita-psicometrica-llm](../concetti/concetti/concetti\validita-psicometrica-llm.md): Il divario tra stabilità statistica (test-retest) e validità convergente nei modelli linguistici.
+- [misurazione-bias-razziale-llm](../concetti/concetti/concetti\misurazione-bias-razziale-llm.md): Metodologie esplicite e implicite per la rilevazione del bias razziale negli agenti conversazionali.
+- [machine-psychology](../machine-psychology.md): Fondamenti teorici e limiti dell'indagine psicologica applicata all'intelligenza artificiale.
+- [audit-bias-llm-clinici](../concetti/concetti/concetti\audit-bias-llm-clinici.md): Protocolli di benchmarking e monitoraggio dei bias etici e clinici negli LLM.
+- [measurement-phantoms](../measurement-phantoms.md): Artefatti di misurazione e costrutti illusori generati da prompt engineering.
+- [pmv-framework](../pmv-framework.md): Framework di validità psicometrica per l'intelligenza artificiale.
+- [algorithmic-bias-and-digital-inequalities](../concetti/algorithmic-bias-and-digital-inequalities.md): Disuguaglianze algoritmiche e riflessi clinico-sociali.
+

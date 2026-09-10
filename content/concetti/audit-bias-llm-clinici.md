@@ -13,7 +13,7 @@ tags:
 # Framework di Audit e Benchmark dei Bias Clinici negli LLM
 
 ## Definizione Operativa
-L'audit dei bias clinici negli LLM consiste nell'applicazione di un protocollo sperimentale standardizzato per l'identificazione, la quantificazione e il monitoraggio sistematico di distorsioni cognitive, diagnostiche e comportamentali insite negli output generati dai modelli linguistici di grandi dimensioni ([[large-language-models]]).
+L'audit dei bias clinici negli LLM consiste nell'applicazione di un protocollo sperimentale standardizzato per l'identificazione, la quantificazione e il monitoraggio sistematico di distorsioni cognitive, diagnostiche e comportamentali insite negli output generati dai modelli linguistici di grandi dimensioni ([large-language-models](../large-language-models.md)).
 
 Il framework si focalizza su tre dimensioni critiche:
 *   **Bias di Genere e Patologizzazione Differenziale**: La tendenza del modello a sovrastimare la gravità diagnostica (es. disturbo borderline di personalità) in profili femminili e sottodiagnosticare quadri depressivi in profili maschili a parità di sintomi.
@@ -45,9 +45,12 @@ Le metodologie principali includono:
 *   04-20 Tavola rotonda_ Integrazione dell’IA in psicoterapia — governance, co‑ragionamento e modelli ibridi.txt
 
 ## Relazioni
-*   [[ai-research-ethics]]
-*   [[human-in-the-reasoning]]
-*   [[large-language-models]]
-*   [[machine-psychology]]
-*   [[06-05_Riunione_Impiego_IA_Clinica_Bias_Formazione]]
-*   [[gap-tecnologico-scientifico]]
+*   [ai-research-ethics](../ai-research-ethics.md)
+*   [human-in-the-reasoning](human-in-the-reasoning.md)
+*   [large-language-models](../large-language-models.md)
+*   [machine-psychology](../machine-psychology.md)
+*   [06-05_Riunione_Impiego_IA_Clinica_Bias_Formazione](../sintesi/06-05_Riunione_Impiego_IA_Clinica_Bias_Formazione.md)
+*   [gap-tecnologico-scientifico](gap-tecnologico-scientifico.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

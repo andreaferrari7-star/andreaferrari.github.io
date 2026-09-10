@@ -94,7 +94,7 @@ stateDiagram-v2
 2. **Progettazione di Prompt Supervisionari Robusti:**
    - I mentor basati su IA devono esplicitare che la domanda riflessiva non implica necessariamente una diagnosi errata (*"La tua ipotesi clinica potrebbe essere valida; ti invito a riflettere su..."*).
    - È necessario richiedere all'allievo di esplicitare la concordanza tra sintomi osservati e criteri DSM prima di permettere una modifica diagnostica.
-3. **Inadeguatezza degli SLM nei Ruoli Clinici Autonomi:** I modelli compatti da 2B parametri mostrano una consistenza sintomo-diagnosi quasi casuale ($A_S \approx 20\%$) e non possiedono la solidità concettuale necessaria per fungere da discenti autonomi o da assistenti diagnostici senza stretta supervisione di modelli di frontiera o clinici umani ([[modello-centauro-clinico]]).
+3. **Inadeguatezza degli SLM nei Ruoli Clinici Autonomi:** I modelli compatti da 2B parametri mostrano una consistenza sintomo-diagnosi quasi casuale ($A_S \approx 20\%$) e non possiedono la solidità concettuale necessaria per fungere da discenti autonomi o da assistenti diagnostici senza stretta supervisione di modelli di frontiera o clinici umani ([modello-centauro-clinico](concetti/concetti/concetti\modello-centauro-clinico.md)).
 
 ---
 
@@ -107,4 +107,5 @@ stateDiagram-v2
 ---
 
 ## Relazioni
-- Vedi anche: [[2607-25667v1]], [[native-speech-vs-text-in-clinical-simulation]], [[mymentorllm-framework]], [[supervisione-clinica-ai]], [[sycophantic-mirroring]], [[deliberate-practice-in-psicoterapia-ia]], [[modello-centauro-clinico]], [[trainer-simulator]], [[large-language-models]], [[2602-19948v2]]
+- Vedi anche: [2607-25667v1](2607-25667v1.md), [native-speech-vs-text-in-clinical-simulation](native-speech-vs-text-in-clinical-simulation.md), [mymentorllm-framework](concetti/mymentorllm-framework.md), [supervisione-clinica-ai](supervisione-clinica-ai.md), [sycophantic-mirroring](concetti/concetti/concetti\sycophantic-mirroring.md), [deliberate-practice-in-psicoterapia-ia](concetti/deliberate-practice-in-psicoterapia-ia.md), [modello-centauro-clinico](concetti/concetti/concetti\modello-centauro-clinico.md), [trainer-simulator](trainer-simulator.md), [large-language-models](large-language-models.md), [2602-19948v2](2602-19948v2.md)
+

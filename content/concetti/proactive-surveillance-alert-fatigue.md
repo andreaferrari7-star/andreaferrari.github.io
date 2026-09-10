@@ -81,9 +81,10 @@ Affinché la sorveglianza proattiva sia accolta nella pratica medica quotidiana,
 ---
 
 ## Relazioni
-- [[joshua-peterson-2025]]
-- [[video-observed-therapy-ai]]
-- [[wearable-sensor-fusion-adherence]]
-- [[privacy-preserving-rpm-frameworks]]
-- [[chronic-disease-monitoring-adherence]]
-- [[ai-clinical-decision-support]]
+- [joshua-peterson-2025](../sintesi/joshua-peterson-2025.md)
+- [video-observed-therapy-ai](video-observed-therapy-ai.md)
+- [wearable-sensor-fusion-adherence](wearable-sensor-fusion-adherence.md)
+- [privacy-preserving-rpm-frameworks](privacy-preserving-rpm-frameworks.md)
+- [chronic-disease-monitoring-adherence](chronic-disease-monitoring-adherence.md)
+- [ai-clinical-decision-support](ai-clinical-decision-support.md)
+

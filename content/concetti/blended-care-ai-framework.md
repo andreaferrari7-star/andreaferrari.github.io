@@ -47,11 +47,11 @@ graph TD
 
 ## Razionale Clinico: Perché il Blended Care Neutralizza i Gap
 
-1. **Superamento del [[credibility-gap|Credibility Gap]] tramite lo "Stamp of Approval"**:
+1. **Superamento del [Credibility Gap](concetti/concetti\credibility-gap.md) tramite lo "Stamp of Approval"**:
    - Quando l'agente IA è raccomandato e introdotto direttamente dal professionista curante con cui il paziente ha instaurato una relazione di fiducia, l'agente eredita la legittimazione istituzionale e l'autorevolezza del clinico. Ciò incrementa significativamente l'aderenza (*retention & adherence*) e le aspettative positive di miglioramento.
 
-2. **Preservazione della Relazione Reale e del [[reflected-appraisal-in-ai-therapy|Reflected Appraisal]]**:
-   - La relazione reale (Gelso, 2014) e le esperienze emotive correttive continuano a svilupparsi nello spazio interpersonale umano, evitando che il [[genuineness-gap|Genuineness Gap]] comprometta la ristrutturazione del concetto di Sé del paziente.
+2. **Preservazione della Relazione Reale e del [Reflected Appraisal](reflected-appraisal-in-ai-therapy.md)**:
+   - La relazione reale (Gelso, 2014) e le esperienze emotive correttive continuano a svilupparsi nello spazio interpersonale umano, evitando che il [Genuineness Gap](genuineness-gap.md) comprometta la ristrutturazione del concetto di Sé del paziente.
 
 3. **Massimizzazione dell'Efficienza e Abbattimento dei Costi**:
    - L'agente IA assicura la disponibilità h24 per compiti ad alta ripetitività (consolidamento abitudini, journaling cognitivo, promemoria di esercizi), alleviando il carico di lavoro del terapeuta e riducendo i tempi di attesa e i costi per il paziente (Kazdin, 2018; Koelen et al., 2022).
@@ -79,10 +79,13 @@ Herbener & Damholdt (2025) evidenziano quattro domande chiave per la progettazio
 ---
 
 ## Relazioni
-- [[herbener-damholdt-2025]]
-- [[genuineness-gap]]
-- [[credibility-gap]]
-- [[ontological-and-sociocultural-status]]
-- [[stepped-care-ai-integration]]
-- [[three-layer-governance-framework]]
-- [[human-in-the-reasoning]]
+- [herbener-damholdt-2025](../sintesi/herbener-damholdt-2025.md)
+- [genuineness-gap](genuineness-gap.md)
+- [credibility-gap](concetti/concetti\credibility-gap.md)
+- [ontological-and-sociocultural-status](ontological-and-sociocultural-status.md)
+- [stepped-care-ai-integration](stepped-care-ai-integration.md)
+- [three-layer-governance-framework](concetti/concetti\three-layer-governance-framework.md)
+- [human-in-the-reasoning](human-in-the-reasoning.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

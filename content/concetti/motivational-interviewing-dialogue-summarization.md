@@ -75,10 +75,13 @@ graph LR
 ---
 
 ## Relazioni
-- [[miti-framework-llm-evaluation]]: Lo strumento di codifica standard per misurare l'integrità del Colloquio Motivazionale.
-- [[semantic-drift-in-therapy-llms]]: Il rischio di perdita del tono clinico e dell'intento relazionale nella sintesi automatica.
-- [[annosum-mi-dataset]]: Il dataset di benchmark dedicato ai dialoghi di Colloquio Motivazionale.
-- [[progressive-prompting-clinical-summarization]]: Tecniche di prompting per ottimizzare la qualità della sintesi.
-- [[ctrs-automated-evaluation]]: Valutazione automatizzata equivalente applicata alla CBT.
-- [[clinical-fidelity-assessment]]: Quadro complessivo sulla fedeltà dell'intervento terapeutico.
-- [[kumar-et-al-2025]]: Studio sperimentale sulla sintesi di dialoghi MI con modelli di stato dell'arte.
+- [miti-framework-llm-evaluation](miti-framework-llm-evaluation.md): Lo strumento di codifica standard per misurare l'integrità del Colloquio Motivazionale.
+- [semantic-drift-in-therapy-llms](semantic-drift-in-therapy-llms.md): Il rischio di perdita del tono clinico e dell'intento relazionale nella sintesi automatica.
+- [annosum-mi-dataset](annosum-mi-dataset.md): Il dataset di benchmark dedicato ai dialoghi di Colloquio Motivazionale.
+- [progressive-prompting-clinical-summarization](progressive-prompting-clinical-summarization.md): Tecniche di prompting per ottimizzare la qualità della sintesi.
+- [ctrs-automated-evaluation](ctrs-automated-evaluation.md): Valutazione automatizzata equivalente applicata alla CBT.
+- [clinical-fidelity-assessment](../clinical-fidelity-assessment.md): Quadro complessivo sulla fedeltà dell'intervento terapeutico.
+- [kumar-et-al-2025](../sintesi/kumar-et-al-2025.md): Studio sperimentale sulla sintesi di dialoghi MI con modelli di stato dell'arte.
+
+## Riferimenti Bibliografici
+- [Da integrare]

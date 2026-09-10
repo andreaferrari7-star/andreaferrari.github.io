@@ -18,4 +18,7 @@ source_papers: ["13428_2025_Article_2938.pdf", "2507.04491v2.pdf"]
 - Lin, Z. (2026). A validity-guided workflow for robust large language model research in psychology. *Behavior Research Methods*, 58, Article 216. https://doi.org/10.3758/s13428-026-03073-2
 
 ## Relazioni
-- Vedi anche: [[lexical-psychological-features]], [[anthropomorphism-in-ai]], [[measurement-phantoms]], [[hagihara-miyazawa-2026]]
+- Vedi anche: [lexical-psychological-features](lexical-psychological-features.md), [anthropomorphism-in-ai](anthropomorphism-in-ai.md), [measurement-phantoms](measurement-phantoms.md), [hagihara-miyazawa-2026](hagihara-miyazawa-2026.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

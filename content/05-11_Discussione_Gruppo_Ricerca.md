@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Riunione 05-11: Discussione del Gruppo di Ricerca su AI e Psicoterapia
 
 **Summary**: Sintesi dell'incontro del gruppo di ricerca incentrato su architettura e versioning di agenti didattici CBT (Libet Prime), transizione verso il co-ragionamento Human-in-the-Reasoning, simulazione clinica dei bias nei pazienti virtuali, sfide etico-deontologiche e progetti di digitalizzazione clinica su larga scala (SaMD e protocollo Not-On-Track nel NHS).
@@ -6,12 +10,12 @@
 ---
 
 ## 1. Aggiornamenti ed Esperienze di Ricerca
-- **Premio di Ricerca su AI (Sapienza / Cattolica / Digital)**: Discussione sull'esperienza e presentazione di un lavoro di ricerca basato sull'analisi qualitativa di testi clinici processati con modelli generativi ([[large-language-models]]).
+- **Premio di Ricerca su AI (Sapienza / Cattolica / Digital)**: Discussione sull'esperienza e presentazione di un lavoro di ricerca basato sull'analisi qualitativa di testi clinici processati con modelli generativi ([large-language-models](large-language-models.md)).
 - **Necessità di Dialogo Interdisciplinare**: Evidenziata l'importanza dell'integrazione tra la prospettiva clinico-umanistica e il mondo ingegneristico per evitare sia l'allarmismo difensivo/politico, sia derive tecnocratiche prive di fondamento psicologico.
 
 ---
 
-## 2. Architettura di Agenti Didattici CBT: [[libet-prime-agenti-didattici|Libet Prime]]
+## 2. Architettura di Agenti Didattici CBT: [Libet Prime](concetti/concetti/concetti\libet-prime-agenti-didattici.md)
 - **Infrastruttura e Accessibilità Didattica**: Progettazione di un Gem su Google Workspace Education integrato con Google Classroom per gli allievi di Studi Cognitivi, consentendo un accesso selettivo per classi a costo zero (senza tariffazione API a consumo per singolo studente).
 - **Prompt Master a 5 Modalità Operative**:
   1. *Spiegazione teorica*: Approfondimento concettuale e teorico del modello clinico LIBET.
@@ -35,14 +39,14 @@
 
 ---
 
-## 4. Prompting Avanzato e [[simulazione-pazienti-ai]]
+## 4. Prompting Avanzato e [simulazione-pazienti-ai](simulazione-pazienti-ai.md)
 - **Standard di Trasparenza**: Utilizzo di linee guida e standard metodologici (es. framework TRIPOD) per definire chiaramente il contesto e i vincoli operativi dei prompt clinici.
 - **Calibrazione dei Livelli di Astrazione**: Necessità di esplicitare nei prompt se l'agente deve limitarsi a descrivere dati fattuali, interpretare fenomeni o condurre inferenze causali.
 - **Modellizzazione dei Bias Cognitivi**: Nella simulazione di pazienti virtuali per il training degli specializzandi, è fondamentale esplicitare le euristiche disfunzionali (es. pensiero dicotomico, catastrofizzazione, pattern di compliance/resistenza nell'alleanza) per evitare simulazioni stereotipate o meramente sintomatiche.
 
 ---
 
-## 5. Transizione verso lo [[human-in-the-reasoning]]
+## 5. Transizione verso lo [human-in-the-reasoning](human-in-the-reasoning.md)
 - **Superamento dello Human-in-the-Loop**: La validazione passiva a posteriori (*Human-in-the-Loop*) espone a rischi di deregolamentazione etica (*moral crumple zone*) e acquiescenza acritica (*automation bias*).
 - **Competenza Metacognitiva**: Il terapeuta deve apprendere come "ragiona" l'algoritmo, decodificando la natura probabilistica della black-box e guidando congiuntamente l'albero logico-inferenziale.
 
@@ -55,7 +59,7 @@
 
 ---
 
-## 7. Ricerca Clinica su Larga Scala e [[software-as-a-medical-device-salute-mentale|SaMD]]
+## 7. Ricerca Clinica su Larga Scala e [SaMD](software-as-a-medical-device-salute-mentale.md)
 - **Progetto NHS / NIHR (Prof. Delgadillo - Mindlive)**:
   - Analisi del bando di ricerca britannico (oltre 2 milioni di sterline) per integrare sistemi di IA nei servizi Talking Therapies (ex IAPT) dell'NHS.
   - Obiettivi clinici: incremento dell'efficacia terapeutica del 10% per ansia e depressione e abbattimento dei tassi di abbandono (*dropout*).
@@ -77,11 +81,14 @@ Proposta di strutturazione di un microcorso formativo (FAD) focalizzato su tre d
 ---
 
 ## Related pages
-- [[libet-prime-agenti-didattici]]
-- [[software-as-a-medical-device-salute-mentale]]
-- [[human-in-the-reasoning]]
-- [[simulazione-pazienti-ai]]
-- [[large-language-models]]
-- [[prompting-in-psychology]]
-- [[ai-research-ethics]]
-- [[05-08_Riunione_Knowledge_Base]]
+- [libet-prime-agenti-didattici](concetti/concetti/concetti\libet-prime-agenti-didattici.md)
+- [software-as-a-medical-device-salute-mentale](software-as-a-medical-device-salute-mentale.md)
+- [human-in-the-reasoning](human-in-the-reasoning.md)
+- [simulazione-pazienti-ai](simulazione-pazienti-ai.md)
+- [large-language-models](large-language-models.md)
+- [prompting-in-psychology](prompting-in-psychology.md)
+- [ai-research-ethics](ai-research-ethics.md)
+- [05-08_Riunione_Knowledge_Base](05-08_Riunione_Knowledge_Base.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

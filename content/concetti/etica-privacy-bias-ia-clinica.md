@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Etica, Privacy e Bias nell'IA Clinica
 
 **Summary**: Analisi delle sfide deontologiche, della tutela dei dati ipersensibili e dei bias sistematici di genere/diagnostici nell'utilizzo dei modelli linguistici in psicoterapia, con definizione delle buone pratiche di alfabetizzazione clinica.
@@ -39,10 +43,13 @@ Per garantire un utilizzo clinicamente ed eticamente fondato dell'IA, il gruppo 
 ---
 
 ## Related pages
-- [[05-11_Discussione_Gruppo_Ricerca_AI_Psicoterapia]]
-- [[human-in-the-reasoning]]
-- [[simulazione-pazienti-ai]]
-- [[software-as-a-medical-device-salute-mentale]]
-- [[ai-research-ethics]]
-- [[large-language-models]]
-- [[prompting-in-psychology]]
+- [05-11_Discussione_Gruppo_Ricerca_AI_Psicoterapia](../sintesi/05-11_Discussione_Gruppo_Ricerca_AI_Psicoterapia.md)
+- [human-in-the-reasoning](human-in-the-reasoning.md)
+- [simulazione-pazienti-ai](simulazione-pazienti-ai.md)
+- [software-as-a-medical-device-salute-mentale](software-as-a-medical-device-salute-mentale.md)
+- [ai-research-ethics](../ai-research-ethics.md)
+- [large-language-models](../large-language-models.md)
+- [prompting-in-psychology](../prompting-in-psychology.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

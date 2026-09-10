@@ -55,7 +55,7 @@ flowchart TD
 ### 1. Pilastro 1: Supervisione Istituzionale (*Institutional Oversight*)
 
 La *Sociotechnical Systems Theory (STS)* postula che le performance ottimali in ambienti complessi emergono dal co-design armonico tra la componente tecnologica e la struttura sociale e organizzativa:
-- **Policy d'Ateneo Chiare e Contestualizzate:** Definizione esplicita delle pratiche permesse (es. brainstorming, editing stilistico, traduzione, esplorazione bibliografica) e delle pratiche rigorosamente interdette (es. generazione autonoma di testi d'esame/tesi senza revisione, valutazione acritica della letteratura, delega di decisioni analitiche; vedi anche [[criteria-centric-genai-integration]]).
+- **Policy d'Ateneo Chiare e Contestualizzate:** Definizione esplicita delle pratiche permesse (es. brainstorming, editing stilistico, traduzione, esplorazione bibliografica) e delle pratiche rigorosamente interdette (es. generazione autonoma di testi d'esame/tesi senza revisione, valutazione acritica della letteratura, delega di decisioni analitiche; vedi anche [criteria-centric-genai-integration](criteria-centric-genai-integration.md)).
 - **Capacity Building Continuo e Curriculare:** Superamento dei workshop estemporanei tramite l'integrazione obbligatoria di moduli di *AI literacy* nei corsi di metodologia della ricerca scientifica per laureandi e dottorandi, accompagnata dalla formazione continua del corpo docente e dei supervisori (Tadimalla & Maher, 2024; Grande et al., 2024).
 - **Strutture di Supporto e Comitati Etici con Competenze IA:** Istituzione di sportelli tecnici e consultivi (*Help Desk*) per dirimere dubbi operativi e costituzione di *Research Ethics Boards* dotati di expertise specifica sui modelli linguistici e sulle tecnologie generative.
 - **Audit e Valutazione Continua:** Monitoraggio periodico per identificare tempestivamente gap emergenti, nuove vulnerabilità (es. jailbreak, bias) e adeguare le policy all'evoluzione dei modelli.
@@ -137,4 +137,5 @@ Per consentire l'adozione del framework anche in contesti con vincoli economici,
 ---
 
 ## Relazioni
-- Vedi anche: [[s44163-025-00495-3]], [[individual-boost-vs-collective-homogenization]], [[criteria-centric-genai-integration]], [[eight-step-genai-research-workflow]], [[structured-literature-reviews]], [[three-layer-governance-framework]], [[ai-literacy-in-academia]], [[ai-research-ethics]], [[mabirizi-et-al-2025]]
+- Vedi anche: [s44163-025-00495-3](s44163-025-00495-3.md), [individual-boost-vs-collective-homogenization](individual-boost-vs-collective-homogenization.md), [criteria-centric-genai-integration](criteria-centric-genai-integration.md), [eight-step-genai-research-workflow](eight-step-genai-research-workflow.md), [structured-literature-reviews](structured-literature-reviews.md), [three-layer-governance-framework](concetti/concetti/concetti\three-layer-governance-framework.md), [ai-literacy-in-academia](ai-literacy-in-academia.md), [ai-research-ethics](ai-research-ethics.md), [mabirizi-et-al-2025](mabirizi-et-al-2025.md)
+

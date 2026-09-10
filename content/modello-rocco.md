@@ -19,4 +19,7 @@ source_papers: ["Manuale_Tecnico_GenAI_Psicoterapia_CBT 1.md", "manuale_genai_cb
 - Wu, K., et al. (2025). Why Chain of Thought Fails in Clinical Text Understanding. *arXiv:2509.21933*.
 
 ## Relazioni 
-- Vedi anche: [[coast-framework-clinical-prompting]], [[LLM4CBT]], [[clinical-chain-of-thought-paradox]], [[stepwise-cot]]
+- Vedi anche: [coast-framework-clinical-prompting](concetti/concetti/concetti\coast-framework-clinical-prompting.md), [LLM4CBT](concetti/LLM4CBT.md), [clinical-chain-of-thought-paradox](clinical-chain-of-thought-paradox.md), [stepwise-cot](stepwise-cot.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

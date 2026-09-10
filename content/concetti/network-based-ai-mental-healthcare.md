@@ -63,9 +63,10 @@ graph TD
 ---
 
 ## Pagine Correlate
-- [[rezaei-et-al-2026]]
-- [[mental-health-chatbot-taxonomy]]
-- [[specialized-nlp-models-mental-health]]
-- [[stepped-care-ai-integration]]
-- [[modello-centauro-clinico]]
-- [[human-in-the-reasoning]]
+- [rezaei-et-al-2026](../sintesi/rezaei-et-al-2026.md)
+- [mental-health-chatbot-taxonomy](mental-health-chatbot-taxonomy.md)
+- [specialized-nlp-models-mental-health](specialized-nlp-models-mental-health.md)
+- [stepped-care-ai-integration](stepped-care-ai-integration.md)
+- [modello-centauro-clinico](concetti/concetti\modello-centauro-clinico.md)
+- [human-in-the-reasoning](human-in-the-reasoning.md)
+

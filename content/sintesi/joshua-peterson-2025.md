@@ -173,11 +173,14 @@ Il monitoraggio dell'aderenza in tempo reale basato su IA trasforma la gestione 
 
 ## Relazioni e Concetti Chiave Collegati
 
-- [[video-observed-therapy-ai]] — Modelli di Computer Vision e Video-Observed Therapy per la conferma dell'ingestione
-- [[wearable-sensor-fusion-adherence]] — Sensori indossabili inerziali, architetture Bi-LSTM e ottimizzazione SFOA
-- [[privacy-preserving-rpm-frameworks]] — Federated Learning, Differential Privacy e Homomorphic Encryption in telemedicina
-- [[proactive-surveillance-alert-fatigue]] — Sorveglianza proattiva multivariata e riduzione dell'alert fatigue clinica
-- [[context-aware-adaptive-nudging]] — Reinforcement Learning e agenti conversazionali per il nudging comportamentale
-- [[chronic-disease-monitoring-adherence]] — Automonitoraggio delle patologie croniche e aderenza terapeutica
-- [[ai-clinical-decision-support]] — Supporto decisionale clinico e accuratezza diagnostica
-- [[etica-privacy-bias-ia-clinica]] — Aspetti etici, sicurezza dei dati sanitari e bias algoritmici
+- [video-observed-therapy-ai](../video-observed-therapy-ai.md) — Modelli di Computer Vision e Video-Observed Therapy per la conferma dell'ingestione
+- [wearable-sensor-fusion-adherence](../wearable-sensor-fusion-adherence.md) — Sensori indossabili inerziali, architetture Bi-LSTM e ottimizzazione SFOA
+- [privacy-preserving-rpm-frameworks](../concetti/privacy-preserving-rpm-frameworks.md) — Federated Learning, Differential Privacy e Homomorphic Encryption in telemedicina
+- [proactive-surveillance-alert-fatigue](../concetti/proactive-surveillance-alert-fatigue.md) — Sorveglianza proattiva multivariata e riduzione dell'alert fatigue clinica
+- [context-aware-adaptive-nudging](../concetti/context-aware-adaptive-nudging.md) — Reinforcement Learning e agenti conversazionali per il nudging comportamentale
+- [chronic-disease-monitoring-adherence](../concetti/chronic-disease-monitoring-adherence.md) — Automonitoraggio delle patologie croniche e aderenza terapeutica
+- [ai-clinical-decision-support](../concetti/ai-clinical-decision-support.md) — Supporto decisionale clinico e accuratezza diagnostica
+- [etica-privacy-bias-ia-clinica](../concetti/etica-privacy-bias-ia-clinica.md) — Aspetti etici, sicurezza dei dati sanitari e bias algoritmici
+
+## Riferimenti Bibliografici
+- [Da integrare]

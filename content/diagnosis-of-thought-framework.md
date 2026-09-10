@@ -38,9 +38,12 @@ Il framework è nato per superare il *Paradosso dei Testi Clinici Reali*:
 - Documentazione interna sul COAST Framework.
 
 ## Relazioni
-- [COAST Framework](coast-framework-clinical-prompting.md) - Il DoT agisce come il motore logico interno per la componente *Actions* del framework COAST.
+- [COAST Framework](concetti/concetti\coast-framework-clinical-prompting.md) - Il DoT agisce come il motore logico interno per la componente *Actions* del framework COAST.
 - [Allucinazioni LLM](korsakoff-confabulazione-llm.md) - Il DoT mitiga la dissociazione tra accuratezza formale e fattualità empirica.
 - [CBT Case Formulation](cbt-case-formulation.md) - Applicazione specifica del DoT alla concettualizzazione cognitiva (Modello ABC).
 - [LLM](large-language-models.md) - Base tecnologica su cui viene applicato il framework.
-- [Modello Centauro Clinico](modello-centauro-clinico.md) - La metodologia DoT facilita la cooperazione clinica uomo-macchina con supervisione umana attiva.
+- [Modello Centauro Clinico](concetti/concetti\modello-centauro-clinico.md) - La metodologia DoT facilita la cooperazione clinica uomo-macchina con supervisione umana attiva.
 - [Explainable Mental Health Diagnosis](explainable-mental-health-diagnosis.md) - Tecniche di interpretabilità nosografica correlate al DoT.
+
+## Riferimenti Bibliografici
+- [Da integrare]

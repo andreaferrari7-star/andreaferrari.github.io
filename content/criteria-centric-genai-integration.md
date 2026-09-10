@@ -7,7 +7,7 @@ source_papers: ["JML_1001.pdf"]
 
 ## Definizione Operativa
 
-*   Il paradigma di **Criteria-Centric GenAI Integration** (Integrazione della GenAI Guidata dai Criteri) è un modello metodologico ed epistemologico formalizzato da Fabian Tingelhoff, Micha Brugger e Jan Marco Leimeister (2024; *Journal of Information Technology*) per governare l'adozione dell'Intelligenza Artificiale Generativa nella ricerca scientifica e nelle [[structured-literature-reviews|revisioni strutturate della letteratura (SLR)]].
+*   Il paradigma di **Criteria-Centric GenAI Integration** (Integrazione della GenAI Guidata dai Criteri) è un modello metodologico ed epistemologico formalizzato da Fabian Tingelhoff, Micha Brugger e Jan Marco Leimeister (2024; *Journal of Information Technology*) per governare l'adozione dell'Intelligenza Artificiale Generativa nella ricerca scientifica e nelle [revisioni strutturate della letteratura (SLR)](concetti/structured-literature-reviews.md).
 *   **Capovolgimento di Paradigma (*Flipping the Perspective*):** La maggior parte della letteratura valuta l'uso dell'IA con un approccio *capability-centric* ("cosa può o non può fare l'IA"), che diventa rapidamente obsoleto a ogni nuova release di modello. Il modello *criteria-centric* ribalta la questione ancorandola a principi normativi immutabili: *"cosa dovremmo consentire all'IA di fare, indipendentemente dalle sue capacità tecniche contingenti o future?"*.
 *   **Utilità Clinica e Metodologica:** Stabilisce confini precisi (*guardrails*) per preservare l'integrità accademica, la riproducibilità e l'accountability umana, impedendo che l'efficienza computazionale sostituisca il giudizio critico del ricercatore o introduca distorsioni sistemiche (es. allucinazioni, effetto ancoraggio, appiattimento su narrazioni dominanti).
 
@@ -86,4 +86,7 @@ flowchart TD
 
 ## Relazioni
 
-*   Vedi anche: [[jml-1001]], [[eight-step-genai-research-workflow]], [[between-and-within-tool-triangulation]], [[structured-literature-reviews]], [[guide-genai-literature-review]], [[gai-research-integrity-and-verification]], [[ai-research-ethics]], [[hybrid-ai-research-workflows]], [[modello-centauro-clinico]], [[large-language-models]]
+*   Vedi anche: [jml-1001](jml-1001.md), [eight-step-genai-research-workflow](eight-step-genai-research-workflow.md), [between-and-within-tool-triangulation](concetti/between-and-within-tool-triangulation.md), [structured-literature-reviews](structured-literature-reviews.md), [guide-genai-literature-review](guide-genai-literature-review.md), [gai-research-integrity-and-verification](gai-research-integrity-and-verification.md), [ai-research-ethics](ai-research-ethics.md), [hybrid-ai-research-workflows](hybrid-ai-research-workflows.md), [modello-centauro-clinico](concetti/concetti/concetti\modello-centauro-clinico.md), [large-language-models](large-language-models.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

@@ -181,11 +181,12 @@ L'introduzione di strategie **one-shot e few-shot** riduce in modo significativo
 ---
 
 ## Pagine e Concetti Correlati
-- [[semantic-drift-in-therapy-llms]]: Analisi teorica ed empirica della deriva semantica nei modelli linguistici applicati alla clinica.
-- [[miti-framework-llm-evaluation]]: Il framework Motivational Interviewing Treatment Integrity come metrica di valutazione e allineamento per l'IA.
-- [[annosum-mi-dataset]]: Dettagli architetturali, composizione e utilizzo del dataset AnnoSUM-MI.
-- [[progressive-prompting-clinical-summarization]]: Tecniche di prompting euristico progressivo per la sintesi e il coding clinico.
-- [[motivational-interviewing-dialogue-summarization]]: Stato dell'arte dell'elaborazione automatica del linguaggio applicata al Colloquio Motivazionale.
-- [[ctrs-automated-evaluation]]: Valutazione automatizzata della fedeltà terapeutica in CBT mediante scale cliniche standardizzate.
-- [[clinical-fidelity-assessment]]: Principi generali di fidelity assessment e behavioral coding in psicoterapia assistita da IA.
-- [[human-in-the-reasoning]]: Centralità del giudizio clinico umano nei processi di annotazione e validazione dei modelli generativi.
+- [semantic-drift-in-therapy-llms](../concetti/semantic-drift-in-therapy-llms.md): Analisi teorica ed empirica della deriva semantica nei modelli linguistici applicati alla clinica.
+- [miti-framework-llm-evaluation](../concetti/miti-framework-llm-evaluation.md): Il framework Motivational Interviewing Treatment Integrity come metrica di valutazione e allineamento per l'IA.
+- [annosum-mi-dataset](../concetti/annosum-mi-dataset.md): Dettagli architetturali, composizione e utilizzo del dataset AnnoSUM-MI.
+- [progressive-prompting-clinical-summarization](../concetti/progressive-prompting-clinical-summarization.md): Tecniche di prompting euristico progressivo per la sintesi e il coding clinico.
+- [motivational-interviewing-dialogue-summarization](../concetti/motivational-interviewing-dialogue-summarization.md): Stato dell'arte dell'elaborazione automatica del linguaggio applicata al Colloquio Motivazionale.
+- [ctrs-automated-evaluation](../concetti/ctrs-automated-evaluation.md): Valutazione automatizzata della fedeltà terapeutica in CBT mediante scale cliniche standardizzate.
+- [clinical-fidelity-assessment](../clinical-fidelity-assessment.md): Principi generali di fidelity assessment e behavioral coding in psicoterapia assistita da IA.
+- [human-in-the-reasoning](../human-in-the-reasoning.md): Centralità del giudizio clinico umano nei processi di annotazione e validazione dei modelli generativi.
+

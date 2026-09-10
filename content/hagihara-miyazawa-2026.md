@@ -17,4 +17,7 @@ source_papers: ["13428_2025_Article_2938.pdf"]
 - Hagihara, H., & Miyazawa, K. (2026). How well do large language models mirror human cognition of word concepts?: A comparison of psychological ratings for early-acquired English words. *Behavior Research Methods*, 58, Article 58. https://doi.org/10.3758/s13428-025-02938-2
 
 ## Relazioni
-- Vedi anche: [[lexical-psychological-features]], [[machine-psychology]], [[anthropomorphism-in-ai]]
+- Vedi anche: [lexical-psychological-features](lexical-psychological-features.md), [machine-psychology](machine-psychology.md), [anthropomorphism-in-ai](anthropomorphism-in-ai.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

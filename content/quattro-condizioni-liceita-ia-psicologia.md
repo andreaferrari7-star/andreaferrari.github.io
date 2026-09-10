@@ -29,7 +29,7 @@ source_papers:
 
 ## Definizione Operativa e Fondamento Istituzionale
 
-Le **Quattro Condizioni di Liceità e Correttezza Deontologica** costituiscono l'impalcatura regolatoria introdotta dall'[[guida-pratica-ai-oppv-1|OPPV (2026)]] per dirimere la tensione strutturale tra l'innovazione tecnologica dell'[[large-language-models|Intelligenza Artificiale Generativa]] e i doveri fiduciari della professione psicologica.
+Le **Quattro Condizioni di Liceità e Correttezza Deontologica** costituiscono l'impalcatura regolatoria introdotta dall'[OPPV (2026)](concetti/guida-pratica-ai-oppv-1.md) per dirimere la tensione strutturale tra l'innovazione tecnologica dell'[Intelligenza Artificiale Generativa](concetti/large-language-models.md) e i doveri fiduciari della professione psicologica.
 
 L'assunto di fondo stabilisce che l'impiego dell'IA non costituisce un semplice atto tecnico neutrale, ma si configura a tutti gli effetti come una complessa operazione di **trattamento di dati personali e particolari**, sottoposta a quattro livelli normativi concorrenti:
 
@@ -168,9 +168,12 @@ Per rendere effettive le quattro condizioni, lo psicologo è tenuto ad attuare a
 
 ## Concetti Correlati
 
-- [[guida-pratica-ai-oppv-1|Guida Operativa all'Utilizzo dell'AI nella Pratica Professionale (OPPV, 2026)]]: Documento sorgente e inquadramento generale.
-- [[configurazione-sicurezza-piattaforme-ia-clinica|Configurazione di Sicurezza e Mitigazione del Rischio per Piattaforme di IA in Ambito Clinico]]: Guida operativa alle impostazioni tecniche dei software.
-- [[informed-consent-for-clinical-ai|Consenso Informato per l'IA nella Pratica Clinica]]: Analisi del modello della divulgazione proporzionata.
-- [[gdpr-governance-mental-health-ai|GDPR Governance e Protezione Dati nell'IA per la Salute Mentale]]: Disciplina europea sui dati sanitari e digital privacy.
-- [[human-oversight-and-liability-in-clinical-ai|Supervisione Umana e Responsabilità Giuridica nell'IA Clinica]]: Quadro comparato sulla responsabilità sanitaria.
-- [[modello-centauro-clinico|Modello Centauro Clinico]]: Integrazione post-seduta virtuosa e non invasiva dell'IA nel setting.
+- [Guida Operativa all'Utilizzo dell'AI nella Pratica Professionale (OPPV, 2026)](concetti/guida-pratica-ai-oppv-1.md): Documento sorgente e inquadramento generale.
+- [Configurazione di Sicurezza e Mitigazione del Rischio per Piattaforme di IA in Ambito Clinico](concetti/configurazione-sicurezza-piattaforme-ia-clinica.md): Guida operativa alle impostazioni tecniche dei software.
+- [Consenso Informato per l'IA nella Pratica Clinica](concetti/informed-consent-for-clinical-ai.md): Analisi del modello della divulgazione proporzionata.
+- [GDPR Governance e Protezione Dati nell'IA per la Salute Mentale](concetti/concetti/concetti\gdpr-governance-mental-health-ai.md): Disciplina europea sui dati sanitari e digital privacy.
+- [Supervisione Umana e Responsabilità Giuridica nell'IA Clinica](concetti/human-oversight-and-liability-in-clinical-ai.md): Quadro comparato sulla responsabilità sanitaria.
+- [Modello Centauro Clinico](concetti/concetti/concetti\modello-centauro-clinico.md): Integrazione post-seduta virtuosa e non invasiva dell'IA nel setting.
+
+## Riferimenti Bibliografici
+- [Da integrare]

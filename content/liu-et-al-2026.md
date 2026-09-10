@@ -17,4 +17,5 @@ source_papers: ["2605.17333v1.pdf"]
 - Liu, W., Xu, Y., Xie, W., Zhu, Y., Dong, S., Wang, Z., Shao, W., Zhang, X., Yang, T., Duan, N., & Wang, J. (2026). Leveraging Error Diversity in Group Rollouts for Reinforcement Learning. *arXiv preprint arXiv:2605.17333*.
 
 ## Relazioni
-- Vedi anche: [[error-diversity-advantage-shaping]], [[rlvr]], [[clinical-chain-of-thought-paradox]]
+- Vedi anche: [error-diversity-advantage-shaping](concetti/error-diversity-advantage-shaping.md), [rlvr](concetti/rlvr.md), [clinical-chain-of-thought-paradox](clinical-chain-of-thought-paradox.md)
+

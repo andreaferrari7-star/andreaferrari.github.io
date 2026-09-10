@@ -101,8 +101,11 @@ Per abilitare modelli predittivi robusti e riproducibili nel rispetto della priv
 
 ## Related pages
 
-*   [[2601-06159v1]]: Studio di valutazione empirica sull'uso di dati simulati da letteratura.
-*   [[pretraining-simulated-data-clinical-ml]]: Algoritmi e modelli di pretraining su statistiche descrittive.
-*   [[mccv-and-statistical-validation-clinical-ml]]: Metodologia di cross-validation e test di generalizzazione in campioni clinici.
-*   [[etica-privacy-bias-ia-clinica]]: Aspetti etici, deontologici e di privacy nell'uso dell'IA in clinica.
-*   [[treatment-outcome-and-relapse-prediction]]: Predizione degli esiti terapeutici nella psicoterapia.
+*   [2601-06159v1](2601-06159v1.md): Studio di valutazione empirica sull'uso di dati simulati da letteratura.
+*   [pretraining-simulated-data-clinical-ml](pretraining-simulated-data-clinical-ml.md): Algoritmi e modelli di pretraining su statistiche descrittive.
+*   [mccv-and-statistical-validation-clinical-ml](concetti/mccv-and-statistical-validation-clinical-ml.md): Metodologia di cross-validation e test di generalizzazione in campioni clinici.
+*   [etica-privacy-bias-ia-clinica](concetti/etica-privacy-bias-ia-clinica.md): Aspetti etici, deontologici e di privacy nell'uso dell'IA in clinica.
+*   [treatment-outcome-and-relapse-prediction](concetti/treatment-outcome-and-relapse-prediction.md): Predizione degli esiti terapeutici nella psicoterapia.
+
+## Riferimenti Bibliografici
+- [Da integrare]

@@ -7,7 +7,7 @@ source_papers: ["TRIPOD+AI2024.pdf"]
 
 ## Definizione Operativa
 
-La **TRIPOD+AI Reporting Guideline** (*Transparent Reporting of a multivariable prediction model for Individual Prognosis Or Diagnosis - Artificial Intelligence*) è lo standard metodologico internazionale registrato presso l'**EQUATOR Network** progettato per guidare e standardizzare la rendicontazione scientifica degli studi che sviluppano o valutano modelli di predizione clinica, sia basati su modelli di regressione statistica tradizionale (logistica, Cox), sia su tecniche di Machine Learning ([[machine-learning|ML]]) e Intelligenza Artificiale ([[artificial-intelligence|AI]], come deep learning, random forests, boosting e support vector machines).
+La **TRIPOD+AI Reporting Guideline** (*Transparent Reporting of a multivariable prediction model for Individual Prognosis Or Diagnosis - Artificial Intelligence*) è lo standard metodologico internazionale registrato presso l'**EQUATOR Network** progettato per guidare e standardizzare la rendicontazione scientifica degli studi che sviluppano o valutano modelli di predizione clinica, sia basati su modelli di regressione statistica tradizionale (logistica, Cox), sia su tecniche di Machine Learning ([ML](concetti/machine-learning.md)) e Intelligenza Artificiale ([AI](concetti/artificial-intelligence.md), come deep learning, random forests, boosting e support vector machines).
 
 *   **Consenso Internazionale e Sostituzione di TRIPOD 2015:** Pubblicata su *The BMJ* (Collins et al., 2024; 385:e078378; doi: 10.1136/bmj-2023-078378), la linea guida **sostituisce integralmente lo standard TRIPOD 2015**, armonizzando la terminologia tra statistica ed epidemiologia e data science/machine learning.
 *   **Struttura a Matrice Funzionale:** Si compone di una **checklist di 27 item principali articolati in 52 sotto-item**, una **checklist dedicata per l'abstract (13 item)** e una matrice di attribuzione che specifica l'applicabilità di ciascuna voce per studi di solo sviluppo (**D** - *Development*), di sola valutazione esterna (**E** - *Evaluation*), o combinati (**D;E**).
@@ -155,11 +155,14 @@ graph TD
 
 ## Concetti Correlati e Connessioni Wiki
 
-- [[tripod-ai2024|Sintesi Paper TRIPOD+AI 2024 (Collins et al., BMJ)]] - Scheda bibliografica e sintesi estesa del paper BMJ
-- [[clinical-prediction-model-evaluation|Valutazione dei Modelli Predittivi Clinici]] - Quadro concettuale: calibrazione continua, discriminazione, utilità clinica e ricalibrazione
-- [[tripod-llm-reporting-guideline|TRIPOD-LLM Reporting Guideline]] - Linea guida per modelli generativi e prompt engineering
-- [[chart-reporting-guideline|CHART Reporting Guideline]] - Standard di reporting per studi di consulenza sanitaria con Chatbot/LLM
-- [[refine-reporting-checklist|REFINE Reporting Checklist]] - Checklist internazionale per Foundation Models e LLM in sanità
-- [[elevate-genai-framework|ELEVATE-GenAI Framework]] - Reporting per GenAI in economia sanitaria e outcomes research
-- [[cross-cultural-bias-and-fairness-audits-ai|Audit di Fairness e Bias nei Sistemi di IA Sanitaria]] - Principi di equità algoritmica e mitigazione delle disparità
-- [[software-as-a-medical-device-salute-mentale|Software as a Medical Device (SaMD)]] - Standard regolatori e certificazione dei software predittivi
+- [Sintesi Paper TRIPOD+AI 2024 (Collins et al., BMJ)](tripod-ai2024.md) - Scheda bibliografica e sintesi estesa del paper BMJ
+- [Valutazione dei Modelli Predittivi Clinici](concetti/clinical-prediction-model-evaluation.md) - Quadro concettuale: calibrazione continua, discriminazione, utilità clinica e ricalibrazione
+- [TRIPOD-LLM Reporting Guideline](concetti/tripod-llm-reporting-guideline.md) - Linea guida per modelli generativi e prompt engineering
+- [CHART Reporting Guideline](concetti/chart-reporting-guideline.md) - Standard di reporting per studi di consulenza sanitaria con Chatbot/LLM
+- [REFINE Reporting Checklist](concetti/refine-reporting-checklist.md) - Checklist internazionale per Foundation Models e LLM in sanità
+- [ELEVATE-GenAI Framework](concetti/elevate-genai-framework.md) - Reporting per GenAI in economia sanitaria e outcomes research
+- [Audit di Fairness e Bias nei Sistemi di IA Sanitaria](concetti/cross-cultural-bias-and-fairness-audits-ai.md) - Principi di equità algoritmica e mitigazione delle disparità
+- [Software as a Medical Device (SaMD)](software-as-a-medical-device-salute-mentale.md) - Standard regolatori e certificazione dei software predittivi
+
+## Riferimenti Bibliografici
+- [Da integrare]

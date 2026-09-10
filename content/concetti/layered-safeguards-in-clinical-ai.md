@@ -121,13 +121,14 @@ La tabella sintetizza i principali pattern di sicurezza implementati nei sistemi
 ---
 
 ## Relazioni
-- [[generative-ai-mental-health-chatbot-interventions]]: Scoping review di Olisaeloka et al. (2026) su safety e UX nei chatbot GenAI.
-- [[relational-engagement-paradox-genai]]: Il paradosso tra alta alleanza terapeutica iniziale e drastico calo di engagement nel tempo.
-- [[clinical-readiness-gap-in-mh-chatbots]]: Il divario di prontezza clinica e sicurezza nei chatbot per la salute mentale.
-- [[traffic-light-quality-appraisal-clinical-ai]]: Framework di valutazione a semaforo per il rischio etico e la validazione esterna.
-- [[modello-centauro-clinico]]: Integrazione Human-in-the-Loop e collaborazione tra clinico e agente artificiale.
-- [[software-as-a-medical-device-salute-mentale]]: Inquadramento regolatorio SaMD e certificazione dei dispositivi medici digitali.
-- [[three-layer-governance-framework]]: Governance a tre livelli per l'intelligenza artificiale in sanità.
-- [[rag-in-psicoterapia]]: Recupero aumentato da conoscenza clinica strutturata per mitigare le allucinazioni.
-- [[automated-clinical-ai-red-teaming]]: Test di vulnerabilità e adversarial attack per validare i guardrail clinici.
-- [[stepped-care-ai-integration]]: Inserimento di strumenti digitali sicuri all'interno delle reti territoriali di cura a gradini.
+- [generative-ai-mental-health-chatbot-interventions](../generative-ai-mental-health-chatbot-interventions.md): Scoping review di Olisaeloka et al. (2026) su safety e UX nei chatbot GenAI.
+- [relational-engagement-paradox-genai](relational-engagement-paradox-genai.md): Il paradosso tra alta alleanza terapeutica iniziale e drastico calo di engagement nel tempo.
+- [clinical-readiness-gap-in-mh-chatbots](concetti/concetti\clinical-readiness-gap-in-mh-chatbots.md): Il divario di prontezza clinica e sicurezza nei chatbot per la salute mentale.
+- [traffic-light-quality-appraisal-clinical-ai](traffic-light-quality-appraisal-clinical-ai.md): Framework di valutazione a semaforo per il rischio etico e la validazione esterna.
+- [modello-centauro-clinico](concetti/concetti\modello-centauro-clinico.md): Integrazione Human-in-the-Loop e collaborazione tra clinico e agente artificiale.
+- [software-as-a-medical-device-salute-mentale](software-as-a-medical-device-salute-mentale.md): Inquadramento regolatorio SaMD e certificazione dei dispositivi medici digitali.
+- [three-layer-governance-framework](concetti/concetti\three-layer-governance-framework.md): Governance a tre livelli per l'intelligenza artificiale in sanità.
+- [rag-in-psicoterapia](rag-in-psicoterapia.md): Recupero aumentato da conoscenza clinica strutturata per mitigare le allucinazioni.
+- [automated-clinical-ai-red-teaming](automated-clinical-ai-red-teaming.md): Test di vulnerabilità e adversarial attack per validare i guardrail clinici.
+- [stepped-care-ai-integration](stepped-care-ai-integration.md): Inserimento di strumenti digitali sicuri all'interno delle reti territoriali di cura a gradini.
+

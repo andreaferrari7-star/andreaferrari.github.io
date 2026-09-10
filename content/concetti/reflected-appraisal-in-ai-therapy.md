@@ -54,8 +54,11 @@ flowchart TD
 ---
 
 ## Relazioni
-- [[herbener-damholdt-2025]]
-- [[genuineness-gap]]
-- [[ontological-and-sociocultural-status]]
-- [[simulated-empathy-vs-authentic-presence]]
-- [[blended-care-ai-framework]]
+- [herbener-damholdt-2025](../sintesi/herbener-damholdt-2025.md)
+- [genuineness-gap](genuineness-gap.md)
+- [ontological-and-sociocultural-status](ontological-and-sociocultural-status.md)
+- [simulated-empathy-vs-authentic-presence](concetti/concetti\simulated-empathy-vs-authentic-presence.md)
+- [blended-care-ai-framework](blended-care-ai-framework.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

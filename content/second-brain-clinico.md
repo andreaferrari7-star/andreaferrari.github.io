@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Second Brain Clinico
 
 **Summary**: Metodologia e architettura di gestione della conoscenza personale (PKM) per psicoterapeuti, basata su archivi locali strutturati (es. Obsidian, Markdown) e integrabile con modelli linguistici. Consente di organizzare protocolli evidence-based, concettualizzazioni di caso e percorsi di autosupervisione senza delegare acriticamente il metodo clinico a software commerciali proprietari.
@@ -48,11 +52,13 @@ graph TD
 ---
 
 ## Related pages
-- [[07-08_Riunione_Pianificazione_Corso]]
-- [[microprogettazione-formativa-ia]]
-- [[human-in-the-reasoning]]
-- [[augmented-psychotherapy]]
-- [[ai-assisted-psychotherapy]]
-- [[prompting-in-psychology]]
-- [[05-08_Riunione_Knowledge_Base]]
+- [07-08_Riunione_Pianificazione_Corso](07-08_Riunione_Pianificazione_Corso.md)
+- [microprogettazione-formativa-ia](concetti/concetti/concetti\microprogettazione-formativa-ia.md)
+- [human-in-the-reasoning](human-in-the-reasoning.md)
+- [augmented-psychotherapy](augmented-psychotherapy.md)
+- [ai-assisted-psychotherapy](ai-assisted-psychotherapy.md)
+- [prompting-in-psychology](prompting-in-psychology.md)
+- [05-08_Riunione_Knowledge_Base](05-08_Riunione_Knowledge_Base.md)
 
+## Riferimenti Bibliografici
+- [Da integrare]

@@ -30,5 +30,6 @@ source_papers: ["2603.27146v3.pdf", "2605.24351v1.pdf", "2507.04491v2.pdf"]
 
 ## Relazioni
 
-- Vedi anche: [[dual-validity-framework]], [[future-alignment-score]], [[time-sliced-scientific-forecasting]], [[measurement-phantoms]], [[structured-literature-reviews]]
+- Vedi anche: [dual-validity-framework](dual-validity-framework.md), [future-alignment-score](future-alignment-score.md), [time-sliced-scientific-forecasting](time-sliced-scientific-forecasting.md), [measurement-phantoms](measurement-phantoms.md), [structured-literature-reviews](structured-literature-reviews.md)
+
 

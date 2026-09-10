@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Visibilità Negoziabile dei Dati e Privacy Dinamica in Sanità Mentale
 
 **Summary**: Paradigma di sicurezza e governance del dato clinico (DG2, Quan et al., 2025) basato su un'architettura di privacy flessibile e multilivello (*share once, share partially, keep private*), progettato per mitigare l'effetto Panopticon e restituire agency relazionale ai pazienti marginalizzati nell'interazione con sistemi IA e terapeuti.
@@ -53,9 +57,12 @@ L'adozione della visibilità negoziabile richiede vincoli tecnici stringenti sui
 
 ---
 ## Concetti Correlati
-- [[dynamic-boundary-mediation-framework]]
-- [[boundary-objects-in-psychotherapy]]
-- [[contextualized-relational-memory]]
-- [[educator-burden-marginalized-clients]]
-- [[etica-privacy-bias-ia-clinica]]
-- [[three-layer-governance-framework]]
+- [dynamic-boundary-mediation-framework](dynamic-boundary-mediation-framework.md)
+- [boundary-objects-in-psychotherapy](boundary-objects-in-psychotherapy.md)
+- [contextualized-relational-memory](contextualized-relational-memory.md)
+- [educator-burden-marginalized-clients](educator-burden-marginalized-clients.md)
+- [etica-privacy-bias-ia-clinica](etica-privacy-bias-ia-clinica.md)
+- [three-layer-governance-framework](concetti/concetti\three-layer-governance-framework.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

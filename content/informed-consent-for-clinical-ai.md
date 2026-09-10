@@ -44,10 +44,10 @@ Il consenso deve includere:
 ## Relazioni
 
 Vedi anche:
-*   [[ethical-guidance-professional-practice-1]]
-*   [[human-oversight-and-liability-in-clinical-ai]]
-*   [[gdpr-governance-mental-health-ai]]
-*   [[algorithmic-paternalism-in-ai-mental-health]]
-*   [[three-layer-governance-framework]]
-*   [[prosocial-advance-directives]]
-*   [[human-in-the-reasoning]]
+*   [ethical-guidance-professional-practice-1](ethical-guidance-professional-practice-1.md)
+*   [human-oversight-and-liability-in-clinical-ai](human-oversight-and-liability-in-clinical-ai.md)
+*   [gdpr-governance-mental-health-ai](concetti/concetti/concetti\gdpr-governance-mental-health-ai.md)
+*   [algorithmic-paternalism-in-ai-mental-health](concetti/concetti/concetti\algorithmic-paternalism-in-ai-mental-health.md)
+*   [three-layer-governance-framework](concetti/concetti/concetti\three-layer-governance-framework.md)
+*   [prosocial-advance-directives](prosocial-advance-directives.md)
+*   [human-in-the-reasoning](human-in-the-reasoning.md)

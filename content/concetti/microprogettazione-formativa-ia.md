@@ -25,11 +25,14 @@ La formazione specialistica sull'IA in contesti clinici richiede un approccio sp
 
 ## Relazioni
 
-- [[07-08_Pianificazione_Corso_IA_Psicoterapia]]
-- [[second-brain-clinico]]
-- [[ai-literacy-in-academia]]
-- [[human-in-the-reasoning]]
-- [[prompting-in-psychology]]
+- [07-08_Pianificazione_Corso_IA_Psicoterapia](../sintesi/07-08_Pianificazione_Corso_IA_Psicoterapia.md)
+- [second-brain-clinico](second-brain-clinico.md)
+- [ai-literacy-in-academia](../ai-literacy-in-academia.md)
+- [human-in-the-reasoning](human-in-the-reasoning.md)
+- [prompting-in-psychology](../prompting-in-psychology.md)
 
 **Riferimenti Bibliografici:**
 - 07-08 Riunione_ Pianificazione corso IA per psicoterapia — struttura, validazione interessi, microprogettazione e coordinamento.txt
+
+## Riferimenti Bibliografici
+- [Da integrare]

@@ -103,12 +103,15 @@ graph TD
 ---
 
 ## Pagine Correlate
-- [[healthcare-conversational-agents]]
-- [[conversational-agents-mental-health]]
-- [[ai-clinical-decision-support]]
-- [[addiction-lifestyle-behavior-change]]
-- [[chronic-disease-monitoring-adherence]]
-- [[ai-assisted-psychotherapy]]
-- [[augmented-psychotherapy]]
-- [[digital-therapeutic-alliance]]
-- [[human-in-the-reasoning]]
+- [healthcare-conversational-agents](../concetti/concetti/concetti\healthcare-conversational-agents.md)
+- [conversational-agents-mental-health](../concetti/conversational-agents-mental-health.md)
+- [ai-clinical-decision-support](../concetti/ai-clinical-decision-support.md)
+- [addiction-lifestyle-behavior-change](../concetti/addiction-lifestyle-behavior-change.md)
+- [chronic-disease-monitoring-adherence](../concetti/chronic-disease-monitoring-adherence.md)
+- [ai-assisted-psychotherapy](../ai-assisted-psychotherapy.md)
+- [augmented-psychotherapy](../augmented-psychotherapy.md)
+- [digital-therapeutic-alliance](../digital-therapeutic-alliance.md)
+- [human-in-the-reasoning](../human-in-the-reasoning.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

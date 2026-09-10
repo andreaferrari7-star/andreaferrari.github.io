@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Software as a Medical Device (SaMD) in Salute Mentale
 
 **Summary**: Framework regolatorio, metodologico e clinico per l'integrazione di sistemi di intelligenza artificiale certificati come dispositivi medici (SaMD) nei servizi sanitari pubblici, con focus sulla gestione dei pazienti Not-On-Track e la validazione tramite RCT in cieco.
@@ -51,9 +55,12 @@ Ottenere la certificazione SaMD impone requisiti di evidenza empirica eccezional
 
 ## Related pages
 
-- [[05-11_Discussione_Gruppo_Ricerca]]
-- [[libet-prime-agenti-didattici]]
-- [[human-in-the-reasoning]]
-- [[digital-therapeutic-alliance]]
-- [[ai-research-ethics]]
-- [[large-language-models]]
+- [05-11_Discussione_Gruppo_Ricerca](05-11_Discussione_Gruppo_Ricerca.md)
+- [libet-prime-agenti-didattici](concetti/concetti/concetti\libet-prime-agenti-didattici.md)
+- [human-in-the-reasoning](human-in-the-reasoning.md)
+- [digital-therapeutic-alliance](digital-therapeutic-alliance.md)
+- [ai-research-ethics](ai-research-ethics.md)
+- [large-language-models](large-language-models.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

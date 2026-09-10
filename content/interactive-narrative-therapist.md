@@ -87,4 +87,5 @@ flowchart TD
 
 ## Relazioni
 
-*   Vedi anche: [[2507-20241v2]], [[innovative-moment-assessment]], [[terapia-narrativa-ia]], [[crdial-framework]], [[crispers-models-and-dataset]], [[clinical-fidelity-assessment]], [[simulazione-pazienti-ai]], [[ai-assisted-psychotherapy]], [[process-of-change]], [[active-ai-therapeutic-agent]]
+*   Vedi anche: [2507-20241v2](2507-20241v2.md), [innovative-moment-assessment](innovative-moment-assessment.md), [terapia-narrativa-ia](concetti/terapia-narrativa-ia.md), [crdial-framework](crdial-framework.md), [crispers-models-and-dataset](concetti/concetti/concetti\crispers-models-and-dataset.md), [clinical-fidelity-assessment](clinical-fidelity-assessment.md), [simulazione-pazienti-ai](simulazione-pazienti-ai.md), [ai-assisted-psychotherapy](ai-assisted-psychotherapy.md), [process-of-change](concetti/process-of-change.md), [active-ai-therapeutic-agent](active-ai-therapeutic-agent.md)
+

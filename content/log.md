@@ -197,9 +197,9 @@ Registro cronologico di acquisizioni, query e manutenzione.
 
 ## [2026-08-28] query | chatbot
 - Risposta a quesito: "cos'è un chatbot?" tramite `./wiki-search` (modalità predefinita `fast`, retrieval da `wiki/`).
-- Definizione sintetizzata: agente conversazionale basato su NLP / LLM / assistenti vocali / agenti incarnati (ECA), impiegato in comunicazione sanitaria, triage, gestione patologie e supporto clinico; in salute mentale eroga interventi CBT/psicoeducativi di prevenzione, monitoraggio e mitigazione di distress (depressione, ansia, stress) [`healthcare-conversational-agents.md`, `concetti/conversational-agents-mental-health.md`].
+- Definizione sintetizzata: agente conversazionale basato su NLP / LLM / assistenti vocali / agenti incarnati (ECA), impiegato in comunicazione sanitaria, triage, gestione patologie e supporto clinico; in salute mentale eroga interventi CBT/psicoeducativi di prevenzione, monitoraggio e mitigazione di distress (depressione, ansia, stress) [`concetti/concetti\healthcare-conversational-agents.md`, `concetti/conversational-agents-mental-health.md`].
 - Evidence: efficacia a breve termine (depressione g=0.26–0.64; ansia g=0.19–0.47) con attenuazione ai follow-up (g=0.08–0.16); agenti embodied superiori (g=0.88). Limite: non idonei a crisi acute/rischio suicidario, necessitano routing umano [`concetti/conversational-agents-mental-health.md`, `social-oriented-vs-task-oriented-chatbots.md`].
-- Fonti: healthcare-conversational-agents.md, concetti/conversational-agents-mental-health.md, social-oriented-vs-task-oriented-chatbots.md, 2509.02144v1.md.
+- Fonti: concetti/concetti\healthcare-conversational-agents.md, concetti/conversational-agents-mental-health.md, social-oriented-vs-task-oriented-chatbots.md, 2509.02144v1.md.
 
 ## [2026-08-28] ingest | modello-rocco
 - Creata la pagina di sintesi del concetto modello-rocco.md.
@@ -456,4 +456,19 @@ Integrazione del paper sull'uso degli LLMs per la sintesi dei dialoghi nel collo
 - Creata la pagina di sintesi `healthcare-13-02340.md`.
 - Creata la pagina concettuale `responsabilita-sanitaria-allucinazioni-algoritmiche.md` relativa all'intrasferibilità della colpa professionale e all'assorbimento di responsabilità sanitaria dello psicologo.
 - Aggiornato `index.md` con l'indicizzazione delle nuove pagine.
+
+
+## [2026-09-09] query | fenotipizzazione-computazionale
+- Domanda: "spiegami cos'è la fenotipizzazione computazionale".
+- Recupero ibrido via `wiki-search`: pagina principale identificata `multimodal-observable-cues-in-psychiatry.md` (score 1.0).
+- Risposta sintetizzata in chat a partire dalle pagine `multimodal-observable-cues-in-psychiatry.md` e `algorithmic-tractability-in-psychotherapy.md`.
+
+## [2026-09-09] query | fenotipizzazione-computazionale - creazione pagina
+- Creata la pagina concettuale `wiki/concetti/fenotipizzazione-computazionale.md` con definizione operativa, tassonomia dei sei canali sensoriali, firme transdiagnostiche e disturbo-specifiche, architetture ML, applicazioni cliniche (Early Warning, JITAI, XAI) e riferimenti bibliografici APA completi.
+- Aggiornato `wiki/index.md`: inserita voce nella sezione 5 (Psicoterapia Aumentata, Interventi Digitali e Biomarcatori).
+
+## [2026-09-10] synthesis | mappa-contraddizioni-epistemiche
+- Creata la pagina di sintesi approfondita `wiki/sintesi/mappa-contraddizioni-epistemiche.md` ("Osservatorio delle Contraddizioni Epistemiche").
+- Mappate 12 discrepanze e divergenze strutturali/empiriche tra evidenze cliniche EBT e allineamento LLM con citazioni verificate a doppio riscontro.
+- Aggiornato `wiki/index.md` nella sezione 2 (Sicurezza Clinica, Bias, Allineamento e Red Teaming).
 

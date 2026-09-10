@@ -77,7 +77,10 @@ graph TD
 ---
 
 ## Relazioni
-- [[automated-cognitive-restructuring]]: Fase successiva di ristrutturazione del pensiero individuato.
-- [[ai-enhanced-cbt]]: Collocazione nell'assessment pre-trattamento e durante la terapia.
-- [[cbt-dialogue-systems-and-tools]]: Integrazione nei motori conversazionali (es. TeaBot, Woebot).
-- [[jiang-et-al-2024]]: Review sistematica di base.
+- [automated-cognitive-restructuring](automated-cognitive-restructuring.md): Fase successiva di ristrutturazione del pensiero individuato.
+- [ai-enhanced-cbt](concetti/concetti\ai-enhanced-cbt.md): Collocazione nell'assessment pre-trattamento e durante la terapia.
+- [cbt-dialogue-systems-and-tools](concetti/concetti\cbt-dialogue-systems-and-tools.md): Integrazione nei motori conversazionali (es. TeaBot, Woebot).
+- [jiang-et-al-2024](../sintesi/jiang-et-al-2024.md): Review sistematica di base.
+
+## Riferimenti Bibliografici
+- [Da integrare]

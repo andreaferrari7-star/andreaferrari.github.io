@@ -147,4 +147,5 @@ L'apprendimento supervisionato necessita di annotazioni fornite da clinici, le q
 
 ## Relazioni
 
-- Vedi anche: [[a-2702-1843]], [[xai-in-pediatric-surgery]], [[accept-ai-and-pediatric-ethical-frameworks]], [[pediatric-xai-benchmarking]], [[audit-bias-llm-clinici]], [[misurazione-bias-razziale-llm]], [[weird-bias-cultural-adaptability-ai]], [[algorithmic-bias-and-digital-inequalities]], [[software-as-a-medical-device-salute-mentale]], [[three-layer-governance-framework]]
+- Vedi anche: [a-2702-1843](a-2702-1843.md), [xai-in-pediatric-surgery](xai-in-pediatric-surgery.md), [accept-ai-and-pediatric-ethical-frameworks](concetti/accept-ai-and-pediatric-ethical-frameworks.md), [pediatric-xai-benchmarking](concetti/pediatric-xai-benchmarking.md), [audit-bias-llm-clinici](concetti/concetti/concetti\audit-bias-llm-clinici.md), [misurazione-bias-razziale-llm](concetti/concetti/concetti\misurazione-bias-razziale-llm.md), [weird-bias-cultural-adaptability-ai](concetti/weird-bias-cultural-adaptability-ai.md), [algorithmic-bias-and-digital-inequalities](concetti/algorithmic-bias-and-digital-inequalities.md), [software-as-a-medical-device-salute-mentale](software-as-a-medical-device-salute-mentale.md), [three-layer-governance-framework](concetti/concetti/concetti\three-layer-governance-framework.md)
+

@@ -52,7 +52,7 @@ La marcata superiorità clinica dei sistemi orientati alla relazione affettiva r
 
 ### 2. Il Modello dei Fattori Comuni in Psicoterapia (*Common Factors Model* - Wampold, 2001)
 - Nella ricerca sui meccanismi di cambiamento terapeutico, i modelli teorici e le specifiche tecniche procedurali (es. compiti a casa, schemi logici) spiegano solo una percentuale marginale dell'esito clinico ($<15\%$).
-- Al contrario, i **fattori comuni aspecifici** — in primis l'[[digital-therapeutic-alliance|alleanza terapeutica]], la profondità relazionale, la comprensione empatica e l'accettazione incondizionata (Flückiger et al., 2012; Horvath & Symonds, 1991; Martin et al., 2000) — rappresentano i predittori più robusti del miglioramento sintomatico.
+- Al contrario, i **fattori comuni aspecifici** — in primis l'[Alleanza terapeutica](concetti/digital-therapeutic-alliance.md), la profondità relazionale, la comprensione empatica e l'accettazione incondizionata (Flückiger et al., 2012; Horvath & Symonds, 1991; Martin et al., 2000) — rappresentano i predittori più robusti del miglioramento sintomatico.
 - I chatbot *social-oriented* replicano proprio questi fattori comuni aspecifici, creando un legame collaborativo che favorisce l'autorivelazione (*self-disclosure*) e la regolazione emotiva.
 
 ### 3. L'Ipotesi del Cuscinetto del Supporto Sociale Percepito (*Buffering Hypothesis*)
@@ -107,8 +107,8 @@ flowchart LR
 I risultati di Zhang et al. (2025) indicano che gli sviluppatori di strumenti digitali per la salute mentale non devono scegliere tra rigore clinico ed empatia relazionale, ma devono integrare principi di **Relational Design** all'interno dei sistemi evidence-based:
 
 1. **Architettura Duale Empatico-Istruttiva:** Integrare un modulo front-end caloroso, validante e sintonizzato affettivamente con un back-end clinico vincolato a protocolli CBT/DBT strutturati;
-2. **Safeguards Multilivello a Tolleranza Zero:** Implementare guardrail e classificatori deterministici per l'interruzione immediata dell'interazione libera e l'escalation umana in presenza di indicatori di autolesionismo o scompenso acuto ([[layered-safeguards-in-clinical-ai|Layered Safeguards]]);
-3. **Modello Centauro e Blended Care:** Collocare il chatbot sociale come strumento ausiliario per il monitoraggio quotidiano e il supporto tra le sedute, preservando la centralità della relazione con il terapeuta umano ([[modello-centauro-clinico|Modello Centauro]]).
+2. **Safeguards Multilivello a Tolleranza Zero:** Implementare guardrail e classificatori deterministici per l'interruzione immediata dell'interazione libera e l'escalation umana in presenza di indicatori di autolesionismo o scompenso acuto ([Layered Safeguards](concetti/concetti/concetti\layered-safeguards-in-clinical-ai.md));
+3. **Modello Centauro e Blended Care:** Collocare il chatbot sociale come strumento ausiliario per il monitoraggio quotidiano e il supporto tra le sedute, preservando la centralità della relazione con il terapeuta umano ([Modello Centauro](concetti/concetti/concetti\modello-centauro-clinico.md)).
 
 ---
 
@@ -128,4 +128,6 @@ I risultati di Zhang et al. (2025) indicano che gli sviluppatori di strumenti di
 ---
 
 ## Relazioni
-- Vedi anche: [[jmir-v27-e78238]], [[digital-therapeutic-alliance]], [[relational-engagement-paradox-genai]], [[layered-safeguards-in-clinical-ai]], [[modello-centauro-clinico]], [[uso-problematico-chatbot-ai]], [[sycophantic-mirroring]], [[algorithmic-paternalism-in-ai-mental-health]], [[artificial-intimacy]]
+- Vedi anche: [jmir-v27-e78238](jmir-v27-e78238.md), [digital-therapeutic-alliance](digital-therapeutic-alliance.md), [relational-engagement-paradox-genai](relational-engagement-paradox-genai.md), [layered-safeguards-in-clinical-ai](concetti/concetti/concetti\layered-safeguards-in-clinical-ai.md), [modello-centauro-clinico](concetti/concetti/concetti\modello-centauro-clinico.md), [uso-problematico-chatbot-ai](uso-problematico-chatbot-ai.md), [sycophantic-mirroring](concetti/concetti/concetti\sycophantic-mirroring.md), [algorithmic-paternalism-in-ai-mental-health](concetti/concetti/concetti\algorithmic-paternalism-in-ai-mental-health.md), [artificial-intimacy](artificial-intimacy.md)
+
+

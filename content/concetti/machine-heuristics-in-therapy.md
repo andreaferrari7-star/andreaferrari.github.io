@@ -49,7 +49,7 @@ Nel setting clinico, l'interazione con un terapeuta umano attiva le **Expert Heu
 
 Quando un agente artificiale utilizza espressioni tipiche del gergo psicoterapeutico o tenta di impersonare un clinico:
 - L'utente sperimenta una **dissonanza cognitiva**: i segnali di perizia verbale confliggono con l'attivazione della *machine heuristic*.
-- La consapevolezza che l'interlocutore è un algoritmo riduce la propensione ad affidargli la guida di processi emotivi complessi, contribuendo direttamente all'insorgenza del **[[credibility-gap|Credibility Gap]]**.
+- La consapevolezza che l'interlocutore è un algoritmo riduce la propensione ad affidargli la guida di processi emotivi complessi, contribuendo direttamente all'insorgenza del **[Credibility Gap](concetti/concetti\credibility-gap.md)**.
 
 ---
 
@@ -72,8 +72,11 @@ Herbener & Damholdt (2025) sottolineano un dilemma progettuale:
 ---
 
 ## Relazioni
-- [[herbener-damholdt-2025]]
-- [[credibility-gap]]
-- [[ontological-and-sociocultural-status]]
-- [[anthropomorphism-in-ai]]
-- [[blended-care-ai-framework]]
+- [herbener-damholdt-2025](../sintesi/herbener-damholdt-2025.md)
+- [credibility-gap](concetti/concetti\credibility-gap.md)
+- [ontological-and-sociocultural-status](ontological-and-sociocultural-status.md)
+- [anthropomorphism-in-ai](../anthropomorphism-in-ai.md)
+- [blended-care-ai-framework](blended-care-ai-framework.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

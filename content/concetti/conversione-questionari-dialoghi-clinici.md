@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Conversione Questionari-Linguaggio Naturale per Agenti Clinici
 
 **Summary**: Metodologia di ingegneria del prompt e preprocessing clinico che trasforma scale psicometriche tabulari (es. BDI, HAM-D, HAM-A) e metadati anamnestici in descrizioni fenomenologiche in linguaggio naturale. Questo approccio risolve i problemi di allucinazione e interpretazione rigida dei Large Language Models durante la simulazione di pazienti, traducendo punteggi numerici discreti in vissuti soggettivi realistici e clinicamente coerenti.
@@ -72,8 +76,11 @@ Nel framework **SQPsych** (Vu et al., 2025), la conversione si basa su una tabel
 ---
 
 ## Pagine Correlate
-- [[sqpsych-framework]]: Architettura generale di generazione dual-agent e dataset SQPsychConv.
-- [[vu-et-al-2025]]: Sintesi del paper di riferimento.
-- [[cognitive-distortion-detection]]: Individuazione di credenze disfunzionali nel discorso clinico.
-- [[simulazione-pazienti-ai]]: Metodologie e vincoli per la creazione di pazienti virtuali.
-- [[specialized-nlp-models-mental-health]]: Adattamento di modelli NLP al lessico e alla psicopatologia clinica.
+- [sqpsych-framework](sqpsych-framework.md): Architettura generale di generazione dual-agent e dataset SQPsychConv.
+- [vu-et-al-2025](../sintesi/vu-et-al-2025.md): Sintesi del paper di riferimento.
+- [cognitive-distortion-detection](cognitive-distortion-detection.md): Individuazione di credenze disfunzionali nel discorso clinico.
+- [simulazione-pazienti-ai](simulazione-pazienti-ai.md): Metodologie e vincoli per la creazione di pazienti virtuali.
+- [specialized-nlp-models-mental-health](specialized-nlp-models-mental-health.md): Adattamento di modelli NLP al lessico e alla psicopatologia clinica.
+
+## Riferimenti Bibliografici
+- [Da integrare]

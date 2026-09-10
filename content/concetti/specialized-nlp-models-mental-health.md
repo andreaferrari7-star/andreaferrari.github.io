@@ -75,9 +75,10 @@ Una delle conclusioni più rilevanti della rassegna di Rezaei et al. (2026) rigu
 ---
 
 ## Pagine Correlate
-- [[rezaei-et-al-2026]]
-- [[network-based-ai-mental-healthcare]]
-- [[mental-health-chatbot-taxonomy]]
-- [[rischio-suicidario-ai-limits]]
-- [[ai-clinical-decision-support]]
-- [[human-in-the-reasoning]]
+- [rezaei-et-al-2026](../sintesi/rezaei-et-al-2026.md)
+- [network-based-ai-mental-healthcare](network-based-ai-mental-healthcare.md)
+- [mental-health-chatbot-taxonomy](mental-health-chatbot-taxonomy.md)
+- [rischio-suicidario-ai-limits](rischio-suicidario-ai-limits.md)
+- [ai-clinical-decision-support](ai-clinical-decision-support.md)
+- [human-in-the-reasoning](human-in-the-reasoning.md)
+

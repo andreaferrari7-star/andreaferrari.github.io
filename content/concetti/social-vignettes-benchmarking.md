@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Benchmarking di Cognizione Sociale con Vignette Cliniche
 
 **Summary**: Metodologia di valutazione neuropsicologica applicata ai modelli di intelligenza artificiale per misurare la comprensione sociale avanzata (Theory of Mind di ordine superiore) tramite narrazioni complesse, scoring multi-dimensionale e protocolli a doppio rater indipendente.
@@ -7,7 +11,7 @@
 
 ## Razionale e Differenze rispetto ai Benchmark Tradizionali
 
-La maggior parte dei benchmark ToM per Large Language Models ([[large-language-models]]) si basa su compiti sintetici a risposta binaria o a scelta multipla (es. *Unexpected Transfer*, scenari A/B di Sally-Anne). Sebbene facili da automatizzare su vasta scala, tali compiti:
+La maggior parte dei benchmark ToM per Large Language Models ([large-language-models](../large-language-models.md)) si basa su compiti sintetici a risposta binaria o a scelta multipla (es. *Unexpected Transfer*, scenari A/B di Sally-Anne). Sebbene facili da automatizzare su vasta scala, tali compiti:
 - Non catturano la fluidità, l'ambiguità e la natura stratificata delle interazioni sociali quotidiane.
 - Rischiano elevati tassi di memorizzazione e *data contamination*.
 - Non consentono di analizzare le spiegazioni narrative prodotte dal modello.
@@ -72,9 +76,12 @@ flowchart LR
 ---
 
 ## Related pages
-- [[holl-etten-et-al-2026]]
-- [[applied-theory-of-mind-llm]]
-- [[epistemic-markers-in-ai]]
-- [[ai-assistive-autism-communication]]
-- [[clinical-fidelity-assessment]]
-- [[simulazione-pazienti-ai]]
+- [holl-etten-et-al-2026](../sintesi/holl-etten-et-al-2026.md)
+- [applied-theory-of-mind-llm](applied-theory-of-mind-llm.md)
+- [epistemic-markers-in-ai](epistemic-markers-in-ai.md)
+- [ai-assistive-autism-communication](ai-assistive-autism-communication.md)
+- [clinical-fidelity-assessment](../clinical-fidelity-assessment.md)
+- [simulazione-pazienti-ai](simulazione-pazienti-ai.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

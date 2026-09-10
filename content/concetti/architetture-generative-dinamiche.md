@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Architetture Software Generative e Interfacce Fluide
 
 **Summary**: Modello architetturale per software clinici e ambienti digitali in cui interfacce utente, dashboard, flussi di lavoro e moduli di monitoraggio non sono codificati staticamente ma generati e riadattati in tempo reale da meta-agenti IA tramite istruzioni in linguaggio naturale (*meta-prompting*).
@@ -33,8 +37,11 @@ graph TD
 ---
 
 ## Related pages
-- [[gap-tecnologico-scientifico]]
-- [[augmented-psychotherapy]]
-- [[human-in-the-reasoning]]
-- [[06-05_Riunione_Impiego_IA_Clinica_Bias_Formazione]]
-- [[digital-therapeutic-alliance]]
+- [gap-tecnologico-scientifico](gap-tecnologico-scientifico.md)
+- [augmented-psychotherapy](../augmented-psychotherapy.md)
+- [human-in-the-reasoning](human-in-the-reasoning.md)
+- [06-05_Riunione_Impiego_IA_Clinica_Bias_Formazione](../sintesi/06-05_Riunione_Impiego_IA_Clinica_Bias_Formazione.md)
+- [digital-therapeutic-alliance](../digital-therapeutic-alliance.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

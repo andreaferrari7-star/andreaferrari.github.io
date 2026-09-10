@@ -6,7 +6,7 @@ source_papers: ["final_textbook_genAIinpsychologyresearchandtraining.pdf"]
 # Adaptive Learning and Code Tutoring in Psychology (Apprendimento Adattivo e Tutoring di Programmazione in Psicologia)
 
 ## Definizione Operativa
-- Sintesi: L'**Adaptive Learning and Code Tutoring in Psychology** (apprendimento adattivo e tutoraggio computazionale nelle scienze psicologiche) identifica il modello pedagogico mediato da modelli linguistici di grandi dimensioni ([[large-language-models]]) finalizzato a personalizzare l'insegnamento della psicologia, decostruire l'ansia statistica e facilitare l'acquisizione di competenze computazionali aperte (R, Python). Supera il paradigma trasmissivo frontale e l'uso acritico di software commerciali point-and-click (SPSS), integrando l'LLM come **tutor socratico a infinita pazienza**.
+- Sintesi: L'**Adaptive Learning and Code Tutoring in Psychology** (apprendimento adattivo e tutoraggio computazionale nelle scienze psicologiche) identifica il modello pedagogico mediato da modelli linguistici di grandi dimensioni ([large-language-models](large-language-models.md)) finalizzato a personalizzare l'insegnamento della psicologia, decostruire l'ansia statistica e facilitare l'acquisizione di competenze computazionali aperte (R, Python). Supera il paradigma trasmissivo frontale e l'uso acritico di software commerciali point-and-click (SPSS), integrando l'LLM come **tutor socratico a infinita pazienza**.
 - **Utilità CBT:** Trova applicazione nel role-playing terapeutico didattico (es. gestione dell'ansia scolastica con tecniche CBT) e nelle simulazioni cliniche formative caratterizzate da ambiguità diagnostica. Gli studenti possono simulare vignette cliniche a risoluzione aperta senza rivelare inizialmente la diagnosi, allenando il ragionamento clinico differenziale prima del tirocinio sul campo e ricevendo debriefing formativo istantaneo sullo stile comunicativo e sulle scelte d'intervento. Le simulazioni testuali restano tuttavia uno strumento di addestramento preliminare per preservare l'empatia, e non sostituiscono il tirocinio clinico supervisionato.
 
 ## Evidenze dalla Letteratura
@@ -63,12 +63,15 @@ flowchart TD
 - **Masuadi, E., Mohamud, M., Almutairi, M., et al. (2021).** Trends in the usage of statistical software and their associated study designs in health sciences research: A bibliometric analysis. *Cureus*, 13(8), e12639.
 
 ## Relazioni
-- [[final-textbook-genaiinpsychologyresearchandtraining]]
-- [[design-tweaking-conceptual-replication]]
-- [[prompting-in-psychology]]
-- [[cognitive-offloading-e-diagnostic-deskilling]]
-- [[human-in-the-reasoning]]
-- [[modello-centauro-clinico]]
-- [[simulazione-pazienti-ai]]
-- [[ai-literacy-in-academia]]
-- [[stepwise-cot]]
+- [final-textbook-genaiinpsychologyresearchandtraining](final-textbook-genaiinpsychologyresearchandtraining.md)
+- [design-tweaking-conceptual-replication](design-tweaking-conceptual-replication.md)
+- [prompting-in-psychology](prompting-in-psychology.md)
+- [cognitive-offloading-e-diagnostic-deskilling](concetti/cognitive-offloading-e-diagnostic-deskilling.md)
+- [human-in-the-reasoning](human-in-the-reasoning.md)
+- [modello-centauro-clinico](concetti/concetti/concetti\modello-centauro-clinico.md)
+- [simulazione-pazienti-ai](simulazione-pazienti-ai.md)
+- [ai-literacy-in-academia](ai-literacy-in-academia.md)
+- [stepwise-cot](stepwise-cot.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

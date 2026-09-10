@@ -18,7 +18,7 @@ source_papers:
 # Client101: Framework per la Simulazione di Pazienti Virtuali e Benchmarking Psicolinguistico
 
 ## Definizione Operativa
-Il **Framework Client101** (Cabrera Lozoya et al., 2025) è una piattaforma web interattiva basata su modelli linguistici generativi (GPT-4) progettata per simulare **pazienti psicoterapeutici virtuali standardizzati**, destinata all'addestramento clinico e alla [[deliberate-practice-in-psicoterapia-ia|Deliberate Practice]] di psicologi, psichiatri e psicoterapeuti in formazione.
+Il **Framework Client101** (Cabrera Lozoya et al., 2025) è una piattaforma web interattiva basata su modelli linguistici generativi (GPT-4) progettata per simulare **pazienti psicoterapeutici virtuali standardizzati**, destinata all'addestramento clinico e alla [Deliberate Practice](concetti/deliberate-practice-in-psicoterapia-ia.md) di psicologi, psichiatri e psicoterapeuti in formazione.
 
 Il sistema supera i limiti dei modelli basati su regole rigide (*ELIZA*, *PARRY*) e dei primi chatbot statistici (*ClientBot*) offrendo profili clinici basati su vignette CBT e linee guida NICE, con coerenza multi-turno garantita dall'architettura **Memory-Assisted Prompt Editing**.
 
@@ -52,12 +52,14 @@ graph TD
 ```
 
 ## Voci Correlate
-- [[sunto-articoli]]
-- [[bolt-behavioral-assessment-framework]]
-- [[patient-psi-simulazione-clinica]]
-- [[deliberate-practice-in-psicoterapia-ia]]
-- [[diagnosis-of-thought-framework]]
-- [[clinical-fidelity-assessment]]
-- [[large-language-models]]
-- [[ai-assisted-psychotherapy]]
+- [sunto-articoli](sunto-articoli.md)
+- [bolt-behavioral-assessment-framework](bolt-behavioral-assessment-framework.md)
+- [patient-psi-simulazione-clinica](patient-psi-simulazione-clinica.md)
+- [deliberate-practice-in-psicoterapia-ia](concetti/deliberate-practice-in-psicoterapia-ia.md)
+- [diagnosis-of-thought-framework](diagnosis-of-thought-framework.md)
+- [clinical-fidelity-assessment](clinical-fidelity-assessment.md)
+- [large-language-models](large-language-models.md)
+- [ai-assisted-psychotherapy](ai-assisted-psychotherapy.md)
 
+## Riferimenti Bibliografici
+- [Da integrare]

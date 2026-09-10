@@ -6,7 +6,7 @@ source_papers: ["Clinical decision-making and artificial intelligence_ The role 
 # Information Without Explanation in Clinical AI
 
 ## Definizione Operativa
-Il paradigma di **Information Without Explanation in Clinical AI** (informazione priva di spiegazione nei sistemi sanitari intelligenti) descrive la crisi epistemologica e il rischio clinico derivanti dall'adozione di modelli di Intelligenza Artificiale ([[large-language-models]]) i cui output diagnostici e terapeutici vengono accettati dai clinici senza che sia possibile comprenderne o verificarne la catena logico-inferenziale interna.
+Il paradigma di **Information Without Explanation in Clinical AI** (informazione priva di spiegazione nei sistemi sanitari intelligenti) descrive la crisi epistemologica e il rischio clinico derivanti dall'adozione di modelli di Intelligenza Artificiale ([large-language-models](../large-language-models.md)) i cui output diagnostici e terapeutici vengono accettati dai clinici senza che sia possibile comprenderne o verificarne la catena logico-inferenziale interna.
 
 - **Origine Concettuale ed Epistemologica:** Formulato nel trattato filosofico *Genesis: Artificial Intelligence, Hope, and the Human Spirit* (Kissinger, Mundie & Schmidt, 2024) e applicato alla medicina da Bhasin et al. (2025), segna la rottura con il **metodo scientifico di matrice illuminista**—secondo cui qualsiasi asserzione priva di trasparenza, riproducibilità e validazione logica è considerata intrinsecamente incompleta e inaffidabile.
 - **Rilevanza Clinica e Decisionale:** In medicina e psicoterapia, la generazione di output apparentemente autorevoli da parte di sistemi "black-box" espone i professionisti a gravi vulnerabilità decisionali: incapacità di discriminare tra correlazioni spurie e causalità fisiopatologica, distorsioni dovute alla volatilità del prompting, allucinazioni con bibliografia fittizia e atrofia del giudizio clinico critico (*cognitive deskilling*).
@@ -63,7 +63,7 @@ stateDiagram-v2
         IspezioneCritica --> EsplicitazioneRagionamento: Richiesta step-by-step CoT
     }
     
-    RicezioneOutputAI --> MitigazioneMetacognitiva: [[human-in-the-reasoning]]
+    RicezioneOutputAI --> MitigazioneMetacognitiva: [human-in-the-reasoning](human-in-the-reasoning.md)
     MitigazioneMetacognitiva --> DecisioneClinicaCalibrata: Scelta condivisa e sicura
 ```
 
@@ -84,12 +84,15 @@ Le macchine possono quantificare un *pain score* o processare codici ICD/EHR, ma
 - **Tankelevitch, L., Kewenig, V., Simkute, A., et al. (2024).** The metacognitive demands and opportunities of generative AI. *CHI '24*, 680, 1–24.
 
 ## Relazioni
-- [[clinical-decision-making-and-artificial-intelligence]]
-- [[single-correct-answer-fallacy-in-clinical-ai]]
-- [[human-in-the-reasoning]]
-- [[automation-bias-clinical-reasoning]]
-- [[cognitive-offloading-e-diagnostic-deskilling]]
-- [[epistemic-markers-in-ai]]
-- [[modello-centauro-clinico]]
-- [[three-layer-governance-framework]]
-- [[simulated-empathy-vs-authentic-presence]]
+- [clinical-decision-making-and-artificial-intelligence](../clinical-decision-making-and-artificial-intelligence.md)
+- [single-correct-answer-fallacy-in-clinical-ai](single-correct-answer-fallacy-in-clinical-ai.md)
+- [human-in-the-reasoning](human-in-the-reasoning.md)
+- [automation-bias-clinical-reasoning](automation-bias-clinical-reasoning.md)
+- [cognitive-offloading-e-diagnostic-deskilling](cognitive-offloading-e-diagnostic-deskilling.md)
+- [epistemic-markers-in-ai](epistemic-markers-in-ai.md)
+- [modello-centauro-clinico](concetti/concetti\modello-centauro-clinico.md)
+- [three-layer-governance-framework](concetti/concetti\three-layer-governance-framework.md)
+- [simulated-empathy-vs-authentic-presence](concetti/concetti\simulated-empathy-vs-authentic-presence.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

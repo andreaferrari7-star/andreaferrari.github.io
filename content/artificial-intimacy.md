@@ -68,4 +68,5 @@ flowchart TD
 ---
 
 ## Relazioni
-- Vedi anche: [[behavsci-16-00676]], [[emotional-infrastructure]], [[anthropomorphism-in-ai]], [[simulated-therapeutic-alliance]], [[uso-problematico-chatbot-ai]], [[calibrated-mismatches]], [[ai-psychosis]], [[genuineness-gap]]
+- Vedi anche: [behavsci-16-00676](behavsci-16-00676.md), [emotional-infrastructure](emotional-infrastructure.md), [anthropomorphism-in-ai](anthropomorphism-in-ai.md), [simulated-therapeutic-alliance](simulated-therapeutic-alliance.md), [uso-problematico-chatbot-ai](uso-problematico-chatbot-ai.md), [calibrated-mismatches](concetti/concetti/concetti\calibrated-mismatches.md), [ai-psychosis](ai-psychosis.md), [genuineness-gap](genuineness-gap.md)
+

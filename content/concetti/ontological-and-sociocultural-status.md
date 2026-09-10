@@ -16,7 +16,7 @@ Nel framework teorico di Herbener & Damholdt (2025), l'efficacia della psicotera
 
 1. **Status Ontologico (*Ontological Status*)**:
    - Riguarda la natura intrinseca del terapeuta come **essere umano cosciente**, dotato di soggettività, stati mentali interni autentici, corporeità, intenzionalità e vulnerabilità esistenziale condivisa.
-   - Permette l'intersoggettività autentica, la risonanza affettiva corporea, la relazione reale (Gelso, 2014) e la convalida del Sé tramite il [[reflected-appraisal-in-ai-therapy|Reflected Appraisal]].
+   - Permette l'intersoggettività autentica, la risonanza affettiva corporea, la relazione reale (Gelso, 2014) e la convalida del Sé tramite il [Reflected Appraisal](reflected-appraisal-in-ai-therapy.md).
 
 2. **Status Socioculturale (*Sociocultural Status*)**:
    - Riguarda la posizione del terapeuta come **professionista della salute mentalmente e legalmente sanzionato** dalla comunità e dalle istituzioni sanitarie (Frank & Frank, 1991).
@@ -48,9 +48,9 @@ classDiagram
 
 | Dimensione | Terapeuta Umano | Agente Artificiale (LLM / Bot) | Conseguenza dell'Assenza nell'IA |
 | :--- | :--- | :--- | :--- |
-| **Coscienza e Intenzionalità** | Stati mentali soggettivi, risonanza affettiva, autenticità intenzionale. | Dispositivo probabilistico guidato da pattern statistici nei pesi neurali. | **[[genuineness-gap\|Genuineness Gap]]**: Mancanza di convalida del Sé e depotenziamento delle esperienze emotive correttive. |
+| **Coscienza e Intenzionalità** | Stati mentali soggettivi, risonanza affettiva, autenticità intenzionale. | Dispositivo probabilistico guidato da pattern statistici nei pesi neurali. | **[Genuineness Gap](genuineness-gap.md)**: Mancanza di convalida del Sé e depotenziamento delle esperienze emotive correttive. |
 | **Intersoggettività (Stern)** | Comprensione reciproca di intenzioni ed emozioni condivise. | Simulazione sintattica superficiale senza comprensione semantico-esperienziale. | Incapacità di soddisfare pienamente i bisogni umani primari di appartenenza e attaccamento. |
-| **Legittimazione Istituzionale** | Ordini professionali, abilitazione di Stato, responsabilità legale e morale. | Software programmato, privo di status giuridico autonomo e riconoscimento deontologico. | **[[credibility-gap\|Credibility Gap]]**: Riduzione dell'autorità di influenza e minore ricettività del paziente. |
+| **Legittimazione Istituzionale** | Ordini professionali, abilitazione di Stato, responsabilità legale e morale. | Software programmato, privo di status giuridico autonomo e riconoscimento deontologico. | **[Credibility Gap](concetti/concetti\credibility-gap.md)**: Riduzione dell'autorità di influenza e minore ricettività del paziente. |
 | **Prototipo Cognitivo** | Corrisponde al modello interiorizzato di curante (titoli, esperienza, empatia viva). | Attiva euristiche contrastanti (*Machine Heuristics* di computazione fredda). | Minore mobilitazione della speranza e rischio di drop-out precoce. |
 
 ---
@@ -61,15 +61,18 @@ L'emulazione impeccabile del comportamento conversazionale e delle tecniche tera
 
 Gli autori sottolineano che:
 - La psicoterapia non è riducibile a un insieme di istruzioni tecniche disincarnate; è una **prassi di guarigione socialmente situata e relazionalmente fondata**.
-- L'assenza dello status ontologico e socioculturale impone di non considerare gli agenti IA come "terapeuti autonomi", bensì come strumenti avanzati all'interno di un'architettura **[[blended-care-ai-framework|Blended Care]]** supervisionata da clinici umani.
+- L'assenza dello status ontologico e socioculturale impone di non considerare gli agenti IA come "terapeuti autonomi", bensì come strumenti avanzati all'interno di un'architettura **[Blended Care](blended-care-ai-framework.md)** supervisionata da clinici umani.
 
 ---
 
 ## Relazioni
-- [[herbener-damholdt-2025]]
-- [[genuineness-gap]]
-- [[credibility-gap]]
-- [[reflected-appraisal-in-ai-therapy]]
-- [[machine-heuristics-in-therapy]]
-- [[blended-care-ai-framework]]
-- [[common-vs-specific-factors]]
+- [herbener-damholdt-2025](../sintesi/herbener-damholdt-2025.md)
+- [genuineness-gap](genuineness-gap.md)
+- [credibility-gap](concetti/concetti\credibility-gap.md)
+- [reflected-appraisal-in-ai-therapy](reflected-appraisal-in-ai-therapy.md)
+- [machine-heuristics-in-therapy](machine-heuristics-in-therapy.md)
+- [blended-care-ai-framework](blended-care-ai-framework.md)
+- [common-vs-specific-factors](common-vs-specific-factors.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

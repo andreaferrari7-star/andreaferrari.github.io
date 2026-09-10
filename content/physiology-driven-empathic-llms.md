@@ -40,4 +40,7 @@ source_papers: ["fpsyg-16-1715306.pdf"]
 - AlSaad, R., Abd-Alrazaq, A., Boughorbel, S., et al. (2024). Multimodal large language models in health care: applications, challenges, and future outlook. *J Med Internet Res*, 26, e59505. https://doi.org/10.2196/59505
 
 ## Relazioni
-- Vedi anche: [[fpsyg-16-1715306]], [[wearable-sensor-fusion-adherence]], [[multimodal-anxiety-detection-ai]], [[simulated-empathy-vs-authentic-presence]], [[ai-assisted-psychotherapy]], [[modello-centauro-clinico]], [[explainable-mental-health-diagnosis]]
+- Vedi anche: [fpsyg-16-1715306](fpsyg-16-1715306.md), [wearable-sensor-fusion-adherence](wearable-sensor-fusion-adherence.md), [multimodal-anxiety-detection-ai](multimodal-anxiety-detection-ai.md), [simulated-empathy-vs-authentic-presence](concetti/concetti/concetti\simulated-empathy-vs-authentic-presence.md), [ai-assisted-psychotherapy](ai-assisted-psychotherapy.md), [modello-centauro-clinico](concetti/concetti/concetti\modello-centauro-clinico.md), [explainable-mental-health-diagnosis](explainable-mental-health-diagnosis.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

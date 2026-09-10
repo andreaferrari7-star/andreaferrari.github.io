@@ -33,4 +33,5 @@ source_papers: ["2602.19401v2.pdf"]
 - Williams, R. M. (2025). *Disabling intelligences: Legacies of eugenics and how we are wrong about AI*. Springer Nature Switzerland. https://doi.org/10.1007/978-3-032-02665-1
 
 ## Relazioni
-- Vedi anche: [[reassurance-robots]], [[automated-erp-training]], [[kim-et-al-2025]], [[sycophancy-trap-clinica]], [[single-person-echo-chambers]]
+- Vedi anche: [reassurance-robots](concetti/reassurance-robots.md), [automated-erp-training](concetti/automated-erp-training.md), [kim-et-al-2025](kim-et-al-2025.md), [sycophancy-trap-clinica](concetti/sycophancy-trap-clinica.md), [single-person-echo-chambers](single-person-echo-chambers.md)
+

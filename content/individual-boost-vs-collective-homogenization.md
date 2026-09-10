@@ -60,4 +60,7 @@ flowchart TD
 - Noy, S., & Zhang, W. (2023). Experimental evidence on the productivity effects of generative artificial intelligence. *Science*, 381(6654), 187–192.
 
 ## Relazioni
-- Vedi anche: [[s44163-025-00495-3]], [[three-pillar-postgraduate-ai-framework]], [[criteria-centric-genai-integration]], [[eight-step-genai-research-workflow]], [[cognitive-debt-in-generative-ai]], [[ai-literacy-in-academia]], [[ai-research-ethics]]
+- Vedi anche: [s44163-025-00495-3](s44163-025-00495-3.md), [three-pillar-postgraduate-ai-framework](three-pillar-postgraduate-ai-framework.md), [criteria-centric-genai-integration](criteria-centric-genai-integration.md), [eight-step-genai-research-workflow](eight-step-genai-research-workflow.md), [cognitive-debt-in-generative-ai](cognitive-debt-in-generative-ai.md), [ai-literacy-in-academia](ai-literacy-in-academia.md), [ai-research-ethics](ai-research-ethics.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

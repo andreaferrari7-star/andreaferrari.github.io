@@ -9,7 +9,7 @@ source_papers: ["mental_v12i1e78410.pdf"]
 Il **Three-Layer Morphological Framework in Mental Health AI** (Framework Morfologico a Tre Livelli per l'IA in Salute Mentale) è una tassonomia concettuale e uno strumento di progettazione sociotecnica sviluppato da Bucher, Egger, Vashkite, Wu e Schwabe (University of Zurich, 2025; *JMIR Mental Health*, doi: [10.2196/78410](https://doi.org/10.2196/78410)).
 
 ### Obiettivo e Struttura
-Il framework supera l'approccio riduzionista incentrato unicamente sulla fattibilità tecnica e algoritmica dei modelli linguistici ([[large-language-models|LLM]]), categorizzando lo spazio di progettazione dell'IA in salute mentale attraverso **3 livelli distinti e 9 sottolivelli morfologici combinabili**:
+Il framework supera l'approccio riduzionista incentrato unicamente sulla fattibilità tecnica e algoritmica dei modelli linguistici ([LLM](concetti/large-language-models.md)), categorizzando lo spazio di progettazione dell'IA in salute mentale attraverso **3 livelli distinti e 9 sottolivelli morfologici combinabili**:
 
 1. **L1: LLM Layer (Infrastruttura Computazionale):** Proprietà del modello base, tecniche di personalizzazione e tipologia di compiti linguistici/cognitivi;
 2. **L2: Interface Layer (Esperienza Utente e Design Umanistico):** Ambiente software, modalità sensoriali di interazione, presenza di avatar e ruoli relazionali assegnati all'agente;
@@ -129,7 +129,7 @@ flowchart LR
 | **Avatar Antropomorfo & Voce Naturale** | Presenza sociale, riduzione solitudine, accessibilità. | Attaccamento parasociale, sovrastima dell'bot (*halo effect*). | **L2** |
 | **App Mobile Nativa con Sensori** | Tracciamento ecologico, edge, offline. | Alti costi sviluppo, manutenzione cross-platform. | **L2** |
 | **Sistema Standalone Monoutente** | Scalabilità, anonimato. | Isolamento paziente, mancato aggancio cura, cecità clinica. | **L3** |
-| **[[ai-blended-therapy|AI-Blended Therapy]]** | Supervisione clinica, alleanza, estensione cura. | Governance dati complessa, resistenza clinica, carico revisione. | **L3** |
+| **[AI-Blended Therapy](concetti/ai-blended-therapy.md)** | Supervisione clinica, alleanza, estensione cura. | Governance dati complessa, resistenza clinica, carico revisione. | **L3** |
 
 ---
 
@@ -153,11 +153,13 @@ Il framework evidenzia come l'evoluzione della salute mentale digitale sia stata
 ---
 
 ## Relazioni
-*   [[mental-v12i1e78410]]
-*   [[ai-blended-therapy]]
-*   [[prognostic-pessimism-in-clinical-ai]]
-*   [[prompt-experiment-gap-in-clinical-ai]]
-*   [[single-task-zero-shot-evaluation-trap]]
-*   [[retrieval-vs-generative-clinical-chatbots]]
-*   [[reciprocal-care-in-ai-mental-health]]
-*   [[three-layer-governance-framework]]
+*   [mental-v12i1e78410](mental-v12i1e78410.md)
+*   [ai-blended-therapy](ai-blended-therapy.md)
+*   [prognostic-pessimism-in-clinical-ai](prognostic-pessimism-in-clinical-ai.md)
+*   [prompt-experiment-gap-in-clinical-ai](prompt-experiment-gap-in-clinical-ai.md)
+*   [single-task-zero-shot-evaluation-trap](single-task-zero-shot-evaluation-trap.md)
+*   [retrieval-vs-generative-clinical-chatbots](retrieval-vs-generative-clinical-chatbots.md)
+*   [reciprocal-care-in-ai-mental-health](concetti/reciprocal-care-in-ai-mental-health.md)
+*   [three-layer-governance-framework](concetti/concetti/concetti\three-layer-governance-framework.md)
+
+

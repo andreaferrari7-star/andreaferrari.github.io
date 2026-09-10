@@ -62,9 +62,12 @@ Lo studio di **Buattini et al. (2026)** ha applicato ChatGPT-4 all'analisi quali
 ---
 
 ## Related Pages
-- [[ai-generativa-in-psicoterapia]]
-- [[libet-prime]]
-- [[antagonista-cognitivo-sparring-partner]]
-- [[human-in-the-reasoning]]
-- [[automation-bias-clinical-reasoning]]
-- [[llm-case-conceptualization-pipeline]]
+- [ai-generativa-in-psicoterapia](../sintesi/ai-generativa-in-psicoterapia.md)
+- [libet-prime](concetti/concetti\libet-prime.md)
+- [antagonista-cognitivo-sparring-partner](antagonista-cognitivo-sparring-partner.md)
+- [human-in-the-reasoning](human-in-the-reasoning.md)
+- [automation-bias-clinical-reasoning](automation-bias-clinical-reasoning.md)
+- [llm-case-conceptualization-pipeline](concetti/concetti\llm-case-conceptualization-pipeline.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

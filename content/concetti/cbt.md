@@ -17,4 +17,5 @@ source_papers: []
 - Gaffney, H., Mansell, W., & Tai, S. (2019). Conversational agents in the treatment of mental health problems: mixed-method systematic review. *JMIR Mental Health*, 6(10), e14166. https://doi.org/10.2196/14166
 
 ## Relazioni
-- Vedi anche: [[cbt-dialogue-systems-and-tools]], [[automated-cognitive-restructuring]], [[ai-enhanced-cbt]]
+- Vedi anche: [cbt-dialogue-systems-and-tools](concetti/concetti\cbt-dialogue-systems-and-tools.md), [automated-cognitive-restructuring](automated-cognitive-restructuring.md), [ai-enhanced-cbt](concetti/concetti\ai-enhanced-cbt.md)
+

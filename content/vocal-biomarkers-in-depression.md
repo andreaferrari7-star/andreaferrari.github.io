@@ -151,7 +151,7 @@ flowchart LR
 ```mermaid
 flowchart TD
     subgraph Bottlenecks ["Barriere alla Traslazione Clinica dei Biomarcatori Vocali"]
-        B1["<b>[[self-report-proxy-bias-in-ai|Self-Report Proxy Bias]]:</b> Addestramento su PHQ/BDI anziché diagnosi DSM-5/SCID"]
+        B1[Self-Report Proxy Bias](concetti/self-report-proxy-bias-in-ai.md):</b> Addestramento su PHQ/BDI anziché diagnosi DSM-5/SCID"]
         B2["<b>Confounding Factors Biologici:</b> Età, genere, farmaci psicotropi, fumo, comorbilità organiche"]
         B3["<b>Speaker Identity Dominance:</b> Rischio che il modello riconosca l'individuo anziché la patologia"]
         B4["<b>Black-Box Opacity:</b> Mancanza di Explainable AI (XAI: SHAP, LIME) per il clinico"]
@@ -159,7 +159,7 @@ flowchart TD
     end
 ```
 
-1. **Il [[self-report-proxy-bias-in-ai|Proxy Bias da Questionari Self-Report]]:** Oltre il 70% della letteratura addestra i modelli vocali su etichette binarie ricavate dai punteggi di scale come PHQ-8/PHQ-9 o BDI-II. Gli algoritmi rischiano di apprendere correlazioni spurie tra la cadenza vocale e le risposte al questionario, anziché catturare l'effettiva entità nosografica del Disturbo Depressivo Maggiore.
+1. **Il [Proxy Bias da Questionari Self-Report](concetti/self-report-proxy-bias-in-ai.md):** Oltre il 70% della letteratura addestra i modelli vocali su etichette binarie ricavate dai punteggi di scale come PHQ-8/PHQ-9 o BDI-II. Gli algoritmi rischiano di apprendere correlazioni spurie tra la cadenza vocale e le risposte al questionario, anziché catturare l'effettiva entità nosografica del Disturbo Depressivo Maggiore.
 2. **Fattori di Confondimento Biologici ed Ecologici:** L'acustica vocale è fortemente modulata da variabili extra-depressive:
    - Terapie farmacologiche (antidepressivi triciclici o antipsicotici inducono xerostomia e sedazione muscolare laringea);
    - Stato ormonale, età biologica e genere;
@@ -178,7 +178,7 @@ flowchart TD
 I biomarcatori vocali **non costituiscono un sostituto autonomo del colloquio psichiatrico o psicoterapeutico**, ma trovano la loro collocazione ideale come componenti di un ecosistema diagnostico aumentato:
 - **Triage e Telemedicina:** Pre-screening automatizzato in medicina generale o piattaforme di telepsichiatria per identificare precocemente soggetti a rischio subclinico;
 - **Monitoraggio Longitudinale Passivo:** Rilevazione continua di micro-variazioni acustiche durante chiamate o interazioni vocali con assistenti terapeutici per intercettare precocemente segnali di ricaduta (*relapse forecasting*);
-- **Fusione Multimodale:** Integrazione dei vettori vocali con dati fisiologici da sensori indossabili ([[wearable-sensor-fusion-adherence]]), tracciamento digitale del sonno, analisi lessicale ([[lexical-psychological-features]]) e cartella clinica elettronica nel quadro del [[modello-centauro-clinico]].
+- **Fusione Multimodale:** Integrazione dei vettori vocali con dati fisiologici da sensori indossabili ([wearable-sensor-fusion-adherence](wearable-sensor-fusion-adherence.md)), tracciamento digitale del sonno, analisi lessicale ([lexical-psychological-features](lexical-psychological-features.md)) e cartella clinica elettronica nel quadro del [modello-centauro-clinico](concetti/concetti/concetti\modello-centauro-clinico.md).
 
 ---
 
@@ -197,12 +197,14 @@ I biomarcatori vocali **non costituiscono un sostituto autonomo del colloquio ps
 ---
 
 ## Relazioni
-- [[mental-v12i1e67802]]: Systematic review e meta-analisi a 3 livelli di Maran et al. (2025) sulle performance dell'ASA nella depressione.
-- [[self-report-proxy-bias-in-ai]]: Il problema epistemologico dell'addestramento su scale self-report vs diagnosi psichiatrica strutturata.
-- [[cpp-33-e70242-1]]: Rassegna di Orrù & Mannarini (2026) su elaborazione del linguaggio naturale e bio-acustica nei setting clinici.
-- [[wearable-sensor-fusion-adherence]]: Integrazione multimodale di biomarcatori vocali e sensori biometrici indossabili.
-- [[multimodal-anxiety-detection-ai]]: Rilevazione dell'arousal e degli stati d'ansia mediante parametri fisiologici e acustici.
-- [[bpd-multimodal-behavioral-markers]]: Marcatori multimodali della dinamica vocale e affettiva nei disturbi di personalità.
-- [[lexical-psychological-features]]: Analisi computazionale del contenuto semantico e linguistico (*what is said*).
-- [[explainable-mental-health-diagnosis]]: Metodi di interpretabilità (SHAP, LIME) per l'audit clinico dei modelli predittivi.
-- [[modello-centauro-clinico]]: Cooperazione human-in-the-loop per l'integrazione dei biomarcatori vocali nella pratica psicoterapeutica.
+- [mental-v12i1e67802](mental-v12i1e67802.md): Systematic review e meta-analisi a 3 livelli di Maran et al. (2025) sulle performance dell'ASA nella depressione.
+- [self-report-proxy-bias-in-ai](self-report-proxy-bias-in-ai.md): Il problema epistemologico dell'addestramento su scale self-report vs diagnosi psichiatrica strutturata.
+- [cpp-33-e70242-1](cpp-33-e70242-1.md): Rassegna di Orrù & Mannarini (2026) su elaborazione del linguaggio naturale e bio-acustica nei setting clinici.
+- [wearable-sensor-fusion-adherence](wearable-sensor-fusion-adherence.md): Integrazione multimodale di biomarcatori vocali e sensori biometrici indossabili.
+- [multimodal-anxiety-detection-ai](multimodal-anxiety-detection-ai.md): Rilevazione dell'arousal e degli stati d'ansia mediante parametri fisiologici e acustici.
+- [bpd-multimodal-behavioral-markers](bpd-multimodal-behavioral-markers.md): Marcatori multimodali della dinamica vocale e affettiva nei disturbi di personalità.
+- [lexical-psychological-features](lexical-psychological-features.md): Analisi computazionale del contenuto semantico e linguistico (*what is said*).
+- [explainable-mental-health-diagnosis](explainable-mental-health-diagnosis.md): Metodi di interpretabilità (SHAP, LIME) per l'audit clinico dei modelli predittivi.
+- [modello-centauro-clinico](concetti/concetti/concetti\modello-centauro-clinico.md): Cooperazione human-in-the-loop per l'integrazione dei biomarcatori vocali nella pratica psicoterapeutica.
+
+

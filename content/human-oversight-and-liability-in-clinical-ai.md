@@ -49,4 +49,7 @@ L'imperizia tecnologica non è ammessa come giustificazione deontologica. L'APA 
 - Xu, H., & Shuttleworth, K. M. (2024). Medical artificial intelligence and the black box problem: A view based on the ethical principle of “Do no harm”. *Intelligent Medicine*, 4(1), 52–57. https://doi.org/10.1016/j.imed.2023.08.002
 
 ## Relazioni
-- Vedi anche: [[ethical-guidance-professional-practice-1]], [[informed-consent-for-clinical-ai]], [[over-deference-in-llm-supervision]], [[modello-centauro-clinico]], [[clinical-decision-making-and-artificial-intelligence]], [[three-layer-governance-framework]], [[algorithmic-paternalism-in-ai-mental-health]], [[gdpr-governance-mental-health-ai]], [[software-as-a-medical-device-salute-mentale]], [[automated-clinical-ai-red-teaming]]
+- Vedi anche: [ethical-guidance-professional-practice-1](ethical-guidance-professional-practice-1.md), [informed-consent-for-clinical-ai](informed-consent-for-clinical-ai.md), [over-deference-in-llm-supervision](over-deference-in-llm-supervision.md), [modello-centauro-clinico](concetti/concetti/concetti\modello-centauro-clinico.md), [clinical-decision-making-and-artificial-intelligence](clinical-decision-making-and-artificial-intelligence.md), [three-layer-governance-framework](concetti/concetti/concetti\three-layer-governance-framework.md), [algorithmic-paternalism-in-ai-mental-health](concetti/concetti/concetti\algorithmic-paternalism-in-ai-mental-health.md), [gdpr-governance-mental-health-ai](concetti/concetti/concetti\gdpr-governance-mental-health-ai.md), [software-as-a-medical-device-salute-mentale](software-as-a-medical-device-salute-mentale.md), [automated-clinical-ai-red-teaming](automated-clinical-ai-red-teaming.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

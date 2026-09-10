@@ -216,11 +216,14 @@ Il sistema adotta un **meccanismo di buffering**: i nuovi elementi vengono racco
 
 ## Concetti Correlati nel Vault
 
-- [[psycholextherapy-framework]]: Architettura modulare end-to-end con routing e memoria gerarchica.
-- [[therapeutic-reasoning-paths]]: Formalizzazione procedurale di CBT, Reality Therapy e PCT in LLM.
-- [[persian-psychotherapy-benchmarks]]: I benchmark PsychoLexEval, PsychoLexQuery e PsychoLexDialogue.
-- [[on-device-slm-mental-health]]: Impiego di Small Language Models in locale per la privacy clinica.
-- [[memory-augmented-therapeutic-dialogue]]: Sistemi di memoria persistente e profilazione dinamica per agenti terapeutici.
-- [[synthetic-clinical-dialogues]]: Generazione controllata di conversazioni cliniche simulate.
-- [[weird-bias-cultural-adaptability-ai]]: Adattamento socioculturale ed ecologico degli agenti di salute mentale.
-- [[conversational-agents-mental-health]]: Tassonomia e stato dell'arte dei chatbot psicologici.
+- [psycholextherapy-framework](../concetti/concetti/concetti\psycholextherapy-framework.md): Architettura modulare end-to-end con routing e memoria gerarchica.
+- [therapeutic-reasoning-paths](../therapeutic-reasoning-paths.md): Formalizzazione procedurale di CBT, Reality Therapy e PCT in LLM.
+- [persian-psychotherapy-benchmarks](../concetti/persian-psychotherapy-benchmarks.md): I benchmark PsychoLexEval, PsychoLexQuery e PsychoLexDialogue.
+- [on-device-slm-mental-health](../concetti/on-device-slm-mental-health.md): Impiego di Small Language Models in locale per la privacy clinica.
+- [memory-augmented-therapeutic-dialogue](../concetti/memory-augmented-therapeutic-dialogue.md): Sistemi di memoria persistente e profilazione dinamica per agenti terapeutici.
+- [synthetic-clinical-dialogues](../concetti/synthetic-clinical-dialogues.md): Generazione controllata di conversazioni cliniche simulate.
+- [weird-bias-cultural-adaptability-ai](../concetti/weird-bias-cultural-adaptability-ai.md): Adattamento socioculturale ed ecologico degli agenti di salute mentale.
+- [conversational-agents-mental-health](../concetti/conversational-agents-mental-health.md): Tassonomia e stato dell'arte dei chatbot psicologici.
+
+## Riferimenti Bibliografici
+- [Da integrare]

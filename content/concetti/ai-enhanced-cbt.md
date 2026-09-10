@@ -64,10 +64,13 @@ graph TD
 ---
 
 ## Relazioni
-- [[cognitive-distortion-detection]]: Moduli pre-trattamento e di monitoraggio cognitivo.
-- [[automated-cognitive-restructuring]]: Algoritmi e modelli di reframing generativo.
-- [[treatment-outcome-and-relapse-prediction]]: Predizione di risposta ed esito.
-- [[cbt-dialogue-systems-and-tools]]: Agenti conversazionali dedicati.
-- [[ctrs-automated-evaluation]]: Valutazione di qualità e fidelity.
-- [[simulazione-pazienti-ai]]: Training clinico simulato.
-- [[jiang-et-al-2024]]: Studio di review di riferimento.
+- [cognitive-distortion-detection](cognitive-distortion-detection.md): Moduli pre-trattamento e di monitoraggio cognitivo.
+- [automated-cognitive-restructuring](automated-cognitive-restructuring.md): Algoritmi e modelli di reframing generativo.
+- [treatment-outcome-and-relapse-prediction](treatment-outcome-and-relapse-prediction.md): Predizione di risposta ed esito.
+- [cbt-dialogue-systems-and-tools](concetti/concetti\cbt-dialogue-systems-and-tools.md): Agenti conversazionali dedicati.
+- [ctrs-automated-evaluation](ctrs-automated-evaluation.md): Valutazione di qualità e fidelity.
+- [simulazione-pazienti-ai](simulazione-pazienti-ai.md): Training clinico simulato.
+- [jiang-et-al-2024](../sintesi/jiang-et-al-2024.md): Studio di review di riferimento.
+
+## Riferimenti Bibliografici
+- [Da integrare]

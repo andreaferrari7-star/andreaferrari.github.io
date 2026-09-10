@@ -184,11 +184,14 @@ Oltre il 60% dei chatbot per la salute mentale si basa su principi CBT.
 ---
 
 ## Relazioni e Concetti Connessi
-- [[ai-enhanced-cbt]]: Framework architetturale e metodologico generale.
-- [[cognitive-distortion-detection]]: Identificazione computazionale dei pattern disfunzionali di pensiero.
-- [[automated-cognitive-restructuring]]: Generazione e reframing cognitivo basati su LLM e Transformer.
-- [[cbt-dialogue-systems-and-tools]]: Tassonomia e analisi clinica dei chatbot CBT.
-- [[treatment-outcome-and-relapse-prediction]]: Modelli predittivi clinici e neurobiologici per esito e ricadute.
-- [[ctrs-automated-evaluation]]: Valutazione automatizzata della qualità terapeutica e della fidelity.
-- [[clinical-fidelity-assessment]]: Monitoraggio standardizzato delle competenze cliniche.
-- [[simulazione-pazienti-ai]]: Ambienti di role-playing per il training clinico (PATIENT-Ψ).
+- [ai-enhanced-cbt](../concetti/concetti/concetti\ai-enhanced-cbt.md): Framework architetturale e metodologico generale.
+- [cognitive-distortion-detection](../concetti/cognitive-distortion-detection.md): Identificazione computazionale dei pattern disfunzionali di pensiero.
+- [automated-cognitive-restructuring](../concetti/automated-cognitive-restructuring.md): Generazione e reframing cognitivo basati su LLM e Transformer.
+- [cbt-dialogue-systems-and-tools](../concetti/concetti/concetti\cbt-dialogue-systems-and-tools.md): Tassonomia e analisi clinica dei chatbot CBT.
+- [treatment-outcome-and-relapse-prediction](../concetti/treatment-outcome-and-relapse-prediction.md): Modelli predittivi clinici e neurobiologici per esito e ricadute.
+- [ctrs-automated-evaluation](../concetti/ctrs-automated-evaluation.md): Valutazione automatizzata della qualità terapeutica e della fidelity.
+- [clinical-fidelity-assessment](../clinical-fidelity-assessment.md): Monitoraggio standardizzato delle competenze cliniche.
+- [simulazione-pazienti-ai](../simulazione-pazienti-ai.md): Ambienti di role-playing per il training clinico (PATIENT-Ψ).
+
+## Riferimenti Bibliografici
+- [Da integrare]

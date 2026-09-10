@@ -148,12 +148,13 @@ sequenceDiagram
 ---
 
 ## Relazioni
-- [[fdgth-07-1646724]]
-- [[social-media-phenotyping-anxiety]]
-- [[wearable-sensor-fusion-adherence]]
-- [[video-observed-therapy-ai]]
-- [[clinical-readiness-gap-in-mh-chatbots]]
-- [[modello-centauro-clinico]]
-- [[software-as-a-medical-device-salute-mentale]]
-- [[multi-omics-ai-psychiatry]]
-- [[pretraining-simulated-data-clinical-ml]]
+- [fdgth-07-1646724](fdgth-07-1646724.md)
+- [social-media-phenotyping-anxiety](social-media-phenotyping-anxiety.md)
+- [wearable-sensor-fusion-adherence](wearable-sensor-fusion-adherence.md)
+- [video-observed-therapy-ai](video-observed-therapy-ai.md)
+- [clinical-readiness-gap-in-mh-chatbots](concetti/concetti/concetti\clinical-readiness-gap-in-mh-chatbots.md)
+- [modello-centauro-clinico](concetti/concetti/concetti\modello-centauro-clinico.md)
+- [software-as-a-medical-device-salute-mentale](software-as-a-medical-device-salute-mentale.md)
+- [multi-omics-ai-psychiatry](multi-omics-ai-psychiatry.md)
+- [pretraining-simulated-data-clinical-ml](pretraining-simulated-data-clinical-ml.md)
+

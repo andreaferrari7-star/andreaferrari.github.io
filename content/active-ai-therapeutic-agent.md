@@ -17,4 +17,7 @@ source_papers: ["10.1177_18911803261439274.pdf"]
 - Soni, A. K., Singh, V. K., & Kumar, M. (2026). Protocol: Effectiveness of Artificial Intelligence-Based Psychotherapy in Treating Mental Disorders. *Campbell Systematic Reviews*, 22(2), 1–19. https://doi.org/10.1177/18911803261439274
 
 ## Relazioni
-- Vedi anche: [[10-1177-18911803261439274]], [[simulated-therapeutic-alliance]], [[ai-psychotherapy-clinical-effectiveness]], [[hybrid-vs-autonomous-ai-delivery]], [[pmv-framework]], [[ai-assisted-psychotherapy]]
+- Vedi anche: [10-1177-18911803261439274](10-1177-18911803261439274.md), [simulated-therapeutic-alliance](simulated-therapeutic-alliance.md), [ai-psychotherapy-clinical-effectiveness](concetti/ai-psychotherapy-clinical-effectiveness.md), [hybrid-vs-autonomous-ai-delivery](concetti/hybrid-vs-autonomous-ai-delivery.md), [pmv-framework](pmv-framework.md), [ai-assisted-psychotherapy](ai-assisted-psychotherapy.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

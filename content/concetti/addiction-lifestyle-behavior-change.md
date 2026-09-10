@@ -67,8 +67,9 @@ L'umbrella review di Huynh et al. (2026) evidenzia che l'assistenza alla cessazi
 ---
 
 ## Relazioni
-- [[huynh-et-al-2026]]
-- [[healthcare-conversational-agents]]
-- [[conversational-agents-mental-health]]
-- [[chronic-disease-monitoring-adherence]]
-- [[augmented-psychotherapy]]
+- [huynh-et-al-2026](../sintesi/huynh-et-al-2026.md)
+- [healthcare-conversational-agents](concetti/concetti\healthcare-conversational-agents.md)
+- [conversational-agents-mental-health](conversational-agents-mental-health.md)
+- [chronic-disease-monitoring-adherence](chronic-disease-monitoring-adherence.md)
+- [augmented-psychotherapy](../augmented-psychotherapy.md)
+

@@ -197,12 +197,13 @@ graph LR
 ---
 
 ## Concetti Correlati nel Knowledge Base
-- [[crdial-framework]]: Il framework metodologico e architetturale per la ristrutturazione cognitiva dialogica.
-- [[defense-attorney-technique]]: La tecnica psicoterapeutica maieutica del tribunale interiore (Defense, Prosecution, Verdict).
-- [[sentence-level-supportive-strategies]]: La tassonomia a 5 categorie e 8 sotto-strategie per il supporto emotivo vincolato frase per frase.
-- [[multi-channel-loop-mechanism]]: Il meccanismo di derivazione multi-canale e ricorsione ciclica sui bias cognitivi.
-- [[crispers-models-and-dataset]]: Il dataset bilingue CRISP e l'addestramento dei modelli specializzati CRISPERS (7B/14B).
-- [[active-ai-therapeutic-agent]]: Criterio di agente terapeutico attivo nel rimodellamento cognitivo.
-- [[digital-therapeutic-alliance]]: Costruzione dell'alleanza di lavoro e fiducia nell'interazione uomo-macchina.
-- [[conversational-agents-mental-health]]: Panoramica sugli agenti conversazionali per la salute mentale.
-- [[simulated-empathy-vs-authentic-presence]]: Differenza tra strategie supportive simulate e risonanza affettiva autentica.
+- [crdial-framework](../crdial-framework.md): Il framework metodologico e architetturale per la ristrutturazione cognitiva dialogica.
+- [defense-attorney-technique](../concetti/concetti/concetti\defense-attorney-technique.md): La tecnica psicoterapeutica maieutica del tribunale interiore (Defense, Prosecution, Verdict).
+- [sentence-level-supportive-strategies](../concetti/sentence-level-supportive-strategies.md): La tassonomia a 5 categorie e 8 sotto-strategie per il supporto emotivo vincolato frase per frase.
+- [multi-channel-loop-mechanism](../concetti/multi-channel-loop-mechanism.md): Il meccanismo di derivazione multi-canale e ricorsione ciclica sui bias cognitivi.
+- [crispers-models-and-dataset](../concetti/concetti/concetti\crispers-models-and-dataset.md): Il dataset bilingue CRISP e l'addestramento dei modelli specializzati CRISPERS (7B/14B).
+- [active-ai-therapeutic-agent](../active-ai-therapeutic-agent.md): Criterio di agente terapeutico attivo nel rimodellamento cognitivo.
+- [digital-therapeutic-alliance](../digital-therapeutic-alliance.md): Costruzione dell'alleanza di lavoro e fiducia nell'interazione uomo-macchina.
+- [conversational-agents-mental-health](../concetti/conversational-agents-mental-health.md): Panoramica sugli agenti conversazionali per la salute mentale.
+- [simulated-empathy-vs-authentic-presence](../concetti/concetti/concetti\simulated-empathy-vs-authentic-presence.md): Differenza tra strategie supportive simulate e risonanza affettiva autentica.
+

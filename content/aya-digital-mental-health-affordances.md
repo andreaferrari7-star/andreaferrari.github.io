@@ -103,4 +103,5 @@ flowchart LR
 ---
 
 ## Relazioni
-- Vedi anche: [[jmir-v27-e79850]], [[retrieval-vs-generative-clinical-chatbots]], [[cbt-dialogue-systems-and-tools]], [[emotional-infrastructure]], [[pediatric-ai-bias-and-vulnerabilities]], [[clinical-readiness-gap-in-mh-chatbots]], [[wearable-sensor-fusion-adherence]], [[uso-problematico-chatbot-ai]], [[artificial-intimacy]]
+- Vedi anche: [jmir-v27-e79850](jmir-v27-e79850.md), [retrieval-vs-generative-clinical-chatbots](retrieval-vs-generative-clinical-chatbots.md), [cbt-dialogue-systems-and-tools](concetti/concetti/concetti\cbt-dialogue-systems-and-tools.md), [emotional-infrastructure](emotional-infrastructure.md), [pediatric-ai-bias-and-vulnerabilities](pediatric-ai-bias-and-vulnerabilities.md), [clinical-readiness-gap-in-mh-chatbots](concetti/concetti/concetti\clinical-readiness-gap-in-mh-chatbots.md), [wearable-sensor-fusion-adherence](wearable-sensor-fusion-adherence.md), [uso-problematico-chatbot-ai](uso-problematico-chatbot-ai.md), [artificial-intimacy](artificial-intimacy.md)
+

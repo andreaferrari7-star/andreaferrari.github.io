@@ -24,4 +24,5 @@ source_papers: ["40337_2024_Article_967.pdf"]
 - Lynch, T. R. (2018). *Radically Open Dialectical Behavior Therapy: Clinician manual for targeting disorders of overcontrol*. New Harbinger Publications.
 
 ## Relazioni
-- Vedi anche: [[gilmartin-et-al-2024]], [[maladaptive-perfectionism]], [[terapia-cognitivo-comportamentale]], [[cbt]]
+- Vedi anche: [gilmartin-et-al-2024](../gilmartin-et-al-2024.md), [maladaptive-perfectionism](maladaptive-perfectionism.md), [terapia-cognitivo-comportamentale](../terapia-cognitivo-comportamentale.md), [cbt](cbt.md)
+

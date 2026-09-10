@@ -8,7 +8,7 @@ source_papers: ["ELEVATE-GenAI2025.pdf"]
 ## Definizione Operativa
 - La **Validazione della GenAI nell'HEOR** definisce l'insieme di principi metodologici, metriche computazionali e protocolli di verifica umana necessari per valutare l'affidabilità, la sicurezza e la trasferibilità clinico-economica dei Large Language Models (LLM) quando impiegati per compiti critici di sintesi delle evidenze, modellazione economica e generazione di evidenze dal mondo reale (*Real-World Evidence* - RWE) (Fleurence et al., 2025; Reason et al., 2024; Robinson et al., 2023).
 - **La Specificità dell'HEOR:** A differenza di applicazioni puramente conversazionali o diagnostiche, i compiti HEOR richiedono un'interazione ibrida tra ragionamento quantitativo (calcoli parametrici, tassi di sconto, matrici di Markov), comprensione semantica specialistica (criteri PICO, estrazione dati clinici da EHR) e rigore regolatorio per i dossier di Health Technology Assessment (HTA).
-- **La Triade Qualitativa Cardine:** Secondo il framework [[elevate-genai-framework]] (ISPOR 2025), la validazione nell'HEOR non può ridursi alla sola "accuratezza statistica", ma deve essere articolata nella triade inscindibile di **Accuratezza (*Accuracy*)**, **Esaustività (*Comprehensiveness*)** e **Fattualità (*Factuality*)**, integrata con la quantificazione dell'incertezza e la calibrazione probabilistica.
+- **La Triade Qualitativa Cardine:** Secondo il framework [elevate-genai-framework](elevate-genai-framework.md) (ISPOR 2025), la validazione nell'HEOR non può ridursi alla sola "accuratezza statistica", ma deve essere articolata nella triade inscindibile di **Accuratezza (*Accuracy*)**, **Esaustività (*Comprehensiveness*)** e **Fattualità (*Factuality*)**, integrata con la quantificazione dell'incertezza e la calibrazione probabilistica.
 
 ```mermaid
 flowchart TD
@@ -108,13 +108,16 @@ Nell'applicazione dell'IA all'economia sanitaria, l'iperconfidenza (*overconfide
 - Zhao, T., Wei, M., Preston, J. S., & Poon, H. (2024). Automatic calibration and error correction for large language models via pareto optimal self-supervision. *arXiv preprint arXiv:2306.16564*.
 
 ## Relazioni
-- [[elevate-genai2025-1]]
-- [[elevate-genai-framework]]
-- [[chart-reporting-guideline]]
-- [[chart2025-1]]
-- [[traffic-light-quality-appraisal-clinical-ai]]
-- [[human-in-the-reasoning]]
-- [[structured-literature-reviews]]
-- [[gdpr-governance-mental-health-ai]]
-- [[large-language-models]]
-- [[validita-psicometrica-llm]]
+- [elevate-genai2025-1](elevate-genai2025-1.md)
+- [elevate-genai-framework](elevate-genai-framework.md)
+- [chart-reporting-guideline](chart-reporting-guideline.md)
+- [chart2025-1](chart2025-1.md)
+- [traffic-light-quality-appraisal-clinical-ai](traffic-light-quality-appraisal-clinical-ai.md)
+- [human-in-the-reasoning](human-in-the-reasoning.md)
+- [structured-literature-reviews](structured-literature-reviews.md)
+- [gdpr-governance-mental-health-ai](concetti/concetti/concetti\gdpr-governance-mental-health-ai.md)
+- [large-language-models](large-language-models.md)
+- [validita-psicometrica-llm](concetti/concetti/concetti\validita-psicometrica-llm.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

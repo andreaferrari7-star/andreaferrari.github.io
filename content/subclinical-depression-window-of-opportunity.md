@@ -17,7 +17,7 @@ source_papers:
 
 ## Definizione Operativa
 
-Il costrutto di **Subclinical Depression Window of Opportunity** (Finestra di Opportunità della Depressione Subclinica) definisce la fase evolutiva e psicopatologica in cui la sintomatologia depressiva è clinicamente percepibile e fonte di sofferenza soggettiva ma non ha ancora raggiunto la soglia diagnostica formale di Disturbo Depressivo Maggiore (MDD), configurandosi come il **target di massima efficacia per gli agenti conversazionali basati su intelligenza artificiale** ([[large-language-models|NLP]] e Machine Learning) (Feng et al., 2025; *Journal of Medical Internet Research*, doi: [10.2196/69639](https://doi.org/10.2196/69639)).
+Il costrutto di **Subclinical Depression Window of Opportunity** (Finestra di Opportunità della Depressione Subclinica) definisce la fase evolutiva e psicopatologica in cui la sintomatologia depressiva è clinicamente percepibile e fonte di sofferenza soggettiva ma non ha ancora raggiunto la soglia diagnostica formale di Disturbo Depressivo Maggiore (MDD), configurandosi come il **target di massima efficacia per gli agenti conversazionali basati su intelligenza artificiale** ([NLP](concetti/large-language-models.md) e Machine Learning) (Feng et al., 2025; *Journal of Medical Internet Research*, doi: [10.2196/69639](https://doi.org/10.2196/69639)).
 
 *   **Validazione Meta-Analitica:** Nella meta-analisi di Feng et al. (2025) su giovani di età compresa tra 12 e 25 anni, la tipologia di popolazione è emersa come l'**unico moderatore statisticamente significativo** dell'efficacia degli agenti conversazionali ($Q_b = 8.46, P = .02$):
     *   **Popolazioni Subcliniche:** Mostrano una riduzione dei sintomi depressivi di entità ampia e statisticamente robusta (**$\text{Hedges } g = 0.74$, $95\%\text{ CI } [0.50, 0.98]$**).
@@ -87,7 +87,7 @@ flowchart LR
 ```
 
 1.  **Superamento dell'Approccio Universale Indifferenziato:** La letteratura sconsiglia la distribuzione generalizzata di chatbot di salute mentale senza una precedente stratificazione del rischio. Le risorse digitali devono essere indirizzate prioritariamente a soggetti che presentano punteggi di screening borderline/subclinici.
-2.  **Integrazione nei Sistemi Sanitari Stepped-Care:** I chatbot AI non devono essere commercializzati come "psicoterapeuti autonomi", ma come il primo livello (*Step 1*) di una rete integrata di cura. Se l'utente subclinico non mostra remissione o manifesta indicatori di rischio, il sistema deve attivare un'escalation guidata verso il consulto umano ([[clinical-fidelity-assessment|handoff clinico protetto]]).
+2.  **Integrazione nei Sistemi Sanitari Stepped-Care:** I chatbot AI non devono essere commercializzati come "psicoterapeuti autonomi", ma come il primo livello (*Step 1*) di una rete integrata di cura. Se l'utente subclinico non mostra remissione o manifesta indicatori di rischio, il sistema deve attivare un'escalation guidata verso il consulto umano ([handoff clinico protetto](concetti/clinical-fidelity-assessment.md)).
 3.  **Sviluppo di Metriche di Monitoraggio della Transizione:** I sistemi NLP devono tracciare indicatori linguistici longitudinali di deterioramento sintomatico per rilevare precocemente il rischio di transizione da disturbo subclinico a disturbo maggiore.
 
 ---
@@ -104,10 +104,12 @@ flowchart LR
 ---
 
 ## Relazioni
-*   [[jmir-v27i1e69639]]: Revisione sistematica e meta-analisi di Feng et al. (2025) su CAs per la salute mentale giovanile.
-*   [[exposure-therapy-deficit-in-mental-health-ai]]: Limiti dei chatbot AI nel trattamento dell'ansia per assenza di componenti espositive.
-*   [[aya-digital-mental-health-affordances]]: Caratteristiche e benefici dell'interazione digitale per adolescenti e giovani adulti.
-*   [[care-continuum-ai-functions-mental-health]]: Mappatura delle funzioni dell'IA lungo l'intero continuum di cura in salute mentale.
-*   [[clinical-readiness-gap-in-mh-chatbots]]: Valutazione del divario tra capacità conversazionali ed efficacia clinica verificata.
-*   [[modello-centauro-clinico]]: Architettura collaborativa umano-macchina per la gestione del triage e dell'escalation clinica.
-*   [[algorithmic-tractability-in-psychotherapy]]: Tassonomia della trattabilità computazionale dei disturbi mentali.
+*   [jmir-v27i1e69639](jmir-v27i1e69639.md): Revisione sistematica e meta-analisi di Feng et al. (2025) su CAs per la salute mentale giovanile.
+*   [exposure-therapy-deficit-in-mental-health-ai](exposure-therapy-deficit-in-mental-health-ai.md): Limiti dei chatbot AI nel trattamento dell'ansia per assenza di componenti espositive.
+*   [aya-digital-mental-health-affordances](aya-digital-mental-health-affordances.md): Caratteristiche e benefici dell'interazione digitale per adolescenti e giovani adulti.
+*   [care-continuum-ai-functions-mental-health](care-continuum-ai-functions-mental-health.md): Mappatura delle funzioni dell'IA lungo l'intero continuum di cura in salute mentale.
+*   [clinical-readiness-gap-in-mh-chatbots](concetti/concetti/concetti\clinical-readiness-gap-in-mh-chatbots.md): Valutazione del divario tra capacità conversazionali ed efficacia clinica verificata.
+*   [modello-centauro-clinico](concetti/concetti/concetti\modello-centauro-clinico.md): Architettura collaborativa umano-macchina per la gestione del triage e dell'escalation clinica.
+*   [algorithmic-tractability-in-psychotherapy](algorithmic-tractability-in-psychotherapy.md): Tassonomia della trattabilità computazionale dei disturbi mentali.
+
+

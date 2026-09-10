@@ -150,10 +150,11 @@ flowchart LR
 ---
 
 ## Pagine e Concetti Correlati
-- [[generative-ai-exposure-therapy]]: Opportunità e modalità d'uso della GAI per la visualizzazione dell'esposizione traumatica.
-- [[rischi-esposizione-cptsd-ia]]: Tassonomia e analisi dei 6 rischi clinici (R1-R6) nell'esposizione mediata da IA.
-- [[interazione-triadica-terapeuta-paziente-ia]]: Architettura di interazione triadica e principi di Trauma-Informed HCI.
-- [[distorsione-memoria-imagery-rescripting-ia]]: Differenziazione clinica tra allucinazioni/falsi ricordi dell'IA e Imagery Rescripting terapeutico.
-- [[algorithmic-bias-and-digital-inequalities]]: Bias dei dati, esclusione culturale e popolazioni minoritarie nell'IA per la salute mentale.
-- [[human-in-the-reasoning]]: Centralità e autorità clinica del professionista nei sistemi ibridi di IA.
-- [[ai-assisted-psychotherapy]]: Panoramica generale sull'integrazione tecnologica nei processi psicoterapeutici.
+- [generative-ai-exposure-therapy](../concetti/generative-ai-exposure-therapy.md): Opportunità e modalità d'uso della GAI per la visualizzazione dell'esposizione traumatica.
+- [rischi-esposizione-cptsd-ia](../concetti/rischi-esposizione-cptsd-ia.md): Tassonomia e analisi dei 6 rischi clinici (R1-R6) nell'esposizione mediata da IA.
+- [interazione-triadica-terapeuta-paziente-ia](../concetti/interazione-triadica-terapeuta-paziente-ia.md): Architettura di interazione triadica e principi di Trauma-Informed HCI.
+- [distorsione-memoria-imagery-rescripting-ia](../concetti/distorsione-memoria-imagery-rescripting-ia.md): Differenziazione clinica tra allucinazioni/falsi ricordi dell'IA e Imagery Rescripting terapeutico.
+- [algorithmic-bias-and-digital-inequalities](../concetti/algorithmic-bias-and-digital-inequalities.md): Bias dei dati, esclusione culturale e popolazioni minoritarie nell'IA per la salute mentale.
+- [human-in-the-reasoning](../human-in-the-reasoning.md): Centralità e autorità clinica del professionista nei sistemi ibridi di IA.
+- [ai-assisted-psychotherapy](../ai-assisted-psychotherapy.md): Panoramica generale sull'integrazione tecnologica nei processi psicoterapeutici.
+

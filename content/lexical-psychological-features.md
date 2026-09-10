@@ -17,4 +17,7 @@ source_papers: ["13428_2025_Article_2938.pdf"]
 - Hagihara, H., & Miyazawa, K. (2026). How well do large language models mirror human cognition of word concepts?: A comparison of psychological ratings for early-acquired English words. *Behavior Research Methods*, 58, Article 58. https://doi.org/10.3758/s13428-025-02938-2
 
 ## Relazioni
-- Vedi anche: [[hagihara-miyazawa-2026]], [[machine-psychology]]
+- Vedi anche: [hagihara-miyazawa-2026](hagihara-miyazawa-2026.md), [machine-psychology](machine-psychology.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

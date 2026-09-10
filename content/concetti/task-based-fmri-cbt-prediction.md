@@ -79,4 +79,5 @@ flowchart TD
 - van Velzen, L. S., Vriend, C., de Wit, S. J., & van den Heuvel, O. A. (2014). Response inhibition and interference control in obsessive-compulsive spectrum disorders. *Frontiers in Human Neuroscience*, 8, 419. https://doi.org/10.3389/fnhum.2014.00419
 
 ## Relazioni
-- Vedi anche: [[dzinalija-et-al-2026]], [[treatment-outcome-and-relapse-prediction]], [[clinical-prediction-model-evaluation]], [[mccv-and-statistical-validation-clinical-ml]], [[kim-et-al-2025]], [[cbt]]
+- Vedi anche: [dzinalija-et-al-2026](../dzinalija-et-al-2026.md), [treatment-outcome-and-relapse-prediction](treatment-outcome-and-relapse-prediction.md), [clinical-prediction-model-evaluation](../clinical-prediction-model-evaluation.md), [mccv-and-statistical-validation-clinical-ml](mccv-and-statistical-validation-clinical-ml.md), [kim-et-al-2025](../kim-et-al-2025.md), [cbt](cbt.md)
+

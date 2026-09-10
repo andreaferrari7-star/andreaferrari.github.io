@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Federated Learning e Differential Privacy nella Salute Mentale
 
 **Summary**: Architetture tecnologiche e crittografiche per la salvaguardia della privacy (Privacy-Enhancing Technologies) applicate all'addestramento e alla validazione di modelli di intelligenza artificiale clinica, risolvendo il conflitto tra la necessità di grandi moli di dati e la tutela assoluta del segreto professionale e del GDPR.
@@ -68,10 +72,13 @@ Come evidenziato nella rassegna di Kandeel et al. (2026), l'Organizzazione Mondi
 ---
 
 ## Related pages
-- [[kandeel-et-al-2026]]
-- [[gdpr-governance-mental-health-ai]]
-- [[open-weight-privacy-compliant-synthesis]]
-- [[negotiable-data-visibility-privacy]]
-- [[software-as-a-medical-device-salute-mentale]]
-- [[etica-privacy-bias-ia-clinica]]
-- [[multimodal-diagnostic-ai-mental-health]]
+- [kandeel-et-al-2026](../sintesi/kandeel-et-al-2026.md)
+- [gdpr-governance-mental-health-ai](concetti/concetti\gdpr-governance-mental-health-ai.md)
+- [open-weight-privacy-compliant-synthesis](open-weight-privacy-compliant-synthesis.md)
+- [negotiable-data-visibility-privacy](negotiable-data-visibility-privacy.md)
+- [software-as-a-medical-device-salute-mentale](software-as-a-medical-device-salute-mentale.md)
+- [etica-privacy-bias-ia-clinica](etica-privacy-bias-ia-clinica.md)
+- [multimodal-diagnostic-ai-mental-health](multimodal-diagnostic-ai-mental-health.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

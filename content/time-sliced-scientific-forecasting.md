@@ -7,11 +7,11 @@ source_papers: ["2603.27146v3.pdf"]
 
 ## Definizione Operativa
 
-- Paradigma metodologico introdotto da Heng Wang et al. (UIUC, 2026) che riformula l'addestramento e la valutazione dell'ideazione scientifica nei [[large-language-models]] come un problema di **previsione temporale retrospettiva a divisione temporale (*time-sliced forecasting*)**.
+- Paradigma metodologico introdotto da Heng Wang et al. (UIUC, 2026) che riformula l'addestramento e la valutazione dell'ideazione scientifica nei [large-language-models](large-language-models.md) come un problema di **previsione temporale retrospettiva a divisione temporale (*time-sliced forecasting*)**.
 - **Principio Fondamentale:** Anziché misurare concetti astratti e soggetti a bias umano (come "creatività" o "eleganza"), il framework suddivide un corpus scientifico cronologico in:
   1. *Contesto Osservabile ($t \le t_C$):* Letteratura scientifica, citazioni e domande di ricerca disponibili prima di una data limite $t_C$.
   2. *Corpus Futuro Held-Out ($t > t_C$):* L'insieme reale delle pubblicazioni peer-reviewed comparse successivamente a $t_C$.
-- L'agente genera una proposta strutturata utilizzando unicamente il contesto osservabile; la qualità viene poi verificata oggettivamente misurando quanto tale proposta anticipi semanticamente le traiettorie di ricerca scoperte e pubblicate dalla comunità scientifica nel corpus futuro attraverso il **[[future-alignment-score|Future Alignment Score (FAS)]]**.
+- L'agente genera una proposta strutturata utilizzando unicamente il contesto osservabile; la qualità viene poi verificata oggettivamente misurando quanto tale proposta anticipi semanticamente le traiettorie di ricerca scoperte e pubblicate dalla comunità scientifica nel corpus futuro attraverso il **[Future Alignment Score (FAS)](concetti/future-alignment-score.md)**.
 
 ```mermaid
 flowchart LR
@@ -78,5 +78,7 @@ flowchart LR
 ---
 
 ## Relazioni
-- Vedi anche: [[2603-27146v3]], [[future-alignment-score]], [[stepwise-cot]], [[hypothesis-generation]], [[hybrid-ai-research-workflows]], [[structured-literature-reviews]], [[wang-et-al-2026]]
+- Vedi anche: [2603-27146v3](2603-27146v3.md), [future-alignment-score](future-alignment-score.md), [stepwise-cot](stepwise-cot.md), [hypothesis-generation](hypothesis-generation.md), [hybrid-ai-research-workflows](hybrid-ai-research-workflows.md), [structured-literature-reviews](structured-literature-reviews.md), [wang-et-al-2026](wang-et-al-2026.md)
+
+
 

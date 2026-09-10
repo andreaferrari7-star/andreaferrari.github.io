@@ -8,8 +8,8 @@ source_papers: ["final_textbook_genAIinpsychologyresearchandtraining.pdf"]
 ## Definizione Operativa
 
 - **Manuale Metodologico e Didattico Open-Access** (*Centre of Social and Psychological Sciences, Slovak Academy of Sciences*, 2025; ISBN: 978-80-8298-014-4; DOI: [10.31577/2025.9788082980144](https://doi.org/10.31577/2025.9788082980144)) redatto da **Matúš Adamkovič, PhD** (Slovak Academy of Sciences, Charles University, University of Jyväskylä).
-- **Finalità dell'Opera:** Fornire una guida rigorosa, accessibile e pragmaticamente orientata per studenti universitari, docenti e ricercatori delle scienze del comportamento, delineando come i modelli linguistici di grandi dimensioni ([[large-language-models]]) possano essere impiegati per potenziare l'apprendimento adattivo, la simulazione clinica didattica, l'acquisizione di competenze di programmazione e le diverse fasi del ciclo di ricerca scientifica.
-- **Tesi Centrale e Paradigma Guida:** L'integrazione dell'IA generativa nella psicologia non deve mirare alla sostituzione del giudizio umano, bensì alla cooperazione aumentata all'interno di un rigoroso framework **Human-in-the-Loop** ([[human-in-the-reasoning]]). L'efficacia e l'affidabilità scientifica degli LLM dipendono criticamente dalla competenza metodologica dell'utente nella formulazione dei prompt, nella calibrazione degli iperparametri di campionamento (temperatura, top-$k$, top-$p$), nella mitigazione attiva di allucinazioni (*hallucinations*) e trascuratezze logiche (*sloppiness*), e nell'adesione agli standard etici internazionali (WAME, Harvard HUIT).
+- **Finalità dell'Opera:** Fornire una guida rigorosa, accessibile e pragmaticamente orientata per studenti universitari, docenti e ricercatori delle scienze del comportamento, delineando come i modelli linguistici di grandi dimensioni ([large-language-models](large-language-models.md)) possano essere impiegati per potenziare l'apprendimento adattivo, la simulazione clinica didattica, l'acquisizione di competenze di programmazione e le diverse fasi del ciclo di ricerca scientifica.
+- **Tesi Centrale e Paradigma Guida:** L'integrazione dell'IA generativa nella psicologia non deve mirare alla sostituzione del giudizio umano, bensì alla cooperazione aumentata all'interno di un rigoroso framework **Human-in-the-Loop** ([human-in-the-reasoning](human-in-the-reasoning.md)). L'efficacia e l'affidabilità scientifica degli LLM dipendono criticamente dalla competenza metodologica dell'utente nella formulazione dei prompt, nella calibrazione degli iperparametri di campionamento (temperatura, top-$k$, top-$p$), nella mitigazione attiva di allucinazioni (*hallucinations*) e trascuratezze logiche (*sloppiness*), e nell'adesione agli standard etici internazionali (WAME, Harvard HUIT).
 
 ```mermaid
 flowchart TD
@@ -22,13 +22,13 @@ flowchart TD
     end
 
     subgraph TrainingDomain ["1. Formazione & Didattica (Psychology Training)"]
-        T1["[[adaptive-learning-in-psychology|Apprendimento Adattivo]]:<br/>Tutor a infinita pazienza per statistica & concetti complessi"]
+        T1[Apprendimento Adattivo](concetti/adaptive-learning-in-psychology.md):<br/>Tutor a infinita pazienza per statistica & concetti complessi"]
         T2["Simulazione Clinica & Casi Ambivalenti:<br/>Vignette diagnostiche senza etichetta a priori, role-play terapeuta-cliente"]
         T3["Didattica della Programmazione:<br/>Transizione da SPSS a R/Python, spiegazione script, debugging NA & sintassi"]
     end
 
     subgraph ResearchDomain ["2. Metodologia di Ricerca (Psychology Research)"]
-        R1["[[design-tweaking-conceptual-replication|Design Tweaking & Vignette]]:<br/>Matrici fattoriali combinatorie (es. 2x3x2x2) e varianti di paradigmi classici"]
+        R1[Design Tweaking & Vignette](concetti/design-tweaking-conceptual-replication.md):<br/>Matrici fattoriali combinatorie (es. 2x3x2x2) e varianti di paradigmi classici"]
         R2["Peer Review Assistita da AI:<br/>Revisione critica precoce di pre-protocolli metodologici (Liang et al., 2024)"]
         R3["Estrazione Dati & Sintesi Meta-Analitica:<br/>Rilevazione preregistrazioni (OSF), indicatori SES, sintesi sezioni complesse"]
         R4["Scrittura & Proofreading Scientifico:<br/>Raffinamento stilistico con preservazione del gergo disciplinare"]
@@ -94,17 +94,20 @@ L'integrazione segue i principi WAME (Zielinski et al., 2023) e le linee guida H
 
 ## Relazioni
 
-- [[design-tweaking-conceptual-replication]]
-- [[adaptive-learning-in-psychology]]
-- [[prompting-in-psychology]]
-- [[human-in-the-reasoning]]
-- [[modello-centauro-clinico]]
-- [[simulated-empathy-vs-authentic-presence]]
-- [[clinical-decision-making-and-artificial-intelligence]]
-- [[ai-research-ethics]]
-- [[ai-literacy-in-academia]]
-- [[large-language-models]]
-- [[cognitive-offloading-e-diagnostic-deskilling]]
-- [[stepwise-cot]]
-- [[synthetic-psychopathology]]
-- [[traffic-light-quality-appraisal-clinical-ai]]
+- [design-tweaking-conceptual-replication](design-tweaking-conceptual-replication.md)
+- [adaptive-learning-in-psychology](adaptive-learning-in-psychology.md)
+- [prompting-in-psychology](prompting-in-psychology.md)
+- [human-in-the-reasoning](human-in-the-reasoning.md)
+- [modello-centauro-clinico](concetti/concetti/concetti\modello-centauro-clinico.md)
+- [simulated-empathy-vs-authentic-presence](concetti/concetti/concetti\simulated-empathy-vs-authentic-presence.md)
+- [clinical-decision-making-and-artificial-intelligence](clinical-decision-making-and-artificial-intelligence.md)
+- [ai-research-ethics](ai-research-ethics.md)
+- [ai-literacy-in-academia](ai-literacy-in-academia.md)
+- [large-language-models](large-language-models.md)
+- [cognitive-offloading-e-diagnostic-deskilling](concetti/cognitive-offloading-e-diagnostic-deskilling.md)
+- [stepwise-cot](stepwise-cot.md)
+- [synthetic-psychopathology](synthetic-psychopathology.md)
+- [traffic-light-quality-appraisal-clinical-ai](traffic-light-quality-appraisal-clinical-ai.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

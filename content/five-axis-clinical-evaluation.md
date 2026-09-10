@@ -59,4 +59,5 @@ Il **Framework di Valutazione Clinica a Cinque Assi** (*Five-Axis Evaluation Fra
 *   Young, J. E., & Beck, A. T. (1980). *Cognitive Therapy Rating Scale: Rating Manual*. University of Pennsylvania.
 
 ## Relazioni
-- Vedi anche: [[2604-23445v1]], [[rlhf-safety-therapeutic-conflict]], [[clinical-fidelity-assessment]], [[software-as-a-medical-device-salute-mentale]], [[three-layer-governance-framework]], [[automated-clinical-ai-red-teaming]], [[audit-bias-llm-clinici]], [[validita-psicometrica-llm]], [[ai-assisted-psychotherapy]], [[000]]
+- Vedi anche: [2604-23445v1](2604-23445v1.md), [rlhf-safety-therapeutic-conflict](rlhf-safety-therapeutic-conflict.md), [clinical-fidelity-assessment](clinical-fidelity-assessment.md), [software-as-a-medical-device-salute-mentale](software-as-a-medical-device-salute-mentale.md), [three-layer-governance-framework](concetti/concetti/concetti\three-layer-governance-framework.md), [automated-clinical-ai-red-teaming](automated-clinical-ai-red-teaming.md), [audit-bias-llm-clinici](concetti/concetti/concetti\audit-bias-llm-clinici.md), [validita-psicometrica-llm](concetti/concetti/concetti\validita-psicometrica-llm.md), [ai-assisted-psychotherapy](ai-assisted-psychotherapy.md), [000](000.md)
+

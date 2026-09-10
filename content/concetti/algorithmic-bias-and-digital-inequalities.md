@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Algorithmic Bias and Digital Inequalities in Mental Health
 
 **Summary**: Disamina dei rischi di amplificazione delle disuguaglianze socio-economiche, culturali e cliniche derivanti da bias nei dataset di addestramento (sovrarappresentazione WEIRD), barriere di connettività e divario di alfabetizzazione digitale nei servizi di salute mentale basati su IA.
@@ -62,9 +66,12 @@ flowchart TD
 ---
 
 ## Related pages
-- [[erdemir-sumbas-2026]]
-- [[three-layer-governance-framework]]
-- [[stepped-care-ai-integration]]
-- [[technical-vulnerabilities-llm-counseling]]
-- [[ai-research-ethics]]
-- [[ai-literacy-in-academia]]
+- [erdemir-sumbas-2026](../sintesi/erdemir-sumbas-2026.md)
+- [three-layer-governance-framework](concetti/concetti\three-layer-governance-framework.md)
+- [stepped-care-ai-integration](stepped-care-ai-integration.md)
+- [technical-vulnerabilities-llm-counseling](technical-vulnerabilities-llm-counseling.md)
+- [ai-research-ethics](../ai-research-ethics.md)
+- [ai-literacy-in-academia](../ai-literacy-in-academia.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

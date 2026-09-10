@@ -224,11 +224,14 @@ Lo studio fornisce una tabella di allineamento operativo che collega ciascun ass
 
 ## 9. Pagine Correlate
 
-- [[five-axis-mental-health-evaluation-framework]] — Il framework di valutazione a cinque assi per l'IA clinica.
-- [[exposure-interruption-mechanism]] — Meccanismi di rottura dell'esposizione causati da safety training (grounding, allarmi, "you are safe").
-- [[acknowledgment-appropriateness-gap]] — Il divario tra calore conversazionale e appropriatezza clinica / Crisis Cliff.
-- [[rlhf-safety-therapeutic-conflict]] — L'incompatibilità intrinseca tra ottimizzazione RLHF generalista e psicologia evidence-based.
-- [[software-as-a-medical-device-salute-mentale]] — Regolamentazione FDA SaMD e EU AI Act nei sistemi di supporto psicologico.
-- [[synthetic-clinical-dialogues]] — Metodologia di generazione e validazione di dialoghi sintetici per il benchmarking clinico.
-- [[generative-ai-exposure-therapy]] — L'uso dell'IA generativa nella terapia di esposizione e rischi associati.
-- [[ctrs-automated-evaluation]] — Valutazione automatica dell'aderenza alle scale terapeutiche (CTRS).
+- [five-axis-mental-health-evaluation-framework](../concetti/five-axis-mental-health-evaluation-framework.md) — Il framework di valutazione a cinque assi per l'IA clinica.
+- [exposure-interruption-mechanism](../concetti/exposure-interruption-mechanism.md) — Meccanismi di rottura dell'esposizione causati da safety training (grounding, allarmi, "you are safe").
+- [acknowledgment-appropriateness-gap](../concetti/acknowledgment-appropriateness-gap.md) — Il divario tra calore conversazionale e appropriatezza clinica / Crisis Cliff.
+- [rlhf-safety-therapeutic-conflict](../rlhf-safety-therapeutic-conflict.md) — L'incompatibilità intrinseca tra ottimizzazione RLHF generalista e psicologia evidence-based.
+- [software-as-a-medical-device-salute-mentale](../software-as-a-medical-device-salute-mentale.md) — Regolamentazione FDA SaMD e EU AI Act nei sistemi di supporto psicologico.
+- [synthetic-clinical-dialogues](../concetti/synthetic-clinical-dialogues.md) — Metodologia di generazione e validazione di dialoghi sintetici per il benchmarking clinico.
+- [generative-ai-exposure-therapy](../concetti/generative-ai-exposure-therapy.md) — L'uso dell'IA generativa nella terapia di esposizione e rischi associati.
+- [ctrs-automated-evaluation](../concetti/ctrs-automated-evaluation.md) — Valutazione automatica dell'aderenza alle scale terapeutiche (CTRS).
+
+## Riferimenti Bibliografici
+- [Da integrare]

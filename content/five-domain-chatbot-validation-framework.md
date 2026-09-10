@@ -31,9 +31,12 @@ Il framework articola la validazione su cinque pilastri fondamentali:
 - Perski O, et al. "Engagement with digital behavior change interventions." *Translational Behavioral Medicine*, 2017.
 
 ## Relazioni
-- **Studio Fondativo:** [[jmir-v28i1e79677|Scoping Review JMIR 2026 (Fu et al.)]]
-- **Dinamica Posologica:** [[routine-coach-vs-on-demand-assistant|Routine Coach vs On-Demand Assistant]]
-- **Valutazione Clinica Avanzata:** [[five-axis-clinical-evaluation|Five-Axis Clinical Evaluation Framework]]
-- **Valutazione Economico-Sanitaria:** [[heor-generative-ai-validation|HEOR Generative AI Validation]]
-- **Fattori Relazionali e di Ingaggio:** [[digital-therapeutic-alliance|Alleanza Terapeutica Digitale]], [[social-oriented-vs-task-oriented-chatbots|Social-Oriented vs Task-Oriented Chatbots]]
-- **Integrazione Sensori:** [[wearable-sensor-fusion-adherence|Wearable Sensor Fusion Adherence]]
+- **Studio Fondativo:** [Scoping Review JMIR 2026 (Fu et al.)](concetti/jmir-v28i1e79677.md)
+- **Dinamica Posologica:** [Routine Coach vs On-Demand Assistant](concetti/routine-coach-vs-on-demand-assistant.md)
+- **Valutazione Clinica Avanzata:** [Five-Axis Clinical Evaluation Framework](concetti/five-axis-clinical-evaluation.md)
+- **Valutazione Economico-Sanitaria:** [HEOR Generative AI Validation](concetti/heor-generative-ai-validation.md)
+- **Fattori Relazionali e di Ingaggio:** [Alleanza Terapeutica Digitale](concetti/digital-therapeutic-alliance.md), [Social-Oriented vs Task-Oriented Chatbots](concetti/social-oriented-vs-task-oriented-chatbots.md)
+- **Integrazione Sensori:** [Wearable Sensor Fusion Adherence](wearable-sensor-fusion-adherence.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

@@ -31,4 +31,5 @@ source_papers: ["2026.03.13.26348316v1.full.pdf"]
 - van de Mortel, L. A., Bruin, W. B., Alonso, P., Bertolín, S., Feusner, J. D., Guo, J., ... & Vriend, C. (2025). Development and validation of a machine learning model to predict cognitive behavioral therapy outcome in obsessive-compulsive disorder using clinical and neuroimaging data. *Journal of Affective Disorders*, 389, 119729. https://doi.org/10.1016/j.jad.2025.119729
 
 ## Relazioni
-- Vedi anche: [[task-based-fmri-cbt-prediction]], [[treatment-outcome-and-relapse-prediction]], [[clinical-prediction-model-evaluation]], [[mccv-and-statistical-validation-clinical-ml]], [[kim-et-al-2025]], [[cbt]]
+- Vedi anche: [task-based-fmri-cbt-prediction](concetti/task-based-fmri-cbt-prediction.md), [treatment-outcome-and-relapse-prediction](concetti/treatment-outcome-and-relapse-prediction.md), [clinical-prediction-model-evaluation](clinical-prediction-model-evaluation.md), [mccv-and-statistical-validation-clinical-ml](concetti/mccv-and-statistical-validation-clinical-ml.md), [kim-et-al-2025](kim-et-al-2025.md), [cbt](concetti/cbt.md)
+

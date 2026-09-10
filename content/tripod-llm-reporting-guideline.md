@@ -7,7 +7,7 @@ source_papers: ["Ricerca Prompting LLM Clinico Sanitario.pdf"]
 
 ## Definizione Operativa
 - Il **TRIPOD-LLM** (*Transparent Reporting of a multivariable model for individual prognosis or diagnosis - Large Language Models*) è lo standard metodologico internazionale di rendicontazione scientifica formalizzato all'inizio del 2025 (Gallifant et al.) come estensione dedicata della dichiarazione **TRIPOD+AI** per gli studi biomedici e clinici che impiegano modelli linguistici generativi e tecniche di prompt engineering.
-- **Superamento dei Limiti Storici:** Mentre TRIPOD+AI era primariamente calibrato sui modelli statistico-predittivi tradizionali e sui classificatori di machine learning supervisionato, TRIPOD-LLM risponde alle sfide uniche introdotte dalla **natura generativa, autoregressiva e stocastica** dei Large Language Models ([[large-language-models|LLM]]).
+- **Superamento dei Limiti Storici:** Mentre TRIPOD+AI era primariamente calibrato sui modelli statistico-predittivi tradizionali e sui classificatori di machine learning supervisionato, TRIPOD-LLM risponde alle sfide uniche introdotte dalla **natura generativa, autoregressiva e stocastica** dei Large Language Models ([LLM](concetti/large-language-models.md)).
 - **Struttura a Matrice Modulare:** Il framework è strutturato su **19 macro-item e 50 sotto-item complessivi**:
   1. **Core Standardizzato Trasversale (14 macro-item / 32 sotto-item):** Regola gli aspetti comuni a ogni disegno sperimentale in sanità (trasparenza delle fonti dati, distribuzioni temporali, contesto d'uso, allocazione dell'autonomia e governance etica);
   2. **Modulo Specialistico Inference & Prompting (5 macro-item / 18 sotto-item):** Definisce requisiti stringenti per la replicabilità del prompt engineering, la documentazione dei parametri di generazione stocastica e la trasparenza delle strategie di allineamento post-pretraining.
@@ -76,7 +76,7 @@ mindmap
 
 ### 3. Allineamento Post-Pretraining e Ottimizzazione (Item 6b)
 - **Dichiarazione delle Pipeline di Tuning:** Specificare se il modello impiegato è *base* (*foundation*), sottoposto a *Supervised Fine-Tuning* (SFT) o allineato tramite algoritmi basati sulle preferenze, quali *Reinforcement Learning from Human Feedback* (RLHF) o *Direct Preference Optimization* (DPO).
-- **Targeting Etico-Comportamentale:** Descrizione degli obiettivi di allineamento perseguiti (es. massimizzazione dell'utilità, dell'onestà, dell'innocuità nosografica e della riduzione delle [[sycophantic-mirroring|adulazioni compiacenti]]).
+- **Targeting Etico-Comportamentale:** Descrizione degli obiettivi di allineamento perseguiti (es. massimizzazione dell'utilità, dell'onestà, dell'innocuità nosografica e della riduzione delle [adulazioni compiacenti](concetti/concetti/concetti\sycophantic-mirroring.md)).
 
 ### 4. Dati di Validazione e Qualifiche dei Valutatori (Item 5c e 7d)
 - **Finestra Temporale del Dataset:** Esplicitazione delle date esatte del reperto clinico più antico e di quello più recente inclusi nel dataset di test, prevenendo fenomeni di contaminazione anacronistica (*data contamination* o anacronismo diagnostico).
@@ -101,8 +101,8 @@ Uno dei contributi fondativi di TRIPOD-LLM è la formale dichiarazione di inadeg
 | Standard | Target Primario | Focus Metodologico Distintivo |
 | :--- | :--- | :--- |
 | **TRIPOD-LLM (2025)** | Modelli Linguistici di Grandi Dimensioni (LLM) in medicina e salute mentale | 19 macro-item / 50 sotto-item; parametri di inferenza, prompt engineering, allineamento SFT/RLHF, qualifiche valutatori. |
-| **[[chart-reporting-guideline\|CHART (2025)]]** | Chatbot per consigli sanitari (*Chatbot Health Advice*) | 12 domini / 39 sub-item; accecamento valutatori, sessioni multi-turno, sicurezza delle raccomandazioni. |
-| **[[elevate-genai-framework\|ELEVATE-GenAI (2025)]]** | Ricerca economico-sanitaria ed esiti (HEOR) | 10 domini con scoring a 30 punti; modellizzazione economica, de-identificazione PHI, living guideline. |
+| **[CHART (2025)](concetti/chart-reporting-guideline.md)** | Chatbot per consigli sanitari (*Chatbot Health Advice*) | 12 domini / 39 sub-item; accecamento valutatori, sessioni multi-turno, sicurezza delle raccomandazioni. |
+| **[ELEVATE-GenAI (2025)](concetti/elevate-genai-framework.md)** | Ricerca economico-sanitaria ed esiti (HEOR) | 10 domini con scoring a 30 punti; modellizzazione economica, de-identificazione PHI, living guideline. |
 | **REFINE (2026)** | Modelli di fondazione biomedici | Trasparenza architetturale, dati di pre-addestramento, footprint computazionale. |
 | **FLAIR (2026)** | Applicazioni LLM e multimodali in Radiologia | 32 item su 6 categorie; integrazione PACS, refertazione strutturata, mitigazione rischi radiologici. |
 
@@ -118,6 +118,8 @@ Uno dei contributi fondativi di TRIPOD-LLM è la formale dichiarazione di inadeg
 ---
 
 ## Relazioni
-- Scheda di sintesi collegata: [[ricerca-prompting-llm-clinico-sanitario]]
-- Standard di reporting correlati: [[chart-reporting-guideline]], [[elevate-genai-framework]], [[gamer-reporting-guideline]], [[living-guidelines-in-health-ai]]
-- Concetti collegati: [[clinical-chain-of-thought-paradox]], [[coast-framework-clinical-prompting]], [[accuratezza-vs-fattualita-in-genai]], [[prompt-experiment-gap-in-clinical-ai]], [[human-oversight-and-liability-in-clinical-ai]]
+- Scheda di sintesi collegata: [ricerca-prompting-llm-clinico-sanitario](ricerca-prompting-llm-clinico-sanitario.md)
+- Standard di reporting correlati: [chart-reporting-guideline](chart-reporting-guideline.md), [elevate-genai-framework](elevate-genai-framework.md), [gamer-reporting-guideline](gamer-reporting-guideline.md), [living-guidelines-in-health-ai](living-guidelines-in-health-ai.md)
+- Concetti collegati: [clinical-chain-of-thought-paradox](clinical-chain-of-thought-paradox.md), [coast-framework-clinical-prompting](concetti/concetti/concetti\coast-framework-clinical-prompting.md), [accuratezza-vs-fattualita-in-genai](accuratezza-vs-fattualita-in-genai.md), [prompt-experiment-gap-in-clinical-ai](prompt-experiment-gap-in-clinical-ai.md), [human-oversight-and-liability-in-clinical-ai](human-oversight-and-liability-in-clinical-ai.md)
+
+

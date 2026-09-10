@@ -72,4 +72,7 @@ Ispirato all'approccio centrato sulla persona di Carl Rogers, finalizzato a crea
 - Feng, S., et al. (2025). Interactive Narrative Therapist: Staged Narrative Restructuring in Multi-turn Dialogue. *arXiv preprint arXiv:2507.20241v2*.
 
 ## Relazioni
-- Vedi anche: [[2510-03913v1]], [[psycholextherapy-framework]], [[stepwise-cot]], [[crdial-framework]], [[cbt-dialogue-systems-and-tools]], [[supportive-listener-prompting]], [[simulated-therapeutic-alliance]], [[modello-centauro-clinico]], [[interactive-narrative-therapist]]
+- Vedi anche: [2510-03913v1](2510-03913v1.md), [psycholextherapy-framework](concetti/concetti/concetti\psycholextherapy-framework.md), [stepwise-cot](stepwise-cot.md), [crdial-framework](crdial-framework.md), [cbt-dialogue-systems-and-tools](concetti/concetti/concetti\cbt-dialogue-systems-and-tools.md), [supportive-listener-prompting](concetti/concetti/concetti\supportive-listener-prompting.md), [simulated-therapeutic-alliance](simulated-therapeutic-alliance.md), [modello-centauro-clinico](concetti/concetti/concetti\modello-centauro-clinico.md), [interactive-narrative-therapist](interactive-narrative-therapist.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

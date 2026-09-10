@@ -13,7 +13,7 @@ source_papers: ["AI Generativa in Psicoterapia.docx", "Qazi et al. (2025)"]
 ## Definizione e Meccanismo Psicologico
 
 L'**Automation Bias** nel contesto clinico-psicoterapeutico definisce la tendenza sistematica del professionista a conformarsi acriticamente ai giudizi, suggerimenti diagnostici o piani di trattamento formulati da algoritmi decisionali complessi, abdicando parzialmente al controllo analitico autonomo:
-- **Sofisticazione Narrativa**: A differenza dei CDSS tradizionali che producevano punteggi probabilistici asettici, i Large Language Models ([[large-language-models]]) producono narrative articolate, logicamente coerenti e intrise di un registro pseudo-empatico, eludendo le difese critiche del clinico.
+- **Sofisticazione Narrativa**: A differenza dei CDSS tradizionali che producevano punteggi probabilistici asettici, i Large Language Models ([large-language-models](../large-language-models.md)) producono narrative articolate, logicamente coerenti e intrise di un registro pseudo-empatico, eludendo le difese critiche del clinico.
 - **Cognitive Offloading (Scarico Cognitivo)**: Di fronte a una risposta computazionale fluida e immediata, la mente del terapeuta tende a risparmiare risorse attentive (*law of least mental effort*), sopprimendo la faticosa verifica analitica.
 
 ```mermaid
@@ -74,18 +74,21 @@ graph LR
 ## Implicazioni Cliniche e Strategie di Mitigazione
 
 - **Insufficienza del Mero Training Tecnico**: Addestrare i clinici a riconoscere le allucinazioni non previene l'automation bias se non si modificano le architetture di interazione.
-- **Transizione a [[human-in-the-reasoning]]**: Il clinico non deve essere un recettore passivo a fine catena (*Human-in-the-Loop passivo*), ma deve co-ragionare con il sistema esplicitando le assunzioni cliniche.
-- **Configurazione come [[antagonista-cognitivo-sparring-partner]]**: L'IA deve essere programmata per sollevare dubbi, contro-argomentare e proporre diagnosi differenziali improbabili per forzare l'attivazione del System 2, anziché confermare accondiscendentemente le prime impressioni del terapeuta ([[sycophantic-mirroring]]).
-- **Interfacce Ibride Neuro-Simboliche**: Adozione di sistemi come [[hybrid-neuro-symbolic-cdss]] (Kim, 2025) che rendono il codice delle regole diagnostiche ispezionabile prima dell'output.
+- **Transizione a [human-in-the-reasoning](human-in-the-reasoning.md)**: Il clinico non deve essere un recettore passivo a fine catena (*Human-in-the-Loop passivo*), ma deve co-ragionare con il sistema esplicitando le assunzioni cliniche.
+- **Configurazione come [antagonista-cognitivo-sparring-partner](antagonista-cognitivo-sparring-partner.md)**: L'IA deve essere programmata per sollevare dubbi, contro-argomentare e proporre diagnosi differenziali improbabili per forzare l'attivazione del System 2, anziché confermare accondiscendentemente le prime impressioni del terapeuta ([sycophantic-mirroring](concetti/concetti\sycophantic-mirroring.md)).
+- **Interfacce Ibride Neuro-Simboliche**: Adozione di sistemi come [hybrid-neuro-symbolic-cdss](hybrid-neuro-symbolic-cdss.md) (Kim, 2025) che rendono il codice delle regole diagnostiche ispezionabile prima dell'output.
 
 ---
 
 ## Related Pages
-- [[ai-generativa-in-psicoterapia]]
-- [[human-in-the-reasoning]]
-- [[antagonista-cognitivo-sparring-partner]]
-- [[hybrid-neuro-symbolic-cdss]]
-- [[readi-framework]]
-- [[ai-clinical-decision-support]]
-- [[sycophantic-mirroring]]
-- [[etica-privacy-bias-ia-clinica]]
+- [ai-generativa-in-psicoterapia](../sintesi/ai-generativa-in-psicoterapia.md)
+- [human-in-the-reasoning](human-in-the-reasoning.md)
+- [antagonista-cognitivo-sparring-partner](antagonista-cognitivo-sparring-partner.md)
+- [hybrid-neuro-symbolic-cdss](hybrid-neuro-symbolic-cdss.md)
+- [readi-framework](readi-framework.md)
+- [ai-clinical-decision-support](ai-clinical-decision-support.md)
+- [sycophantic-mirroring](concetti/concetti\sycophantic-mirroring.md)
+- [etica-privacy-bias-ia-clinica](etica-privacy-bias-ia-clinica.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

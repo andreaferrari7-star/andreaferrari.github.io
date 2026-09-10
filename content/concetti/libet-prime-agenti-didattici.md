@@ -31,9 +31,12 @@ Il sistema adotta un approccio socratico, stimolando la riflessione metacognitiv
 - 05-08 Riunione Sviluppo Knowledge Base AI, Etica e Applicazioni Cliniche.
 
 ## Relazioni
-- [[05-11_Discussione_Gruppo_Ricerca_AI_Psicoterapia]]
-- [[human-in-the-reasoning]]
-- [[simulazione-pazienti-ai]]
-- [[prompting-in-psychology]]
-- [[large-language-models]]
-- [[etica-privacy-bias-ia-clinica]]
+- [05-11_Discussione_Gruppo_Ricerca_AI_Psicoterapia](../sintesi/05-11_Discussione_Gruppo_Ricerca_AI_Psicoterapia.md)
+- [human-in-the-reasoning](human-in-the-reasoning.md)
+- [simulazione-pazienti-ai](simulazione-pazienti-ai.md)
+- [prompting-in-psychology](../prompting-in-psychology.md)
+- [large-language-models](../large-language-models.md)
+- [etica-privacy-bias-ia-clinica](etica-privacy-bias-ia-clinica.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

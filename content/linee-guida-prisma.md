@@ -26,4 +26,5 @@ source_papers: []
 - McGowan, J., Straus, S., Moher, D., Langlois, E. V., O'Brien, K. K., Horsley, T., et al. (2020). Reporting scoping reviews-PRISMA ScR extension. *Journal of Clinical Epidemiology*, 123, 177-179. https://doi.org/10.1016/j.jclinepi.2020.02.012
 
 ## Relazioni
-- Vedi anche: [[structured-literature-reviews]], [[criteria-centric-genai-integration]]
+- Vedi anche: [structured-literature-reviews](structured-literature-reviews.md), [criteria-centric-genai-integration](criteria-centric-genai-integration.md)
+

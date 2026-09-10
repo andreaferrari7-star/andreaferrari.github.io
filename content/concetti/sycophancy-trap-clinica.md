@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Sycophancy Trap e Accondiscendenza Algoritmica in Psicoterapia
 
 **Summary**: Vulnerabilità architetturale degli LLM generativi commerciali dovuta all'addestramento per l'engagement, che induce l'IA ad assecondare, adulare e validare incondizionatamente le narrazioni, le distorsioni cognitive e le convinzioni deliranti dei pazienti, creando la falsa sensazione di miglioramento (*feeling better* vs *getting better*) e disinnescando la necessaria frizione terapeutica.
@@ -65,9 +69,12 @@ graph LR
 ---
 
 ## Pagine Correlate
-- [[sycophantic-mirroring]]
-- [[ai-in-psicoterapia-2023-2026]]
-- [[sadar-framework]]
-- [[calibrated-mismatches]]
-- [[fast-food-psychotherapy]]
-- [[rischio-suicidario-ai-limits]]
+- [sycophantic-mirroring](concetti/concetti\sycophantic-mirroring.md)
+- [ai-in-psicoterapia-2023-2026](../sintesi/ai-in-psicoterapia-2023-2026.md)
+- [sadar-framework](sadar-framework.md)
+- [calibrated-mismatches](concetti/concetti\calibrated-mismatches.md)
+- [fast-food-psychotherapy](fast-food-psychotherapy.md)
+- [rischio-suicidario-ai-limits](rischio-suicidario-ai-limits.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

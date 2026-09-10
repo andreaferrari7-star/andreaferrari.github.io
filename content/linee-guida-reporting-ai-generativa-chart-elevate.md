@@ -6,12 +6,12 @@ source_papers: ["Linee Guida per il Reporting dell'Intelligenza Artificiale Gene
 # Linee Guida per il Reporting dell'Intelligenza Artificiale Generativa in Medicina e Ricerca Economico-Sanitaria: Analisi dei Quadri CHART ed ELEVATE-GenAI
 
 ## Definizione Operativa
-Il documento costituisce un briefing metodologico comparativo dedicato all'analisi sinottica dei due principali quadri di riferimento internazionali per la rendicontazione scientifica dell'Intelligenza Artificiale Generativa ([[large-language-models|LLM]] e modelli di fondazione) nelle scienze mediche, cliniche ed economico-sanitarie:
+Il documento costituisce un briefing metodologico comparativo dedicato all'analisi sinottica dei due principali quadri di riferimento internazionali per la rendicontazione scientifica dell'Intelligenza Artificiale Generativa ([LLM](concetti/large-language-models.md) e modelli di fondazione) nelle scienze mediche, cliniche ed economico-sanitarie:
 
-1.  **Lo Statement [[chart-reporting-guideline|CHART]] (*Chatbot Assessment Reporting Tool*):** standard registrato presso la rete [[chart-reporting-guideline|EQUATOR Network]] per gli studi che valutano le prestazioni dei chatbot nell'erogazione di consigli sanitari e nella sintesi di evidenze cliniche (*Chatbot Health Advice - CHA studies*).
-2.  **Il Framework [[elevate-genai-framework|ELEVATE-GenAI]] (*Evidence, Transparency, and Efficiency for Generative AI*):** standard sviluppato dal gruppo di lavoro ISPOR per l'impiego dei Large Language Models nell'Economia Sanitaria e nella Ricerca sugli Esiti (*Health Economics and Outcomes Research* - [[heor-generative-ai-validation|HEOR]]).
+1.  **Lo Statement [CHART](concetti/chart-reporting-guideline.md) (*Chatbot Assessment Reporting Tool*):** standard registrato presso la rete [EQUATOR Network](concetti/chart-reporting-guideline.md) per gli studi che valutano le prestazioni dei chatbot nell'erogazione di consigli sanitari e nella sintesi di evidenze cliniche (*Chatbot Health Advice - CHA studies*).
+2.  **Il Framework [ELEVATE-GenAI](concetti/elevate-genai-framework.md) (*Evidence, Transparency, and Efficiency for Generative AI*):** standard sviluppato dal gruppo di lavoro ISPOR per l'impiego dei Large Language Models nell'Economia Sanitaria e nella Ricerca sugli Esiti (*Health Economics and Outcomes Research* - [HEOR](concetti/heor-generative-ai-validation.md)).
 
-**Scopo e Rationale Metodologico:** Rispondere alla crisi di riproducibilità, all'opacità dei protocolli di prompt engineering e al rischio clinico derivante da [[accuratezza-vs-fattualita-in-genai|allucinazioni e bias]] negli studi biomedici, fornendo a clinici, revisori paritari, comitati etici, agenzie di [[comparative-ai-health-governance|Health Technology Assessment (HTA)]] e autorità regolatorie una base strutturata per valutare la trasparenza e la sicurezza delle applicazioni di GenAI in sanità.
+**Scopo e Rationale Metodologico:** Rispondere alla crisi di riproducibilità, all'opacità dei protocolli di prompt engineering e al rischio clinico derivante da [allucinazioni e bias](concetti/accuratezza-vs-fattualita-in-genai.md) negli studi biomedici, fornendo a clinici, revisori paritari, comitati etici, agenzie di [Health Technology Assessment (HTA)](concetti/comparative-ai-health-governance.md) e autorità regolatorie una base strutturata per valutare la trasparenza e la sicurezza delle applicazioni di GenAI in sanità.
 
 ## Evidenze dalla Letteratura
 
@@ -65,9 +65,12 @@ Sviluppato dall'ISPOR Working Group on Generative AI, ELEVATE-GenAI introduce un
 *   Riferimenti completi inclusi nel documento originale citato nei metadati (`source_papers`).
 
 ## Relazioni
-*   [[chart2025-1|CHART Statement 2025]]
-*   [[elevate-genai2025-1|ELEVATE-GenAI 2025]]
-*   [[heor-generative-ai-validation|Validazione della GenAI nell'Economia Sanitaria (HEOR)]]
-*   [[accuratezza-vs-fattualita-in-genai|Accuratezza vs. Fattualità]]
-*   [[living-guidelines-in-health-ai|Living Guidelines nell'Intelligenza Artificiale Sanitaria]]
-*   [[comparative-ai-health-governance|Governance Comparativa dell'IA in Sanità]]
+*   [CHART Statement 2025](concetti/chart2025-1.md)
+*   [ELEVATE-GenAI 2025](concetti/elevate-genai2025-1.md)
+*   [Validazione della GenAI nell'Economia Sanitaria (HEOR)](concetti/heor-generative-ai-validation.md)
+*   [Accuratezza vs. Fattualit](concetti/accuratezza-vs-fattualita-in-genai.md)
+*   [Living Guidelines nell'Intelligenza Artificiale Sanitaria](concetti/living-guidelines-in-health-ai.md)
+*   [Governance Comparativa dell'IA in Sanit](concetti/comparative-ai-health-governance.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

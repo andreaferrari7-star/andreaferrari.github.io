@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Role Induction in AI-Mediated Mental Health (Socializzazione Anticipatoria dei Ruoli nell'IA)
 
 **Summary**: Adattamento tecnologico del costrutto psicoterapeutico di Role Induction / Socializzazione Anticipatoria: processo esplicito e dinamico con cui un sistema conversazionale di IA definisce i propri limiti, la natura non-umana dei dati di addestramento, il divieto di fungere da autorità prescrittiva e le modalità con cui l'utente rimane l'esperto della propria esperienza.
@@ -54,10 +58,13 @@ Secondo Pendse et al. (2026), la Role Induction deve essere implementata nell'in
 ---
 
 ## Pagine Correlate
-- [[reflective-interpretability]]
-- [[pendse-et-al-2026]]
-- [[psychological-distress-interaction-patterns]]
-- [[prosocial-advance-directives]]
-- [[intervention-titration-ai]]
-- [[sycophantic-mirroring]]
-- [[fast-food-psychotherapy]]
+- [reflective-interpretability](reflective-interpretability.md)
+- [pendse-et-al-2026](../sintesi/pendse-et-al-2026.md)
+- [psychological-distress-interaction-patterns](psychological-distress-interaction-patterns.md)
+- [prosocial-advance-directives](prosocial-advance-directives.md)
+- [intervention-titration-ai](intervention-titration-ai.md)
+- [sycophantic-mirroring](concetti/concetti\sycophantic-mirroring.md)
+- [fast-food-psychotherapy](fast-food-psychotherapy.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

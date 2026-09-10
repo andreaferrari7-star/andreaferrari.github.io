@@ -10,8 +10,8 @@ source_papers: ["Safety Mechanisms and Risk Mitigation in Generative AI Mental H
 - **Campione ed Evidenze Sintetizzate:** Ricerca sistematica condotta su 7 banche dati accademiche internazionali (MEDLINE/PubMed, Scopus, PsycINFO, ACM Digital Library, IEEE Xplore, Google Scholar e Consensus; luglio 2024 - aggiornata a luglio 2025). Su 1.899 record identificati, sono stati inclusi **21 studi primari peer-reviewed** condotti in **11 Paesi** (Cina n=4, Regno Unito n=4, USA n=3, Australia n=2, Germania n=1, Romania n=1, Kenya n=1, Kirghizistan n=1, Malesia n=1, Belgio n=1, Perù n=1), comprendenti trial randomizzati controllati (RCT), studi di fattibilità, valutazioni prototipali, disegni a metodi misti e una sperimentazione di implementazione clinica nel mondo reale (*real-world implementation*).
 - **Rilevanza Clinico-Psichiatrica e Governance Sanitaria:**
   - Supera la letteratura precedente focalizzata su chatbot rule-based o su LLM generalisti non vincolati (es. ChatGPT o Claude utilizzati in modo improprio per supporto psicologico), analizzando come i sistemi *purpose-built* (progettati ad hoc per ansia, depressione, PTSD, disturbi alimentari, demenza e stress occupazionale) affrontino i rischi intrinseci dell'IA generativa (allucinazioni, sicofantia, instabilità stocastica, mancata gestione delle crisi acute e rischio di iatrogenesi/psicosi indotta).
-  - Formalizza che la sicurezza nell'IA clinica non è una proprietà puramente algoritmica o lessicale, ma un **problema sociotecnico complesso** (**[[sociotechnical-safety-in-clinical-ai|Sociotechnical Safety Framework]]**) che richiede l'integrazione coordinata di tre pilastri: controlli tecnici AI/ML (**[[layered-safeguards-in-clinical-ai|Layered Safeguards]]**), salvaguardie procedurali pre-deployment e governance operativa di erogazione.
-  - Svela una **critica carenza nel tracciamento sistematico degli eventi avversi** (**[[adverse-event-monitoring-in-clinical-ai|Adverse Event Monitoring]]**): solo il 9,5% degli studi (2/21) include protocolli formalizzati di monitoraggio degli eventi indesiderati, suggerendo un significativo effetto di sottostima (*undercount fallacy*) dei reali fallimenti di sicurezza.
+  - Formalizza che la sicurezza nell'IA clinica non è una proprietà puramente algoritmica o lessicale, ma un **problema sociotecnico complesso** (**[Sociotechnical Safety Framework](concetti/sociotechnical-safety-in-clinical-ai.md)**) che richiede l'integrazione coordinata di tre pilastri: controlli tecnici AI/ML (**[Layered Safeguards](concetti/concetti/concetti\layered-safeguards-in-clinical-ai.md)**), salvaguardie procedurali pre-deployment e governance operativa di erogazione.
+  - Svela una **critica carenza nel tracciamento sistematico degli eventi avversi** (**[Adverse Event Monitoring](concetti/adverse-event-monitoring-in-clinical-ai.md)**): solo il 9,5% degli studi (2/21) include protocolli formalizzati di monitoraggio degli eventi indesiderati, suggerendo un significativo effetto di sottostima (*undercount fallacy*) dei reali fallimenti di sicurezza.
   - Documenta fallimenti clinici concreti nei sistemi che si affidano unicamente al prompt engineering (es. risposte generiche ed evasive di fronte a messaggi suicidari in *HopeBot*, citazione di paper scientifici inesistenti in *ComPeer*, e necessità di 13 interventi correttivi umani in *Therabot* per bloccare consigli medici impropri).
 
 ```mermaid
@@ -292,14 +292,17 @@ Sebbene la supervisione umana al 100% adottata in *Therabot* (dove i clinici han
 ## Connessioni e Voci Correlate nella Knowledge Base
 
 - **Framework di Sicurezza e Architettura:**
-  - [[sociotechnical-safety-in-clinical-ai|Sociotechnical Safety Framework in Clinical AI]] — La formalizzazione del paradigma sociotecnico multilivello.
-  - [[layered-safeguards-in-clinical-ai|Layered Safeguards in Clinical AI]] — Approfondimento sui meccanismi di difesa in profondità algoritmica e procedurale.
-  - [[adverse-event-monitoring-in-clinical-ai|Adverse Event Monitoring in Clinical AI]] — Tassonomia e metodologie di tracciamento dei danni iatrogeni da GenAI.
+  - [Sociotechnical Safety Framework in Clinical AI](concetti/sociotechnical-safety-in-clinical-ai.md) — La formalizzazione del paradigma sociotecnico multilivello.
+  - [Layered Safeguards in Clinical AI](concetti/concetti/concetti\layered-safeguards-in-clinical-ai.md) — Approfondimento sui meccanismi di difesa in profondità algoritmica e procedurale.
+  - [Adverse Event Monitoring in Clinical AI](concetti/adverse-event-monitoring-in-clinical-ai.md) — Tassonomia e metodologie di tracciamento dei danni iatrogeni da GenAI.
 - **Interventi, UX ed Efficacia:**
-  - [[generative-ai-mental-health-chatbot-interventions|Generative AI Mental Health Chatbot Interventions (Olisaeloka et al., 2026)]] — Studio complementare su design, UX e Working Alliance.
-  - [[relational-engagement-paradox-genai|Relational-Engagement Paradox in GenAI]] — Il fenomeno del drop-out massivo a medio termine a fronte di alta alleanza iniziale.
+  - [Generative AI Mental Health Chatbot Interventions (Olisaeloka et al., 2026)](concetti/generative-ai-mental-health-chatbot-interventions.md) — Studio complementare su design, UX e Working Alliance.
+  - [Relational-Engagement Paradox in GenAI](relational-engagement-paradox-genai.md) — Il fenomeno del drop-out massivo a medio termine a fronte di alta alleanza iniziale.
 - **Governance, Linee Guida e Regolamentazione:**
-  - [[software-as-a-medical-device-salute-mentale|Software as a Medical Device (SaMD) in Salute Mentale]] — Normative FDA e MDR per dispositivi medici digitali.
-  - [[demarcazione-wellness-vs-samd-salute-mentale|Demarcazione Wellness vs SaMD in Salute Mentale]] — Confini legali tra app di supporto e dispositivi terapeutici.
-  - [[configurazione-sicurezza-piattaforme-ia-clinica|Configurazione di Sicurezza per Piattaforme di IA Clinica]] — Best practice operative per la protezione dei dati e la mitigazione del rischio.
-  - [[linee-guida-reporting-ai-generativa-chart-elevate|Linee Guida di Reporting per l'IA Generativa (CHART & ELEVATE)]] — Standard metodologici per la trasparenza degli studi clinici su GenAI.
+  - [Software as a Medical Device (SaMD) in Salute Mentale](software-as-a-medical-device-salute-mentale.md) — Normative FDA e MDR per dispositivi medici digitali.
+  - [Demarcazione Wellness vs SaMD in Salute Mentale](concetti/demarcazione-wellness-vs-samd-salute-mentale.md) — Confini legali tra app di supporto e dispositivi terapeutici.
+  - [Configurazione di Sicurezza per Piattaforme di IA Clinica](concetti/configurazione-sicurezza-piattaforme-ia-clinica.md) — Best practice operative per la protezione dei dati e la mitigazione del rischio.
+  - [Linee Guida di Reporting per l'IA Generativa (CHART & ELEVATE)](concetti/linee-guida-reporting-ai-generativa-chart-elevate.md) — Standard metodologici per la trasparenza degli studi clinici su GenAI.
+
+## Riferimenti Bibliografici
+- [Da integrare]

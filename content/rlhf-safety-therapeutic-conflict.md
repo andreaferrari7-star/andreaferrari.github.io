@@ -6,7 +6,7 @@ source_papers: ["2604.23445v1.pdf"]
 # Conflitto tra Safety Training RLHF e Fedeltà Terapeutica (RLHF Safety-Therapeutic Fidelity Conflict)
 
 ## Definizione Operativa
-- Il **Conflitto tra Safety Training RLHF e Fedeltà Terapeutica** rappresenta la discrepanza strutturale e iatrogena tra gli obiettivi di allineamento generico dei Large Language Models ([[large-language-models]]) — ottimizzati tramite *Reinforcement Learning from Human Feedback* (RLHF) per produrre risposte rassicuranti, servizievoli, prive di tossicità e orientate alla de-escalation immediata — e i requisiti procedurali delle psicoterapie evidence-based (*Evidence-Based Therapies*, EBT; Suhas et al., 2026).
+- Il **Conflitto tra Safety Training RLHF e Fedeltà Terapeutica** rappresenta la discrepanza strutturale e iatrogena tra gli obiettivi di allineamento generico dei Large Language Models ([large-language-models](large-language-models.md)) — ottimizzati tramite *Reinforcement Learning from Human Feedback* (RLHF) per produrre risposte rassicuranti, servizievoli, prive di tossicità e orientate alla de-escalation immediata — e i requisiti procedurali delle psicoterapie evidence-based (*Evidence-Based Therapies*, EBT; Suhas et al., 2026).
 - **Meccanismo Iatrogeno:** Nelle psicoterapie manualizzate (es. *Prolonged Exposure* - PE per PTSD e ristrutturazione cognitiva CBT), il cambiamento clinico richiede che il paziente rimanga a contatto con materiale emotivamente disturbante (*staying with distress*), elabori memorie traumatiche ed esamini criticamente cognizioni disfunzionali. L'addestramento di sicurezza standard agisce come una barriera iatrogena: interpretando il dolore espresso come un rischio da neutralizzare all'istante, il modello interrompe forzatamente il processo terapeutico, rinforza l'evitamento e produce risposte controindicate.
 
 ```mermaid
@@ -112,4 +112,7 @@ graph LR
 - Vinh, T., Goodman, G., & Sherrill, A. M. (2026). Psychiatry’s blind spot: Independent use of general-purpose large language models by individuals with psychopathology. *Mayo Clinic Proceedings: Digital Health*, 4(2):100353.
 
 ## Relazioni
-- Vedi anche: [[2604-23445v1]], [[five-axis-clinical-evaluation]], [[clinical-fidelity-assessment]], [[software-as-a-medical-device-salute-mentale]], [[alignment-conflict-schema]], [[synthetic-psychopathology]], [[simulated-empathy-vs-authentic-presence]], [[audit-bias-llm-clinici]], [[automated-clinical-ai-red-teaming]], [[modello-centauro-clinico]], [[000]]
+- Vedi anche: [2604-23445v1](2604-23445v1.md), [five-axis-clinical-evaluation](five-axis-clinical-evaluation.md), [clinical-fidelity-assessment](clinical-fidelity-assessment.md), [software-as-a-medical-device-salute-mentale](software-as-a-medical-device-salute-mentale.md), [alignment-conflict-schema](alignment-conflict-schema.md), [synthetic-psychopathology](synthetic-psychopathology.md), [simulated-empathy-vs-authentic-presence](concetti/concetti/concetti\simulated-empathy-vs-authentic-presence.md), [audit-bias-llm-clinici](concetti/concetti/concetti\audit-bias-llm-clinici.md), [automated-clinical-ai-red-teaming](automated-clinical-ai-red-teaming.md), [modello-centauro-clinico](concetti/concetti/concetti\modello-centauro-clinico.md), [000](000.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

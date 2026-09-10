@@ -18,4 +18,7 @@ source_papers: ["JML_1001.pdf", "s44163-025-00495-3.pdf"]
 - Tingelhoff, F., Brugger, M., & Leimeister, J. M. (2024). A guide for structured literature reviews in business research: The state-of-the-art and how to integrate generative artificial intelligence. *Journal of Information Technology*, 1–23. https://doi.org/10.1177/02683962241304105
 
 ## Relazioni
-- Vedi anche: [[structured-literature-reviews]], [[tingelhoff-et-al-2024]], [[ai-research-ethics]], [[hybrid-ai-research-workflows]]
+- Vedi anche: [structured-literature-reviews](structured-literature-reviews.md), [tingelhoff-et-al-2024](tingelhoff-et-al-2024.md), [ai-research-ethics](ai-research-ethics.md), [hybrid-ai-research-workflows](hybrid-ai-research-workflows.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

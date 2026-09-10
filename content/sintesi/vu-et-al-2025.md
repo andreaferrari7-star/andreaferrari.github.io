@@ -172,11 +172,12 @@ Nei confronti diretti pairwise a doppio cieco su 120 scenari avversariali di *Co
 ---
 
 ## Pagine e Concetti Correlati
-- [[sqpsych-framework]]: Architettura dettagliata del framework SQPsych e del dataset SQPsychConv.
-- [[conversione-questionari-dialoghi-clinici]]: Metodologia di hash-mapping per convertire scale psicometriche (BDI, HAM-D) in linguaggio naturale.
-- [[open-weight-privacy-compliant-synthesis]]: Protocolli di generazione sicura con LLM open-weight locali in conformità a GDPR e HIPAA.
-- [[counseling-benchmarks-evaluation]]: Metodologie di valutazione clinica (CounselingBench, CBT-Bench, LLM Panels vs. Esperti).
-- [[synthetic-clinical-dialogues]]: Panoramica generale sulla generazione computazionale di dialoghi clinici sintetici.
-- [[cognitive-distortion-detection]]: Identificazione e classificazione automatizzata delle distorsioni cognitive nel dialogo.
-- [[cbt-dialogue-systems-and-tools]]: Sistemi conversazionali basati sui principi della Terapia Cognitivo-Comportamentale.
-- [[etica-privacy-bias-ia-clinica]]: Sfide etiche, privacy dei dati del paziente e mitigazione dei bias algoritmici.
+- [sqpsych-framework](../sqpsych-framework.md): Architettura dettagliata del framework SQPsych e del dataset SQPsychConv.
+- [conversione-questionari-dialoghi-clinici](../concetti/conversione-questionari-dialoghi-clinici.md): Metodologia di hash-mapping per convertire scale psicometriche (BDI, HAM-D) in linguaggio naturale.
+- [open-weight-privacy-compliant-synthesis](../open-weight-privacy-compliant-synthesis.md): Protocolli di generazione sicura con LLM open-weight locali in conformità a GDPR e HIPAA.
+- [counseling-benchmarks-evaluation](../concetti/counseling-benchmarks-evaluation.md): Metodologie di valutazione clinica (CounselingBench, CBT-Bench, LLM Panels vs. Esperti).
+- [synthetic-clinical-dialogues](../concetti/synthetic-clinical-dialogues.md): Panoramica generale sulla generazione computazionale di dialoghi clinici sintetici.
+- [cognitive-distortion-detection](../concetti/cognitive-distortion-detection.md): Identificazione e classificazione automatizzata delle distorsioni cognitive nel dialogo.
+- [cbt-dialogue-systems-and-tools](../concetti/concetti/concetti\cbt-dialogue-systems-and-tools.md): Sistemi conversazionali basati sui principi della Terapia Cognitivo-Comportamentale.
+- [etica-privacy-bias-ia-clinica](../concetti/etica-privacy-bias-ia-clinica.md): Sfide etiche, privacy dei dati del paziente e mitigazione dei bias algoritmici.
+

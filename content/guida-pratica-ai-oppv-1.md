@@ -26,7 +26,7 @@ source_papers:
 # Guida Operativa all'Utilizzo dell'AI nella Pratica Professionale (OPPV, 2026)
 
 ## Definizione Operativa
-La **Guida Operativa all'Utilizzo dell'AI nella Pratica Professionale** rappresenta il primo documento organico emanato da un Ordine regionale degli psicologi in Italia volto a normare, guidare e disciplinare l'adozione dell'[[large-language-models|Intelligenza Artificiale Generativa]] e degli strumenti digitali avanzati nella professione psicologica e clinica.
+La **Guida Operativa all'Utilizzo dell'AI nella Pratica Professionale** rappresenta il primo documento organico emanato da un Ordine regionale degli psicologi in Italia volto a normare, guidare e disciplinare l'adozione dell'[Intelligenza Artificiale Generativa](concetti/large-language-models.md) e degli strumenti digitali avanzati nella professione psicologica e clinica.
 
 Il documento fornisce il quadro giuridico-deontologico integrato (GDPR, AI Act, L. 132/2025, EHDS, Codice Deontologico), stabilisce le quattro condizioni inderogabili di liceità per l'uso dell'IA nella pratica psicologica, fornisce i template personalizzabili di Informativa Privacy e Consenso Informato modulare, e definisce le schede tecniche di configurazione di sicurezza per i principali strumenti commerciali di IA.
 
@@ -48,10 +48,12 @@ La guida include inoltre un vademecum operativo per le piattaforme (Zoom, Teams,
 *   Regolamento (UE) 2025/327 (EHDS).
 
 ## Relazioni
-- [[quattro-condizioni-liceita-ia-psicologia|Le Quattro Condizioni di Liceità e Correttezza Deontologica per l'IA in Psicologia]]
-- [[configurazione-sicurezza-piattaforme-ia-clinica|Configurazione di Sicurezza e Mitigazione del Rischio per Piattaforme di IA in Ambito Clinico]]
-- [[informed-consent-for-clinical-ai|Consenso Informato per l'IA nella Pratica Clinica]]
-- [[gdpr-governance-mental-health-ai|GDPR Governance e Protezione Dati nell'IA per la Salute Mentale]]
-- [[human-oversight-and-liability-in-clinical-ai|Supervisione Umana e Responsabilità Giuridica nell'IA Clinica]]
-- [[modello-centauro-clinico|Modello Centauro Clinico]]
-- [[augmented-psychotherapy|Psicoterapia Aumentata]]
+- [Le Quattro Condizioni di Liceità e Correttezza Deontologica per l'IA in Psicologia](concetti/quattro-condizioni-liceita-ia-psicologia.md)
+- [Configurazione di Sicurezza e Mitigazione del Rischio per Piattaforme di IA in Ambito Clinico](concetti/configurazione-sicurezza-piattaforme-ia-clinica.md)
+- [Consenso Informato per l'IA nella Pratica Clinica](concetti/informed-consent-for-clinical-ai.md)
+- [GDPR Governance e Protezione Dati nell'IA per la Salute Mentale](concetti/concetti/concetti\gdpr-governance-mental-health-ai.md)
+- [Supervisione Umana e Responsabilità Giuridica nell'IA Clinica](concetti/human-oversight-and-liability-in-clinical-ai.md)
+- [Modello Centauro Clinico](concetti/concetti/concetti\modello-centauro-clinico.md)
+- [Psicoterapia Aumentata](concetti/augmented-psychotherapy.md)
+
+

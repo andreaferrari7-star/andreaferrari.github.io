@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Cognitive Offloading e Diagnostic Deskilling in Psicoterapia
 
 **Summary**: Processo di decadimento neurocognitivo e professionale in cui la delega sistematica all'IA dei processi di memorizzazione anamnestica, sintesi tematica e formulazione diagnostica produce "debito cognitivo", atrofia della memoria di lavoro in seduta e vulnerabilità all'automation bias.
@@ -59,7 +63,7 @@ L'**Automation Bias** è la tendenza euristica a sovrastimare l'affidabilità, l
 
 ## Tabella Comparativa degli Impatti Cognitivi
 
-| Funzione Clinica | Esercizio Tradizionale | Delega all'IA (Offloading) | Presidio Protocollato ([[sadar-framework\|SADAR]]) |
+| Funzione Clinica | Esercizio Tradizionale | Delega all'IA (Offloading) | Presidio Protocollato ([SADAR](sadar-framework.md)) |
 | :--- | :--- | :--- | :--- |
 | **Memoria di Lavoro** | Allenamento continuo in seduta per associare temi | Atrofia da disuso; consultazione continua di note | Stimolata nel richiamo differito post-seduta |
 | **Generazione Ipotesi** | Faticosa esplorazione intuitivo-analitica | Accettazione passiva di pattern suggeriti | **L'IA è costretta a produrre 3 ipotesi divergenti** |
@@ -70,17 +74,20 @@ L'**Automation Bias** è la tendenza euristica a sovrastimare l'affidabilità, l
 
 ## Contromisure e Standard Operativi
 
-- **Intenzionale Attrito Cognitivo**: Rifiutare l'automazione totale dei processi decisionali; impiegare prompt che costringano al ragionamento divergente (come previsto dal metodo 3-2-1 del [[sadar-framework|SADAR]]).
+- **Intenzionale Attrito Cognitivo**: Rifiutare l'automazione totale dei processi decisionali; impiegare prompt che costringano al ragionamento divergente (come previsto dal metodo 3-2-1 del [SADAR](sadar-framework.md)).
 - **Mantenimento di Compiti Mentali Non Delegabili**: La stesura della concettualizzazione del caso e la formulazione diagnostica devono rimanere atti intellettuali prioritariamente umani.
 - **Formazione Continua sui Bias Tecnologici**: Inserimento dell'automation bias nei curricula ECM e di specializzazione per psicoterapeuti.
 
 ---
 
 ## Pagine Correlate
-- [[moral-buffering-e-deskilling-etico]]
-- [[sadar-framework]]
-- [[digital-analytic-third]]
-- [[sindrome-impostore-ia-specifica]]
-- [[artificial-intelligence-replacement-dysfunction]]
-- [[tecnostress-e-paradosso-sovradocumentazione]]
-- [[ai-in-psicoterapia-2023-2026]]
+- [moral-buffering-e-deskilling-etico](moral-buffering-e-deskilling-etico.md)
+- [sadar-framework](sadar-framework.md)
+- [digital-analytic-third](digital-analytic-third.md)
+- [sindrome-impostore-ia-specifica](sindrome-impostore-ia-specifica.md)
+- [artificial-intelligence-replacement-dysfunction](artificial-intelligence-replacement-dysfunction.md)
+- [tecnostress-e-paradosso-sovradocumentazione](tecnostress-e-paradosso-sovradocumentazione.md)
+- [ai-in-psicoterapia-2023-2026](../sintesi/ai-in-psicoterapia-2023-2026.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

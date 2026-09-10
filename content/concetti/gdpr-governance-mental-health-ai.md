@@ -32,10 +32,13 @@ La ricerca evidenzia una tensione strutturale tra la raccolta massiva di dati (s
 
 ## Relazioni
 
-*   [[kandeel-et-al-2026]]
-*   [[federated-learning-and-differential-privacy-mental-health]]
-*   [[software-as-a-medical-device-salute-mentale]]
-*   [[three-layer-governance-framework]]
-*   [[etica-privacy-bias-ia-clinica]]
-*   [[algorithmic-paternalism-in-ai-mental-health]]
-*   [[cross-cultural-bias-and-fairness-audits-ai]]
+*   [kandeel-et-al-2026](../sintesi/kandeel-et-al-2026.md)
+*   [federated-learning-and-differential-privacy-mental-health](federated-learning-and-differential-privacy-mental-health.md)
+*   [software-as-a-medical-device-salute-mentale](software-as-a-medical-device-salute-mentale.md)
+*   [three-layer-governance-framework](concetti/concetti\three-layer-governance-framework.md)
+*   [etica-privacy-bias-ia-clinica](etica-privacy-bias-ia-clinica.md)
+*   [algorithmic-paternalism-in-ai-mental-health](concetti/concetti\algorithmic-paternalism-in-ai-mental-health.md)
+*   [cross-cultural-bias-and-fairness-audits-ai](cross-cultural-bias-and-fairness-audits-ai.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

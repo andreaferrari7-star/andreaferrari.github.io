@@ -1,3 +1,8 @@
+---
+tags: []
+source: "riunione"
+---
+
 # Riunione 07-10: Test e Valutazione di Libet Prime, Trainer Simulator e Piano Operativo
 
 **Summary**: Sintesi della riunione operativa di presentazione e avvio del test pilota di "Libet Prime" (v1.2), introduzione dell'agente "Trainer Simulator" (v0.2), protocollo di sperimentazione strutturato su piattaforma Gemini per i responsabili di sede/didatti di Studi Cognitivi e considerazioni pedagogico-etiche sul co-ragionamento maieutico.
@@ -14,7 +19,7 @@
 
 ---
 
-### 2. [[libet-prime|Libet Prime]]: Architettura e Funzionamento (v1.2)
+### 2. [Libet Prime](../concetti/concetti/concetti\libet-prime.md): Architettura e Funzionamento (v1.2)
 - **Definizione e natura dell'agente**: Gem di Gemini ideato come *tutor clinico-didattico* sul modello LIBET (*Life Themes and Plans in CBT*).
 - **Cosa NON è**: Non è un terapeuta, né un supervisore, né un oracolo infallibile, né uno strumento per fare diagnosi automatiche o un'assistenza diretta alla psicoterapia reale.
 - **Comportamento differenziato (Bimodale)**:
@@ -30,7 +35,7 @@
 
 ---
 
-### 3. [[trainer-simulator|Trainer Simulator]]: Simulatore di Pazienti Virtuali (v0.2)
+### 3. [Trainer Simulator](../trainer-simulator.md): Simulatore di Pazienti Virtuali (v0.2)
 - **Scopo e posizionamento**: Secondo agente in fase di sviluppo (Interview Trainer) finalizzato alla pratica esperienziale e alla simulazione del colloquio clinico.
 - **Perimetro di addestramento**: Dalla fase iniziale di assessment alla formulazione del caso condivisa (ABC, ABC Libet e restituzione).
 - **Caratteristiche funzionali**:
@@ -41,7 +46,7 @@
 
 ---
 
-### 4. [[testing-e-validazione-agenti-didattici|Protocollo Operativo di Test]] e Roadmap
+### 4. [Protocollo Operativo di Test](../concetti/testing-e-validazione-agenti-didattici.md) e Roadmap
 - **Campione di tester**: Responsabili di sede, didatti storici della scuola e figure junior selezionate per sensibilità tecnica o clinica.
 - **Cronoprogramma**:
   - *Luglio - Agosto*: Fase di sperimentazione individuale su Gemini.
@@ -56,7 +61,7 @@
 
 ---
 
-### 5. [[ia-maieutica-e-co-ragionamento|Implicazioni Pedagogiche, Psicologiche ed Etiche]]
+### 5. [Implicazioni Pedagogiche, Psicologiche ed Etiche](../concetti/ia-maieutica-e-co-ragionamento.md)
 - **Dal paradigma della scorciatoia al prolungamento della riflessione**: Contrastare la tendenza a usare l'IA come generatore passivo di risposte rapide; strutturare l'interazione affinché imponga uno sforzo metacognitivo e allunghi il tempo di ragionamento dell'allievo.
 - **Gestione dei Bias e dell'Over-Confidence**:
   - *Over-confidence / Effetto Oracolo*: Rischio che l'allievo accetti acriticamente le risposte dell'IA.
@@ -66,11 +71,14 @@
 ---
 
 ## Related pages
-- [[libet-prime]]
-- [[trainer-simulator]]
-- [[testing-e-validazione-agenti-didattici]]
-- [[ia-maieutica-e-co-ragionamento]]
-- [[human-in-the-reasoning]]
-- [[simulazione-pazienti-ai]]
-- [[05-08_Riunione_Knowledge_Base]]
-- [[04-20_Tavola_rotonda_Integrazione_IA]]
+- [libet-prime](../concetti/concetti/concetti\libet-prime.md)
+- [trainer-simulator](../trainer-simulator.md)
+- [testing-e-validazione-agenti-didattici](../concetti/testing-e-validazione-agenti-didattici.md)
+- [ia-maieutica-e-co-ragionamento](../concetti/ia-maieutica-e-co-ragionamento.md)
+- [human-in-the-reasoning](../human-in-the-reasoning.md)
+- [simulazione-pazienti-ai](../simulazione-pazienti-ai.md)
+- [05-08_Riunione_Knowledge_Base](../05-08_Riunione_Knowledge_Base.md)
+- [04-20_Tavola_rotonda_Integrazione_IA](../04-20_Tavola_rotonda_Integrazione_IA.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

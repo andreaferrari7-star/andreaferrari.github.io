@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Convegno: Integrazione Etica dell'IA nella Psicoterapia
 
 **Summary**: Atti e quadro di sintesi del convegno di Studi Cognitivi sull'integrazione clinica, etica ed empirica dell'intelligenza artificiale nella psicoterapia cognitivo-comportamentale e nella formazione specialistica.
@@ -6,7 +10,7 @@
 ---
 
 ## Quadro Generale e Premessa Epistemologica
-Il convegno, moderato da Gabriele Caselli per la rete di scuole di psicoterapia *Studi Cognitivi*, definisce la cornice concettuale e deontologica dell'ingresso dell'[[large-language-models|intelligenza artificiale]] nella pratica clinica e nella didattica. L'approccio rifugge sia dal tecno-entusiasmo acritico sia dal rifiuto conservativo, inquadrando l'IA non come semplice strumento di calcolo ma come trasformazione sistemica delle dinamiche decisionali, formative e relazionali.
+Il convegno, moderato da Gabriele Caselli per la rete di scuole di psicoterapia *Studi Cognitivi*, definisce la cornice concettuale e deontologica dell'ingresso dell'[intelligenza artificiale](concetti/large-language-models.md) nella pratica clinica e nella didattica. L'approccio rifugge sia dal tecno-entusiasmo acritico sia dal rifiuto conservativo, inquadrando l'IA non come semplice strumento di calcolo ma come trasformazione sistemica delle dinamiche decisionali, formative e relazionali.
 
 Punti cardine introduttivi:
 - **Evoluzione bioetica e normativa**: Richiamo al documento del Comitato Nazionale per la Bioetica (*Relazione di cura, consenso informato e responsabilità nell'era dell'intelligenza artificiale*), che sposta il dibattito dagli aspetti tecnici (allucinazioni, bias) alla tutela della vulnerabilità, alla ridefinizione del consenso informato dinamico e alla responsabilità indelegabile del terapeuta.
@@ -27,7 +31,7 @@ Il Prof. Giovanni Maria Ruggiero colloca l'IA all'interno di una riflessione sui
 ---
 
 ## 2. Applicazioni Pratiche e Psicoterapia Aumentata (A. Ferrari)
-Il Dott. Andrea Ferrari delinea il modello operativo dell'[[augmented-psychotherapy|Augmented Psychotherapy]], in cui l'algoritmo non agisce come agente autonomo ma come lente di ingrandimento clinica:
+Il Dott. Andrea Ferrari delinea il modello operativo dell'[Augmented Psychotherapy](concetti/augmented-psychotherapy.md), in cui l'algoritmo non agisce come agente autonomo ma come lente di ingrandimento clinica:
 
 - **Elaborazione del Linguaggio Naturale (NLP) e Scrittura Clinica**:
   - Automatizzazione delle note cliniche strutturate in formato SOAP (*Subjective, Objective, Assessment, Plan*) e concettualizzazioni secondo il modello LIBET.
@@ -57,7 +61,7 @@ La Dott.ssa Matilde Boattini analizza la letteratura scientifica recente (2023�
   - Gli LLM simulano verbalmente risposte empatiche e performano bene su compiti di teoria della mente di primo livello (false belief, ironia), ma falliscono nel riconoscimento delle gaffe sociali (*faux pas*).
   - Negli scenari clinici (es. disturbo borderline), gli LLM manifestano spesso un *bias pessimistico*, attribuendo alle pazienti cronicità immutabile e minore probabilità di recupero rispetto alla valutazione dei clinici umani.
 - **Il Framework dell'Alleanza Digitale**:
-  - Introduzione del costrutto di [[digital-therapeutic-alliance|Digital Therapeutic Alliance]] (ispirato al modello di Bordin), che struttura la relazione triadica (paziente-terapeuta-IA) su quattro pilastri: trasparenza, fiducia informata, delimitazione dei ruoli (prevenzione dell'overreliance) e self-agency del terapeuta.
+  - Introduzione del costrutto di [Digital Therapeutic Alliance](concetti/digital-therapeutic-alliance.md) (ispirato al modello di Bordin), che struttura la relazione triadica (paziente-terapeuta-IA) su quattro pilastri: trasparenza, fiducia informata, delimitazione dei ruoli (prevenzione dell'overreliance) e self-agency del terapeuta.
 - **Dati Sperimentali (Ricerca di Dottorato)**:
   - Sperimentazione di un agente GPT-4 addestrato sui piani semi-adattivi LIBET per fornire feedback tra le prime sedute: i terapeuti percepiscono maggiore autoefficacia e si riscontra un miglioramento negli indici GAD e PHQ, a condizione che la provenienza del feedback sia trasparente per prevenire vissuti di invasione relazionale.
 
@@ -70,9 +74,12 @@ Il dibattito finale converge su alcune direttrici operative per la professione:
 3. **Sviluppo Metacognitivo**: L'IA deve essere impiegata per sfidare attivamente i modelli cognitivi del clinico e non come specchio confermativo dei propri preconcetti.
 
 ## Related pages
-- [[augmented-psychotherapy]]
-- [[digital-therapeutic-alliance]]
-- [[ai-research-ethics]]
-- [[hybrid-ai-research-workflows]]
-- [[prompting-in-psychology]]
-- [[large-language-models]]
+- [augmented-psychotherapy](augmented-psychotherapy.md)
+- [digital-therapeutic-alliance](digital-therapeutic-alliance.md)
+- [ai-research-ethics](ai-research-ethics.md)
+- [hybrid-ai-research-workflows](hybrid-ai-research-workflows.md)
+- [prompting-in-psychology](prompting-in-psychology.md)
+- [large-language-models](large-language-models.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

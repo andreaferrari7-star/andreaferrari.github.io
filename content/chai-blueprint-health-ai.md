@@ -56,5 +56,8 @@ Il Blueprint CHAI ha fornito le fondamenta concettuali per la governance dell'IA
 - Hua, Y., Xia, W., Bates, D., Hartstein, G. L., Kim, H. T., Li, M., Nelson, B. W., Stromeyer, C., IV, King, D., Suh, J., Zhou, L., & Torous, J. (2025). Standardizing and Scaffolding Health Care AI-Chatbot Evaluation: Systematic Review. *JMIR AI*, 4, e69006. https://doi.org/10.2196/69006
 
 ## Relazioni
-- Scheda sintesi collegata: [[ai-v4i1e69006]]
-- Concetti correlati: [[haicef-framework]], [[healthcare-conversational-agents]], [[five-axis-clinical-evaluation]], [[software-as-a-medical-device-salute-mentale]], [[three-layer-governance-framework]], [[reflective-interpretability]], [[audit-bias-llm-clinici]], [[modello-centauro-clinico]].
+- Scheda sintesi collegata: [ai-v4i1e69006](ai-v4i1e69006.md)
+- Concetti correlati: [haicef-framework](haicef-framework.md), [healthcare-conversational-agents](concetti/concetti/concetti\healthcare-conversational-agents.md), [five-axis-clinical-evaluation](five-axis-clinical-evaluation.md), [software-as-a-medical-device-salute-mentale](software-as-a-medical-device-salute-mentale.md), [three-layer-governance-framework](concetti/concetti/concetti\three-layer-governance-framework.md), [reflective-interpretability](reflective-interpretability.md), [audit-bias-llm-clinici](concetti/concetti/concetti\audit-bias-llm-clinici.md), [modello-centauro-clinico](concetti/concetti/concetti\modello-centauro-clinico.md).
+
+## Riferimenti Bibliografici
+- [Da integrare]

@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Trade-Off tra Conversazione e Ragionamento nei Modelli Linguistici Clinici
 
 **Summary**: Fenomeno empirico evidenziato nei sistemi multi-agente per la salute mentale, caratterizzato dalla divergenza tra le prestazioni dei Large Language Model (LLM) ottimizzati per la fluidità conversazionale ed empatica e quelli addestrati specificamente per il ragionamento logico-deduttivo e la diagnosi differenziale.
@@ -7,7 +11,7 @@
 
 ## Inquadramento e Definizione
 
-Nel panorama dei [[large-language-models]], si osserva una crescente specializzazione architetturale e di addestramento:
+Nel panorama dei [large-language-models](../large-language-models.md), si osserva una crescente specializzazione architetturale e di addestramento:
 1. **Modelli Conversazionali / Dialogue-Optimized** (es. Meta Llama-4-scout-17b, Mistral-Saba-24b): Ottimizzati tramite RLHF e dataset dialogici per massimizzare la naturalezza comunicativa, la sintonizzazione empatica, la gestione del registro e la coerenza multi-turno.
 2. **Modelli di Ragionamento / Reasoning-Optimized** (es. Qwen-QWQ-32b, modelli basati su catene di pensiero esplicite CoT): Ottimizzati tramite *reinforcement learning* per l'inferenza logica passo-passo, il problem-solving complesso e l'ancoraggio deduttivo a regole formali.
 
@@ -68,10 +72,13 @@ Questo modello disaccoppiato consente di sfruttare i punti di forza complementar
 ---
 
 ## Pagine Correlate
-- [[dsm5agentflow]]: Architettura del workflow multi-agente per la simulazione e la diagnosi clinica.
-- [[explainable-mental-disorder-diagnosis]]: Trasparenza, evidenze semantiche e razionali diagnostici.
-- [[synthetic-clinical-dialogues]]: Generazione di dataset sintetici per benchmarking multi-modello.
-- [[ozgun-et-al-2025]]: Sintesi completa della pubblicazione CIKM 2025.
-- [[large-language-models]]: Fondamenti teorici ed evoluzione dei modelli linguistici.
-- [[ai-clinical-decision-support]]: Sistemi intelligenti di supporto alle decisioni in sanità.
-- [[modello-centauro-clinico]]: Integrazione collaborativa umano-macchina nel setting terapeutico.
+- [dsm5agentflow](dsm5agentflow.md): Architettura del workflow multi-agente per la simulazione e la diagnosi clinica.
+- [explainable-mental-disorder-diagnosis](explainable-mental-disorder-diagnosis.md): Trasparenza, evidenze semantiche e razionali diagnostici.
+- [synthetic-clinical-dialogues](synthetic-clinical-dialogues.md): Generazione di dataset sintetici per benchmarking multi-modello.
+- [ozgun-et-al-2025](../sintesi/ozgun-et-al-2025.md): Sintesi completa della pubblicazione CIKM 2025.
+- [large-language-models](../large-language-models.md): Fondamenti teorici ed evoluzione dei modelli linguistici.
+- [ai-clinical-decision-support](ai-clinical-decision-support.md): Sistemi intelligenti di supporto alle decisioni in sanità.
+- [modello-centauro-clinico](concetti/concetti\modello-centauro-clinico.md): Integrazione collaborativa umano-macchina nel setting terapeutico.
+
+## Riferimenti Bibliografici
+- [Da integrare]

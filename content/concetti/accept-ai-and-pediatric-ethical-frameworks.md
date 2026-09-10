@@ -54,10 +54,13 @@ Il framework **ACCEPT-AI** (*Recommendations for the use of pediatric data in ar
 
 ## Relazioni
 
-- [[verhoeven-et-al-2026]]: Sintesi dell'articolo di revisione su Explainable AI e bioetica pediatrica.
-- [[xai-in-pediatric-surgery]]: Metodologie di XAI applicate alle discipline chirurgiche infantili.
-- [[pediatric-ai-bias-and-vulnerabilities]]: Bias algoritmico, campionamento WEIRD e vulnerabilità dello sviluppo.
-- [[pediatric-xai-benchmarking]]: Standardizzazione e benchmark per la validazione di fedeltà e sicurezza.
-- [[ai-research-ethics]]: Principi generali di etica della ricerca e governance computazionale.
-- [[three-layer-governance-framework]]: Modello di governance multilivello per l'integrazione clinica dell'IA.
-- [[etica-privacy-bias-ia-clinica]]: Etica, riservatezza dei dati e non discriminazione nell'IA medica.
+- [verhoeven-et-al-2026](../sintesi/verhoeven-et-al-2026.md): Sintesi dell'articolo di revisione su Explainable AI e bioetica pediatrica.
+- [xai-in-pediatric-surgery](xai-in-pediatric-surgery.md): Metodologie di XAI applicate alle discipline chirurgiche infantili.
+- [pediatric-ai-bias-and-vulnerabilities](pediatric-ai-bias-and-vulnerabilities.md): Bias algoritmico, campionamento WEIRD e vulnerabilità dello sviluppo.
+- [pediatric-xai-benchmarking](pediatric-xai-benchmarking.md): Standardizzazione e benchmark per la validazione di fedeltà e sicurezza.
+- [ai-research-ethics](../ai-research-ethics.md): Principi generali di etica della ricerca e governance computazionale.
+- [three-layer-governance-framework](concetti/concetti\three-layer-governance-framework.md): Modello di governance multilivello per l'integrazione clinica dell'IA.
+- [etica-privacy-bias-ia-clinica](etica-privacy-bias-ia-clinica.md): Etica, riservatezza dei dati e non discriminazione nell'IA medica.
+
+## Riferimenti Bibliografici
+- [Da integrare]

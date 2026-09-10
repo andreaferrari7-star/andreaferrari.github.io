@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Documentazione Clinica Bottom-Up e Living Documents
 
 **Summary**: Metodologia per la generazione dinamica e continua di manuali clinici operativi, linee guida procedurali e alberi decisionali a partire dall'elaborazione computazionale (tramite LLM) dei trascritti di riunioni d'équipe e discussioni su casi clinici reali. Introduce il paradigma del *Living Clinical Document* ad aggiornamento incrementale e con autorato clinico diffuso.
@@ -73,12 +77,15 @@ graph TD
 
 ## Related pages
 
-- [[07-17_Riunione_Corso_Formazione]]
-- [[llm-wiki]]
-- [[clinical-fidelity-assessment]]
-- [[microprogettazione-formativa-ia]]
-- [[second-brain-clinico]]
-- [[human-in-the-reasoning]]
-- [[augmented-psychotherapy]]
-- [[supervisione-clinica-ai]]
-- [[07-08_Riunione_Pianificazione_Corso]]
+- [07-17_Riunione_Corso_Formazione](07-17_Riunione_Corso_Formazione.md)
+- [llm-wiki](llm-wiki.md)
+- [clinical-fidelity-assessment](clinical-fidelity-assessment.md)
+- [microprogettazione-formativa-ia](concetti/concetti/concetti\microprogettazione-formativa-ia.md)
+- [second-brain-clinico](second-brain-clinico.md)
+- [human-in-the-reasoning](human-in-the-reasoning.md)
+- [augmented-psychotherapy](augmented-psychotherapy.md)
+- [supervisione-clinica-ai](supervisione-clinica-ai.md)
+- [07-08_Riunione_Pianificazione_Corso](07-08_Riunione_Pianificazione_Corso.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

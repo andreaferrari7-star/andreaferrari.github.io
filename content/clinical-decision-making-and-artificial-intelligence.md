@@ -50,11 +50,12 @@ Il trial di Goh et al. (*JAMA Network Open*, 2024) evidenzia un paradosso nell'u
 
 ## Relazioni
 
-- [[information-without-explanation-in-clinical-ai]]
-- [[single-correct-answer-fallacy-in-clinical-ai]]
-- [[human-in-the-reasoning]]
-- [[modello-centauro-clinico]]
-- [[automation-bias-clinical-reasoning]]
-- [[cognitive-offloading-e-diagnostic-deskilling]]
-- [[ai-clinical-decision-support]]
-- [[bottom-up-clinical-documentation]]
+- [information-without-explanation-in-clinical-ai](concetti/concetti/concetti\information-without-explanation-in-clinical-ai.md)
+- [single-correct-answer-fallacy-in-clinical-ai](single-correct-answer-fallacy-in-clinical-ai.md)
+- [human-in-the-reasoning](human-in-the-reasoning.md)
+- [modello-centauro-clinico](concetti/concetti/concetti\modello-centauro-clinico.md)
+- [automation-bias-clinical-reasoning](concetti/automation-bias-clinical-reasoning.md)
+- [cognitive-offloading-e-diagnostic-deskilling](concetti/cognitive-offloading-e-diagnostic-deskilling.md)
+- [ai-clinical-decision-support](concetti/ai-clinical-decision-support.md)
+- [bottom-up-clinical-documentation](bottom-up-clinical-documentation.md)
+

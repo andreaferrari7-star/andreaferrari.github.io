@@ -61,7 +61,7 @@ flowchart TD
   $$\text{Salience}(I_i) = \frac{\sum_{t=1}^N \text{WordCount}(C_t \cap I_i)}{\sum_{t=1}^N \text{WordCount}(C_t \cup T_t)}$$
   La metrica quantifica la percentuale di discorso orientato al cambiamento rispetto alla totalità dell'interazione verbale, consentendo il confronto statistico rigoroso tra modelli terapeutici.
 - **Traiettoria Temporale del Cambiamento Psicoterapeutico:**
-  - Nei trial clinici condotti con l'agente [[interactive-narrative-therapist]], l'analisi IMA documenta un pattern trifasico speculare ai processi di psicoterapia umana riuscita (Montesano et al., 2017):
+  - Nei trial clinici condotti con l'agente [interactive-narrative-therapist](interactive-narrative-therapist.md), l'analisi IMA documenta un pattern trifasico speculare ai processi di psicoterapia umana riuscita (Montesano et al., 2017):
     1. *Fase Iniziale (Turni 3–20):* Netta dominanza di IM di Livello 1, guidata da *Reflection I*.
     2. *Fase Intermedia (Turni 21–35):* Picco di transizione con crescita congiunta di *Action II* e *Reflection II* (la ristrutturazione cognitiva apre simultaneamente nuove possibilità d'azione).
     3. *Fase Finale (Turni 36–50):* Consolidamento continuo di IM di Livello 2 e comparsa di *Protest II*, attestando l'acquisizione di solida agency personale.
@@ -76,4 +76,7 @@ flowchart TD
 - White, M. (2007). *Maps of narrative practice*. WW Norton & Company.
 
 ## Relazioni
-- Vedi anche: [[2507-20241v2]], [[interactive-narrative-therapist]], [[terapia-narrativa-ia]], [[process-of-change]], [[clinical-fidelity-assessment]], [[process-based-therapy]], [[crdial-framework]], [[simulazione-pazienti-ai]]
+- Vedi anche: [2507-20241v2](2507-20241v2.md), [interactive-narrative-therapist](interactive-narrative-therapist.md), [terapia-narrativa-ia](concetti/terapia-narrativa-ia.md), [process-of-change](concetti/process-of-change.md), [clinical-fidelity-assessment](clinical-fidelity-assessment.md), [process-based-therapy](concetti/process-based-therapy.md), [crdial-framework](crdial-framework.md), [simulazione-pazienti-ai](simulazione-pazienti-ai.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

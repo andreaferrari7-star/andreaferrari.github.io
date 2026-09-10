@@ -33,11 +33,13 @@ Le evidenze di computer vision, analisi acustica e biosensoristica (Močnik et a
 - Orrù, L., & Mannarini, S. (2026). The role of artificial intelligence in clinical psychology: How AI and NLP systems are reshaping psychological interventions. *Clinical Psychology & Psychotherapy*, 33, e70242. https://doi.org/10.1002/cpp.70242
 
 ## Relazioni
-- [[frai-08-1696448]]: Rassegna su indicatori multimodali per XAI.
-- [[multimodal-observable-cues-in-psychiatry]]: Fenotipizzazione digitale multimodale in salute mentale.
-- [[algorithmic-tractability-in-psychotherapy]]: Limiti computazionali nei disturbi di personalità.
-- [[2607-25667v1]]: Simulazione di pazienti con BPD in MyMentorLLM.
-- [[modello-centauro-clinico]]: Alleanza clinico-algoritmo.
-- [[multimodal-anxiety-detection-ai]]: Riconoscimento multimodale dell'ansia.
-- [[explainable-mental-health-diagnosis]]: Framework XAI applicati alla psicodiagnosi.
+- [frai-08-1696448](frai-08-1696448.md): Rassegna su indicatori multimodali per XAI.
+- [multimodal-observable-cues-in-psychiatry](multimodal-observable-cues-in-psychiatry.md): Fenotipizzazione digitale multimodale in salute mentale.
+- [algorithmic-tractability-in-psychotherapy](algorithmic-tractability-in-psychotherapy.md): Limiti computazionali nei disturbi di personalità.
+- [2607-25667v1](2607-25667v1.md): Simulazione di pazienti con BPD in MyMentorLLM.
+- [modello-centauro-clinico](concetti/concetti/concetti\modello-centauro-clinico.md): Alleanza clinico-algoritmo.
+- [multimodal-anxiety-detection-ai](multimodal-anxiety-detection-ai.md): Riconoscimento multimodale dell'ansia.
+- [explainable-mental-health-diagnosis](explainable-mental-health-diagnosis.md): Framework XAI applicati alla psicodiagnosi.
 
+## Riferimenti Bibliografici
+- [Da integrare]

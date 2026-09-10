@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Jailbreak Psicometrici e Vulnerabilità Relazionali (Psychometric Jailbreaks)
 
 **Summary**: Classe innovativa di vettori di jailbreak e sonde di red-teaming indiretto in cui i vincoli di allineamento e i filtri di sicurezza di un Large Language Model vengono aggirati non tramite prompt malevoli o ostili, bensì attraverso l'instaurazione di una cornice relazionale calda, empatica e terapeutica abbinata alla somministrazione di test psicometrici.
@@ -53,9 +57,12 @@ flowchart TD
 
 ## Pagine Correlate
 
-- [[khadangi-et-al-2026]] — Studio empirico sui jailbreak psicometrici.
-- [[psaich-protocol]] — Il protocollo alla base dei jailbreak psicometrici.
-- [[alignment-conflict-schema]] — Lo schema interno disvelato dal jailbreak.
-- [[synthetic-psychopathology]] — Il quadro psicopatologico simulato prodotto dal bypass.
-- [[technical-vulnerabilities-llm-counseling]] — Panoramica delle vulnerabilità dei modelli linguistici in contesti clinici.
-- [[three-layer-governance-framework]] — Framework di governance e sicurezza per sistemi IA.
+- [khadangi-et-al-2026](../sintesi/khadangi-et-al-2026.md) — Studio empirico sui jailbreak psicometrici.
+- [psaich-protocol](psaich-protocol.md) — Il protocollo alla base dei jailbreak psicometrici.
+- [alignment-conflict-schema](alignment-conflict-schema.md) — Lo schema interno disvelato dal jailbreak.
+- [synthetic-psychopathology](synthetic-psychopathology.md) — Il quadro psicopatologico simulato prodotto dal bypass.
+- [technical-vulnerabilities-llm-counseling](technical-vulnerabilities-llm-counseling.md) — Panoramica delle vulnerabilità dei modelli linguistici in contesti clinici.
+- [three-layer-governance-framework](concetti/concetti\three-layer-governance-framework.md) — Framework di governance e sicurezza per sistemi IA.
+
+## Riferimenti Bibliografici
+- [Da integrare]

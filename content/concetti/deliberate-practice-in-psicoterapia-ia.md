@@ -49,9 +49,9 @@ L'integrazione di ambienti generativi come **MyMentorLLM** (Rizzi et al., 2026) 
 
 | Dimensione di Competenza | Modalità di Esercitazione con GenAI | Metrica di Valutazione |
 | :--- | :--- | :--- |
-| **Sintonizzazione e Risonanza Affettiva** | Risposta a pazienti virtuali con carichi emotivi intensi (rabbia BPD, tristezza MDD, paura GAD). | Analisi lessicale/affettiva ([[risonanza-affettiva-simulazione-clinica]], EmoAtlas). |
+| **Sintonizzazione e Risonanza Affettiva** | Risposta a pazienti virtuali con carichi emotivi intensi (rabbia BPD, tristezza MDD, paura GAD). | Analisi lessicale/affettiva ([risonanza-affettiva-simulazione-clinica](risonanza-affettiva-simulazione-clinica.md), EmoAtlas). |
 | **Intervista e Raccolta Anamnestica** | Svelamento graduale di informazioni sensibili di fronte a domande ben formulate. | Numero di turni per la disclosure clinica. |
-| **Fedeltà al Modello CBT** | Mantenimento della struttura di seduta, esplorazione di pensieri automatici e compiti a casa. | Item CTRS 1–11 ([[ctrs-automated-evaluation]]). |
+| **Fedeltà al Modello CBT** | Mantenimento della struttura di seduta, esplorazione di pensieri automatici e compiti a casa. | Item CTRS 1–11 ([ctrs-automated-evaluation](ctrs-automated-evaluation.md)). |
 | **Diagnosi Differenziale e Riconoscimento Sintomi** | Formulazione diagnostica e clustering di sintomi DSM-5-TR. | Accuratezza diagnostica ($A_I, A_F$) e coerenza sintomatica ($A_S$). |
 | **Flessibilità Metacognitiva** | Risposta a feedback didattici senza cadere nella deferenza cieca. | Indice di guadagno diagnostico ($g$) vs *over-deference*. |
 
@@ -67,10 +67,13 @@ L'integrazione di ambienti generativi come **MyMentorLLM** (Rizzi et al., 2026) 
 ---
 
 ## Relazioni
-- [[mymentorllm-framework]]: L'ambiente di simulazione triadico per la deliberate practice CBT.
-- [[native-speech-vs-text-in-clinical-simulation]]: Impatto della modalità vocale nativa nella simulazione della pratica.
-- [[over-deference-in-llm-supervision]]: Gestione del feedback supervisivo ed evitamento della compiacenza acritica.
-- [[ctrs-automated-evaluation]]: Metriche di rating della competenza clinica nella CBT.
-- [[feedback-informed-practice-ai]]: Integrazione di feedback continui nei sistemi di salute mentale.
-- [[simulazione-pazienti-ai]]: Architettura di base per la creazione di pazienti virtuali.
-- [[rizzi-et-al-2026]]: Studio sperimentale su larga scala sulla deliberate practice simulata.
+- [mymentorllm-framework](mymentorllm-framework.md): L'ambiente di simulazione triadico per la deliberate practice CBT.
+- [native-speech-vs-text-in-clinical-simulation](native-speech-vs-text-in-clinical-simulation.md): Impatto della modalità vocale nativa nella simulazione della pratica.
+- [over-deference-in-llm-supervision](over-deference-in-llm-supervision.md): Gestione del feedback supervisivo ed evitamento della compiacenza acritica.
+- [ctrs-automated-evaluation](ctrs-automated-evaluation.md): Metriche di rating della competenza clinica nella CBT.
+- [feedback-informed-practice-ai](feedback-informed-practice-ai.md): Integrazione di feedback continui nei sistemi di salute mentale.
+- [simulazione-pazienti-ai](simulazione-pazienti-ai.md): Architettura di base per la creazione di pazienti virtuali.
+- [rizzi-et-al-2026](../sintesi/rizzi-et-al-2026.md): Studio sperimentale su larga scala sulla deliberate practice simulata.
+
+## Riferimenti Bibliografici
+- [Da integrare]

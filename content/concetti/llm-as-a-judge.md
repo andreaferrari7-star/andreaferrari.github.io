@@ -17,4 +17,5 @@ source_papers: []
 - Zheng, L., Chiang, W. L., Ying, Y., et al. (2023). Judging LLM-as-a-judge with MT-Bench and Chatbot Arena. *arXiv preprint arXiv:2306.05685*.
 
 ## Relazioni
-- Vedi anche: [[miti-framework-llm-evaluation]], [[ctrs-automated-evaluation]], [[counseling-benchmarks-evaluation]]
+- Vedi anche: [miti-framework-llm-evaluation](miti-framework-llm-evaluation.md), [ctrs-automated-evaluation](ctrs-automated-evaluation.md), [counseling-benchmarks-evaluation](counseling-benchmarks-evaluation.md)
+

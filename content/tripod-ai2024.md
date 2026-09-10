@@ -35,13 +35,16 @@ source_papers:
 - Collins, G. S., Moons, K. G. M., Dhiman, P., Riley, R. D., Beam, A. L., Van Calster, B., ... & Logullo, P. (2024). TRIPOD+AI statement: updated guidance for reporting clinical prediction models that use regression or machine learning methods. *The BMJ*, 385, e078378. https://doi.org/10.1136/bmj-2023-078378
 
 ## Relazioni
-- [[tripod-ai-reporting-guideline|TRIPOD+AI Reporting Guideline]]
-- [[clinical-prediction-model-evaluation|Valutazione dei Modelli Predittivi Clinici]]
-- [[tripod-llm-reporting-guideline|TRIPOD-LLM Reporting Guideline]]
-- [[chart-reporting-guideline|CHART Reporting Guideline]]
-- [[refine-reporting-checklist|REFINE Reporting Checklist]]
-- [[elevate-genai-framework|ELEVATE-GenAI Framework]]
-- [[gamer-reporting-guideline|GAMER Reporting Guideline]]
-- [[mi-clear-llm-guideline|MI-CLEAR-LLM Guideline]]
-- [[software-as-a-medical-device-salute-mentale|Software as a Medical Device (SaMD)]]
-- [[cross-cultural-bias-and-fairness-audits-ai|Audit di Fairness e Bias nei Sistemi di IA Sanitaria]]
+- [TRIPOD+AI Reporting Guideline](concetti/tripod-ai-reporting-guideline.md)
+- [Valutazione dei Modelli Predittivi Clinici](concetti/clinical-prediction-model-evaluation.md)
+- [TRIPOD-LLM Reporting Guideline](concetti/tripod-llm-reporting-guideline.md)
+- [CHART Reporting Guideline](concetti/chart-reporting-guideline.md)
+- [REFINE Reporting Checklist](concetti/refine-reporting-checklist.md)
+- [ELEVATE-GenAI Framework](concetti/elevate-genai-framework.md)
+- [GAMER Reporting Guideline](concetti/gamer-reporting-guideline.md)
+- [MI-CLEAR-LLM Guideline](concetti/mi-clear-llm-guideline.md)
+- [Software as a Medical Device (SaMD)](software-as-a-medical-device-salute-mentale.md)
+- [Audit di Fairness e Bias nei Sistemi di IA Sanitaria](concetti/cross-cultural-bias-and-fairness-audits-ai.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

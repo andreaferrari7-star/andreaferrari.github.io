@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Simulazione Pazienti AI
 
 **Summary**: Metodologia di impiego degli LLM per generare profili e dialoghi di pazienti virtuali a fini di addestramento psicoterapeutico, sperimentazione didattica e testing clinico.
@@ -8,7 +12,7 @@
 
 ## Definizione Operativa
 
-La **Simulazione Pazienti AI** consiste nella progettazione di agenti conversazionali basati su [[large-language-models]] configurati per simulare quadri psicopatologici, pattern di credenze disfunzionali e stili relazionali tipici del contesto psicoterapeutico.
+La **Simulazione Pazienti AI** consiste nella progettazione di agenti conversazionali basati su [large-language-models](large-language-models.md) configurati per simulare quadri psicopatologici, pattern di credenze disfunzionali e stili relazionali tipici del contesto psicoterapeutico.
 
 ## Principi di Prompt Design per la Simulazione Clinica
 
@@ -28,9 +32,12 @@ La **Simulazione Pazienti AI** consiste nella progettazione di agenti conversazi
 
 ## Related pages
 
-- [[05-08_Riunione_Knowledge_Base]]
-- [[human-in-the-reasoning]]
-- [[prompting-in-psychology]]
-- [[machine-psychology]]
-- [[ai-research-ethics]]
-- [[large-language-models]]
+- [05-08_Riunione_Knowledge_Base](05-08_Riunione_Knowledge_Base.md)
+- [human-in-the-reasoning](human-in-the-reasoning.md)
+- [prompting-in-psychology](prompting-in-psychology.md)
+- [machine-psychology](machine-psychology.md)
+- [ai-research-ethics](ai-research-ethics.md)
+- [large-language-models](large-language-models.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

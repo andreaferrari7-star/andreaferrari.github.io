@@ -39,8 +39,11 @@ graph LR
     IA --> Centauro
 ```
 
-- [[rag-in-psicoterapia]]
-- [[feedback-informed-practice-ai]]
-- [[supervisione-clinica-ai]]
-- [[augmented-psychotherapy]]
-- [[human-in-the-reasoning]]
+- [rag-in-psicoterapia](rag-in-psicoterapia.md)
+- [feedback-informed-practice-ai](feedback-informed-practice-ai.md)
+- [supervisione-clinica-ai](supervisione-clinica-ai.md)
+- [augmented-psychotherapy](../augmented-psychotherapy.md)
+- [human-in-the-reasoning](human-in-the-reasoning.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

@@ -17,4 +17,7 @@ source_papers: ["final_textbook_genAIinpsychologyresearchandtraining.pdf"]
 - Adamkovič, M. (2025). *Large Language Models in (Not Only) Psychology Training and Research: A Brief Introduction*. Centre of Social and Psychological Sciences, Slovak Academy of Sciences. https://doi.org/10.31577/2025.9788082980144
 
 ## Relazioni
-- Vedi anche: [[prompting-in-psychology]], [[ai-research-ethics]], [[ai-literacy-in-academia]]
+- Vedi anche: [prompting-in-psychology](prompting-in-psychology.md), [ai-research-ethics](ai-research-ethics.md), [ai-literacy-in-academia](ai-literacy-in-academia.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

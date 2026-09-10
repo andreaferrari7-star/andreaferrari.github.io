@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Gestione Clinica dell'Uso dell'IA da parte del Paziente
 
 **Summary**: Inquadramento clinico, psicopatologico e operativo dell'utilizzo autonomo di agenti conversazionali (LLM/chatbot) da parte dei pazienti in psicoterapia. Analisi dei pattern di funzionamento disfunzionale, rischi di bypass metacognitivo, protocolli di assessment clinico e integrazione nella concettualizzazione cognitivo-comportamentale (ABC).
@@ -81,10 +85,13 @@ Sussiste una lacuna nella letteratura clinica e nelle linee guida deontologiche 
 ---
 
 ## Related pages
-- [[07-17_Riunione_Corso_Formazione_IA_Psicologia]]
-- [[digital-therapeutic-alliance]]
-- [[human-in-the-reasoning]]
-- [[ai-assisted-psychotherapy]]
-- [[clinical-fidelity-assessment]]
-- [[simulazione-pazienti-ai]]
-- [[ai-research-ethics]]
+- [07-17_Riunione_Corso_Formazione_IA_Psicologia](../sintesi/07-17_Riunione_Corso_Formazione_IA_Psicologia.md)
+- [digital-therapeutic-alliance](../digital-therapeutic-alliance.md)
+- [human-in-the-reasoning](human-in-the-reasoning.md)
+- [ai-assisted-psychotherapy](../ai-assisted-psychotherapy.md)
+- [clinical-fidelity-assessment](../clinical-fidelity-assessment.md)
+- [simulazione-pazienti-ai](simulazione-pazienti-ai.md)
+- [ai-research-ethics](../ai-research-ethics.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

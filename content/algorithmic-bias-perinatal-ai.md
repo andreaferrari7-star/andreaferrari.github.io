@@ -44,4 +44,5 @@ La prevalenza della PPD (10-20%) induce i modelli a classificare erroneamente i 
 
 ## Relazioni
 
-- Vedi anche: [[fpsyt-16-1734102]], [[ai-perinatal-depression-prediction]], [[pediatric-ai-bias-and-vulnerabilities]], [[misurazione-bias-razziale-llm]], [[embedded-ethics-interface]], [[traffic-light-quality-appraisal-clinical-ai]], [[modello-centauro-clinico]], [[clinical-decision-making-and-artificial-intelligence]]
+- Vedi anche: [fpsyt-16-1734102](fpsyt-16-1734102.md), [ai-perinatal-depression-prediction](ai-perinatal-depression-prediction.md), [pediatric-ai-bias-and-vulnerabilities](pediatric-ai-bias-and-vulnerabilities.md), [misurazione-bias-razziale-llm](concetti/concetti/concetti\misurazione-bias-razziale-llm.md), [embedded-ethics-interface](embedded-ethics-interface.md), [traffic-light-quality-appraisal-clinical-ai](traffic-light-quality-appraisal-clinical-ai.md), [modello-centauro-clinico](concetti/concetti/concetti\modello-centauro-clinico.md), [clinical-decision-making-and-artificial-intelligence](clinical-decision-making-and-artificial-intelligence.md)
+

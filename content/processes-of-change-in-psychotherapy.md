@@ -7,7 +7,7 @@ last_updated: 2026-08-31
 # Processes of Change in Psychotherapy
 
 ## Definizione Operativa
-Nella psicoterapia evidence-based contemporanea e nella [[process-based-therapy]], un **processo di cambiamento** (*process of change*) è definito come un insieme di variazioni dinamiche, progressive, basate su teorie empiriche e multilivello che avvengono nel tempo secondo sequenze prevedibili orientate verso esiti desiderabili (Hofmann & Hayes, 2019; Hofmann et al., 2026).
+Nella psicoterapia evidence-based contemporanea e nella [process-based-therapy](concetti/process-based-therapy.md), un **processo di cambiamento** (*process of change*) è definito come un insieme di variazioni dinamiche, progressive, basate su teorie empiriche e multilivello che avvengono nel tempo secondo sequenze prevedibili orientate verso esiti desiderabili (Hofmann & Hayes, 2019; Hofmann et al., 2026).
 
 È cruciale distinguere i processi di cambiamento da concetti correlati ma distinti:
 
@@ -17,7 +17,7 @@ Nella psicoterapia evidence-based contemporanea e nella [[process-based-therapy]
 4. **Fattori Comuni vs Fattori Specifici**: I fattori relazionali e di alleanza terapeutica costituiscono contesti facilitanti necessari ma spesso non sufficienti, che interagiscono con i processi specifici di apprendimento, regolazione emotiva e ristrutturazione cognitiva.
 
 ## Evidenze dalla Letteratura
-La scoping review di [[1-s2-0-s0272735826000917-main|Hofmann et al. (2026)]], basata su 778 studi e 684 processi raggruppati tramite [[llm-assisted-semantic-clustering]], evidenzia:
+La scoping review di [Hofmann et al. (2026)](concetti/1-s2-0-s0272735826000917-main.md), basata su 778 studi e 684 processi raggruppati tramite [llm-assisted-semantic-clustering](llm-assisted-semantic-clustering.md), evidenzia:
 
 - **Iper-focalizzazione sui Fattori Comuni**: I processi di alleanza terapeutica, collaborazione e funzionamento interpersonale rappresentano il 20.6% di tutte le etichette studiate in letteratura, riflettendo un'attenzione sproporzionata rispetto alla ricerca sui meccanismi specifici.
 - **Principali Domini di Processo CBT**:
@@ -25,7 +25,7 @@ La scoping review di [[1-s2-0-s0272735826000917-main|Hofmann et al. (2026)]], ba
   - *Processi Metacognitivi e Decentering* (mentalizzazione, defusione, riduzione della ruminazione).
   - *Regolazione e Attivazione Emotiva* (accettazione emotiva, modulazione dell'arousal, elaborazione affettiva).
   - *Flessibilità Psicologica e Attivazione Comportamentale* (tolleranza dell'incertezza, esposizione, abitudini basate sui valori).
-- **Frammentazione e Jingle-Jangle Fallacies**: Il 48.3% dei processi estratti è stato studiato una sola volta, evidenziando una grave eterogeneità terminologica ([[jingle-fallacy]], [[jangle-fallacy]]) che ostacola la replicabilità e i modelli transdiagnostici integrati.
+- **Frammentazione e Jingle-Jangle Fallacies**: Il 48.3% dei processi estratti è stato studiato una sola volta, evidenziando una grave eterogeneità terminologica ([jingle-fallacy](jingle-fallacy.md), [jangle-fallacy](jangle-fallacy.md)) che ostacola la replicabilità e i modelli transdiagnostici integrati.
 
 **Riferimenti Bibliografici:**
 - Hofmann, S. G., & Hayes, S. C. (2019). *Process-based CBT: The science and core clinical competencies of cognitive behavioral therapy*. New Harbinger Publications.
@@ -33,10 +33,13 @@ La scoping review di [[1-s2-0-s0272735826000917-main|Hofmann et al. (2026)]], ba
 - Kazdin, A. E. (2007). Mediators and mechanisms of change in psychotherapy research. *Annual Review of Clinical Psychology*.
 
 ## Relazioni
-- [[1-s2-0-s0272735826000917-main]]
-- [[llm-assisted-semantic-clustering]]
-- [[process-based-therapy]]
-- [[jingle-fallacy]]
-- [[jangle-fallacy]]
-- [[structured-literature-reviews]]
-- [[hybrid-ai-research-workflows]]
+- [1-s2-0-s0272735826000917-main](1-s2-0-s0272735826000917-main.md)
+- [llm-assisted-semantic-clustering](llm-assisted-semantic-clustering.md)
+- [process-based-therapy](concetti/process-based-therapy.md)
+- [jingle-fallacy](jingle-fallacy.md)
+- [jangle-fallacy](jangle-fallacy.md)
+- [structured-literature-reviews](structured-literature-reviews.md)
+- [hybrid-ai-research-workflows](hybrid-ai-research-workflows.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

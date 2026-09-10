@@ -17,4 +17,7 @@ source_papers: ["ELEVATE-GenAI2025.pdf"]
 - Fleurence, R. L., Dawoud, D., Bian, J., Higashi, M. K., Wang, X., Xu, H., Chhatwal, J., & Ayer, T. (2025). ELEVATE-GenAI: Reporting Guidelines for the Use of Large Language Models in Health Economics and Outcomes Research: An ISPOR Working Group Report. *Value in Health*, 28(11), 1611–1625. https://doi.org/10.1016/j.jval.2025.06.018
 
 ## Relazioni
-- Vedi anche: [[elevate-genai-framework]], [[heor-generative-ai-validation]], [[chart-reporting-guideline]], [[tripod-llm-reporting-guideline]], [[structured-literature-reviews]], [[ai-research-ethics]]
+- Vedi anche: [elevate-genai-framework](elevate-genai-framework.md), [heor-generative-ai-validation](heor-generative-ai-validation.md), [chart-reporting-guideline](chart-reporting-guideline.md), [tripod-llm-reporting-guideline](tripod-llm-reporting-guideline.md), [structured-literature-reviews](structured-literature-reviews.md), [ai-research-ethics](ai-research-ethics.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

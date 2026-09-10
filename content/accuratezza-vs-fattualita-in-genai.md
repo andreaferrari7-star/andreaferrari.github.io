@@ -6,8 +6,8 @@ source_papers: ["Linee Guida per il Reporting dell'Intelligenza Artificiale Gene
 # Accuratezza vs. Fattualità nei Modelli di Intelligenza Artificiale
 
 ## Definizione Operativa
-- Sintesi: La distinzione tra Accuratezza (*Accuracy*) e Fattualità (*Factuality*) costituisce uno dei pilastri concettuali ed epistemologici più critici nella valutazione dei Large Language Models ([[large-language-models|LLM]]) e dell'Intelligenza Artificiale Generativa in ambito biomedico, clinico ed economico-sanitario. L'Accuratezza (Task/Format Alignment) misura il grado di allineamento, coerenza e adeguatezza dell'output rispetto ai requisiti formali del task (es. Precision, Recall, F1-Score, BLEU, ROUGE). Un modello può dimostrare un'elevata accuratezza strutturale rispondendo con un tono perfettamente appropriato e ben formattato. La Fattualità (Intrinsic Truthfulness & Verifiability) riguarda invece la veridicità intrinseca del contenuto, l'assenza di dati inventati o distorsioni empiriche e la diretta verificabilità di ogni affermazione contro fonti primarie validate, contrastando direttamente il fenomeno delle allucinazioni (*hallucinations*).
-- **Utilità CBT:** La separazione metodologica tra la valutazione dell'accuratezza e la verifica della fattualità, come formalizzato dallo Statement [[chart-reporting-guideline|CHART]] e dal framework [[elevate-genai-framework|ELEVATE-GenAI]], è essenziale per impedire che punteggi elevati in metriche lessicali mascherino errori clinici catastrofici. Riconoscere l'output "fluentemente falso" (alta accuratezza formale ma bassa fattualità) previene danni iatrogeni, decisioni HTA viziate e fallimenti nei modelli economici.
+- Sintesi: La distinzione tra Accuratezza (*Accuracy*) e Fattualità (*Factuality*) costituisce uno dei pilastri concettuali ed epistemologici più critici nella valutazione dei Large Language Models ([LLM](concetti/large-language-models.md)) e dell'Intelligenza Artificiale Generativa in ambito biomedico, clinico ed economico-sanitario. L'Accuratezza (Task/Format Alignment) misura il grado di allineamento, coerenza e adeguatezza dell'output rispetto ai requisiti formali del task (es. Precision, Recall, F1-Score, BLEU, ROUGE). Un modello può dimostrare un'elevata accuratezza strutturale rispondendo con un tono perfettamente appropriato e ben formattato. La Fattualità (Intrinsic Truthfulness & Verifiability) riguarda invece la veridicità intrinseca del contenuto, l'assenza di dati inventati o distorsioni empiriche e la diretta verificabilità di ogni affermazione contro fonti primarie validate, contrastando direttamente il fenomeno delle allucinazioni (*hallucinations*).
+- **Utilità CBT:** La separazione metodologica tra la valutazione dell'accuratezza e la verifica della fattualità, come formalizzato dallo Statement [CHART](concetti/chart-reporting-guideline.md) e dal framework [ELEVATE-GenAI](concetti/elevate-genai-framework.md), è essenziale per impedire che punteggi elevati in metriche lessicali mascherino errori clinici catastrofici. Riconoscere l'output "fluentemente falso" (alta accuratezza formale ma bassa fattualità) previene danni iatrogeni, decisioni HTA viziate e fallimenti nei modelli economici.
 
 ## Evidenze dalla Letteratura
 Secondo le recenti linee guida di reporting per l'IA generativa (Fleurence et al., 2025; Huo et al., 2025), la fattualità e l'accuratezza operano su dimensioni disaccoppiate e presentano meccanismi di fallimento specifici.
@@ -23,11 +23,11 @@ Secondo le recenti linee guida di reporting per l'IA generativa (Fleurence et al
 
 ### Meccanismi di Fallimento (Perché l'Accuratezza Non Implica la Fattualità)
 1. **Allucinazioni Plausibili (*Fluent Hallucinations*):** I modelli transformer generano risposte basandosi su pattern probabilistici di co-occorrenza di token. Un LLM può produrre una sintesi metodologica impeccabile sul piano lessicale e grammaticale, inventando interamente i parametri numerici o i coefficienti di transizione di un modello di Markov.
-2. **Fabbricazione di Citazioni Bibliografiche:** Nei task di revisione sistematica della letteratura ([[elevate-genai-framework|SLR]]), un modello può generare riferimenti formattati perfettamente secondo lo stile Vancouver o APA con DOI plausibili ma inesistenti, ingannando revisori non esperti.
-3. **Drift Parametrico nei Calcoli Economici:** Nella modellazione economica sanitaria ([[heor-generative-ai-validation|HEOR]]), l'accuratezza nella generazione di script in R o Python (il codice compila senza errori) non garantisce la fattualità dei parametri epidemiologici o dei costi unitari inseriti nelle formule.
+2. **Fabbricazione di Citazioni Bibliografiche:** Nei task di revisione sistematica della letteratura ([SLR](concetti/elevate-genai-framework.md)), un modello può generare riferimenti formattati perfettamente secondo lo stile Vancouver o APA con DOI plausibili ma inesistenti, ingannando revisori non esperti.
+3. **Drift Parametrico nei Calcoli Economici:** Nella modellazione economica sanitaria ([HEOR](concetti/heor-generative-ai-validation.md)), l'accuratezza nella generazione di script in R o Python (il codice compila senza errori) non garantisce la fattualità dei parametri epidemiologici o dei costi unitari inseriti nelle formule.
 
 ### Protocolli Operativi per la Verifica della Fattualità
-Nei quadri di reporting [[chart-reporting-guideline|CHART]] ed [[elevate-genai-framework|ELEVATE-GenAI]], la verifica della fattualità richiede l'adozione di standard metodologici espliciti:
+Nei quadri di reporting [CHART](concetti/chart-reporting-guideline.md) ed [ELEVATE-GenAI](concetti/elevate-genai-framework.md), la verifica della fattualità richiede l'adozione di standard metodologici espliciti:
 - **Cross-Referencing Sistematico:** Ogni citazione o asserzione terapeutica generata dal chatbot deve essere mappata e verificata a fronte della banca dati primaria o delle linee guida cliniche di riferimento.
 - **Accecamento dei Valutatori (*Blinding*):** Il protocollo CHART impone che gli esperti umani che valutano la fattualità non conoscano l'identità del modello per evitare che la notorietà dello sviluppatore influenzi il giudizio di veridicità.
 - **Soglie di Incertezza e Astensione:** Integrazione di meccanismi di calibrazione che permettano al modello di dichiarare la propria incertezza o astenersi (*abstention*) anziché generare risposte fittizie di fronte a quesiti privi di riscontro nei dati di addestramento.
@@ -98,11 +98,14 @@ flowchart LR
 - ELEVATE-GenAI Framework (2025).
 
 ## Relazioni
-- [[linee-guida-reporting-ai-generativa-chart-elevate|Sintesi: Linee Guida per il Reporting della GenAI in Medicina ed Economia Sanitaria]]
-- [[chart-reporting-guideline|CHART Reporting Guideline]]
-- [[elevate-genai-framework|ELEVATE-GenAI Framework]]
-- [[heor-generative-ai-validation|Validazione della GenAI nell'HEOR]]
-- [[gai-research-integrity-and-verification|Integrità della Ricerca e Verifica della GenAI]]
-- [[traffic-light-quality-appraisal-clinical-ai|Traffic Light Quality Appraisal per l'IA Clinica]]
-- [[large-language-models|Large Language Models (LLM)]]
-- [[living-guidelines-in-health-ai|Living Guidelines nell'Intelligenza Artificiale Sanitaria]]
+- [Sintesi: Linee Guida per il Reporting della GenAI in Medicina ed Economia Sanitaria](concetti/linee-guida-reporting-ai-generativa-chart-elevate.md)
+- [CHART Reporting Guideline](concetti/chart-reporting-guideline.md)
+- [ELEVATE-GenAI Framework](concetti/elevate-genai-framework.md)
+- [Validazione della GenAI nell'HEOR](concetti/heor-generative-ai-validation.md)
+- [Integrità della Ricerca e Verifica della GenAI](concetti/gai-research-integrity-and-verification.md)
+- [Traffic Light Quality Appraisal per l'IA Clinica](traffic-light-quality-appraisal-clinical-ai.md)
+- [Large Language Models (LLM)](concetti/large-language-models.md)
+- [Living Guidelines nell'Intelligenza Artificiale Sanitaria](concetti/living-guidelines-in-health-ai.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

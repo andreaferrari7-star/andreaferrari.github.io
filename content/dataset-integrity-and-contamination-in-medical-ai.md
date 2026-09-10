@@ -8,7 +8,7 @@ source_papers: ["REFINE_2026.pdf", "MI-CLEAR-LLM_2025.pdf"]
 ## Definizione Operativa
 - L'**Integrità del Dataset (*Dataset Integrity*)** nell'intelligenza artificiale medica definisce il grado di trasparenza, tracciabilità etico-legale, qualità clinica e indipendenza metodologica delle coorti di dati impiegate attraverso tutte le fasi di sviluppo, adattamento e collaudo dei Foundation Models (FM) e dei Large Language Models (LLM).
 - **La Crisi di Contaminazione nei Modelli di Fondazione:** A differenza degli algoritmi di machine learning convenzionali (addestrati su dataset circoscritti e noti), i modelli generativi di larga scala vengono pre-addestrati su centinaia di miliardi di token e milioni di immagini estratti massivamente dal web aperto, dalla letteratura biomedica (*PubMed Central*, *bioRxiv*, archivi open-access) e da repository pubblici. Questo introduce il grave rischio di **contaminazione dei dati di test (*data contamination / test set memorization*)**, dove il modello manifesta un'elevata accuratezza non per capacità di generalizzazione clinica, bensì per pura memorizzazione parametrica dei quesiti o dei referti visti durante il pretraining.
-- **Inquadramento negli Standard Metodologici:** Come formalizzato dalla Sezione 4 dello standard **[[refine-2026|REFINE]]** (Mese et al., 2026; Item 4.1 - 4.10) e dalle linee guida **[[mi-clear-llm-2025|MI-CLEAR-LLM]]**, la verifica rigorosa dell'integrità del dataset richiede la tracciabilità delle licenze, la quantificazione del rischio di contaminazione temporale legato al *knowledge cutoff*, l'analisi dei bias di rappresentatività, la corretta gestione dei dati sintetici e la separazione atomica e cieca tra partizioni di sviluppo e test.
+- **Inquadramento negli Standard Metodologici:** Come formalizzato dalla Sezione 4 dello standard **[REFINE](concetti/refine-2026.md)** (Mese et al., 2026; Item 4.1 - 4.10) e dalle linee guida **[MI-CLEAR-LLM](concetti/mi-clear-llm-2025.md)**, la verifica rigorosa dell'integrità del dataset richiede la tracciabilità delle licenze, la quantificazione del rischio di contaminazione temporale legato al *knowledge cutoff*, l'analisi dei bias di rappresentatività, la corretta gestione dei dati sintetici e la separazione atomica e cieca tra partizioni di sviluppo e test.
 
 ```mermaid
 flowchart TD
@@ -80,9 +80,12 @@ Negli studi basati su *inference-time adaptation*, i ricercatori testano iterati
 | **4.10** | **Separazione Rigorosa delle Partizioni** | Isolamento fisico e deterministico tra partizioni di training, fine-tuning, test interno (monocentrico) e test esterno (multicentrico) basato su identificativi paziente univoci. Conferma che nessun dato di test è stato impiegato nel prompt engineering. |
 
 ## Relazioni
-- [[refine-2026]] — Sintesi completa della linea guida internazionale REFINE (Mese et al., 2026).
-- [[refine-reporting-checklist]] — Concetto metodologico sui 6 domini della checklist REFINE.
-- [[mi-clear-llm-2025]] — Standard di accuratezza diagnostica e prevenzione del data leakage negli LLM clinici.
-- [[stochasticity-management-in-clinical-llms]] — Gestione della non-determinatezza e affidabilità dell'output generativo.
-- [[CLAIM]] — Linea guida per l'intelligenza artificiale in diagnostica per immagini.
-- [[TRIPOD-LLM]] — Standard di reporting per modelli predittivi clinici basati su LLM.
+- [refine-2026](refine-2026.md) — Sintesi completa della linea guida internazionale REFINE (Mese et al., 2026).
+- [refine-reporting-checklist](refine-reporting-checklist.md) — Concetto metodologico sui 6 domini della checklist REFINE.
+- [mi-clear-llm-2025](mi-clear-llm-2025.md) — Standard di accuratezza diagnostica e prevenzione del data leakage negli LLM clinici.
+- [stochasticity-management-in-clinical-llms](stochasticity-management-in-clinical-llms.md) — Gestione della non-determinatezza e affidabilità dell'output generativo.
+- [CLAIM](concetti/CLAIM.md) — Linea guida per l'intelligenza artificiale in diagnostica per immagini.
+- [TRIPOD-LLM](concetti/TRIPOD-LLM.md) — Standard di reporting per modelli predittivi clinici basati su LLM.
+
+## Riferimenti Bibliografici
+- [Da integrare]

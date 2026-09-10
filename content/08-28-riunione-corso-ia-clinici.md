@@ -22,7 +22,10 @@ Andrea, Erica, (Gabriele menzionato)
 
 ## Next Steps (Azioni Decise)
 - Raffinare ulteriormente la stesura dei moduli teorici.
-- Costruire le fondamenta del corso applicando la progettazione a ritroso (*backward design*), procedendo a definire con precisione metrica i [[risultati-apprendimento-attesi-raa]].
+- Costruire le fondamenta del corso applicando la progettazione a ritroso (*backward design*), procedendo a definire con precisione metrica i [risultati-apprendimento-attesi-raa](risultati-apprendimento-attesi-raa.md).
 
 ## Relazioni
-- Vedi anche: [[risultati-apprendimento-attesi-raa]], [[trainer-simulator]], [[libet-prime-kb]]
+- Vedi anche: [risultati-apprendimento-attesi-raa](risultati-apprendimento-attesi-raa.md), [trainer-simulator](trainer-simulator.md), [libet-prime-kb](libet-prime-kb.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

@@ -6,8 +6,8 @@ source_papers: ["main.pdf"]
 # Modelli Linguistici di Grandi Dimensioni nel Benessere e nella Salute del Sonno (Personal Sleep Wellness)
 
 ## Definizione Operativa
-- Applicazione sistematica di Large Language Models ([[large-language-models|LLM]]) e intelligenza artificiale multimodale nel supporto quotidiano, ecologico e non clinico (*personal sleep wellness*) all'educazione, al monitoraggio e all'ottimizzazione dell'igiene del sonno (Mansoor, 2025).
-- **Utilità CBT:** Potenzia il monitoraggio ecologico e continuo dei pattern di sonno tra le sedute cliniche ([[ai-supported-between-session-engagement]]), supportando l'igiene del sonno, la consapevolezza dei fattori perpetuanti (pensieri disfunzionali, ansia anticipatoria) e la correlazione tra comportamenti diurni (es. attività fisica, stress, assunzione di caffeina) e qualità del riposo notturno tramite feedback conversazionali personalizzati.
+- Applicazione sistematica di Large Language Models ([LLM](concetti/large-language-models.md)) e intelligenza artificiale multimodale nel supporto quotidiano, ecologico e non clinico (*personal sleep wellness*) all'educazione, al monitoraggio e all'ottimizzazione dell'igiene del sonno (Mansoor, 2025).
+- **Utilità CBT:** Potenzia il monitoraggio ecologico e continuo dei pattern di sonno tra le sedute cliniche ([ai-supported-between-session-engagement](ai-supported-between-session-engagement.md)), supportando l'igiene del sonno, la consapevolezza dei fattori perpetuanti (pensieri disfunzionali, ansia anticipatoria) e la correlazione tra comportamenti diurni (es. attività fisica, stress, assunzione di caffeina) e qualità del riposo notturno tramite feedback conversazionali personalizzati.
 
 ```mermaid
 flowchart TD
@@ -61,4 +61,7 @@ flowchart TD
 - Wang, X., Griffith, J., Adler, D. A., Castillo, J., Choudhury, T., & Wang, F. (2025). Exploring personalized health support through data-driven, theory-guided LLMs: a case study in sleep health. In *Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems* (pp. 1–15). ACM.
 
 ## Relazioni
-- Vedi anche: [[main]], [[digital-cbt-i-conversational-agents]], [[wearable-sensor-fusion-adherence]], [[cbt-dialogue-systems-and-tools]], [[conceptual-architecture-of-ai-guided-cbt]], [[ai-supported-between-session-engagement]], [[routine-coach-vs-on-demand-assistant]], [[large-language-models]], [[five-domain-chatbot-validation-framework]]
+- Vedi anche: [main](main.md), [digital-cbt-i-conversational-agents](digital-cbt-i-conversational-agents.md), [wearable-sensor-fusion-adherence](wearable-sensor-fusion-adherence.md), [cbt-dialogue-systems-and-tools](concetti/concetti/concetti\cbt-dialogue-systems-and-tools.md), [conceptual-architecture-of-ai-guided-cbt](concetti/concetti/concetti\conceptual-architecture-of-ai-guided-cbt.md), [ai-supported-between-session-engagement](ai-supported-between-session-engagement.md), [routine-coach-vs-on-demand-assistant](routine-coach-vs-on-demand-assistant.md), [large-language-models](large-language-models.md), [five-domain-chatbot-validation-framework](five-domain-chatbot-validation-framework.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

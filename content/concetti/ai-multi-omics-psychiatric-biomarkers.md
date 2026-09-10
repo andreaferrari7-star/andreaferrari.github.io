@@ -85,9 +85,12 @@ L'integrazione di dati omici ematici e modelli di regressione supervisionata ha 
 ---
 
 ## Relazioni nel Knowledge Base
-- [[wang-dwivedi-2025]]: Sintesi sistematica della review di riferimento.
-- [[multi-omics-depression-suicide]]: Il substrato biologico integrato elaborato dai modelli di AI.
-- [[peripheral-blood-biomarkers-and-exosomes-in-mdd]]: Biopsia liquida ed esosomi come fonti di dati per modelli ML.
-- [[treatment-outcome-and-relapse-prediction]]: Predizione dell'esito clinico basata su modelli computazionali.
-- [[ai-clinical-decision-support]]: Sistemi di supporto alle decisioni cliniche.
-- [[rischio-suicidario-ai-limits]]: Limiti e rischi dei modelli linguistici nella gestione del suicidio.
+- [wang-dwivedi-2025](../sintesi/wang-dwivedi-2025.md): Sintesi sistematica della review di riferimento.
+- [multi-omics-depression-suicide](multi-omics-depression-suicide.md): Il substrato biologico integrato elaborato dai modelli di AI.
+- [peripheral-blood-biomarkers-and-exosomes-in-mdd](peripheral-blood-biomarkers-and-exosomes-in-mdd.md): Biopsia liquida ed esosomi come fonti di dati per modelli ML.
+- [treatment-outcome-and-relapse-prediction](treatment-outcome-and-relapse-prediction.md): Predizione dell'esito clinico basata su modelli computazionali.
+- [ai-clinical-decision-support](ai-clinical-decision-support.md): Sistemi di supporto alle decisioni cliniche.
+- [rischio-suicidario-ai-limits](rischio-suicidario-ai-limits.md): Limiti e rischi dei modelli linguistici nella gestione del suicidio.
+
+## Riferimenti Bibliografici
+- [Da integrare]

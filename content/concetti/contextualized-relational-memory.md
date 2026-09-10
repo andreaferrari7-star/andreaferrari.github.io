@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Memoria Relazionale Contestualizzata e Superamento del "Robotic Feeling"
 
 **Summary**: Architettura di memoria conversazionale per agenti terapeutici LLM (DG3 & DG5, Quan et al., 2025) basata su "sintesi relazionali distillate" (temi, trigger, traiettorie emotive) anziché trascritti integrali, finalizzata a mantenere continuità narrativa e sintonizzazione affettiva profonda senza innescare ansie da sorveglianza.
@@ -55,10 +59,13 @@ Per superare l'artificiosità percepita e consentire all'utente di "sentirsi aut
 
 ---
 ## Concetti Correlati
-- [[dynamic-boundary-mediation-framework]]
-- [[boundary-objects-in-psychotherapy]]
-- [[negotiable-data-visibility-privacy]]
-- [[educator-burden-marginalized-clients]]
-- [[simulated-empathy-vs-authentic-presence]]
-- [[genuineness-gap]]
-- [[language-style-matching-human-ai]]
+- [dynamic-boundary-mediation-framework](dynamic-boundary-mediation-framework.md)
+- [boundary-objects-in-psychotherapy](boundary-objects-in-psychotherapy.md)
+- [negotiable-data-visibility-privacy](negotiable-data-visibility-privacy.md)
+- [educator-burden-marginalized-clients](educator-burden-marginalized-clients.md)
+- [simulated-empathy-vs-authentic-presence](concetti/concetti\simulated-empathy-vs-authentic-presence.md)
+- [genuineness-gap](genuineness-gap.md)
+- [language-style-matching-human-ai](concetti/concetti\language-style-matching-human-ai.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

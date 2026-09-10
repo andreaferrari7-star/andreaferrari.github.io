@@ -93,4 +93,7 @@ flowchart LR
 
 ## Relazioni
 
-- Vedi anche: [[fpsyt-16-1692177]], [[ai-psychosocial-functioning-in-psychosis]], [[applied-theory-of-mind-llm]], [[modello-centauro-clinico]], [[synthetic-psychopathology]], [[metastabilita-predictive-coding-trauma]], [[multimodal-anxiety-detection-ai]], [[clinical-ai-simulation]]
+- Vedi anche: [fpsyt-16-1692177](fpsyt-16-1692177.md), [ai-psychosocial-functioning-in-psychosis](ai-psychosocial-functioning-in-psychosis.md), [applied-theory-of-mind-llm](applied-theory-of-mind-llm.md), [modello-centauro-clinico](concetti/concetti/concetti\modello-centauro-clinico.md), [synthetic-psychopathology](synthetic-psychopathology.md), [metastabilita-predictive-coding-trauma](metastabilita-predictive-coding-trauma.md), [multimodal-anxiety-detection-ai](multimodal-anxiety-detection-ai.md), [clinical-ai-simulation](clinical-ai-simulation.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

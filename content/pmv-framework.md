@@ -26,8 +26,11 @@ Il framework è discusso nel contesto della ricerca sull'integrazione dell'intel
 
 ## Relazioni
 
-* [[04-20_Tavola_rotonda_Integrazione_IA]]
-* [[human-in-the-reasoning]]
-* [[digital-therapeutic-alliance]]
-* [[hybrid-ai-research-workflows]]
-* [[anthropomorphism-in-ai]]
+* [04-20_Tavola_rotonda_Integrazione_IA](04-20_Tavola_rotonda_Integrazione_IA.md)
+* [human-in-the-reasoning](human-in-the-reasoning.md)
+* [digital-therapeutic-alliance](digital-therapeutic-alliance.md)
+* [hybrid-ai-research-workflows](hybrid-ai-research-workflows.md)
+* [anthropomorphism-in-ai](anthropomorphism-in-ai.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

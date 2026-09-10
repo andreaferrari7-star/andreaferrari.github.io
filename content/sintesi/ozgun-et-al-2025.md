@@ -19,7 +19,7 @@ code_repository: "https://github.com/mithatco/mental_health_multiagent"
 
 ## Inquadramento Generale e Problema
 
-L'integrazione degli agenti basati su LLM ([[large-language-models]]) nella salute mentale affronta ostacoli metodologici, etici e clinici rilevanti:
+L'integrazione degli agenti basati su LLM ([large-language-models](../large-language-models.md)) nella salute mentale affronta ostacoli metodologici, etici e clinici rilevanti:
 1. **Scarsità e Riservatezza dei Dati Clinici**: L'accesso a trascrizioni reali di colloqui clinici è vincolato da stringenti norme sulla privacy e requisiti etici/IRB, limitando la riproducibilità e la scalabilità della ricerca.
 2. **Opacità e Mancanza di Trasparenza Diagnostica**: I tradizionali strumenti di screening (come il questionario DSM-5 Livello 1) calcolano punteggi sintetici che i pazienti percepiscono spesso come una "scatola nera", riducendo la fiducia epistemica e l'ingaggio terapeutico. Inoltre, i modelli di NLP convenzionali emettono etichette diagnostiche opache (*black-box*), prive di giustificazione clinica esplicabile.
 3. **Incapacità di Emulare la Conduzione Clinica Proattiva**: I modelli generativi non strutturati falliscono spesso nella comprensione multi-turno e non riescono a condurre un'intervista clinica adattiva ed empatica senza giungere a conclusioni premature o deviare dalle linee guida diagnostiche.
@@ -181,12 +181,15 @@ L'evidenza principale dello studio è la divergenza di capacità tra modelli lin
 ---
 
 ## Pagine Correlate
-- [[dsm5agentflow]]: Architettura e dinamiche del workflow multi-agente per lo screening clinico.
-- [[explainable-mental-disorder-diagnosis]]: Metodologie di trasparenza, tagging clinico e razionali diagnostici step-by-step.
-- [[trade-off-conversazione-ragionamento-llm]]: Analisi del divario prestazionale tra modelli conversazionali e modelli di ragionamento nell'IA clinica.
-- [[synthetic-clinical-dialogues]]: Generazione controllata di dialoghi sintetici per la ricerca psicoterapeutica e il superamento della scarsità dei dati.
-- [[simulazione-pazienti-ai]]: Metodologie generali di modellizzazione dei pazienti virtuali.
-- [[rag-in-psicoterapia]]: Integrazione di database clinici vincolanti mediante Retrieval-Augmented Generation.
-- [[human-in-the-reasoning]]: Supervisione clinica attiva ed esplicabilità del processo diagnostico.
-- [[three-layer-governance-framework]]: Quadro etico e regolatorio per l'impiego dell'IA in salute mentale.
-- [[ai-assisted-psychotherapy]]: Panoramica generale sull'IA in psicoterapia.
+- [dsm5agentflow](../dsm5agentflow.md): Architettura e dinamiche del workflow multi-agente per lo screening clinico.
+- [explainable-mental-disorder-diagnosis](../concetti/explainable-mental-disorder-diagnosis.md): Metodologie di trasparenza, tagging clinico e razionali diagnostici step-by-step.
+- [trade-off-conversazione-ragionamento-llm](../concetti/trade-off-conversazione-ragionamento-llm.md): Analisi del divario prestazionale tra modelli conversazionali e modelli di ragionamento nell'IA clinica.
+- [synthetic-clinical-dialogues](../concetti/synthetic-clinical-dialogues.md): Generazione controllata di dialoghi sintetici per la ricerca psicoterapeutica e il superamento della scarsità dei dati.
+- [simulazione-pazienti-ai](../simulazione-pazienti-ai.md): Metodologie generali di modellizzazione dei pazienti virtuali.
+- [rag-in-psicoterapia](../concetti/rag-in-psicoterapia.md): Integrazione di database clinici vincolanti mediante Retrieval-Augmented Generation.
+- [human-in-the-reasoning](../human-in-the-reasoning.md): Supervisione clinica attiva ed esplicabilità del processo diagnostico.
+- [three-layer-governance-framework](../concetti/concetti/concetti\three-layer-governance-framework.md): Quadro etico e regolatorio per l'impiego dell'IA in salute mentale.
+- [ai-assisted-psychotherapy](../ai-assisted-psychotherapy.md): Panoramica generale sull'IA in psicoterapia.
+
+## Riferimenti Bibliografici
+- [Da integrare]

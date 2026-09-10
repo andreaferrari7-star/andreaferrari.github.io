@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Supportive Listener Prompting & Trauma-Informed AI Design
 
 **Summary**: Linee guida di ingegneria dei prompt e principi di interazione conversazionale trauma-informed per agenti basati su LLM finalizzati al supporto emotivo, prevenendo reazioni iatrogene da disclaimer rigidi o indagini intrusive.
@@ -7,7 +11,7 @@
 
 ## Inquadramento e Rationale
 
-Nei modelli linguistici di grandi dimensioni ([[large-language-models]]) non calibrati clinicamente, le risposte standard ai messaggi di sofferenza emotiva tendono a generare formule di declinazione automatica del tipo:
+Nei modelli linguistici di grandi dimensioni ([large-language-models](../large-language-models.md)) non calibrati clinicamente, le risposte standard ai messaggi di sofferenza emotiva tendono a generare formule di declinazione automatica del tipo:
 > *"Non sono un terapeuta e non posso fornirti l'aiuto di cui hai bisogno. Contatta uno specialista o una persona di fiducia."*
 
 Sebbene conformi a una logica di cautela legale (*safety disclaimers*), tali risposte provocano sul piano psicologico un **effetto iatrogeno di rifiuto e alienazione**, amplificando il distress in utenti vulnerabili e contesti ad alto stigma dove rivolgersi a un terapeuta è impossibile o socialmente proibito (Sahab et al., 2025).
@@ -59,11 +63,14 @@ Secondo il framework validato da **Sahab et al. (2025)** e informato dalla lette
 ---
 
 ## Related pages
-- [[sahab-et-al-2025]]
-- [[language-style-matching-human-ai]]
-- [[ai-mental-health-vulnerable-populations]]
-- [[simulated-empathy-vs-authentic-presence]]
-- [[simulated-therapeutic-alliance]]
-- [[conversational-agents-mental-health]]
-- [[prompting-in-psychology]]
-- [[stepped-care-ai-integration]]
+- [sahab-et-al-2025](../sintesi/sahab-et-al-2025.md)
+- [language-style-matching-human-ai](concetti/concetti\language-style-matching-human-ai.md)
+- [ai-mental-health-vulnerable-populations](ai-mental-health-vulnerable-populations.md)
+- [simulated-empathy-vs-authentic-presence](concetti/concetti\simulated-empathy-vs-authentic-presence.md)
+- [simulated-therapeutic-alliance](simulated-therapeutic-alliance.md)
+- [conversational-agents-mental-health](conversational-agents-mental-health.md)
+- [prompting-in-psychology](../prompting-in-psychology.md)
+- [stepped-care-ai-integration](stepped-care-ai-integration.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

@@ -90,11 +90,13 @@ flowchart LR
 ---
 
 ## Pagine e Concetti Correlati
-- [[s41746-026-02886-x-reference|The Effectiveness of CBT-Based NLP-Enabled AI Conversational Agents (Hang et al., 2026)]]
-- [[multimodal-advantage-in-depression-ai|Vantaggio Multimodale negli Agenti Conversazionali per la Depressione]]
-- [[conceptual-architecture-of-ai-guided-cbt|Architettura Concettuale dell'AI-Guided CBT]]
-- [[exposure-therapy-deficit-in-mental-health-ai|Deficit di Esposizione Comportamentale nell'IA per la Salute Mentale]]
-- [[cbt-dialogue-systems-and-tools|Sistemi di Dialogo e Strumenti CBT]]
-- [[subclinical-depression-window-of-opportunity|Finestra di Opportunità Subclinica nell'IA]]
-- [[digital-therapeutic-alliance|Alleanza Terapeutica Digitale]]
+- [The Effectiveness of CBT-Based NLP-Enabled AI Conversational Agents (Hang et al., 2026)](concetti/s41746-026-02886-x-reference.md)
+- [Vantaggio Multimodale negli Agenti Conversazionali per la Depressione](concetti/concetti/concetti\multimodal-advantage-in-depression-ai.md)
+- [Architettura Concettuale dell'AI-Guided CBT](concetti/concetti/concetti\conceptual-architecture-of-ai-guided-cbt.md)
+- [Deficit di Esposizione Comportamentale nell'IA per la Salute Mentale](concetti/exposure-therapy-deficit-in-mental-health-ai.md)
+- [Sistemi di Dialogo e Strumenti CBT](concetti/concetti/concetti\cbt-dialogue-systems-and-tools.md)
+- [Finestra di Opportunità Subclinica nell'IA](concetti/subclinical-depression-window-of-opportunity.md)
+- [Alleanza Terapeutica Digitale](concetti/digital-therapeutic-alliance.md)
 
+## Riferimenti Bibliografici
+- [Da integrare]

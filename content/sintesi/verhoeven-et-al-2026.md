@@ -229,11 +229,12 @@ Gli autori delineano quattro priorità strategiche per la ricerca e l'implementa
 
 ## Pagine e Concetti Correlati
 
-- [[xai-in-pediatric-surgery]]: Metodologie di explainable AI (intrinseche vs post-hoc) e applicazioni cliniche in chirurgia pediatrica.
-- [[pediatric-ai-bias-and-vulnerabilities]]: Pipeline del bias (dati, etichettatura, sviluppo, deployment) e vulnerabilità dello sviluppo pediatrico.
-- [[accept-ai-and-pediatric-ethical-frameworks]]: Principi bioetici, conformità al regolamento EU AI Act e linee guida operative ACCEPT-AI.
-- [[pediatric-xai-benchmarking]]: Standardizzazione della valutazione di fedeltà e stabilità delle spiegazioni (BenchXAI, XAIB) e validazione clinica prospettica.
-- [[ai-clinical-decision-support]]: Sistemi di supporto decisionale clinico e integrazione nei workflow sanitari.
-- [[algorithmic-bias-and-digital-inequalities]]: Disparità algoritmiche, campionamento WEIRD e impatto sui gruppi vulnerabili.
-- [[etica-privacy-bias-ia-clinica]]: Fondamenti etico-deontologici e tutela della privacy nei sistemi intelligenti sanitari.
-- [[three-layer-governance-framework]]: Modelli di governance a tre livelli per l'adozione sicura dell'IA.
+- [xai-in-pediatric-surgery](../xai-in-pediatric-surgery.md): Metodologie di explainable AI (intrinseche vs post-hoc) e applicazioni cliniche in chirurgia pediatrica.
+- [pediatric-ai-bias-and-vulnerabilities](../pediatric-ai-bias-and-vulnerabilities.md): Pipeline del bias (dati, etichettatura, sviluppo, deployment) e vulnerabilità dello sviluppo pediatrico.
+- [accept-ai-and-pediatric-ethical-frameworks](../concetti/accept-ai-and-pediatric-ethical-frameworks.md): Principi bioetici, conformità al regolamento EU AI Act e linee guida operative ACCEPT-AI.
+- [pediatric-xai-benchmarking](../concetti/pediatric-xai-benchmarking.md): Standardizzazione della valutazione di fedeltà e stabilità delle spiegazioni (BenchXAI, XAIB) e validazione clinica prospettica.
+- [ai-clinical-decision-support](../concetti/ai-clinical-decision-support.md): Sistemi di supporto decisionale clinico e integrazione nei workflow sanitari.
+- [algorithmic-bias-and-digital-inequalities](../concetti/algorithmic-bias-and-digital-inequalities.md): Disparità algoritmiche, campionamento WEIRD e impatto sui gruppi vulnerabili.
+- [etica-privacy-bias-ia-clinica](../concetti/etica-privacy-bias-ia-clinica.md): Fondamenti etico-deontologici e tutela della privacy nei sistemi intelligenti sanitari.
+- [three-layer-governance-framework](../concetti/concetti/concetti\three-layer-governance-framework.md): Modelli di governance a tre livelli per l'adozione sicura dell'IA.
+

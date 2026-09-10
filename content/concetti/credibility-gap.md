@@ -42,7 +42,7 @@ flowchart TD
    - Gli esseri umani valutano l'appartenenza di un'entità a una categoria tramite euristiche di rappresentatività rispetto a un prototipo ideale.
    - Il prototipo del terapeuta include indizi simbolici di perizia: titoli accademici, abilitazione professionale, adesione a un codice etico-deontologico, linguaggio clinico contestualizzato ed esperienza di vita umana. Gli agenti artificiali non possiedono queste credenziali istituzionali.
 
-4. **Conflitto tra Expert Heuristics e [[machine-heuristics-in-therapy|Machine Heuristics]] (Sundar, 2008; Yang & Sundar, 2024)**:
+4. **Conflitto tra Expert Heuristics e [Machine Heuristics](machine-heuristics-in-therapy.md) (Sundar, 2008; Yang & Sundar, 2024)**:
    - *Expert Heuristic*: mental shortcut che assegna credibilità immediata a simboli istituzionali di competenza medica/psicologica.
    - *Machine Heuristic*: scorciatoia mentale che riconosce all'IA doti di calcolo, oggettività e assenza di bias, ma la ritiene priva di saggezza esistenziale e risonanza emotiva. Per compiti complessi di salute mentale, prevale lo scetticismo verso la macchina.
 
@@ -57,17 +57,20 @@ flowchart TD
 
 ## Superamento del Credibility Gap nel Modello Ibrido
 
-Il modo più efficace per neutralizzare il Credibility Gap consiste nell'adozione del modello **[[blended-care-ai-framework|Blended Care]]**:
+Il modo più efficace per neutralizzare il Credibility Gap consiste nell'adozione del modello **[Blended Care](blended-care-ai-framework.md)**:
 - Il clinico umano avvia il percorso, stabilisce l'autorità clinica e conferisce all'agente IA il proprio **"timbro di legittimazione" (*stamp of approval*)**.
 - L'utente trasferisce la fiducia riposta nel terapeuta umano sull'applicazione digitale, incrementando aderenza e coinvolgimento.
 
 ---
 
 ## Relazioni
-- [[herbener-damholdt-2025]]
-- [[genuineness-gap]]
-- [[ontological-and-sociocultural-status]]
-- [[machine-heuristics-in-therapy]]
-- [[blended-care-ai-framework]]
-- [[three-layer-governance-framework]]
-- [[common-vs-specific-factors]]
+- [herbener-damholdt-2025](../sintesi/herbener-damholdt-2025.md)
+- [genuineness-gap](genuineness-gap.md)
+- [ontological-and-sociocultural-status](ontological-and-sociocultural-status.md)
+- [machine-heuristics-in-therapy](machine-heuristics-in-therapy.md)
+- [blended-care-ai-framework](blended-care-ai-framework.md)
+- [three-layer-governance-framework](concetti/concetti\three-layer-governance-framework.md)
+- [common-vs-specific-factors](common-vs-specific-factors.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

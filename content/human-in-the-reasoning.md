@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Human-in-the-Reasoning
 
 **Summary**: Paradigma di interazione clinica uomo-macchina che supera la mera supervisione operativa (Human-in-the-loop), integrando il clinico nella comprensione e co-guida attiva dei processi inferenziali, logico-decisionali e metacognitivi del modello.
@@ -7,7 +11,7 @@
 
 ## Definizione Concettuale
 
-Il concetto di **Human-in-the-Reasoning** ridefinisce il ruolo del clinico nell'interazione con gli [[large-language-models]]:
+Il concetto di **Human-in-the-Reasoning** ridefinisce il ruolo del clinico nell'interazione con gli [large-language-models](large-language-models.md):
 
 - **Superamento dello Human-in-the-Loop**: A differenza del tradizionale modello *Human-in-the-Loop* — in cui il professionista funge da mero validatore finale (accettazione/rifiuto a posteriori) di un output opaco — lo *Human-in-the-Reasoning* esplicita e governa l'albero decisionale, i pesi inferenziali, i livelli di astrazione e i criteri logici utilizzati dall'algoritmo.
 - **Metacognizione dell'interazione**: Così come il terapeuta indaga le logiche e gli schemi cognitivi del paziente, allo stesso modo deve apprendere come "ragiona" l'IA per impostare un'interazione efficace ed evitare la delega acritica.
@@ -26,12 +30,15 @@ Il concetto di **Human-in-the-Reasoning** ridefinisce il ruolo del clinico nell'
 
 ## Related pages
 
-- [[05-08_Riunione_Knowledge_Base]]
-- [[04-20_Tavola_rotonda_Integrazione_IA]]
-- [[simulazione-pazienti-ai]]
-- [[digital-therapeutic-alliance]]
-- [[hybrid-ai-research-workflows]]
-- [[prompting-in-psychology]]
-- [[ai-research-ethics]]
-- [[large-language-models]]
-- [[machine-psychology]]
+- [05-08_Riunione_Knowledge_Base](05-08_Riunione_Knowledge_Base.md)
+- [04-20_Tavola_rotonda_Integrazione_IA](04-20_Tavola_rotonda_Integrazione_IA.md)
+- [simulazione-pazienti-ai](simulazione-pazienti-ai.md)
+- [digital-therapeutic-alliance](digital-therapeutic-alliance.md)
+- [hybrid-ai-research-workflows](hybrid-ai-research-workflows.md)
+- [prompting-in-psychology](prompting-in-psychology.md)
+- [ai-research-ethics](ai-research-ethics.md)
+- [large-language-models](large-language-models.md)
+- [machine-psychology](machine-psychology.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

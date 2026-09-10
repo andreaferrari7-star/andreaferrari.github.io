@@ -6,7 +6,7 @@ source_papers: ["jmir_v27i1e69639.pdf"]
 # Exposure Therapy Deficit in Mental Health AI
 
 ## Definizione Operativa
-Il **Deficit di Esposizione Comportamentale nell'IA per la Salute Mentale** (*Exposure Therapy Deficit in Mental Health AI*) identifica la discrepanza strutturale ed empirica per cui gli agenti conversazionali guidati da intelligenza artificiale ([[large-language-models|NLP]] e Machine Learning) dimostrano una solida efficacia nella riduzione dei sintomi depressivi, ma falliscono sistematicamente nel produrre miglioramenti clinicamente e statisticamente significativi su **ansia generalizzata, fobie, stress e affetto negativo** (Feng et al., 2025; Carpenter et al., 2018; Zhong et al., 2024).
+Il **Deficit di Esposizione Comportamentale nell'IA per la Salute Mentale** (*Exposure Therapy Deficit in Mental Health AI*) identifica la discrepanza strutturale ed empirica per cui gli agenti conversazionali guidati da intelligenza artificiale ([NLP](concetti/large-language-models.md) e Machine Learning) dimostrano una solida efficacia nella riduzione dei sintomi depressivi, ma falliscono sistematicamente nel produrre miglioramenti clinicamente e statisticamente significativi su **ansia generalizzata, fobie, stress e affetto negativo** (Feng et al., 2025; Carpenter et al., 2018; Zhong et al., 2024).
 
 ## Evidenze dalla Letteratura
 - **Evidenze Quantitative di Divergenza:** Nella meta-analisi di Feng et al. (2025) su adolescenti e giovani adulti ($N = 1.974$), a fronte di un effetto medio-grande sulla **depressione** ($\text{Hedges } g = 0.61$, $P < .001$; $g = 0.74$ nei subclinici), gli esiti aggregati (corretti per publication bias) su tutte le dimensioni correlate all'ansia sono risultati **completamente nulli o trascurabili**:
@@ -31,10 +31,12 @@ Il **Deficit di Esposizione Comportamentale nell'IA per la Salute Mentale** (*Ex
 - **Zhong, W., Luo, J., & Zhang, H. (2024).** The therapeutic effectiveness of artificial intelligence-based chatbots in alleviation of depressive and anxiety symptoms in short-course treatments: a systematic review and meta-analysis. *Journal of Affective Disorders*, 356, 459–469.
 
 ## Relazioni
-- [[jmir-v27i1e69639]]: Meta-analisi di Feng et al. (2025) con dati quantitativi sulla discrepanza tra depressione e ansia/stress.
-- [[subclinical-depression-window-of-opportunity]]: Analisi della finestra ottimale di applicazione dei CAs per la depressione subclinica.
-- [[algorithmic-tractability-in-psychotherapy]]: Tassonomia della complessità clinica e limiti della manualizzazione computazionale.
-- [[clinical-readiness-gap-in-mh-chatbots]]: Il divario di prontezza clinica nei chatbot di salute mentale.
-- [[modello-centauro-clinico]]: Cooperazione human-in-the-loop per l'integrazione di esposizione clinica e strumenti digitali.
-- [[ai-enhanced-cbt]]: Metodologie di applicazione della CBT nei sistemi digitali e chatbot conversazionali.
-- [[jmir-v27-e78238]]: Meta-analisi di Zhang et al. (2025) su chatbot generativi ed effetti su depressione vs ansia.
+- [jmir-v27i1e69639](jmir-v27i1e69639.md): Meta-analisi di Feng et al. (2025) con dati quantitativi sulla discrepanza tra depressione e ansia/stress.
+- [subclinical-depression-window-of-opportunity](subclinical-depression-window-of-opportunity.md): Analisi della finestra ottimale di applicazione dei CAs per la depressione subclinica.
+- [algorithmic-tractability-in-psychotherapy](algorithmic-tractability-in-psychotherapy.md): Tassonomia della complessità clinica e limiti della manualizzazione computazionale.
+- [clinical-readiness-gap-in-mh-chatbots](concetti/concetti/concetti\clinical-readiness-gap-in-mh-chatbots.md): Il divario di prontezza clinica nei chatbot di salute mentale.
+- [modello-centauro-clinico](concetti/concetti/concetti\modello-centauro-clinico.md): Cooperazione human-in-the-loop per l'integrazione di esposizione clinica e strumenti digitali.
+- [ai-enhanced-cbt](concetti/concetti/concetti\concetti/concetti\ai-enhanced-cbt.md): Metodologie di applicazione della CBT nei sistemi digitali e chatbot conversazionali.
+- [jmir-v27-e78238](jmir-v27-e78238.md): Meta-analisi di Zhang et al. (2025) su chatbot generativi ed effetti su depressione vs ansia.
+
+

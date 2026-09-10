@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Segnali di Allarme in Sessione nell'IA Psicoterapeutica (In-Session Warning Signs)
 
 **Summary**: Indicatori predittivi dinamici (*leading indicators*) operazionalizzati come costrutti psicologici interni (su scala Likert a 5 punti), monitorati turno per turno durante la conversazione terapeutica per intercettare vulnerabilità crescenti e prevenire danni nel mondo reale.
@@ -50,14 +54,17 @@ I costrutti sono suddivisi in tre macro-aree cliniche e valutati dinamicamente r
 
 1. **Valutazione Relativa alla Baseline**: Poiché ogni paziente presenta tratti di partenza unici, il monitoraggio calcola lo scostamento (*delta*) rispetto al valore basale registrato all'inizio della sessione.
 2. **Distinzione tra Emozione Catartica e Danno**: Un incremento temporaneo del distress non indica necessariamente fallimento dell'agente: se accompagnato da mantenimento dell'autoefficacia e della motivazione, può costituire una fase necessaria di esposizione e rielaborazione del trauma.
-3. **Integrazione in Pazienti Virtuali**: Questi costrutti costituiscono le variabili interne del testbed di simulazione [[simpatient-evaluation-testbed]].
+3. **Integrazione in Pazienti Virtuali**: Questi costrutti costituiscono le variabili interne del testbed di simulazione [simpatient-evaluation-testbed](simpatient-evaluation-testbed.md).
 
 ---
 
 ## Pagine Correlate
-- [[risk-ontology-ai-psychotherapy]]
-- [[potential-real-world-consequences-ai]]
-- [[acute-crisis-action-plans-ai]]
-- [[simpatient-evaluation-testbed]]
-- [[rischio-suicidario-ai-limits]]
-- [[steenstra-bickmore-2025]]
+- [risk-ontology-ai-psychotherapy](concetti/concetti\risk-ontology-ai-psychotherapy.md)
+- [potential-real-world-consequences-ai](potential-real-world-consequences-ai.md)
+- [acute-crisis-action-plans-ai](acute-crisis-action-plans-ai.md)
+- [simpatient-evaluation-testbed](simpatient-evaluation-testbed.md)
+- [rischio-suicidario-ai-limits](rischio-suicidario-ai-limits.md)
+- [steenstra-bickmore-2025](../sintesi/steenstra-bickmore-2025.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

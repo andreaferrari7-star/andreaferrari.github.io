@@ -136,15 +136,15 @@ Per risolvere il *marketing-architecture mismatch*, la comunità scientifica e g
 ## Relazioni
 
 *   Concetti correlati:
-    *   [[three-tier-evaluation-framework-mental-health-ai]] (Il framework traslazionale T1-T2-T3 per la validazione dei chatbot)
-    *   [[validation-gap-in-mental-health-llms]] (Il divario di validazione clinica basato su esiti proxy)
-    *   [[clinical-readiness-gap-in-mh-chatbots]] (Il divario di prontezza clinica nei chatbot di salute mentale)
-    *   [[safety-mechanisms-ai-chatbots]] (Meccanismi di sicurezza, guardrail e moderazione attiva nei chatbot)
-    *   [[emotional-infrastructure]] (L'IA come infrastruttura emotiva e rischio di stampella digitale)
-    *   [[artificial-intimacy]] (Attaccamento parasociale e illusione relazionale con agenti sintetici)
-    *   [[demarcazione-wellness-vs-samd-salute-mentale]] (Distinzione regolatoria tra app di benessere e dispositivi medici)
+    *   [three-tier-evaluation-framework-mental-health-ai](three-tier-evaluation-framework-mental-health-ai.md) (Il framework traslazionale T1-T2-T3 per la validazione dei chatbot)
+    *   [validation-gap-in-mental-health-llms](validation-gap-in-mental-health-llms.md) (Il divario di validazione clinica basato su esiti proxy)
+    *   [clinical-readiness-gap-in-mh-chatbots](concetti/concetti/concetti\clinical-readiness-gap-in-mh-chatbots.md) (Il divario di prontezza clinica nei chatbot di salute mentale)
+    *   [safety-mechanisms-ai-chatbots](safety-mechanisms-ai-chatbots.md) (Meccanismi di sicurezza, guardrail e moderazione attiva nei chatbot)
+    *   [emotional-infrastructure](emotional-infrastructure.md) (L'IA come infrastruttura emotiva e rischio di stampella digitale)
+    *   [artificial-intimacy](artificial-intimacy.md) (Attaccamento parasociale e illusione relazionale con agenti sintetici)
+    *   [demarcazione-wellness-vs-samd-salute-mentale](demarcazione-wellness-vs-samd-salute-mentale.md) (Distinzione regolatoria tra app di benessere e dispositivi medici)
 *   Sintesi di riferimento:
-    *   [[wps-24-383]] (Hua et al., 2025: Revisione sistematica sull'evoluzione dei chatbot per la salute mentale)
-    *   [[behavsci-16-00676]] (Neacșu, 2026: Opportunità e rischi clinici dell'IA in psicoterapia)
-    *   [[health-advisory-ai-chatbots-wellness-apps-mental-health]] (Linee guida di safety per chatbot e app di salute mentale)
+    *   [wps-24-383](wps-24-383.md) (Hua et al., 2025: Revisione sistematica sull'evoluzione dei chatbot per la salute mentale)
+    *   [behavsci-16-00676](behavsci-16-00676.md) (Neacșu, 2026: Opportunità e rischi clinici dell'IA in psicoterapia)
+    *   [health-advisory-ai-chatbots-wellness-apps-mental-health](health-advisory-ai-chatbots-wellness-apps-mental-health.md) (Linee guida di safety per chatbot e app di salute mentale)
 e guida di safety per chatbot e app di salute mentale)

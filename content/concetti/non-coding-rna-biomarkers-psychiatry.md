@@ -80,8 +80,11 @@ Circa il 40% dei lncRNA umani è espresso specificamente nel cervello, dove agis
 ---
 
 ## Relazioni nel Knowledge Base
-- [[wang-dwivedi-2025]]: Sintesi sistematica della review di riferimento.
-- [[multi-omics-depression-suicide]]: Integrazione sistemica con altri strati biologici.
-- [[peripheral-blood-biomarkers-and-exosomes-in-mdd]]: Trasporto di ncRNA attraverso la barriera emato-encefalica.
-- [[single-cell-and-spatial-transcriptomics-in-mental-health]]: Espressione cellula-specifica di ncRNA nel tessuto cerebrale.
-- [[ai-multi-omics-psychiatric-biomarkers]]: Analisi computazionale di profili di ncRNA tramite Machine Learning.
+- [wang-dwivedi-2025](../sintesi/wang-dwivedi-2025.md): Sintesi sistematica della review di riferimento.
+- [multi-omics-depression-suicide](multi-omics-depression-suicide.md): Integrazione sistemica con altri strati biologici.
+- [peripheral-blood-biomarkers-and-exosomes-in-mdd](peripheral-blood-biomarkers-and-exosomes-in-mdd.md): Trasporto di ncRNA attraverso la barriera emato-encefalica.
+- [single-cell-and-spatial-transcriptomics-in-mental-health](single-cell-and-spatial-transcriptomics-in-mental-health.md): Espressione cellula-specifica di ncRNA nel tessuto cerebrale.
+- [ai-multi-omics-psychiatric-biomarkers](ai-multi-omics-psychiatric-biomarkers.md): Analisi computazionale di profili di ncRNA tramite Machine Learning.
+
+## Riferimenti Bibliografici
+- [Da integrare]

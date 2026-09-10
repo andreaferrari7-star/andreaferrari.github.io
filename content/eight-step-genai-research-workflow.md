@@ -46,4 +46,5 @@ Il workflow si fonda su tre pilastri metodologici consolidati:
 
 ## Relazioni
 
-- Vedi anche: [[jml-1001]], [[criteria-centric-genai-integration]], [[structured-literature-reviews]], [[guide-genai-literature-review]], [[gai-research-integrity-and-verification]], [[hybrid-ai-research-workflows]], [[prompting-in-psychology]], [[llm-assisted-synthesis]], [[bibliometric-analysis]]
+- Vedi anche: [jml-1001](jml-1001.md), [criteria-centric-genai-integration](criteria-centric-genai-integration.md), [structured-literature-reviews](structured-literature-reviews.md), [guide-genai-literature-review](guide-genai-literature-review.md), [gai-research-integrity-and-verification](gai-research-integrity-and-verification.md), [hybrid-ai-research-workflows](hybrid-ai-research-workflows.md), [prompting-in-psychology](prompting-in-psychology.md), [llm-assisted-synthesis](llm-assisted-synthesis.md), [bibliometric-analysis](bibliometric-analysis.md)
+

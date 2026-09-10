@@ -12,7 +12,7 @@ source_papers: ["AI Generativa in Psicoterapia.docx", "Rabbani et al. (2025)"]
 
 ## Obiettivi e Principi Guida
 
-L'impiego di agenti conversazionali generativi in contesti di salute mentale comporta gravi rischi di danno clinico: diffusione di consigli terapeutici non validati, rinforzo di ideazioni psicotiche o deliri (*folie à deux* tecnologica), accondiscendenza distorta ([[sycophantic-mirroring]]) e mancata gestione delle crisi suicide.
+L'impiego di agenti conversazionali generativi in contesti di salute mentale comporta gravi rischi di danno clinico: diffusione di consigli terapeutici non validati, rinforzo di ideazioni psicotiche o deliri (*folie à deux* tecnologica), accondiscendenza distorta ([sycophantic-mirroring](concetti/concetti\sycophantic-mirroring.md)) e mancata gestione delle crisi suicide.
 
 Il framework **MIND-SAFE** (*Mental Well-Being Through Dialogue – Safeguarded and Adaptive Framework for Ethics*) definisce una struttura a strati per blindare l'operatività dell'IA entro confini rigorosamente controllati.
 
@@ -51,11 +51,14 @@ flowchart TD
 ---
 
 ## Related Pages
-- [[ai-generativa-in-psicoterapia]]
-- [[readi-framework]]
-- [[hybrid-neuro-symbolic-cdss]]
-- [[rischio-suicidario-ai-limits]]
-- [[sycophantic-mirroring]]
-- [[rag-in-psicoterapia]]
-- [[human-in-the-reasoning]]
-- [[etica-privacy-bias-ia-clinica]]
+- [ai-generativa-in-psicoterapia](../sintesi/ai-generativa-in-psicoterapia.md)
+- [readi-framework](readi-framework.md)
+- [hybrid-neuro-symbolic-cdss](hybrid-neuro-symbolic-cdss.md)
+- [rischio-suicidario-ai-limits](rischio-suicidario-ai-limits.md)
+- [sycophantic-mirroring](concetti/concetti\sycophantic-mirroring.md)
+- [rag-in-psicoterapia](rag-in-psicoterapia.md)
+- [human-in-the-reasoning](human-in-the-reasoning.md)
+- [etica-privacy-bias-ia-clinica](etica-privacy-bias-ia-clinica.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Educator Burden nei Clienti Marginalizzati e Mediazione dell'IA
 
 **Summary**: Fenomeno relazionale ed emotivo per cui i pazienti appartenenti a minoranze sistemiche (LGBTQ+, disabilità, minoranze culturali) devono impiegare quote significative di tempo e risorse cognitive nella psicoterapia tradizionale per istruire il terapeuta sulla propria identità e cultura; l'IA generativa agisce come riduttore epistemico di questo onere asimmetrico.
@@ -63,9 +67,12 @@ I sistemi basati su LLM possono svolgere un'azione di **Mediazione Epistemica bi
 
 ---
 ## Concetti Correlati
-- [[dynamic-boundary-mediation-framework]]
-- [[boundary-objects-in-psychotherapy]]
-- [[negotiable-data-visibility-privacy]]
-- [[contextualized-relational-memory]]
-- [[ai-mental-health-vulnerable-populations]]
-- [[weird-bias-cultural-adaptability-ai]]
+- [dynamic-boundary-mediation-framework](dynamic-boundary-mediation-framework.md)
+- [boundary-objects-in-psychotherapy](boundary-objects-in-psychotherapy.md)
+- [negotiable-data-visibility-privacy](negotiable-data-visibility-privacy.md)
+- [contextualized-relational-memory](contextualized-relational-memory.md)
+- [ai-mental-health-vulnerable-populations](ai-mental-health-vulnerable-populations.md)
+- [weird-bias-cultural-adaptability-ai](weird-bias-cultural-adaptability-ai.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

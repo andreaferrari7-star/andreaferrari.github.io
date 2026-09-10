@@ -93,7 +93,7 @@ sequenceDiagram
 
 1. **Riforma dei Benchmark di Valutazione:** Sostituire le metriche binarie (accuratezza top-1 su casi chiusi) con framework di valutazione multi-assiale che misurino la qualità del ragionamento differenziale, la gestione dell'incertezza e l'aderenza al contesto psicosociale.
 2. **Prevenzione della Sovradiagnosi e della Medicina Difensiva:** L'uso di algoritmi di triage rigidi rischia di esacerbare la medicina difensiva (es. ricoveri cautelativi per qualsiasi sintomo algoritmizzato), moltiplicando i costi sanitari e i rischi iatrogeni.
-3. **Preservazione dell'Autorità Clinica:** L'IA deve rimanere uno strumento consultivo per l'esplorazione di ipotesi rare o pattern occulti ([[modello-centauro-clinico]]), mentre il giudizio sintetico integrato deve restare saldamente ancorato alla relazione medico-paziente.
+3. **Preservazione dell'Autorità Clinica:** L'IA deve rimanere uno strumento consultivo per l'esplorazione di ipotesi rare o pattern occulti ([modello-centauro-clinico](concetti/concetti/concetti\modello-centauro-clinico.md)), mentre il giudizio sintetico integrato deve restare saldamente ancorato alla relazione medico-paziente.
 
 ---
 
@@ -111,14 +111,15 @@ sequenceDiagram
 
 ## Related Pages
 
-- [[clinical-decision-making-and-artificial-intelligence]]
-- [[information-without-explanation-in-clinical-ai]]
-- [[human-in-the-reasoning]]
-- [[modello-centauro-clinico]]
-- [[algorithmic-paternalism-in-ai-mental-health]]
-- [[simulated-empathy-vs-authentic-presence]]
-- [[ai-clinical-decision-support]]
-- [[automation-bias-clinical-reasoning]]
-- [[bottom-up-clinical-documentation]]
-- [[traffic-light-quality-appraisal-clinical-ai]]
+- [clinical-decision-making-and-artificial-intelligence](clinical-decision-making-and-artificial-intelligence.md)
+- [information-without-explanation-in-clinical-ai](concetti/concetti/concetti\information-without-explanation-in-clinical-ai.md)
+- [human-in-the-reasoning](human-in-the-reasoning.md)
+- [modello-centauro-clinico](concetti/concetti/concetti\modello-centauro-clinico.md)
+- [algorithmic-paternalism-in-ai-mental-health](concetti/concetti/concetti\algorithmic-paternalism-in-ai-mental-health.md)
+- [simulated-empathy-vs-authentic-presence](concetti/concetti/concetti\simulated-empathy-vs-authentic-presence.md)
+- [ai-clinical-decision-support](concetti/ai-clinical-decision-support.md)
+- [automation-bias-clinical-reasoning](concetti/automation-bias-clinical-reasoning.md)
+- [bottom-up-clinical-documentation](bottom-up-clinical-documentation.md)
+- [traffic-light-quality-appraisal-clinical-ai](traffic-light-quality-appraisal-clinical-ai.md)
 al-clinical-ai]]
+

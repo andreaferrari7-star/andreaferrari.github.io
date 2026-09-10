@@ -49,13 +49,16 @@ L'uso di LLM solleva criticità etiche e cliniche:
 
 ## Relazioni
 
-- [[conceptual-architecture-of-ai-guided-cbt]]
-- [[functional-vs-relational-mechanisms-in-ai-therapy]]
-- [[ai-enhanced-cbt]]
-- [[digital-therapeutic-alliance]]
-- [[stepped-care-ai-integration]]
-- [[clinical-readiness-gap-in-mh-chatbots]]
-- [[power-safety-paradox]]
-- [[tiered-human-ai-healing-ecosystem]]
-- [[simulated-empathy-vs-authentic-presence]]
-- [[modello-centauro-clinico]]
+- [conceptual-architecture-of-ai-guided-cbt](../concetti/concetti/concetti\conceptual-architecture-of-ai-guided-cbt.md)
+- [functional-vs-relational-mechanisms-in-ai-therapy](../concetti/concetti/concetti\functional-vs-relational-mechanisms-in-ai-therapy.md)
+- [ai-enhanced-cbt](../concetti/concetti/concetti\ai-enhanced-cbt.md)
+- [digital-therapeutic-alliance](../digital-therapeutic-alliance.md)
+- [stepped-care-ai-integration](../concetti/stepped-care-ai-integration.md)
+- [clinical-readiness-gap-in-mh-chatbots](../concetti/concetti/concetti\clinical-readiness-gap-in-mh-chatbots.md)
+- [power-safety-paradox](../power-safety-paradox.md)
+- [tiered-human-ai-healing-ecosystem](../tiered-human-ai-healing-ecosystem.md)
+- [simulated-empathy-vs-authentic-presence](../concetti/concetti/concetti\simulated-empathy-vs-authentic-presence.md)
+- [modello-centauro-clinico](../concetti/concetti/concetti\modello-centauro-clinico.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Sindrome dell'Impostore IA-Specifica e Collasso dell'Effort Justification
 
 **Summary**: Costrutto psicodinamico e occupazionale emergente (Signorini & Paganin, 2026) caratterizzato dal collasso del principio della giustificazione dello sforzo nei clinici che utilizzano LLM per formulazioni e reportistica, con conseguente trasmutazione dell'identità da autore/pensatore clinico a mero editor e passaggio a un'intelligenza basata sull'accesso software.
@@ -9,7 +13,7 @@
 
 Nella teoria classica della dissonanza cognitiva e della psicologia del lavoro, il **"principio della giustificazione dello sforzo" (*Effort Justification*)** stabilisce che gli esseri umani attribuiscono valore, significato e legittimità ai propri risultati intellettuali e professionali in misura proporzionale alla fatica cognitiva, al tempo dedicato e all'impegno emotivo investito nel conseguirli.
 
-Con l'avvento dei [[large-language-models]] (LLM), formulazioni del caso altamente articolate, concettualizzazioni psicodinamiche complesse e piani terapeutici dettagliati possono essere generati in pochi secondi a partire da brevi prompt:
+Con l'avvento dei [large-language-models](../large-language-models.md) (LLM), formulazioni del caso altamente articolate, concettualizzazioni psicodinamiche complesse e piani terapeutici dettagliati possono essere generati in pochi secondi a partire da brevi prompt:
 
 ```mermaid
 flowchart TD
@@ -48,22 +52,25 @@ flowchart TD
 2. **Alienazione dal Processo di Scrittura Clinica**:
    - La stesura della cartella e della formulazione del caso non è mai stata una pura incombenza burocratica, ma un atto di rielaborazione mentale e controtransferale. La sua automazione priva il clinico del tempo di incubazione del pensiero.
 3. **Sovrapposizione con l'AIRD**:
-   - Si associa spesso a manifestazioni di [[artificial-intelligence-replacement-dysfunction|Artificial Intelligence Replacement Dysfunction (AIRD)]], alimentando ansia di obsolescenza e perdita di vocazione.
+   - Si associa spesso a manifestazioni di [Artificial Intelligence Replacement Dysfunction (AIRD)](artificial-intelligence-replacement-dysfunction.md), alimentando ansia di obsolescenza e perdita di vocazione.
 
 ---
 
 ## Strategie di Prevenzione e Riparazione
 
-- **Adozione del [[sadar-framework|Framework SADAR]]**: Utilizzare l'IA solo come perturbatore delle proprie riflessioni (e non come scrittore surrogato di note o formulazioni cliniche), preservando la fatica intellettuale della scrittura umana.
+- **Adozione del [Framework SADAR](sadar-framework.md)**: Utilizzare l'IA solo come perturbatore delle proprie riflessioni (e non come scrittore surrogato di note o formulazioni cliniche), preservando la fatica intellettuale della scrittura umana.
 - **Formazione sull'Epistemologia dell'IA**: Comprendere che la fluidità linguistica degli LLM è puro calcolo statistico privo di comprensione contestuale o clinica.
 - **Valorizzazione della Presenza Corporea**: Rafforzare la centralità dell'embodiment e dell'alleanza umana come unici vettori trasformativi della cura.
 
 ---
 
 ## Pagine Correlate
-- [[artificial-intelligence-replacement-dysfunction]]
-- [[sadar-framework]]
-- [[digital-analytic-third]]
-- [[cognitive-offloading-e-diagnostic-deskilling]]
-- [[moral-buffering-e-deskilling-etico]]
-- [[ai-in-psicoterapia-2023-2026]]
+- [artificial-intelligence-replacement-dysfunction](artificial-intelligence-replacement-dysfunction.md)
+- [sadar-framework](sadar-framework.md)
+- [digital-analytic-third](digital-analytic-third.md)
+- [cognitive-offloading-e-diagnostic-deskilling](cognitive-offloading-e-diagnostic-deskilling.md)
+- [moral-buffering-e-deskilling-etico](moral-buffering-e-deskilling-etico.md)
+- [ai-in-psicoterapia-2023-2026](../sintesi/ai-in-psicoterapia-2023-2026.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

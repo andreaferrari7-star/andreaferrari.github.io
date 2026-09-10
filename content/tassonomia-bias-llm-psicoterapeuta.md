@@ -6,7 +6,7 @@ source_papers: ["report_bias_llm_psicoterapia.pdf", "2509.13324v3.pdf", "2607.25
 # Tassonomia dei Bias degli LLM per il Psicoterapeuta
 
 ## Definizione Operativa
-- Sintesi guidata da quesito che classifica i principali bias dei Large Language Models ([[large-language-models]]) rilevanti per la pratica psicoterapeutica, organizzandoli in tre macro-classi: **(A) Euristici/Relazionali** (emergono nell'interazione), **(B) Strutturali/"Trait"** (cristallizzati nei pesi neurali), **(C) Dell'operatore e architetturali** (riguardano chi usa o orchestra il modello).
+- Sintesi guidata da quesito che classifica i principali bias dei Large Language Models ([large-language-models](large-language-models.md)) rilevanti per la pratica psicoterapeutica, organizzandoli in tre macro-classi: **(A) Euristici/Relazionali** (emergono nell'interazione), **(B) Strutturali/"Trait"** (cristallizzati nei pesi neurali), **(C) Dell'operatore e architetturali** (riguardano chi usa o orchestra il modello).
 - **Utilità CBT:** Fornisce al clinico una mappa di vigilanza per prevenire l'iatrogenesi digitale (rinforzo di schemi disadattivi, demoralizzazione, delega acritica) e per progettare prompt di de-biasing e governance human-in-the-loop.
 
 ## Evidenze dalla Letteratura
@@ -52,4 +52,7 @@ Le strategie di sicurezza indipendenti dal singolo bias restano: **RAG vincolato
 - Steenstra, I., Pedrelli, P., Shi, W., Marsella, S., & Bickmore, T. W. (2026). Assessing Risks of Large Language Models in Mental Health Support: A Framework for Automated Clinical AI Red Teaming. *arXiv preprint arXiv:2602.19948v2*.
 
 ## Relazioni
-- Vedi anche: [[report-bias-llm-psicoterapia]], [[audit-bias-llm-clinici]], [[stealth-sycophancy]], [[sycophantic-mirroring]], [[korsakoff-confabulazione-llm]], [[prognostic-pessimism-in-clinical-ai]], [[over-deference-in-llm-supervision]], [[misurazione-bias-razziale-llm]], [[single-correct-answer-fallacy-in-clinical-ai]], [[ai-psychosis]], [[overfitting-protocollare]], [[modello-centauro-clinico]], [[human-in-the-reasoning]]
+- Vedi anche: [report-bias-llm-psicoterapia](report-bias-llm-psicoterapia.md), [audit-bias-llm-clinici](concetti/concetti/concetti\audit-bias-llm-clinici.md), [stealth-sycophancy](stealth-sycophancy.md), [sycophantic-mirroring](concetti/concetti/concetti\sycophantic-mirroring.md), [korsakoff-confabulazione-llm](korsakoff-confabulazione-llm.md), [prognostic-pessimism-in-clinical-ai](prognostic-pessimism-in-clinical-ai.md), [over-deference-in-llm-supervision](over-deference-in-llm-supervision.md), [misurazione-bias-razziale-llm](concetti/concetti/concetti\misurazione-bias-razziale-llm.md), [single-correct-answer-fallacy-in-clinical-ai](single-correct-answer-fallacy-in-clinical-ai.md), [ai-psychosis](ai-psychosis.md), [overfitting-protocollare](overfitting-protocollare.md), [modello-centauro-clinico](concetti/concetti/concetti\modello-centauro-clinico.md), [human-in-the-reasoning](human-in-the-reasoning.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

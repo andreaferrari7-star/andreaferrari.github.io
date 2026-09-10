@@ -7,7 +7,7 @@ source_papers: ["healthcare-13-02340.pdf", "Clinical decision-making and artific
 
 ## Definizione Operativa
 - Il modello di **Decisione Clinica Condivisa mediata dall'IA (*AI-augmented Shared Decision-Making, SDM*)** ridefinisce il processo deliberativo sanitario in cui scelte diagnostiche, prognostiche e terapeutiche vengono concordate tra medico e paziente con l'intermediazione di sistemi algoritmici di supporto decisionale (CDSS, modelli predittivi, LLM generativi) (Lorenzini et al., 2023; Montanari Vergallo et al., 2025).
-- **Trasformazione Epistemologica e Relazionale:** L'ingresso dell'IA trasforma la classica diade clinica (*Medico-Paziente*) in una **configurazione triadica (*Medico-Paziente-IA*)**. Tale paradigma espande le opzioni informative ma introduce rischi critici: l'esclusione di entrambi gli attori umani dal processo deliberativo a favore di soluzioni preconfezionate dalla macchina, l'erosione dell'autonomia decisionale e l'insorgenza di un [[algorithmic-paternalism-in-ai-mental-health|paternalismo tecnologico]] basato sull'assunto che il computer "sappia meglio" (*computer knows best*; McDougall, 2019).
+- **Trasformazione Epistemologica e Relazionale:** L'ingresso dell'IA trasforma la classica diade clinica (*Medico-Paziente*) in una **configurazione triadica (*Medico-Paziente-IA*)**. Tale paradigma espande le opzioni informative ma introduce rischi critici: l'esclusione di entrambi gli attori umani dal processo deliberativo a favore di soluzioni preconfezionate dalla macchina, l'erosione dell'autonomia decisionale e l'insorgenza di un [paternalismo tecnologico](concetti/concetti/concetti\algorithmic-paternalism-in-ai-mental-health.md) basato sull'assunto che il computer "sappia meglio" (*computer knows best*; McDougall, 2019).
 
 ```mermaid
 flowchart TD
@@ -70,7 +70,7 @@ I sostenitori dell'IA in medicina evidenziano frequentemente la promessa della t
 | **Fonte delle Opzioni Cliniche** | Linee guida evidence-based intermediate dall'esperienza clinica del medico. | Algoritmi predittivi, ranking probabilistici su Big Data, generative summary. |
 | **Ruolo dell'Empatia** | Centrale nella modulazione della comunicazione e nella rilevazione del non verbale. | Esclusiva dell'essere umano; l'IA emula la sintassi empatica senza risonanza affettiva autentica. |
 | **Formulazione del Consenso** | Discussione su diagnosi, prognosi, rischi/benefici dell'intervento medico. | Consenso multilivello esteso a funzionamento del tool, trasparenza algoritmica, flussi cloud e privacy. |
-| **Rischio Predominante** | Paternalismo medico classico o asimmetria informativa specialistica. | [[algorithmic-paternalism-in-ai-mental-health\|Paternalismo algoritmico]], automation bias, de-skilling del clinico e spersonalizzazione. |
+| **Rischio Predominante** | Paternalismo medico classico o asimmetria informativa specialistica. | [Paternalismo algoritmico](concetti/concetti/concetti\algorithmic-paternalism-in-ai-mental-health.md), automation bias, de-skilling del clinico e spersonalizzazione. |
 | **Responsabilità Giuridica e Morale** | Unicamente in capo al professionista sanitario e alla struttura. | Conservata in capo al medico umano (*human-in-the-loop*), che risponde dell'omessa supervisione o del mancato disclosure. |
 
 ---
@@ -111,4 +111,6 @@ flowchart LR
 ---
 
 ## Relazioni
-- Vedi anche: [[healthcare-13-02340]], [[comparative-ai-health-governance]], [[clinical-decision-making-and-artificial-intelligence]], [[algorithmic-paternalism-in-ai-mental-health]], [[informed-consent-for-clinical-ai]], [[human-oversight-and-liability-in-clinical-ai]], [[modello-centauro-clinico]], [[single-correct-answer-fallacy-in-clinical-ai]], [[information-without-explanation-in-clinical-ai]], [[simulated-empathy-vs-authentic-presence]]
+- Vedi anche: [healthcare-13-02340](healthcare-13-02340.md), [comparative-ai-health-governance](comparative-ai-health-governance.md), [clinical-decision-making-and-artificial-intelligence](clinical-decision-making-and-artificial-intelligence.md), [algorithmic-paternalism-in-ai-mental-health](concetti/concetti/concetti\algorithmic-paternalism-in-ai-mental-health.md), [informed-consent-for-clinical-ai](informed-consent-for-clinical-ai.md), [human-oversight-and-liability-in-clinical-ai](human-oversight-and-liability-in-clinical-ai.md), [modello-centauro-clinico](concetti/concetti/concetti\modello-centauro-clinico.md), [single-correct-answer-fallacy-in-clinical-ai](single-correct-answer-fallacy-in-clinical-ai.md), [information-without-explanation-in-clinical-ai](concetti/concetti/concetti\information-without-explanation-in-clinical-ai.md), [simulated-empathy-vs-authentic-presence](concetti/concetti/concetti\simulated-empathy-vs-authentic-presence.md)
+
+

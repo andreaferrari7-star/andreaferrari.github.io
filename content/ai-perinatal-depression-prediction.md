@@ -117,4 +117,7 @@ I modelli di Machine Learning hanno permesso di stabilire una precisa gerarchia 
 ---
 
 ## Relazioni
-- Vedi anche: [[fpsyt-16-1734102]], [[algorithmic-bias-perinatal-ai]], [[multimodal-anxiety-detection-ai]], [[social-media-phenotyping-anxiety]], [[modello-centauro-clinico]], [[pediatric-ai-bias-and-vulnerabilities]], [[clinical-decision-making-and-artificial-intelligence]], [[embedded-ethics-interface]], [[ai-psychosocial-functioning-in-psychosis]]
+- Vedi anche: [fpsyt-16-1734102](fpsyt-16-1734102.md), [algorithmic-bias-perinatal-ai](algorithmic-bias-perinatal-ai.md), [multimodal-anxiety-detection-ai](multimodal-anxiety-detection-ai.md), [social-media-phenotyping-anxiety](social-media-phenotyping-anxiety.md), [modello-centauro-clinico](concetti/concetti/concetti\modello-centauro-clinico.md), [pediatric-ai-bias-and-vulnerabilities](pediatric-ai-bias-and-vulnerabilities.md), [clinical-decision-making-and-artificial-intelligence](clinical-decision-making-and-artificial-intelligence.md), [embedded-ethics-interface](embedded-ethics-interface.md), [ai-psychosocial-functioning-in-psychosis](ai-psychosocial-functioning-in-psychosis.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

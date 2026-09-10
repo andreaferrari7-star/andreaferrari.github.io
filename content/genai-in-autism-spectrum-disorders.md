@@ -68,4 +68,5 @@ flowchart TD
 ---
 
 ## Relazioni
-- Vedi anche: [[fpsyt-16-1628216]], [[embedded-ethics-interface]], [[ai-assistive-autism-communication]], [[simulazione-pazienti-ai]], [[applied-theory-of-mind-llm]], [[conversational-agents-mental-health]], [[digital-therapeutics-ai]], [[synthetic-psychopathology]]
+- Vedi anche: [fpsyt-16-1628216](fpsyt-16-1628216.md), [embedded-ethics-interface](embedded-ethics-interface.md), [ai-assistive-autism-communication](concetti/ai-assistive-autism-communication.md), [simulazione-pazienti-ai](simulazione-pazienti-ai.md), [applied-theory-of-mind-llm](applied-theory-of-mind-llm.md), [conversational-agents-mental-health](concetti/conversational-agents-mental-health.md), [digital-therapeutics-ai](concetti/digital-therapeutics-ai.md), [synthetic-psychopathology](synthetic-psychopathology.md)
+

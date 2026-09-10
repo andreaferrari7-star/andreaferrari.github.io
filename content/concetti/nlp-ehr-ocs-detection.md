@@ -17,4 +17,5 @@ source_papers: ["Chandran_D_et_al_NLP_for_OCS_in_SMI_Scientific_Reports_author_a
 - Chandran, D., Ahn, D. Y., Chang, C.-K., Shetty, H., Sanyal, J., Downs, J. M., Fok, M., Ball, M., Jackson, R. G., Stewart, R., Cohen, H., Vermeulen, J. M., Schirmbeck, F., de Haan, L., & Hayes, R. (2019). Use of Natural Language Processing to identify Obsessive Compulsive Symptoms in patients with schizophrenia, schizoaffective disorder or bipolar disorder. *Scientific Reports*.
 
 ## Relazioni
-- Vedi anche: [[chandran-et-al-2019]]
+- Vedi anche: [chandran-et-al-2019](../chandran-et-al-2019.md)
+

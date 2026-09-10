@@ -7,9 +7,9 @@ source_papers: ["CPP-33-e70242.pdf"]
 
 ## Definizione Operativa
 
-- Il costrutto di **Algorithmic Tractability** (Trattabilità Algoritmica) nella psicologia clinica e nella psichiatria computazionale descrive il fenomeno per cui lo sviluppo e l'efficacia percepita dei sistemi di Intelligenza Artificiale ([[large-language-models|NLP]] e Machine Learning) sono fortemente condizionati dal grado di strutturazione, formalizzazione logica e manualizzazione intrinseca dei quadri psicopatologici e dei protocolli di trattamento (Orrù & Mannarini, 2026; *Clinical Psychology & Psychotherapy*, doi: [10.1002/cpp.70242](https://doi.org/10.1002/cpp.70242)).
+- Il costrutto di **Algorithmic Tractability** (Trattabilità Algoritmica) nella psicologia clinica e nella psichiatria computazionale descrive il fenomeno per cui lo sviluppo e l'efficacia percepita dei sistemi di Intelligenza Artificiale ([NLP](concetti/large-language-models.md) e Machine Learning) sono fortemente condizionati dal grado di strutturazione, formalizzazione logica e manualizzazione intrinseca dei quadri psicopatologici e dei protocolli di trattamento (Orrù & Mannarini, 2026; *Clinical Psychology & Psychotherapy*, doi: [10.1002/cpp.70242](https://doi.org/10.1002/cpp.70242)).
 
-- **Utilità Clinica e di Ricerca:** Spiega il motivo per cui oltre l'80% della letteratura e delle applicazioni pratiche di digital mental health si concentra su **disturbi d'ansia e depressione unipolare lieve-moderata** trattati mediante approcci cognitivo-comportamentali standardizzati ([[ai-enhanced-cbt|CBT]], Dialectical Behaviour Therapy [DBT] e Behavioural Activation [BA]; Kazdin & Rabbitt, 2013):
+- **Utilità Clinica e di Ricerca:** Spiega il motivo per cui oltre l'80% della letteratura e delle applicazioni pratiche di digital mental health si concentra su **disturbi d'ansia e depressione unipolare lieve-moderata** trattati mediante approcci cognitivo-comportamentali standardizzati ([CBT](concetti/concetti/concetti\concetti/concetti\ai-enhanced-cbt.md), Dialectical Behaviour Therapy [DBT] e Behavioural Activation [BA]; Kazdin & Rabbitt, 2013):
 
   - Tali condizioni dispongono di costrutti diagnostici operazionalizzati, schemi di intervento sequenziali (ristrutturazione cognitiva, behavioral scheduling, compiti a casa) e metriche psicometriche lineari (PHQ-9, GAD-7) facilmente traducibili in algoritmi di machine learning, alberi di decisione o prompt di modelli linguistici;
 
@@ -76,7 +76,7 @@ flowchart LR
 
 - **Sistemi Analitici Practitioner-Facing:** Rinunciare alla delega del trattamento autonomo (*substitutional care*) e impiegare l'NLP come lente aumentata per il clinico.
 
-- **Il [[modello-centauro-clinico|Modello Centauro]]:** Preservare la funzione ermeneutica, relazionale ed etica in capo al terapeuta umano.
+- **Il [Modello Centauro](concetti/concetti/concetti\modello-centauro-clinico.md):** Preservare la funzione ermeneutica, relazionale ed etica in capo al terapeuta umano.
 
 **Riferimenti Bibliografici:**
 
@@ -90,10 +90,13 @@ flowchart LR
 
 ## Relazioni
 
-- [[cpp-33-e70242-1]]: Systematic review di Orrù & Mannarini (2026) su AI e NLP in psicologia clinica.
-- [[epistemological-paradox-in-clinical-ai]]: Il dilemma etico-metodologico della sperimentazione di algoritmi su popolazioni vulnerabili.
-- [[ai-enhanced-cbt]]: Metodologie e integrazione computazionale dei protocolli cognitivo-comportamentali.
-- [[clinical-readiness-gap-in-mh-chatbots]]: Divario tra performance di fluidità linguistica ed evidenze cliniche rigorose.
-- [[modello-centauro-clinico]]: Cooperazione human-in-the-loop per integrare precisione computazionale e complessità relazionale.
-- [[calibrated-mismatches]]: Importanza clinica della rottura e riparazione relazionale non codificabile da regole rigide.
-- [[digital-therapeutic-alliance]]: Costruzione e misurazione dell'alleanza di lavoro tra utente e agente digitale.
+- [cpp-33-e70242-1](cpp-33-e70242-1.md): Systematic review di Orrù & Mannarini (2026) su AI e NLP in psicologia clinica.
+- [epistemological-paradox-in-clinical-ai](epistemological-paradox-in-clinical-ai.md): Il dilemma etico-metodologico della sperimentazione di algoritmi su popolazioni vulnerabili.
+- [ai-enhanced-cbt](concetti/concetti/concetti\concetti/concetti\ai-enhanced-cbt.md): Metodologie e integrazione computazionale dei protocolli cognitivo-comportamentali.
+- [clinical-readiness-gap-in-mh-chatbots](concetti/concetti/concetti\clinical-readiness-gap-in-mh-chatbots.md): Divario tra performance di fluidità linguistica ed evidenze cliniche rigorose.
+- [modello-centauro-clinico](concetti/concetti/concetti\modello-centauro-clinico.md): Cooperazione human-in-the-loop per integrare precisione computazionale e complessità relazionale.
+- [calibrated-mismatches](concetti/concetti/concetti\calibrated-mismatches.md): Importanza clinica della rottura e riparazione relazionale non codificabile da regole rigide.
+- [digital-therapeutic-alliance](digital-therapeutic-alliance.md): Costruzione e misurazione dell'alleanza di lavoro tra utente e agente digitale.
+
+## Riferimenti Bibliografici
+- [Da integrare]

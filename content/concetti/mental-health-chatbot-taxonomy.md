@@ -78,9 +78,10 @@ graph TD
 ---
 
 ## Pagine Correlate
-- [[rezaei-et-al-2026]]
-- [[conversational-agents-mental-health]]
-- [[network-based-ai-mental-healthcare]]
-- [[specialized-nlp-models-mental-health]]
-- [[stepped-care-ai-integration]]
-- [[human-in-the-reasoning]]
+- [rezaei-et-al-2026](../sintesi/rezaei-et-al-2026.md)
+- [conversational-agents-mental-health](conversational-agents-mental-health.md)
+- [network-based-ai-mental-healthcare](network-based-ai-mental-healthcare.md)
+- [specialized-nlp-models-mental-health](specialized-nlp-models-mental-health.md)
+- [stepped-care-ai-integration](stepped-care-ai-integration.md)
+- [human-in-the-reasoning](human-in-the-reasoning.md)
+

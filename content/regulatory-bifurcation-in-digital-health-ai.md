@@ -74,7 +74,7 @@ flowchart LR
 2. **Impatto sulle Prestazioni Cliniche:**
    - Quando tali modelli vengono impiegati in popolazioni non-WEIRD (come documentato da Harrigian et al., 2021 e Liu et al., 2023), si registra un calo di accuratezza fino al 15% rispetto alle lingue native e una marcata difficoltà a interpretare espressioni somatiche di sofferenza psicologica o metafore culturali del dolore.
 3. **Barriere Linguistiche e Dialettali:**
-   - In contesti multilingue o in presenza di dialetti locali (es. varianti regionali in Cina o Pakistan), il modello generativo standard può fraintendere l'urgenza clinica o produrre risposte linguisticamente innaturali, compromettendo l'[[digital-therapeutic-alliance|alleanza terapeutica digitale]].
+   - In contesti multilingue o in presenza di dialetti locali (es. varianti regionali in Cina o Pakistan), il modello generativo standard può fraintendere l'urgenza clinica o produrre risposte linguisticamente innaturali, compromettendo l'[alleanza terapeutica digitale](concetti/digital-therapeutic-alliance.md).
 
 ---
 
@@ -117,4 +117,6 @@ Per superare la biforcazione regolatoria e garantire al contempo sicurezza dei p
 ---
 
 ## Relazioni
-- Vedi anche: [[jmir-v27-e78238]], [[weird-bias-cultural-adaptability-ai]], [[gdpr-governance-mental-health-ai]], [[software-as-a-medical-device-salute-mentale]], [[three-layer-governance-framework]], [[quattro-condizioni-liceita-ia-psicologia]], [[social-oriented-vs-task-oriented-chatbots]], [[algorithmic-paternalism-in-ai-mental-health]]
+- Vedi anche: [jmir-v27-e78238](jmir-v27-e78238.md), [weird-bias-cultural-adaptability-ai](concetti/weird-bias-cultural-adaptability-ai.md), [gdpr-governance-mental-health-ai](concetti/concetti/concetti\gdpr-governance-mental-health-ai.md), [software-as-a-medical-device-salute-mentale](software-as-a-medical-device-salute-mentale.md), [three-layer-governance-framework](concetti/concetti/concetti\three-layer-governance-framework.md), [quattro-condizioni-liceita-ia-psicologia](quattro-condizioni-liceita-ia-psicologia.md), [social-oriented-vs-task-oriented-chatbots](social-oriented-vs-task-oriented-chatbots.md), [algorithmic-paternalism-in-ai-mental-health](concetti/concetti/concetti\algorithmic-paternalism-in-ai-mental-health.md)
+
+

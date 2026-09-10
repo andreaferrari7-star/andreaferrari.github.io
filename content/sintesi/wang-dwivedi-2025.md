@@ -253,11 +253,12 @@ Gli autori identificano le priorità per la ricerca futura:
 ---
 
 ## Pagine Correlate nel Knowledge Base
-- [[multi-omics-depression-suicide]]: Integrazione di genomica, trascrittomica, epigenomica e proteomica nel MDD e nel rischio suicidario.
-- [[non-coding-rna-biomarkers-psychiatry]]: Il ruolo regolatorio di miRNA, lncRNA, circRNA, snoRNA e piRNA nei disturbi dell'umore.
-- [[single-cell-and-spatial-transcriptomics-in-mental-health]]: Deconvoluzione cellulare cerebrale (snRNA-seq, ST, DBiT-seq) e dimorfismo sessuale.
-- [[ai-multi-omics-psychiatric-biomarkers]]: Algoritmi di Machine Learning e Deep Learning applicati a dati omici e clinici multimodali.
-- [[peripheral-blood-biomarkers-and-exosomes-in-mdd]]: Biopsia liquida, biomarcatori trascrittomici periferici ed esosomi cerebrali circolanti.
-- [[treatment-outcome-and-relapse-prediction]]: Predizione dell'esito clinico e della risposta ai trattamenti in salute mentale.
-- [[rischio-suicidario-ai-limits]]: Limiti clinici ed etici dei modelli linguistici nella rilevazione dell'ideazione suicidaria.
-- [[ai-clinical-decision-support]]: Sistemi di supporto alle decisioni cliniche in psichiatria e psicoterapia.
+- [multi-omics-depression-suicide](../concetti/multi-omics-depression-suicide.md): Integrazione di genomica, trascrittomica, epigenomica e proteomica nel MDD e nel rischio suicidario.
+- [non-coding-rna-biomarkers-psychiatry](../concetti/non-coding-rna-biomarkers-psychiatry.md): Il ruolo regolatorio di miRNA, lncRNA, circRNA, snoRNA e piRNA nei disturbi dell'umore.
+- [single-cell-and-spatial-transcriptomics-in-mental-health](../concetti/single-cell-and-spatial-transcriptomics-in-mental-health.md): Deconvoluzione cellulare cerebrale (snRNA-seq, ST, DBiT-seq) e dimorfismo sessuale.
+- [ai-multi-omics-psychiatric-biomarkers](../concetti/ai-multi-omics-psychiatric-biomarkers.md): Algoritmi di Machine Learning e Deep Learning applicati a dati omici e clinici multimodali.
+- [peripheral-blood-biomarkers-and-exosomes-in-mdd](../concetti/peripheral-blood-biomarkers-and-exosomes-in-mdd.md): Biopsia liquida, biomarcatori trascrittomici periferici ed esosomi cerebrali circolanti.
+- [treatment-outcome-and-relapse-prediction](../concetti/treatment-outcome-and-relapse-prediction.md): Predizione dell'esito clinico e della risposta ai trattamenti in salute mentale.
+- [rischio-suicidario-ai-limits](../concetti/rischio-suicidario-ai-limits.md): Limiti clinici ed etici dei modelli linguistici nella rilevazione dell'ideazione suicidaria.
+- [ai-clinical-decision-support](../concetti/ai-clinical-decision-support.md): Sistemi di supporto alle decisioni cliniche in psichiatria e psicoterapia.
+

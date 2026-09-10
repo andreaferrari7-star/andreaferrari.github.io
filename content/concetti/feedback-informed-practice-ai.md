@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Feedback-Informed Practice Potenziata da IA
 
 **Summary**: Integrazione di strumenti di Elaborazione del Linguaggio Naturale (NLP) e modelli linguistici nell'approccio clinico basato sul feedback continuo e sulla pratica deliberata (Deliberate Practice), finalizzata al monitoraggio dell'alleanza terapeutica e alla prevenzione del drop-out.
@@ -35,8 +39,11 @@ graph TD
 ---
 
 ## Pagine Correlate
-- [[modello-centauro-clinico]]
-- [[rag-in-psicoterapia]]
-- [[supervisione-clinica-ai]]
-- [[clinical-fidelity-assessment]]
-- [[digital-therapeutic-alliance]]
+- [modello-centauro-clinico](concetti/concetti\modello-centauro-clinico.md)
+- [rag-in-psicoterapia](rag-in-psicoterapia.md)
+- [supervisione-clinica-ai](supervisione-clinica-ai.md)
+- [clinical-fidelity-assessment](../clinical-fidelity-assessment.md)
+- [digital-therapeutic-alliance](../digital-therapeutic-alliance.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

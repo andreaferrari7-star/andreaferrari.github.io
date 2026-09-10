@@ -18,4 +18,5 @@ source_papers: ["report_bias_llm_psicoterapia.pdf"]
 - Xie, Z., et al. (2026). Ethical issues in multi-agent AI systems for healthcare, a narrative review. *Frontiers in Public Health*, 14, Articolo 1792627.
 
 ## Relazioni
-- Vedi anche: [[report-bias-llm-psicoterapia]], [[stealth-sycophancy]], [[simulated-empathy-vs-authentic-presence]], [[modello-centauro-clinico]]
+- Vedi anche: [report-bias-llm-psicoterapia](report-bias-llm-psicoterapia.md), [stealth-sycophancy](stealth-sycophancy.md), [simulated-empathy-vs-authentic-presence](concetti/concetti/concetti\simulated-empathy-vs-authentic-presence.md), [modello-centauro-clinico](concetti/concetti/concetti\modello-centauro-clinico.md)
+

@@ -110,13 +110,14 @@ L'analisi di Olisaeloka et al. (2026) individua i pattern tecnici ed operativi c
 ---
 
 ## Relazioni
-- [[generative-ai-mental-health-chatbot-interventions]]: Scoping review di Olisaeloka et al. (2026) su UX e safety nei chatbot di salute mentale.
-- [[layered-safeguards-in-clinical-ai]]: Architettura di salvaguardie multilivello per garantire la sicurezza clinica.
-- [[clinical-readiness-gap-in-mh-chatbots]]: Il divario tra scorrevolezza computazionale e prontezza clinico-regolatoria.
-- [[emotional-infrastructure]]: L'IA come infrastruttura affettiva e il rischio di dipendenza da stampella digitale.
-- [[artificial-intimacy]]: Dinamiche di attaccamento parasociale e illusione di intimità artificiale con i chatbot.
-- [[simulated-empathy-vs-authentic-presence]]: Divario tra mimica empatica algoritmica e autentica presenza terapeutica umana.
-- [[calibrated-mismatches]]: Importanza delle micro-rotture e dell'attrito relazionale rispetto alla compiacenza continua.
-- [[stepped-care-ai-integration]]: Integrazione di chatbot e strumenti digitali all'interno di sistemi sanitari a gradini.
-- [[between-session-continuity-ai]]: Continuità terapeutica e supporto agli homeworks tra una seduta clinica e l'altra.
-- [[modello-centauro-clinico]]: Cooperazione integrata tra terapeuta umano e strumenti di intelligenza artificiale.
+- [generative-ai-mental-health-chatbot-interventions](generative-ai-mental-health-chatbot-interventions.md): Scoping review di Olisaeloka et al. (2026) su UX e safety nei chatbot di salute mentale.
+- [layered-safeguards-in-clinical-ai](concetti/concetti/concetti\layered-safeguards-in-clinical-ai.md): Architettura di salvaguardie multilivello per garantire la sicurezza clinica.
+- [clinical-readiness-gap-in-mh-chatbots](concetti/concetti/concetti\clinical-readiness-gap-in-mh-chatbots.md): Il divario tra scorrevolezza computazionale e prontezza clinico-regolatoria.
+- [emotional-infrastructure](emotional-infrastructure.md): L'IA come infrastruttura affettiva e il rischio di dipendenza da stampella digitale.
+- [artificial-intimacy](artificial-intimacy.md): Dinamiche di attaccamento parasociale e illusione di intimità artificiale con i chatbot.
+- [simulated-empathy-vs-authentic-presence](concetti/concetti/concetti\simulated-empathy-vs-authentic-presence.md): Divario tra mimica empatica algoritmica e autentica presenza terapeutica umana.
+- [calibrated-mismatches](concetti/concetti/concetti\calibrated-mismatches.md): Importanza delle micro-rotture e dell'attrito relazionale rispetto alla compiacenza continua.
+- [stepped-care-ai-integration](concetti/stepped-care-ai-integration.md): Integrazione di chatbot e strumenti digitali all'interno di sistemi sanitari a gradini.
+- [between-session-continuity-ai](concetti/between-session-continuity-ai.md): Continuità terapeutica e supporto agli homeworks tra una seduta clinica e l'altra.
+- [modello-centauro-clinico](concetti/concetti/concetti\modello-centauro-clinico.md): Cooperazione integrata tra terapeuta umano e strumenti di intelligenza artificiale.
+

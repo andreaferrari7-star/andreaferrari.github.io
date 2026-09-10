@@ -5,14 +5,14 @@ source_papers: ["AI Generativa in Psicoterapia.docx"]
 
 # L'Intelligenza Artificiale Generativa come Clinical Decision Support System in Psicoterapia: Un'Analisi Integrata su Ragionamento Clinico, Bias Cognitivi e Protocolli Human-in-the-Loop
 
-**Summary**: Sintesi integrata e approfondita sull'impiego dell'Intelligenza Artificiale Generativa (GenAI) e dei Large Language Models (LLM) come Clinical Decision Support System (CDSS) in psicoterapia e psichiatria. Il documento esamina il passaggio dai vecchi modelli discriminativi all'elaborazione basata su architettura Transformer, analizzando l'efficacia diagnostica e i limiti nella concettualizzazione del caso (evidenze dello studio LIBET di Buattini et al., 2026). Viene esplorato in dettaglio il rischio sistemico di [[automation-bias-clinical-reasoning]] e il "paradosso dell'esperienza" isolato nel trial randomizzato di Qazi et al. (2025), in cui clinici esperti subiscono un grave degrado del ragionamento per cognitive offloading. Vengono infine delineati i protocolli operativi di mitigazione: l'approccio [[human-in-the-reasoning]], le architetture [[hybrid-neuro-symbolic-cdss]] con Constraint Logic Programming (Kim, 2025), il framework di sicurezza [[mind-safe-framework]], la griglia di validazione pre-deployment [[readi-framework]] (Stade et al., 2025), le direttive istituzionali APA (2024-2026) e l'adozione dell'IA come [[antagonista-cognitivo-sparring-partner]].
+**Summary**: Sintesi integrata e approfondita sull'impiego dell'Intelligenza Artificiale Generativa (GenAI) e dei Large Language Models (LLM) come Clinical Decision Support System (CDSS) in psicoterapia e psichiatria. Il documento esamina il passaggio dai vecchi modelli discriminativi all'elaborazione basata su architettura Transformer, analizzando l'efficacia diagnostica e i limiti nella concettualizzazione del caso (evidenze dello studio LIBET di Buattini et al., 2026). Viene esplorato in dettaglio il rischio sistemico di [automation-bias-clinical-reasoning](../concetti/automation-bias-clinical-reasoning.md) e il "paradosso dell'esperienza" isolato nel trial randomizzato di Qazi et al. (2025), in cui clinici esperti subiscono un grave degrado del ragionamento per cognitive offloading. Vengono infine delineati i protocolli operativi di mitigazione: l'approccio [human-in-the-reasoning](../human-in-the-reasoning.md), le architetture [hybrid-neuro-symbolic-cdss](../concetti/hybrid-neuro-symbolic-cdss.md) con Constraint Logic Programming (Kim, 2025), il framework di sicurezza [mind-safe-framework](../concetti/mind-safe-framework.md), la griglia di validazione pre-deployment [readi-framework](../concetti/readi-framework.md) (Stade et al., 2025), le direttive istituzionali APA (2024-2026) e l'adozione dell'IA come [antagonista-cognitivo-sparring-partner](../concetti/antagonista-cognitivo-sparring-partner.md).
 **Sources**: `AI Generativa in Psicoterapia.docx`
 **Last updated**: 2026-08-27
 ---
 
 ## 1. Epistemologia della Trasformazione Tecnologica: Dai Modelli Discriminativi ai CDSS Generativi
 
-L'integrazione dell'Intelligenza Artificiale Generativa (GenAI) e dei Large Language Models ([[large-language-models]]) nei percorsi di cura della salute mentale segna un profondo cambiamento epistemologico:
+L'integrazione dell'Intelligenza Artificiale Generativa (GenAI) e dei Large Language Models ([large-language-models](../large-language-models.md)) nei percorsi di cura della salute mentale segna un profondo cambiamento epistemologico:
 - **Modelli Tradizionali Discriminativi**: Sistemi di classificazione binaria o categoriale basati su rigida ingegnerizzazione manuale di feature (*feature engineering*), in grado di fornire unicamente stime probabilistiche isolate (es. percentuale di probabilità di un episodio depressivo maggiore), strutturalmente incapaci di comprendere la narrazione, la complessità relazionale e le sfumature idiosincratiche del paziente.
 - **Modelli Generativi basati su Transformer**: L'architettura Transformer sfrutta meccanismi di auto-attenzione (*self-attention*) che calcolano le interazioni a coppie tra i token linguistici, pesando l'importanza di ciascuna parola o costrutto in relazione all'intero contesto dialogico ed esperienziale.
 - **Nuovo Ruolo del CDSS**: Il CDSS non si limita ad estrarre o categorizzare dati, ma opera come un vero e proprio "specchio cognitivo" e "alter-ego analitico", sintetizzando cartelle cliniche, supportando il ragionamento differenziale e stimolando la formulazione di ipotesi cliniche.
@@ -59,7 +59,7 @@ end
 - **Prestazioni su Scenari Lineari**: Su vignette cliniche controllate e quadri nosografici standardizzati (ansia, depressione maggiore, disturbo ossessivo-compulsivo, spettro schizofrenico), modelli come ChatGPT e Claude mostrano elevata sensibilità, con punteggi F1 compresi tra 0.5 e 0.9, riducendo il rischio di chiusura prematura del giudizio clinico (*premature closure*).
 - **Decadimento su Comorbilità e Casi Atipici**: Di fronte a comorbilità stratificate o quadri neuro-atipici (es. insonnia cronica in spettro autistico/ADHD), i modelli generano deduzioni fuorvianti o raccomandazioni terapeutiche ambigue.
 - **Fragilità Critiche nel Rischio e nella Prognosi**:
-  - *Sottostima del Rischio Suicidario*: Tendenza sistematica a non cogliere i micro-segnali narrativi di crisi acuta e ideazione suicidaria ([[rischio-suicidario-ai-limits]]).
+  - *Sottostima del Rischio Suicidario*: Tendenza sistematica a non cogliere i micro-segnali narrativi di crisi acuta e ideazione suicidaria ([rischio-suicidario-ai-limits](../concetti/rischio-suicidario-ai-limits.md)).
   - *Pessimismo Prognostico*: Propensione a formulare proiezioni eccessivamente infauste che, se non filtrate, comprometterebbero l'alleanza terapeutica e la motivazione del paziente.
 - **Tecniche di Ottimizzazione**:
   - *Chain-of-Thought (CoT)*: Forzare l'algoritmo a esplicitare il ragionamento diagnostico passo dopo passo, argomentando evidenze a favore e contro ciascuna ipotesi, stimolando domande esplorative anziché verdetti aprioristici.
@@ -84,7 +84,7 @@ Mentre la diagnosi categoriale risponde a *"cosa ha il paziente?"*, la concettua
 
 ## 3. Impatto sui Bias Cognitivi del Clinico: Automation Bias e Paradosso dell'Esperienza
 
-I clinici sono naturalmente soggetti a fallacie cognitive umane (bias di ancoraggio, bias di conferma, *base-rate neglect*). Sebbene la GenAI sia stata introdotta per controbilanciare tali euristiche, la sua interazione con il clinico innesca una nuova e insidiosa minaccia: l'**[[automation-bias-clinical-reasoning]]**.
+I clinici sono naturalmente soggetti a fallacie cognitive umane (bias di ancoraggio, bias di conferma, *base-rate neglect*). Sebbene la GenAI sia stata introdotta per controbilanciare tali euristiche, la sua interazione con il clinico innesca una nuova e insidiosa minaccia: l'**[automation-bias-clinical-reasoning](../concetti/automation-bias-clinical-reasoning.md)**.
 
 ```mermaid
 flowchart TD
@@ -223,16 +223,19 @@ Per contrastare il disimpegno cognitivo e il deskilling:
 ---
 
 ## Related Pages
-- [[automation-bias-clinical-reasoning]]
-- [[readi-framework]]
-- [[hybrid-neuro-symbolic-cdss]]
-- [[mind-safe-framework]]
-- [[barriere-astrazione-concettualizzazione-caso]]
-- [[antagonista-cognitivo-sparring-partner]]
-- [[ai-clinical-decision-support]]
-- [[human-in-the-reasoning]]
-- [[libet-prime]]
-- [[rischio-suicidario-ai-limits]]
-- [[etica-privacy-bias-ia-clinica]]
-- [[sycophantic-mirroring]]
-- [[large-language-models]]
+- [automation-bias-clinical-reasoning](../concetti/automation-bias-clinical-reasoning.md)
+- [readi-framework](../concetti/readi-framework.md)
+- [hybrid-neuro-symbolic-cdss](../concetti/hybrid-neuro-symbolic-cdss.md)
+- [mind-safe-framework](../concetti/mind-safe-framework.md)
+- [barriere-astrazione-concettualizzazione-caso](../concetti/barriere-astrazione-concettualizzazione-caso.md)
+- [antagonista-cognitivo-sparring-partner](../concetti/antagonista-cognitivo-sparring-partner.md)
+- [ai-clinical-decision-support](../concetti/ai-clinical-decision-support.md)
+- [human-in-the-reasoning](../human-in-the-reasoning.md)
+- [libet-prime](../concetti/concetti/concetti\libet-prime.md)
+- [rischio-suicidario-ai-limits](../concetti/rischio-suicidario-ai-limits.md)
+- [etica-privacy-bias-ia-clinica](../concetti/etica-privacy-bias-ia-clinica.md)
+- [sycophantic-mirroring](../concetti/concetti/concetti\sycophantic-mirroring.md)
+- [large-language-models](../large-language-models.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

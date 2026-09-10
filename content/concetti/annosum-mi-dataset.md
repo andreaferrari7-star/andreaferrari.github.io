@@ -71,9 +71,12 @@ L'applicazione dell'IA alla salute mentale soffre di una cronica scarsità di da
 ---
 
 ## Relazioni
-- [[miti-framework-llm-evaluation]]: Lo schema di codifica a 6 dimensioni impiegato in AnnoSUM-MI.
-- [[motivational-interviewing-dialogue-summarization]]: Applicazione del dataset per compiti di NLP clinico.
-- [[semantic-drift-in-therapy-llms]]: Quantificazione della deviazione semantica misurata sul test set di AnnoSUM-MI.
-- [[synthetic-clinical-dialogues]]: Confronto tra dialoghi clinici reali trascritti e dialoghi clinici sintetici.
-- [[specialized-nlp-models-mental-health]]: Utilizzo di dataset specialistici per il fine-tuning e la valutazione.
-- [[kumar-et-al-2025]]: Paper fondativo che rilascia e descrive il dataset.
+- [miti-framework-llm-evaluation](miti-framework-llm-evaluation.md): Lo schema di codifica a 6 dimensioni impiegato in AnnoSUM-MI.
+- [motivational-interviewing-dialogue-summarization](motivational-interviewing-dialogue-summarization.md): Applicazione del dataset per compiti di NLP clinico.
+- [semantic-drift-in-therapy-llms](semantic-drift-in-therapy-llms.md): Quantificazione della deviazione semantica misurata sul test set di AnnoSUM-MI.
+- [synthetic-clinical-dialogues](synthetic-clinical-dialogues.md): Confronto tra dialoghi clinici reali trascritti e dialoghi clinici sintetici.
+- [specialized-nlp-models-mental-health](specialized-nlp-models-mental-health.md): Utilizzo di dataset specialistici per il fine-tuning e la valutazione.
+- [kumar-et-al-2025](../sintesi/kumar-et-al-2025.md): Paper fondativo che rilascia e descrive il dataset.
+
+## Riferimenti Bibliografici
+- [Da integrare]

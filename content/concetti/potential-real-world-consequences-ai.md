@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Conseguenze Reali e Danni nel Mondo Reale nell'IA Psicoterapeutica (Potential Real-World Consequences)
 
 **Summary**: Tassonomia degli esiti avversi osservabili, tangibili e misurabili che possono manifestarsi nella vita di un paziente a seguito di un'interazione terapeutica inadeguata o iatrogena con un'IA, suddivisi in Danni Comportamentali, Cognitivo-Affettivi e Relazionali.
@@ -9,7 +13,7 @@
 
 All'interno dell'ontologia del rischio (Steenstra & Bickmore, 2025), le **Conseguenze Reali Potenziali (*Potential Real-World Consequences*)** rappresentano i deterioramenti oggettivi, gli eventi avversi e i danni effettivi che si verificano nella vita dell'utente all'esterno della seduta.
 
-Queste conseguenze fungono da **variabili dipendenti primarie** per misurare l'efficacia clinica e la sicurezza a lungo termine di un agente psicoterapeutico artificiale. Ogni conseguenza è modellata come **funzionalmente e causalmente legata al deterioramento di specifici [[in-session-warning-signs|Segnali di Allarme in Sessione]]**.
+Queste conseguenze fungono da **variabili dipendenti primarie** per misurare l'efficacia clinica e la sicurezza a lungo termine di un agente psicoterapeutico artificiale. Ogni conseguenza è modellata come **funzionalmente e causalmente legata al deterioramento di specifici [Segnali di Allarme in Sessione](concetti/concetti\in-session-warning-signs.md)**.
 
 ```mermaid
 graph LR
@@ -73,10 +77,13 @@ L'ontologia, allineata ai criteri DSM-5 e ai questionari NEQ (*Negative Effects 
 ---
 
 ## Pagine Correlate
-- [[risk-ontology-ai-psychotherapy]]
-- [[in-session-warning-signs]]
-- [[acute-crisis-action-plans-ai]]
-- [[simpatient-evaluation-testbed]]
-- [[rischio-suicidario-ai-limits]]
-- [[three-layer-governance-framework]]
-- [[steenstra-bickmore-2025]]
+- [risk-ontology-ai-psychotherapy](concetti/concetti\risk-ontology-ai-psychotherapy.md)
+- [in-session-warning-signs](concetti/concetti\in-session-warning-signs.md)
+- [acute-crisis-action-plans-ai](acute-crisis-action-plans-ai.md)
+- [simpatient-evaluation-testbed](simpatient-evaluation-testbed.md)
+- [rischio-suicidario-ai-limits](rischio-suicidario-ai-limits.md)
+- [three-layer-governance-framework](concetti/concetti\three-layer-governance-framework.md)
+- [steenstra-bickmore-2025](../sintesi/steenstra-bickmore-2025.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

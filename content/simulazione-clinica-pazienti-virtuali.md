@@ -26,5 +26,6 @@ source_papers: ["2607.25667v1.pdf", "2601.10970v2.pdf", "2510.25384v1.pdf", "250
 
 ## Relazioni
 
-- Vedi anche: [[patient-psi-simulazione-clinica]], [[multi-party-interaction-simulation]], [[synthetic-clinical-dialogues]], [[trainer-simulator]], [[sqpsych-framework]]
+- Vedi anche: [patient-psi-simulazione-clinica](patient-psi-simulazione-clinica.md), [multi-party-interaction-simulation](multi-party-interaction-simulation.md), [synthetic-clinical-dialogues](concetti/synthetic-clinical-dialogues.md), [trainer-simulator](trainer-simulator.md), [sqpsych-framework](sqpsych-framework.md)
+
 

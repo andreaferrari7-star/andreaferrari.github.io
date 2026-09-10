@@ -8,8 +8,8 @@ source_papers: ["ijerph-22-01382.pdf"]
 ## Definizione Operativa
 - La **Sostenibilità Multidimensionale dell'IA nella Salute Mentale** (*Multidimensional AI Sustainability Framework*) è il modello teorico e operativo formalizzato da **Espino Carrasco et al. (2025)** per valutare, progettare e implementare interventi basati su intelligenza artificiale capaci di garantire efficacia clinica, equità distributiva, integrità etica e longevità ecologico-economica nel lungo periodo.
 - **Superamento del Riduzionismo Tecnico ed Economico:** Il framework rifiuta la concezione tradizionale che riduce la sostenibilità alla sola fattibilità finanziaria (*cost-effectiveness*) o alla stabilità del software. L'IA in salute mentale è sostenibile solo quando realizza un equilibrio sistemico tra quattro dimensioni interconnesse:
-  1. **Dimensione Etico-Deontologica:** Tutela rafforzata dei dati mentali ipersensibili, consenso dinamico orientato all'[[digital-autonomy|autonomia digitale]] e mantenimento della supervisione umana (*human-in-the-loop*) per proteggere l'alleanza terapeutica e la responsabilità medico-legale.
-  2. **Dimensione di Personalizzazione Privacy-Preserving:** Superamento del conflitto tra accuratezza personalizzata e confidenzialità tramite paradigmi decentralizzati quali l'[[federated-learning-and-differential-privacy-mental-health|apprendimento federato (Federated Learning)]], architetture *privacy-by-design* e co-progettazione incentrata sul paziente.
+  1. **Dimensione Etico-Deontologica:** Tutela rafforzata dei dati mentali ipersensibili, consenso dinamico orientato all'[autonomia digitale](digital-autonomy.md) e mantenimento della supervisione umana (*human-in-the-loop*) per proteggere l'alleanza terapeutica e la responsabilità medico-legale.
+  2. **Dimensione di Personalizzazione Privacy-Preserving:** Superamento del conflitto tra accuratezza personalizzata e confidenzialità tramite paradigmi decentralizzati quali l'[apprendimento federato (Federated Learning)](federated-learning-and-differential-privacy-mental-health.md), architetture *privacy-by-design* e co-progettazione incentrata sul paziente.
   3. **Dimensione di Mitigazione dei Rischi e De-Biasing Culturale:** Riconoscimento del bias algoritmico non come mero errore di campionamento matematico, ma come discrepanza socio-culturale da correggere tramite audit di equità contestuali e validazione clinica continua contro il rischio di misdiagnosis.
   4. **Dimensione di Scalabilità Globale e Allocazione Risorse:** Sviluppo di modelli computazionalmente efficienti (green/edge computing), integrazione nei flussi clinici esistenti e adozione di strategie di *task-shifting* per colmare le gravi carenze di specialisti nei paesi a basse e medie risorse (LMIC).
 - **Utilità Clinica e CBT:** Offre ai clinici e ai progettisti di sistemi sanitari una bussola per implementare strumenti di supporto diagnostico e terapeutico (come diari CBT automatizzati, agenti di psicoeducazione o screening predittivo) che non causino sovraccarico cognitivo, disaffezione (*digital dropout*), iatrogenesi o alienazione relazionale.
@@ -78,7 +78,7 @@ flowchart TD
 - **Il Modello di Task-Shifting Supportato dall'IA:**
   - L'IA non opera isolata, ma supporta operatori sanitari di comunità, infermieri ed educatori (*task-sharing / task-shifting*; McInnis & Merajver, 2011; Campion et al., 2022);
   - Fornisce strumenti decisionali semplificati e protocolli di triage rapido;
-  - Si interfaccia con interventi a larga scala come l'[[ai-enhanced-psychological-first-aid|AI-Enhanced Psychological First Aid (PFA)]], garantendo interventi tempestivi e sostenibili post-catastrofe o in crisi umanitarie.
+  - Si interfaccia con interventi a larga scala come l'[AI-Enhanced Psychological First Aid (PFA)](concetti/concetti\ai-enhanced-psychological-first-aid.md), garantendo interventi tempestivi e sostenibili post-catastrofe o in crisi umanitarie.
 
 ---
 
@@ -105,5 +105,7 @@ flowchart TD
 ---
 
 ## Relazioni
-- Documento sorgente: [[ijerph-22-01382]]
-- Concetti correlati: [[ai-enhanced-psychological-first-aid]], [[federated-learning-and-differential-privacy-mental-health]], [[algorithmic-bias-and-digital-inequalities]], [[consenso-dinamico-e-governance-dati-ia]], [[tiered-human-ai-healing-ecosystem]], [[power-safety-paradox]], [[human-in-the-reasoning]]
+- Documento sorgente: [ijerph-22-01382](../ijerph-22-01382.md)
+- Concetti correlati: [ai-enhanced-psychological-first-aid](concetti/concetti\ai-enhanced-psychological-first-aid.md), [federated-learning-and-differential-privacy-mental-health](federated-learning-and-differential-privacy-mental-health.md), [algorithmic-bias-and-digital-inequalities](algorithmic-bias-and-digital-inequalities.md), [consenso-dinamico-e-governance-dati-ia](consenso-dinamico-e-governance-dati-ia.md), [tiered-human-ai-healing-ecosystem](tiered-human-ai-healing-ecosystem.md), [power-safety-paradox](power-safety-paradox.md), [human-in-the-reasoning](human-in-the-reasoning.md)
+
+

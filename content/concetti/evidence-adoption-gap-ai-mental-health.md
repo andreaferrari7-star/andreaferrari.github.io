@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Evidence–Adoption Gap e Salvaguardie Cliniche nell'IA in Salute Mentale
 
 **Summary**: Analisi del divario critico tra la rapida adozione su larga scala di chatbot generalisti da parte del pubblico e la carenza di studi clinici controllati a lungo termine (RCT con comparatori attivi umani), e quadro delle raccomandazioni e salvaguardie provvisorie per clinici, enti regolatori e organizzazioni sanitarie.
@@ -39,7 +43,7 @@ Cavalera et al. (2026) identificano 7 direttrici prioritarie per la ricerca clin
 2. **Follow-up a Lungo Termine (>8–12 Settimane)**: Valutare la tenuta dei risultati sintomatici, l'insorgenza di dipendenza comportamentale ed effetti iatrogeni a distanza.
 3. **Endpoint Focalizzati sul Danno (*Harm-Focused Endpoints*)**: Misurare sistematicamente il rinforzo di deliri, stati maniacali, mancata gestione del rischio suicidario ed erosione della ricerca di aiuto umano.
 4. **Analisi di Eterogeneità degli Effetti (*Heterogeneity-of-Treatment-Effect*)**: Identificare con precisione quali profili clinici beneficiano dell'IA (sintomi lievi-moderati, psicoeducazione) e quali rischiano un danno (spettro psicotico, solitudine estrema, minori).
-5. **Studi di Processo**: Misurare l'evoluzione dell'alleanza terapeutica, dell'autonomia e l'impatto dell'assenza di [[calibrated-mismatches|calibrated mismatches]].
+5. **Studi di Processo**: Misurare l'evoluzione dell'alleanza terapeutica, dell'autonomia e l'impatto dell'assenza di [calibrated mismatches](concetti/concetti\calibrated-mismatches.md).
 6. **Validazione Esterna Indipendente**: Verificare i modelli prognostici e diagnostici su diverse culture, lingue e contesti clinici reali.
 7. **Sorveglianza Post-Market**: Raccogliere dati di utilizzo nel mondo reale (*real-world evidence*) oltre i contesti sperimentali ideali.
 
@@ -60,11 +64,14 @@ In attesa di evidenze consolidate, clinici e organizzazioni sanitarie devono ado
 ---
 
 ## Pagine Correlate
-- [[cavalera-et-al-2026]]
-- [[three-layer-governance-framework]]
-- [[calibrated-mismatches]]
-- [[sycophantic-mirroring]]
-- [[fast-food-psychotherapy]]
-- [[criminal-disclosures-and-reporting-in-ai]]
-- [[stepped-care-ai-integration]]
-- [[ai-assisted-psychotherapy]]
+- [cavalera-et-al-2026](../sintesi/cavalera-et-al-2026.md)
+- [three-layer-governance-framework](concetti/concetti\three-layer-governance-framework.md)
+- [calibrated-mismatches](concetti/concetti\calibrated-mismatches.md)
+- [sycophantic-mirroring](concetti/concetti\sycophantic-mirroring.md)
+- [fast-food-psychotherapy](fast-food-psychotherapy.md)
+- [criminal-disclosures-and-reporting-in-ai](criminal-disclosures-and-reporting-in-ai.md)
+- [stepped-care-ai-integration](stepped-care-ai-integration.md)
+- [ai-assisted-psychotherapy](../ai-assisted-psychotherapy.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

@@ -8,7 +8,7 @@ source_papers: ["Ricerca Prompting LLM Clinico Sanitario.pdf"]
 ## Definizione Operativa
 Il **Paradosso del Chain-of-Thought Clinico** (*Clinical CoT Paradox*) definisce il fenomeno controintuitivo ed empiricamente validato in base al quale l'applicazione di catene logiche di deduzione sequenziale (*Chain-of-Thought* - CoT) a testi medici ed elettronici reali (cartelle cliniche elettroniche - EHR) determina un **degradamento sistematico dell'accuratezza diagnostica e dell'affidabilità clinica** rispetto a una configurazione di inferenza diretta *zero-shot* (Wu et al., 2025).
 
-*   **Inversione del Paradigma Computazionale:** Mentre nei domini formali, matematici ed educativi il CoT potenzia drasticamente le performance dei [[large-language-models|LLM]], nel testo clinico non strutturato la generazione di passaggi intermedi liberi innesca un **effetto valanga (*avalanche effect*)** di propagazione e amplificazione degli errori.
+*   **Inversione del Paradigma Computazionale:** Mentre nei domini formali, matematici ed educativi il CoT potenzia drasticamente le performance dei [LLM](concetti/large-language-models.md), nel testo clinico non strutturato la generazione di passaggi intermedi liberi innesca un **effetto valanga (*avalanche effect*)** di propagazione e amplificazione degli errori.
 *   **Entità Empirica del Fenomeno (Wu et al., 2025):** In una valutazione sistematica condotta su **95 modelli linguistici avanzati** testati su **87 task clinici multilingue** estratti da EHR reali, l'**86.3% dei modelli** ha registrato un crollo significativo delle prestazioni quando forzato a generare ragionamenti sequenziali intermedi non vincolati.
 
 ```mermaid
@@ -47,6 +47,8 @@ Per neutralizzare il paradosso, sono stati convalidati framework di confinamento
 - Wei, J., et al. (2022). Chain-of-Thought Prompting Elicits Reasoning in Large Language Models. *NeurIPS 2022*.
 
 ## Relazioni
-- Scheda di sintesi collegata: [[ricerca-prompting-llm-clinico-sanitario]]
-- Standard di reporting collegato: [[tripod-llm-reporting-guideline]]
-- Concetti correlati: [[coast-framework-clinical-prompting]], [[stepwise-cot]], [[accuratezza-vs-fattualita-in-genai]], [[patient-psi-simulazione-clinica]], [[clinical-ai-blueprint]], [[prompt-experiment-gap-in-clinical-ai]], [[korsakoff-confabulazione-llm]]
+- Scheda di sintesi collegata: [ricerca-prompting-llm-clinico-sanitario](ricerca-prompting-llm-clinico-sanitario.md)
+- Standard di reporting collegato: [tripod-llm-reporting-guideline](tripod-llm-reporting-guideline.md)
+- Concetti correlati: [coast-framework-clinical-prompting](concetti/concetti/concetti\coast-framework-clinical-prompting.md), [stepwise-cot](stepwise-cot.md), [accuratezza-vs-fattualita-in-genai](accuratezza-vs-fattualita-in-genai.md), [patient-psi-simulazione-clinica](patient-psi-simulazione-clinica.md), [clinical-ai-blueprint](clinical-ai-blueprint.md), [prompt-experiment-gap-in-clinical-ai](prompt-experiment-gap-in-clinical-ai.md), [korsakoff-confabulazione-llm](korsakoff-confabulazione-llm.md)
+
+

@@ -17,4 +17,5 @@ source_papers: ["s44271-026-00503-x_reference.pdf"]
 - Bentz, D., & Wulff, D. U. (2026). Leveraging large language models to map triggers of contamination-related obsessive-compulsive symptoms. *Communications Psychology*. https://doi.org/10.1038/s44271-026-00503-x
 
 ## Relazioni
-- Vedi anche: [[llm-trigger-mapping]], [[nlp-ehr-ocs-detection]]
+- Vedi anche: [llm-trigger-mapping](concetti/llm-trigger-mapping.md), [nlp-ehr-ocs-detection](concetti/nlp-ehr-ocs-detection.md)
+

@@ -17,4 +17,7 @@ source_papers: ["10.1177_20552076261421688.pdf"]
 - Rezaei, Z., Khorraminia, A., Shi, D., & Banad, Y. M. (2026). Network-based artificial intelligence in mental healthcare: A systematic review of chatbots, artificial intelligence/machine learning models and ethical considerations in global healthcare networks. *DIGITAL HEALTH*, 12, 1–30. https://doi.org/10.1177/20552076261421688
 
 ## Relazioni
-- Vedi anche: [[10-1177-20552076261421688]], [[clinical-nlp-domain-shift]], [[ai-assisted-psychotherapy]], [[digital-therapeutic-alliance]]
+- Vedi anche: [10-1177-20552076261421688](10-1177-20552076261421688.md), [clinical-nlp-domain-shift](clinical-nlp-domain-shift.md), [ai-assisted-psychotherapy](ai-assisted-psychotherapy.md), [digital-therapeutic-alliance](digital-therapeutic-alliance.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

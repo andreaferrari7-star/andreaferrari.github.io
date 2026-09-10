@@ -17,7 +17,7 @@ source_papers:
 # Design Tweaking and Conceptual Replication with LLMs (Riprogettazione Sperimentale e Replicazione Concettuale Assistita da IA)
 
 ## Definizione Operativa
-- Il **Design Tweaking** (variazione controllata del disegno sperimentale) e la **Replicazione Concettuale Assistita da LLM** definiscono un framework metodologico introdotto da Matúš Adamkovič (2025) per sfruttare le capacità generative e divergenti dei modelli linguistici di grandi dimensioni ([[large-language-models]]) nella ricerca psicologica e comportamentale.
+- Il **Design Tweaking** (variazione controllata del disegno sperimentale) e la **Replicazione Concettuale Assistita da LLM** definiscono un framework metodologico introdotto da Matúš Adamkovič (2025) per sfruttare le capacità generative e divergenti dei modelli linguistici di grandi dimensioni ([large-language-models](large-language-models.md)) nella ricerca psicologica e comportamentale.
 - **Finalità Metodologica:** Superare la rigidità dei compiti sperimentali convenzionali attraverso due percorsi complementari:
   1. *Generazione Combinatoria di Vignette:* Produzione sistematica di matrici fattoriali di stimoli testuali (es. disegni $2 \times 3 \times 2 \times 2$) garantendo consistenza lessicale e ortogonalità dei fattori;
   2. *Design Tweaking (Varianti Creative con "Twist"):* Introduzione di modifiche strutturali inedite a paradigmi classici (es. Dilemma del Carrello, Digit Span Task) mediante campionamento ad alta temperatura ($\text{Temp} \ge 1.5 - 5.0$), permettendo di verificare se i fenomeni osservati siano robusti rispetto alle variazioni procedurali (replicazioni concettuali) anziché semplici artefatti metodologici.
@@ -36,13 +36,14 @@ source_papers:
 - **Si, C., Yang, D., & Hashimoto, T. (2024).** Can LLMs generate novel research ideas? A large-scale human study with 100+ NLP researchers. *arXiv preprint*, arXiv:2409.04109.
 
 ## Relazioni
-- [[final-textbook-genaiinpsychologyresearchandtraining]]
-- [[adaptive-learning-in-psychology]]
-- [[prompting-in-psychology]]
-- [[human-in-the-reasoning]]
-- [[pseudoreplication]]
-- [[hypothesis-generation]]
-- [[structured-literature-reviews]]
-- [[validita-psicometrica-llm]]
-- [[ai-research-ethics]]
+- [final-textbook-genaiinpsychologyresearchandtraining](final-textbook-genaiinpsychologyresearchandtraining.md)
+- [adaptive-learning-in-psychology](adaptive-learning-in-psychology.md)
+- [prompting-in-psychology](prompting-in-psychology.md)
+- [human-in-the-reasoning](human-in-the-reasoning.md)
+- [pseudoreplication](pseudoreplication.md)
+- [hypothesis-generation](hypothesis-generation.md)
+- [structured-literature-reviews](structured-literature-reviews.md)
+- [validita-psicometrica-llm](concetti/concetti/concetti\validita-psicometrica-llm.md)
+- [ai-research-ethics](ai-research-ethics.md)
+
 

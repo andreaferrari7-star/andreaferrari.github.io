@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Small Language Models (SLM) On-Device per la Salute Mentale
 
 **Summary**: Paradigma di implementazione clinico-computazionale che sfrutta modelli linguistici compatti (<10 miliardi di parametri, come Gemma-4B o Qwen-4B) eseguiti interamente su hardware locale (*on-device*). Questo approccio garantisce la riservatezza assoluta dei dati psicologici sensibili, riduce la latenza, abbatte i costi infrastrutturali e, se supportato da percorsi di ragionamento strutturati (*structured reasoning paths*), eguaglia o supera le prestazioni di modelli cloud di grandi dimensioni privi di logica terapeutica.
@@ -56,9 +60,9 @@ Gli autori hanno valutato 8 modelli open-source in modalità *zero-shot* (3.430 
 ## Compensare i Limiti dei Piccoli Modelli tramite Architetture di Ragionamento
 
 I modelli compatti (<10B) soffrono intrinsecamente di una minore capacità di inferenza libera a lungo raggio rispetto ai modelli da centinaia di miliardi di parametri. Tuttavia, la ricerca dimostra che:
-1. **La Struttura Supplisce alla Scala**: Guidare un modello da 4B tramite percorsi a passi prefissati ([[therapeutic-reasoning-paths]]) consente di superare nei giudizi di empatia e allineamento terapeutico anche modelli massivi interrogati con prompt generici.
+1. **La Struttura Supplisce alla Scala**: Guidare un modello da 4B tramite percorsi a passi prefissati ([therapeutic-reasoning-paths](therapeutic-reasoning-paths.md)) consente di superare nei giudizi di empatia e allineamento terapeutico anche modelli massivi interrogati con prompt generici.
 2. **Disaccoppiamento del Flusso**: Far generare allo SLM la traccia analitica come passaggio logico intermedio non visibile all'utente previene allucinazioni ed errori di tono.
-3. **Memoria Modulare Separata**: L'uso di un gestore di stato esterno ([[memory-augmented-therapeutic-dialogue]]) libera i parametri del modello dal dover comprimere l'intera cronologia nella finestra di contesto, riducendo drasticamente il degrado prestazionale.
+3. **Memoria Modulare Separata**: L'uso di un gestore di stato esterno ([memory-augmented-therapeutic-dialogue](memory-augmented-therapeutic-dialogue.md)) libera i parametri del modello dal dover comprimere l'intera cronologia nella finestra di contesto, riducendo drasticamente il degrado prestazionale.
 
 ---
 
@@ -72,8 +76,11 @@ I modelli compatti (<10B) soffrono intrinsecamente di una minore capacità di in
 
 ## Concetti Correlati
 
-- [[psycholextherapy-framework]]: Il framework interamente basato su SLM on-device.
-- [[therapeutic-reasoning-paths]]: La metodologia algoritmica che potenzia le capacità degli SLM.
-- [[memory-augmented-therapeutic-dialogue]]: Modulo MemoBase per l'estensione della memoria locale.
-- [[persian-psychotherapy-benchmarks]]: I dataset di validazione per modelli compatti.
-- [[etica-privacy-bias-ia-clinica]]: Normative e principi di governance per i dati sanitari.
+- [psycholextherapy-framework](concetti/concetti\psycholextherapy-framework.md): Il framework interamente basato su SLM on-device.
+- [therapeutic-reasoning-paths](therapeutic-reasoning-paths.md): La metodologia algoritmica che potenzia le capacità degli SLM.
+- [memory-augmented-therapeutic-dialogue](memory-augmented-therapeutic-dialogue.md): Modulo MemoBase per l'estensione della memoria locale.
+- [persian-psychotherapy-benchmarks](persian-psychotherapy-benchmarks.md): I dataset di validazione per modelli compatti.
+- [etica-privacy-bias-ia-clinica](etica-privacy-bias-ia-clinica.md): Normative e principi di governance per i dati sanitari.
+
+## Riferimenti Bibliografici
+- [Da integrare]

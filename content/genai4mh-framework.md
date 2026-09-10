@@ -131,4 +131,7 @@ flowchart TD
 ---
 
 ## Relazioni
-- Vedi anche: [[mental-v12i1e70610]], [[mi-claim-gen-checklist]], [[elevate-genai-framework]], [[chart-reporting-guideline]], [[gamer-reporting-guideline]], [[layered-safeguards-in-clinical-ai]], [[modello-centauro-clinico]], [[cultural-adaptation-in-mental-health-llms]], [[single-task-zero-shot-evaluation-trap]], [[clinician-user-evaluation-discrepancy]], [[lightweight-domain-models-in-mental-health]], [[mental-privacy-in-clinical-ai]], [[algorithmic-paternalism-in-ai-mental-health]]
+- Vedi anche: [mental-v12i1e70610](mental-v12i1e70610.md), [mi-claim-gen-checklist](mi-claim-gen-checklist.md), [elevate-genai-framework](elevate-genai-framework.md), [chart-reporting-guideline](chart-reporting-guideline.md), [gamer-reporting-guideline](gamer-reporting-guideline.md), [layered-safeguards-in-clinical-ai](concetti/concetti/concetti\layered-safeguards-in-clinical-ai.md), [modello-centauro-clinico](concetti/concetti/concetti\modello-centauro-clinico.md), [cultural-adaptation-in-mental-health-llms](cultural-adaptation-in-mental-health-llms.md), [single-task-zero-shot-evaluation-trap](single-task-zero-shot-evaluation-trap.md), [clinician-user-evaluation-discrepancy](clinician-user-evaluation-discrepancy.md), [lightweight-domain-models-in-mental-health](lightweight-domain-models-in-mental-health.md), [mental-privacy-in-clinical-ai](mental-privacy-in-clinical-ai.md), [algorithmic-paternalism-in-ai-mental-health](concetti/concetti/concetti\algorithmic-paternalism-in-ai-mental-health.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

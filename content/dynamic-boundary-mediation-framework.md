@@ -41,7 +41,7 @@ Il framework organizza le affordance dei sistemi LLM attorno a tre assi funziona
    - *Obiettivo:* Ridurre le asimmetrie conoscitive e colmare il divario epistemico tra la conoscenza clinico-istituzionale del terapeuta e la conoscenza situata/vissuta del paziente.
    - *Meccanismi Chiave:*
      - *Traduzione dell'esperienza soggettiva:* Formalizzazione del disagio psicologico in costrutti clinici interpretabili senza snaturare l'autenticità del vissuto (Prescreening).
-     - *Abbattimento dell'[[educator-burden-marginalized-clients|Educator Burden]]:* Fornitura proattiva al terapeuta di nozioni identitarie e contesti subculturali rilevanti, evitando che il paziente debba impiegare tempo ed energie a "istruire" il professionista durante la seduta.
+     - *Abbattimento dell'[Educator Burden](concetti/educator-burden-marginalized-clients.md):* Fornitura proattiva al terapeuta di nozioni identitarie e contesti subculturali rilevanti, evitando che il paziente debba impiegare tempo ed energie a "istruire" il professionista durante la seduta.
 2. **Mediazione Relazionale (*Relational Mediation*):**
    - *Obiettivo:* Ribilanciare le asimmetrie di potere, promuovere la sicurezza psicologica e offrire uno spazio intermedio a basso rischio per regolare il ritmo dell'autosvelamento.
    - *Meccanismi Chiave:*
@@ -110,5 +110,7 @@ sequenceDiagram
 - Meyer, I. H. (2003). Prejudice, social stress, and mental health in lesbian, gay, and bisexual populations: Conceptual issues and research evidence. *Psychological Bulletin*, 129(5), 674–697.
 
 ## Relazioni
-- Vedi anche: [[2512-22462v1]], [[boundary-objects-in-psychotherapy]], [[educator-burden-marginalized-clients]], [[negotiable-data-visibility-privacy]], [[contextualized-relational-memory]], [[between-session-continuity-ai]], [[interazione-triadica-terapeuta-paziente-ia]], [[ai-mental-health-vulnerable-populations]], [[simulated-empathy-vs-authentic-presence]], [[genuineness-gap]], [[weird-bias-cultural-adaptability-ai]]
+- Vedi anche: [2512-22462v1](2512-22462v1.md), [boundary-objects-in-psychotherapy](boundary-objects-in-psychotherapy.md), [educator-burden-marginalized-clients](concetti/educator-burden-marginalized-clients.md), [negotiable-data-visibility-privacy](concetti/negotiable-data-visibility-privacy.md), [contextualized-relational-memory](concetti/contextualized-relational-memory.md), [between-session-continuity-ai](concetti/between-session-continuity-ai.md), [interazione-triadica-terapeuta-paziente-ia](concetti/interazione-triadica-terapeuta-paziente-ia.md), [ai-mental-health-vulnerable-populations](concetti/ai-mental-health-vulnerable-populations.md), [simulated-empathy-vs-authentic-presence](concetti/concetti/concetti\simulated-empathy-vs-authentic-presence.md), [genuineness-gap](genuineness-gap.md), [weird-bias-cultural-adaptability-ai](concetti/weird-bias-cultural-adaptability-ai.md)
 
+## Riferimenti Bibliografici
+- [Da integrare]

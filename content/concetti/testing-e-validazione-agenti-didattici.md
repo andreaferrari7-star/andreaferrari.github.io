@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Testing e Validazione di Agenti Didattici
 
 **Summary**: Metodologia, protocolli operativi e criteri qualitativi per la sperimentazione, il benchmarking e la prevenzione delle regressioni algoritmiche nello sviluppo di agenti AI applicati alla didattica e alla clinica psicoterapeutica.
@@ -7,7 +11,7 @@
 
 ## Necessità di un Protocollo di Validazione Strutturato
 
-L'implementazione di Large Language Model nella formazione specialistica in psicoterapia (es. [[libet-prime]], [[trainer-simulator]]) richiede protocolli di test empirici rigorosi. L'interazione informale ("smanettamento libero") è insufficiente per garantire che l'agente mantenga coerenza epistemica, accuratezza concettuale e sicurezza deontologica.
+L'implementazione di Large Language Model nella formazione specialistica in psicoterapia (es. [libet-prime](concetti/concetti\libet-prime.md), [trainer-simulator](trainer-simulator.md)) richiede protocolli di test empirici rigorosi. L'interazione informale ("smanettamento libero") è insufficiente per garantire che l'agente mantenga coerenza epistemica, accuratezza concettuale e sicurezza deontologica.
 
 ---
 
@@ -53,10 +57,13 @@ flowchart TD
 ---
 
 ## Related pages
-- [[07-10_Riunione_Test_Valutazione_Libet_Prime]]
-- [[libet-prime]]
-- [[trainer-simulator]]
-- [[ia-maieutica-e-co-ragionamento]]
-- [[clinical-fidelity-assessment]]
-- [[human-in-the-reasoning]]
-- [[prompting-in-psychology]]
+- [07-10_Riunione_Test_Valutazione_Libet_Prime](../sintesi/07-10_Riunione_Test_Valutazione_Libet_Prime.md)
+- [libet-prime](concetti/concetti\libet-prime.md)
+- [trainer-simulator](trainer-simulator.md)
+- [ia-maieutica-e-co-ragionamento](ia-maieutica-e-co-ragionamento.md)
+- [clinical-fidelity-assessment](../clinical-fidelity-assessment.md)
+- [human-in-the-reasoning](human-in-the-reasoning.md)
+- [prompting-in-psychology](../prompting-in-psychology.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

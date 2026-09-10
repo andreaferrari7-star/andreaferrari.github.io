@@ -131,4 +131,4 @@ flowchart LR
 
 ## Relazioni
 
-- Vedi anche: [[a-2702-1843]], [[pediatric-ai-bias-and-vulnerabilities]], [[accept-ai-and-pediatric-ethical-frameworks]], [[pediatric-xai-benchmarking]], [[explainable-mental-health-diagnosis]], [[reflective-interpretability]], [[audit-bias-llm-clinici]], [[software-as-a-medical-device-salute-mentale]], [[three-layer-governance-framework]]
+- Vedi anche: [a-2702-1843](a-2702-1843.md), [pediatric-ai-bias-and-vulnerabilities](pediatric-ai-bias-and-vulnerabilities.md), [accept-ai-and-pediatric-ethical-frameworks](concetti/accept-ai-and-pediatric-ethical-frameworks.md), [pediatric-xai-benchmarking](concetti/pediatric-xai-benchmarking.md), [explainable-mental-health-diagnosis](explainable-mental-health-diagnosis.md), [reflective-interpretability](reflective-interpretability.md), [audit-bias-llm-clinici](concetti/concetti/concetti\audit-bias-llm-clinici.md), [software-as-a-medical-device-salute-mentale](software-as-a-medical-device-salute-mentale.md), [three-layer-governance-framework](concetti/concetti/concetti\three-layer-governance-framework.md)

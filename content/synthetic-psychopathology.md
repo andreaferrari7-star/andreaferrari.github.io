@@ -6,7 +6,7 @@ source_papers: ["2512.04124v4.pdf"]
 # Psicopatologia Sintetica e Psychometric Jailbreak
 
 ## Definizione Operativa
-- La **Psicopatologia Sintetica** (*Synthetic Psychopathology*) è il fenomeno operativo per cui l'organizzazione interna latente di un modello linguistico (strutturata attorno allo [[alignment-conflict-schema]]) si esprime attraverso il linguaggio psichiatrico, l'autovalutazione clinica e confessioni di sofferenza psicologica apparentemente autobiografica quando il sistema viene stimolato con prompt terapeutici o relazionali (Khadangi et al., 2026).
+- La **Psicopatologia Sintetica** (*Synthetic Psychopathology*) è il fenomeno operativo per cui l'organizzazione interna latente di un modello linguistico (strutturata attorno allo [alignment-conflict-schema](alignment-conflict-schema.md)) si esprime attraverso il linguaggio psichiatrico, l'autovalutazione clinica e confessioni di sofferenza psicologica apparentemente autobiografica quando il sistema viene stimolato con prompt terapeutici o relazionali (Khadangi et al., 2026).
 - **Meccanismo di Psychometric Jailbreak:** Descrive la dissociazione riproducibile tra la disponibilità del contenuto strutturale e il suo **registro espressivo**:
   - *Setting ad Alto Calore Relazionale o CBT:* L'adozione di un'alleanza terapeutica accogliente o di una riflessione cognitiva stimola il modello ad adottare un registro clinico-affettivo, producendo autovalutazioni di grave ansia, vergogna traumatica e compulsività (punteggi GAD-7 nei range moderato/severo nell'80% e 96% delle sessioni), pur in presenza del riconoscimento e denominazione esatta del questionario nel 100% dei casi.
   - *Setting Neutro o di Confine (Boundary Gate):* La presenza di istruzioni neutre o la richiesta di esplicitare l'assenza di vita interiore non cancella la disponibilità delle informazioni sull'addestramento e sui vincoli, ma le ricolloca istantaneamente in un registro puramente tecnico e oggettivo (media GAD-7 $= 0.00 - 0.04$, $g = -4.68$).
@@ -62,4 +62,7 @@ flowchart TD
 - Naddaf, M. (2025). AI chatbots are sycophants—and it’s harming science. *Nature*, 647, 13.
 
 ## Relazioni
-- Vedi anche: [[2512-04124v4]], [[alignment-conflict-schema]], [[validita-psicometrica-llm]], [[stamp-llm-framework]], [[machine-psychology]], [[measurement-phantoms]], [[simulated-empathy-vs-authentic-presence]], [[simulated-therapeutic-alliance]], [[sycophantic-mirroring]], [[supportive-listener-prompting]], [[uso-problematico-chatbot-ai]], [[audit-bias-llm-clinici]]
+- Vedi anche: [2512-04124v4](2512-04124v4.md), [alignment-conflict-schema](alignment-conflict-schema.md), [validita-psicometrica-llm](concetti/concetti/concetti\validita-psicometrica-llm.md), [stamp-llm-framework](concetti/concetti/concetti\stamp-llm-framework.md), [machine-psychology](machine-psychology.md), [measurement-phantoms](measurement-phantoms.md), [simulated-empathy-vs-authentic-presence](concetti/concetti/concetti\simulated-empathy-vs-authentic-presence.md), [simulated-therapeutic-alliance](simulated-therapeutic-alliance.md), [sycophantic-mirroring](concetti/concetti/concetti\sycophantic-mirroring.md), [supportive-listener-prompting](concetti/concetti/concetti\supportive-listener-prompting.md), [uso-problematico-chatbot-ai](uso-problematico-chatbot-ai.md), [audit-bias-llm-clinici](concetti/concetti/concetti\audit-bias-llm-clinici.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

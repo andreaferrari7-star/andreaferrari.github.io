@@ -15,4 +15,5 @@ source_papers: ["JML_1001.pdf", "s44163-025-00495-3.pdf", "2605.24351v1.pdf", "U
 - Non specificato.
 
 ## Relazioni
-- Vedi anche: [[hybrid-ai-research-workflows]], [[structured-literature-reviews]], [[llm-assisted-synthesis]], [[stepwise-cot]], [[ai-research-ethics]], [[bibliometric-analysis]], [[prompting-in-psychology]], [[measurement-phantoms]], [[hypothesis-generation]]
+- Vedi anche: [hybrid-ai-research-workflows](hybrid-ai-research-workflows.md), [structured-literature-reviews](structured-literature-reviews.md), [llm-assisted-synthesis](llm-assisted-synthesis.md), [stepwise-cot](stepwise-cot.md), [ai-research-ethics](ai-research-ethics.md), [bibliometric-analysis](bibliometric-analysis.md), [prompting-in-psychology](prompting-in-psychology.md), [measurement-phantoms](measurement-phantoms.md), [hypothesis-generation](hypothesis-generation.md)
+

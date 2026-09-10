@@ -43,15 +43,16 @@ La checklist formalizza un contratto pragmatico tra sviluppatori di IA, direzion
 ## Relazioni
 
 - Vedi anche:
-  - [[fpsyt-17-1688043-1]]
-  - [[care-continuum-ai-functions-mental-health]]
-  - [[clinical-readiness-gap-in-mh-chatbots]]
-  - [[traffic-light-quality-appraisal-clinical-ai]]
-  - [[software-as-a-medical-device-salute-mentale]]
-  - [[modello-centauro-clinico]]
-  - [[explainable-mental-health-diagnosis]]
-  - [[human-oversight-and-liability-in-clinical-ai]]
-  - [[ai-psychosocial-functioning-in-psychosis]]
-  - [[wearable-sensor-fusion-adherence]]
-  - [[ai-psychosis]]
+  - [fpsyt-17-1688043-1](fpsyt-17-1688043-1.md)
+  - [care-continuum-ai-functions-mental-health](care-continuum-ai-functions-mental-health.md)
+  - [clinical-readiness-gap-in-mh-chatbots](concetti/concetti/concetti\clinical-readiness-gap-in-mh-chatbots.md)
+  - [traffic-light-quality-appraisal-clinical-ai](traffic-light-quality-appraisal-clinical-ai.md)
+  - [software-as-a-medical-device-salute-mentale](software-as-a-medical-device-salute-mentale.md)
+  - [modello-centauro-clinico](concetti/concetti/concetti\modello-centauro-clinico.md)
+  - [explainable-mental-health-diagnosis](explainable-mental-health-diagnosis.md)
+  - [human-oversight-and-liability-in-clinical-ai](human-oversight-and-liability-in-clinical-ai.md)
+  - [ai-psychosocial-functioning-in-psychosis](ai-psychosocial-functioning-in-psychosis.md)
+  - [wearable-sensor-fusion-adherence](wearable-sensor-fusion-adherence.md)
+  - [ai-psychosis](ai-psychosis.md)
+
 

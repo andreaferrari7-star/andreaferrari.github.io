@@ -6,7 +6,7 @@ source_papers: ["main (1).pdf"]
 # Accumulo di Debito Cognitivo nell'Uso dell'IA Generativa (Cognitive Debt in Generative AI)
 
 ## Definizione Operativa
-Il costrutto di **Debito Cognitivo (*Cognitive Debt*)** nell'interazione con l'Intelligenza Artificiale Generativa (formalizzato empiricamente da Kosmyna et al., 2025 e sistematizzato da Liao, Ko, & Yen, 2026) indica la **progressiva de-sincronizzazione, deplezione funzionale e compromissione della mobilitazione delle risorse cognitive endogene** derivante dalla delega continuativa e passiva dei processi deliberativi a modelli linguistici di grandi dimensioni ([[large-language-models]]).
+Il costrutto di **Debito Cognitivo (*Cognitive Debt*)** nell'interazione con l'Intelligenza Artificiale Generativa (formalizzato empiricamente da Kosmyna et al., 2025 e sistematizzato da Liao, Ko, & Yen, 2026) indica la **progressiva de-sincronizzazione, deplezione funzionale e compromissione della mobilitazione delle risorse cognitive endogene** derivante dalla delega continuativa e passiva dei processi deliberativi a modelli linguistici di grandi dimensioni ([large-language-models](large-language-models.md)).
 
 **Utilità Clinica, Didattica e Cognitiva:** Spiega perché l'efficienza a breve termine fornita da ChatGPT si traduce in un deterioramento delle funzioni esecutive superiori a lungo termine. Quando gli individui esternalizzano la sintesi, la pianificazione e il ragionamento analitico all'algoritmo (*cognitive offloading*), il cervello accumula un debito che si manifesta drammaticamente nella fase di *crossover* (ovvero quando l'utente deve svolgere un compito complesso in autonomia, senza ausilio di IA), evidenziando un collasso della **connettività funzionale nelle bande $\alpha$ (8–12 Hz) e $\beta$ (13–30 Hz)**, una marcata tendenza all'**avarizia cognitiva** (*cognitive miserliness*) e un crollo delle performance al **Cognitive Reflection Test (CRT)**.
 
@@ -65,12 +65,14 @@ La mente umana è un "avaro cognitivo" (*cognitive miser*; Stanovich, 2009; Deng
 - Goh, A., et al. (2025). *Cognitive Failures Questionnaire in AI-enhanced learning*.
 
 ## Relazioni
-- [[main-1]]
-- [[uso-problematico-chatbot-ai]]
-- [[psychometric-assessment-problematic-ai-use]]
-- [[human-in-the-reasoning]]
-- [[modello-centauro-clinico]]
-- [[large-language-models]]
-- [[over-deference-in-llm-supervision]]
-- [[quattro-condizioni-liceita-ia-psicologia]]
+- [main-1](main-1.md)
+- [uso-problematico-chatbot-ai](uso-problematico-chatbot-ai.md)
+- [psychometric-assessment-problematic-ai-use](psychometric-assessment-problematic-ai-use.md)
+- [human-in-the-reasoning](human-in-the-reasoning.md)
+- [modello-centauro-clinico](concetti/concetti/concetti\modello-centauro-clinico.md)
+- [large-language-models](large-language-models.md)
+- [over-deference-in-llm-supervision](over-deference-in-llm-supervision.md)
+- [quattro-condizioni-liceita-ia-psicologia](quattro-condizioni-liceita-ia-psicologia.md)
 
+## Riferimenti Bibliografici
+- [Da integrare]

@@ -102,4 +102,7 @@ L'applicazione di algoritmi supervisionati su trascrittoma ed epigenoma ematico 
 ---
 
 ## Relazioni
-- Vedi anche: [[41398-2025-article-3497]], [[non-coding-rna-psychiatric-biomarkers]], [[explainable-mental-health-diagnosis]], [[personalized-networks-in-psychotherapy]], [[network-based-mental-healthcare]], [[ai-assisted-psychotherapy]], [[software-as-a-medical-device-salute-mentale]], [[11920-2026-article-1690]]
+- Vedi anche: [41398-2025-article-3497](41398-2025-article-3497.md), [non-coding-rna-psychiatric-biomarkers](non-coding-rna-psychiatric-biomarkers.md), [explainable-mental-health-diagnosis](explainable-mental-health-diagnosis.md), [personalized-networks-in-psychotherapy](concetti/concetti/concetti\personalized-networks-in-psychotherapy.md), [network-based-mental-healthcare](network-based-mental-healthcare.md), [ai-assisted-psychotherapy](ai-assisted-psychotherapy.md), [software-as-a-medical-device-salute-mentale](software-as-a-medical-device-salute-mentale.md), [11920-2026-article-1690](11920-2026-article-1690.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

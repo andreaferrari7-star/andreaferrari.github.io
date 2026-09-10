@@ -71,7 +71,7 @@ Un contributo cardine della letteratura recente (Van de Mortel et al., 2025, con
     *   Nella remissione, solo l'omogeneità regionale (ReHo) ha mostrato un segnale debole ($\text{AUC} = 0.59$), mentre connettività funzionale ($\text{AUC} \le 0.50$) e ampiezza delle fluttuazioni ($\text{AUC} \le 0.50$) sono risultate del tutto inefficaci;
     *   L'integrazione multimodale (Clinica + fMRI) non ha fornito alcun vantaggio rispetto ai soli dati clinici ($\text{AUC} = 0.63$ vs $0.69$);
     *   L'armonizzazione statistica mediante algoritmi ComBat non ha colmato il divario, suggerendo un'assenza di biomarcatori fisiologici macroscopici rilevabili a riposo associati alla responsività all'ERP.
-3.  **Estensione alla fMRI Task-Based (Inibizione ed Error Processing):** La successiva mega-analisi multicentrica ENIGMA-OCD su 5 coorti ($N=130$) condotta da Džinalija et al. (2026) ha testato l'ipotesi che la fMRI evocata da compiti cognitivi (*task-based*, Stop-Signal e Flanker) potesse superare i limiti della rs-fMRI. Nonostante la rilevazione di chiare associazioni univariate e bayesiane a livello di gruppo (deattivazione del DMN e della corteccia motoria), i modelli di Machine Learning (SVM, Random Forest con validazione LOSO e nested 5-fold CV) hanno replicato prestazioni a livello del caso ($\text{AUC} = 0.40 - 0.59, p > 0.05$), consolidando l'esistenza del **Prediction vs. Association Gap** (vedi [[task-based-fmri-cbt-prediction]] e [[dzinalija-et-al-2026]]).
+3.  **Estensione alla fMRI Task-Based (Inibizione ed Error Processing):** La successiva mega-analisi multicentrica ENIGMA-OCD su 5 coorti ($N=130$) condotta da Džinalija et al. (2026) ha testato l'ipotesi che la fMRI evocata da compiti cognitivi (*task-based*, Stop-Signal e Flanker) potesse superare i limiti della rs-fMRI. Nonostante la rilevazione di chiare associazioni univariate e bayesiane a livello di gruppo (deattivazione del DMN e della corteccia motoria), i modelli di Machine Learning (SVM, Random Forest con validazione LOSO e nested 5-fold CV) hanno replicato prestazioni a livello del caso ($\text{AUC} = 0.40 - 0.59, p > 0.05$), consolidando l'esistenza del **Prediction vs. Association Gap** (vedi [task-based-fmri-cbt-prediction](task-based-fmri-cbt-prediction.md) e [dzinalija-et-al-2026](../dzinalija-et-al-2026.md)).
 4.  **Il Primato della Frugalità Clinica:** I parametri anamnestici e psicometrici ordinari, raccolti a costo zero in pochi minuti durante la visita di inquadramento, offrono una capacità predittiva significativamente più solida, affidabile e generalizzabile tra diversi ospedali rispetto a costose scansioni RM.
 
 ---
@@ -108,18 +108,21 @@ L'analisi dei valori Shapley (SHAP) nei modelli ad albero decisionale (*Random F
 *   **Stratificazione dell'Intensità Terapeutica:** I pazienti che presentano un profilo a basso potenziale di remissione standard (alta severità basale, età avanzata, presenza di ossessioni di pulizia, già in terapia farmacologica) non dovrebbero essere avviati a percorsi ambulatoriali a bassa frequenza senza supporto intensivo. Per questi profili sono indicati:
     *   Formati intensivi ad alta concentrazione (es. il protocollo norvegese Bergen 4-day, che ha dimostrato efficacia indipendente dalla gravità basale; Hansen et al., 2018, 2019);
     *   Sessioni di esposizione assistite in vivo dal terapeuta nell'ambiente naturale del paziente;
-    *   Integrazione di strumenti digitali per il monitoraggio e il supporto all'ERP extraseduta ([[automated-erp-training]]).
+    *   Integrazione di strumenti digitali per il monitoraggio e il supporto all'ERP extraseduta ([automated-erp-training](automated-erp-training.md)).
 *   **Abbandono del Neuroimaging di Routine:** In conformità ai criteri di appropriatezza clinica ed economica, l'esecuzione di risonanze magnetiche a riposo non trova alcuna giustificazione come biomarcatore decisionale pre-CBT nell'OCD.
 
 ---
 
 ## Relazioni
 
-*   [[task-based-fmri-cbt-prediction]]: Predizione tramite fMRI task-based (controllo inibitorio ed error processing) e Prediction vs. Association Gap.
-*   [[dzinalija-et-al-2026]]: Mega-analisi ENIGMA-OCD su 5 coorti e test di modelli ML (SVM, RF) su fMRI task-based.
-*   [[van-de-mortel-et-al-2025]]: Studio multicentrico empirico ENIGMA-OCD su Journal of Affective Disorders.
-*   [[treatment-outcome-and-relapse-prediction]]: Panoramica generale sui modelli di predizione esito e ricaduta in psicoterapia.
-*   [[clinical-prediction-model-evaluation]]: Metodologia di valutazione continua, discriminazione, calibrazione e beneficio netto.
-*   [[automated-erp-training]]: Piattaforme digitali e agenti IA per l'allenamento dell'esposizione con prevenzione della risposta.
-*   [[cbt]]: Principi teorico-metodologici della Terapia Cognitivo-Comportamentale evidence-based.
-*   [[tripod-ai2024]]: Standard internazionali di reporting per modelli predittivi clinici basati su AI e Machine Learning.
+*   [task-based-fmri-cbt-prediction](task-based-fmri-cbt-prediction.md): Predizione tramite fMRI task-based (controllo inibitorio ed error processing) e Prediction vs. Association Gap.
+*   [dzinalija-et-al-2026](../dzinalija-et-al-2026.md): Mega-analisi ENIGMA-OCD su 5 coorti e test di modelli ML (SVM, RF) su fMRI task-based.
+*   [van-de-mortel-et-al-2025](../van-de-mortel-et-al-2025.md): Studio multicentrico empirico ENIGMA-OCD su Journal of Affective Disorders.
+*   [treatment-outcome-and-relapse-prediction](treatment-outcome-and-relapse-prediction.md): Panoramica generale sui modelli di predizione esito e ricaduta in psicoterapia.
+*   [clinical-prediction-model-evaluation](../clinical-prediction-model-evaluation.md): Metodologia di valutazione continua, discriminazione, calibrazione e beneficio netto.
+*   [automated-erp-training](automated-erp-training.md): Piattaforme digitali e agenti IA per l'allenamento dell'esposizione con prevenzione della risposta.
+*   [cbt](cbt.md): Principi teorico-metodologici della Terapia Cognitivo-Comportamentale evidence-based.
+*   [tripod-ai2024](../tripod-ai2024.md): Standard internazionali di reporting per modelli predittivi clinici basati su AI e Machine Learning.
+
+## Riferimenti Bibliografici
+- [Da integrare]

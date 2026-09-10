@@ -109,8 +109,11 @@ graph LR
 ---
 
 ## Related pages
-- [[2601-06159v1]]: Sintesi completa dello studio empirico originale.
-- [[open-data-scarcity-clinical-psychology]]: Quadro etico e metodologico della carenza di dati condivisi in ambito clinico.
-- [[mccv-and-statistical-validation-clinical-ml]]: Protocolli di validazione MCCV e inferenza statistica corretta.
-- [[treatment-outcome-and-relapse-prediction]]: Modelli predittivi dell'efficacia psicoterapeutica.
-- [[ai-clinical-decision-support]]: Sistemi di supporto alle decisioni cliniche.
+- [2601-06159v1](2601-06159v1.md): Sintesi completa dello studio empirico originale.
+- [open-data-scarcity-clinical-psychology](open-data-scarcity-clinical-psychology.md): Quadro etico e metodologico della carenza di dati condivisi in ambito clinico.
+- [mccv-and-statistical-validation-clinical-ml](concetti/mccv-and-statistical-validation-clinical-ml.md): Protocolli di validazione MCCV e inferenza statistica corretta.
+- [treatment-outcome-and-relapse-prediction](concetti/treatment-outcome-and-relapse-prediction.md): Modelli predittivi dell'efficacia psicoterapeutica.
+- [ai-clinical-decision-support](concetti/ai-clinical-decision-support.md): Sistemi di supporto alle decisioni cliniche.
+
+## Riferimenti Bibliografici
+- [Da integrare]

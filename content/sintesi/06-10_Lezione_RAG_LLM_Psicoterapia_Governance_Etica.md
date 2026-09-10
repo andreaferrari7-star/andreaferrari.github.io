@@ -1,3 +1,8 @@
+---
+tags: []
+source: "riunione"
+---
+
 # Lezione: RAG, LLM in Psicoterapia e Governance Etica
 
 **Summary**: Resoconto e analisi approfondita della giornata formativa su Retrieval-Augmented Generation (RAG), impiego degli LLM come co-piloti clinici nell'analisi di seduta, indagine empirica sull'uso dell'IA nella supervisione clinica e fenomenologia dell'uso problematico/dipendenza da chatbot negli adolescenti.
@@ -6,13 +11,13 @@
 ---
 
 ## Panoramica della Giornata
-La lezione affronta in modo integrato le frontiere tecnologiche, cliniche ed etico-deontologiche dell'ingresso dell'[[large-language-models|Intelligenza Artificiale Generativa]] e delle architetture [[rag-in-psicoterapia|RAG (Retrieval-Augmented Generation)]] nella psicoterapia e nella salute mentale.
+La lezione affronta in modo integrato le frontiere tecnologiche, cliniche ed etico-deontologiche dell'ingresso dell'[Intelligenza Artificiale Generativa](../concetti/large-language-models.md) e delle architetture [RAG (Retrieval-Augmented Generation)](../concetti/rag-in-psicoterapia.md) nella psicoterapia e nella salute mentale.
 
 L'incontro si articola in quattro sezioni fondamentali:
 1. **Architetture RAG e sviluppo di applicativi clinici/formativi** (Dott. Giacomantonio / Dott. Bonora): differenze tra uso consumer (interfaccia web) e API, personalizzazione basata su teorie psicologiche (es. Schwartz Value Theory) e tutela dei dati.
-2. **L'IA come Co-pilota Clinico e Analisi di Seduta** (Dott. Giuseppe): il [[modello-centauro-clinico|Modello Centauro]] applicato alla psicoterapia, i quattro mattoni della letteratura scientifica ([[feedback-informed-practice-ai|Feedback-Informed Practice]], NLP, predizione dropout, rischi di delega autonoma) e l'analisi dettagliata del caso clinico "Marco" con LLM + RAG.
-3. **Indagine Empirica sull'Uso dell'IA nella Supervisione Clinica** (Dott.ssa Teresa Cosentino): studio quantitativo su specializzandi e psicoterapeuti esperti, correlazioni con ansia sociale (LSAS) e timore della colpa (FGS), percezione del rischio di de-skilling e limiti strutturali nella gestione del [[rischio-suicidario-ai-limits|rischio suicidario]].
-4. **Uso Problematico, Dipendenze Comportamentali e Adolescenti** (Dott.ssa Michela Romano & Dott.ssa Alessia Baioni): inquadramento dell'[[uso-problematico-chatbot-ai|uso problematico di chatbot]] secondo il modello I-PACE, dinamiche di antropomorfismo e relazione "senza corpo", evidenze epidemiologiche, il primo caso clinico formale al SerD di Venezia e il caso clinico di Andrea (18 anni).
+2. **L'IA come Co-pilota Clinico e Analisi di Seduta** (Dott. Giuseppe): il [Modello Centauro](../concetti/concetti/concetti\modello-centauro-clinico.md) applicato alla psicoterapia, i quattro mattoni della letteratura scientifica ([Feedback-Informed Practice](../concetti/feedback-informed-practice-ai.md), NLP, predizione dropout, rischi di delega autonoma) e l'analisi dettagliata del caso clinico "Marco" con LLM + RAG.
+3. **Indagine Empirica sull'Uso dell'IA nella Supervisione Clinica** (Dott.ssa Teresa Cosentino): studio quantitativo su specializzandi e psicoterapeuti esperti, correlazioni con ansia sociale (LSAS) e timore della colpa (FGS), percezione del rischio di de-skilling e limiti strutturali nella gestione del [rischio suicidario](../concetti/rischio-suicidario-ai-limits.md).
+4. **Uso Problematico, Dipendenze Comportamentali e Adolescenti** (Dott.ssa Michela Romano & Dott.ssa Alessia Baioni): inquadramento dell'[uso problematico di chatbot](../uso-problematico-chatbot-ai.md) secondo il modello I-PACE, dinamiche di antropomorfismo e relazione "senza corpo", evidenze epidemiologiche, il primo caso clinico formale al SerD di Venezia e il caso clinico di Andrea (18 anni).
 
 ---
 
@@ -107,7 +112,7 @@ Punti salienti emersi dall'indagine:
 - **Rifiuto unanime della sostituzione umana**: sia allievi che terapeuti esperti concordano nettamente nel non considerare l'IA un valido sostituto del supervisore umano, evidenziando la totale assenza di supporto emotivo autentico, saggezza clinica e sintonizzazione relazionale.
 - **Timore di De-skilling e Indebolimento del Giudizio**: emerge una forte preoccupazione che l'uso frequente di chatbot possa erodere l'autonomia decisionale e la fiducia nelle proprie competenze cliniche. Questo timore è **significativamente più elevato tra gli allievi specializzandi**.
 - **Ruolo dell'Ansia Sociale**: l'evitamento sociale correla positivamente con l'uso dell'IA per ridurre l'ansia da prestazione e il timore del giudizio del supervisore umano. Inoltre, l'ansia sociale predice il 10,3% della varianza nel timore di indebolire il proprio giudizio clinico.
-- **Consapevolezza dei Limiti Critici**: consenso quasi totale sull'inadeguatezza dell'IA nel rilevare l'[[rischio-suicidario-ai-limits|ideazione suicidaria]] e nel gestire quadri clinici complessi o psicotici.
+- **Consapevolezza dei Limiti Critici**: consenso quasi totale sull'inadeguatezza dell'IA nel rilevare l'[ideazione suicidaria](../concetti/rischio-suicidario-ai-limits.md) e nel gestire quadri clinici complessi o psicotici.
 
 ---
 
@@ -137,17 +142,20 @@ A 18 anni sperimenta un grave blocco creativo, derealizzazione e rottura relazio
 
 1. **L'IA come strumento complementare e non sostitutivo**: l'IA deve fungere da co-pilota, lente di ingrandimento o specchio metacognitivo per il clinico (e per il paziente), mai come entità delegata di cura o supervisione.
 2. **Centralità della relazione e del corpo**: la psicoterapia e la supervisione sono spazi relazionali ed emotivi complessi e incarnati; l'IA eccelle nell'analisi testuale e statistica ma è priva di corporeità, saggezza e risonanza affettiva.
-3. **Formazione all'AI Literacy e Governance Etica**: è urgente integrare moduli formativi nelle scuole di specializzazione per sviluppare un'[[ai-literacy-in-academia|AI Literacy critica]], prevenire il de-skilling e garantire standard rigorosi di privacy e protezione dei dati clinici.
+3. **Formazione all'AI Literacy e Governance Etica**: è urgente integrare moduli formativi nelle scuole di specializzazione per sviluppare un'[AI Literacy critica](../concetti/ai-literacy-in-academia.md), prevenire il de-skilling e garantire standard rigorosi di privacy e protezione dei dati clinici.
 
 ---
 
 ## Pagine Correlate
-- [[rag-in-psicoterapia]]
-- [[modello-centauro-clinico]]
-- [[feedback-informed-practice-ai]]
-- [[supervisione-clinica-ai]]
-- [[uso-problematico-chatbot-ai]]
-- [[rischio-suicidario-ai-limits]]
-- [[augmented-psychotherapy]]
-- [[digital-therapeutic-alliance]]
-- [[human-in-the-reasoning]]
+- [rag-in-psicoterapia](../concetti/rag-in-psicoterapia.md)
+- [modello-centauro-clinico](../concetti/concetti/concetti\modello-centauro-clinico.md)
+- [feedback-informed-practice-ai](../concetti/feedback-informed-practice-ai.md)
+- [supervisione-clinica-ai](../supervisione-clinica-ai.md)
+- [uso-problematico-chatbot-ai](../uso-problematico-chatbot-ai.md)
+- [rischio-suicidario-ai-limits](../concetti/rischio-suicidario-ai-limits.md)
+- [augmented-psychotherapy](../augmented-psychotherapy.md)
+- [digital-therapeutic-alliance](../digital-therapeutic-alliance.md)
+- [human-in-the-reasoning](../human-in-the-reasoning.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

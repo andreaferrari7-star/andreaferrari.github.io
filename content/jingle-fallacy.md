@@ -17,4 +17,7 @@ source_papers: ["wulff-mata-2025-escaping-the-jingle-jangle-jungle-increasing-co
 - Wulff, D. U., & Mata, R. (2026). Escaping the Jingle-Jangle Jungle: Increasing Conceptual Clarity in Psychology Using Large Language Models. *Current Directions in Psychological Science*, 35(2), 59–65. https://doi.org/10.1177/09637214251382083
 
 ## Relazioni
-- Vedi anche: [[jangle-fallacy]], [[wulff-mata-2025]], [[taxonomic-incommensurability]], [[shared-semantic-space]], [[anthropomorphism-in-ai]]
+- Vedi anche: [jangle-fallacy](jangle-fallacy.md), [wulff-mata-2025](wulff-mata-2025.md), [taxonomic-incommensurability](taxonomic-incommensurability.md), [shared-semantic-space](shared-semantic-space.md), [anthropomorphism-in-ai](anthropomorphism-in-ai.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

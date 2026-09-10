@@ -36,9 +36,10 @@ source_papers:
 ## Relazioni
 
 Vedi anche:
-*   [[taxonomic-incommensurability]]
-*   [[shared-semantic-space]]
-*   [[jingle-fallacy]]
-*   [[jangle-fallacy]]
-*   [[llm-assisted-semantic-clustering]]
-*   [[dual-validity-framework]]
+*   [taxonomic-incommensurability](taxonomic-incommensurability.md)
+*   [shared-semantic-space](shared-semantic-space.md)
+*   [jingle-fallacy](jingle-fallacy.md)
+*   [jangle-fallacy](jangle-fallacy.md)
+*   [llm-assisted-semantic-clustering](llm-assisted-semantic-clustering.md)
+*   [dual-validity-framework](dual-validity-framework.md)
+

@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Mechanisms for Recourse in AI Mental Health (Meccanismi di Ricorso e Reclamo)
 
 **Summary**: Framework di governance e tutela dell'agency derivato dalle procedure di appello e diritto di reclamo (*right to complain*) dell'autorizzazione delle cure sanitarie: istituisce canali formali e audit umani indipendenti per investigare interazioni avverse, allucinazioni o risposte iatrogene dei chatbot, restituendo all'utente spiegazioni causali (*debriefing*) e significato trasformativo.
@@ -50,11 +54,14 @@ Pendse et al. (2026) propongono di mutuare il modello da iniziative indipendenti
 ---
 
 ## Pagine Correlate
-- [[reflective-interpretability]]
-- [[pendse-et-al-2026]]
-- [[role-induction-ai-mental-health]]
-- [[prosocial-advance-directives]]
-- [[intervention-titration-ai]]
-- [[psychological-distress-interaction-patterns]]
-- [[evidence-adoption-gap-ai-mental-health]]
-- [[etica-privacy-bias-ia-clinica]]
+- [reflective-interpretability](reflective-interpretability.md)
+- [pendse-et-al-2026](../sintesi/pendse-et-al-2026.md)
+- [role-induction-ai-mental-health](role-induction-ai-mental-health.md)
+- [prosocial-advance-directives](prosocial-advance-directives.md)
+- [intervention-titration-ai](intervention-titration-ai.md)
+- [psychological-distress-interaction-patterns](psychological-distress-interaction-patterns.md)
+- [evidence-adoption-gap-ai-mental-health](evidence-adoption-gap-ai-mental-health.md)
+- [etica-privacy-bias-ia-clinica](etica-privacy-bias-ia-clinica.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

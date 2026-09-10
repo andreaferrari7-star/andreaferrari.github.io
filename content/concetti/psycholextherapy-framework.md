@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # PsychoLexTherapy Framework
 
 **Summary**: Architettura modulare di dialogo psicoterapeutico assistito da IA, progettata per operare interamente *on-device* tramite Small Language Models (SLM). Integra un selettore dinamico dell'orientamento terapeutico (*Therapy Approach Selector*), percorsi di inferenza clinica procedurale (*Reasoning Paths* per CBT, Reality Therapy e Person-Centered Therapy) e un modulo gerarchico di memoria a lungo termine (*MemoBase*) per garantire accuratezza teorica, continuità affettiva e riservatezza dei dati sensibili in lingua persiana.
@@ -76,17 +80,20 @@ L'adozione di un'architettura di **buffering progressivo** consente di raccoglie
 
 ## Prestazioni Empiriche e Vantaggi Clinici
 
-- **Superiorità nel Single-Turn**: Nel benchmark [[persian-psychotherapy-benchmarks#psycholexquery|PsychoLexQuery]], PsychoLexTherapy ottiene il punteggio LLM-as-a-judge più alto (**7,24/10**) e il miglior ranking umano da parte di psicologi supervisori (**1,43** vs 2,00 di architetture multi-agente e 3,25 del prompting semplice).
-- **Consistenza nel Multi-Turno**: Nelle simulazioni di 10–14 turni su [[persian-psychotherapy-benchmarks#psycholexdialogue|PsychoLexDialogue]], il framework completo con memoria raggiunge un punteggio globale di **8,14/10**, con picchi in empatia (9,2), appropriatezza culturale (9,0) e coerenza emotiva (8,6).
+- **Superiorità nel Single-Turn**: Nel benchmark [PsychoLexQuery](persian-psychotherapy-benchmarks#psycholexquery.md), PsychoLexTherapy ottiene il punteggio LLM-as-a-judge più alto (**7,24/10**) e il miglior ranking umano da parte di psicologi supervisori (**1,43** vs 2,00 di architetture multi-agente e 3,25 del prompting semplice).
+- **Consistenza nel Multi-Turno**: Nelle simulazioni di 10–14 turni su [PsychoLexDialogue](persian-psychotherapy-benchmarks#psycholexdialogue.md), il framework completo con memoria raggiunge un punteggio globale di **8,14/10**, con picchi in empatia (9,2), appropriatezza culturale (9,0) e coerenza emotiva (8,6).
 - **Disaccoppiamento tra Ragionamento e Output**: Nascondere le fasi analitiche intermedie evita il tono pedante e clinico-didascalico tipico del semplice Chain-of-Thought, preservando calore relazionale e naturalezza espressiva.
 
 ---
 
 ## Concetti Correlati
 
-- [[therapeutic-reasoning-paths]]: Dettaglio delle micro-fasi analitiche di CBT, RT e PCT.
-- [[memory-augmented-therapeutic-dialogue]]: Modelli di profiling e gestione dinamica dei dati longitudinali.
-- [[on-device-slm-mental-health]]: Fattibilità computazionale e privacy per modelli sotto i 10B.
-- [[persian-psychotherapy-benchmarks]]: Suite PsychoLexEval, PsychoLexQuery e PsychoLexDialogue.
-- [[synthetic-clinical-dialogues]]: Metodologie di simulazione multi-agente per generare training set.
-- [[weird-bias-cultural-adaptability-ai]]: Adattamento socioculturale ed ecologico del supporto clinico.
+- [therapeutic-reasoning-paths](therapeutic-reasoning-paths.md): Dettaglio delle micro-fasi analitiche di CBT, RT e PCT.
+- [memory-augmented-therapeutic-dialogue](memory-augmented-therapeutic-dialogue.md): Modelli di profiling e gestione dinamica dei dati longitudinali.
+- [on-device-slm-mental-health](on-device-slm-mental-health.md): Fattibilità computazionale e privacy per modelli sotto i 10B.
+- [persian-psychotherapy-benchmarks](persian-psychotherapy-benchmarks.md): Suite PsychoLexEval, PsychoLexQuery e PsychoLexDialogue.
+- [synthetic-clinical-dialogues](synthetic-clinical-dialogues.md): Metodologie di simulazione multi-agente per generare training set.
+- [weird-bias-cultural-adaptability-ai](weird-bias-cultural-adaptability-ai.md): Adattamento socioculturale ed ecologico del supporto clinico.
+
+## Riferimenti Bibliografici
+- [Da integrare]

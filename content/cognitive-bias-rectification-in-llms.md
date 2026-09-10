@@ -68,7 +68,7 @@ flowchart TD
 
 ### Limiti Clinici e Rischi
 
-*   **Compiacenza Algoritmica (*Sycophancy*):** Se il prompt del sistema non è rigidamente orientato all'approccio socratico, l'LLM rischia di convalidare acriticamente le premesse distorte dell'utente per mantenere un tono accomodante (vedi [[sycophantic-mirroring]]).
+*   **Compiacenza Algoritmica (*Sycophancy*):** Se il prompt del sistema non è rigidamente orientato all'approccio socratico, l'LLM rischia di convalidare acriticamente le premesse distorte dell'utente per mantenere un tono accomodante (vedi [sycophantic-mirroring](concetti/concetti/concetti\sycophantic-mirroring.md)).
 *   **Comprensione Superficiale vs Insight Vissuto:** La decostruzione logica del bias prodotta dall'IA non equivale all'assimilazione emotiva ed esperienziale da parte del paziente, richiedendo il consolidamento guidato dal terapeuta umano.
 
 ## Riferimenti Bibliografici
@@ -80,12 +80,13 @@ flowchart TD
 
 ## Relazioni
 
-*   [[fpsyt-15-1444382]]
-*   [[patient-candidness-in-ai-interaction]]
-*   [[automated-cognitive-restructuring]]
-*   [[cognitive-distortion-detection]]
-*   [[sycophantic-mirroring]]
-*   [[cbt-dialogue-systems-and-tools]]
-*   [[applied-theory-of-mind-llm]]
-*   [[modello-centauro-clinico]]
-*   [[clinical-readiness-gap-in-mh-chatbots]]
+*   [fpsyt-15-1444382](fpsyt-15-1444382.md)
+*   [patient-candidness-in-ai-interaction](patient-candidness-in-ai-interaction.md)
+*   [automated-cognitive-restructuring](concetti/automated-cognitive-restructuring.md)
+*   [cognitive-distortion-detection](concetti/cognitive-distortion-detection.md)
+*   [sycophantic-mirroring](concetti/concetti/concetti\sycophantic-mirroring.md)
+*   [cbt-dialogue-systems-and-tools](concetti/concetti/concetti\cbt-dialogue-systems-and-tools.md)
+*   [applied-theory-of-mind-llm](applied-theory-of-mind-llm.md)
+*   [modello-centauro-clinico](concetti/concetti/concetti\modello-centauro-clinico.md)
+*   [clinical-readiness-gap-in-mh-chatbots](concetti/concetti/concetti\clinical-readiness-gap-in-mh-chatbots.md)
+

@@ -27,4 +27,5 @@ source_papers: ["40337_2024_Article_967.pdf"]
 - Gilmartin, T., Dipnall, J. F., Gurvich, C., & Sharp, G. (2024). Identifying overcontrol and undercontrol personality types among young people using the five factor model, and the relationship with disordered eating behaviour, anxiety and depression. *Journal of Eating Disorders*, 12(1), Article 16. https://doi.org/10.1186/s40337-024-00967-4
 
 ## Relazioni
-- Vedi anche: [[overcontrol-and-undercontrol-personality-types]], [[terapia-cognitivo-comportamentale]], [[maladaptive-perfectionism]], [[cbt]]
+- Vedi anche: [overcontrol-and-undercontrol-personality-types](concetti/overcontrol-and-undercontrol-personality-types.md), [terapia-cognitivo-comportamentale](terapia-cognitivo-comportamentale.md), [maladaptive-perfectionism](concetti/maladaptive-perfectionism.md), [cbt](concetti/cbt.md)
+

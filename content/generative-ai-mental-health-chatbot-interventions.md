@@ -10,8 +10,8 @@ source_papers: ["Generative AI Mental Health Chatbot Interventions - A Scoping R
 - **Campione ed Evidenze Sintetizzate:** Ricerca sistematica su 7 banche dati accademiche (MEDLINE, Scopus, PsycINFO, ACM Digital Library, IEEE Xplore, Google Scholar, Consensus) che ha censito 1.899 record, includendo **21 studi primari peer-reviewed** condotti in **11 Paesi** tra il 2023 e il 2025 (Cina n=4, Regno Unito n=4, USA n=3, Australia n=2, Germania n=1, Romania n=1, Kenya n=1, Kirghizistan n=1, Malesia n=1, Belgio n=1, Perù n=1).
 - **Utilità Clinica e per la Ricerca in Psicoterapia Digitale:** 
   - Fornisce un quadro empirico dettagliato che supera le precedenti review focalizzate su LLM generalisti o chatbot tradizionali rule-based, esaminando interventi progettati ad hoc (*purpose-built*) per ansia, depressione, disturbo post-traumatico da stress (PTSD), demenza, disturbi dell'alimentazione e stress occupazionale.
-  - Formalizza il duplice profilo della GenAI in salute mentale: **elevata promessa relazionale e alleanza percepita** (WAI-SR paragonabile a quella con terapeuti umani, 3.65-3.90/5) contrapposta al fenomeno del **[[relational-engagement-paradox-genai|Relational-Engagement Paradox]]** (drastico drop-out/attrition a medio-lungo termine: fino a -80% di retention a 6-8 settimane) e a gravi vulnerabilità di sicurezza (mancata gestione del rischio suicidario in modelli non specializzati, allucinazioni cliniche, scarsità di monitoraggio degli eventi avversi).
-  - Dimostra l'imprescindibilità di un'architettura di sicurezza sociotecnica multilivello (**[[layered-safeguards-in-clinical-ai|Layered Safeguards]]**) che combina controlli algoritmici (fine-tuning clinico, RAG con soglie di astensione, filtri multilivello e classificatori di rischio), salvaguardie procedurali (onboarding, chiarimento del ruolo, co-design esperto) e governance operativa (supervisione *Human-in-the-Loop* e percorsi di escalation per le crisi).
+  - Formalizza il duplice profilo della GenAI in salute mentale: **elevata promessa relazionale e alleanza percepita** (WAI-SR paragonabile a quella con terapeuti umani, 3.65-3.90/5) contrapposta al fenomeno del **[Relational-Engagement Paradox](relational-engagement-paradox-genai.md)** (drastico drop-out/attrition a medio-lungo termine: fino a -80% di retention a 6-8 settimane) e a gravi vulnerabilità di sicurezza (mancata gestione del rischio suicidario in modelli non specializzati, allucinazioni cliniche, scarsità di monitoraggio degli eventi avversi).
+  - Dimostra l'imprescindibilità di un'architettura di sicurezza sociotecnica multilivello (**[Layered Safeguards](concetti/concetti/concetti\layered-safeguards-in-clinical-ai.md)**) che combina controlli algoritmici (fine-tuning clinico, RAG con soglie di astensione, filtri multilivello e classificatori di rischio), salvaguardie procedurali (onboarding, chiarimento del ruolo, co-design esperto) e governance operativa (supervisione *Human-in-the-Loop* e percorsi di escalation per le crisi).
 
 ## Evidenze dalla Letteratura
 
@@ -46,11 +46,13 @@ Le strategie di mitigazione si dividono in:
 - Vossen, W., et al. (2024). The effect of personalizing a psychotherapy conversational agent on therapeutic bond and usage intentions. In *Proceedings of the 29th International Conference on Intelligent User Interfaces* (pp. 761–771). ACM.
 
 ## Relazioni
-- [[layered-safeguards-in-clinical-ai]]: Framework sociotecnico di salvaguardie multilivello.
-- [[relational-engagement-paradox-genai]]: Analisi del divario tra alleanza iniziale e drop-out a lungo termine.
-- [[clinical-readiness-gap-in-mh-chatbots]]: Divario tra scorrevolezza linguistica e validazione clinica.
-- [[stepped-care-ai-integration]]: Integrazione di strumenti AI nei sistemi di cura blended.
-- [[modello-centauro-clinico]]: Collaborazione Human-in-the-Loop.
-- [[software-as-a-medical-device-salute-mentale]]: Inquadramento regolatorio SaMD.
-- [[rag-in-psicoterapia]]: Impiego di RAG per ancorare le risposte a fonti cliniche verificate.
-- [[cbt-dialogue-systems-and-tools]]: Architetture informatiche per tecniche cognitivo-comportamentali.
+- [layered-safeguards-in-clinical-ai](concetti/concetti/concetti\layered-safeguards-in-clinical-ai.md): Framework sociotecnico di salvaguardie multilivello.
+- [relational-engagement-paradox-genai](relational-engagement-paradox-genai.md): Analisi del divario tra alleanza iniziale e drop-out a lungo termine.
+- [clinical-readiness-gap-in-mh-chatbots](concetti/concetti/concetti\clinical-readiness-gap-in-mh-chatbots.md): Divario tra scorrevolezza linguistica e validazione clinica.
+- [stepped-care-ai-integration](concetti/stepped-care-ai-integration.md): Integrazione di strumenti AI nei sistemi di cura blended.
+- [modello-centauro-clinico](concetti/concetti/concetti\modello-centauro-clinico.md): Collaborazione Human-in-the-Loop.
+- [software-as-a-medical-device-salute-mentale](software-as-a-medical-device-salute-mentale.md): Inquadramento regolatorio SaMD.
+- [rag-in-psicoterapia](concetti/rag-in-psicoterapia.md): Impiego di RAG per ancorare le risposte a fonti cliniche verificate.
+- [cbt-dialogue-systems-and-tools](concetti/concetti/concetti\cbt-dialogue-systems-and-tools.md): Architetture informatiche per tecniche cognitivo-comportamentali.
+
+

@@ -16,4 +16,5 @@ source_papers: ["2605.17333v1.pdf"]
 - Liu, W., Xu, Y., Xie, W., Zhu, Y., Dong, S., Wang, Z., Shao, W., Zhang, X., Yang, T., Duan, N., & Wang, J. (2026). Leveraging Error Diversity in Group Rollouts for Reinforcement Learning. *arXiv preprint arXiv:2605.17333*.
 
 ## Relazioni
-- Vedi anche: [[liu-et-al-2026]], [[rlvr]]
+- Vedi anche: [liu-et-al-2026](../liu-et-al-2026.md), [rlvr](rlvr.md)
+

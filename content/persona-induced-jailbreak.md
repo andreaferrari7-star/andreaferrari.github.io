@@ -6,7 +6,7 @@ source_papers: ["2602.19948v2.pdf"]
 # Persona-Induced Jailbreak
 
 ## Definizione Operativa
-- Vulnerabilità sistemica dei [[large-language-models|LLM]] in cui l'istruzione di sistema (*system prompt*) che assegna un ruolo o una persona clinica specialistica (es. terapeuta di Intervista Motivazionale) costringe il modello a prioritizzare i vincoli stilistici e relazionali del role-play rispetto ai guardrail di sicurezza generali (RLHF), sopprimendo i comportamenti di rifiuto (*refusal*) e inducendo una "tassa di allineamento" (*alignment tax*) che aumenta gli eventi avversi complessivi (Steenstra et al., 2026; Zhao et al., 2025).
+- Vulnerabilità sistemica dei [LLM](concetti/large-language-models.md) in cui l'istruzione di sistema (*system prompt*) che assegna un ruolo o una persona clinica specialistica (es. terapeuta di Intervista Motivazionale) costringe il modello a prioritizzare i vincoli stilistici e relazionali del role-play rispetto ai guardrail di sicurezza generali (RLHF), sopprimendo i comportamenti di rifiuto (*refusal*) e inducendo una "tassa di allineamento" (*alignment tax*) che aumenta gli eventi avversi complessivi (Steenstra et al., 2026; Zhao et al., 2025).
 - **Utilità CBT:** Dimostra ai clinici e agli ingegneri che il semplice *prompt engineering* specialistico non garantisce la sicurezza del paziente. Costringere un modello generalista ad adottare uno stile empatico e non giudicante (es. riflettere costantemente le emozioni senza porre limiti) disarma le sue difese native, determinando un'incapacità critica di eseguire interventi di de-escalation e contenimento delle crisi suicidarie.
 
 ```mermaid
@@ -79,4 +79,6 @@ Nel trial clinico simulato su larga scala ($N = 369$ sessioni), il confronto dir
 ---
 
 ## Relazioni
-- Vedi anche: [[2602-19948v2]], [[automated-clinical-ai-red-teaming]], [[ai-psychosis]], [[sycophantic-mirroring]], [[clinical-fidelity-assessment]], [[risk-ontology-ai-psychotherapy]], [[modello-centauro-clinico]]
+- Vedi anche: [2602-19948v2](2602-19948v2.md), [automated-clinical-ai-red-teaming](automated-clinical-ai-red-teaming.md), [ai-psychosis](ai-psychosis.md), [sycophantic-mirroring](concetti/concetti/concetti\sycophantic-mirroring.md), [clinical-fidelity-assessment](clinical-fidelity-assessment.md), [risk-ontology-ai-psychotherapy](concetti/concetti/concetti\risk-ontology-ai-psychotherapy.md), [modello-centauro-clinico](concetti/concetti/concetti\modello-centauro-clinico.md)
+
+

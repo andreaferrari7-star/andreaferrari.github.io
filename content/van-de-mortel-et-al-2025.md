@@ -60,9 +60,10 @@ source_papers:
 
 ## Relazioni
 
-*   [[cbt-outcome-prediction-in-ocd]]
-*   [[treatment-outcome-and-relapse-prediction]]
-*   [[clinical-prediction-model-evaluation]]
-*   [[automated-erp-training]]
-*   [[cbt]]
-*   [[tripod-ai2024]]
+*   [cbt-outcome-prediction-in-ocd](concetti/cbt-outcome-prediction-in-ocd.md)
+*   [treatment-outcome-and-relapse-prediction](concetti/treatment-outcome-and-relapse-prediction.md)
+*   [clinical-prediction-model-evaluation](clinical-prediction-model-evaluation.md)
+*   [automated-erp-training](concetti/automated-erp-training.md)
+*   [cbt](concetti/cbt.md)
+*   [tripod-ai2024](tripod-ai2024.md)
+

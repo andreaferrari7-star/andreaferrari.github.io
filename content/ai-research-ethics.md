@@ -18,4 +18,7 @@ source_papers: ["final_textbook_genAIinpsychologyresearchandtraining.pdf", "s441
 - Mabirizi, V., Ssekitoleko, R., Nankinga, F., & Bagarukayo, E. (2025). A systematic review of the impact of generative AI on postgraduate research. *Discover Artificial Intelligence*, 5, Article 238. https://doi.org/10.1007/s44163-025-00495-3
 
 ## Relazioni
-- Vedi anche: [[ai-literacy-in-academia]], [[generative-ai-in-research]], [[prompting-in-psychology]]
+- Vedi anche: [ai-literacy-in-academia](ai-literacy-in-academia.md), [generative-ai-in-research](generative-ai-in-research.md), [prompting-in-psychology](prompting-in-psychology.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

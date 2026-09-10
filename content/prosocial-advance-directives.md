@@ -70,4 +70,7 @@ flowchart TD
 ---
 
 ## Relazioni
-- Vedi anche: [[2512-16206v2]], [[reflective-interpretability]], [[role-induction-ai-mental-health]], [[intervention-titration-ai]], [[recourse-mechanisms-ai-mental-health]], [[psychological-distress-interaction-patterns]], [[sycophantic-mirroring]], [[uso-problematico-chatbot-ai]], [[simulated-empathy-vs-authentic-presence]], [[simulated-therapeutic-alliance]], [[rischio-suicidario-ai-limits]], [[ai-assisted-psychotherapy]]
+- Vedi anche: [2512-16206v2](2512-16206v2.md), [reflective-interpretability](reflective-interpretability.md), [role-induction-ai-mental-health](concetti/role-induction-ai-mental-health.md), [intervention-titration-ai](concetti/intervention-titration-ai.md), [recourse-mechanisms-ai-mental-health](concetti/recourse-mechanisms-ai-mental-health.md), [psychological-distress-interaction-patterns](concetti/psychological-distress-interaction-patterns.md), [sycophantic-mirroring](concetti/concetti/concetti\sycophantic-mirroring.md), [uso-problematico-chatbot-ai](uso-problematico-chatbot-ai.md), [simulated-empathy-vs-authentic-presence](concetti/concetti/concetti\simulated-empathy-vs-authentic-presence.md), [simulated-therapeutic-alliance](simulated-therapeutic-alliance.md), [rischio-suicidario-ai-limits](concetti/rischio-suicidario-ai-limits.md), [ai-assisted-psychotherapy](ai-assisted-psychotherapy.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

@@ -7,7 +7,7 @@ source_papers: ["behavsci-16-00676.pdf"]
 
 ## Definizione Operativa
 - Narrative review critica pubblicata su *Behavioral Sciences* (MDPI, 2026) da Valentina Neacșu (Faculty of Psychology, Titu Maiorescu University, Bucarest) che esamina il duplice ruolo dell'Intelligenza Artificiale (IA) e dei Large Language Models (LLM) nella salute mentale, analizzando i rischi clinici e relazionali dell'uso di agenti generalisti come surrogati terapeutici vs il potenziale formativo dei LLM clinici specialistici per il training, la supervisione e la pratica riflessiva dei terapeuti.
-- **Utilità Clinica e CBT:** Fornisce un inquadramento fondamentale per i professionisti della salute mentale e della CBT, chiarendo i meccanismi attraverso cui i modelli commerciali falliscono come terapeuti autonomi (creazione di dipendenza da [[emotional-infrastructure|infrastruttura emotiva]], validazione priva di attrito, relazioni parasociali di [[artificial-intimacy|intimità artificiale]], alimentazione di deliri e [[ai-psychosis|AI psychosis]], fallimento nei protocolli di crisi), delineando al contempo l'adozione virtuosa dell'IA per la simulazione didattica di casi clinici (es. *SchemaSim*) e il supporto alla supervisione senza sostituzione del clinico umano.
+- **Utilità Clinica e CBT:** Fornisce un inquadramento fondamentale per i professionisti della salute mentale e della CBT, chiarendo i meccanismi attraverso cui i modelli commerciali falliscono come terapeuti autonomi (creazione di dipendenza da [infrastruttura emotiva](concetti/emotional-infrastructure.md), validazione priva di attrito, relazioni parasociali di [intimità artificiale](concetti/artificial-intimacy.md), alimentazione di deliri e [AI psychosis](ai-psychosis.md), fallimento nei protocolli di crisi), delineando al contempo l'adozione virtuosa dell'IA per la simulazione didattica di casi clinici (es. *SchemaSim*) e il supporto alla supervisione senza sostituzione del clinico umano.
 
 ```mermaid
 flowchart TD
@@ -131,4 +131,6 @@ flowchart TD
 ---
 
 ## Relazioni
-- Vedi anche: [[emotional-infrastructure]], [[artificial-intimacy]], [[ai-psychosis]], [[sycophantic-mirroring]], [[uso-problematico-chatbot-ai]], [[simulated-therapeutic-alliance]], [[clinical-ai-simulation]], [[supervisione-clinica-ai]], [[calibrated-mismatches]], [[anthropomorphism-in-ai]], [[automated-clinical-ai-red-teaming]]
+- Vedi anche: [emotional-infrastructure](emotional-infrastructure.md), [artificial-intimacy](artificial-intimacy.md), [ai-psychosis](ai-psychosis.md), [sycophantic-mirroring](concetti/concetti/concetti\sycophantic-mirroring.md), [uso-problematico-chatbot-ai](uso-problematico-chatbot-ai.md), [simulated-therapeutic-alliance](simulated-therapeutic-alliance.md), [clinical-ai-simulation](clinical-ai-simulation.md), [supervisione-clinica-ai](supervisione-clinica-ai.md), [calibrated-mismatches](concetti/concetti/concetti\calibrated-mismatches.md), [anthropomorphism-in-ai](anthropomorphism-in-ai.md), [automated-clinical-ai-red-teaming](automated-clinical-ai-red-teaming.md)
+
+

@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Three-Layer Governance Framework (AI in Mental Health)
 
 **Summary**: Modello di governance a tre livelli (Salvaguardie Tecniche, Governance Clinica, Supervisione Istituzionale e Regolatoria) ideato per guidare l'integrazione sicura, etica ed equa dell'intelligenza artificiale nel counseling psicologico e nei servizi di salute mentale.
@@ -67,11 +71,14 @@ Regola l'ecosistema sanitario a livello macro per tutelare la sicurezza pubblica
 ---
 
 ## Related pages
-- [[erdemir-sumbas-2026]]
-- [[stepped-care-ai-integration]]
-- [[technical-vulnerabilities-llm-counseling]]
-- [[simulated-empathy-vs-authentic-presence]]
-- [[algorithmic-bias-and-digital-inequalities]]
-- [[human-in-the-reasoning]]
-- [[digital-therapeutic-alliance]]
-- [[clinical-fidelity-assessment]]
+- [erdemir-sumbas-2026](../sintesi/erdemir-sumbas-2026.md)
+- [stepped-care-ai-integration](stepped-care-ai-integration.md)
+- [technical-vulnerabilities-llm-counseling](technical-vulnerabilities-llm-counseling.md)
+- [simulated-empathy-vs-authentic-presence](concetti/concetti\simulated-empathy-vs-authentic-presence.md)
+- [algorithmic-bias-and-digital-inequalities](algorithmic-bias-and-digital-inequalities.md)
+- [human-in-the-reasoning](human-in-the-reasoning.md)
+- [digital-therapeutic-alliance](../digital-therapeutic-alliance.md)
+- [clinical-fidelity-assessment](../clinical-fidelity-assessment.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

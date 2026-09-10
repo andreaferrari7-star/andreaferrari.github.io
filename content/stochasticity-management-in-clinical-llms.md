@@ -8,7 +8,7 @@ source_papers: ["MI-CLEAR-LLM_2025.pdf"]
 ## Definizione Operativa
 - La **Gestione della Stocasticità (*Stochasticity Management*)** nell'intelligenza artificiale clinica definisce l'insieme di strategie metodologiche, iperparametriche e statistiche volte a controllare, quantificare e sintetizzare la variabilità non deterministica intrinseca alle risposte generate dai Large Language Models (LLM) e Large Multimodal Models (LMM).
 - **Meccanismo Probabilistico Fondamentale:** A differenza degli algoritmi di intelligenza artificiale convenzionali (modelli discriminativi, alberi decisionali, reti neurali convoluzionali deterministiche) che restituiscono un output identico per il medesimo input, i modelli basati su architettura Transformer autoregressiva generano sequenze testuali campionando token successivi da una distribuzione di probabilità calcolata tramite la funzione *softmax*.
-- **Rilevanza per la Ricerca Clinica:** In medicina e radiologia, la stocasticità può indurre il modello a formulare diagnosi differenziali discordanti o ad assegnare categorie nosografiche eterogenee (es. LI-RADS 3 vs LI-RADS 4) per la medesima vignetta clinica. Come formalizzato dalle linee guida **[[mi-clear-llm-2025|MI-CLEAR-LLM]]** (Park et al., 2025) e [[chart-reporting-guideline|CHART]], una rigorosa rendicontazione dei parametri di casualità e dei protocolli di aggregazione delle risposte è indispensabile per validare l'affidabilità scientifica e la sicurezza regolatoria dei modelli sanitari.
+- **Rilevanza per la Ricerca Clinica:** In medicina e radiologia, la stocasticità può indurre il modello a formulare diagnosi differenziali discordanti o ad assegnare categorie nosografiche eterogenee (es. LI-RADS 3 vs LI-RADS 4) per la medesima vignetta clinica. Come formalizzato dalle linee guida **[MI-CLEAR-LLM](concetti/mi-clear-llm-2025.md)** (Park et al., 2025) e [CHART](concetti/chart-reporting-guideline.md), una rigorosa rendicontazione dei parametri di casualità e dei protocolli di aggregazione delle risposte è indispensabile per validare l'affidabilità scientifica e la sicurezza regolatoria dei modelli sanitari.
 
 ```mermaid
 flowchart TD
@@ -114,17 +114,20 @@ Ogni studio clinico su LLM deve esplicitare nella sezione Metodi:
 ---
 
 ## Related pages
-- [[mi-clear-llm-guideline]]
-- [[mi-clear-llm-2025]]
-- [[chart-reporting-guideline]]
-- [[chart2025-1]]
-- [[elevate-genai-framework]]
-- [[elevate-genai2025-1]]
-- [[gamer-reporting-guideline]]
-- [[gamer2025-1]]
-- [[clinical-fidelity-assessment]]
-- [[single-task-zero-shot-evaluation-trap]]
-- [[power-safety-paradox]]
-- [[prompting-in-psychology]]
-- [[large-language-models]]
-- [[software-as-a-medical-device-salute-mentale]]
+- [mi-clear-llm-guideline](mi-clear-llm-guideline.md)
+- [mi-clear-llm-2025](mi-clear-llm-2025.md)
+- [chart-reporting-guideline](chart-reporting-guideline.md)
+- [chart2025-1](chart2025-1.md)
+- [elevate-genai-framework](elevate-genai-framework.md)
+- [elevate-genai2025-1](elevate-genai2025-1.md)
+- [gamer-reporting-guideline](gamer-reporting-guideline.md)
+- [gamer2025-1](gamer2025-1.md)
+- [clinical-fidelity-assessment](clinical-fidelity-assessment.md)
+- [single-task-zero-shot-evaluation-trap](single-task-zero-shot-evaluation-trap.md)
+- [power-safety-paradox](power-safety-paradox.md)
+- [prompting-in-psychology](prompting-in-psychology.md)
+- [large-language-models](large-language-models.md)
+- [software-as-a-medical-device-salute-mentale](software-as-a-medical-device-salute-mentale.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

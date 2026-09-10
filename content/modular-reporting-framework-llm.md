@@ -4,7 +4,7 @@ source_papers: ["TRIPOD-LLM2025.pdf"]
 ---
 
 ## Definizione Operativa
-- Il **Modular Reporting Framework for LLMs** è il paradigma metodologico introdotto dallo standard internazionale [[tripod-llm2025|TRIPOD-LLM]] (Gallifant et al., *Nature Medicine* 2025) per superare i limiti delle checklist di rendicontazione monolitiche nella ricerca biomedica basata su modelli generativi.
+- Il **Modular Reporting Framework for LLMs** è il paradigma metodologico introdotto dallo standard internazionale [TRIPOD-LLM](concetti/tripod-llm2025.md) (Gallifant et al., *Nature Medicine* 2025) per superare i limiti delle checklist di rendicontazione monolitiche nella ricerca biomedica basata su modelli generativi.
 - **Utilità CBT / Applicativa:** Consente un filtraggio dinamico dei requisiti di trasparenza tramite una matrice bidimensionale (4 Disegni di Ricerca x 9 Task Clinici), garantendo rigore metodologico ed eliminando l'overhead di rendicontazione non pertinente.
 
 ## Evidenze dalla Letteratura
@@ -15,4 +15,6 @@ source_papers: ["TRIPOD-LLM2025.pdf"]
 - Gallifant, J., et al. (2025). TRIPOD-LLM: Reporting guidelines for large language models in healthcare. *Nature Medicine*. https://doi.org/10.1038/s41591-025-XXXX-X
 
 ## Relazioni
-- Vedi anche: [[tripod-llm2025]], [[task-specific-generative-evaluation-healthcare]], [[living-guidelines-in-health-ai]], [[tripod-llm-reporting-guideline]], [[tripod-ai2024]]
+- Vedi anche: [tripod-llm2025](tripod-llm2025.md), [task-specific-generative-evaluation-healthcare](task-specific-generative-evaluation-healthcare.md), [living-guidelines-in-health-ai](living-guidelines-in-health-ai.md), [tripod-llm-reporting-guideline](tripod-llm-reporting-guideline.md), [tripod-ai2024](tripod-ai2024.md)
+
+

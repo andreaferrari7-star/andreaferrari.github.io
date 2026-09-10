@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Tavola Rotonda: Integrazione dell'IA in Psicoterapia — Governance, Co-Ragionamento e Modelli Ibridi
 
 **Summary**: Sintesi organica della tavola rotonda promossa dalla Consulta delle Scuole di Psicoterapia Cognitivo-Comportamentale e dall'Università Pontificia Salesiana, incentrata sulle opportunità, i rischi deontologici, le dinamiche di co-ragionamento clinico e i framework applicativi dell'intelligenza artificiale in psicoterapia.
@@ -8,7 +12,7 @@
 
 ## Panoramica dell'Evento e Contesto Istituzionale
 
-L'evento ha riunito i principali attori della psicoterapia cognitivo-comportamentale, della ricerca accademica e delle istituzioni professionali (Consulta Scuole CBT, Università Pontificia Salesiana, Ordine Psicologi del Lazio, ENPAP, AIP, CNR-ISTC, LUMSA, SFU Milano, HTLab Università Cattolica). Il focus centrale è l'analisi dell'impatto trasformativo dell'[[large-language-models|intelligenza artificiale generativa]] sulla cura della salute mentale, superando la logica emergenziale post-Covid per approdare a una governance strutturata e consapevole.
+L'evento ha riunito i principali attori della psicoterapia cognitivo-comportamentale, della ricerca accademica e delle istituzioni professionali (Consulta Scuole CBT, Università Pontificia Salesiana, Ordine Psicologi del Lazio, ENPAP, AIP, CNR-ISTC, LUMSA, SFU Milano, HTLab Università Cattolica). Il focus centrale è l'analisi dell'impatto trasformativo dell'[intelligenza artificiale generativa](concetti/large-language-models.md) sulla cura della salute mentale, superando la logica emergenziale post-Covid per approdare a una governance strutturata e consapevole.
 
 ---
 
@@ -42,7 +46,7 @@ La dott.ssa Federica Medda (Ordine Psicologi Lazio / CNOP) e la dott.ssa Tamosca
 La prof.ssa Tiziana Catarci (CNR-ISTC, Sapienza) ha criticato il paradigma convenzionale dello *Human-in-the-Loop*:
 - **La "Foglia di Fico" e la Moral Crumple Zone**: Imporre la firma o validazione finale del medico senza trasparenza sui processi algoritmici trasforma il clinico in una "zona di deformazione morale", che assorbe la totale responsabilità legale e deontologica senza reale comprensione.
 - **Bias Cognitivi**: Rischio di *automation bias* (accettazione acritica delle indicazioni algoritmiche) e *selective algorithm aversion* (rigetto pregiudiziale).
-- **Transizione a [[human-in-the-reasoning]]**: Il clinico deve partecipare attivamente all'albero decisionale, analizzando i criteri logici e i dati usati dal sistema per operare confutazioni a ragion veduta (co-ragionamento ed agenzia epistemica condivisa).
+- **Transizione a [human-in-the-reasoning](human-in-the-reasoning.md)**: Il clinico deve partecipare attivamente all'albero decisionale, analizzando i criteri logici e i dati usati dal sistema per operare confutazioni a ragion veduta (co-ragionamento ed agenzia epistemica condivisa).
 - **Community-in-the-Loop**: Distribuzione del vaglio critico e della responsabilità all'interno di team multidisciplinari integrati.
 
 ---
@@ -61,7 +65,7 @@ Il prof. Tonino Cantelmi (Università Gregoriana, Comitato Nazionale per la Bioe
 La dott.ssa Matilde Boattini (SFU Milano, Studi Cognitivi) ha presentato i risultati preliminari di uno studio longitudinale randomizzato in cieco sull'impatto del feedback tra sedute (condizioni: feedback AI vs feedback supervisore umano vs nessun feedback):
 - **Percezione e Autoefficacia**: Il feedback generato da LLM è stato spesso scambiato per il parere di un supervisore esperto a causa della stringente coerenza interna, determinando un incremento nell'autoefficacia percepita del terapeuta.
 - **Alleanza Terapeutica**: Il terapeuta ha riportato una maggiore alleanza percepita nella condizione senza feedback esterno (senso di minore intrusione nel setting).
-- **Evoluzione Costrutti**: Rilevanza della [[digital-therapeutic-alliance]] (fiducia epistemica informata e *self-agency* del professionista contro la delega passiva).
+- **Evoluzione Costrutti**: Rilevanza della [digital-therapeutic-alliance](digital-therapeutic-alliance.md) (fiducia epistemica informata e *self-agency* del professionista contro la delega passiva).
 
 ---
 
@@ -70,17 +74,20 @@ La dott.ssa Matilde Boattini (SFU Milano, Studi Cognitivi) ha presentato i risul
 Gli interventi tecnici e applicativi hanno illustrato le prospettive d'implementazione:
 - **Funnel Clinico e Agenti Verticali (Alessandro Calderoni, AIANC)**: Modelli multi-agente per lo screening iniziale, voice stress analysis, analisi del sentiment, fenotipizzazione digitale (postura, microespressioni, sensori fisiologici), copiloti in tempo reale e gestione asincrona delle comunicazioni inter-seduta.
 - **Framework PMV — Personalization, Multimodality, Virtual Entity (Chiara Rossi & Fabio Frisone, HTLab Cattolica / Marconi)**:
-  - Evoluzione dell'interazione terapeutica delineata nel [[pmv-framework]] da semplice interfaccia testuale a scambio multimodale (voce, mimica) fino alla presenza immersiva incarnata (*embodiment* in Realtà Virtuale con caschetto e avatar specializzati).
+  - Evoluzione dell'interazione terapeutica delineata nel [pmv-framework](pmv-framework.md) da semplice interfaccia testuale a scambio multimodale (voce, mimica) fino alla presenza immersiva incarnata (*embodiment* in Realtà Virtuale con caschetto e avatar specializzati).
   - Integrazione in modelli *stepped care* per ridurre il *treatment gap* e favorire interventi preventivi accessibili e stratificati.
 
 ---
 
 ## Related pages
-- [[human-in-the-reasoning]]
-- [[digital-therapeutic-alliance]]
-- [[pmv-framework]]
-- [[hybrid-ai-research-workflows]]
-- [[ai-research-ethics]]
-- [[anthropomorphism-in-ai]]
-- [[large-language-models]]
-- [[prompting-in-psychology]]
+- [human-in-the-reasoning](human-in-the-reasoning.md)
+- [digital-therapeutic-alliance](digital-therapeutic-alliance.md)
+- [pmv-framework](pmv-framework.md)
+- [hybrid-ai-research-workflows](hybrid-ai-research-workflows.md)
+- [ai-research-ethics](ai-research-ethics.md)
+- [anthropomorphism-in-ai](anthropomorphism-in-ai.md)
+- [large-language-models](large-language-models.md)
+- [prompting-in-psychology](prompting-in-psychology.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

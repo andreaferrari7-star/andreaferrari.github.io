@@ -50,7 +50,7 @@ Nell'evoluzione delle tecnologie per la salute mentale, gli oggetti di confine h
 | :--- | :--- | :--- | :--- |
 | **Infrastrutture Statiche** | Cartelle cliniche elettroniche (EHR), scale self-report (PHQ-9, GAD-7) | Raccolta e standardizzazione informativa | Rigidità epistemica; appiattimento dell'identità; asimmetria di potere clinico. |
 | **Sistemi Dialogici Regolati** | Woebot, Wysa (Chatbot CBT basati su regole o alberi fissi) | Erogazione di moduli psicoeducativi standard | Bassa plasticità; incapacità di adattamento interpersonale; isolamento self-help. |
-| **Mediatori Relazionali LLM Dinamici** | Sistemi multi-stadio basati su LLM (Quan et al., 2025; [[dynamic-boundary-mediation-framework]]) | Mediazione epistemica, relazionale e contestuale attiva lungo l'intero percorso di cura | Rischio di finto rispecchiamento (*robotic feeling*); richiede controllo rigoroso della privacy. |
+| **Mediatori Relazionali LLM Dinamici** | Sistemi multi-stadio basati su LLM (Quan et al., 2025; [dynamic-boundary-mediation-framework](dynamic-boundary-mediation-framework.md)) | Mediazione epistemica, relazionale e contestuale attiva lungo l'intero percorso di cura | Rischio di finto rispecchiamento (*robotic feeling*); richiede controllo rigoroso della privacy. |
 
 ---
 
@@ -79,5 +79,7 @@ Quando integrati responsabilmente, gli oggetti di confine potenziati da LLM prom
 - Callon, M. (1984). Some elements of a sociology of translation: Domestication of the scallops and the fishermen of St Brieuc Bay. *The Sociological Review*, 32(1), 196–233.
 
 ## Relazioni
-- Vedi anche: [[2512-22462v1]], [[dynamic-boundary-mediation-framework]], [[educator-burden-marginalized-clients]], [[interazione-triadica-terapeuta-paziente-ia]], [[negotiable-data-visibility-privacy]], [[contextualized-relational-memory]], [[between-session-continuity-ai]], [[simulated-empathy-vs-authentic-presence]], [[ai-assisted-psychotherapy]]
+- Vedi anche: [2512-22462v1](2512-22462v1.md), [dynamic-boundary-mediation-framework](dynamic-boundary-mediation-framework.md), [educator-burden-marginalized-clients](concetti/educator-burden-marginalized-clients.md), [interazione-triadica-terapeuta-paziente-ia](concetti/interazione-triadica-terapeuta-paziente-ia.md), [negotiable-data-visibility-privacy](concetti/negotiable-data-visibility-privacy.md), [contextualized-relational-memory](concetti/contextualized-relational-memory.md), [between-session-continuity-ai](concetti/between-session-continuity-ai.md), [simulated-empathy-vs-authentic-presence](concetti/concetti/concetti\simulated-empathy-vs-authentic-presence.md), [ai-assisted-psychotherapy](ai-assisted-psychotherapy.md)
 
+## Riferimenti Bibliografici
+- [Da integrare]

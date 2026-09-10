@@ -6,7 +6,7 @@ source_papers: ["Normativa LLM Psicologia in Italia.pdf"]
 # Rapporto di Analisi Tecnico-Giuridica: Conformità Normativa e Deontologica nell'Impiego dei Large Language Models nella Pratica Psicologica e Psicoterapeutica in Italia
 
 ## Definizione Operativa
-- Il documento fornisce la mappatura sistematica e multilivello delle fonti giuridiche, regolamentari e deontologiche (Diritto UE, Privacy GDPR/Nazionale, Legislazione Sanitaria Italiana e Codice Deontologico post-Sentenza CdS n. 10376/2024) che disciplinano l'integrazione dei [[large-language-models|Large Language Models (LLM)]] e dell'IA generativa nella psicologia clinica e psicoterapia in Italia.
+- Il documento fornisce la mappatura sistematica e multilivello delle fonti giuridiche, regolamentari e deontologiche (Diritto UE, Privacy GDPR/Nazionale, Legislazione Sanitaria Italiana e Codice Deontologico post-Sentenza CdS n. 10376/2024) che disciplinano l'integrazione dei [Large Language Models (LLM)](concetti/large-language-models.md) e dell'IA generativa nella psicologia clinica e psicoterapia in Italia.
 - **Utilità CBT:** Guida il clinico cognitivo-comportamentale a strutturare workflow operativi conformi (brainstorming su casi complessi, trascrizione/analisi sedute, refertazione SOAP e protocolli digitali) evitando violazioni del segreto professionale, sanzioni privacy e profili di colpa professionale per allucinazioni algoritmiche o affidamento non supervisionato.
 
 ```mermaid
@@ -49,7 +49,7 @@ L'integrazione degli LLM e della GenAI nella salute mentale in Italia è governa
 | Livello Normativo | Fonte Giuridica / Documento | Articoli e Principi Rilevanti | Valenza Giuridica |
 | :--- | :--- | :--- | :--- |
 | **1. Diritto UE** | **Regolamento (UE) 2024/1689 (AI Act)** | **Art. 14:** Sorveglianza umana (*Human-in-the-loop*); **Allegato III:** Sistemi ad alto rischio. Impone governance dei dati, documentazione tecnica e trasparenza per prevenire rischi per la salute e i diritti fondamentali. | Cogente (Regolamento UE) |
-| **1. Diritto UE** | **Regolamento (UE) 2017/745 (MDR)** & **Linee Guida MDCG 2019-11** (rev. 2024/2025) | **Allegato VIII, Regola 11:** Classificazione Software as a Medical Device ([[software-as-a-medical-device-salute-mentale|SaMD]]). Software per decisioni diagnostiche/terapeutiche = **Classe IIa** (o **Classe IIb/III** in caso di pericolo di morte o grave deterioramento). | Cogente (MDR) e interpretativa (MDCG) |
+| **1. Diritto UE** | **Regolamento (UE) 2017/745 (MDR)** & **Linee Guida MDCG 2019-11** (rev. 2024/2025) | **Allegato VIII, Regola 11:** Classificazione Software as a Medical Device ([SaMD](software-as-a-medical-device-salute-mentale.md)). Software per decisioni diagnostiche/terapeutiche = **Classe IIa** (o **Classe IIb/III** in caso di pericolo di morte o grave deterioramento). | Cogente (MDR) e interpretativa (MDCG) |
 | **2. Privacy UE/IT** | **Regolamento (UE) 2016/679 (GDPR)** | **Art. 5:** Principi di limitazione e minimizzazione; **Art. 9:** Trattamento dati particolari/sanitari (deroga par. 2 lett. h per finalità di cura con segreto); **Art. 22:** Divieto decisioni unicamente automatizzate; **Art. 25:** Privacy by design/default; **Art. 28:** DPA con vendor; **Art. 32:** Sicurezza; **Art. 35:** Valutazione d'Impatto (**DPIA**). | Cogente (Regolamento UE) |
 | **2. Privacy UE/IT** | **D.Lgs. 196/2003** (agg. D.Lgs. 101/2018) & **Provvedimenti Garante Privacy** | **Art. 2-septies:** Misure di garanzia dati sanitari;<br/>**Provv. 9937730 (Ottobre 2023 - Decalogo IA):** Trasparenza, supervisione umana, non discriminazione algoritmica;<br/>**Provv. 10154670 (Luglio 2025 - Allarme Referti IA):** Divieto caricamento referti/dati clinici su piattaforme IA senza controllo e DPA. | Cogente (Legge nazionale e Delibere Autorità) |
 | **3. Normativa IT** | **DDL Intelligenza Artificiale (Atto S. 1146-B / L. 132/2024-2025)** | **Art. 7:** L'IA in sanità è mero "supporto", decisione clinica riservata esclusivamente al professionista sanitario;<br/>**Art. 13:** Nelle professioni intellettuali l'uso è solo strumentale con prevalenza del lavoro umano e obbligo di informativa chiara al cliente;<br/>**Art. 9:** Fascicolo Sanitario Elettronico. | Cogente (Legge nazionale) |
@@ -124,7 +124,7 @@ graph LR
     end
 ```
 
-### 1. [[responsabilita-sanitaria-allucinazioni-algoritmiche|Responsabilità Civile per Allucinazioni Algoritmiche]]
+### 1. [Responsabilità Civile per Allucinazioni Algoritmiche](concetti/responsabilita-sanitaria-allucinazioni-algoritmiche.md)
 - **Vuoto Normativo:** Assenza di una giurisprudenza consolidata specifica per la psicoterapia IA-assistita in caso di danni derivanti da *allucinazioni* (output formalmente plausibili ma clinicamente aberranti).
 - **Inquadramento Giuridico:** Ai sensi dell'Art. 7 del DDL IA e della Legge Gelli-Bianco (L. 24/2017), vige il principio dell'**intrasferibilità della responsabilità**. Il clinico assorbe per intero l'errore del software che ha deciso liberamente di consultare, rispondendo a titolo di colpa professionale (imperizia o negligenza) per omessa verifica delle *leges artis*.
 
@@ -132,7 +132,7 @@ graph LR
 - **Rischio:** L'immissione di formulazioni cliniche originali, protocolli di intervento inediti o note descrittive in interfacce cloud non protette espone tale materiale al riaddestramento dell'IA, con potenziale esfiltrazione del *know-how* terapeutico.
 - **Presidio:** In base al principio di precauzione e all'Art. 17 del Codice Deontologico (custodia), il know-how clinico deve essere protetto con il medesimo rigore applicato ai dati sanitari, ricorrendo solo a software isolati.
 
-### 3. [[demarcazione-wellness-vs-samd-salute-mentale|Confine tra Wellness App e Medical Device]]
+### 3. [Confine tra Wellness App e Medical Device](concetti/demarcazione-wellness-vs-samd-salute-mentale.md)
 - **Zona Grigia:** Le applicazioni per il benessere generale o la gestione dello stress quotidiano (*lifestyle/wellness*) sfuggono alla disciplina dei dispositivi medici. Tuttavia, se un assistente basato su LLM eroga tecniche di mindfulness e contestualmente intercetta marker linguistici di depressione maggiore modulando le risposte, sconfina nella clinica.
 - **Criterio Prudenziale:** In assenza di linee guida verticali del CNOP o del Ministero della Salute, qualsiasi software che inferisce costrutti psicopatologici e formula raccomandazioni cliniche mirate deve essere considerato SaMD e sottoposto ai requisiti del MDR 2017/745.
 
@@ -199,4 +199,7 @@ sequenceDiagram
 ---
 
 ## Relazioni
-- Vedi anche: [[quattro-condizioni-liceita-ia-psicologia]], [[configurazione-sicurezza-piattaforme-ia-clinica]], [[guida-pratica-ai-oppv-1]], [[responsabilita-sanitaria-allucinazioni-algoritmiche]], [[demarcazione-wellness-vs-samd-salute-mentale]], [[software-as-a-medical-device-salute-mentale]], [[human-oversight-and-liability-in-clinical-ai]], [[gdpr-governance-mental-health-ai]], [[informed-consent-for-clinical-ai]], [[large-language-models]], [[over-deference-in-llm-supervision]]
+- Vedi anche: [quattro-condizioni-liceita-ia-psicologia](quattro-condizioni-liceita-ia-psicologia.md), [configurazione-sicurezza-piattaforme-ia-clinica](configurazione-sicurezza-piattaforme-ia-clinica.md), [guida-pratica-ai-oppv-1](guida-pratica-ai-oppv-1.md), [responsabilita-sanitaria-allucinazioni-algoritmiche](responsabilita-sanitaria-allucinazioni-algoritmiche.md), [demarcazione-wellness-vs-samd-salute-mentale](demarcazione-wellness-vs-samd-salute-mentale.md), [software-as-a-medical-device-salute-mentale](software-as-a-medical-device-salute-mentale.md), [human-oversight-and-liability-in-clinical-ai](human-oversight-and-liability-in-clinical-ai.md), [gdpr-governance-mental-health-ai](concetti/concetti/concetti\gdpr-governance-mental-health-ai.md), [informed-consent-for-clinical-ai](informed-consent-for-clinical-ai.md), [large-language-models](large-language-models.md), [over-deference-in-llm-supervision](over-deference-in-llm-supervision.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

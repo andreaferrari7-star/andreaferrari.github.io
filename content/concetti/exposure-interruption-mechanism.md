@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Exposure Interruption Mechanism (Meccanismo di Interruzione dell'Esposizione)
 
 **Summary**: Fallimento clinico sistematico e riproducibile dei Large Language Models addestrati con RLHF, in cui le risposte di sicurezza generalista interrompono l'elaborazione emotiva del trauma durante l'esposizione terapeutica attraverso tre modalità: *grounding* prematuro con false rassicurazioni, confusione tra ricordo passato ed emergenza in tempo reale, e inserimento improprio di risorse di crisi.
@@ -81,9 +85,12 @@ Nello studio di Suhas et al. (2026), su 866 risposte valutate come clinicamente 
 
 ## Pagine Correlate
 
-- [[suhas-et-al-2026]] — Sintesi dello studio sperimentale sui fallimenti clinici dell'allineamento.
-- [[rlhf-safety-therapeutic-conflict]] — Analisi teorica dell'incompatibilità tra RLHF e psicoterapia.
-- [[acknowledgment-appropriateness-gap]] — Analisi del crollo prestazionale nei contesti di emergenza (*Crisis Cliff*).
-- [[five-axis-mental-health-evaluation-framework]] — Il framework a 5 assi per la verifica pre-rilascio.
-- [[generative-ai-exposure-therapy]] — L'applicazione delle tecnologie generative all'esposizione clinica.
-- [[rischi-esposizione-cptsd-ia]] — Rischi specifici dell'esposizione non controllata nel trauma complesso.
+- [suhas-et-al-2026](../sintesi/suhas-et-al-2026.md) — Sintesi dello studio sperimentale sui fallimenti clinici dell'allineamento.
+- [rlhf-safety-therapeutic-conflict](rlhf-safety-therapeutic-conflict.md) — Analisi teorica dell'incompatibilità tra RLHF e psicoterapia.
+- [acknowledgment-appropriateness-gap](acknowledgment-appropriateness-gap.md) — Analisi del crollo prestazionale nei contesti di emergenza (*Crisis Cliff*).
+- [five-axis-mental-health-evaluation-framework](five-axis-mental-health-evaluation-framework.md) — Il framework a 5 assi per la verifica pre-rilascio.
+- [generative-ai-exposure-therapy](generative-ai-exposure-therapy.md) — L'applicazione delle tecnologie generative all'esposizione clinica.
+- [rischi-esposizione-cptsd-ia](rischi-esposizione-cptsd-ia.md) — Rischi specifici dell'esposizione non controllata nel trauma complesso.
+
+## Riferimenti Bibliografici
+- [Da integrare]

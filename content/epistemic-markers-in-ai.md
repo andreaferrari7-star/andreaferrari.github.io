@@ -7,7 +7,7 @@ source_papers: ["2601.06032v1.pdf"]
 
 ## Definizione Operativa
 
-*   **Marcatori epistemici** (*epistemic markers* o *epistemic modalities*) e strategie di cautela verbale (*hedging*): nell'intelligenza artificiale generativa, si tratta di indicatori linguistici e sintattici (avverbi di probabilità come "maybe", "probably", "possibly", "vielleicht", "wahrscheinlich"; formule ipotetiche e congiuntivi/condizionali) attraverso cui un Large Language Model ([[large-language-models]]) esprime il proprio grado di certezza o incertezza probabilistica rispetto a un'affermazione o interpretazione sociale (Halliday, 1970; Holl-Etten et al., 2026).
+*   **Marcatori epistemici** (*epistemic markers* o *epistemic modalities*) e strategie di cautela verbale (*hedging*): nell'intelligenza artificiale generativa, si tratta di indicatori linguistici e sintattici (avverbi di probabilità come "maybe", "probably", "possibly", "vielleicht", "wahrscheinlich"; formule ipotetiche e congiuntivi/condizionali) attraverso cui un Large Language Model ([large-language-models](large-language-models.md)) esprime il proprio grado di certezza o incertezza probabilistica rispetto a un'affermazione o interpretazione sociale (Halliday, 1970; Holl-Etten et al., 2026).
 *   **Utilità clinica e assistiva**: Descrive il paradosso tra la trasparenza algoritmica (incoraggiata da protocolli di allineamento e RLHF per mitigare allucinazioni assertive o *overconfidence*) e le esigenze cliniche di utenti nello spettro autistico (*Autism Spectrum Condition*, ASC) o con deficit socio-comunicativi. Nei contesti assistivi, un eccesso di formulazioni ipotetiche o indecise trasferisce sull'utente l'onere cognitivo di discernere l'interpretazione corretta, rischiando di vanificare il supporto pratico nella decodifica delle interazioni quotidiane.
 
 ```mermaid
@@ -78,4 +78,5 @@ Negli studi empirici sulla cognizione sociale applicata (Holl-Etten et al., 2026
 - Zhou, K., Hwang, J. D., Ren, X., & Sap, M. (2024). Relying on the unreliable: The impact of language models’ reluctance to express uncertainty. *arXiv preprint arXiv:2401.06730*.
 
 ## Relazioni
-- Vedi anche: [[2601-06032v1]], [[applied-theory-of-mind-llm]], [[large-language-models]], [[machine-psychology]], [[validita-psicometrica-llm]], [[ai-assisted-psychotherapy]], [[simulated-empathy-vs-authentic-presence]], [[modello-centauro-clinico]]
+- Vedi anche: [2601-06032v1](2601-06032v1.md), [applied-theory-of-mind-llm](applied-theory-of-mind-llm.md), [large-language-models](large-language-models.md), [machine-psychology](machine-psychology.md), [validita-psicometrica-llm](concetti/concetti/concetti\validita-psicometrica-llm.md), [ai-assisted-psychotherapy](ai-assisted-psychotherapy.md), [simulated-empathy-vs-authentic-presence](concetti/concetti/concetti\simulated-empathy-vs-authentic-presence.md), [modello-centauro-clinico](concetti/concetti/concetti\modello-centauro-clinico.md)
+

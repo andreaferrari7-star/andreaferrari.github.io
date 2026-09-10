@@ -7,7 +7,7 @@ source_papers: ["CHART2025.pdf"]
 
 ## Definizione Operativa
 
-Gli **Studi di Consulenza Sanitaria erogata da Chatbot** (*Chatbot Health Advice - CHA studies*) costituiscono un genere di ricerca medica computazionale ed empirica finalizzato a valutare sistematicamente le prestazioni, l'accuratezza, la sicurezza e la riproducibilità di modelli di intelligenza artificiale generativa ([[large-language-models]] e sistemi multimodali) nell'interrogazione mirata alla sintesi di evidenze cliniche o all'erogazione di consigli sanitari a pazienti, cittadini o professionisti della salute (Huo et al., 2025; *JAMA Network Open*, doi: 10.1001/jamanetworkopen.2025.30220).
+Gli **Studi di Consulenza Sanitaria erogata da Chatbot** (*Chatbot Health Advice - CHA studies*) costituiscono un genere di ricerca medica computazionale ed empirica finalizzato a valutare sistematicamente le prestazioni, l'accuratezza, la sicurezza e la riproducibilità di modelli di intelligenza artificiale generativa ([large-language-models](large-language-models.md) e sistemi multimodali) nell'interrogazione mirata alla sintesi di evidenze cliniche o all'erogazione di consigli sanitari a pazienti, cittadini o professionisti della salute (Huo et al., 2025; *JAMA Network Open*, doi: 10.1001/jamanetworkopen.2025.30220).
 
 **Spettro di Applicazione Clinica:** Lo spettro di indagine copre l'intero continuum assistenziale:
 
@@ -52,7 +52,7 @@ flowchart TD
 
 ### Anatomia Metodologica di uno Studio CHA
 
-La conduzione rigorosa di uno studio CHA, formalizzata dal [[chart-reporting-guideline|CHART Statement]] (Huo et al., 2025), richiede il presidio di 5 fasi metodologiche essenziali:
+La conduzione rigorosa di uno studio CHA, formalizzata dal [CHART Statement](concetti/chart-reporting-guideline.md) (Huo et al., 2025), richiede il presidio di 5 fasi metodologiche essenziali:
 
 ```mermaid
 sequenceDiagram
@@ -111,15 +111,18 @@ Accecamento dei valutatori (blinded review), calcolo della concordanza (*Inter-R
 
 ## Relazioni
 
-*   [[chart2025-1]]
-*   [[chart-reporting-guideline]]
-*   [[traffic-light-quality-appraisal-clinical-ai]]
-*   [[chai-blueprint-health-ai]]
-*   [[clinical-fidelity-assessment]]
-*   [[ai-research-ethics]]
-*   [[large-language-models]]
-*   [[prompting-in-psychology]]
-*   [[gdpr-governance-mental-health-ai]]
-*   [[healthcare-conversational-agents]]
-*   [[clinical-ai-simulation]]
-*   [[synthetic-psychopathology]]
+*   [chart2025-1](chart2025-1.md)
+*   [chart-reporting-guideline](chart-reporting-guideline.md)
+*   [traffic-light-quality-appraisal-clinical-ai](traffic-light-quality-appraisal-clinical-ai.md)
+*   [chai-blueprint-health-ai](chai-blueprint-health-ai.md)
+*   [clinical-fidelity-assessment](clinical-fidelity-assessment.md)
+*   [ai-research-ethics](ai-research-ethics.md)
+*   [large-language-models](large-language-models.md)
+*   [prompting-in-psychology](prompting-in-psychology.md)
+*   [gdpr-governance-mental-health-ai](concetti/concetti/concetti\gdpr-governance-mental-health-ai.md)
+*   [healthcare-conversational-agents](concetti/concetti/concetti\healthcare-conversational-agents.md)
+*   [clinical-ai-simulation](clinical-ai-simulation.md)
+*   [synthetic-psychopathology](synthetic-psychopathology.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

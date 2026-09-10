@@ -16,4 +16,5 @@ source_papers: ["fnhum-19-1559760.pdf"]
 - Arena, L., Peñate, W., Rivero, F., Marrero, R. J., Olivares, T., Scarano, A., Fumero, A., & Grecucci, A. (2025). Gray and white matter alterations in Obsessive-Compulsive Personality Disorder: a data fusion machine learning approach. *Frontiers in Human Neuroscience*, 19, 1559760. https://doi.org/10.3389/fnhum.2025.1559760
 
 ## Relazioni
-- Vedi anche: [[arena-et-al-2025]], [[edge-functional-connectivity-entropy]], [[maladaptive-perfectionism]]
+- Vedi anche: [arena-et-al-2025](../arena-et-al-2025.md), [edge-functional-connectivity-entropy](edge-functional-connectivity-entropy.md), [maladaptive-perfectionism](maladaptive-perfectionism.md)
+

@@ -6,7 +6,7 @@ source_papers: ["mental_v12i1e78410.pdf"]
 # AI-Blended Therapy (Terapia Integrata con Agenti Generativi di IA)
 
 ## Definizione Operativa
-- Sintesi: L'**AI-Blended Therapy** (Terapia Integrata con IA Generativa) è il modello clinico ed ecologico formulato da Bucher, Egger, Vashkite, Wu e Schwabe (2025; *JMIR Mental Health*, doi: [10.2196/78410](https://doi.org/10.2196/78410)) che definisce l'integrazione strutturale degli agenti conversazionali basati su modelli linguistici di grandi dimensioni ([[large-language-models|LLM]]) all'interno di percorsi psicoterapeutici e psichiatrici **guidati e supervisionati da clinici umani abilitati**. A differenza del *blended care* classico (Wentzel et al., 2016; Herbener & Damholdt, 2025) dove i moduli digitali sono statici, deterministici e basati su regole o alberi decisionali passivi, nell'AI-Blended Therapy gli agenti manifestano una **agency conversazionale proattiva** (*proactive conversational agency*), consentendo un supporto altamente personalizzato, dialogico e adattivo tra una seduta e l'altra (*between-session engagement*), pur mantenendo l'ancoraggio deontologico e decisionale al terapeuta umano. L'obiettivo clinico è superare il paradigma fallimentare e rischioso delle applicazioni "fai-da-te" monoutente (*single-user standalone silos*), garantendo la salvaguardia dell'alleanza terapeutica, la prevenzione di allucinazioni iatrogene e la continuità ecologica del trattamento.
+- Sintesi: L'**AI-Blended Therapy** (Terapia Integrata con IA Generativa) è il modello clinico ed ecologico formulato da Bucher, Egger, Vashkite, Wu e Schwabe (2025; *JMIR Mental Health*, doi: [LLM](concetti/large-language-models.md)) all'interno di percorsi psicoterapeutici e psichiatrici **guidati e supervisionati da clinici umani abilitati**. A differenza del *blended care* classico (Wentzel et al., 2016; Herbener & Damholdt, 2025) dove i moduli digitali sono statici, deterministici e basati su regole o alberi decisionali passivi, nell'AI-Blended Therapy gli agenti manifestano una **agency conversazionale proattiva** (*proactive conversational agency*), consentendo un supporto altamente personalizzato, dialogico e adattivo tra una seduta e l'altra (*between-session engagement*), pur mantenendo l'ancoraggio deontologico e decisionale al terapeuta umano. L'obiettivo clinico è superare il paradigma fallimentare e rischioso delle applicazioni "fai-da-te" monoutente (*single-user standalone silos*), garantendo la salvaguardia dell'alleanza terapeutica, la prevenzione di allucinazioni iatrogene e la continuità ecologica del trattamento.
 - **Utilità CBT:** L'architettura multi-stakeholder a tre terminali supporta un ingaggio continuativo quotidiano senza stigma. Attraverso l'agente IA generativo, i pazienti consolidano gli homework e le competenze di autoregolazione svolgendo esercizi guidati CBT, ristrutturazione cognitiva, miglioramento del sonno, psicoeducazione interattiva, sostegno motivazionale 24/7 e journaling interattivo (come il diario sintomatologico MindfulDiary). Il sistema implementa un triage intelligente con rilevamento di indicatori di rischio, protocolli di blocco automatico ed escalation sicura in caso di crisi. Il clinico sfrutta la dashboard clinica per la valutazione diagnostica, prescrizione e personalizzazione dell'agente, monitoraggio e supervisione dei dati, consentendo la gestione di situazioni complesse, la prevenzione delle ricadute e la revisione integrata dei dati durante la seduta, dedicando maggior tempo all'approfondimento relazionale e all'alleanza terapeutica. È possibile anche un coinvolgimento selettivo di pari o genitori (es. ADHD).
 
 ```mermaid
@@ -67,7 +67,7 @@ sequenceDiagram
 ## Evidenze dalla Letteratura
 Il razionale clinico per l'adozione dell'AI-Blended Therapy rispetto alle app autonome si basa sulla mitigazione di gravi criticità (Bucher et al., 2025; Balan & Gumpel, 2025; Lawrence et al., 2024):
 - **Mitigazione del Rischio Iatrogeno e delle Allucinazioni:** I modelli autonomi possono generare informazioni mediche errate o pericolose (es. consigli dietetici a pazienti con anoressia, Monteith et al., 2024; o pessimismo prognostico demoralizzante, Elyoseph et al., 2024). Nell'AI-Blended Therapy, il clinico accede ai report sintetici e disinnesca immediatamente fraintendimenti o credenze distorte, rettificando i dati e controllando i prompt.
-- **Preservazione dell'Alleanza Terapeutica e della Relazione Reale:** La tecnologia non possiede intenzionalità né coscienza morale ([[genuineness-gap|Genuineness Gap]]). Tuttavia, ereditando la legittimità del professionista umano (*Stamp of Approval*), l'agente è percepito come un'estensione della cura (*collaborative tool*), massimizzando la motivazione, la persistenza al trattamento (*adherence*), e riducendo il *drop-out* tipico dell' *overreliance* / *halo effect* nei bot monoutente.
+- **Preservazione dell'Alleanza Terapeutica e della Relazione Reale:** La tecnologia non possiede intenzionalità né coscienza morale ([Genuineness Gap](genuineness-gap.md)). Tuttavia, ereditando la legittimità del professionista umano (*Stamp of Approval*), l'agente è percepito come un'estensione della cura (*collaborative tool*), massimizzando la motivazione, la persistenza al trattamento (*adherence*), e riducendo il *drop-out* tipico dell' *overreliance* / *halo effect* nei bot monoutente.
 - **Gestione Dinamica dell'Emergenza e Protocolli di Escalation:** A differenza dei chatbot autonomi che continuano a conversare anche dopo aver consigliato il pronto soccorso in caso di ideazione suicidaria (Heston, 2023), i sistemi blended attivano un canale di notifica prioritaria (*escalation sicura*) al terapeuta o ai servizi territoriali al rilevamento di segnali di allarme.
 
 ```mermaid
@@ -111,12 +111,15 @@ L'implementazione su larga scala solleva questioni cruciali (Bucher et al., 2025
 - Bassi, G., et al. (2022). A virtual coach (Motibot) for supporting healthy coping strategies among adults with diabetes. *JMIR Human Factors*, 9(1), e32211.
 
 ## Relazioni
-- [[mental-v12i1e78410]]
-- [[three-layer-morphological-framework-mental-health-ai]]
-- [[concetti/blended-care-ai-framework]]
-- [[modello-centauro-clinico]]
-- [[prognostic-pessimism-in-clinical-ai]]
-- [[retrieval-vs-generative-clinical-chatbots]]
-- [[three-layer-governance-framework]]
-- [[human-in-the-reasoning]]
-- [[layered-safeguards-in-clinical-ai]]
+- [mental-v12i1e78410](mental-v12i1e78410.md)
+- [three-layer-morphological-framework-mental-health-ai](three-layer-morphological-framework-mental-health-ai.md)
+- [concetti/blended-care-ai-framework](concetti/concetti/blended-care-ai-framework.md)
+- [modello-centauro-clinico](concetti/concetti/concetti\modello-centauro-clinico.md)
+- [prognostic-pessimism-in-clinical-ai](prognostic-pessimism-in-clinical-ai.md)
+- [retrieval-vs-generative-clinical-chatbots](retrieval-vs-generative-clinical-chatbots.md)
+- [three-layer-governance-framework](concetti/concetti/concetti\three-layer-governance-framework.md)
+- [human-in-the-reasoning](human-in-the-reasoning.md)
+- [layered-safeguards-in-clinical-ai](concetti/concetti/concetti\layered-safeguards-in-clinical-ai.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

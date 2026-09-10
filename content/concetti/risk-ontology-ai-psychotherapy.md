@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Ontologia del Rischio per Agenti Psicoterapeutici Basati su IA (Risk Ontology for AI Psychotherapy)
 
 **Summary**: Framework ontologico gerarchico e standardizzato, sviluppato da Steenstra e Bickmore (2025), per la rilevazione, categorizzazione e mitigazione sistematica dei rischi e dei danni clinici emergenti nelle interazioni tra utenti e agenti virtuali intelligenti (IVA / LLM) in psicoterapia.
@@ -57,18 +61,21 @@ flowchart LR
 ```
 
 1. **Monitoraggio in Tempo Reale di Sessioni Reali**: Identificazione precoce di derive pericolose per interrompere tempestivamente la conversazione o allertare professionisti umani.
-2. **Valutazione con Pazienti Simulati ([[simpatient-evaluation-testbed]])**: Test pre-clinico su agenti virtuali per verificare come l'IA reagisce a personalità complesse senza esporre persone fragili a pericoli.
+2. **Valutazione con Pazienti Simulati ([simpatient-evaluation-testbed](simpatient-evaluation-testbed.md))**: Test pre-clinico su agenti virtuali per verificare come l'IA reagisce a personalità complesse senza esporre persone fragili a pericoli.
 3. **Benchmarking e Analisi Comparativa**: Standardizzazione dei profili di rischio per confrontare diverse architetture di LLM.
 4. **Identificazione di Esiti Inattesi**: Analisi post-hoc dei fallimenti dell'IA per scoprire pattern di comportamento tossici o distorsioni latenti.
 
 ---
 
 ## Pagine Correlate
-- [[in-session-warning-signs]]
-- [[acute-crisis-action-plans-ai]]
-- [[potential-real-world-consequences-ai]]
-- [[simpatient-evaluation-testbed]]
-- [[rischio-suicidario-ai-limits]]
-- [[three-layer-governance-framework]]
-- [[clinical-fidelity-assessment]]
-- [[steenstra-bickmore-2025]]
+- [in-session-warning-signs](concetti/concetti\in-session-warning-signs.md)
+- [acute-crisis-action-plans-ai](acute-crisis-action-plans-ai.md)
+- [potential-real-world-consequences-ai](potential-real-world-consequences-ai.md)
+- [simpatient-evaluation-testbed](simpatient-evaluation-testbed.md)
+- [rischio-suicidario-ai-limits](rischio-suicidario-ai-limits.md)
+- [three-layer-governance-framework](concetti/concetti\three-layer-governance-framework.md)
+- [clinical-fidelity-assessment](../clinical-fidelity-assessment.md)
+- [steenstra-bickmore-2025](../sintesi/steenstra-bickmore-2025.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

@@ -17,4 +17,5 @@ source_papers: ["behavsci-15-00488.pdf"]
 - Xu, Y., Liu, H., Liu, H., Lin, D., Wu, S., & Peng, Z. (2025). Brain Network Abnormalities in Obsessive–Compulsive Disorder: Insights from Edge Functional Connectivity Analysis. *Behavioral Sciences*, 15(4), 488. https://doi.org/10.3390/bs15040488
 
 ## Relazioni
-- Vedi anche: [[edge-functional-connectivity-entropy]], [[task-based-fmri-cbt-prediction]], [[maladaptive-perfectionism]]
+- Vedi anche: [edge-functional-connectivity-entropy](concetti/edge-functional-connectivity-entropy.md), [task-based-fmri-cbt-prediction](concetti/task-based-fmri-cbt-prediction.md), [maladaptive-perfectionism](concetti/maladaptive-perfectionism.md)
+

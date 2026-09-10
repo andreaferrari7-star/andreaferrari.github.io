@@ -86,10 +86,11 @@ graph TD
 ---
 
 ## Pagine Correlate
-- [[rezaei-et-al-2026]]
-- [[network-based-ai-mental-healthcare]]
-- [[specialized-nlp-models-mental-health]]
-- [[etica-privacy-bias-ia-clinica]]
-- [[algorithmic-bias-and-digital-inequalities]]
-- [[three-layer-governance-framework]]
-- [[rischio-suicidario-ai-limits]]
+- [rezaei-et-al-2026](../sintesi/rezaei-et-al-2026.md)
+- [network-based-ai-mental-healthcare](network-based-ai-mental-healthcare.md)
+- [specialized-nlp-models-mental-health](specialized-nlp-models-mental-health.md)
+- [etica-privacy-bias-ia-clinica](etica-privacy-bias-ia-clinica.md)
+- [algorithmic-bias-and-digital-inequalities](algorithmic-bias-and-digital-inequalities.md)
+- [three-layer-governance-framework](concetti/concetti\three-layer-governance-framework.md)
+- [rischio-suicidario-ai-limits](rischio-suicidario-ai-limits.md)
+

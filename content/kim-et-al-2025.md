@@ -48,11 +48,12 @@ source_papers:
 - Reggente, N., Moody, T. D., Morfini, F., Sheen, C., Rissman, J., O’Neill, J., & Feusner, J. D. (2018). Multivariate resting-state functional connectivity predicts response to cognitive behavioral therapy in obsessive-compulsive disorder. *Proceedings of the National Academy of Sciences*, 115(9), 2222–2227. https://doi.org/10.1073/pnas.1716686115
 
 ## Relazioni
-- [[automated-erp-training]]
-- [[client101-simulazione-pazienti-virtuali]]
-- [[exposure-interruption-mechanism]]
-- [[deliberate-practice-in-psicoterapia-ia]]
-- [[diagnostic-accuracy-gap-llm-vs-physicians]]
-- [[supervisione-clinica-ai]]
-- [[ai-blended-therapy]]
-- [[cbt]]
+- [automated-erp-training](concetti/automated-erp-training.md)
+- [client101-simulazione-pazienti-virtuali](client101-simulazione-pazienti-virtuali.md)
+- [exposure-interruption-mechanism](concetti/exposure-interruption-mechanism.md)
+- [deliberate-practice-in-psicoterapia-ia](concetti/deliberate-practice-in-psicoterapia-ia.md)
+- [diagnostic-accuracy-gap-llm-vs-physicians](concetti/concetti/concetti\diagnostic-accuracy-gap-llm-vs-physicians.md)
+- [supervisione-clinica-ai](supervisione-clinica-ai.md)
+- [ai-blended-therapy](ai-blended-therapy.md)
+- [cbt](concetti/cbt.md)
+

@@ -62,10 +62,12 @@ Il passaggio concettuale da "validazione" a **valutazione continua** poggia su q
 
 ## Relazioni
 
-*   [[tripod-ai-reporting-guideline|TRIPOD+AI Reporting Guideline]]
-*   [[tripod-ai2024|Sintesi Paper TRIPOD+AI 2024 (Collins et al., BMJ)]]
-*   [[tripod-llm-reporting-guideline|TRIPOD-LLM Reporting Guideline]]
-*   [[cross-cultural-bias-and-fairness-audits-ai|Audit di Fairness e Bias nei Sistemi di IA Sanitaria]]
-*   [[dataset-integrity-and-contamination-in-medical-ai|Integrità del Dataset e Contaminazione nei Sistemi Sanitari]]
-*   [[software-as-a-medical-device-salute-mentale|Software as a Medical Device (SaMD)]]
+*   [TRIPOD+AI Reporting Guideline](concetti/tripod-ai-reporting-guideline.md)
+*   [Sintesi Paper TRIPOD+AI 2024 (Collins et al., BMJ)](tripod-ai2024.md)
+*   [TRIPOD-LLM Reporting Guideline](concetti/tripod-llm-reporting-guideline.md)
+*   [Audit di Fairness e Bias nei Sistemi di IA Sanitaria](concetti/cross-cultural-bias-and-fairness-audits-ai.md)
+*   [Integrità del Dataset e Contaminazione nei Sistemi Sanitari](concetti/dataset-integrity-and-contamination-in-medical-ai.md)
+*   [Software as a Medical Device (SaMD)](software-as-a-medical-device-salute-mentale.md)
 
+## Riferimenti Bibliografici
+- [Da integrare]

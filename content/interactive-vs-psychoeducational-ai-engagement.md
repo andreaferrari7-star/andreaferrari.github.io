@@ -9,7 +9,7 @@ source_papers: ["jmir-2025-1-e60435.pdf"]
 
 Il concetto di **Interactive vs. Psychoeducational AI Engagement** definisce la distinzione funzionale, clinica ed empirica tra due modalità primarie di erogazione di contenuti digitali in salute mentale assistita da intelligenza artificiale:
 
-1.  **Interventi CBT Attivo-Interattivi:** Esercizi conversazionali generativi guidati (es. decodifica e ristrutturazione dei pensieri automatici negativi, modello delle 5 aree, analisi funzionale ABC, compiti di esposizione o problem-solving) in cui l'utente esternalizza attivamente il proprio vissuto e riceve scaffolding socratico in tempo reale da un modello linguistico ([[large-language-models|LLM]]);
+1.  **Interventi CBT Attivo-Interattivi:** Esercizi conversazionali generativi guidati (es. decodifica e ristrutturazione dei pensieri automatici negativi, modello delle 5 aree, analisi funzionale ABC, compiti di esposizione o problem-solving) in cui l'utente esternalizza attivamente il proprio vissuto e riceve scaffolding socratico in tempo reale da un modello linguistico ([LLM](concetti/large-language-models.md));
 2.  **Materiali Psicoeducativi Passivi:** Contenuti informativi, dispense didattiche o articoli teorici digitalizzati sul funzionamento dei disturbi d'ansia e depressivi e sui principi della CBT, fruiti mediante lettura o consultazione unidirezionale (Habicht et al., 2025; *Journal of Medical Internet Research*, doi: [10.2196/60435](https://doi.org/10.2196/60435)).
 
 **Rilevanza Clinica:** Dimostra che la semplice trasposizione digitale di manuali o testi psicoeducativi all'interno di un'applicazione non è sufficiente a produrre cambiamenti sintomatici significativi o ad attenuare il fenomeno del dropout. Al contrario, è il **tasso di utilizzo interattivo (*use ratio*)** — ovvero la proporzione di esercizi pratici guidati completati rispetto alle letture teoriche — a costituire il fattore predittivo primario dell'aderenza alle sedute e della remissione clinica.
@@ -113,14 +113,17 @@ sequenceDiagram
 
 ## Relazioni
 
-*   [[jmir-2025-1-e60435]]
-*   [[ai-supported-between-session-engagement]]
-*   [[ai-enhanced-cbt]]
-*   [[digital-therapeutic-alliance]]
-*   [[modello-centauro-clinico]]
-*   [[cognitive-bias-rectification-in-llms]]
-*   [[relational-engagement-paradox-genai]]
-*   [[cbt-dialogue-systems-and-tools]]
-*   [[clinical-readiness-gap-in-mh-chatbots]]
-*   [[concetti/between-session-continuity-ai]]
-*   [[care-continuum-ai-functions-mental-health]]
+*   [jmir-2025-1-e60435](jmir-2025-1-e60435.md)
+*   [ai-supported-between-session-engagement](ai-supported-between-session-engagement.md)
+*   [ai-enhanced-cbt](concetti/concetti/concetti\concetti/concetti\ai-enhanced-cbt.md)
+*   [digital-therapeutic-alliance](digital-therapeutic-alliance.md)
+*   [modello-centauro-clinico](concetti/concetti/concetti\modello-centauro-clinico.md)
+*   [cognitive-bias-rectification-in-llms](cognitive-bias-rectification-in-llms.md)
+*   [relational-engagement-paradox-genai](relational-engagement-paradox-genai.md)
+*   [cbt-dialogue-systems-and-tools](concetti/concetti/concetti\cbt-dialogue-systems-and-tools.md)
+*   [clinical-readiness-gap-in-mh-chatbots](concetti/concetti/concetti\clinical-readiness-gap-in-mh-chatbots.md)
+*   [concetti/between-session-continuity-ai](concetti/concetti/between-session-continuity-ai.md)
+*   [care-continuum-ai-functions-mental-health](care-continuum-ai-functions-mental-health.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

@@ -180,11 +180,12 @@ graph TD
 ---
 
 ## Pagine e Concetti Correlati
-- [[mymentorllm-framework]]: L'architettura triadica integrata per la simulazione e la deliberate practice in psicoterapia.
-- [[deliberate-practice-in-psicoterapia-ia]]: Fondamenti teorici ed empirici della deliberate practice aumentata da modelli generativi.
-- [[risonanza-affettiva-simulazione-clinica]]: Modellizzazione delle dinamiche emotive e rispecchiamento attenuato tramite EmoAtlas e Plutchik.
-- [[native-speech-vs-text-in-clinical-simulation]]: Confronto tra audio nativo e testo nella valutazione della fedeltà clinica CTRS.
-- [[over-deference-in-llm-supervision]]: Analisi del bias di deferenza e compiacenza algoritmica nei modelli linguistici sottomessi a feedback supervisivo.
-- [[ctrs-automated-evaluation]]: Standard di valutazione quantitativa della fedeltà e competenza nella CBT.
-- [[simulazione-pazienti-ai]]: Metodologie di simulazione di pazienti virtuali e grounding psicopatologico.
-- [[supervisione-clinica-ai]]: Modelli di supervisione e debriefing formativo mediati da agenti artificiali.
+- [mymentorllm-framework](../concetti/mymentorllm-framework.md): L'architettura triadica integrata per la simulazione e la deliberate practice in psicoterapia.
+- [deliberate-practice-in-psicoterapia-ia](../concetti/deliberate-practice-in-psicoterapia-ia.md): Fondamenti teorici ed empirici della deliberate practice aumentata da modelli generativi.
+- [risonanza-affettiva-simulazione-clinica](../concetti/risonanza-affettiva-simulazione-clinica.md): Modellizzazione delle dinamiche emotive e rispecchiamento attenuato tramite EmoAtlas e Plutchik.
+- [native-speech-vs-text-in-clinical-simulation](../native-speech-vs-text-in-clinical-simulation.md): Confronto tra audio nativo e testo nella valutazione della fedeltà clinica CTRS.
+- [over-deference-in-llm-supervision](../over-deference-in-llm-supervision.md): Analisi del bias di deferenza e compiacenza algoritmica nei modelli linguistici sottomessi a feedback supervisivo.
+- [ctrs-automated-evaluation](../concetti/ctrs-automated-evaluation.md): Standard di valutazione quantitativa della fedeltà e competenza nella CBT.
+- [simulazione-pazienti-ai](../simulazione-pazienti-ai.md): Metodologie di simulazione di pazienti virtuali e grounding psicopatologico.
+- [supervisione-clinica-ai](../supervisione-clinica-ai.md): Modelli di supervisione e debriefing formativo mediati da agenti artificiali.
+

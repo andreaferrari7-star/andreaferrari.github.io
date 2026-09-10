@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Psicoeducazione sull'IA nella Relazione Terapeutica
 
 **Summary**: Linee guida cliniche per l'indagine, la psicoeducazione e la gestione terapeutica dell'utilizzo spontaneo dei modelli linguistici da parte dei pazienti. Include la diagnosi funzionale di comportamenti disfunzionali assistiti da IA (rimuginio ricorsivo, ricerca compulsiva di rassicurazioni) e la ristrutturazione dell'alleanza in una cornice triadica (paziente-terapeuta-tecnologia).
@@ -47,8 +51,11 @@ graph TD
 ---
 
 ## Related pages
-- [[07-08_Pianificazione_Corso_IA_Psicoterapia]]
-- [[digital-therapeutic-alliance]]
-- [[augmented-psychotherapy]]
-- [[human-in-the-reasoning]]
-- [[anthropomorphism-in-ai]]
+- [07-08_Pianificazione_Corso_IA_Psicoterapia](../sintesi/07-08_Pianificazione_Corso_IA_Psicoterapia.md)
+- [digital-therapeutic-alliance](../digital-therapeutic-alliance.md)
+- [augmented-psychotherapy](../augmented-psychotherapy.md)
+- [human-in-the-reasoning](human-in-the-reasoning.md)
+- [anthropomorphism-in-ai](../anthropomorphism-in-ai.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

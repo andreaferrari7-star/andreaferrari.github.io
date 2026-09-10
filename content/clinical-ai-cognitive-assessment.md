@@ -42,10 +42,11 @@ L'Assessment Cognitivo dell'AI è un'architettura pedagogica e metodologica per 
 *   Framework MIND-SAFE per l'ingegneria dei sistemi clinici.
 
 ## Relazioni
-*   [[korsakoff-confabulazione-llm]]: Approfondisce la natura delle allucinazioni.
-*   [[diagnosis-of-thought-framework]]: Metodologia per isolare fatti da interpretazioni.
-*   [[coast-framework-clinical-prompting]]: Framework per prompt engineering strutturato.
-*   [[mind-safe-framework]]: Sicurezza e triage in ambito salute mentale.
-*   [[cbt-dialogue-systems-and-tools]]: Strumenti per la regolazione del pacing terapeutico.
-*   [[large-language-models]]: Fondamenti architetturali.
-*   [[human-in-the-loop]]: Principio inderogabile della responsabilità clinica finale.
+*   [korsakoff-confabulazione-llm](korsakoff-confabulazione-llm.md): Approfondisce la natura delle allucinazioni.
+*   [diagnosis-of-thought-framework](diagnosis-of-thought-framework.md): Metodologia per isolare fatti da interpretazioni.
+*   [coast-framework-clinical-prompting](concetti/concetti/concetti\coast-framework-clinical-prompting.md): Framework per prompt engineering strutturato.
+*   [mind-safe-framework](concetti/mind-safe-framework.md): Sicurezza e triage in ambito salute mentale.
+*   [cbt-dialogue-systems-and-tools](concetti/concetti/concetti\cbt-dialogue-systems-and-tools.md): Strumenti per la regolazione del pacing terapeutico.
+*   [large-language-models](large-language-models.md): Fondamenti architetturali.
+*   [human-in-the-loop](concetti/human-in-the-loop.md): Principio inderogabile della responsabilità clinica finale.
+

@@ -17,4 +17,5 @@ source_papers: ["mhealth-2024-1-e63316.pdf"]
 - Lee Yoon Li, M., Lee Si Min, S., & Sündermann, O. (2024). Efficacy of the mHealth App Intellect in Improving Subclinical Obsessive-Compulsive Disorder in University Students: Randomized Controlled Trial With a 4-Week Follow-Up. *JMIR Mhealth Uhealth*, 12, e63316. https://doi.org/10.2196/63316
 
 ## Relazioni
-- Vedi anche: [[lee-yoon-li-et-al-2024]], [[gamified-cbt-app]]
+- Vedi anche: [lee-yoon-li-et-al-2024](../lee-yoon-li-et-al-2024.md), [gamified-cbt-app](gamified-cbt-app.md)
+

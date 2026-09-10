@@ -50,11 +50,14 @@ flowchart TD
     Solution --> ClinicalImpact
 ```
 
-- [[sahab-et-al-2025]]
-- [[supportive-listener-prompting]]
-- [[language-style-matching-human-ai]]
-- [[algorithmic-bias-and-digital-inequalities]]
-- [[etica-privacy-bias-ia-clinica]]
-- [[stepped-care-ai-integration]]
-- [[simulated-therapeutic-alliance]]
-- [[conversational-agents-mental-health]]
+- [sahab-et-al-2025](../sintesi/sahab-et-al-2025.md)
+- [supportive-listener-prompting](concetti/concetti\supportive-listener-prompting.md)
+- [language-style-matching-human-ai](concetti/concetti\language-style-matching-human-ai.md)
+- [algorithmic-bias-and-digital-inequalities](algorithmic-bias-and-digital-inequalities.md)
+- [etica-privacy-bias-ia-clinica](etica-privacy-bias-ia-clinica.md)
+- [stepped-care-ai-integration](stepped-care-ai-integration.md)
+- [simulated-therapeutic-alliance](simulated-therapeutic-alliance.md)
+- [conversational-agents-mental-health](conversational-agents-mental-health.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

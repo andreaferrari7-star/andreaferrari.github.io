@@ -33,4 +33,7 @@ flowchart LR
 - Seitz, L. (2024). Artificial empathy in healthcare chatbots: Does it feel authentic? *Computers in Human Behavior: Artificial Humans*, 2, 100067.
 
 ## Relazioni
-- Vedi anche: [[2509-02144v1]], [[credibility-gap]], [[processes-of-change-in-psychotherapy]], [[simulated-empathy-vs-authentic-presence]], [[simulated-therapeutic-alliance]], [[digital-therapeutic-alliance]], [[anthropomorphism-in-ai]], [[modello-centauro-clinico]]
+- Vedi anche: [2509-02144v1](2509-02144v1.md), [credibility-gap](concetti/concetti/concetti\credibility-gap.md), [processes-of-change-in-psychotherapy](processes-of-change-in-psychotherapy.md), [simulated-empathy-vs-authentic-presence](concetti/concetti/concetti\simulated-empathy-vs-authentic-presence.md), [simulated-therapeutic-alliance](simulated-therapeutic-alliance.md), [digital-therapeutic-alliance](digital-therapeutic-alliance.md), [anthropomorphism-in-ai](anthropomorphism-in-ai.md), [modello-centauro-clinico](concetti/concetti/concetti\modello-centauro-clinico.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

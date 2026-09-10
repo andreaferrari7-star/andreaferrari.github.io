@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Riunione 07-17: Corso di Formazione sull'IA in Psicologia, Gestione Clinica del Paziente, LLM-Wiki e Documentazione Bottom-Up
 
 **Summary**: Sintesi della riunione operativa del 17 luglio 2026 tra Andrea Ferrari, Matilde Boattini, Gabriele Caselli ed Erika. Vengono definiti l'articolazione didattica in 5 moduli per il corso di formazione sull'IA per psicoterapeuti (16-20 ore), l'inquadramento psicopatologico e le linee di intervento clinico sull'uso dell'IA da parte dei pazienti, il benchmark comparativo dei modelli (Claude, Gemini, Grok, GPT-5, Kimi k3 di Moonshot AI), l'introduzione dell'architettura LLM-Wiki (Karpathy) e la sperimentazione di living documents clinici generati dal basso (bottom-up) dalle trascrizioni di équipe inTherapy.
@@ -13,7 +17,7 @@ L'incontro si sviluppa lungo quattro direttrici strategiche e metodologiche:
 1. Perfezionamento della scaletta e della microprogettazione didattica del corso di formazione sull'IA per psicoterapeuti.
 2. Analisi della gestione clinica e psicopatologica del paziente che utilizza autonomamente strumenti di intelligenza artificiale.
 3. Rassegna dei benchmark dei modelli linguistici (LMSYS Chatbot Arena, medical reasoning, modelli USA vs open-weight cinesi).
-4. Esplorazione di metodologie innovative per la gestione della conoscenza clinica: il paradigma **[[llm-wiki|LLM-Wiki]]** e la **[[bottom-up-clinical-documentation|documentazione clinica bottom-up]]** da trascritti di équipe (*inTherapy living documents*).
+4. Esplorazione di metodologie innovative per la gestione della conoscenza clinica: il paradigma **[LLM-Wiki](llm-wiki.md)** e la **[Documentazione Clinica Bottom-Up](bottom-up-clinical-documentation.md)** da trascritti di équipe (*inTherapy living documents*).
 
 ---
 
@@ -46,7 +50,7 @@ flowchart TD
 3. **Modulo 3 — Knowledge Base Prompting e Second Brain Clinico**:
    - Differenza qualitativa tra prompting generico (*zero-shot*) e prompting ancorato a basi di conoscenza strutturate (*grounding* su CBT standard, LIBET, ACT).
    - Esercitazione guidata sul supporto alla stesura di relazioni cliniche e profili diagnostico-funzionali a partire da casi clinici standardizzati forniti dai docenti.
-   - Costruzione di assistenti didattici specializzati e pazienti simulati (*[[trainer-simulator|Trainer Simulator]]*, *[[libet-prime|Libet Prime]]*).
+   - Costruzione di assistenti didattici specializzati e pazienti simulati (*[Trainer Simulator](trainer-simulator.md)*, *[Libet Prime](concetti/concetti/concetti\libet-prime.md)*).
 
 4. **Modulo 4 — Deontologia, Privacy e Supervisione Clinica Aumentata**:
    - Governance dei dati e rispetto del GDPR/AI Act: erogazione di una **Privacy Checklist operativa** su cosa è lecito inserire, cosa omettere e come procedere a una rigorosa anonimizzazione/de-identificazione dei dati clinici.
@@ -60,7 +64,7 @@ flowchart TD
 
 ### Kit di Materiali e Deliverable per i Partecipanti
 - **Checklist Privacy & Deontologia**: Guida rapida e prescrizioni operative per il trattamento sicuro dei dati.
-- **Template Architetturali di Knowledge Base**: Strutture modulari preconfigurate (per approcci CBT, LIBET, ACT) esportabili nel proprio [[second-brain-clinico|Second Brain Clinico]].
+- **Template Architetturali di Knowledge Base**: Strutture modulari preconfigurate (per approcci CBT, LIBET, ACT) esportabili nel proprio [Second Brain Clinico](second-brain-clinico.md).
 - **Libreria di Prompt Clinici**: Repository di prompt strutturati, collaudati e commentati per differenti finalità terapeutiche.
 - **Matrice Comparativa dei Tool**: Scheda sintetica aggiornata sulle caratteristiche, costi e profili di privacy dei principali LLM.
 
@@ -113,7 +117,7 @@ Andrea condivide i risultati di una recente revisione della letteratura sull'aud
 
 ---
 
-## 5. Il Paradigma [[llm-wiki|LLM-Wiki]]: Oltre il RAG Tradizionale
+## 5. Il Paradigma [LLM-Wiki](llm-wiki.md): Oltre il RAG Tradizionale
 
 Andrea introduce la proposta metodologica elaborata da **Andrej Karpathy** (co-fondatore di OpenAI ed ex-direttore AI di Tesla), denominata **LLM-Wiki**:
 
@@ -124,7 +128,7 @@ Andrea introduce la proposta metodologica elaborata da **Andrej Karpathy** (co-f
 | **Integrazione della Conoscenza** | Frammentaria e decontestualizzata. | Olistica, cumulativa e processuale. |
 | **Velocità e Precisione** | Rischio di allucinazioni e perdita del contesto globale. | Elevata accuratezza e risposte istantanee basate su conoscenza consolidata. |
 
-Quando un nuovo documento viene inserito, l'LLM lo legge, estrae le informazioni concettualmente rilevanti, aggiorna le pagine tematiche preesistenti nella Wiki e tesse una rete di collegamenti ipertestuali bidirezionali. Questo approccio automatizza la manutenzione del [[second-brain-clinico|Second Brain Clinico]] e delle basi di conoscenza didattiche (come [[libet-prime|Libet Prime]]).
+Quando un nuovo documento viene inserito, l'LLM lo legge, estrae le informazioni concettualmente rilevanti, aggiorna le pagine tematiche preesistenti nella Wiki e tesse una rete di collegamenti ipertestuali bidirezionali. Questo approccio automatizza la manutenzione del [Second Brain Clinico](second-brain-clinico.md) e delle basi di conoscenza didattiche (come [Libet Prime](concetti/concetti/concetti\libet-prime.md)).
 
 ---
 
@@ -162,7 +166,7 @@ flowchart LR
 
 Andrea illustra l'esigenza di analizzare un corpus di circa 20 trascrizioni di sedute di Terapia Metacognitiva di gruppo condotte presso la SIP. 
 
-Gabriele suggerisce un protocollo metodologico di [[clinical-fidelity-assessment|valutazione della fedeltà]]:
+Gabriele suggerisce un protocollo metodologico di [valutazione della fedelt](concetti/clinical-fidelity-assessment.md):
 1. **Grounding Teorico**: Caricamento in una Knowledge Base del modello teorico metacognitivo (compresi i contributi di Nordahl sui disturbi di personalità).
 2. **Confronto Computazionale**: Interrogazione dell'LLM per discriminare le aderenze strette rispetto alle variazioni introdotte nella pratica d'aula.
 3. **Analisi e Clusterizzazione delle Differenze**: Distinzione tra adattamenti clinici consapevoli ed erosioni involontarie del protocollo.
@@ -180,18 +184,21 @@ Gabriele suggerisce un protocollo metodologico di [[clinical-fidelity-assessment
 ---
 
 ## Related pages
-- [[microprogettazione-formativa-ia]]
-- [[llm-wiki]]
-- [[bottom-up-clinical-documentation]]
-- [[second-brain-clinico]]
-- [[audit-bias-llm-clinici]]
-- [[clinical-fidelity-assessment]]
-- [[trainer-simulator]]
-- [[libet-prime]]
-- [[uso-problematico-chatbot-ai]]
-- [[human-in-the-reasoning]]
-- [[augmented-psychotherapy]]
-- [[ai-assisted-psychotherapy]]
-- [[07-08_Riunione_Pianificazione_Corso]]
-- [[07-10_Riunione_Test_Libet_Prime]]
-- [[06-10_Lezione_RAG_LLM]]
+- [microprogettazione-formativa-ia](concetti/concetti/concetti\microprogettazione-formativa-ia.md)
+- [llm-wiki](llm-wiki.md)
+- [bottom-up-clinical-documentation](bottom-up-clinical-documentation.md)
+- [second-brain-clinico](second-brain-clinico.md)
+- [audit-bias-llm-clinici](concetti/concetti/concetti\audit-bias-llm-clinici.md)
+- [clinical-fidelity-assessment](clinical-fidelity-assessment.md)
+- [trainer-simulator](trainer-simulator.md)
+- [libet-prime](concetti/concetti/concetti\libet-prime.md)
+- [uso-problematico-chatbot-ai](uso-problematico-chatbot-ai.md)
+- [human-in-the-reasoning](human-in-the-reasoning.md)
+- [augmented-psychotherapy](augmented-psychotherapy.md)
+- [ai-assisted-psychotherapy](ai-assisted-psychotherapy.md)
+- [07-08_Riunione_Pianificazione_Corso](07-08_Riunione_Pianificazione_Corso.md)
+- [07-10_Riunione_Test_Libet_Prime](07-10_Riunione_Test_Libet_Prime.md)
+- [06-10_Lezione_RAG_LLM](06-10_Lezione_RAG_LLM.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

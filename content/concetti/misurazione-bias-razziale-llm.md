@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Misurazione del Bias Razziale nei Large Language Models
 
 **Summary**: Insieme delle metodologie, paradigmi di elicitazione e batterie psicometriche standardizzate deputate a rilevare e quantificare il pregiudizio razziale esplicito e implicito nelle risposte dei Large Language Models, analizzando l'adattamento di scale attitudinali (Modern Racism Scale) e compiti di associazione semantica basati su vignette.
@@ -94,9 +98,11 @@ graph TD
 ---
 
 ## Related pages
-- [[benosman-2025]]: Sintesi dello studio empirico con test espliciti e impliciti su ChatGPT-4o.
-- [[stamp-llm-framework]]: Protocollo standardizzato per la costruzione e validazione delle misure di bias nell'IA.
-- [[validita-psicometrica-llm]]: Analisi della discrepanza tra stabilità test-retest e validità convergente.
-- [[algorithmic-bias-and-digital-inequalities]]: Bias dei dati e impatto sulle disuguaglianze digitali.
-- [[weird-bias-cultural-adaptability-ai]]: Disuguaglianze culturali e limitazioni dei dataset W.E.I.R.D.
-- [[audit-bias-llm-clinici]]: Procedure di benchmark per identificare bias diagnostici e comportamentali negli LLM.
+- [benosman-2025](../sintesi/benosman-2025.md): Sintesi dello studio empirico con test espliciti e impliciti su ChatGPT-4o.
+- [stamp-llm-framework](concetti/concetti\stamp-llm-framework.md): Protocollo standardizzato per la costruzione e validazione delle misure di bias nell'IA.
+- [validita-psicometrica-llm](concetti/concetti\validita-psicometrica-llm.md): Analisi della discrepanza tra stabilità test-retest e validità convergente.
+- [algorithmic-bias-and-digital-inequalities](algorithmic-bias-and-digital-inequalities.md): Bias dei dati e impatto sulle disuguaglianze digitali.
+- [weird-bias-cultural-adaptability-ai](weird-bias-cultural-adaptability-ai.md): Disuguaglianze culturali e limitazioni dei dataset W.E.I.R.D.
+- [audit-bias-llm-clinici](concetti/concetti\audit-bias-llm-clinici.md): Procedure di benchmark per identificare bias diagnostici e comportamentali negli LLM.
+
+

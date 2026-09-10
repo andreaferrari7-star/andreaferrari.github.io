@@ -83,9 +83,12 @@ flowchart TD
 ---
 
 ## Relazioni
-- [[ai-poweredreal-timeadherencemonitoringforremotepatientcareintelemedicine-1]]
-- [[video-observed-therapy-ai]]
-- [[proactive-surveillance-alert-fatigue]]
-- [[privacy-preserving-rpm-frameworks]]
-- [[chronic-disease-monitoring-adherence]]
-- [[software-as-a-medical-device-salute-mentale]]
+- [ai-poweredreal-timeadherencemonitoringforremotepatientcareintelemedicine-1](ai-poweredreal-timeadherencemonitoringforremotepatientcareintelemedicine-1.md)
+- [video-observed-therapy-ai](video-observed-therapy-ai.md)
+- [proactive-surveillance-alert-fatigue](concetti/proactive-surveillance-alert-fatigue.md)
+- [privacy-preserving-rpm-frameworks](concetti/privacy-preserving-rpm-frameworks.md)
+- [chronic-disease-monitoring-adherence](concetti/chronic-disease-monitoring-adherence.md)
+- [software-as-a-medical-device-salute-mentale](software-as-a-medical-device-salute-mentale.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

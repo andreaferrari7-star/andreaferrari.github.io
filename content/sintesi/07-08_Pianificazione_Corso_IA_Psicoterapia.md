@@ -1,3 +1,8 @@
+---
+tags: []
+source: "riunione"
+---
+
 # Riunione 07-08: Pianificazione Corso IA per Psicoterapia — Struttura, Validazione Interessi, Microprogettazione e Coordinamento
 
 **Summary**: Sintesi strategico-operativa della riunione di progettazione del corso di formazione continua sull'Intelligenza Artificiale applicata alla psicoterapia per la community di Studi Cognitivi. Vengono definiti il razionale metodologico (ancoraggio al processo clinico CBT vs strumenti generici), l'articolazione didattica (Modulo Base e Avanzato, Second Brain clinico, psicodiagnostica, consapevolezza metacognitiva del terapeuta) e l'iter procedurale di sviluppo (macroprogettazione, survey di validazione a settembre, focus group, microprogettazione e governance).
@@ -51,7 +56,7 @@ graph TD
 - **Esercizi pratici**: Costruzione guidata di piani di esposizione graduata e compiti a casa (homework).
 
 ### Modulo Avanzato / Advance (Specialistico)
-- **Costruzione del [[second-brain-clinico|Second Brain Clinico]]**: Organizzazione della conoscenza tramite cartelle strutturate e strumenti come *Obsidian* per gestire protocolli, note e concettualizzazioni.
+- **Costruzione del [Second Brain Clinico](../second-brain-clinico.md)**: Organizzazione della conoscenza tramite cartelle strutturate e strumenti come *Obsidian* per gestire protocolli, note e concettualizzazioni.
 - **Custom Skills e Agenti Specialistici**: Creazione di assistenti dedicati (es. in *Claude*) capaci di effettuare scoring, estrarre item critici e incrociare dati psicodiagnostici.
 - **Protocolli ad Alta Complessità**: Supporto alla gestione e categorizzazione del materiale clinico in aree delicate (es. assessment del rischio suicidario, rotture dell'alleanza).
 
@@ -63,11 +68,11 @@ graph TD
 - Collegamento sinergico con il nuovo **Master in Psicodiagnostica** di Studi Cognitivi.
 - L'IA non viene impiegata per la mera somministrazione dei reattivi, ma come supporto alla **triangolazione clinica**: integrazione tra punteggi psicometrici, evidenze del colloquio clinico e generazione di ipotesi differenziali per amplificare il ragionamento del terapeuta.
 
-### B. Indagine sull'Uso dell'IA da parte del Paziente ([[psicoeducazione-ia-relazione-terapeutica]])
+### B. Indagine sull'Uso dell'IA da parte del Paziente ([psicoeducazione-ia-relazione-terapeutica](../concetti/psicoeducazione-ia-relazione-terapeutica.md))
 - Integrazione dell'IA nell'indagine clinica relazionale: esplorare sistematicamente se e come il paziente utilizza chatbot (es. ChatGPT).
 - Analisi dei pattern disfunzionali: identificazione dell'uso dei modelli per **rimuginio ricorsivo**, ricerca ossessiva di rassicurazioni o auto-diagnosi incontrollate, trasformando tale comportamento in oggetto di psicoeducazione e ristrutturazione.
 
-### C. Consapevolezza degli Schemi e Piani del Terapeuta ([[autosupervisione-schemi-terapeuta-ia]])
+### C. Consapevolezza degli Schemi e Piani del Terapeuta ([autosupervisione-schemi-terapeuta-ia](../concetti/autosupervisione-schemi-terapeuta-ia.md))
 - Riconoscimento del funzionamento personale del terapeuta nell'interazione con l'IA: analizzare se il ricorso al modello sia motivato da scopi difensivi o di **autorassicurazione** di fronte all'incertezza clinica.
 - Esplicitazione dello scopo d'uso per mitigare la suggestionabilità e il bias di conferma rispetto alle risposte fornite dall'algoritmo.
 
@@ -105,13 +110,16 @@ flowchart LR
 ---
 
 ## Related pages
-- [[second-brain-clinico]]
-- [[microprogettazione-formativa-ia]]
-- [[psicoeducazione-ia-relazione-terapeutica]]
-- [[autosupervisione-schemi-terapeuta-ia]]
-- [[05-08_Riunione_Knowledge_Base]]
-- [[03-13_Avvio_Gruppo_Lavoro_IA_Psicoterapia]]
-- [[04-20_Tavola_rotonda_Integrazione_IA]]
-- [[human-in-the-reasoning]]
-- [[augmented-psychotherapy]]
-- [[ai-assisted-psychotherapy]]
+- [second-brain-clinico](../second-brain-clinico.md)
+- [microprogettazione-formativa-ia](../concetti/concetti/concetti\microprogettazione-formativa-ia.md)
+- [psicoeducazione-ia-relazione-terapeutica](../concetti/psicoeducazione-ia-relazione-terapeutica.md)
+- [autosupervisione-schemi-terapeuta-ia](../concetti/autosupervisione-schemi-terapeuta-ia.md)
+- [05-08_Riunione_Knowledge_Base](../05-08_Riunione_Knowledge_Base.md)
+- [03-13_Avvio_Gruppo_Lavoro_IA_Psicoterapia](../03-13_Avvio_Gruppo_Lavoro_IA_Psicoterapia.md)
+- [04-20_Tavola_rotonda_Integrazione_IA](../04-20_Tavola_rotonda_Integrazione_IA.md)
+- [human-in-the-reasoning](../human-in-the-reasoning.md)
+- [augmented-psychotherapy](../augmented-psychotherapy.md)
+- [ai-assisted-psychotherapy](../ai-assisted-psychotherapy.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

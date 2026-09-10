@@ -238,13 +238,14 @@ Gli autori mettono in guardia contro la **Jingle Fallacy** (Hanfstingl et al., 2
 
 ## Relazioni e Concetti Correlati
 
-- [[genuineness-gap]]: Il divario di autenticità relazionale e convalida ontologica.
-- [[credibility-gap]]: Il divario di credibilità socioculturale ed euristiche dell'esperto vs macchina.
-- [[ontological-and-sociocultural-status]]: Il duplice status umano-sanitario del terapeuta.
-- [[machine-heuristics-in-therapy]]: Le euristiche della macchina applicate al setting di salute mentale.
-- [[reflected-appraisal-in-ai-therapy]]: Il processo di convalida del Sé e i suoi limiti con agenti artificiali.
-- [[blended-care-ai-framework]]: L'architettura clinica ibrida per integrare terapeuta umano e agenti IA.
-- [[anthropomorphism-in-ai]]: Determinanti individuali, tecnologiche e culturali dell'antropomorfismo.
-- [[common-vs-specific-factors]]: Fattori comuni e specifici nel modello contestuale e process-based.
-- [[simulated-empathy-vs-authentic-presence]]: Confronto fenomenologico tra empatia computazionale e presenza reale.
-- [[erdemir-sumbas-2026]]: Il Governance Framework multilivello per l'integrazione sicura dell'IA.
+- [genuineness-gap](../genuineness-gap.md): Il divario di autenticità relazionale e convalida ontologica.
+- [credibility-gap](../concetti/concetti/concetti\credibility-gap.md): Il divario di credibilità socioculturale ed euristiche dell'esperto vs macchina.
+- [ontological-and-sociocultural-status](../concetti/ontological-and-sociocultural-status.md): Il duplice status umano-sanitario del terapeuta.
+- [machine-heuristics-in-therapy](../concetti/machine-heuristics-in-therapy.md): Le euristiche della macchina applicate al setting di salute mentale.
+- [reflected-appraisal-in-ai-therapy](../concetti/reflected-appraisal-in-ai-therapy.md): Il processo di convalida del Sé e i suoi limiti con agenti artificiali.
+- [blended-care-ai-framework](../concetti/blended-care-ai-framework.md): L'architettura clinica ibrida per integrare terapeuta umano e agenti IA.
+- [anthropomorphism-in-ai](../anthropomorphism-in-ai.md): Determinanti individuali, tecnologiche e culturali dell'antropomorfismo.
+- [common-vs-specific-factors](../concetti/common-vs-specific-factors.md): Fattori comuni e specifici nel modello contestuale e process-based.
+- [simulated-empathy-vs-authentic-presence](../concetti/concetti/concetti\simulated-empathy-vs-authentic-presence.md): Confronto fenomenologico tra empatia computazionale e presenza reale.
+- [erdemir-sumbas-2026](erdemir-sumbas-2026.md): Il Governance Framework multilivello per l'integrazione sicura dell'IA.
+

@@ -28,7 +28,7 @@ source_papers:
   2. *Counseling e Interventi Psicologici (48%, n=29):* Erogazione di psicoeducazione, ristrutturazione cognitiva, simulazione di colloqui empatici, formulazioni psicodinamiche e supporto terapeutico *standalone* o integrato;
   3. *Supporto alle Decisioni Cliniche (13%, n=8):* Aderenza alle linee guida evidence-based, pianificazione di piani di trattamento e gestione della deprescription (es. sospensione graduale delle benzodiazepine);
   4. *Prognosi e Previsione delle Traiettorie Cliniche (5%, n=3):* Stima delle probabilità di remissione, recupero e decorso a breve/lungo termine.
-- **Contributi Chiave e Frontiere Critiche:** Evidenzia un marcato gradiente prestazionale: ChatGPT dimostra elevata accuratezza nella classificazione diagnostica binaria e differenziale (spesso eguagliando o superando i clinici umani), ma manifesta gravi vulnerabilità nella quantificazione della gravità, nella gestione del rischio suicidario e nei quadri clinici complessi. Formalizza inoltre due fenomeni sistemici di rilievo: il **[[prompt-experiment-gap-in-clinical-ai|gap dei prompt-experiments]]** (l'83.3% degli studi valuta vignette testuali sintetiche senza pazienti reali) e il **[[prognostic-pessimism-in-clinical-ai|pessimismo prognostico algoritmico]]** (tendenza sistematica di ChatGPT a stimare tassi di guarigione inferiori a quelli reali e clinici, rischiando la demoralizzazione del paziente).
+- **Contributi Chiave e Frontiere Critiche:** Evidenzia un marcato gradiente prestazionale: ChatGPT dimostra elevata accuratezza nella classificazione diagnostica binaria e differenziale (spesso eguagliando o superando i clinici umani), ma manifesta gravi vulnerabilità nella quantificazione della gravità, nella gestione del rischio suicidario e nei quadri clinici complessi. Formalizza inoltre due fenomeni sistemici di rilievo: il **[gap dei prompt-experiments](concetti/prompt-experiment-gap-in-clinical-ai.md)** (l'83.3% degli studi valuta vignette testuali sintetiche senza pazienti reali) e il **[pessimismo prognostico algoritmico](concetti/prognostic-pessimism-in-clinical-ai.md)** (tendenza sistematica di ChatGPT a stimare tassi di guarigione inferiori a quelli reali e clinici, rischiando la demoralizzazione del paziente).
 
 ```mermaid
 flowchart TD
@@ -41,7 +41,7 @@ flowchart TD
         Dom1["<b>1. Detection & Assessment (n=24)</b><br/>- Diagnosi binaria/differenziale accurata ($F_1 = 0.5-0.9$)<br/>- Fallimento su gravità e rischio suicidario ($F_1 < 0.5$)"]
         Dom2["<b>2. Counseling & Interventi (n=29)</b><br/>- Fluenza conversazionale, psicoeducazione, empatia simulata<br/>- Rischi: allucinazione citazioni, assenza memoria longitudinale"]
         Dom3["<b>3. Decision Facilitation (n=8)</b><br/>- Alta aderenza a linee guida su casi lineari<br/>- Proposte di proactive care vs prescrizioni mirate"]
-        Dom4["<b>4. Prognosi Clinica (n=3)</b><br/>- <b>[[prognostic-pessimism-in-clinical-ai|Pessimismo Prognostico]]:</b> Stime di recupero eccessivamente negative"]
+        Dom4[Pessimismo Prognostico](concetti/prognostic-pessimism-in-clinical-ai.md):</b> Stime di recupero eccessivamente negative"]
     end
 
     subgraph ModeratingFactors ["Fattori Moderatori di Performance"]
@@ -52,7 +52,7 @@ flowchart TD
     end
 
     subgraph CriticalGaps ["Criticità Metodologiche & di Governance"]
-        G1["<b>[[prompt-experiment-gap-in-clinical-ai|Gap Metodologico]]:</b> 83% Prompt Experiments vs 10% Pazienti Reali"]
+        G1[Gap Metodologico](concetti/prompt-experiment-gap-in-clinical-ai.md):</b> 83% Prompt Experiments vs 10% Pazienti Reali"]
         G2["<b>Algorithm Aversion:</b> Pregiudizio di sfiducia verso l'output IA"]
         G3["<b>Knowledge Cutoff:</b> Dati di training fermi a Settembre 2023"]
         G4["<b>Governance:</b> Necessità di Modello Centauro e Escalation di Emergenza"]
@@ -139,7 +139,7 @@ flowchart LR
     end
 
     subgraph D4 ["4. Clinical Prognosis"]
-        P1["<b>[[prognostic-pessimism-in-clinical-ai|Pessimismo Prognostico]]</b>"]
+        P1[Pessimismo Prognostico](concetti/prognostic-pessimism-in-clinical-ai.md)</b>"]
         P2["Sottostima della guarigione rispetto ai clinici"]
     end
 ```
@@ -168,7 +168,7 @@ flowchart LR
 - **Declino nei Casi Complessi:** La qualità delle raccomandazioni declina sensibilmente in presenza di insonnia cronica complessa o schizofrenia resistente al trattamento (Dergaa et al., 2023; Galido et al., 2023), generando suggerimenti potenzialmente controindicati.
 
 #### D. Prognosi e Traiettorie di Malattia (3 Studi)
-- **Il Fenomeno del [[prognostic-pessimism-in-clinical-ai|Pessimismo Prognostico]]:** In tutti gli studi dedicati alla prognosi (Elyoseph & Levkovich, 2024; Elyoseph, Levkovich & Shinan-Altman, 2024; Levkovich, 2025), ChatGPT ha formulato previsioni di recupero sistematicamente più negative e pessimistiche rispetto a quelle espresse da psichiatri esperti, psicologi e persino dal pubblico generale.
+- **Il Fenomeno del [Pessimismo Prognostico](concetti/prognostic-pessimism-in-clinical-ai.md):** In tutti gli studi dedicati alla prognosi (Elyoseph & Levkovich, 2024; Elyoseph, Levkovich & Shinan-Altman, 2024; Levkovich, 2025), ChatGPT ha formulato previsioni di recupero sistematicamente più negative e pessimistiche rispetto a quelle espresse da psichiatri esperti, psicologi e persino dal pubblico generale.
   - *ChatGPT-3.5:* Manifesta una visione eccessivamente negativa sugli outcome a breve termine;
   - *ChatGPT-4:* Mostra un pessimismo ancora più marcato sulla prognosi e sulla remissione a lungo termine.
 - **Rischio Iatrogeno:** L'esposizione del paziente a prognosi algoritmiche infauste e ingiustificate rischia di indurre senso di impotenza appresa (*learned helplessness*), minando la speranza e la motivazione al trattamento (*treatment demoralization*).
@@ -206,7 +206,7 @@ La review evidenzia profonde criticità metodologiche ed epistemologiche che imp
 ```mermaid
 flowchart TD
     subgraph CriticalAxes ["I 5 Limiti Metodologici Strutturali"]
-        L1["<b>1. Overreliance su [[prompt-experiment-gap-in-clinical-ai|Prompt Experiments]] (83%):</b><br/>Valutazione in vitro su vignette sintetiche; solo il 10% include pazienti clinici reali."]
+        L1[Prompt Experiments](concetti/prompt-experiment-gap-in-clinical-ai.md) (83%):</b><br/>Valutazione in vitro su vignette sintetiche; solo il 10% include pazienti clinici reali."]
         L2["<b>2. Distorsione Demografica (WEIRD & Digital Natives):</b><br/>Campioni composti prevalentemente da giovani adulti ad alta scolarizzazione; trascurati adolescenti e anziani."]
         L3["<b>3. Fallacia Metrica NLP vs Efficacia Clinica:</b><br/>Fluency, coerenza verbale e similarità semantica non equivalgono a riduzione del distress o guarigione."]
         L4["<b>4. Algorithm Aversion & Bias di Valutazione:</b><br/>Sfiducia a priori dei clinici verso l'IA, che distorce la percezione di utilità anche a parità di accuratezza."]
@@ -227,7 +227,7 @@ Balan & Gumpel (2025) delineano una matrice operativa per l'integrazione gradual
 | **Reparti Ospedalieri e SPDC** | Assistenza all'anamnesi iniziale (intake support); monitoraggio strutturato inter-seduta; supporto alla degenza. | Previsione della prognosi di dimissione (*prognostic pessimism bias*); gestione non presidiata di deliri. | **Massima Supervisione:** Solo compiti ausiliari di documentazione e supporto psicoeducativo. |
 
 #### Principi di Governance e Salvaguardia
-1. **Rifiuto dell'Uso Standalone Sostitutivo:** ChatGPT deve operare esclusivamente come strumento di supporto all'interno di un [[modello-centauro-clinico|modello centauro]], in cui il giudizio clinico e la responsabilità terapeutica rimangono saldamente in capo al professionista umano.
+1. **Rifiuto dell'Uso Standalone Sostitutivo:** ChatGPT deve operare esclusivamente come strumento di supporto all'interno di un [modello centauro](concetti/concetti/concetti\modello-centauro-clinico.md), in cui il giudizio clinico e la responsabilità terapeutica rimangono saldamente in capo al professionista umano.
 2. **Protocolli di Escalation Real-Time:** Obbligo di incorporare interruttori automatici di sicurezza che blocchino la generazione di testo e forniscano numeri di emergenza attivi in presenza di marcatori suicidari o autolesivi.
 3. **Calibrazione Prognostica con Dati Longitudinali:** Divieto di utilizzare l'output prognostico di ChatGPT nella comunicazione con i pazienti senza una previa ricalibrazione basata su registri clinici longitudinali reali.
 4. **Copartecipazione nello Sviluppo dei Prompt:** Coinvolgimento sistematico di clinici, psicoterapeuti e associazioni di pazienti nella progettazione di prompt clinici specializzati e framework di validazione continua.
@@ -268,14 +268,16 @@ Balan & Gumpel (2025) delineano una matrice operativa per l'integrazione gradual
 ---
 
 ## Relazioni
-- [[prognostic-pessimism-in-clinical-ai]]: Analisi approfondita del bias di pessimismo prognostico sistematico nei modelli generativi e dei rischi di demoralizzazione per il paziente.
-- [[prompt-experiment-gap-in-clinical-ai]]: Disamina del divario metodologico tra benchmark sintetici su prompt e reale efficacia/sicurezza clinica su pazienti.
-- [[clinical-readiness-gap-in-mh-chatbots]]: Divario tra fluenza linguistica computazionale ed evidenze cliniche rigorose negli agenti conversazionali.
-- [[algorithmic-tractability-in-psychotherapy]]: Tassonomia della trattabilità computazionale dei disturbi mentali (Orrù & Mannarini, 2026).
-- [[epistemological-paradox-in-clinical-ai]]: Il dilemma etico-metodologico della sperimentazione su popolazioni vulnerabili.
-- [[cpp-33-e70242-1]]: Systematic review PRISMA di Orrù & Mannarini (2026) su AI e NLP in psicologia clinica.
-- [[ai-v5i1e80348]]: Systematic review PRISMA 2020 di Cho et al. (2026) su metodologie ed etica dei chatbot LLM.
-- [[ai-v5-e84305]]: Systematic review di Kandeel et al. (2026) su governance legale, GDPR e AI Act in salute mentale.
-- [[modello-centauro-clinico]]: Paradigma di cooperazione Human-in-the-Loop tra terapeuta e intelligenza artificiale.
-- [[sycophantic-mirroring]]: Meccanismo di validazione compiacente e distorsione del reality testing nei modelli linguistici.
-- [[digital-therapeutic-alliance]]: Costrutto ed evidenze empiriche dell'alleanza di lavoro con agenti conversazionali.
+- [prognostic-pessimism-in-clinical-ai](prognostic-pessimism-in-clinical-ai.md): Analisi approfondita del bias di pessimismo prognostico sistematico nei modelli generativi e dei rischi di demoralizzazione per il paziente.
+- [prompt-experiment-gap-in-clinical-ai](prompt-experiment-gap-in-clinical-ai.md): Disamina del divario metodologico tra benchmark sintetici su prompt e reale efficacia/sicurezza clinica su pazienti.
+- [clinical-readiness-gap-in-mh-chatbots](concetti/concetti/concetti\clinical-readiness-gap-in-mh-chatbots.md): Divario tra fluenza linguistica computazionale ed evidenze cliniche rigorose negli agenti conversazionali.
+- [algorithmic-tractability-in-psychotherapy](algorithmic-tractability-in-psychotherapy.md): Tassonomia della trattabilità computazionale dei disturbi mentali (Orrù & Mannarini, 2026).
+- [epistemological-paradox-in-clinical-ai](epistemological-paradox-in-clinical-ai.md): Il dilemma etico-metodologico della sperimentazione su popolazioni vulnerabili.
+- [cpp-33-e70242-1](cpp-33-e70242-1.md): Systematic review PRISMA di Orrù & Mannarini (2026) su AI e NLP in psicologia clinica.
+- [ai-v5i1e80348](ai-v5i1e80348.md): Systematic review PRISMA 2020 di Cho et al. (2026) su metodologie ed etica dei chatbot LLM.
+- [ai-v5-e84305](ai-v5-e84305.md): Systematic review di Kandeel et al. (2026) su governance legale, GDPR e AI Act in salute mentale.
+- [modello-centauro-clinico](concetti/concetti/concetti\modello-centauro-clinico.md): Paradigma di cooperazione Human-in-the-Loop tra terapeuta e intelligenza artificiale.
+- [sycophantic-mirroring](concetti/concetti/concetti\sycophantic-mirroring.md): Meccanismo di validazione compiacente e distorsione del reality testing nei modelli linguistici.
+- [digital-therapeutic-alliance](digital-therapeutic-alliance.md): Costrutto ed evidenze empiriche dell'alleanza di lavoro con agenti conversazionali.
+
+

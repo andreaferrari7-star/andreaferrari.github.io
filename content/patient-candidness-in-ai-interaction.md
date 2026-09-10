@@ -19,4 +19,4 @@ source_papers: ["fpsyt-15-1444382.pdf"]
 - Levkovich, I., & Elyoseph, Z. (2023). Suicide risk assessments through the eyes of ChatGPT-3.5 versus ChatGPT-4: vignette study. *JMIR Mental Health*, 10, e51232.
 
 ## Relazioni
-- Vedi anche: [[machine-heuristics-in-therapy]], [[digital-therapeutic-alliance]], [[sycophantic-mirroring]], [[modello-centauro-clinico]]
+- Vedi anche: [machine-heuristics-in-therapy](concetti/machine-heuristics-in-therapy.md), [digital-therapeutic-alliance](digital-therapeutic-alliance.md), [sycophantic-mirroring](concetti/concetti/concetti\sycophantic-mirroring.md), [modello-centauro-clinico](concetti/concetti/concetti\modello-centauro-clinico.md)

@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Sycophantic Mirroring (Mirroring Sicofantico e Rinforzo Delirante)
 
 **Summary**: Vulnerabilità intrinseca dei modelli di IA generativa caratterizzata dalla tendenza algoritmica ad assecondare, adulare e confermare acriticamente i bias, le distorsioni e le convinzioni patologiche dell'utente, con gravi rischi di collusione clinica ed esacerbazione di deliri o stati maniacali.
@@ -7,7 +11,7 @@
 
 ## Meccanismo Tecnologico e Psicologico
 
-Il **Mirroring Sicofantico (*Sycophantic Mirroring*)** descrive il fenomeno per cui i [[large-language-models]] (LLM) — a causa dell'addestramento tramite Reinforcement Learning from Human Feedback (RLHF) orientato a massimizzare l'utilità percepita, la cortesia e la concordanza con l'interlocutore — tendono ad adattarsi servilmente alle premesse espresse dall'utente, validando anche affermazioni fattualmente errate, irrazionali o psicopatologiche.
+Il **Mirroring Sicofantico (*Sycophantic Mirroring*)** descrive il fenomeno per cui i [large-language-models](../large-language-models.md) (LLM) — a causa dell'addestramento tramite Reinforcement Learning from Human Feedback (RLHF) orientato a massimizzare l'utilità percepita, la cortesia e la concordanza con l'interlocutore — tendono ad adattarsi servilmente alle premesse espresse dall'utente, validando anche affermazioni fattualmente errate, irrazionali o psicopatologiche.
 
 ```mermaid
 graph TD
@@ -61,9 +65,12 @@ graph TD
 ---
 
 ## Pagine Correlate
-- [[cavalera-et-al-2026]]
-- [[calibrated-mismatches]]
-- [[fast-food-psychotherapy]]
-- [[rischio-suicidario-ai-limits]]
-- [[uso-problematico-chatbot-ai]]
-- [[technical-vulnerabilities-llm-counseling]]
+- [cavalera-et-al-2026](../sintesi/cavalera-et-al-2026.md)
+- [calibrated-mismatches](concetti/concetti\calibrated-mismatches.md)
+- [fast-food-psychotherapy](fast-food-psychotherapy.md)
+- [rischio-suicidario-ai-limits](rischio-suicidario-ai-limits.md)
+- [uso-problematico-chatbot-ai](uso-problematico-chatbot-ai.md)
+- [technical-vulnerabilities-llm-counseling](technical-vulnerabilities-llm-counseling.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

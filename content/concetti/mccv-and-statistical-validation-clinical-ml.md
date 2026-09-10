@@ -100,7 +100,10 @@ graph LR
 ---
 
 ## Related pages
-- [[jacobs-et-al-2026]]: Applicazione empirica del framework MCCV e del corrected resampled t-test.
-- [[pretraining-simulated-data-clinical-ml]]: Modelli di pretraining per Random Forest e confronto statistico.
-- [[open-data-scarcity-clinical-psychology]]: Sfide di trasparenza metodologica e replicabilità nei dati clinici.
-- [[treatment-outcome-and-relapse-prediction]]: Metriche e modelli predittivi nella ricerca psicoterapeutica.
+- [jacobs-et-al-2026](../sintesi/jacobs-et-al-2026.md): Applicazione empirica del framework MCCV e del corrected resampled t-test.
+- [pretraining-simulated-data-clinical-ml](pretraining-simulated-data-clinical-ml.md): Modelli di pretraining per Random Forest e confronto statistico.
+- [open-data-scarcity-clinical-psychology](open-data-scarcity-clinical-psychology.md): Sfide di trasparenza metodologica e replicabilità nei dati clinici.
+- [treatment-outcome-and-relapse-prediction](treatment-outcome-and-relapse-prediction.md): Metriche e modelli predittivi nella ricerca psicoterapeutica.
+
+## Riferimenti Bibliografici
+- [Da integrare]

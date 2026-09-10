@@ -37,4 +37,7 @@ source_papers: ["fpsyg-16-1715306.pdf"]
 - Yang, J., Liu, T., Luo, Y. T., Niu, T., Pang, P., Xiang, A., & Yang, Q. (2026). Exploring the application boundaries of LLMs in mental health: a systematic scoping review. *Frontiers in Psychology*, 16:1715306. https://doi.org/10.3389/fpsyg.2025.1715306
 
 ## Relazioni
-- Vedi anche: [[fpsyg-16-1715306]], [[weird-bias-cultural-adaptability-ai]], [[cross-cultural-bias-and-fairness-audits-ai]], [[misurazione-bias-razziale-llm]], [[three-layer-governance-framework]], [[clinical-nlp-domain-shift]], [[ai-assisted-psychotherapy]], [[explainable-mental-health-diagnosis]]
+- Vedi anche: [fpsyg-16-1715306](fpsyg-16-1715306.md), [weird-bias-cultural-adaptability-ai](concetti/weird-bias-cultural-adaptability-ai.md), [cross-cultural-bias-and-fairness-audits-ai](concetti/cross-cultural-bias-and-fairness-audits-ai.md), [misurazione-bias-razziale-llm](concetti/concetti/concetti\misurazione-bias-razziale-llm.md), [three-layer-governance-framework](concetti/concetti/concetti\three-layer-governance-framework.md), [clinical-nlp-domain-shift](clinical-nlp-domain-shift.md), [ai-assisted-psychotherapy](ai-assisted-psychotherapy.md), [explainable-mental-health-diagnosis](explainable-mental-health-diagnosis.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Autosupervisione e Schemi del Terapeuta nell'Uso dell'IA
 
 **Summary**: Modello di riflessione metacognitiva sull'interazione tra gli schemi di funzionamento personale del terapeuta e l'utilizzo clinico dell'Intelligenza Artificiale. Analizza le dinamiche in cui il ricorso ai modelli linguistici è guidato da bisogni di autorassicurazione di fronte all'incertezza diagnostica, prevenendo fenomeni di suggestionabilità algoritmica e bias di conferma.
@@ -46,8 +50,11 @@ graph TD
 ---
 
 ## Related pages
-- [[07-08_Pianificazione_Corso_IA_Psicoterapia]]
-- [[human-in-the-reasoning]]
-- [[second-brain-clinico]]
-- [[ai-research-ethics]]
-- [[prompting-in-psychology]]
+- [07-08_Pianificazione_Corso_IA_Psicoterapia](../sintesi/07-08_Pianificazione_Corso_IA_Psicoterapia.md)
+- [human-in-the-reasoning](human-in-the-reasoning.md)
+- [second-brain-clinico](second-brain-clinico.md)
+- [ai-research-ethics](../ai-research-ethics.md)
+- [prompting-in-psychology](../prompting-in-psychology.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

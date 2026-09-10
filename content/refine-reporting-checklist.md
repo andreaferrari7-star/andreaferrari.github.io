@@ -231,3 +231,6 @@ sequenceDiagram
 - [stochasticity-management-in-clinical-llms](wiki/stochasticity-management-in-clinical-llms.md) — Gestione statistica e iperparametrica della variabilità generativa nei modelli Transformer.
 - [chart-reporting-guideline](wiki/chart-reporting-guideline.md) — Linea guida per la rendicontazione degli studi su chatbot di consulenza sanitaria.
 - [elevate-genai-framework](wiki/elevate-genai-framework.md) — Standard di trasparenza per la ricerca biomedica assistita da GenAI.
+
+## Riferimenti Bibliografici
+- [Da integrare]

@@ -110,4 +110,7 @@ Per superare l'impasse tra l'inefficacia dell'AI-T rigida e la pericolosità del
 ---
 
 ## Relazioni
-- Vedi anche: [[healthcare-14-00820]], [[tiered-human-ai-healing-ecosystem]], [[tiered-autonomy-in-clinical-ai]], [[three-layer-governance-framework]], [[simulated-empathy-vs-authentic-presence]], [[rlhf-safety-therapeutic-conflict]], [[ai-psychosis]], [[digital-therapeutic-alliance]], [[modello-centauro-clinico]], [[fpubh-14-1792627]], [[2604-23445v1]]
+- Vedi anche: [healthcare-14-00820](healthcare-14-00820.md), [tiered-human-ai-healing-ecosystem](tiered-human-ai-healing-ecosystem.md), [tiered-autonomy-in-clinical-ai](tiered-autonomy-in-clinical-ai.md), [three-layer-governance-framework](concetti/concetti/concetti\three-layer-governance-framework.md), [simulated-empathy-vs-authentic-presence](concetti/concetti/concetti\simulated-empathy-vs-authentic-presence.md), [rlhf-safety-therapeutic-conflict](rlhf-safety-therapeutic-conflict.md), [ai-psychosis](ai-psychosis.md), [digital-therapeutic-alliance](digital-therapeutic-alliance.md), [modello-centauro-clinico](concetti/concetti/concetti\modello-centauro-clinico.md), [fpubh-14-1792627](fpubh-14-1792627.md), [2604-23445v1](2604-23445v1.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

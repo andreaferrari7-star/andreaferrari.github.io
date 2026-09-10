@@ -87,9 +87,12 @@ $$\mathbf{\Delta} = \hat{\mathbf{y}} - \mathbf{y}^*$$
 ---
 
 ## Relazioni
-- [[motivational-interviewing-dialogue-summarization]]: Applicazione del framework alla sintesi di colloqui clinici.
-- [[semantic-drift-in-therapy-llms]]: Quantificazione della divergenza semantica attraverso le metriche MITI.
-- [[annosum-mi-dataset]]: Il dataset di riferimento annotato con il framework MITI a 6 dimensioni.
-- [[ctrs-automated-evaluation]]: Parallelismo con la scala CTRS usata per la valutazione della fedeltà in CBT.
-- [[clinical-fidelity-assessment]]: Tassonomia generale delle scale di integrità del trattamento in psicoterapia.
-- [[kumar-et-al-2025]]: Studio che formalizza ed estende il framework MITI per l'elaborazione automatica del linguaggio.
+- [motivational-interviewing-dialogue-summarization](motivational-interviewing-dialogue-summarization.md): Applicazione del framework alla sintesi di colloqui clinici.
+- [semantic-drift-in-therapy-llms](semantic-drift-in-therapy-llms.md): Quantificazione della divergenza semantica attraverso le metriche MITI.
+- [annosum-mi-dataset](annosum-mi-dataset.md): Il dataset di riferimento annotato con il framework MITI a 6 dimensioni.
+- [ctrs-automated-evaluation](ctrs-automated-evaluation.md): Parallelismo con la scala CTRS usata per la valutazione della fedeltà in CBT.
+- [clinical-fidelity-assessment](../clinical-fidelity-assessment.md): Tassonomia generale delle scale di integrità del trattamento in psicoterapia.
+- [kumar-et-al-2025](../sintesi/kumar-et-al-2025.md): Studio che formalizza ed estende il framework MITI per l'elaborazione automatica del linguaggio.
+
+## Riferimenti Bibliografici
+- [Da integrare]

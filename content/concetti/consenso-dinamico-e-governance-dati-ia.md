@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Consenso Dinamico e Governance dei Dati in Psicoterapia Digitale
 
 **Summary**: Modello evolutivo di consenso informato e governance etico-giuridica per la salute mentale digitale che supera il consenso statico cartaceo, garantendo al paziente granularità modulare sui propri dati, diritto alla non-discriminazione algoritmica e conformità vincolante a EU AI Act 2024/1689 (sistemi ad alto rischio - agosto 2026) e GDPR Articolo 9.
@@ -7,7 +11,7 @@
 
 ## Il Superamento del Consenso Informato Statico
 
-Nell'era dei [[large-language-models]] e della digital health, il consenso informato cartaceo, una tantum e generico risulta clinicamente e giuridicamente inefficace. 
+Nell'era dei [large-language-models](../large-language-models.md) e della digital health, il consenso informato cartaceo, una tantum e generico risulta clinicamente e giuridicamente inefficace. 
 
 Il **Consenso Dinamico (*Dynamic Informed Consent*)** è una piattaforma relazionale e tecnologica in cui il paziente esercita un controllo continuativo e granulare sull'utilizzo, l'archiviazione e l'eventuale processamento algoritmico dei propri dati clinici, narrativi e biometrici.
 
@@ -66,8 +70,11 @@ flowchart TD
 ---
 
 ## Pagine Correlate
-- [[ai-in-psicoterapia-2023-2026]]
-- [[moral-buffering-e-deskilling-etico]]
-- [[sadar-framework]]
-- [[specializzazioni-ia-resistenti]]
-- [[tecnostress-e-paradosso-sovradocumentazione]]
+- [ai-in-psicoterapia-2023-2026](../sintesi/ai-in-psicoterapia-2023-2026.md)
+- [moral-buffering-e-deskilling-etico](moral-buffering-e-deskilling-etico.md)
+- [sadar-framework](sadar-framework.md)
+- [specializzazioni-ia-resistenti](specializzazioni-ia-resistenti.md)
+- [tecnostress-e-paradosso-sovradocumentazione](tecnostress-e-paradosso-sovradocumentazione.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

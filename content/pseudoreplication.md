@@ -17,4 +17,7 @@ source_papers: ["2507.04491v2.pdf"]
 - Lin, Z. (2026). A validity-guided workflow for robust large language model research in psychology. *Behavior Research Methods*, 58, Article 216. https://doi.org/10.3758/s13428-026-03073-2
 
 ## Relazioni
-- Vedi anche: [[lin-2026]], [[dual-validity-framework]], [[measurement-phantoms]]
+- Vedi anche: [lin-2026](lin-2026.md), [dual-validity-framework](dual-validity-framework.md), [measurement-phantoms](measurement-phantoms.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

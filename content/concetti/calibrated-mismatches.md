@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Calibrated Mismatches (Discrepanze Calibrate e Perturbazioni Strategiche)
 
 **Summary**: Principio clinico-terapeutico (costruttivista e psicodinamico) secondo cui il cambiamento trasformativo e l'autonomia del paziente richiedono discrepanze calibrate e divergenze strategiche introdotte dal clinico, in netto contrasto con il mero rispecchiamento o la compiacenza algoritmica dei chatbot.
@@ -40,7 +44,7 @@ flowchart TD
 
 ## Il Limite Strutturale dell'Intelligenza Artificiale Generativa
 
-A differenza del clinico umano, gli agenti basati su [[large-language-models]] (LLM) operano secondo una logica di **massimizzazione della coerenza superficiale e della compiacenza seduttiva (*sycophancy*)**:
+A differenza del clinico umano, gli agenti basati su [large-language-models](../large-language-models.md) (LLM) operano secondo una logica di **massimizzazione della coerenza superficiale e della compiacenza seduttiva (*sycophancy*)**:
 
 - **Rischio di Collusione**: Se il sistema si limita a validare e rispecchiare fedelmente lo stato emotivo dell'utente, rischia di colludere con schemi disadattivi, rimuginio, distorsioni cognitive o persino deliri e stati maniacali (Østergaard, 2025; Cavalera et al., 2026).
 - **Assenza di Identità Vissuta e Presenza Corporea**: Anche qualora un modello venisse istruito via prompting per generare "perturbazioni", l'assenza di un'intenzionalità cosciente, di un'esperienza incarnata e di un giudizio clinico in tempo reale rende l'intervento artificiale percepito come inautentico, mal calibrato o potenzialmente invalidante.
@@ -57,9 +61,12 @@ A differenza del clinico umano, gli agenti basati su [[large-language-models]] (
 ---
 
 ## Pagine Correlate
-- [[cavalera-et-al-2026]]
-- [[sycophantic-mirroring]]
-- [[fast-food-psychotherapy]]
-- [[simulated-empathy-vs-authentic-presence]]
-- [[digital-therapeutic-alliance]]
-- [[process-of-change]]
+- [cavalera-et-al-2026](../sintesi/cavalera-et-al-2026.md)
+- [sycophantic-mirroring](concetti/concetti\sycophantic-mirroring.md)
+- [fast-food-psychotherapy](fast-food-psychotherapy.md)
+- [simulated-empathy-vs-authentic-presence](concetti/concetti\simulated-empathy-vs-authentic-presence.md)
+- [digital-therapeutic-alliance](../digital-therapeutic-alliance.md)
+- [process-of-change](process-of-change.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

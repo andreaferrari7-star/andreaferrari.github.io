@@ -17,4 +17,7 @@ source_papers: ["2603.27146v3.pdf"]
 - Wang, H., Jiang, P., Sun, J., Shi, Z., Yu, H., Han, J., & Ji, H. (2026). Learning to Predict Future-Aligned Research Proposals with Language Models. *arXiv preprint arXiv:2603.27146v3*. https://arxiv.org/abs/2603.27146v3
 
 ## Relazioni
-- Vedi anche: [[future-alignment-score]], [[stepwise-cot]], [[hybrid-ai-research-workflows]], [[hypothesis-generation]]
+- Vedi anche: [future-alignment-score](future-alignment-score.md), [stepwise-cot](stepwise-cot.md), [hybrid-ai-research-workflows](hybrid-ai-research-workflows.md), [hypothesis-generation](hypothesis-generation.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

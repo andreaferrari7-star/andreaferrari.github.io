@@ -62,5 +62,6 @@ Il framework distingue tra:
 
 ## Relazioni
 
-- Scheda sintesi collegata: [[ai-v4i1e69006]]
-- Concetti correlati: [[chai-blueprint-health-ai]], [[healthcare-conversational-agents]], [[five-axis-clinical-evaluation]], [[software-as-a-medical-device-salute-mentale]], [[three-layer-governance-framework]], [[rlhf-safety-therapeutic-conflict]], [[reflective-interpretability]], [[audit-bias-llm-clinici]], [[simulated-therapeutic-alliance]].
+- Scheda sintesi collegata: [ai-v4i1e69006](ai-v4i1e69006.md)
+- Concetti correlati: [chai-blueprint-health-ai](chai-blueprint-health-ai.md), [healthcare-conversational-agents](concetti/concetti/concetti\healthcare-conversational-agents.md), [five-axis-clinical-evaluation](five-axis-clinical-evaluation.md), [software-as-a-medical-device-salute-mentale](software-as-a-medical-device-salute-mentale.md), [three-layer-governance-framework](concetti/concetti/concetti\three-layer-governance-framework.md), [rlhf-safety-therapeutic-conflict](rlhf-safety-therapeutic-conflict.md), [reflective-interpretability](reflective-interpretability.md), [audit-bias-llm-clinici](concetti/concetti/concetti\audit-bias-llm-clinici.md), [simulated-therapeutic-alliance](simulated-therapeutic-alliance.md).
+

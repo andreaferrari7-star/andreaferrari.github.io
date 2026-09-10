@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Benchmarking e Valutazione di Competenze di Counseling per LLM
 
 **Summary**: Quadro metodologico per la valutazione quantitativa e qualitativa delle competenze psicoterapeutiche e di counseling nei Large Language Models. Comprende benchmark standardizzati di esame clinico (*CounselingBench*), compiti di comprensione del modello cognitivo CBT (*CBT-Bench*), scenari avversariali (*CounselBench-Adv*) e protocolli di valutazione comparata tra panel di LLM-as-a-Judge e psicoterapeuti esperti accreditati, evidenziando le discrepanze sistematiche tra metriche automatiche e giudizio clinico umano.
@@ -102,9 +106,12 @@ graph LR
 ---
 
 ## Pagine Correlate
-- [[vu-et-al-2025]]: Sintesi del paper di riferimento e risultati comparativi.
-- [[sqpsych-framework]]: Architettura di generazione e modelli SQPsychLLM valutati nei benchmark.
-- [[clinical-fidelity-assessment]]: Metodologie per la misura della fedeltà e aderenza ai modelli terapeutici.
-- [[ctrs-automated-evaluation]]: Valutazione automatizzata della scala CTRS per la CBT.
-- [[cognitive-distortion-detection]]: Sistemi computazionali per il rilevamento di distorsioni cognitive.
-- [[human-in-the-reasoning]]: Centralità del giudizio clinico umano rispetto all'automazione algoritmica.
+- [vu-et-al-2025](../sintesi/vu-et-al-2025.md): Sintesi del paper di riferimento e risultati comparativi.
+- [sqpsych-framework](sqpsych-framework.md): Architettura di generazione e modelli SQPsychLLM valutati nei benchmark.
+- [clinical-fidelity-assessment](../clinical-fidelity-assessment.md): Metodologie per la misura della fedeltà e aderenza ai modelli terapeutici.
+- [ctrs-automated-evaluation](ctrs-automated-evaluation.md): Valutazione automatizzata della scala CTRS per la CBT.
+- [cognitive-distortion-detection](cognitive-distortion-detection.md): Sistemi computazionali per il rilevamento di distorsioni cognitive.
+- [human-in-the-reasoning](human-in-the-reasoning.md): Centralità del giudizio clinico umano rispetto all'automazione algoritmica.
+
+## Riferimenti Bibliografici
+- [Da integrare]

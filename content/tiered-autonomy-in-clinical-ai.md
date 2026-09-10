@@ -96,7 +96,7 @@ flowchart LR
 
 1. **Disaccordo tra Agenti (*Inter-Agent Disagreement*):** Se durante la negoziazione interna due moduli specializzati (es. un agente diagnostico e un agente farmacologico) giungono a conclusioni incompatibili o divergenti, il processo si arresta istantaneamente e richiede l'arbitrato del clinico.
 2. **Crollo della Metrica di Confidenza (*Confidence Gaps*):** Quando la stima dell'incertezza probabilistica supera una soglia predeterminata dal comitato etico-clinico, l'autonomia delegata decade automaticamente.
-3. **Identificazione di Casi Limite (*Edge Cases & Out-of-Distribution*):** Riconoscimento di parametri rari, comorbidità complesse o fattori psicosociali non mappati nel dataset di addestramento primario (risoluzione della [[fpubh-14-1792627|cecità contestuale]]).
+3. **Identificazione di Casi Limite (*Edge Cases & Out-of-Distribution*):** Riconoscimento di parametri rari, comorbidità complesse o fattori psicosociali non mappati nel dataset di addestramento primario (risoluzione della [cecità contestuale](concetti/fpubh-14-1792627.md)).
 4. **Rilevazione di Crisi Imminente:** Comparsa di alert salvavita (es. indicatori vocali di scompenso psicotico o instabilità clinica acuta) che impongono la presa in carico umana immediata.
 
 ---
@@ -128,4 +128,6 @@ flowchart LR
 ---
 
 ## Relazioni
-- Vedi anche: [[fpubh-14-1792627]], [[compound-opacity-in-multi-agent-systems]], [[human-oversight-and-liability-in-clinical-ai]], [[modello-centauro-clinico]], [[three-layer-governance-framework]], [[automated-clinical-ai-red-teaming]], [[clinical-decision-making-and-artificial-intelligence]], [[over-deference-in-llm-supervision]], [[gdpr-governance-mental-health-ai]], [[ethical-guidance-professional-practice-1]]
+- Vedi anche: [fpubh-14-1792627](fpubh-14-1792627.md), [compound-opacity-in-multi-agent-systems](compound-opacity-in-multi-agent-systems.md), [human-oversight-and-liability-in-clinical-ai](human-oversight-and-liability-in-clinical-ai.md), [modello-centauro-clinico](concetti/concetti/concetti\modello-centauro-clinico.md), [three-layer-governance-framework](concetti/concetti/concetti\three-layer-governance-framework.md), [automated-clinical-ai-red-teaming](automated-clinical-ai-red-teaming.md), [clinical-decision-making-and-artificial-intelligence](clinical-decision-making-and-artificial-intelligence.md), [over-deference-in-llm-supervision](over-deference-in-llm-supervision.md), [gdpr-governance-mental-health-ai](concetti/concetti/concetti\gdpr-governance-mental-health-ai.md), [ethical-guidance-professional-practice-1](ethical-guidance-professional-practice-1.md)
+
+

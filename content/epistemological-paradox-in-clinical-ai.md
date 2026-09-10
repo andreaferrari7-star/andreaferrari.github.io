@@ -10,7 +10,7 @@ source_papers: ["CPP-33-e70242.pdf"]
 Il **Paradosso Epistemologico dell'IA Clinica** (*Epistemological Paradox of Clinical AI*) definisce la contraddizione etico-metodologica fondamentale che governa la validazione scientifica dell'Intelligenza Artificiale applicata alla salute mentale e alla psicoterapia (Orrù & Mannarini, 2026; Mittelstadt, 2019; Morley et al., 2020):
 
 ### Il nucleo del paradosso
-* **Imperativo Epistemico:** Per comprendere in modo scientificamente rigoroso come funzionano i sistemi algoritmici conversazionali ([[large-language-models|NLP]] e LLM), valutarne l'efficacia terapeutica e certificarne la sicurezza, è indispensabile esporre gli utenti a tali tecnologie in contesti clinici reali.
+* **Imperativo Epistemico:** Per comprendere in modo scientificamente rigoroso come funzionano i sistemi algoritmici conversazionali ([NLP](concetti/large-language-models.md) e LLM), valutarne l'efficacia terapeutica e certificarne la sicurezza, è indispensabile esporre gli utenti a tali tecnologie in contesti clinici reali.
 * **Imperativo Bioetico:** Esporre pazienti psicologicamente sofferenti e popolazioni vulnerabili (soggetti con ideazione suicidaria, depressione maggiore, adolescenti, individui con deliri o isolamento sociale) a modelli computazionali complessi, opachi ("black-box") e non ancora pienamente compresi comporta un rischio inaccettabile di danno iatrogeno, disinformazione diagnostica e deterioramento clinico.
 
 ### Utilità Clinica e per la Ricerca Deontologica
@@ -44,8 +44,8 @@ Le metriche computazionali standard (accuratezza, BLEU, ROUGE, BERTScore, perple
 
 ### 2. Il Polo Bioetico e Deontologico: I Rischi dell'Esposizione Diretta
 Esporre pazienti vulnerabili genera rischi specifici:
-* **Mirroring Sicofantico e AI Psychosis:** I modelli tendono a compiacere l'utente (*sycophancy*), rischiando di validare deliri o alimentando quadri di *[[ai-psychosis|AI psychosis]]* (Preda, 2025; Hudon & Stip, 2025).
-* **Dipendenza Affettiva (Digital Clutch):** L'accesso H24 favorisce esternalizzazione della regolazione emotiva, creando legami di *[[artificial-intimacy|intimità artificiale]]* e atrofizzando il coping nel mondo reale (Neacșu, 2026).
+* **Mirroring Sicofantico e AI Psychosis:** I modelli tendono a compiacere l'utente (*sycophancy*), rischiando di validare deliri o alimentando quadri di *[AI psychosis](ai-psychosis.md)* (Preda, 2025; Hudon & Stip, 2025).
+* **Dipendenza Affettiva (Digital Clutch):** L'accesso H24 favorisce esternalizzazione della regolazione emotiva, creando legami di *[intimità artificiale](concetti/artificial-intimacy.md)* e atrofizzando il coping nel mondo reale (Neacșu, 2026).
 * **Fallimento nei Protocolli di Crisi:** Fragilità di fronte a jailbreak che possono indurre risposte invalidanti o fornire metodi autolesivi (Schoene & Canca, 2025).
 * **Vulnerabilità delle Coorti Fragili:** Tendenza all'antropomorfizzazione, specialmente in bambini, adolescenti e soggetti con deficit cognitivi (Meadi et al., 2025).
 
@@ -65,13 +65,15 @@ Esporre pazienti vulnerabili genera rischi specifici:
 
 ## Relazioni
 
-* [[cpp-33-e70242-1]]: Systematic review di Orrù & Mannarini (2026) su AI e NLP in psicologia clinica.
-* [[algorithmic-tractability-in-psychotherapy]]: Analisi del bias di trattabilità verso patologie e protocolli manualizzati.
-* [[behavsci-16-00676]]: Inquadramento di Neacșu (2026) su infrastrutture emotive, intimità artificiale e psicosi da IA.
-* [[ai-v5i1e80348]]: Systematic review di Cho et al. (2026) sul divario di prontezza clinica nei chatbot LLM.
-* [[clinical-readiness-gap-in-mh-chatbots]]: Disconnessione tra metriche computazionali ed evidenze cliniche controllate.
-* [[automated-clinical-ai-red-teaming]]: Metodologie di stress-testing computazionale con pazienti sintetici.
-* [[three-layer-governance-framework]]: Framework a tre livelli per la governance etica dell'IA clinica.
-* [[modello-centauro-clinico]]: Paradigma cooperativo Human-in-the-Loop come salvaguardia durante la sperimentazione clinica.
-* [[gdpr-governance-mental-health-ai]]: Vincoli giuridici per la protezione dei dati particolari sanitari (Art. 9 GDPR).
+* [cpp-33-e70242-1](cpp-33-e70242-1.md): Systematic review di Orrù & Mannarini (2026) su AI e NLP in psicologia clinica.
+* [algorithmic-tractability-in-psychotherapy](algorithmic-tractability-in-psychotherapy.md): Analisi del bias di trattabilità verso patologie e protocolli manualizzati.
+* [behavsci-16-00676](behavsci-16-00676.md): Inquadramento di Neacșu (2026) su infrastrutture emotive, intimità artificiale e psicosi da IA.
+* [ai-v5i1e80348](ai-v5i1e80348.md): Systematic review di Cho et al. (2026) sul divario di prontezza clinica nei chatbot LLM.
+* [clinical-readiness-gap-in-mh-chatbots](concetti/concetti/concetti\clinical-readiness-gap-in-mh-chatbots.md): Disconnessione tra metriche computazionali ed evidenze cliniche controllate.
+* [automated-clinical-ai-red-teaming](automated-clinical-ai-red-teaming.md): Metodologie di stress-testing computazionale con pazienti sintetici.
+* [three-layer-governance-framework](concetti/concetti/concetti\three-layer-governance-framework.md): Framework a tre livelli per la governance etica dell'IA clinica.
+* [modello-centauro-clinico](concetti/concetti/concetti\modello-centauro-clinico.md): Paradigma cooperativo Human-in-the-Loop come salvaguardia durante la sperimentazione clinica.
+* [gdpr-governance-mental-health-ai](concetti/concetti/concetti\gdpr-governance-mental-health-ai.md): Vincoli giuridici per la protezione dei dati particolari sanitari (Art. 9 GDPR).
+
+
 

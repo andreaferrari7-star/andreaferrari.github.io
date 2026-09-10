@@ -17,4 +17,5 @@ source_papers: ["reggente-et-al-2018-multivariate-resting-state-functional-conne
 - Reggente, N., Moody, T. D., Morfini, F., Sheen, C., Rissman, J., O'Neill, J., & Feusner, J. D. (2018). Multivariate resting-state functional connectivity predicts response to cognitive behavioral therapy in obsessive–compulsive disorder. *Proceedings of the National Academy of Sciences*, 115(9), 2222-2227. https://doi.org/10.1073/pnas.1716686115
 
 ## Relazioni
-- Vedi anche: [[cbt-outcome-prediction-in-ocd]]
+- Vedi anche: [cbt-outcome-prediction-in-ocd](concetti/cbt-outcome-prediction-in-ocd.md)
+

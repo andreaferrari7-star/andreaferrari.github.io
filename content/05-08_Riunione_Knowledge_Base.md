@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Riunione 05-08: Sviluppo Knowledge Base AI, Etica e Applicazioni Cliniche
 
 **Summary**: Sintesi della discussione metodologica su architettura degli agenti didattici, transizione dal paradigma Human-in-the-loop a Human-in-the-reasoning, simulazione clinica di pazienti e sfide etiche/regolatorie nell'uso dell'IA in psicoterapia.
@@ -12,11 +16,11 @@
 - **Problematiche di rigidità algoritmica**: Durante il passaggio da *Libet Prime 1.0* a *1.1*, l'accumulo di istruzioni e vincoli sequenziali ha causato una regressione qualitativa, appiattendo le risposte dell'agente su scalette eccessivamente meccaniche.
 - **Best practice di versioning**: Gli LLM tendono ad assegnare priorità gerarchica alle istruzioni aggiunte successivamente. È emerso che per migliorare un agente è preferibile crearne uno nuovo da zero (mantenendo versioni isolate e pulite) piuttosto che continuare a sovrascrivere o appesantire lo script originale.
 
-### 2. Transizione verso il [[human-in-the-reasoning]]
+### 2. Transizione verso il [human-in-the-reasoning](human-in-the-reasoning.md)
 - **Oltre lo Human-in-the-loop**: Viene proposta l'evoluzione dal semplice controllo a posteriori dell'output (supervisione passiva) verso una reale comprensione e guida congiunta dei processi inferenziali dell'IA (*Human-in-the-reasoning*).
 - **Competenza metacognitiva**: Così come il terapeuta indaga le logiche e i bias di ragionamento del paziente, allo stesso modo deve apprendere come "ragiona" il modello linguistico, identificando la struttura dei pesi, i limiti della "scatola nera" e i meccanismi di simulazione del pensiero.
 
-### 3. [[simulazione-pazienti-ai]] e Prompting Avanzato
+### 3. [simulazione-pazienti-ai](simulazione-pazienti-ai.md) e Prompting Avanzato
 - **Linee guida per i prompt clinici**: Riferimento a standard di trasparenza e prompt engineering (es. dichiarazioni tipo TRIPOD) che definiscono chiaramente il livello di astrazione richiesto (inferire, interpretare, descrivere).
 - **Esplicitazione dei bias cognitivi**: Nella simulazione di pazienti virtuali, è fondamentale esplicitare nel prompt non solo i sintomi descrittivi ma gli specifici pattern di ragionamento disfunzionale (es. pensiero dicotomico, catastrofizzazione, dinamiche di alleanza). Questo previene risposte stereotipate e garantisce una simulazione psicologicamente realistica per il training degli studenti.
 - **Testing economico**: Possibilità di sfruttare piattaforme accessibili (es. Gemini) per condurre studi pilota ed esperienze formative a basso costo per gli allievi.
@@ -38,8 +42,11 @@
   3. *Come si interrogano e si utilizzano eticamente* (gestione dei bias, privacy e interazione clinica).
 
 ## Related pages
-- [[human-in-the-reasoning]]
-- [[simulazione-pazienti-ai]]
-- [[large-language-models]]
-- [[prompting-in-psychology]]
-- [[ai-research-ethics]]
+- [human-in-the-reasoning](human-in-the-reasoning.md)
+- [simulazione-pazienti-ai](simulazione-pazienti-ai.md)
+- [large-language-models](large-language-models.md)
+- [prompting-in-psychology](prompting-in-psychology.md)
+- [ai-research-ethics](ai-research-ethics.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

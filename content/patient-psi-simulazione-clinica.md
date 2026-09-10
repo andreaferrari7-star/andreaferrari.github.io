@@ -19,7 +19,7 @@ source_papers:
 
 ## Definizione Operativa
 
-- Il **Framework PATIENT-Ψ** è un'architettura avanzata per la simulazione generativa di **pazienti artificiali realistici ed ecologici**, ideata specificamente per l'addestramento clinico e la [[deliberate-practice-in-psicoterapia-ia|Deliberate Practice]] di psicologi, psicoterapeuti e psichiatri in formazione.
+- Il **Framework PATIENT-Ψ** è un'architettura avanzata per la simulazione generativa di **pazienti artificiali realistici ed ecologici**, ideata specificamente per l'addestramento clinico e la [Deliberate Practice](concetti/deliberate-practice-in-psicoterapia-ia.md) di psicologi, psicoterapeuti e psichiatri in formazione.
 
 - **Superamento della Caricatura Sintomatica:** I sistemi di simulazione tradizionali e i chatbot standard generano rappresentazioni caricaturali e bidimensionali del disagio mentale, basandosi su mere checklist di criteri descrittivi del DSM-5. PATIENT-Ψ modella il paziente virtuale come un sistema cognitivo-affettivo profondo ancorato a:
     1. **Deep Cognitive Modeling (Programmazione Profonda):** Definizione esplicita di schemi cognitivi disfunzionali, credenze condizionali e *Core Beliefs* nucleari (es. credenze di indegnità, abbandono, vulnerabilità o difettosità).
@@ -113,6 +113,8 @@ flowchart TD
 ---
 
 ## Relazioni
-- Scheda sintesi collegata: [[clinical-ai-blueprint]]
-- Concetti correlati: [[coast-framework-clinical-prompting]], [[mind-safe-framework]], [[simulazione-pazienti-ai]], [[deliberate-practice-in-psicoterapia-ia]], [[sycophantic-mirroring]], [[over-deference-in-llm-supervision]], [[cbt-dialogue-systems-and-tools]], [[libet-prime-agenti-didattici]].
+- Scheda sintesi collegata: [clinical-ai-blueprint](clinical-ai-blueprint.md)
+- Concetti correlati: [coast-framework-clinical-prompting](concetti/concetti/concetti\coast-framework-clinical-prompting.md), [mind-safe-framework](concetti/mind-safe-framework.md), [simulazione-pazienti-ai](simulazione-pazienti-ai.md), [deliberate-practice-in-psicoterapia-ia](concetti/deliberate-practice-in-psicoterapia-ia.md), [sycophantic-mirroring](concetti/concetti/concetti\sycophantic-mirroring.md), [over-deference-in-llm-supervision](over-deference-in-llm-supervision.md), [cbt-dialogue-systems-and-tools](concetti/concetti/concetti\cbt-dialogue-systems-and-tools.md), [libet-prime-agenti-didattici](concetti/concetti/concetti\libet-prime-agenti-didattici.md).
+
+
 

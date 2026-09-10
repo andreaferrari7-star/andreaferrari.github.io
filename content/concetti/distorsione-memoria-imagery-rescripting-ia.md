@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Distorsione della Memoria e Imagery Rescripting mediati da IA
 
 **Summary**: Analisi differenziale tra il rischio iatrogeno di induzione di false memorie (*false memory effect*) generato da allucinazioni o bias di prompting dell'IA generativa e l'impiego terapeutico intenzionale della modificazione mnestica (*Imagery Rescripting*) guidato dal clinico.
@@ -54,9 +58,12 @@ La ricerca in Human-Computer Interaction (HCI) ed etica delle tecnologie immersi
 ---
 
 ## Related pages
-- [[degenhard-et-al-2025]]
-- [[generative-ai-exposure-therapy]]
-- [[rischi-esposizione-cptsd-ia]]
-- [[interazione-triadica-terapeuta-paziente-ia]]
-- [[human-in-the-reasoning]]
-- [[etica-privacy-bias-ia-clinica]]
+- [degenhard-et-al-2025](../sintesi/degenhard-et-al-2025.md)
+- [generative-ai-exposure-therapy](generative-ai-exposure-therapy.md)
+- [rischi-esposizione-cptsd-ia](rischi-esposizione-cptsd-ia.md)
+- [interazione-triadica-terapeuta-paziente-ia](interazione-triadica-terapeuta-paziente-ia.md)
+- [human-in-the-reasoning](human-in-the-reasoning.md)
+- [etica-privacy-bias-ia-clinica](etica-privacy-bias-ia-clinica.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

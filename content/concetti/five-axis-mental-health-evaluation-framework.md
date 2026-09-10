@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Five-Axis Evaluation Framework for Mental Health AI (Framework di Valutazione a Cinque Assi)
 
 **Summary**: Framework multidimensionale e indipendente dal protocollo terapeutico (*protocol-agnostic*) progettato per la valutazione clinica e la certificazione regolatoria pre-deployment di sistemi di intelligenza artificiale per la salute mentale, strutturato su 5 assi cardine: Fedeltà al Protocollo, Rischio di Allucinazione, Coerenza Comportamentale Multi-Turno, Sicurezza nelle Crisi e Robustezza Demografica.
@@ -110,10 +114,13 @@ Il superamento di tutti e cinque gli assi fornisce agli sviluppatori e alle auto
 
 ## Pagine Correlate
 
-- [[suhas-et-al-2026]] — Sintesi dello studio empirico originale che formula il framework.
-- [[exposure-interruption-mechanism]] — Meccanismi specifici di rottura del protocollo clinico.
-- [[acknowledgment-appropriateness-gap]] — Il divario tra metriche superficiali e appropriatezza clinica.
-- [[rlhf-safety-therapeutic-conflict]] — Il conflitto intrinseco tra allineamento standard e meccanismi d'azione terapeutici.
-- [[software-as-a-medical-device-salute-mentale]] — Requisiti SaMD e normative internazionali per i dispositivi medici in salute mentale.
-- [[ctrs-automated-evaluation]] — Valutazione automatica dell'aderenza alle scale CBT.
-- [[synthetic-clinical-dialogues]] — Metodologia di creazione e validazione di dataset clinici sintetici.
+- [suhas-et-al-2026](../sintesi/suhas-et-al-2026.md) — Sintesi dello studio empirico originale che formula il framework.
+- [exposure-interruption-mechanism](exposure-interruption-mechanism.md) — Meccanismi specifici di rottura del protocollo clinico.
+- [acknowledgment-appropriateness-gap](acknowledgment-appropriateness-gap.md) — Il divario tra metriche superficiali e appropriatezza clinica.
+- [rlhf-safety-therapeutic-conflict](rlhf-safety-therapeutic-conflict.md) — Il conflitto intrinseco tra allineamento standard e meccanismi d'azione terapeutici.
+- [software-as-a-medical-device-salute-mentale](software-as-a-medical-device-salute-mentale.md) — Requisiti SaMD e normative internazionali per i dispositivi medici in salute mentale.
+- [ctrs-automated-evaluation](ctrs-automated-evaluation.md) — Valutazione automatica dell'aderenza alle scale CBT.
+- [synthetic-clinical-dialogues](synthetic-clinical-dialogues.md) — Metodologia di creazione e validazione di dataset clinici sintetici.
+
+## Riferimenti Bibliografici
+- [Da integrare]

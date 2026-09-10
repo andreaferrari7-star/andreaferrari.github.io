@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Lezione e Seminario: RAG, LLM in Psicoterapia, Supervisione e Governance Etica (10 Giugno 2026)
 
 **Summary**: Resoconto analitico del seminario SITCC Veneto dedicato all'integrazione clinica, tecnica ed etica dell'Intelligenza Artificiale in psicoterapia. Vengono approfondite le architetture RAG e API-first, il Modello Centauro applicato alla seduta clinica con feedback NLP, l'indagine empirica sull'uso dell'IA nella supervisione (Cosentino et al., 2026), e la fenomenologia dell'uso problematico e della dipendenza da chatbot negli adolescenti (Romano & Baioni, 2026).
@@ -7,13 +11,13 @@
 
 ## Quadro Generale e Organizzazione
 
-Il seminario, promosso e organizzato dalla sezione Veneto della **SITCC (Società Italiana di Terapia Cognitivo Comportamentale)** (moderato da Francesca Baggio, Chiara Novello e Gloria Fioravanti), si inserisce nel dibattito specialistico sull'impatto trasformativo dei [[large-language-models|Large Language Models (LLM)]] e del [[rag-in-psicoterapia|Retrieval-Augmented Generation (RAG)]] nella clinica, nella formazione e nella tutela della salute mentale. 
+Il seminario, promosso e organizzato dalla sezione Veneto della **SITCC (Società Italiana di Terapia Cognitivo Comportamentale)** (moderato da Francesca Baggio, Chiara Novello e Gloria Fioravanti), si inserisce nel dibattito specialistico sull'impatto trasformativo dei [Large Language Models (LLM)](concetti/large-language-models.md) e del [Retrieval-Augmented Generation (RAG)](concetti/rag-in-psicoterapia.md) nella clinica, nella formazione e nella tutela della salute mentale. 
 
 L'incontro si articola in quattro moduli tematici sinergici:
 1. Architetture tecniche, personalizzazione RAG e confronto tra interfacce Web e API.
-2. Applicazione clinica in vivo, feedback aumentato e il [[modello-centauro-clinico|Modello Centauro]] nella gestione della seduta.
-3. Studio empirico sull'adozione dell'IA nella [[supervisione-clinica-ai|supervisione clinica]] (variabili di colpa, ansia sociale e timore di de-skilling).
-4. Inquadramento clinico-nosografico dell'[[uso-problematico-chatbot-ai|uso problematico di chatbot]], dinamiche di dipendenza affettiva e vulnerabilità evolutiva negli adolescenti.
+2. Applicazione clinica in vivo, feedback aumentato e il [Modello Centauro](concetti/concetti/concetti\modello-centauro-clinico.md) nella gestione della seduta.
+3. Studio empirico sull'adozione dell'IA nella [supervisione clinica](supervisione-clinica-ai.md) (variabili di colpa, ansia sociale e timore di de-skilling).
+4. Inquadramento clinico-nosografico dell'[uso problematico di chatbot](uso-problematico-chatbot-ai.md), dinamiche di dipendenza affettiva e vulnerabilità evolutiva negli adolescenti.
 
 ---
 
@@ -39,7 +43,7 @@ Nella sessione di apertura tecnica (Dott. Giacomo Antonio / Dott. Mauro Bonora),
 
 ## 2. Applicazione Clinica in Vivo: Il Modello Centauro e l'Analisi della Seduta
 
-Il Dott. Giuseppe (Lilac) analizza l'integrazione dell'IA nel processo terapeutico attraverso il paradigma del [[modello-centauro-clinico|Modello Centauro]] e l'impiego del feedback sistematico post-seduta:
+Il Dott. Giuseppe (Lilac) analizza l'integrazione dell'IA nel processo terapeutico attraverso il paradigma del [Modello Centauro](concetti/concetti/concetti\modello-centauro-clinico.md) e l'impiego del feedback sistematico post-seduta:
 
 ### Origine Epistemologica: Il "Centaur Chess" di Kasparov
 Nel 1997, dopo il match contro *Deep Blue*, Garry Kasparov teorizzò che l'abbinamento sinergico tra intuizione umana e potenza computazionale (*Centaur*) supera sia il miglior umano da solo sia il più potente supercomputer isolato:
@@ -167,14 +171,17 @@ Non esistendo ancora un'etichetta diagnostica formale in DSM-5-TR o ICD-11, il f
 ---
 
 ## Related pages
-- [[modello-centauro-clinico]]
-- [[supervisione-clinica-ai]]
-- [[uso-problematico-chatbot-ai]]
-- [[rag-in-psicoterapia]]
-- [[augmented-psychotherapy]]
-- [[digital-therapeutic-alliance]]
-- [[human-in-the-reasoning]]
-- [[ai-research-ethics]]
-- [[anthropomorphism-in-ai]]
-- [[large-language-models]]
-- [[feedback-informed-practice-ai]]
+- [modello-centauro-clinico](concetti/concetti/concetti\modello-centauro-clinico.md)
+- [supervisione-clinica-ai](supervisione-clinica-ai.md)
+- [uso-problematico-chatbot-ai](uso-problematico-chatbot-ai.md)
+- [rag-in-psicoterapia](concetti/rag-in-psicoterapia.md)
+- [augmented-psychotherapy](augmented-psychotherapy.md)
+- [digital-therapeutic-alliance](digital-therapeutic-alliance.md)
+- [human-in-the-reasoning](human-in-the-reasoning.md)
+- [ai-research-ethics](ai-research-ethics.md)
+- [anthropomorphism-in-ai](anthropomorphism-in-ai.md)
+- [large-language-models](large-language-models.md)
+- [feedback-informed-practice-ai](concetti/feedback-informed-practice-ai.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

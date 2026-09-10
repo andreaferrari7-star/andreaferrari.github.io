@@ -76,10 +76,11 @@ Nei modelli sviluppati secondo il framework della *Process-Based Therapy* (PBT; 
 ---
 
 ## Pagine Correlate
-- [[ong-et-al-2025]]
-- [[extended-evolutionary-meta-model]]
-- [[llm-case-conceptualization-pipeline]]
-- [[process-based-therapy]]
-- [[process-of-change]]
-- [[ai-clinical-decision-support]]
-- [[network-based-ai-mental-healthcare]]
+- [ong-et-al-2025](../sintesi/ong-et-al-2025.md)
+- [extended-evolutionary-meta-model](extended-evolutionary-meta-model.md)
+- [llm-case-conceptualization-pipeline](concetti/concetti\llm-case-conceptualization-pipeline.md)
+- [process-based-therapy](process-based-therapy.md)
+- [process-of-change](process-of-change.md)
+- [ai-clinical-decision-support](ai-clinical-decision-support.md)
+- [network-based-ai-mental-healthcare](network-based-ai-mental-healthcare.md)
+

@@ -16,4 +16,5 @@ source_papers: ["mhealth-2025-1-e53133.pdf"]
 - Lee, S., Jeong, J., Kim, M., Lee, S., Kim, S. P., & Jung, D. (2025). Development of a Mobile Intervention for Procrastination Augmented With a Semigenerative Chatbot for University Students: Pilot Randomized Controlled Trial. *JMIR mHealth and uHealth*, 13, e53133. https://doi.org/10.2196/53133
 
 ## Relazioni
-- Vedi anche: [[lee-et-al-2025]], [[retrieval-vs-generative-clinical-chatbots]], [[digital-therapeutic-alliance]]
+- Vedi anche: [lee-et-al-2025](../lee-et-al-2025.md), [retrieval-vs-generative-clinical-chatbots](../retrieval-vs-generative-clinical-chatbots.md), [digital-therapeutic-alliance](../digital-therapeutic-alliance.md)
+

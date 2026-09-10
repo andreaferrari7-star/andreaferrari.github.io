@@ -7,7 +7,7 @@ source_papers: ["mental_v12i1e78410.pdf"]
 
 ## Definizione Operativa
 - **Revisione sistematica della letteratura** condotta secondo il framework per sistemi informativi di vom Brocke et al. (2015) e le linee guida **PRISMA** (*Preferred Reporting Items for Systematic Reviews and Meta-Analyses*), pubblicata su *JMIR Mental Health* (2025, vol. 12, e78410) da Andreas Bucher, Sarah Egger, Inna Vashkite, Wenyuan Wu e Gerhard Schwabe (Department of Informatics, University of Zurich; DOI: [10.2196/78410](https://doi.org/10.2196/78410), PMID: [41186978](https://pubmed.ncbi.nlm.nih.gov/41186978/)).
-- **Oggetto e Ambito:** Mappatura, concettualizzazione e valutazione critica dell'integrazione dei modelli linguistici di grandi dimensioni ([[large-language-models|LLM]]) nei servizi di salute mentale, basata sull'analisi qualitativa e quantitativa di **55 studi primari** estratti da 5 banche dati internazionali (*PubMed, IEEE Xplore, JMIR, ACM Digital Library, AIS Electronic Library*) fino ad aprile 2025.
+- **Oggetto e Ambito:** Mappatura, concettualizzazione e valutazione critica dell'integrazione dei modelli linguistici di grandi dimensioni ([LLM](concetti/large-language-models.md)) nei servizi di salute mentale, basata sull'analisi qualitativa e quantitativa di **55 studi primari** estratti da 5 banche dati internazionali (*PubMed, IEEE Xplore, JMIR, ACM Digital Library, AIS Electronic Library*) fino ad aprile 2025.
 - **Tesi Centrale ("Attention Is Not All We Need"):** In esplicito contrasto e richiamo al celebre paper fondativo dei Transformer (*"Attention Is All You Need"*, Vaswani et al., 2017), gli autori dimostrano che il solo meccanismo computazionale di *self-attention* e lo scaling algoritmico non sono sufficienti per garantire interventi di salute mentale sicuri, efficaci e clinicamente sostenibili. L'adozione reale richiede una progettazione integrata che consideri l'esperienza utente edonico-umanistica e l'incorporamento sistemico in modelli di cura collaborativi.
 - **Framework Morfologico a Tre Livelli (*3-Layer Morphological Box*):**
   1. **L1: LLM Layer (Fondazione Algoritmica e Computazionale):** *Model Provenance* (Closed-source 58%, Open-source 32%, Open-weight 10%), *LLM Customizing* (Prompting, Fine-tuning, RAG), *LLM Task* (Discriminativo, Generativo, Ragionamento CoT);
@@ -16,7 +16,7 @@ source_papers: ["mental_v12i1e78410.pdf"]
 - **Evidenze e Paradossi Chiave:**
   - *Sbilanciamento Metodologico:* Il 67% degli studi (37/55) valuta unicamente la fattibilità tecnica in vitro; il 25% (14/55) è costituito da meta-studi (review/survey); solo il 7% (4/55) misura outcome clinici reali, con appena 2 studi condotti su pazienti con diagnosi formale.
   - *Paradosso Discriminativo:* Modelli specialistici non autoregressivi compatti (*MentalBERT*, *MentalRoBERTa* con 110M parametri) eguagliano o superano modelli fondazionali generativi mastodontici (*GPT-4* con ~1.760B parametri) nei compiti di classificazione diagnostica (depressione, ideazione suicidaria), presentando minori tassi di errore e maggiore trasparenza.
-  - *Proposta di [[ai-blended-therapy|AI-Blended Therapy]]:* Transizione dai sistemi monoutente frammentati (*single-user silos*) a ecosistemi integrati in cui l'agente IA possiede *agency* proattiva sotto la supervisione del clinico umano, preservando l'alleanza terapeutica e azzerando i rischi iatrogeni da allucinazione.
+  - *Proposta di [AI-Blended Therapy](concetti/ai-blended-therapy.md):* Transizione dai sistemi monoutente frammentati (*single-user silos*) a ecosistemi integrati in cui l'agente IA possiede *agency* proattiva sotto la supervisione del clinico umano, preservando l'alleanza terapeutica e azzerando i rischi iatrogeni da allucinazione.
 
 ```mermaid
 flowchart TD
@@ -49,7 +49,7 @@ flowchart TD
 
     subgraph Paradigms ["Sintesi Strategica & Prospettiva Futura"]
         P1["<b>Critica 'Attention Is Not All We Need':</b> Oltre la fattibilità tecnica in vitro"]
-        P2["<b>[[ai-blended-therapy|AI-Blended Therapy]]:</b> Ecosistema multi-stakeholder con supervisione clinica"]
+        P2[AI-Blended Therapy](concetti/ai-blended-therapy.md):</b> Ecosistema multi-stakeholder con supervisione clinica"]
         P3["<b>Design Socio-Affettivo:</b> Equilibrio tra empatia percepita e prevenzione dell'overreliance"]
     end
 
@@ -114,7 +114,7 @@ flowchart LR
 - **Modelli Pre-Addestrati per la Salute Mentale:**
   - *MentalBERT & MentalRoBERTa (Ji et al., 2022):* Pre-addestrati su oltre 13,5 milioni di frasi estratte da community Reddit dedicate al distress psicologico, stabilendo lo stato dell'arte nei task discriminativi;
   - *MentaLLaMA (Yang et al., 2024):* Fine-tuning su base LLaMA-2 con dataset multi-task orientato alla spiegabilità (*interpretable mental health analysis*).
-- **Sotto-utilizzo del RAG:** Nonostante il *Retrieval-Augmented Generation* ([[retrieval-vs-generative-clinical-chatbots|RAG]]) dimostri prestazioni superiori al fine-tuning nei compiti generativi riducendo le allucinazioni fattuali (Kang et al., 2024), **solo 2 studi su 55 hanno fatto ricorso al RAG** (Kang et al., 2024; Kumar et al., 2024).
+- **Sotto-utilizzo del RAG:** Nonostante il *Retrieval-Augmented Generation* ([RAG](concetti/retrieval-vs-generative-clinical-chatbots.md)) dimostri prestazioni superiori al fine-tuning nei compiti generativi riducendo le allucinazioni fattuali (Kang et al., 2024), **solo 2 studi su 55 hanno fatto ricorso al RAG** (Kang et al., 2024; Kumar et al., 2024).
 
 #### C. Compiti del Modello (*LLM Tasks*) e il Paradosso Discriminativo
 - **Task Discriminativi:** Assegnazione di input testuali o multimodali a etichette cliniche (depressione, ideazione suicidaria, stress). **Risultato fondamentale:** I modelli encoder non autoregressivi compatti (*MentalRoBERTa*, 110M parametri) **superano sistematicamente modelli generativi colossali come GPT-4 (1.760B parametri)** nella classificazione diagnostica, con una frazione dei costi computazionali e senza l'instabilità delle allucinazioni (Yang et al., 2024). Inoltre, GPT-4 mostra tassi di errore elevati su cartelle cliniche elettroniche (EHR) per disturbi antisociali, allucinazioni sensoriali e condotte autolesive (Cardamone et al., 2025).
@@ -163,7 +163,7 @@ flowchart TD
 - **Ruoli Operativi Assegnati:**
   1. *Tool (Strumento Neutro):* LLM privo di identità relazionale, utilizzato per consultazione o classificazione;
   2. *AI Therapist (Terapeuta Virtuale):* Conduzione di dialoghi socratici e prescrizione di compiti cognitivi (*Socrates 2.0*, Held et al., 2024; *MuseAlpha*, Park et al., 2023);
-  3. *AI Companion (Compagno Relazionale):* Sistemi basati sul **[[reciprocal-care-in-ai-mental-health|reciprocal care]]** (*prendersi cura dell'IA per prendersi cura di sé*) e sulla "provocazione positiva" (*positive irritation*), favorendo attaccamento emotivo e responsabilizzazione nell'ansia sociale (*InnerVoice*, Tost et al., 2024);
+  3. *AI Companion (Compagno Relazionale):* Sistemi basati sul **[reciprocal care](concetti/reciprocal-care-in-ai-mental-health.md)** (*prendersi cura dell'IA per prendersi cura di sé*) e sulla "provocazione positiva" (*positive irritation*), favorendo attaccamento emotivo e responsabilizzazione nell'ansia sociale (*InnerVoice*, Tost et al., 2024);
   4. *Simulated Patient (Paziente Virtuale):* Agenti addestrati a interpretare profili clinici simulati per l'addestramento e la supervisione di operatori sociali e studenti di medicina (*Yuan 1.0*, Chan & Li, 2023; Smith et al., 2023).
 
 #### Successi e Sfide del Livello L2 (Sintesi Tabella 3 del paper)
@@ -256,7 +256,7 @@ graph TD
 ```
 
 ### 1. Dalla Frammentazione Monoutente all'AI-Blended Therapy
-La letteratura attuale soffre di una visione riduzionista in cui l'agente IA è concepito come un'isola (*single-user tool*). Questo modello favorisce l'effetto alone (*halo effect*) — la propensione del paziente a sovrastimare l'onniscienza del bot — e rischia ritardi diagnostici qualora l'IA allucini. Bucher et al. (2025) propongono la formalizzazione dell'**[[ai-blended-therapy|AI-Blended Therapy]]**:
+La letteratura attuale soffre di una visione riduzionista in cui l'agente IA è concepito come un'isola (*single-user tool*). Questo modello favorisce l'effetto alone (*halo effect*) — la propensione del paziente a sovrastimare l'onniscienza del bot — e rischia ritardi diagnostici qualora l'IA allucini. Bucher et al. (2025) propongono la formalizzazione dell'**[AI-Blended Therapy](concetti/ai-blended-therapy.md)**:
 - Un modello di cura in cui l'IA è **integrata strutturalmente nel percorso clinico condotto da un professionista umano**, senza sostituirlo.
 - A differenza dei vecchi software deterministici passivi, gli LLM manifestano una vera e propria **agency conversazionale proattiva**, agendo come "co-terapeuti virtuali" o assistenti intelligenti tra una seduta e l'altra (*between-session support*), condividendo in modo controllato i dati di monitoraggio sulla dashboard del terapeuta (Kim et al., 2024; Berrezueta-Guzman et al., 2024).
 
@@ -294,13 +294,15 @@ La revisione lancia un allarme metodologico: **il 93% della letteratura su LLM e
 ---
 
 ## Relazioni e Concetti Connessi
-- [[three-layer-morphological-framework-mental-health-ai]]
-- [[ai-blended-therapy]]
-- [[prognostic-pessimism-in-clinical-ai]]
-- [[prompt-experiment-gap-in-clinical-ai]]
-- [[single-task-zero-shot-evaluation-trap]]
-- [[retrieval-vs-generative-clinical-chatbots]]
-- [[lightweight-domain-models-in-mental-health]]
-- [[reciprocal-care-in-ai-mental-health]]
-- [[three-layer-governance-framework]]
-- [[layered-safeguards-in-clinical-ai]]
+- [three-layer-morphological-framework-mental-health-ai](three-layer-morphological-framework-mental-health-ai.md)
+- [ai-blended-therapy](ai-blended-therapy.md)
+- [prognostic-pessimism-in-clinical-ai](prognostic-pessimism-in-clinical-ai.md)
+- [prompt-experiment-gap-in-clinical-ai](prompt-experiment-gap-in-clinical-ai.md)
+- [single-task-zero-shot-evaluation-trap](single-task-zero-shot-evaluation-trap.md)
+- [retrieval-vs-generative-clinical-chatbots](retrieval-vs-generative-clinical-chatbots.md)
+- [lightweight-domain-models-in-mental-health](lightweight-domain-models-in-mental-health.md)
+- [reciprocal-care-in-ai-mental-health](concetti/reciprocal-care-in-ai-mental-health.md)
+- [three-layer-governance-framework](concetti/concetti/concetti\three-layer-governance-framework.md)
+- [layered-safeguards-in-clinical-ai](concetti/concetti/concetti\layered-safeguards-in-clinical-ai.md)
+
+

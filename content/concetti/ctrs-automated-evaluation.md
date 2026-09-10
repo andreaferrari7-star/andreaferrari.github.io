@@ -58,8 +58,11 @@ graph TD
 ---
 
 ## Relazioni
-- [[clinical-fidelity-assessment]]: Concetto generale di fidelity e behavioral coding.
-- [[ai-enhanced-cbt]]: Ruolo dell'IA nella valutazione del processo terapeutico.
-- [[treatment-outcome-and-relapse-prediction]]: Impatto della qualità erogata sugli esiti a lungo termine.
-- [[simulazione-pazienti-ai]]: Training e debriefing con pazienti virtuali.
-- [[jiang-et-al-2024]]: Studio di review di riferimento.
+- [clinical-fidelity-assessment](../clinical-fidelity-assessment.md): Concetto generale di fidelity e behavioral coding.
+- [ai-enhanced-cbt](concetti/concetti\ai-enhanced-cbt.md): Ruolo dell'IA nella valutazione del processo terapeutico.
+- [treatment-outcome-and-relapse-prediction](treatment-outcome-and-relapse-prediction.md): Impatto della qualità erogata sugli esiti a lungo termine.
+- [simulazione-pazienti-ai](simulazione-pazienti-ai.md): Training e debriefing con pazienti virtuali.
+- [jiang-et-al-2024](../sintesi/jiang-et-al-2024.md): Studio di review di riferimento.
+
+## Riferimenti Bibliografici
+- [Da integrare]

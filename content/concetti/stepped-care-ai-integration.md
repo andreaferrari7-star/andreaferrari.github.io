@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Stepped-Care AI Integration
 
 **Summary**: Modello organizzativo e clinico che inserisce gli strumenti basati su intelligenza artificiale nei sistemi di cura a gradini (*stepped-care*), allocando compiti a bassa intensità all'IA e riservando diagnosi differenziale, terapia relazionale e gestione delle crisi alla supervisione umana diretta.
@@ -61,9 +65,12 @@ Un requisito fondamentale dello Stepped-Care ibrido è la presenza di algoritmi 
 ---
 
 ## Related pages
-- [[erdemir-sumbas-2026]]
-- [[three-layer-governance-framework]]
-- [[clinical-fidelity-assessment]]
-- [[ai-assisted-psychotherapy]]
-- [[augmented-psychotherapy]]
-- [[simulated-empathy-vs-authentic-presence]]
+- [erdemir-sumbas-2026](../sintesi/erdemir-sumbas-2026.md)
+- [three-layer-governance-framework](concetti/concetti\three-layer-governance-framework.md)
+- [clinical-fidelity-assessment](../clinical-fidelity-assessment.md)
+- [ai-assisted-psychotherapy](../ai-assisted-psychotherapy.md)
+- [augmented-psychotherapy](../augmented-psychotherapy.md)
+- [simulated-empathy-vs-authentic-presence](concetti/concetti\simulated-empathy-vs-authentic-presence.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

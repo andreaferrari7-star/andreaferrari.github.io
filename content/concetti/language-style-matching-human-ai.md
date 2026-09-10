@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Language Style Matching (LSM) in Human-AI Dyads
 
 **Summary**: Analisi del Language Style Matching (LSM) come metrica computazionale di convergenza e sintonizzazione linguistica nelle diadi umano-IA applicate alla salute mentale, basata sul calcolo LIWC delle parole funzione e sulla sua correlazione clinica con la riduzione di ansia e depressione.
@@ -60,10 +64,13 @@ Nello studio controllato randomizzato di **Sahab et al. (2025)** condotto su don
 ---
 
 ## Related pages
-- [[sahab-et-al-2025]]
-- [[supportive-listener-prompting]]
-- [[digital-therapeutic-alliance]]
-- [[simulated-empathy-vs-authentic-presence]]
-- [[simulated-therapeutic-alliance]]
-- [[lexical-psychological-features]]
-- [[conversational-agents-mental-health]]
+- [sahab-et-al-2025](../sintesi/sahab-et-al-2025.md)
+- [supportive-listener-prompting](concetti/concetti\supportive-listener-prompting.md)
+- [digital-therapeutic-alliance](../digital-therapeutic-alliance.md)
+- [simulated-empathy-vs-authentic-presence](concetti/concetti\simulated-empathy-vs-authentic-presence.md)
+- [simulated-therapeutic-alliance](simulated-therapeutic-alliance.md)
+- [lexical-psychological-features](../lexical-psychological-features.md)
+- [conversational-agents-mental-health](conversational-agents-mental-health.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

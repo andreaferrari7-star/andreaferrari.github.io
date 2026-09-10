@@ -45,4 +45,7 @@ flowchart TD
 - Zhou, J., Chen, Y., Yin, J., Huang, Y., Shi, Y., Zhang, X., Peng, L., Zhang, R., Lv, T., Hu, Z., Wang, H., & Huang, M. (2025). CRISP: Cognitive Restructuring of Negative Thoughts through Multi-turn Supportive Dialogues. *arXiv preprint arXiv:2504.17238*. https://arxiv.org/abs/2504.17238
 
 ## Relazioni
-- Vedi anche: [[zhou-et-al-2025]], [[crdial-framework]], [[defense-attorney-technique]], [[crispers-models-and-dataset]], [[architetture-generative-dinamiche]], [[active-ai-therapeutic-agent]]
+- Vedi anche: [zhou-et-al-2025](../sintesi/zhou-et-al-2025.md), [crdial-framework](crdial-framework.md), [defense-attorney-technique](concetti/concetti\defense-attorney-technique.md), [crispers-models-and-dataset](concetti/concetti\crispers-models-and-dataset.md), [architetture-generative-dinamiche](architetture-generative-dinamiche.md), [active-ai-therapeutic-agent](active-ai-therapeutic-agent.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Bias Transculturali, Disparità Algoritmiche e Audit di Equità nell'IA Clinica
 
 **Summary**: Analisi delle disparità sistematiche e dei bias etno-culturali, linguistici e demografici nei modelli di intelligenza artificiale applicati alla salute mentale, con disamina degli strumenti di audit algoritmico (IBM AI Fairness 360, Google What-If Tool) e delle metodologie di co-design partecipativo per un'IA inclusiva ed equa.
@@ -74,12 +78,15 @@ La conformità alle linee guida dell'OMS (2021), al GDPR e all'EU AI Act impone 
 ---
 
 ## Related pages
-- [[kandeel-et-al-2026]]
-- [[weird-bias-cultural-adaptability-ai]]
-- [[audit-bias-llm-clinici]]
-- [[misurazione-bias-razziale-llm]]
-- [[gdpr-governance-mental-health-ai]]
-- [[algorithmic-paternalism-in-ai-mental-health]]
-- [[federated-learning-and-differential-privacy-mental-health]]
-- [[three-layer-governance-framework]]
-- [[etica-privacy-bias-ia-clinica]]
+- [kandeel-et-al-2026](../sintesi/kandeel-et-al-2026.md)
+- [weird-bias-cultural-adaptability-ai](weird-bias-cultural-adaptability-ai.md)
+- [audit-bias-llm-clinici](concetti/concetti\audit-bias-llm-clinici.md)
+- [misurazione-bias-razziale-llm](concetti/concetti\misurazione-bias-razziale-llm.md)
+- [gdpr-governance-mental-health-ai](concetti/concetti\gdpr-governance-mental-health-ai.md)
+- [algorithmic-paternalism-in-ai-mental-health](concetti/concetti\algorithmic-paternalism-in-ai-mental-health.md)
+- [federated-learning-and-differential-privacy-mental-health](federated-learning-and-differential-privacy-mental-health.md)
+- [three-layer-governance-framework](concetti/concetti\three-layer-governance-framework.md)
+- [etica-privacy-bias-ia-clinica](etica-privacy-bias-ia-clinica.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

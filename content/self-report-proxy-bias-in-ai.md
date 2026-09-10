@@ -142,10 +142,11 @@ flowchart TD
 ---
 
 ## Relazioni
-- [[mental-v12i1e67802]]: Systematic review e meta-analisi a 3 livelli di Maran et al. (2025) su Automatic Speech Analysis e depressione.
-- [[vocal-biomarkers-in-depression]]: Tassonomia completa dei biomarcatori vocali e delle feature acustico-computazionali.
-- [[algorithmic-tractability-in-psychotherapy]]: Analisi del bias verso costrutti manualizzati e strutturati rispetto alla complessità psicopatologica.
-- [[epistemological-paradox-in-clinical-ai]]: Il dilemma metodologico tra sicurezza della validazione e testing su popolazioni vulnerabili.
-- [[clinical-readiness-gap-in-mh-chatbots]]: Divario tra metriche algoritmiche di laboratorio e affidabilità diagnostico-terapeutica reale.
-- [[measurement-phantoms]]: Artefatti di misurazione e proxy illusori nell'interazione con sistemi di intelligenza artificiale.
-- [[modello-centauro-clinico]]: Architettura collaborativa che bilancia screening algoritmico e supervisione clinica esperta.
+- [mental-v12i1e67802](mental-v12i1e67802.md): Systematic review e meta-analisi a 3 livelli di Maran et al. (2025) su Automatic Speech Analysis e depressione.
+- [vocal-biomarkers-in-depression](vocal-biomarkers-in-depression.md): Tassonomia completa dei biomarcatori vocali e delle feature acustico-computazionali.
+- [algorithmic-tractability-in-psychotherapy](algorithmic-tractability-in-psychotherapy.md): Analisi del bias verso costrutti manualizzati e strutturati rispetto alla complessità psicopatologica.
+- [epistemological-paradox-in-clinical-ai](epistemological-paradox-in-clinical-ai.md): Il dilemma metodologico tra sicurezza della validazione e testing su popolazioni vulnerabili.
+- [clinical-readiness-gap-in-mh-chatbots](concetti/concetti/concetti\clinical-readiness-gap-in-mh-chatbots.md): Divario tra metriche algoritmiche di laboratorio e affidabilità diagnostico-terapeutica reale.
+- [measurement-phantoms](measurement-phantoms.md): Artefatti di misurazione e proxy illusori nell'interazione con sistemi di intelligenza artificiale.
+- [modello-centauro-clinico](concetti/concetti/concetti\modello-centauro-clinico.md): Architettura collaborativa che bilancia screening algoritmico e supervisione clinica esperta.
+

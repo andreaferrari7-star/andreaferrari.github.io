@@ -17,4 +17,5 @@ source_papers: ["mental-2023-1-e45572.pdf"]
 - Frank, A. C., Li, R., Peterson, B. S., & Narayanan, S. S. (2023). Wearable and Mobile Technologies for the Evaluation and Treatment of Obsessive-Compulsive Disorder: Scoping Review. *JMIR Mental Health*, 10, e45572. https://doi.org/10.2196/45572
 
 ## Relazioni
-- Vedi anche: [[frank-et-al-2023]], [[wearable-biosensors-ocd]]
+- Vedi anche: [frank-et-al-2023](../frank-et-al-2023.md), [wearable-biosensors-ocd](wearable-biosensors-ocd.md)
+

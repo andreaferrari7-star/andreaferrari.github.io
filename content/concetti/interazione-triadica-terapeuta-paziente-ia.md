@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Interazione Triadica e Trauma-Informed Design in Salute Mentale
 
 **Summary**: Modello architetturale e relazionale a tre vie (Paziente – Terapeuta – Sistema IA) basato sull'integrazione dei principi di *Trauma-Informed HCI Design*, Explainable AI (XAI) e controllo clinico esclusivo per garantire un'applicazione sicura ed efficace dell'IA generativa in psicoterapia.
@@ -61,10 +65,13 @@ L'interazione triadica consente di mantenere questo delicato equilibrio: massimi
 ---
 
 ## Related pages
-- [[degenhard-et-al-2025]]
-- [[generative-ai-exposure-therapy]]
-- [[rischi-esposizione-cptsd-ia]]
-- [[distorsione-memoria-imagery-rescripting-ia]]
-- [[human-in-the-reasoning]]
-- [[simulated-empathy-vs-authentic-presence]]
-- [[gestione-clinica-paziente-ia]]
+- [degenhard-et-al-2025](../sintesi/degenhard-et-al-2025.md)
+- [generative-ai-exposure-therapy](generative-ai-exposure-therapy.md)
+- [rischi-esposizione-cptsd-ia](rischi-esposizione-cptsd-ia.md)
+- [distorsione-memoria-imagery-rescripting-ia](distorsione-memoria-imagery-rescripting-ia.md)
+- [human-in-the-reasoning](human-in-the-reasoning.md)
+- [simulated-empathy-vs-authentic-presence](concetti/concetti\simulated-empathy-vs-authentic-presence.md)
+- [gestione-clinica-paziente-ia](gestione-clinica-paziente-ia.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

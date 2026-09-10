@@ -63,8 +63,11 @@ Xiao et al. (2024) hanno superato la logica del "suggerimento imposto dall'alto"
 ---
 
 ## Relazioni
-- [[cognitive-distortion-detection]]: Identificazione del pattern da ristrutturare.
-- [[ai-enhanced-cbt]]: Collocazione all'interno del processo terapeutico.
-- [[cbt-dialogue-systems-and-tools]]: Integrazione nei motori di dialogo clinico.
-- [[human-in-the-reasoning]]: Supervisione clinica sul processo di ristrutturazione.
-- [[jiang-et-al-2024]]: Studio di review di riferimento.
+- [cognitive-distortion-detection](cognitive-distortion-detection.md): Identificazione del pattern da ristrutturare.
+- [ai-enhanced-cbt](concetti/concetti\ai-enhanced-cbt.md): Collocazione all'interno del processo terapeutico.
+- [cbt-dialogue-systems-and-tools](concetti/concetti\cbt-dialogue-systems-and-tools.md): Integrazione nei motori di dialogo clinico.
+- [human-in-the-reasoning](human-in-the-reasoning.md): Supervisione clinica sul processo di ristrutturazione.
+- [jiang-et-al-2024](../sintesi/jiang-et-al-2024.md): Studio di review di riferimento.
+
+## Riferimenti Bibliografici
+- [Da integrare]

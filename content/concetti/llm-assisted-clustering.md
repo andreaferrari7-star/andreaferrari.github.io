@@ -19,4 +19,7 @@ source_papers: ["1-s2.0-S0272735826000917-main.pdf"]
 - Hofmann, S. G., Pahlen, L., Westhoff, M., Hossner, K., Quintarelli, H., Usée, F., Stenzel, K., & Stangier, U. (2026). Processes in psychotherapy: A scoping review with LLM-assisted clustering. *Clinical Psychology Review*, 128, Article 102782. https://doi.org/10.1016/j.cpr.2026.102782
 
 ## Relazioni
-- Vedi anche: [[hybrid-ai-research-workflows]], [[human-in-the-reasoning]], [[llm-assisted-synthesis]], [[structured-literature-reviews]], [[terminological-fragmentation]], [[hofmann-et-al-2026]]
+- Vedi anche: [hybrid-ai-research-workflows](../hybrid-ai-research-workflows.md), [human-in-the-reasoning](human-in-the-reasoning.md), [llm-assisted-synthesis](../llm-assisted-synthesis.md), [structured-literature-reviews](../structured-literature-reviews.md), [terminological-fragmentation](terminological-fragmentation.md), [hofmann-et-al-2026](../sintesi/hofmann-et-al-2026.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

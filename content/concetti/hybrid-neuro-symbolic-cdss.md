@@ -66,10 +66,13 @@ I dati clinici del paziente (sintomi rilevati, durata, severità) vengono proces
 ---
 
 ## Related Pages
-- [[ai-generativa-in-psicoterapia]]
-- [[mind-safe-framework]]
-- [[readi-framework]]
-- [[automation-bias-clinical-reasoning]]
-- [[human-in-the-reasoning]]
-- [[ai-clinical-decision-support]]
-- [[large-language-models]]
+- [ai-generativa-in-psicoterapia](../sintesi/ai-generativa-in-psicoterapia.md)
+- [mind-safe-framework](mind-safe-framework.md)
+- [readi-framework](readi-framework.md)
+- [automation-bias-clinical-reasoning](automation-bias-clinical-reasoning.md)
+- [human-in-the-reasoning](human-in-the-reasoning.md)
+- [ai-clinical-decision-support](ai-clinical-decision-support.md)
+- [large-language-models](../large-language-models.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

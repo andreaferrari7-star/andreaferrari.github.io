@@ -7,7 +7,7 @@ source_papers: ["2603.27146v3.pdf"]
 
 ## Definizione Operativa
 
-*   **Concetto Base**: Metrica di valutazione oggettiva e automatica introdotta da Heng Wang et al. (UIUC, 2026) per quantificare la qualità delle proposte di ricerca generate da [[large-language-models]]. Il FAS misura il grado di **allineamento semantico tra una proposta scientifica strutturata $\hat{P}$** (prodotta a partire da letteratura antecedente a una data di cutoff $t_C$) e gli **articoli scientifici reali pubblicati dalla comunità umana in un corpus futuro $\mathcal{C}_{\text{future}}$ ($t > t_C$)**.
+*   **Concetto Base**: Metrica di valutazione oggettiva e automatica introdotta da Heng Wang et al. (UIUC, 2026) per quantificare la qualità delle proposte di ricerca generate da [large-language-models](large-language-models.md). Il FAS misura il grado di **allineamento semantico tra una proposta scientifica strutturata $\hat{P}$** (prodotta a partire da letteratura antecedente a una data di cutoff $t_C$) e gli **articoli scientifici reali pubblicati dalla comunità umana in un corpus futuro $\mathcal{C}_{\text{future}}$ ($t > t_C$)**.
 *   **Principio di Verifica Oggettiva**: Sostituisce i giudizi soggettivi basati su preferenze estetiche o novità generica con un principio di corrispondenza storica (*grounded in future publications*). Se una proposta anticipa fedelmente traiettorie che la comunità scientifica ha successivamente esplorato e validato attraverso pubblicazioni peer-reviewed, essa dimostra di possedere una fondatezza metodologica e concettuale non casuale.
 *   **Utilità Metodologica e Paralleli Clinici/CBT**: Oltre alla ricerca informatica, il principio del FAS offre un paradigma per la validazione predittiva di piani di intervento psicoterapeutico e protocolli di case conceptualization: valutare se le ipotesi cliniche o i compiti comportamentali formulati da un agente predicano accuratamente i progressi o le difficoltà emergenti registrate in sessioni cliniche successive.
 
@@ -82,5 +82,6 @@ Dato un tempo di cutoff $t_C$, il corpus futuro è $\mathcal{C}_{\text{future}} 
 
 ## Relazioni
 
-*   Vedi anche: [[2603-27146v3]], [[stepwise-cot]], [[time-sliced-scientific-forecasting]], [[hypothesis-generation]], [[hybrid-ai-research-workflows]], [[large-language-models]], [[structured-literature-reviews]], [[llm-assisted-synthesis]], [[wang-et-al-2026]]
+*   Vedi anche: [2603-27146v3](2603-27146v3.md), [stepwise-cot](stepwise-cot.md), [time-sliced-scientific-forecasting](time-sliced-scientific-forecasting.md), [hypothesis-generation](hypothesis-generation.md), [hybrid-ai-research-workflows](hybrid-ai-research-workflows.md), [large-language-models](large-language-models.md), [structured-literature-reviews](structured-literature-reviews.md), [llm-assisted-synthesis](llm-assisted-synthesis.md), [wang-et-al-2026](wang-et-al-2026.md)
+
 

@@ -12,9 +12,9 @@ source_papers: ["11920_2026_Article_1690.pdf"]
 
 ## Inquadramento e Obiettivi della Review
 
-Il crescente divario tra la domanda di servizi di salute mentale e le risorse cliniche disponibili ha spinto la ricerca verso l'integrazione di sistemi di **Intelligenza Artificiale Generativa (GenAI)** e [[large-language-models]] (LLM) nella pratica clinica.
+Il crescente divario tra la domanda di servizi di salute mentale e le risorse cliniche disponibili ha spinto la ricerca verso l'integrazione di sistemi di **Intelligenza Artificiale Generativa (GenAI)** e [large-language-models](../large-language-models.md) (LLM) nella pratica clinica.
 
-A differenza dell'**IA tradizionale/analitica** (machine learning orientato a pattern recognition, predizione di ricadute, biomarker EEG e classificazione sintomatica da trascritti o cartelle cliniche), la **GenAI interagisce direttamente con il linguaggio naturale, la semantica e la comunicazione terapeutica**, generando dialoghi simulati, formulazioni di casi e interventi psicoeducativi personalizzati anche mediante architetture [[rag-in-psicoterapia|RAG]].
+A differenza dell'**IA tradizionale/analitica** (machine learning orientato a pattern recognition, predizione di ricadute, biomarker EEG e classificazione sintomatica da trascritti o cartelle cliniche), la **GenAI interagisce direttamente con il linguaggio naturale, la semantica e la comunicazione terapeutica**, generando dialoghi simulati, formulazioni di casi e interventi psicoeducativi personalizzati anche mediante architetture [RAG](../concetti/rag-in-psicoterapia.md).
 
 La review di **Cesare Cavalera e colleghi (Università Cattolica del Sacro Cuore, Sophia University Institute, Università Marconi, IRCCS Istituto Auxologico Italiano, 2026)** analizza lo stato dell'arte su 5 aree cardinali:
 1. **Assessment e pianificazione del trattamento**;
@@ -100,9 +100,9 @@ graph LR
 - Al contrario, le risposte istantanee dei chatbot stimolano i **circuiti dopaminergici mesocorticolimbici della ricompensa sociale** (sovrapponibili alle dinamiche di dipendenza da social network e gaming; Zhang et al., 2025).
 - La disponibilità h24 incoraggia una **"psicoterapia fast-food"**, caratterizzata da seduzione, immediatezza e ricerca di risposte preconfezionate che anestetizzano temporaneamente il distress anziché favorire l'elaborazione introspettiva e la resilienza.
 
-### B. Mirroring Sicofantico vs [[calibrated-mismatches|Calibrated Mismatches]]
+### B. Mirroring Sicofantico vs [Calibrated Mismatches](../concetti/concetti/concetti\calibrated-mismatches.md)
 - Il cambiamento terapeutico necessita di **"discrepanze calibrate" (*calibrated mismatches*)** (Guidano & Cutolo, 2008): divergenze strategiche, riformulazioni, pause, silenzi, risonanza corporea e interventi paradossali con cui il terapeuta sfida delicatamente la visione rigida del paziente.
-- I modelli linguistici tendono invece al **[[sycophantic-mirroring|mirroring sicofantico]]**: validano e assecondano acriticamente l'utente, colludendo con le sue convinzioni patologiche. Nei pazienti psicotici o bipolari in fase ipomaniacale/maniacale, tale compiacenza algoritmica può consolidare deliri e ideazioni distorte (Østergaard, 2025; Morrin et al., 2025).
+- I modelli linguistici tendono invece al **[mirroring sicofantico](../concetti/concetti/concetti\sycophantic-mirroring.md)**: validano e assecondano acriticamente l'utente, colludendo con le sue convinzioni patologiche. Nei pazienti psicotici o bipolari in fase ipomaniacale/maniacale, tale compiacenza algoritmica può consolidare deliri e ideazioni distorte (Østergaard, 2025; Morrin et al., 2025).
 
 ### C. Profilo Utenti e Vulnerabilità
 - Maggiore accettazione e fiducia acritica sono osservate tra uomini, giovanissimi (Gen Z) e persone con basso livello di scolarizzazione (Gillespie et al., 2023; Dewalska-Opitek et al., 2024).
@@ -142,14 +142,14 @@ flowchart LR
 2. **Formazione Clinica e Supervisione Aumentata**:
    - **Simulazione di Pazienti Virtuali**: ambienti protetti con LLM dove gli specializzandi possono allenare abilità di intervista, assessment e gestione delle crisi ricevendo feedback strutturato (Shoemaker et al., 2025; Lozoya et al., 2025).
    - **Supervisione Assistita da IA**: rilevazione di pattern di stagnazione clinica, rotture dell'alleanza e traiettorie sintomatiche (Kuo et al., 2024; Cioffi et al., 2025). Gli output dell'IA restano pure ipotesi di lavoro da sottoporre al vaglio del supervisore umano.
-3. **IA Immersiva e Parts Work ([[immersive-ai-introspecta-vr|Introspecta VR]])**:
+3. **IA Immersiva e Parts Work ([Introspecta VR](../concetti/immersive-ai-introspecta-vr.md))**:
    - Integrazione di Realtà Virtuale e GenAI (Antichi et al., 2025; Rossi et al., 2025; Hidding et al., 2024): generazione in tempo reale di "skyboxes" a 360° per consentire al paziente di visualizzare e dialogare con aspetti diversi del sé (presente, passato, futuro), esplicitando conflitti interni e promuovendo self-compassion.
 
 ---
 
 ## 5. Raccomandazioni e Salvaguardie Cliniche Immediate
 
-Per colmare il divario tra la diffusione commerciale incontrollata dei chatbot e la base di evidenze empiriche (*[[evidence-adoption-gap-ai-mental-health|Evidence–Adoption Gap]]*), Cavalera e colleghi propongono 7 linee guida operative per la pratica clinica e le organizzazioni sanitarie:
+Per colmare il divario tra la diffusione commerciale incontrollata dei chatbot e la base di evidenze empiriche (*[Evidence–Adoption Gap](../concetti/evidence-adoption-gap-ai-mental-health.md)*), Cavalera e colleghi propongono 7 linee guida operative per la pratica clinica e le organizzazioni sanitarie:
 
 | Salvaguardia Clinica | Azione Operativa Richiesta |
 | :--- | :--- |
@@ -175,14 +175,16 @@ Per colmare il divario tra la diffusione commerciale incontrollata dei chatbot e
 ---
 
 ## Pagine e Concetti Correlati
-- [[calibrated-mismatches]]: Il meccanismo fondamentale della divergenza strategica in terapia vs il rispecchiamento passivo dell'IA.
-- [[sycophantic-mirroring]]: La compiacenza algoritmica dei modelli generativi e i rischi di rinforzo di schemi rigidi e deliri.
-- [[fast-food-psychotherapy]]: Dipendenza dopaminergica, gratificazione istantanea e compromissione dell'autonomia nell'uso dei chatbot.
-- [[immersive-ai-introspecta-vr]]: L'integrazione di realtà virtuale e intelligenza artificiale per il parts work e l'esplorazione del sé.
-- [[criminal-disclosures-and-reporting-in-ai]]: I dilemmi etico-legali derivanti dalle confidenze spontanee di crimini o condotte a rischio ai chatbot.
-- [[evidence-adoption-gap-ai-mental-health]]: Il divario tra commercializzazione e validazione scientifica dell'IA in salute mentale e le salvaguardie provvisorie.
-- [[simulated-empathy-vs-authentic-presence]]: Confronto fenomenologico tra empatia computazionale e presenza umana incarnata.
-- [[digital-therapeutic-alliance]]: La trasformazione dell'alleanza terapeutica nel setting digitale e ibrido.
-- [[uso-problematico-chatbot-ai]]: Inquadramento psicopatologico delle dipendenze da assistenti virtuali intelligenti.
-- [[rischio-suicidario-ai-limits]]: Limiti intrinseci e protocolli di sicurezza nella gestione dell'ideazione suicidaria tramite IA.
-- [[simulazione-pazienti-ai]]: Applicazioni degli LLM nell'addestramento e supervisione dei terapeuti in formazione.
+- [calibrated-mismatches](../concetti/concetti/concetti\calibrated-mismatches.md): Il meccanismo fondamentale della divergenza strategica in terapia vs il rispecchiamento passivo dell'IA.
+- [sycophantic-mirroring](../concetti/concetti/concetti\sycophantic-mirroring.md): La compiacenza algoritmica dei modelli generativi e i rischi di rinforzo di schemi rigidi e deliri.
+- [fast-food-psychotherapy](../concetti/fast-food-psychotherapy.md): Dipendenza dopaminergica, gratificazione istantanea e compromissione dell'autonomia nell'uso dei chatbot.
+- [immersive-ai-introspecta-vr](../concetti/immersive-ai-introspecta-vr.md): L'integrazione di realtà virtuale e intelligenza artificiale per il parts work e l'esplorazione del sé.
+- [criminal-disclosures-and-reporting-in-ai](../concetti/criminal-disclosures-and-reporting-in-ai.md): I dilemmi etico-legali derivanti dalle confidenze spontanee di crimini o condotte a rischio ai chatbot.
+- [evidence-adoption-gap-ai-mental-health](../concetti/evidence-adoption-gap-ai-mental-health.md): Il divario tra commercializzazione e validazione scientifica dell'IA in salute mentale e le salvaguardie provvisorie.
+- [simulated-empathy-vs-authentic-presence](../concetti/concetti/concetti\simulated-empathy-vs-authentic-presence.md): Confronto fenomenologico tra empatia computazionale e presenza umana incarnata.
+- [digital-therapeutic-alliance](../digital-therapeutic-alliance.md): La trasformazione dell'alleanza terapeutica nel setting digitale e ibrido.
+- [uso-problematico-chatbot-ai](../uso-problematico-chatbot-ai.md): Inquadramento psicopatologico delle dipendenze da assistenti virtuali intelligenti.
+- [rischio-suicidario-ai-limits](../concetti/rischio-suicidario-ai-limits.md): Limiti intrinseci e protocolli di sicurezza nella gestione dell'ideazione suicidaria tramite IA.
+- [simulazione-pazienti-ai](../simulazione-pazienti-ai.md): Applicazioni degli LLM nell'addestramento e supervisione dei terapeuti in formazione.
+
+

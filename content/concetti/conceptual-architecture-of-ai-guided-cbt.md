@@ -34,4 +34,7 @@ Il framework è supportato dalla letteratura recente che esplora l'integrazione 
 - Torous, J., Bucci, S., Bell, I. H., Kessing, L. V., Faurholt-Jepsen, M., Whelan, P., ... & Firth, J. (2021). The growing field of digital psychiatry: Current evidence and the future of apps, social media, chatbots, and virtual reality. *World Psychiatry*, 20(3), 318–335.
 
 ## Relazioni
-- Vedi anche: [[healthcare-14-02334]], [[functional-vs-relational-mechanisms-in-ai-therapy]], [[digital-therapeutic-alliance]], [[cbt-dialogue-systems-and-tools]], [[stepped-care-ai-integration]], [[tiered-human-ai-healing-ecosystem]], [[power-safety-paradox]], [[ai-enhanced-cbt]], [[clinical-readiness-gap-in-mh-chatbots]]
+- Vedi anche: [healthcare-14-02334](../sintesi/sintesi/sintesi\healthcare-14-02334.md), [functional-vs-relational-mechanisms-in-ai-therapy](concetti/concetti\functional-vs-relational-mechanisms-in-ai-therapy.md), [digital-therapeutic-alliance](../digital-therapeutic-alliance.md), [cbt-dialogue-systems-and-tools](concetti/concetti\cbt-dialogue-systems-and-tools.md), [stepped-care-ai-integration](stepped-care-ai-integration.md), [tiered-human-ai-healing-ecosystem](tiered-human-ai-healing-ecosystem.md), [power-safety-paradox](power-safety-paradox.md), [ai-enhanced-cbt](concetti/concetti\ai-enhanced-cbt.md), [clinical-readiness-gap-in-mh-chatbots](concetti/concetti\clinical-readiness-gap-in-mh-chatbots.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

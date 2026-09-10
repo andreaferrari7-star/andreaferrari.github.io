@@ -68,9 +68,12 @@ L'esistenza di questo protocollo evidenzia i confini invalicabili dell'IA in con
 
 ## Relazioni
 
-- [[risk-ontology-ai-psychotherapy]]
-- [[in-session-warning-signs]]
-- [[potential-real-world-consequences-ai]]
-- [[rischio-suicidario-ai-limits]]
-- [[three-layer-governance-framework]]
-- [[steenstra-bickmore-2025]]
+- [risk-ontology-ai-psychotherapy](concetti/concetti\risk-ontology-ai-psychotherapy.md)
+- [in-session-warning-signs](concetti/concetti\in-session-warning-signs.md)
+- [potential-real-world-consequences-ai](potential-real-world-consequences-ai.md)
+- [rischio-suicidario-ai-limits](rischio-suicidario-ai-limits.md)
+- [three-layer-governance-framework](concetti/concetti\three-layer-governance-framework.md)
+- [steenstra-bickmore-2025](../sintesi/steenstra-bickmore-2025.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

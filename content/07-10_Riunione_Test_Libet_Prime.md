@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Riunione 07-10: Test e Valutazione di Libet Prime, Trainer Simulator e Piano Operativo
 
 **Summary**: Sintesi della riunione operativa di presentazione e avvio del test pilota di "Libet Prime" (v1.2), introduzione dell'agente "Trainer Simulator" (v0.2), protocollo di sperimentazione strutturato su piattaforma Gemini per i responsabili di sede e didatti di Studi Cognitivi, e discussione pedagogico-etica sul co-ragionamento maieutico.
@@ -18,7 +22,7 @@ Il focus primario riguarda le competenze di base degli allievi dei primi due ann
 
 ---
 
-## 1. [[libet-prime|Libet Prime]]: Tutor Clinico-Didattico (v1.2)
+## 1. [Libet Prime](concetti/concetti/concetti\libet-prime.md): Tutor Clinico-Didattico (v1.2)
 
 **Libet Prime** è un Gem di Gemini sviluppato come tutor didattico specializzato sul modello **LIBET** (*Life Themes and Plans in CBT*) e sulle terapie cognitivo-comportamentali.
 
@@ -45,7 +49,7 @@ L'agente si basa su un macro-prompt strutturato che governa 5 modalità operativ
 
 ---
 
-## 2. [[trainer-simulator|Trainer Simulator]]: Simulatore Esperienziale (v0.2)
+## 2. [Trainer Simulator](trainer-simulator.md): Simulatore Esperienziale (v0.2)
 
 Accanto a Libet Prime, è stato introdotto in anteprima il secondo agente in cantiere (**Trainer Simulator / Interview Trainer**), orientato all'allenamento esperienziale al colloquio clinico.
 
@@ -81,7 +85,7 @@ graph TD
 
 ## 4. Riflessioni Pedagogiche, Psicologiche ed Etiche
 
-- **Dalla Scorciatoia al Prolungamento della Riflessione**: Contrastare l'uso dell'IA come generatore di risposte rapide, trasformandola in uno strumento che allunga e articola il processo metacognitivo (*[[human-in-the-reasoning]]*).
+- **Dalla Scorciatoia al Prolungamento della Riflessione**: Contrastare l'uso dell'IA come generatore di risposte rapide, trasformandola in uno strumento che allunga e articola il processo metacognitivo (*[human-in-the-reasoning](human-in-the-reasoning.md)*).
 - **Gestione dei Bias Uomo-Macchina**:
   - *Over-confidence / Effetto Oracolo*: Rischio che gli studenti accettino acriticamente le indicazioni del modello.
   - *Rigidità di Conferma del Clinico Esperto*: Rischio che il didatta respinga spunti coerenti dell'IA solo perché disallineati rispetto alle proprie consuetudini interpretative.
@@ -90,12 +94,15 @@ graph TD
 ---
 
 ## Related pages
-- [[libet-prime]]
-- [[trainer-simulator]]
-- [[human-in-the-reasoning]]
-- [[simulazione-pazienti-ai]]
-- [[clinical-ai-simulation]]
-- [[ai-assisted-psychotherapy]]
-- [[05-08_Riunione_Knowledge_Base]]
-- [[04-20_Tavola_rotonda_Integrazione_IA]]
-- [[03-13_Avvio_Gruppo_Lavoro_IA_Psicoterapia]]
+- [libet-prime](concetti/concetti/concetti\libet-prime.md)
+- [trainer-simulator](trainer-simulator.md)
+- [human-in-the-reasoning](human-in-the-reasoning.md)
+- [simulazione-pazienti-ai](simulazione-pazienti-ai.md)
+- [clinical-ai-simulation](clinical-ai-simulation.md)
+- [ai-assisted-psychotherapy](ai-assisted-psychotherapy.md)
+- [05-08_Riunione_Knowledge_Base](05-08_Riunione_Knowledge_Base.md)
+- [04-20_Tavola_rotonda_Integrazione_IA](04-20_Tavola_rotonda_Integrazione_IA.md)
+- [03-13_Avvio_Gruppo_Lavoro_IA_Psicoterapia](03-13_Avvio_Gruppo_Lavoro_IA_Psicoterapia.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

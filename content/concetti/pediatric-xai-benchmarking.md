@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Pediatric XAI Benchmarking and Clinical Validation
 
 **Summary**: Analisi della necessità di benchmark standardizzati e protocolli di validazione prospettica per l'Explainable AI (XAI) in medicina e chirurgia pediatrica, valutazione dei framework attuali (BenchXAI, XAIB), limiti dell'inferenza correlazionale vs causale e requisiti per studi clinici human-in-the-loop.
@@ -100,9 +104,12 @@ Verhoeven et al. (2026) propongono la creazione di un benchmark aperto espressam
 
 ## Pagine Correlate
 
-- [[verhoeven-et-al-2026]]: Articolo di revisione su Explainable AI, framework etici e benchmark in chirurgia pediatrica.
-- [[xai-in-pediatric-surgery]]: Metodi e use cases di XAI nella chirurgia infantile.
-- [[pediatric-ai-bias-and-vulnerabilities]]: Pipeline del bias e vulnerabilità evolutive nei modelli pediatrici.
-- [[accept-ai-and-pediatric-ethical-frameworks]]: Standard ACCEPT-AI, conformità a EU AI Act e governance etica.
-- [[counseling-benchmarks-evaluation]]: Metodologie di benchmarking ed evaluation nei sistemi clinici.
-- [[mccv-and-statistical-validation-clinical-ml]]: Validazione statistica e cross-validazione nel machine learning clinico.
+- [verhoeven-et-al-2026](../sintesi/verhoeven-et-al-2026.md): Articolo di revisione su Explainable AI, framework etici e benchmark in chirurgia pediatrica.
+- [xai-in-pediatric-surgery](xai-in-pediatric-surgery.md): Metodi e use cases di XAI nella chirurgia infantile.
+- [pediatric-ai-bias-and-vulnerabilities](pediatric-ai-bias-and-vulnerabilities.md): Pipeline del bias e vulnerabilità evolutive nei modelli pediatrici.
+- [accept-ai-and-pediatric-ethical-frameworks](accept-ai-and-pediatric-ethical-frameworks.md): Standard ACCEPT-AI, conformità a EU AI Act e governance etica.
+- [counseling-benchmarks-evaluation](counseling-benchmarks-evaluation.md): Metodologie di benchmarking ed evaluation nei sistemi clinici.
+- [mccv-and-statistical-validation-clinical-ml](mccv-and-statistical-validation-clinical-ml.md): Validazione statistica e cross-validazione nel machine learning clinico.
+
+## Riferimenti Bibliografici
+- [Da integrare]

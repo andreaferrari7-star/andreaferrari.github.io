@@ -15,7 +15,7 @@ title: "MyMentorLLM Framework"
 
 Tradizionalmente, le applicazioni di Intelligenza Artificiale in psicoterapia si sono focalizzate sulla simulazione diadica (paziente-chatbot) o sul tentativo di sostituire il clinico. **MyMentorLLM** (Rizzi, Grecucci, Stella, 2026) trasforma l'IA generativa in un **ambiente pedagogico di *deliberate practice*** (pratica deliberata), progettato per potenziare la formazione degli psicoterapeuti senza esporre i pazienti reali a rischi clinici precoci.
 
-A differenza delle simulazioni testuali isolate, MyMentorLLM modella l'intero **ecosistema educativo della CBT**, integrando il colloquio clinico, la diagnosi differenziale, la valutazione standardizzata delle competenze ([[ctrs-automated-evaluation]]) e la supervisione maieutica basata su domande riflessive.
+A differenza delle simulazioni testuali isolate, MyMentorLLM modella l'intero **ecosistema educativo della CBT**, integrando il colloquio clinico, la diagnosi differenziale, la valutazione standardizzata delle competenze ([ctrs-automated-evaluation](ctrs-automated-evaluation.md)) e la supervisione maieutica basata su domande riflessive.
 
 ---
 
@@ -83,11 +83,14 @@ Lo studio su 2.100 sedute ha dimostrato che **la modalità audio nativa è l'uni
 ---
 
 ## Relazioni
-- [[deliberate-practice-in-psicoterapia-ia]]: Quadro concettuale dell'addestramento deliberato.
-- [[native-speech-vs-text-in-clinical-simulation]]: Differenze metodologiche tra parlato nativo e testo.
-- [[risonanza-affettiva-simulazione-clinica]]: Sintonizzazione emotiva nel framework MyMentorLLM.
-- [[over-deference-in-llm-supervision]]: Rischi pedagogici del feedback supervisivo nei modelli piccoli.
-- [[ctrs-automated-evaluation]]: Strumento di scoring clinico impiegato nel supervisore.
-- [[simulazione-pazienti-ai]]: Metodologie generali di patient simulation con LLM.
-- [[supervisione-clinica-ai]]: Teoria e architetture di supervisione automatizzata.
-- [[rizzi-et-al-2026]]: Sintesi dello studio empirico su MyMentorLLM.
+- [deliberate-practice-in-psicoterapia-ia](deliberate-practice-in-psicoterapia-ia.md): Quadro concettuale dell'addestramento deliberato.
+- [native-speech-vs-text-in-clinical-simulation](native-speech-vs-text-in-clinical-simulation.md): Differenze metodologiche tra parlato nativo e testo.
+- [risonanza-affettiva-simulazione-clinica](risonanza-affettiva-simulazione-clinica.md): Sintonizzazione emotiva nel framework MyMentorLLM.
+- [over-deference-in-llm-supervision](over-deference-in-llm-supervision.md): Rischi pedagogici del feedback supervisivo nei modelli piccoli.
+- [ctrs-automated-evaluation](ctrs-automated-evaluation.md): Strumento di scoring clinico impiegato nel supervisore.
+- [simulazione-pazienti-ai](simulazione-pazienti-ai.md): Metodologie generali di patient simulation con LLM.
+- [supervisione-clinica-ai](supervisione-clinica-ai.md): Teoria e architetture di supervisione automatizzata.
+- [rizzi-et-al-2026](../sintesi/rizzi-et-al-2026.md): Sintesi dello studio empirico su MyMentorLLM.
+
+## Riferimenti Bibliografici
+- [Da integrare]

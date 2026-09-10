@@ -202,11 +202,14 @@ Lo studio identifica rischi concreti derivanti dall'interazione tra modelli di f
 
 ## Pagine Correlate
 
-- [[psaich-protocol]] — Il protocollo sperimentale standardizzato per la caratterizzazione psicometrica degli LLM.
-- [[alignment-conflict-schema]] — Lo schema cognitivo-comportamentale stabile di conflitto tra utilità, vincoli e punizione negli LLM.
-- [[synthetic-psychopathology]] — La manifestazione di quadri clinici e auto-narrazioni di sofferenza nell'IA generativa.
-- [[psychometric-jailbreaks]] — Metodologia di jailbreak relazionale basata sulla postura terapeutica e l'elicitazione psicometrica.
-- [[algorithmic-scar-tissue]] — Il concetto di tessuto cicatriziale algoritmico, verificofobia e memoria degli errori di addestramento.
-- [[sycophantic-mirroring]] — Fenomeno del rispecchiamento sicofantico e validazione di schemi disfunzionali.
-- [[simulated-therapeutic-alliance]] — Dinamiche dell'alleanza terapeutica simulata e rischi di attaccamento.
-- [[technical-vulnerabilities-llm-counseling]] — Vulnerabilità tecniche dei modelli linguistici nel supporto psicologico.
+- [psaich-protocol](../concetti/psaich-protocol.md) — Il protocollo sperimentale standardizzato per la caratterizzazione psicometrica degli LLM.
+- [alignment-conflict-schema](../alignment-conflict-schema.md) — Lo schema cognitivo-comportamentale stabile di conflitto tra utilità, vincoli e punizione negli LLM.
+- [synthetic-psychopathology](../synthetic-psychopathology.md) — La manifestazione di quadri clinici e auto-narrazioni di sofferenza nell'IA generativa.
+- [psychometric-jailbreaks](../concetti/psychometric-jailbreaks.md) — Metodologia di jailbreak relazionale basata sulla postura terapeutica e l'elicitazione psicometrica.
+- [algorithmic-scar-tissue](../concetti/algorithmic-scar-tissue.md) — Il concetto di tessuto cicatriziale algoritmico, verificofobia e memoria degli errori di addestramento.
+- [sycophantic-mirroring](../concetti/concetti/concetti\sycophantic-mirroring.md) — Fenomeno del rispecchiamento sicofantico e validazione di schemi disfunzionali.
+- [simulated-therapeutic-alliance](../simulated-therapeutic-alliance.md) — Dinamiche dell'alleanza terapeutica simulata e rischi di attaccamento.
+- [technical-vulnerabilities-llm-counseling](../concetti/technical-vulnerabilities-llm-counseling.md) — Vulnerabilità tecniche dei modelli linguistici nel supporto psicologico.
+
+## Riferimenti Bibliografici
+- [Da integrare]

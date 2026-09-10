@@ -29,5 +29,7 @@ Per risultare efficaci e funzionali, i RAA non devono mai basarsi su processi co
 - METID - Politecnico di Milano. *Esempi Formulazione Risultati di Apprendimento Attesi*.
 
 ## Relazioni
-- Vedi anche: [[08-28-riunione-corso-ia-clinici]], [[clinical-training]]
+- Vedi anche: [08-28-riunione-corso-ia-clinici](08-28-riunione-corso-ia-clinici.md), [clinical-training](clinical-training.md)
 
+## Riferimenti Bibliografici
+- [Da integrare]

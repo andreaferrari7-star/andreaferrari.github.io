@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Sistemi Diagnostici Multimodali e Ibridi nell'IA Psichiatrica
 
 **Summary**: Paradigma diagnostico e predittivo che integra molteplici flussi di dati eterogenei (elaborazione del linguaggio naturale da social/testi, segnali fisiologici e attigrafici da sensori indossabili, neuroimaging fMRI/EEG e cartelle cliniche elettroniche) per superare i limiti delle singole modalità e migliorare l'accuratezza nella prevenzione delle ricadute e del rischio suicidario.
@@ -67,10 +71,13 @@ Sebbene i modelli multimodali raggiungano le prestazioni più elevate ($\text{AU
 ---
 
 ## Related pages
-- [[kandeel-et-al-2026]]
-- [[explainable-mental-disorder-diagnosis]]
-- [[federated-learning-and-differential-privacy-mental-health]]
-- [[gdpr-governance-mental-health-ai]]
-- [[software-as-a-medical-device-salute-mentale]]
-- [[ai-clinical-decision-support]]
-- [[treatment-outcome-and-relapse-prediction]]
+- [kandeel-et-al-2026](../sintesi/kandeel-et-al-2026.md)
+- [explainable-mental-disorder-diagnosis](explainable-mental-disorder-diagnosis.md)
+- [federated-learning-and-differential-privacy-mental-health](federated-learning-and-differential-privacy-mental-health.md)
+- [gdpr-governance-mental-health-ai](concetti/concetti\gdpr-governance-mental-health-ai.md)
+- [software-as-a-medical-device-salute-mentale](software-as-a-medical-device-salute-mentale.md)
+- [ai-clinical-decision-support](ai-clinical-decision-support.md)
+- [treatment-outcome-and-relapse-prediction](treatment-outcome-and-relapse-prediction.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

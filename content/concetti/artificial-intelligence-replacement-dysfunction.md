@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Artificial Intelligence Replacement Dysfunction (AIRD)
 
 **Summary**: Sindrome occupazionale e psicologica emergente (Signorini & Paganin, 2026) che colpisce i professionisti della salute mentale, caratterizzata da distress acuto, insonnia, ansia anticipatoria e crisi dell'identità professionale generate dalla sensazione di imminente obsolescenza delle competenze cliniche di fronte alle capacità generative degli LLM.
@@ -27,9 +31,9 @@ flowchart TD
     end
 
     subgraph CorrelatiPatologici ["Quadri Associati"]
-        C1["[[sindrome-impostore-ia-specifica|Sindrome dell'Impostore IA-Specifica]]"]
-        C2["[[cognitive-offloading-e-diagnostic-deskilling|Diagnostic Deskilling]]"]
-        C3["[[tecnostress-e-paradosso-sovradocumentazione|Tecnostress & Burnout]]"]
+        C1[Sindrome dell'Impostore IA-Specifica](sindrome-impostore-ia-specifica.md)"]
+        C2[Diagnostic Deskilling](cognitive-offloading-e-diagnostic-deskilling.md)"]
+        C3[Tecnostress & Burnout](tecnostress-e-paradosso-sovradocumentazione.md)"]
     end
 
     Trigger --> SintomatologiaAIRD
@@ -43,7 +47,7 @@ flowchart TD
 1. **Crisi di Sovranità Epistemologica**:
    - Il clinico osserva che un modello linguistico può generare sintesi bibliografiche, ipotesi diagnostiche DSM-5 e formulazioni in frazioni di secondo, sperimentando un senso di "svalutazione della fatica formativa decennale".
 2. **Minaccia Economica ed Esistenziale**:
-   - Pressione percepita dovuta all'adozione da parte del mercato e delle compagnie assicurative di assistenti virtuali low-cost o gratuiti (come evidenziato dalla [[ai-in-psicoterapia-2023-2026|Survey APA 2026]], in cui il 77% dei pazienti usa già LLM).
+   - Pressione percepita dovuta all'adozione da parte del mercato e delle compagnie assicurative di assistenti virtuali low-cost o gratuiti (come evidenziato dalla [Survey APA 2026](ai-in-psicoterapia-2023-2026.md), in cui il 77% dei pazienti usa già LLM).
 3. **Senso di Inadeguatezza Tecnologica**:
    - Difficoltà a tenere il passo con l'evoluzione esponenziale degli strumenti, sentendosi costretti ad acquisire forzatamente competenze ingegneristiche di prompting.
 
@@ -51,16 +55,19 @@ flowchart TD
 
 ## Interventi di Mitigazione e Resilienza Professionale
 
-- **Rifocalizzazione sulle [[specializzazioni-ia-resistenti|Specializzazioni IA-Resistenti]]**: Spostare l'investimento professionale su contesti ad alta intensità corporea e relazionale (terapia familiare, di coppia, infanzia, trauma complesso incarnato).
+- **Rifocalizzazione sulle [Specializzazioni IA-Resistenti](specializzazioni-ia-resistenti.md)**: Spostare l'investimento professionale su contesti ad alta intensità corporea e relazionale (terapia familiare, di coppia, infanzia, trauma complesso incarnato).
 - **Comprensione dei Limiti Algoritmici**: Riconoscere che l'IA non possiede né *embodiment* (consapevolezza somatica) né *agency morale*, e che la relazione umana curativa si fonda sulla risonanza emotiva autentica e sulla rottura/riparazione dell'alleanza.
-- **Protocolli Protetti di Autosupervisione**: Integrare framework strutturati come il [[sadar-framework|SADAR]], trasformando l'IA da minaccia concorrenziale a strumento di provocazione riflessiva governato dal clinico.
+- **Protocolli Protetti di Autosupervisione**: Integrare framework strutturati come il [SADAR](sadar-framework.md), trasformando l'IA da minaccia concorrenziale a strumento di provocazione riflessiva governato dal clinico.
 
 ---
 
 ## Pagine Correlate
-- [[sindrome-impostore-ia-specifica]]
-- [[specializzazioni-ia-resistenti]]
-- [[sadar-framework]]
-- [[tecnostress-e-paradosso-sovradocumentazione]]
-- [[cognitive-offloading-e-diagnostic-deskilling]]
-- [[ai-in-psicoterapia-2023-2026]]
+- [sindrome-impostore-ia-specifica](sindrome-impostore-ia-specifica.md)
+- [specializzazioni-ia-resistenti](specializzazioni-ia-resistenti.md)
+- [sadar-framework](sadar-framework.md)
+- [tecnostress-e-paradosso-sovradocumentazione](tecnostress-e-paradosso-sovradocumentazione.md)
+- [cognitive-offloading-e-diagnostic-deskilling](cognitive-offloading-e-diagnostic-deskilling.md)
+- [ai-in-psicoterapia-2023-2026](../sintesi/ai-in-psicoterapia-2023-2026.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

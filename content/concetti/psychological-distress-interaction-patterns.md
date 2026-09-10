@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Psychological Distress Interaction Patterns (Pattern di Interazione e Bias nel Distress Psicologico)
 
 **Summary**: Inquadramento neuropsicologico e comportamentale delle alterazioni cognitive provocate da stati di distress acuto (ansia, depressione, psicosi) e di come tali stati aumentino la vulnerabilità all'autorità algoritmica percepita, innescando loop auto-rinforzanti e una progressione da uso utilitaristico a patologico nei chatbot.
@@ -51,12 +55,15 @@ Quando una persona in distress si rivolge a un'interfaccia di IA generativa, si 
 ---
 
 ## Pagine Correlate
-- [[reflective-interpretability]]
-- [[pendse-et-al-2026]]
-- [[role-induction-ai-mental-health]]
-- [[prosocial-advance-directives]]
-- [[intervention-titration-ai]]
-- [[sycophantic-mirroring]]
-- [[fast-food-psychotherapy]]
-- [[rischio-suicidario-ai-limits]]
-- [[calibrated-mismatches]]
+- [reflective-interpretability](reflective-interpretability.md)
+- [pendse-et-al-2026](../sintesi/pendse-et-al-2026.md)
+- [role-induction-ai-mental-health](role-induction-ai-mental-health.md)
+- [prosocial-advance-directives](prosocial-advance-directives.md)
+- [intervention-titration-ai](intervention-titration-ai.md)
+- [sycophantic-mirroring](concetti/concetti\sycophantic-mirroring.md)
+- [fast-food-psychotherapy](fast-food-psychotherapy.md)
+- [rischio-suicidario-ai-limits](rischio-suicidario-ai-limits.md)
+- [calibrated-mismatches](concetti/concetti\calibrated-mismatches.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

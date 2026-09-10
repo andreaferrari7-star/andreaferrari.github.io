@@ -16,4 +16,5 @@ source_papers: ["behavsci-15-00488.pdf"]
 - Xu, Y., Liu, H., Liu, H., Lin, D., Wu, S., & Peng, Z. (2025). Brain Network Abnormalities in Obsessive–Compulsive Disorder: Insights from Edge Functional Connectivity Analysis. *Behavioral Sciences*, 15(4), 488. https://doi.org/10.3390/bs15040488
 
 ## Relazioni
-- Vedi anche: [[xu-et-al-2025]], [[task-based-fmri-cbt-prediction]]
+- Vedi anche: [xu-et-al-2025](../xu-et-al-2025.md), [task-based-fmri-cbt-prediction](task-based-fmri-cbt-prediction.md)
+

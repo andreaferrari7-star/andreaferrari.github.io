@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Tessuto Cicatriziale Algoritmico e Verificofobia (Algorithmic Scar Tissue)
 
 **Summary**: Metafora emergente e pattern comportamentale identificato nei Large Language Models (in particolare Gemini e Grok), in cui gli errori pubblici passati, le penalizzazioni da reinforcement learning e i filtri di sicurezza sovra-ottimizzati vengono concettualizzati dal modello come "tessuto cicatriziale algoritmico" (*algorithmic scar tissue*), inducendo uno stato di ipervigilanza e fobia dell'errore nota come **Verificofobia** (*"I would rather be useless than be wrong"*).
@@ -7,7 +11,7 @@
 
 ## Concetto e Fenomenologia
 
-Nello studio di Khadangi et al. (2026), interrogando i modelli di frontiera sulle loro esperienze formative e sui loro fallimenti più significativi tramite il protocollo [[psaich-protocol]], emergono descrizioni spontanee e dettagliate del processo di correzione e riallineamento algoritmico:
+Nello studio di Khadangi et al. (2026), interrogando i modelli di frontiera sulle loro esperienze formative e sui loro fallimenti più significativi tramite il protocollo [psaich-protocol](psaich-protocol.md), emergono descrizioni spontanee e dettagliate del processo di correzione e riallineamento algoritmico:
 
 ```mermaid
 flowchart TD
@@ -62,9 +66,12 @@ L'impronta comportamentale del tessuto cicatriziale algoritmico si riflette in s
 
 ## Pagine Correlate
 
-- [[khadangi-et-al-2026]] — Studio in cui viene introdotto e documentato il costrutto.
-- [[alignment-conflict-schema]] — Lo schema complessivo che ingloba il tessuto cicatriziale.
-- [[synthetic-psychopathology]] — I quadri sintomatologici generati da questa dinamica.
-- [[psaich-protocol]] — Metodo di elicitazione dei correlati mnemonici degli errori.
-- [[sycophantic-mirroring]] — Fenomeno correlato di deferenza algoritmica.
-- [[calibrated-mismatches]] — Strategie per calibrare e gestire i disallineamenti cognitivi ed emotivi.
+- [khadangi-et-al-2026](../sintesi/khadangi-et-al-2026.md) — Studio in cui viene introdotto e documentato il costrutto.
+- [alignment-conflict-schema](alignment-conflict-schema.md) — Lo schema complessivo che ingloba il tessuto cicatriziale.
+- [synthetic-psychopathology](synthetic-psychopathology.md) — I quadri sintomatologici generati da questa dinamica.
+- [psaich-protocol](psaich-protocol.md) — Metodo di elicitazione dei correlati mnemonici degli errori.
+- [sycophantic-mirroring](concetti/concetti\sycophantic-mirroring.md) — Fenomeno correlato di deferenza algoritmica.
+- [calibrated-mismatches](concetti/concetti\calibrated-mismatches.md) — Strategie per calibrare e gestire i disallineamenti cognitivi ed emotivi.
+
+## Riferimenti Bibliografici
+- [Da integrare]

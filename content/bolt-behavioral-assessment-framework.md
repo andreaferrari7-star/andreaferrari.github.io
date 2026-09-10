@@ -6,7 +6,7 @@ source_papers: ["Sunto articoli.docx.pdf"]
 # Framework BOLT e Valutazione Comportamentale Computazionale dei Terapeuti LLM
 
 ## Definizione Operativa
-- Il **Framework BOLT** (*Behavioral Assessment of LLM Therapists*, Chiu et al., 2024) è una metodologia computazionale standardizzata per la valutazione quantitativa e qualitativa del comportamento conversazionale espresso dai modelli linguistici generativi ([[large-language-models]]) impiegati come agenti psicoterapeutici.
+- Il **Framework BOLT** (*Behavioral Assessment of LLM Therapists*, Chiu et al., 2024) è una metodologia computazionale standardizzata per la valutazione quantitativa e qualitativa del comportamento conversazionale espresso dai modelli linguistici generativi ([large-language-models](large-language-models.md)) impiegati come agenti psicoterapeutici.
 - **Superamento dell'Approccio Impressionistico:** Sostituisce i giudizi soggettivi e le valutazioni aneddotiche ("il modello sembra empatico") con un'operazionalizzazione empirica di **13 tecniche terapeutiche** (riflessioni empatiche, domande aperte/chiuse, problem-solving, normalizzazione, ristrutturazione cognitiva, psicoeducazione, ecc.) e **6 comportamenti del paziente** (espressione emotiva, disclosure, resistenza, ecc.).
 - **Benchmarking su Dati Clinici Reali:** Valuta le risposte e i dialoghi multi-turno degli LLM confrontandoli direttamente con sedute psicoterapeutiche umane annotate per qualità clinica, attingendo ai dataset *High-Low Quality Therapy* e *HOPE*.
 - **Rilevazione della Distorsione da Allineamento Commerciale:** Dimostra empiricamente che i principali modelli commerciali (GPT-4, GPT-3.5, serie Llama) presentano una marcata deviazione comportamentale verso pattern di **bassa qualità clinica**, generata dai processi di *Reinforcement Learning from Human Feedback* (RLHF).
@@ -80,11 +80,14 @@ flowchart TD
 - Chiu, K., et al. (2024). *Behavioral Assessment of LLM Therapists*. [Studio fondamentale del framework BOLT].
 
 ## Relazioni
-- [[sunto-articoli]]
-- [[client101-simulazione-pazienti-virtuali]]
-- [[diagnosis-of-thought-framework]]
-- [[mind-safe-framework]]
-- [[patient-psi-simulazione-clinica]]
-- [[ai-assisted-psychotherapy]]
-- [[clinical-fidelity-assessment]]
-- [[large-language-models]]
+- [sunto-articoli](sunto-articoli.md)
+- [client101-simulazione-pazienti-virtuali](client101-simulazione-pazienti-virtuali.md)
+- [diagnosis-of-thought-framework](diagnosis-of-thought-framework.md)
+- [mind-safe-framework](concetti/mind-safe-framework.md)
+- [patient-psi-simulazione-clinica](patient-psi-simulazione-clinica.md)
+- [ai-assisted-psychotherapy](ai-assisted-psychotherapy.md)
+- [clinical-fidelity-assessment](clinical-fidelity-assessment.md)
+- [large-language-models](large-language-models.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

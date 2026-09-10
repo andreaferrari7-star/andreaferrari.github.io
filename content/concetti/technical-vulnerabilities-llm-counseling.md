@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Technical Vulnerabilities of LLMs in Counseling
 
 **Summary**: Analisi delle fragilità architetturali e probabilistiche dei Modelli Linguistici di Grandi Dimensioni (LLM) applicati al contesto clinico-psicologico, comprendenti allucinazioni epistemiche, instabilità delle risposte e shift di distribuzione.
@@ -53,10 +57,13 @@ graph TD
 ---
 
 ## Related pages
-- [[erdemir-sumbas-2026]]
-- [[three-layer-governance-framework]]
-- [[human-in-the-reasoning]]
-- [[simulated-empathy-vs-authentic-presence]]
-- [[clinical-fidelity-assessment]]
-- [[large-language-models]]
-- [[prompting-in-psychology]]
+- [erdemir-sumbas-2026](../sintesi/erdemir-sumbas-2026.md)
+- [three-layer-governance-framework](concetti/concetti\three-layer-governance-framework.md)
+- [human-in-the-reasoning](human-in-the-reasoning.md)
+- [simulated-empathy-vs-authentic-presence](concetti/concetti\simulated-empathy-vs-authentic-presence.md)
+- [clinical-fidelity-assessment](../clinical-fidelity-assessment.md)
+- [large-language-models](../large-language-models.md)
+- [prompting-in-psychology](../prompting-in-psychology.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

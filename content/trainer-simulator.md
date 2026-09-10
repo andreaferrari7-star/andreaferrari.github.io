@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Trainer Simulator
 
 **Summary**: Simulatore conversazionale basato su LLM (Interview Trainer) per l'addestramento pratico di psicoterapeuti in formazione, dotato di una libreria di pazienti virtuali su tre livelli di difficoltà, comandi di controllo del setting e rubrica di valutazione analitica delle competenze.
@@ -10,7 +14,7 @@
 
 Il **Trainer Simulator** (o *Interview Trainer*, v0.2) è un agente conversazionale specializzato sviluppato per le scuole di psicoterapia cognitivo-comportamentale (*Studi Cognitivi* / SC Formazione).
 
-A differenza di [[libet-prime]], il cui scopo è il tutoraggio teorico e l'analisi maieutica di vignette cliniche, il Trainer Simulator è concepito come **ambiente esperienziale protetto** in cui l'allievo specializzando conduce simulazioni interattive di colloqui clinici direttamente con pazienti sintetici.
+A differenza di [libet-prime](concetti/concetti/concetti\libet-prime.md), il cui scopo è il tutoraggio teorico e l'analisi maieutica di vignette cliniche, il Trainer Simulator è concepito come **ambiente esperienziale protetto** in cui l'allievo specializzando conduce simulazioni interattive di colloqui clinici direttamente con pazienti sintetici.
 
 ---
 
@@ -63,10 +67,13 @@ Il Trainer Simulator risponde all'esigenza formativa di offrire agli allievi dei
 ---
 
 ## Related pages
-- [[libet-prime]]
-- [[07-10_Riunione_Test_Libet_Prime]]
-- [[simulazione-pazienti-ai]]
-- [[clinical-ai-simulation]]
-- [[human-in-the-reasoning]]
-- [[clinical-fidelity-assessment]]
-- [[ai-assisted-psychotherapy]]
+- [libet-prime](concetti/concetti/concetti\libet-prime.md)
+- [07-10_Riunione_Test_Libet_Prime](07-10_Riunione_Test_Libet_Prime.md)
+- [simulazione-pazienti-ai](simulazione-pazienti-ai.md)
+- [clinical-ai-simulation](clinical-ai-simulation.md)
+- [human-in-the-reasoning](human-in-the-reasoning.md)
+- [clinical-fidelity-assessment](clinical-fidelity-assessment.md)
+- [ai-assisted-psychotherapy](ai-assisted-psychotherapy.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

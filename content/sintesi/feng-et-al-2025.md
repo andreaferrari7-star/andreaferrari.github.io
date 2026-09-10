@@ -14,7 +14,7 @@ source_papers: ["2507.20241v2.pdf"]
 
 L'esperienza umana è organizzata fondamentalmente attraverso storie di vita. La cognizione narrativa modella la memoria, l'emozione, l'identità e il funzionamento sociale. Tuttavia, la sofferenza psicologica distorce spesso tali narrazioni in **"problem-saturated narratives"** (narrazioni sature di problema), che intrappolano l'individuo in schemi di passività, vergogna e svalutazione personale. La **terapia narrativa** (fondata da Michael White e David Epston) mira a decostruire queste narrazioni patologizzanti attraverso un processo strutturato di esternalizzazione del problema e co-costruzione di narrazioni alternative ed emancipatorie (*re-authoring* e *re-membering*).
 
-Sebbene i Large Language Models ([[large-language-models]]) offrano grandi potenzialità nel supporto emotivo digitale, gli approcci attuali presentano limiti critici:
+Sebbene i Large Language Models ([large-language-models](../large-language-models.md)) offrano grandi potenzialità nel supporto emotivo digitale, gli approcci attuali presentano limiti critici:
 1. **Mancanza di Fedeltà e Struttura Terapeutica**: Si basano su role-playing generico o imitazione superficiale (*surface-level imitation*), producendo risposte stereotipate e interazioni poco realistiche con pazienti simulati eccessivamente compiacenti.
 2. **Priorità al Conforto Emotivo a scapito della Trasformazione**: Modelli come GPT-4o e Claude-3.7 eccellono nella rassicurazione iniziale (*Reassuring*), ma falliscono nel guidare il cliente attraverso la progressione clinica verso il cambiamento profondo.
 3. **Metriche di Valutazione Inadeguate**: Metriche tradizionali di NLP (BLEU, ROUGE, BERTScore) o indicatori statici (livello di empatia percepita) non misurano la traiettoria longitudinale del cambiamento intra-seduta.
@@ -138,10 +138,11 @@ Addestrando **Qwen3-8B** sul dataset sintetizzato da INT (**NTConv**) rispetto a
 ---
 
 ## Relazioni e Concetti Correlati
-- [[interactive-narrative-therapist]]: Dettaglio architetturale del framework INT (state planning a due livelli e RAG aumentato).
-- [[innovative-moment-assessment]]: Metodologia di codifica IMCS e metrica di IM Salience per la valutazione processuale.
-- [[terapia-narrativa-ia]]: Principi teorici della terapia narrativa integrati nei modelli computazionali di dialogo.
-- [[process-of-change]]: Meccanismi dinamici intra-paziente e traiettorie longitudinali di trasformazione clinica.
-- [[clinical-fidelity-assessment]]: Valutazione della fedeltà terapeutica oltre i semplici punteggi lessicali o di empatia statica.
-- [[rag-in-psicoterapia]]: Applicazione del Retrieval-Augmented Generation guidato dallo stato clinico.
-- [[simulazione-pazienti-ai]]: Modellizzazione di pazienti virtuali per il testing rigoroso di agenti terapeutici.
+- [interactive-narrative-therapist](../interactive-narrative-therapist.md): Dettaglio architetturale del framework INT (state planning a due livelli e RAG aumentato).
+- [innovative-moment-assessment](../innovative-moment-assessment.md): Metodologia di codifica IMCS e metrica di IM Salience per la valutazione processuale.
+- [terapia-narrativa-ia](../concetti/terapia-narrativa-ia.md): Principi teorici della terapia narrativa integrati nei modelli computazionali di dialogo.
+- [process-of-change](../concetti/process-of-change.md): Meccanismi dinamici intra-paziente e traiettorie longitudinali di trasformazione clinica.
+- [clinical-fidelity-assessment](../clinical-fidelity-assessment.md): Valutazione della fedeltà terapeutica oltre i semplici punteggi lessicali o di empatia statica.
+- [rag-in-psicoterapia](../concetti/rag-in-psicoterapia.md): Applicazione del Retrieval-Augmented Generation guidato dallo stato clinico.
+- [simulazione-pazienti-ai](../simulazione-pazienti-ai.md): Modellizzazione di pazienti virtuali per il testing rigoroso di agenti terapeutici.
+

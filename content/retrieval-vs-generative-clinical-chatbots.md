@@ -105,4 +105,5 @@ flowchart LR
 ---
 
 ## Relazioni
-- Vedi anche: [[jmir-v27-e79850]], [[aya-digital-mental-health-affordances]], [[cbt-dialogue-systems-and-tools]], [[rag-in-psicoterapia]], [[clinical-readiness-gap-in-mh-chatbots]], [[layered-safeguards-in-clinical-ai]], [[sycophantic-mirroring]], [[large-language-models]]
+- Vedi anche: [jmir-v27-e79850](jmir-v27-e79850.md), [aya-digital-mental-health-affordances](aya-digital-mental-health-affordances.md), [cbt-dialogue-systems-and-tools](concetti/concetti/concetti\cbt-dialogue-systems-and-tools.md), [rag-in-psicoterapia](concetti/rag-in-psicoterapia.md), [clinical-readiness-gap-in-mh-chatbots](concetti/concetti/concetti\clinical-readiness-gap-in-mh-chatbots.md), [layered-safeguards-in-clinical-ai](concetti/concetti/concetti\layered-safeguards-in-clinical-ai.md), [sycophantic-mirroring](concetti/concetti/concetti\sycophantic-mirroring.md), [large-language-models](large-language-models.md)
+

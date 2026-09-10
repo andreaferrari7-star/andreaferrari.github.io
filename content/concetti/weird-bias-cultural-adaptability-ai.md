@@ -67,9 +67,10 @@ graph TD
 ---
 
 ## Pagine Correlate
-- [[rezaei-et-al-2026]]
-- [[algorithmic-bias-and-digital-inequalities]]
-- [[ieacp-canada-protocol-ethical-frameworks]]
-- [[network-based-ai-mental-healthcare]]
-- [[specialized-nlp-models-mental-health]]
-- [[mental-health-chatbot-taxonomy]]
+- [rezaei-et-al-2026](../sintesi/rezaei-et-al-2026.md)
+- [algorithmic-bias-and-digital-inequalities](algorithmic-bias-and-digital-inequalities.md)
+- [ieacp-canada-protocol-ethical-frameworks](ieacp-canada-protocol-ethical-frameworks.md)
+- [network-based-ai-mental-healthcare](network-based-ai-mental-healthcare.md)
+- [specialized-nlp-models-mental-health](specialized-nlp-models-mental-health.md)
+- [mental-health-chatbot-taxonomy](mental-health-chatbot-taxonomy.md)
+

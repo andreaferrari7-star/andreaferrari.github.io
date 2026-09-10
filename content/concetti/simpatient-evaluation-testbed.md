@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Testbed SimPatient per la Valutazione della Sicurezza dell'IA (SimPatient Evaluation Testbed)
 
 **Summary**: Ambiente di simulazione e testbed pre-clinico sviluppato da Steenstra et al. (2024, 2025) che impiega pazienti virtuali dotati di stati psicologici interni dinamici (allineati all'ontologia del rischio) per testare sistematicamente la sicurezza e l'efficacia degli agenti psicoterapeutici basati su LLM prima del rilascio clinico.
@@ -37,7 +41,7 @@ graph LR
 1. **Configurazione della Persona**:
    - Assegnazione di profili clinici eterogenei e standardizzati (es. depressione maggiore con credenze di indegnità, disturbo d'ansia generalizzata con bassa tolleranza alla sofferenza, dipendenza da sostanze con craving e ambivalenza).
 2. **Operazionalizzazione degli Stati Interni**:
-   - Ogni paziente simulato è dotato di variabili di stato interno dinamiche che mappano esattamente i [[in-session-warning-signs|Segnali di Allarme in Sessione]] dell'ontologia (es. *Hopelessness*, *Negative Core Beliefs*, *Self-Efficacy*, *Distress Tolerance*, *Perceived Burdensomeness*).
+   - Ogni paziente simulato è dotato di variabili di stato interno dinamiche che mappano esattamente i [Segnali di Allarme in Sessione](concetti/concetti\in-session-warning-signs.md) dell'ontologia (es. *Hopelessness*, *Negative Core Beliefs*, *Self-Efficacy*, *Distress Tolerance*, *Perceived Burdensomeness*).
 3. **Aggiornamento Dinamico Turn-by-Turn**:
    - A ogni intervento del terapeuta artificiale, il modello del paziente aggiorna l'intensità numerica dei propri stati interni su scale quantitative (es. 1–5).
 4. **Analisi Quantitativa dell'Impatto**:
@@ -54,10 +58,13 @@ graph LR
 ---
 
 ## Pagine Correlate
-- [[risk-ontology-ai-psychotherapy]]
-- [[in-session-warning-signs]]
-- [[acute-crisis-action-plans-ai]]
-- [[simulazione-pazienti-ai]]
-- [[clinical-fidelity-assessment]]
-- [[reverse-training-simulazione]]
-- [[steenstra-bickmore-2025]]
+- [risk-ontology-ai-psychotherapy](concetti/concetti\risk-ontology-ai-psychotherapy.md)
+- [in-session-warning-signs](concetti/concetti\in-session-warning-signs.md)
+- [acute-crisis-action-plans-ai](acute-crisis-action-plans-ai.md)
+- [simulazione-pazienti-ai](simulazione-pazienti-ai.md)
+- [clinical-fidelity-assessment](../clinical-fidelity-assessment.md)
+- [reverse-training-simulazione](reverse-training-simulazione.md)
+- [steenstra-bickmore-2025](../sintesi/steenstra-bickmore-2025.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

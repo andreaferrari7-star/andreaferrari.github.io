@@ -5,7 +5,7 @@ source_papers: ["Ricerca Prompting LLM Clinico Sanitario.pdf"]
 
 # Analisi dei Framework di Prompting Strutturato in Ambito Clinico e Sanitario
 
-**Summary**: Documento di analisi sistematica e rassegna metodologica sullo stato dell'arte del prompt engineering e dei framework di inferenza strutturata applicati alla medicina, alla documentazione clinica (EHR/SOAP) e alla psicoterapia generativa. Il testo approfondisce lo standard internazionale di rendicontazione **[[tripod-llm-reporting-guideline|TRIPOD-LLM]]** (estensione 2025 di TRIPOD+AI), dimostra empiricamente il **[[clinical-chain-of-thought-paradox|paradosso del Chain-of-Thought (CoT) clinico]]** (degradamento delle prestazioni nell'86.3% dei modelli su cartelle elettroniche reali a causa dell'accumulo di errori non vincolati), esamina le architetture terapeutiche basate su partizione System/User e pacing (**[[LLM4CBT]]**, **[[coast-framework-clinical-prompting|COAST]]**), delinea i meccanismi neurali e le strategie di mitigazione dei bias demografici nei layer MLP intermedi (**Exploratory Thinking**, deliberazione **Multi-Agente**) e presenta i paradigmi di simulazione avanzata del paziente (**[[patient-psi-simulazione-clinica|PATIENT-Ψ]]**, **TherapyGym**).
+**Summary**: Documento di analisi sistematica e rassegna metodologica sullo stato dell'arte del prompt engineering e dei framework di inferenza strutturata applicati alla medicina, alla documentazione clinica (EHR/SOAP) e alla psicoterapia generativa. Il testo approfondisce lo standard internazionale di rendicontazione **[TRIPOD-LLM](concetti/tripod-llm-reporting-guideline.md)** (estensione 2025 di TRIPOD+AI), dimostra empiricamente il **[paradosso del Chain-of-Thought (CoT) clinico](concetti/clinical-chain-of-thought-paradox.md)** (degradamento delle prestazioni nell'86.3% dei modelli su cartelle elettroniche reali a causa dell'accumulo di errori non vincolati), esamina le architetture terapeutiche basate su partizione System/User e pacing (**[COAST](concetti/concetti/concetti\coast-framework-clinical-prompting.md)**), delinea i meccanismi neurali e le strategie di mitigazione dei bias demografici nei layer MLP intermedi (**Exploratory Thinking**, deliberazione **Multi-Agente**) e presenta i paradigmi di simulazione avanzata del paziente (**[PATIENT-Ψ](patient-psi-simulazione-clinica.md)**, **TherapyGym**).
 
 **Sources**: `Ricerca Prompting LLM Clinico Sanitario.pdf` (Rassegna metodologica e tavola sinottica della letteratura clinico-computazionale 2024-2026).
 **Last updated**: 2026-08-28
@@ -14,25 +14,25 @@ source_papers: ["Ricerca Prompting LLM Clinico Sanitario.pdf"]
 
 ## Definizione Operativa e Inquadramento Generale
 
-L'adozione dei [[large-language-models|Modelli Linguistici di Grandi Dimensioni (LLM)]] in medicina e psicoterapia ha evidenziato una transizione fondamentale: il passaggio da interazioni informali basate su prompt generici (*ad-hoc prompting*) a **framework ingegneristico-clinici formalizzati e verificabili**.
+L'adozione dei [Modelli Linguistici di Grandi Dimensioni (LLM)](concetti/large-language-models.md) in medicina e psicoterapia ha evidenziato una transizione fondamentale: il passaggio da interazioni informali basate su prompt generici (*ad-hoc prompting*) a **framework ingegneristico-clinici formalizzati e verificabili**.
 
 La specificità del dominio clinico — dominato da dati ad altissimo rumore, frammentazione lessicale, vincoli etico-deontologici stringenti e gravità delle conseguenze diagnostico-terapeutiche — rende inadeguati sia i benchmark tradizionali di elaborazione del linguaggio naturale (NLP) sia le euristiche di ragionamento non vincolate.
 
 ```mermaid
 flowchart TD
     subgraph RegulatoryPillar ["1. Governance & Trasparenza di Reporting"]
-        R1["<b>[[tripod-llm-reporting-guideline|TRIPOD-LLM (2025)]]</b><br/>19 Macro-Item / 50 Sotto-Item<br/>Checklist per inferenza, prompt e allineamento"]
+        R1[TRIPOD-LLM (2025)](concetti/tripod-llm-reporting-guideline.md)</b><br/>19 Macro-Item / 50 Sotto-Item<br/>Checklist per inferenza, prompt e allineamento"]
         R2["<b>Standard Complementari</b><br/>REFINE (Modelli di Fondazione) & FLAIR (Radiologia)"]
     end
 
     subgraph ReasoningPillar ["2. Controllo dell'Astrazione & Inferenza"]
-        A1["<b>[[clinical-chain-of-thought-paradox|Paradosso del CoT Clinico]] (Wu et al., 2025)</b><br/>Degradamento nell'86.3% dei modelli su EHR reali<br/>Allucinazione, Omissione, Incompletezza"]
-        A2["<b>Prompting a Vincolo Rigido</b><br/>Framework [[coast-framework-clinical-prompting|COAST]] & GOLD<br/>Architettura [[LLM4CBT]] (Partizione System/User & Pacing)"]
+        A1[paradosso del CoT clinico](concetti/clinical-chain-of-thought-paradox.md) (Wu et al., 2025)</b><br/>Degradamento nell'86.3% dei modelli su EHR reali<br/>Allucinazione, Omissione, Incompletezza"]
+        A2[COAST](concetti/concetti/concetti\coast-framework-clinical-prompting.md) & GOLD<br/>Architettura [LLM4CBT](concetti/LLM4CBT.md) (Partizione System/User & Pacing)"]
     end
 
     subgraph SimulationPillar ["3. Simulazione & Debiasing Clinico"]
         S1["<b>Mitigazione Bias Demografici & Clinici</b><br/>Localizzazione nei layer MLP (4, 18-20)<br/>Exploratory Thinking & Dialettica Multi-Agente (0% &rarr; 76%)"]
-        S2["<b>Simulazione Cognitiva del Paziente</b><br/>[[patient-psi-simulazione-clinica|PATIENT-Ψ]] (106 schemi CBT, Gradual Disclosure)<br/>TherapyGym (Scoring CTRS & Reinforcement Learning)"]
+        S2[PATIENT-Ψ](patient-psi-simulazione-clinica.md) (106 schemi CBT, Gradual Disclosure)<br/>TherapyGym (Scoring CTRS & Reinforcement Learning)"]
     end
 
     RegulatoryPillar --> ReasoningPillar
@@ -43,7 +43,7 @@ flowchart TD
 
 ## Sezione 1: Il Framework TRIPOD-LLM e lo Stato dell'Arte delle Linee Guida
 
-Formalizzato all'inizio del 2025 da **Gallifant et al.** come estensione specialistica della dichiarazione *TRIPOD+AI*, lo standard **[[tripod-llm-reporting-guideline|TRIPOD-LLM]]** (*Transparent Reporting of a multivariable model for individual prognosis or diagnosis - Large Language Models*) rappresenta la linea guida metodologica di riferimento per la pubblicazione e validazione scientifica di studi che integrano modelli linguistici generativi e strategie di prompt engineering in medicina.
+Formalizzato all'inizio del 2025 da **Gallifant et al.** come estensione specialistica della dichiarazione *TRIPOD+AI*, lo standard **[TRIPOD-LLM](concetti/tripod-llm-reporting-guideline.md)** (*Transparent Reporting of a multivariable model for individual prognosis or diagnosis - Large Language Models*) rappresenta la linea guida metodologica di riferimento per la pubblicazione e validazione scientifica di studi che integrano modelli linguistici generativi e strategie di prompt engineering in medicina.
 
 ```mermaid
 flowchart TD
@@ -79,8 +79,8 @@ Le riviste biomediche di vertice impongono TRIPOD-LLM poiché le metriche classi
 L'ecosistema di reporting comprende standard complementari:
 - **REFINE** (*Reporting checklist for FoundatIon and large laNguagE models*): orientato alla trasparenza dei modelli di fondazione biomedici generali;
 - **FLAIR** (*Framework for LLM Assessment in Radiology*): 32 item distribuiti in 6 categorie per la trasparenza dei dati e l'integrazione di flussi multimodali in radiologia;
-- **[[chart-reporting-guideline|CHART]]** (*Chatbot Assessment Reporting Tool*): focalizzato su chatbot di consulenza sanitaria;
-- **[[elevate-genai-framework|ELEVATE-GenAI]]**: specifico per la ricerca economico-sanitaria e gli esiti clinici (HEOR).
+- **[CHART](concetti/chart-reporting-guideline.md)** (*Chatbot Assessment Reporting Tool*): focalizzato su chatbot di consulenza sanitaria;
+- **[ELEVATE-GenAI](concetti/elevate-genai-framework.md)**: specifico per la ricerca economico-sanitaria e gli esiti clinici (HEOR).
 
 ---
 
@@ -137,8 +137,8 @@ flowchart LR
     LLM4CBT_Arch -.->|"Previene chiusura prematura"| COAST_Scaffolding
 ```
 
-1. **Framework [[coast-framework-clinical-prompting|COAST]] (Context, Objective, Actions, Scenario, Task):** Isola nettamente i dati oggettivi del paziente (*Context, Scenario*) dalla procedura di elaborazione (*Actions, Task*), forzando il modello a legare ogni deduzione a un'evidenza testuale esplicita.
-2. **Architettura [[LLM4CBT]] (Kim et al., 2025):** Compartimenta rigidamente il prompt di sistema (che definisce le basi teoriche della CBT, i pensieri automatici e la tecnica della freccia discendente) e il prompt utente (che introduce regole attive di pacing conversazionale, obbligando il sistema a riflettere e normalizzare senza proporre soluzioni affrettate).
+1. **Framework [COAST](concetti/concetti/concetti\coast-framework-clinical-prompting.md) (Context, Objective, Actions, Scenario, Task):** Isola nettamente i dati oggettivi del paziente (*Context, Scenario*) dalla procedura di elaborazione (*Actions, Task*), forzando il modello a legare ogni deduzione a un'evidenza testuale esplicita.
+2. **Architettura [LLM4CBT](concetti/LLM4CBT.md) (Kim et al., 2025):** Compartimenta rigidamente il prompt di sistema (che definisce le basi teoriche della CBT, i pensieri automatici e la tecnica della freccia discendente) e il prompt utente (che introduce regole attive di pacing conversazionale, obbligando il sistema a riflettere e normalizzare senza proporre soluzioni affrettate).
 
 ---
 
@@ -171,7 +171,7 @@ Nella formazione clinica, l'uso di prompt ingenui che chiedono al modello di "re
 
 ```mermaid
 flowchart TD
-    subgraph PatientPsiArchitecture ["Architettura [[patient-psi-simulazione-clinica|PATIENT-Ψ]] (Wang et al., 2024)"]
+    subgraph PatientPsiArchitecture [PATIENT-Ψ](patient-psi-simulazione-clinica.md) (Wang et al., 2024)"]
         direction TB
         CBT_CM["<b>1. Schema Cognitivo Disfunzionale (PATIENT-Ψ-CM)</b><br/>106 modelli cognitivi curati da terapeuti esperti:<br/>Core Beliefs, Pensieri Automatici (AT), Risposte Fisiologiche, Evitamenti"]
         FlowReg["<b>2. Regolazione del Flusso Conversazionale</b><br/>- Vincolo di Rivelazione Graduale (Gradual Disclosure)<br/>- Stile realistico (esitazioni, pause, resistenze)<br/>- Tracciamento dello stato interno per turno (alleanza terapeutica, readiness)"]
@@ -196,10 +196,10 @@ flowchart TD
 
 | Autore / Anno | Framework di Prompting / Metodologia | Ambito Clinico / Applicativo | Risultato / Evidenza Principale |
 | :--- | :--- | :--- | :--- |
-| **Gallifant et al. (2025)** | Linee guida e checklist standardizzata **[[tripod-llm-reporting-guideline|TRIPOD-LLM]]** | Metodologia di reporting, trasparenza e riproducibilità nella ricerca medica con LLM | Formulazione del protocollo a 19 macro-item e 50 sotto-item per la rendicontazione dei parametri stocastici, del prompt engineering e dell'allineamento. |
+| **Gallifant et al. (2025)** | Linee guida e checklist standardizzata **[TRIPOD-LLM](concetti/tripod-llm-reporting-guideline.md)** | Metodologia di reporting, trasparenza e riproducibilità nella ricerca medica con LLM | Formulazione del protocollo a 19 macro-item e 50 sotto-item per la rendicontazione dei parametri stocastici, del prompt engineering e dell'allineamento. |
 | **Wu et al. (2025)** | Catene Logiche Sequenziali (CoT) vs. Prompting Diretto Zero-Shot | Comprensione di testi clinici complessi ed estrazione da cartelle elettroniche (EHR) | **Degradamento prestazionale nell'86.3% di 95 modelli** a causa dell'accumulo di errori (allucinazioni, omissioni, incompletezza) lungo CoT non vincolati. |
-| **Wang et al. (2024)** | Architettura di simulazione psicologica **[[patient-psi-simulazione-clinica|PATIENT-Ψ]]** | Training specialistico di psicoterapeuti nella concettualizzazione del caso CBT | Rilascio del dataset *PATIENT-Ψ-CM* (106 schemi cognitivi); fedeltà clinica significativamente superiore a GPT-4 standard ed eliminazione della compiacenza artificiale. |
-| **Kim et al. (2025)** | Architettura **[[LLM4CBT]]** con partizione System/User e controllo del pacing | Elicitazione di pensieri automatici (AT) in interventi CBT digitali | Ottimizzazione dell'alleanza tramite risposte riflessive ed empatiche, inibizione di consigli precoci e regolazione del ritmo sul livello di engagement del paziente. |
+| **Wang et al. (2024)** | Architettura di simulazione psicologica **[PATIENT-Ψ](patient-psi-simulazione-clinica.md)** | Training specialistico di psicoterapeuti nella concettualizzazione del caso CBT | Rilascio del dataset *PATIENT-Ψ-CM* (106 schemi cognitivi); fedeltà clinica significativamente superiore a GPT-4 standard ed eliminazione della compiacenza artificiale. |
+| **Kim et al. (2025)** | Architettura **[LLM4CBT](concetti/LLM4CBT.md)** con partizione System/User e controllo del pacing | Elicitazione di pensieri automatici (AT) in interventi CBT digitali | Ottimizzazione dell'alleanza tramite risposte riflessive ed empatiche, inibizione di consigli precoci e regolazione del ritmo sul livello di engagement del paziente. |
 | **Sant et al. (2024)** | Prompting Few-Shot, Context-Supplying e vincoli demografici | Traduzione medica specialistica e mitigazione del bias di genere | Riduzione delle risposte polarizzate al maschile fino al **12%** sul benchmark WinoMT rispetto a configurazioni di prompt lineari. |
 | **Bajaj et al. (2025)** | Prompting di Pensiero Esplorativo (*Exploratory Thinking*) a due stadi | Mitigazione del bias di genere nella valutazione clinica e decision-making etico | Correzione automatica delle asimmetrie decisionali attraverso la generazione e il confronto critico di casi paralleli con swap demografico. |
 | **Zack et al. (2024)** | Ingegneria dei prompt demografici e analisi di interpretabilità meccanicistica | Generazione di vignette cliniche e analisi epidemiologica delle risposte | Dimostrazione dell'esagerazione stereotipica (97% artrite reumatoide femminile vs 66% reale) e localizzazione dei bias nei moduli MLP intermedi (layer 4, 18-20). |
@@ -210,7 +210,7 @@ flowchart TD
 ## Sezione 5: Conclusioni e Raccomandazioni Clinico-Tecnologiche
 
 1. **Adozione Sistematica dello Standard TRIPOD-LLM:** Qualsiasi progetto biomedico o clinico basato su LLM deve documentare rigorosamente l'architettura dei prompt, i parametri stocastici (seed, temperatura, penalità) e le qualifiche dei valutatori umani.
-2. **Contenimento delle Catene Logiche Non Vincolate (CoT) sui Testi Clinici:** Evitare CoT liberi su testi complessi o EHR frammentati; adottare scaffold rigidi come [[coast-framework-clinical-prompting|COAST]] o GOLD per separare i dati oggettivi dalle deduzioni.
+2. **Contenimento delle Catene Logiche Non Vincolate (CoT) sui Testi Clinici:** Evitare CoT liberi su testi complessi o EHR frammentati; adottare scaffold rigidi come [COAST](concetti/concetti/concetti\coast-framework-clinical-prompting.md) o GOLD per separare i dati oggettivi dalle deduzioni.
 3. **Programmazione Cognitiva dei Simulatori di Pazienti:** Superare i prompt basati su stereotipi o "personaggi" generici adottando schemi cognitivi formalizzati (PATIENT-Ψ-CM), regole di gradual disclosure e stili conversazionali ecologici.
 4. **Regole di Pacing ed Elicitazione in Psicoterapia:** Inserire direttive comportamentali stringenti per forzare la riflessione e la normalizzazione, inibendo il problem-solving precoce dei modelli commerciali (LLM4CBT).
 5. **Mitigazione Proattiva dei Bias Demografici e Clinici:** Implementare routine di *Exploratory Thinking* con swap demografico o architetture collaborative multi-agente per contrastare le distorsioni localizzate nei moduli MLP dei modelli.
@@ -271,16 +271,19 @@ flowchart TD
 ## Relazioni
 
 - **Pagine di Concetto Correlate create da questa fonte:**
-  - [[tripod-llm-reporting-guideline]]: Guida approfondita allo standard internazionale di reporting TRIPOD-LLM (2025), checklist a 19 macro-item e parametri operativi.
-  - [[clinical-chain-of-thought-paradox]]: Analisi del paradosso CoT nei testi clinici reali (EHR), tassonomia degli errori (allucinazione, omissione, incompletezza) e soluzioni di scaffolding.
+  - [tripod-llm-reporting-guideline](tripod-llm-reporting-guideline.md): Guida approfondita allo standard internazionale di reporting TRIPOD-LLM (2025), checklist a 19 macro-item e parametri operativi.
+  - [clinical-chain-of-thought-paradox](clinical-chain-of-thought-paradox.md): Analisi del paradosso CoT nei testi clinici reali (EHR), tassonomia degli errori (allucinazione, omissione, incompletezza) e soluzioni di scaffolding.
 - **Pagine della Wiki collegate:**
-  - [[chart-reporting-guideline]]: Standard di reporting EQUATOR per chatbot di salute.
-  - [[elevate-genai-framework]]: Standard di reporting per HEOR e simulazioni economico-sanitarie.
-  - [[gamer-reporting-guideline]]: Linee guida per l'uso dell'IA nella ricerca accademica.
-  - [[coast-framework-clinical-prompting]]: Framework pentapartito per il prompting clinico a livelli di astrazione.
-  - [[patient-psi-simulazione-clinica]]: Architettura di simulazione paziente CBT e meccanismo di gradual disclosure.
-  - [[clinical-ai-blueprint]]: Inquadramento generale della GenAI in psicoterapia e medicina.
-  - [[audit-bias-llm-clinici]]: Audit e mitigazione dei bias algoritmici.
-  - [[stepwise-cot]]: Scomposizione del ragionamento per stadi sequenziali.
-  - [[accuratezza-vs-fattualita-in-genai]]: Distinzione critica tra plausibilità formale e veridicità clinica.
-  - [[prompt-experiment-gap-in-clinical-ai]]: Divario tra sperimentazioni in vitro su prompt sintetici e pratica clinica ecologica.
+  - [chart-reporting-guideline](chart-reporting-guideline.md): Standard di reporting EQUATOR per chatbot di salute.
+  - [elevate-genai-framework](elevate-genai-framework.md): Standard di reporting per HEOR e simulazioni economico-sanitarie.
+  - [gamer-reporting-guideline](gamer-reporting-guideline.md): Linee guida per l'uso dell'IA nella ricerca accademica.
+  - [coast-framework-clinical-prompting](concetti/concetti/concetti\coast-framework-clinical-prompting.md): Framework pentapartito per il prompting clinico a livelli di astrazione.
+  - [patient-psi-simulazione-clinica](patient-psi-simulazione-clinica.md): Architettura di simulazione paziente CBT e meccanismo di gradual disclosure.
+  - [clinical-ai-blueprint](clinical-ai-blueprint.md): Inquadramento generale della GenAI in psicoterapia e medicina.
+  - [audit-bias-llm-clinici](concetti/concetti/concetti\audit-bias-llm-clinici.md): Audit e mitigazione dei bias algoritmici.
+  - [stepwise-cot](stepwise-cot.md): Scomposizione del ragionamento per stadi sequenziali.
+  - [accuratezza-vs-fattualita-in-genai](accuratezza-vs-fattualita-in-genai.md): Distinzione critica tra plausibilità formale e veridicità clinica.
+  - [prompt-experiment-gap-in-clinical-ai](prompt-experiment-gap-in-clinical-ai.md): Divario tra sperimentazioni in vitro su prompt sintetici e pratica clinica ecologica.
+
+## Riferimenti Bibliografici
+- [Da integrare]

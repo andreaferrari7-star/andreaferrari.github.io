@@ -5,14 +5,14 @@ source_papers: ["AI in Psicoterapia 2023-2026.docx"]
 
 # Integrazione Etica e Procedurale dell'Intelligenza Artificiale Generativa nella Pratica Psicoterapica (2023-2026)
 
-**Summary**: Analisi esaustiva della letteratura scientifica peer-reviewed e delle direttive degli ordini professionali internazionali (APA, BPS, EFPA, CNOP, New Zealand Board) e quadri normativi (EU AI Act, GDPR) sul quadriennio 2023-2026. Il report esamina la trasformazione dell'IA da strumento amministrativo a fattore di ragionamento clinico e attore relazionale nel setting terapeutico, strutturandosi in tre assi critici: governance normativa e consenso dinamico, fenomenologia dell'uso autonomo dei LLM da parte dei pazienti (e trappola della sicofanzia), impatto neurocognitivo e identitario sui terapeuti (offloading, deskilling, AIRD, sindrome dell'impostore IA-specifica, moral buffering), e modelli procedurali di tutela clinica (specializzazioni IA-resistenti, modelli ibridi e framework [[sadar-framework|SADAR]] con metodo 3-2-1 post-seduta).
+**Summary**: Analisi esaustiva della letteratura scientifica peer-reviewed e delle direttive degli ordini professionali internazionali (APA, BPS, EFPA, CNOP, New Zealand Board) e quadri normativi (EU AI Act, GDPR) sul quadriennio 2023-2026. Il report esamina la trasformazione dell'IA da strumento amministrativo a fattore di ragionamento clinico e attore relazionale nel setting terapeutico, strutturandosi in tre assi critici: governance normativa e consenso dinamico, fenomenologia dell'uso autonomo dei LLM da parte dei pazienti (e trappola della sicofanzia), impatto neurocognitivo e identitario sui terapeuti (offloading, deskilling, AIRD, sindrome dell'impostore IA-specifica, moral buffering), e modelli procedurali di tutela clinica (specializzazioni IA-resistenti, modelli ibridi e framework [SADAR](../concetti/sadar-framework.md) con metodo 3-2-1 post-seduta).
 **Sources**: `AI in Psicoterapia 2023-2026.docx` (Rassegna critica 2023–2026, integrata con dati APA 2025/2026, CNOP 2026, EFPA 2026, GPA 2026, Signorini & Paganin 2026).
 **Last updated**: 2026-08-27
 ---
 
 ## Inquadramento e Paradigma Emergente (2023-2026)
 
-Nel quadriennio 2023-2026, l'integrazione dell'**Intelligenza Artificiale (IA) generativa** nella psicoterapia e nella salute mentale ha subito una mutazione qualitativa: da semplici funzioni di automazione burocratica e amministrativa, i [[large-language-models]] (LLM) sono penetrati direttamente nel **ragionamento clinico**, nel **supporto decisionale diagnostico** e nell'**interazione diretta non mediata con i pazienti**.
+Nel quadriennio 2023-2026, l'integrazione dell'**Intelligenza Artificiale (IA) generativa** nella psicoterapia e nella salute mentale ha subito una mutazione qualitativa: da semplici funzioni di automazione burocratica e amministrativa, i [large-language-models](../large-language-models.md) (LLM) sono penetrati direttamente nel **ragionamento clinico**, nel **supporto decisionale diagnostico** e nell'**interazione diretta non mediata con i pazienti**.
 
 L'IA non agisce più come un mero software inerte, ma assume il ruolo di **"attore relazionale"** e **"terzo" nel setting**, perturbando le dinamiche di transfert/controtransfert, la percezione di autoefficacia del clinico e l'architettura della responsabilità deontologica.
 
@@ -242,15 +242,17 @@ sequenceDiagram
 ---
 
 ## Pagine Correlate
-- [[sadar-framework]]
-- [[digital-analytic-third]]
-- [[sindrome-impostore-ia-specifica]]
-- [[artificial-intelligence-replacement-dysfunction]]
-- [[cognitive-offloading-e-diagnostic-deskilling]]
-- [[moral-buffering-e-deskilling-etico]]
-- [[sycophancy-trap-clinica]]
-- [[consenso-dinamico-e-governance-dati-ia]]
-- [[specializzazioni-ia-resistenti]]
-- [[tecnostress-e-paradosso-sovradocumentazione]]
-- [[cavalera-et-al-2026]]
-- [[sycophantic-mirroring]]
+- [sadar-framework](../concetti/sadar-framework.md)
+- [digital-analytic-third](../concetti/digital-analytic-third.md)
+- [sindrome-impostore-ia-specifica](../concetti/sindrome-impostore-ia-specifica.md)
+- [artificial-intelligence-replacement-dysfunction](../concetti/artificial-intelligence-replacement-dysfunction.md)
+- [cognitive-offloading-e-diagnostic-deskilling](../concetti/cognitive-offloading-e-diagnostic-deskilling.md)
+- [moral-buffering-e-deskilling-etico](../concetti/moral-buffering-e-deskilling-etico.md)
+- [sycophancy-trap-clinica](../concetti/sycophancy-trap-clinica.md)
+- [consenso-dinamico-e-governance-dati-ia](../concetti/consenso-dinamico-e-governance-dati-ia.md)
+- [specializzazioni-ia-resistenti](../concetti/specializzazioni-ia-resistenti.md)
+- [tecnostress-e-paradosso-sovradocumentazione](../concetti/tecnostress-e-paradosso-sovradocumentazione.md)
+- [cavalera-et-al-2026](cavalera-et-al-2026.md)
+- [sycophantic-mirroring](../concetti/concetti/concetti\sycophantic-mirroring.md)
+
+

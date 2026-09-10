@@ -16,4 +16,5 @@ source_papers: ["JAYPS-7-5-KH7.pdf"]
 - Villanueva, M. L., Nolan, R., & Guardado, M. (2026). A Multimodal Machine Learning Approach to Adolescent Loneliness Using Social Disconnection, Parasocial Relationships, Emotional Inhibition, Family Cohesion, and Digital Isolation. *Journal of Adolescent and Youth Psychological Studies*, 7(5), 1-13. http://dx.doi.org/10.61838/kman.jayps.5464
 
 ## Relazioni
-- Vedi anche: [[villanueva-et-al-2026]]
+- Vedi anche: [villanueva-et-al-2026](../villanueva-et-al-2026.md)
+

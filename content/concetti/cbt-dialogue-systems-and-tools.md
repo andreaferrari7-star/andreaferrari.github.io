@@ -62,9 +62,12 @@ graph TD
 ---
 
 ## Relazioni
-- [[ai-enhanced-cbt]]: Integrazione nel framework generale.
-- [[cognitive-distortion-detection]]: Algoritmi di NLU integrati nelle interfacce.
-- [[automated-cognitive-restructuring]]: Generazione di risposte di reframing.
-- [[conversational-agents-mental-health]]: Panoramica meta-analitica generale.
-- [[simulazione-pazienti-ai]]: Focus specifico su PATIENT-Ψ e simulatori per tirocinanti.
-- [[jiang-et-al-2024]]: Studio di review di riferimento.
+- [ai-enhanced-cbt](concetti/concetti\ai-enhanced-cbt.md): Integrazione nel framework generale.
+- [cognitive-distortion-detection](cognitive-distortion-detection.md): Algoritmi di NLU integrati nelle interfacce.
+- [automated-cognitive-restructuring](automated-cognitive-restructuring.md): Generazione di risposte di reframing.
+- [conversational-agents-mental-health](conversational-agents-mental-health.md): Panoramica meta-analitica generale.
+- [simulazione-pazienti-ai](simulazione-pazienti-ai.md): Focus specifico su PATIENT-Ψ e simulatori per tirocinanti.
+- [jiang-et-al-2024](../sintesi/jiang-et-al-2024.md): Studio di review di riferimento.
+
+## Riferimenti Bibliografici
+- [Da integrare]

@@ -130,13 +130,14 @@ flowchart LR
 
 ## Relazioni
 
-- [[mental-2026-1-e88057]]
-- [[validation-gap-in-mental-health-llms]]
-- [[specialized-nlp-models-mental-health]]
-- [[on-device-slm-mental-health]]
-- [[federated-learning-and-differential-privacy-mental-health]]
-- [[gdpr-governance-mental-health-ai]]
-- [[ai-v5-e84305]]
-- [[modello-centauro-clinico]]
-- [[hybrid-neuro-symbolic-cdss]]
-- [[clinical-readiness-gap-in-mh-chatbots]]
+- [mental-2026-1-e88057](mental-2026-1-e88057.md)
+- [validation-gap-in-mental-health-llms](validation-gap-in-mental-health-llms.md)
+- [specialized-nlp-models-mental-health](concetti/specialized-nlp-models-mental-health.md)
+- [on-device-slm-mental-health](concetti/on-device-slm-mental-health.md)
+- [federated-learning-and-differential-privacy-mental-health](concetti/federated-learning-and-differential-privacy-mental-health.md)
+- [gdpr-governance-mental-health-ai](concetti/concetti/concetti\gdpr-governance-mental-health-ai.md)
+- [ai-v5-e84305](ai-v5-e84305.md)
+- [modello-centauro-clinico](concetti/concetti/concetti\modello-centauro-clinico.md)
+- [hybrid-neuro-symbolic-cdss](concetti/hybrid-neuro-symbolic-cdss.md)
+- [clinical-readiness-gap-in-mh-chatbots](concetti/concetti/concetti\clinical-readiness-gap-in-mh-chatbots.md)
+

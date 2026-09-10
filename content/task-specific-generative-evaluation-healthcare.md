@@ -6,7 +6,7 @@ source_papers: ["TRIPOD-LLM2025.pdf"]
 # Task-Specific Generative Output Evaluation in Healthcare
 
 ## Definizione Operativa
-- La **Task-Specific Generative Output Evaluation** è il paradigma metodologico avanzato definito dallo standard internazionale [[tripod-llm2025|TRIPOD-LLM]] (Gallifant et al., *Nature Medicine* 2025) per la valutazione rigorosa, multi-assiale e orientata alla sicurezza clinica del testo non strutturato prodotto da Large Language Models ([[large-language-models|LLM]]) in ambito sanitario.
+- La **Task-Specific Generative Output Evaluation** è il paradigma metodologico avanzato definito dallo standard internazionale [TRIPOD-LLM](concetti/tripod-llm2025.md) (Gallifant et al., *Nature Medicine* 2025) per la valutazione rigorosa, multi-assiale e orientata alla sicurezza clinica del testo non strutturato prodotto da Large Language Models ([LLM](concetti/large-language-models.md)) in ambito sanitario.
 - **La Crisi delle Metriche NLP Tradizionali:** In medicina, le metriche automatizzate tradizionali basate sulla sovrapposizione lessicale di n-grammi (come **BLEU**, **ROUGE** o **METEOR**) si sono dimostrate radicalmente inadeguate e potenzialmente fuorvianti: esse misurano esclusivamente la somiglianza morfologico-strutturale con un testo di riferimento (*reference standard*), rimanendo completamente cieche di fronte all'accuratezza fattuale, alle allucinazioni cliniche e all'omissione di informazioni vitali.
 - **Approccio Multi-dimensionale:** Il framework impone la transizione verso protocolli di valutazione specifici per ciascun task generativo (QA clinico, scribi ambientali, sintesi di dimissioni, dialogo conversazionale), integrando:
   1. Audit quantitativo di accuratezza fattuale, omissioni critiche e confabulazioni;
@@ -134,7 +134,10 @@ graph TD
 ---
 
 ## Relazioni
-- Linea Guida di Riferimento: [[tripod-llm2025]]
-- Concetto Modulare Collegato: [[modular-reporting-framework-llm]]
-- Standard Correlati: [[chart-reporting-guideline]], [[elevate-genai-framework]], [[living-guidelines-in-health-ai]]
-- Bias e Robustezza: [[accuratezza-vs-fattualita-in-genai]], [[clinical-chain-of-thought-paradox]], [[human-oversight-and-liability-in-clinical-ai]], [[stochasticity-management-in-clinical-llms]], [[single-task-zero-shot-evaluation-trap]]
+- Linea Guida di Riferimento: [tripod-llm2025](tripod-llm2025.md)
+- Concetto Modulare Collegato: [modular-reporting-framework-llm](modular-reporting-framework-llm.md)
+- Standard Correlati: [chart-reporting-guideline](chart-reporting-guideline.md), [elevate-genai-framework](elevate-genai-framework.md), [living-guidelines-in-health-ai](living-guidelines-in-health-ai.md)
+- Bias e Robustezza: [accuratezza-vs-fattualita-in-genai](accuratezza-vs-fattualita-in-genai.md), [clinical-chain-of-thought-paradox](clinical-chain-of-thought-paradox.md), [human-oversight-and-liability-in-clinical-ai](human-oversight-and-liability-in-clinical-ai.md), [stochasticity-management-in-clinical-llms](stochasticity-management-in-clinical-llms.md), [single-task-zero-shot-evaluation-trap](single-task-zero-shot-evaluation-trap.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]

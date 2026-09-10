@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Immersive AI e Introspecta VR (Parts Work e Trasformazione del Sé)
 
 **Summary**: Integrazione innovativa tra Realtà Virtuale (VR) e Intelligenza Artificiale Generativa per facilitare il "parts work", l'esplorazione del sé e il cambio di prospettiva attraverso la generazione in tempo reale di ambienti metaforici immersivi a 360° (skyboxes).
@@ -46,8 +50,11 @@ Sviluppato da Antichi, Baglìo, Rossi e Riva (2025), il progetto **"Introspecta 
 ---
 
 ## Pagine Correlate
-- [[cavalera-et-al-2026]]
-- [[calibrated-mismatches]]
-- [[simulated-empathy-vs-authentic-presence]]
-- [[digital-therapeutic-alliance]]
-- [[process-based-therapy]]
+- [cavalera-et-al-2026](../sintesi/cavalera-et-al-2026.md)
+- [calibrated-mismatches](concetti/concetti\calibrated-mismatches.md)
+- [simulated-empathy-vs-authentic-presence](concetti/concetti\simulated-empathy-vs-authentic-presence.md)
+- [digital-therapeutic-alliance](../digital-therapeutic-alliance.md)
+- [process-based-therapy](process-based-therapy.md)
+
+## Riferimenti Bibliografici
+- [Da integrare]
