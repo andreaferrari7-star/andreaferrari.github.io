@@ -50,7 +50,7 @@ plugins:
         - git
         - filesystem
     order: 10
-- source: "@quartz-community/obsidian-flavored-markdown"
+  - source: "@quartz-community/obsidian-flavored-markdown"
     enabled: true
     options:
       comments: true
