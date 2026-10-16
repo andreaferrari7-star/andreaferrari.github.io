@@ -1,17 +1,19 @@
 ---
 tags: []
+tipo_fonte: scientifica
+source_papers: ["2601.06032v1.pdf"]
 ---
 
 # Benchmarking di Cognizione Sociale con Vignette Cliniche
 
 **Summary**: Metodologia di valutazione neuropsicologica applicata ai modelli di intelligenza artificiale per misurare la comprensione sociale avanzata (Theory of Mind di ordine superiore) tramite narrazioni complesse, scoring multi-dimensionale e protocolli a doppio rater indipendente.
-**Sources**: `2601.06032v1.pdf`
+**Fonti**: Holl-Etten et al. (2026), cfr. [[holl-etten-et-al-2026]]
 **Last updated**: 2026-08-27
 ---
 
 ## Razionale e Differenze rispetto ai Benchmark Tradizionali
 
-La maggior parte dei benchmark ToM per Large Language Models ([large-language-models](../large-language-models.md)) si basa su compiti sintetici a risposta binaria o a scelta multipla (es. *Unexpected Transfer*, scenari A/B di Sally-Anne). Sebbene facili da automatizzare su vasta scala, tali compiti:
+La maggior parte dei benchmark ToM per Large Language Models ([[large-language-models]]) si basa su compiti sintetici a risposta binaria o a scelta multipla (es. *Unexpected Transfer*, scenari A/B di Sally-Anne). Sebbene facili da automatizzare su vasta scala, tali compiti:
 - Non catturano la fluidità, l'ambiguità e la natura stratificata delle interazioni sociali quotidiane.
 - Rischiano elevati tassi di memorizzazione e *data contamination*.
 - Non consentono di analizzare le spiegazioni narrative prodotte dal modello.
@@ -75,13 +77,18 @@ flowchart LR
 
 ---
 
-## Related pages
-- [holl-etten-et-al-2026](../sintesi/holl-etten-et-al-2026.md)
-- [applied-theory-of-mind-llm](applied-theory-of-mind-llm.md)
-- [epistemic-markers-in-ai](epistemic-markers-in-ai.md)
-- [ai-assistive-autism-communication](ai-assistive-autism-communication.md)
-- [clinical-fidelity-assessment](../clinical-fidelity-assessment.md)
-- [simulazione-pazienti-ai](simulazione-pazienti-ai.md)
+## Relazioni
+- [[holl-etten-et-al-2026]]
+- [[applied-theory-of-mind-llm]]
+- [[epistemic-markers-in-ai]]
+- [[ai-assistive-autism-communication]]
+- [[clinical-fidelity-assessment]]
+- [[simulazione-pazienti-ai]]
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Baron-Cohen, S., O’Riordan, M., Stone, V., Jones, R., & Plaisted, K. (1999). Recognition of faux pas by normally developing children and children with Asperger Syndrome or high-functioning Autism. *Journal of Autism and Developmental Disorders*, 29(5), 407–418.
+- Channon, S., & Crawford, S. (2000). The effects of anterior lesions on performance on a story comprehension test: left anterior impairment on a theory of mind-type task. *Neuropsychologia*, 38(7), 1006–1017.
+- Holl-Etten, A. K., Schnaderbeck, N., Kosareva, E., Prattke, L. A., Krüger, R., Warner, L. M., & Vetter, N. C. (2026). Applied Theory of Mind and Large Language Models – how good is ChatGPT at solving social vignettes? *arXiv preprint arXiv:2601.06032v1*, 1–40.
+- Lawson, J., Baron-Cohen, S., & Wheelwright, S. (2004). Empathising and systemising in adults with and without Asperger Syndrome. *Journal of Autism and Developmental Disorders*, 34(3), 301–310.
+- Stone, V. E., Baron-Cohen, S., & Knight, R. T. (1998). Frontal lobe contributions to theory of mind. *Journal of Cognitive Neuroscience*, 10(5), 640–656.
+- Vetter, N. C., Leipold, K., Kliegel, M., Phillips, L. H., & Altgassen, M. (2013). Ongoing development of social cognition in adolescence. *Child Neuropsychology*, 19(6), 615–629.

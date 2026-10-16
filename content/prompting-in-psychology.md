@@ -1,5 +1,6 @@
 ---
 tags: [prompt-engineering, few-shot, zero-shot, temperatura, simulazione]
+tipo_fonte: scientifica
 source_papers: ["final_textbook_genAIinpsychologyresearchandtraining.pdf"]
 ---
 
@@ -17,7 +18,4 @@ source_papers: ["final_textbook_genAIinpsychologyresearchandtraining.pdf"]
 - Adamkovič, M. (2025). *Large Language Models in (Not Only) Psychology Training and Research: A Brief Introduction*. Centre of Social and Psychological Sciences, Slovak Academy of Sciences. https://doi.org/10.31577/2025.9788082980144
 
 ## Relazioni
-- Vedi anche: [adamkovic-2025](adamkovic-2025.md), [stepwise-cot](stepwise-cot.md), [ai-research-ethics](ai-research-ethics.md)
-
-## Riferimenti Bibliografici
-- [Da integrare]
+- Vedi anche: [[adamkovic-2025]], [[stepwise-cot]], [[ai-research-ethics]]

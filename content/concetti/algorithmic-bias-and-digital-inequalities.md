@@ -1,11 +1,13 @@
 ---
 tags: []
+tipo_fonte: scientifica
+source_papers: ["10.1177_00469580261438322.pdf"]
 ---
 
 # Algorithmic Bias and Digital Inequalities in Mental Health
 
 **Summary**: Disamina dei rischi di amplificazione delle disuguaglianze socio-economiche, culturali e cliniche derivanti da bias nei dataset di addestramento (sovrarappresentazione WEIRD), barriere di connettività e divario di alfabetizzazione digitale nei servizi di salute mentale basati su IA.
-**Sources**: Erdemir & Sumbas (2026) - `10.1177_00469580261438322.pdf`
+**Fonti**: Erdemir & Sumbas (2026)
 **Last updated**: 2026-08-27
 ---
 
@@ -65,13 +67,13 @@ flowchart TD
 
 ---
 
-## Related pages
-- [erdemir-sumbas-2026](../sintesi/erdemir-sumbas-2026.md)
-- [three-layer-governance-framework](concetti/concetti\three-layer-governance-framework.md)
-- [stepped-care-ai-integration](stepped-care-ai-integration.md)
-- [technical-vulnerabilities-llm-counseling](technical-vulnerabilities-llm-counseling.md)
-- [ai-research-ethics](../ai-research-ethics.md)
-- [ai-literacy-in-academia](../ai-literacy-in-academia.md)
+## Relazioni
+- [[erdemir-sumbas-2026]]
+- [[three-layer-governance-framework]]
+- [[stepped-care-ai-integration]]
+- [[technical-vulnerabilities-llm-counseling]]
+- [[ai-research-ethics]]
+- [[ai-literacy-in-academia]]
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Erdemir, N., & Sumbas, E. (2026). Integrating Artificial Intelligence into Psychological Counseling: A Narrative Review and Governance Framework. *INQUIRY: The Journal of Health Care Organization, Provision, and Financing*, 63, 1–16. https://doi.org/10.1177/00469580261438322

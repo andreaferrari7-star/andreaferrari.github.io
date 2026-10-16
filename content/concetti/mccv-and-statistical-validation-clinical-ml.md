@@ -1,5 +1,6 @@
 ---
 tags: [machine-learning, cross-validation, mccv, balanced-accuracy, corrected-resampled-t-test, smote, statistics, clinical-ml, methodology]
+tipo_fonte: scientifica
 source_papers: ["2601.06159v1.pdf"]
 title: "Validazione MCCV, Bilanciamento Dati e Test Statistici Corretti nel Machine Learning Clinico"
 ---
@@ -7,7 +8,7 @@ title: "Validazione MCCV, Bilanciamento Dati e Test Statistici Corretti nel Mach
 # Validazione MCCV, Bilanciamento Dati e Test Statistici Corretti nel Machine Learning Clinico
 
 **Summary**: Framework metodologico per la valutazione rigorosa e la significatività statistica di algoritmi di Machine Learning applicati a coorti cliniche di dimensioni ridotte o sbilanciate, basato su Monte Carlo Cross-Validation (MCCV), sovracampionamento sintetico (SMOTE-NC), Balanced Accuracy e Corrected Resampled $t$-test.
-**Sources**: Jacobs et al. (2026) - `2601.06159v1.pdf`, Nadeau & Bengio (2003), Bouckaert & Frank (2004), Lemaître et al. (2017)
+**Fonti**: Jacobs et al. (2026), Nadeau & Bengio (2003), Bouckaert & Frank (2004), Lemaître et al. (2017)
 **Last updated**: 2026-08-27
 ---
 
@@ -99,11 +100,14 @@ graph LR
 
 ---
 
-## Related pages
-- [jacobs-et-al-2026](../sintesi/jacobs-et-al-2026.md): Applicazione empirica del framework MCCV e del corrected resampled t-test.
-- [pretraining-simulated-data-clinical-ml](pretraining-simulated-data-clinical-ml.md): Modelli di pretraining per Random Forest e confronto statistico.
-- [open-data-scarcity-clinical-psychology](open-data-scarcity-clinical-psychology.md): Sfide di trasparenza metodologica e replicabilità nei dati clinici.
-- [treatment-outcome-and-relapse-prediction](treatment-outcome-and-relapse-prediction.md): Metriche e modelli predittivi nella ricerca psicoterapeutica.
+## Relazioni
+- [[jacobs-et-al-2026]]: Applicazione empirica del framework MCCV e del corrected resampled t-test.
+- [[pretraining-simulated-data-clinical-ml]]: Modelli di pretraining per Random Forest e confronto statistico.
+- [[open-data-scarcity-clinical-psychology]]: Sfide di trasparenza metodologica e replicabilità nei dati clinici.
+- [[treatment-outcome-and-relapse-prediction]]: Metriche e modelli predittivi nella ricerca psicoterapeutica.
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Bouckaert, R. R., & Frank, E. (2004). Evaluating the Replicability of Significance Tests for Comparing Learning Algorithms. *Advances in Knowledge Discovery and Data Mining*, 3056, 3–12.
+- Jacobs, N., Voelkle, M. C., Kathmann, N., & Hilbert, K. (2026). Can we Improve Prediction of Psychotherapy Outcomes Through Pretraining With Simulated Data? *arXiv preprint arXiv:2601.06159v1 [stat.ML]*.
+- Lemaître, G., Nogueira, F., & Aridas, C. K. (2017). Imbalanced-learn: A Python toolbox to tackle the curse of imbalanced datasets in machine learning. *Journal of Machine Learning Research*, *18*(17), 1–5. https://jmlr.org/papers/v18/16-365.html
+- Nadeau, C., & Bengio, Y. (2003). Inference for the generalization error. *Machine Learning*, *52*(3), 239–281. https://doi.org/10.1023/A:1024068626366

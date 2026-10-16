@@ -1,5 +1,6 @@
 ---
 tags: [jingle-fallacy, jangle-fallacy, chiarezza-concettuale, semantic-embeddings, psicometria]
+tipo_fonte: scientifica
 source_papers: ["wulff-mata-2025-escaping-the-jingle-jangle-jungle-increasing-conceptual-clarity-in-psychology-using-large-language.pdf"]
 ---
 
@@ -17,7 +18,4 @@ source_papers: ["wulff-mata-2025-escaping-the-jingle-jangle-jungle-increasing-co
 - Wulff, D. U., & Mata, R. (2026). Escaping the Jingle-Jangle Jungle: Increasing Conceptual Clarity in Psychology Using Large Language Models. *Current Directions in Psychological Science*, 35(2), 59–65. https://doi.org/10.1177/09637214251382083
 
 ## Relazioni
-- Vedi anche: [jingle-fallacy](jingle-fallacy.md), [jangle-fallacy](jangle-fallacy.md), [dual-validity-framework](dual-validity-framework.md)
-
-## Riferimenti Bibliografici
-- [Da integrare]
+- Vedi anche: [[jingle-fallacy]], [[jangle-fallacy]], [[dual-validity-framework]]

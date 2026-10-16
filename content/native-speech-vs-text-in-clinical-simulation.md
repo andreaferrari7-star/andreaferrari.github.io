@@ -1,5 +1,6 @@
 ---
 tags: [speech-to-speech, native-audio, multimodal-simulation, ctrs, paralinguistic-cues, clinical-competence, illusion-of-competence, deliberate-practice, cbt, mymentorllm]
+tipo_fonte: scientifica
 source_papers: ["2607.25667v1.pdf"]
 ---
 
@@ -78,7 +79,7 @@ La tabella seguente riassume le differenze nelle valutazioni della Cognitive The
 
 ## Riferimenti Bibliografici
 - Rizzi, R., Grecucci, A., & Stella, M. (2026). MyMentorLLM: A psychotherapy GenAI environment with multimodal voice/text patients, trainees and experts for deliberate practice. *arXiv preprint arXiv:2607.25667v1 [cs.CL]*, 1–27.
-- Goldberg, S. B., Rousmaniere, T., Miller, S. D., Whipple, J., Nielsen, S. L., Hoyt, W. T., & Wampold, B. E. (2020). The structure of competence: Evaluating the factor structure of the Cognitive Therapy Rating Scale. *Behavior Therapy*, 51(1), 113–122.
+- Goldberg, S. B., Baldwin, S. A., Merced, K., Caperton, D. D., Imel, Z. E., Atkins, D. C., & Creed, T. (2020). The structure of competence: Evaluating the factor structure of the Cognitive Therapy Rating Scale. *Behavior Therapy*, *51*(1), 113–122. https://doi.org/10.1016/j.beth.2019.05.008
 - Low, D. M. (2024). *Speech and text psychometrics: Identifying suicide risk factors with large language models and acoustic networks*. Harvard University.
 - Muntigl, P. (2016). Storytelling, Depression, and Psychotherapy. In *Storytelling in Psychotherapy*, Palgrave Macmillan, London, 577–596.
 - Rousmaniere, T. (2024). *Deliberate practice for psychotherapists: A guide to improving clinical effectiveness*. Routledge.
@@ -87,5 +88,5 @@ La tabella seguente riassume le differenze nelle valutazioni della Cognitive The
 ---
 
 ## Relazioni
-- Vedi anche: [2607-25667v1](2607-25667v1.md), [mymentorllm-framework](concetti/mymentorllm-framework.md), [over-deference-in-llm-supervision](over-deference-in-llm-supervision.md), [deliberate-practice-in-psicoterapia-ia](concetti/deliberate-practice-in-psicoterapia-ia.md), [supervisione-clinica-ai](supervisione-clinica-ai.md), [simulazione-pazienti-ai](simulazione-pazienti-ai.md), [trainer-simulator](trainer-simulator.md), [ctrs-automated-evaluation](concetti/ctrs-automated-evaluation.md), [modello-centauro-clinico](concetti/concetti/concetti\modello-centauro-clinico.md), [large-language-models](large-language-models.md)
+- Vedi anche: [[2607-25667v1]], [[mymentorllm-framework]], [[over-deference-in-llm-supervision]], [[deliberate-practice-in-psicoterapia-ia]], [[supervisione-clinica-ai]], [[simulazione-pazienti-ai]], [[trainer-simulator]], [[ctrs-automated-evaluation]], [[modello-centauro-clinico]], [[large-language-models]]
 

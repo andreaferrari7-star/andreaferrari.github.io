@@ -1,5 +1,6 @@
 ---
 tags: [guida, genai, literature-review, ricerca-accademica]
+tipo_fonte: scientifica
 source_papers: ["JML_1001.pdf", "s44163-025-00495-3.pdf", "2605.24351v1.pdf", "Using_Large_Language_Models_in_Psychological_Resea.pdf"]
 ---
 
@@ -8,12 +9,12 @@ source_papers: ["JML_1001.pdf", "s44163-025-00495-3.pdf", "2605.24351v1.pdf", "U
 - **Utilità CBT / Applicativa:** Strutturazione algoritmica di dati, estrazione di evidenze e identificazione di gap tematici in processi di ricerca rigorosamente supervisionati dall'umano.
 
 ## Evidenze dalla Letteratura
-- L'integrazione di LLM richiede protocolli di verifica rigorosi (human-in-the-loop) per mitigare errori sistematici e bias (JML_1001.pdf; s44163-025-00495-3.pdf).
-- Rischi documentati includono la generazione di citazioni false e la comparsa di 'measurement phantoms' nei risultati sintetizzati (2605.24351v1.pdf; Using_Large_Language_Models_in_Psychological_Resea.pdf).
+- L'integrazione di LLM richiede protocolli di verifica rigorosi (human-in-the-loop) per mitigare errori sistematici e bias (Tingelhoff et al., 2024; Mabirizi et al., 2025).
+- Rischi documentati includono la generazione di citazioni false e la comparsa di 'measurement phantoms' nei risultati sintetizzati (Camelo-Guerrero & Diaz-Rodriguez, 2026; Adeyemi, 2024).
 
 ## Riferimenti Bibliografici
 - Non specificato.
 
 ## Relazioni
-- Vedi anche: [hybrid-ai-research-workflows](hybrid-ai-research-workflows.md), [structured-literature-reviews](structured-literature-reviews.md), [llm-assisted-synthesis](llm-assisted-synthesis.md), [stepwise-cot](stepwise-cot.md), [ai-research-ethics](ai-research-ethics.md), [bibliometric-analysis](bibliometric-analysis.md), [prompting-in-psychology](prompting-in-psychology.md), [measurement-phantoms](measurement-phantoms.md), [hypothesis-generation](hypothesis-generation.md)
+- Vedi anche: [[hybrid-ai-research-workflows]], [[structured-literature-reviews]], [[llm-assisted-synthesis]], [[stepwise-cot]], [[ai-research-ethics]], [[bibliometric-analysis]], [[prompting-in-psychology]], [[measurement-phantoms]], [[hypothesis-generation]]
 

@@ -1,5 +1,6 @@
 ---
 tags: [Clinical Fidelity, AI, Psychotherapy, NLP, Implementation Science]
+tipo_fonte: scientifica
 source_papers: []
 ---
 
@@ -15,5 +16,5 @@ source_papers: []
 - Adamkovic, M. (2025). Non specificato. *Non specificato*, 0(0), 0-0. https://doi.org/Non specificato
 
 ## Relazioni
-- Vedi anche: [ai-assisted-psychotherapy](ai-assisted-psychotherapy.md), [large-language-models](large-language-models.md), [ai-research-ethics](ai-research-ethics.md), [prompting-in-psychology](prompting-in-psychology.md)
+- Vedi anche: [[ai-assisted-psychotherapy]], [[large-language-models]], [[ai-research-ethics]], [[prompting-in-psychology]]
 

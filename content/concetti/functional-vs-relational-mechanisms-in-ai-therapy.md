@@ -1,5 +1,6 @@
 ---
 tags: [mechanisms-of-change, digital-therapeutic-alliance, functional-mechanisms, relational-depth, cognitive-restructuring, behavioral-activation, therapeutic-exposure, conversational-agents]
+tipo_fonte: scientifica
 source_papers: ["healthcare-14-02334.pdf"]
 ---
 
@@ -27,7 +28,4 @@ La letteratura (Stojanovic et al., 2026; Moshe et al., 2021) indica che:
 - Provoost, S., Lau, H. M., Ruwaard, J., & Riper, H. (2017). Embodied conversational agents in clinical psychology: A scoping review. *Journal of Medical Internet Research*, 19(5), e151.
 
 ## Relazioni
-- Vedi anche: [healthcare-14-02334](../sintesi/sintesi/sintesi\healthcare-14-02334.md), [conceptual-architecture-of-ai-guided-cbt](concetti/concetti\conceptual-architecture-of-ai-guided-cbt.md), [digital-therapeutic-alliance](../digital-therapeutic-alliance.md), [simulated-empathy-vs-authentic-presence](concetti/concetti\simulated-empathy-vs-authentic-presence.md), [artificial-intimacy](../artificial-intimacy.md), [cbt-dialogue-systems-and-tools](concetti/concetti\cbt-dialogue-systems-and-tools.md), [power-safety-paradox](power-safety-paradox.md), [sycophantic-mirroring](concetti/concetti\sycophantic-mirroring.md), [ai-enhanced-cbt](concetti/concetti\ai-enhanced-cbt.md)
-
-## Riferimenti Bibliografici
-- [Da integrare]
+- Vedi anche: [[healthcare-14-02334]], [[conceptual-architecture-of-ai-guided-cbt]], [[digital-therapeutic-alliance]], [[simulated-empathy-vs-authentic-presence]], [[artificial-intimacy]], [[cbt-dialogue-systems-and-tools]], [[power-safety-paradox]], [[sycophantic-mirroring]], [[ai-enhanced-cbt]]

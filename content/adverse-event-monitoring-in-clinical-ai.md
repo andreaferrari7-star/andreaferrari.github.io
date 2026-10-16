@@ -1,5 +1,6 @@
 ---
 tags: [adverse-events, clinical-safety, risk-monitoring, digital-mental-health, iatrogenesis, reporting-guidelines, samd, fda-guidelines, pharmacovigilance-ai, quality-assurance]
+tipo_fonte: scientifica
 source_papers: ["Safety Mechanisms and Risk Mitigation in Generative AI Mental Health Chatbots - A Scoping Review.pdf", "Generative AI Mental Health Chatbot Interventions - A Scoping Review of Safety and User Experience.pdf"]
 ---
 
@@ -138,14 +139,11 @@ Per colmare il divario evidenziato da Olisaeloka et al. (2026), i futuri trial c
 - Ng et al. (2023), citato in Olisaeloka et al. (2026).
 
 ## Relazioni
-- [Safety Mechanisms and Risk Mitigation in Generative AI Mental Health Chatbots (Olisaeloka et al., 2026)](concetti/safety-mechanisms-ai-chatbots.md)
-- [Sociotechnical Safety Framework in Clinical AI](concetti/sociotechnical-safety-in-clinical-ai.md)
-- [Layered Safeguards in Clinical AI](concetti/concetti/concetti\layered-safeguards-in-clinical-ai.md)
-- [Generative AI Mental Health Chatbot Interventions (Olisaeloka et al., 2026)](concetti/generative-ai-mental-health-chatbot-interventions.md)
-- [Validation Gap nell'IA per la Salute Mentale](validation-gap-in-mental-health-llms.md)
-- [Software as a Medical Device (SaMD) in Salute Mentale](software-as-a-medical-device-salute-mentale.md)
-- [Linee Guida di Reporting per l'IA Generativa (CHART & ELEVATE)](concetti/linee-guida-reporting-ai-generativa-chart-elevate.md)
-- [Protocolli di Intervento per Crisi Acute nell'IA Psicoterapeutica](concetti/concetti/acute-crisis-action-plans-ai.md)
-
-## Riferimenti Bibliografici
-- [Da integrare]
+- [[safety-mechanisms-ai-chatbots|Safety Mechanisms and Risk Mitigation in Generative AI Mental Health Chatbots (Olisaeloka et al., 2026)]]
+- [[sociotechnical-safety-in-clinical-ai|Sociotechnical Safety Framework in Clinical AI]]
+- [[layered-safeguards-in-clinical-ai]]
+- [[generative-ai-mental-health-chatbot-interventions|Generative AI Mental Health Chatbot Interventions (Olisaeloka et al., 2026)]]
+- [[validation-gap-in-mental-health-llms|Validation Gap nell'IA per la Salute Mentale]]
+- [[software-as-a-medical-device-salute-mentale|Software as a Medical Device (SaMD) in Salute Mentale]]
+- [[linee-guida-reporting-ai-generativa-chart-elevate|Linee Guida di Reporting per l'IA Generativa (CHART & ELEVATE)]]
+- [[acute-crisis-action-plans-ai|Protocolli di Intervento per Crisi Acute nell'IA Psicoterapeutica]]

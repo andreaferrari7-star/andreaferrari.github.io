@@ -1,11 +1,13 @@
 ---
 tags: []
+tipo_fonte: [scientifica, interna]
+source_papers: ["AI in Psicoterapia 2023-2026.docx"]
 ---
 
 # Artificial Intelligence Replacement Dysfunction (AIRD)
 
 **Summary**: Sindrome occupazionale e psicologica emergente (Signorini & Paganin, 2026) che colpisce i professionisti della salute mentale, caratterizzata da distress acuto, insonnia, ansia anticipatoria e crisi dell'identità professionale generate dalla sensazione di imminente obsolescenza delle competenze cliniche di fronte alle capacità generative degli LLM.
-**Sources**: Signorini & Paganin (2026, *Frontiers in Psychology*, DOI: 10.3389/fpsyg.2026.1690291); `AI in Psicoterapia 2023-2026.docx`.
+**Fonti**: Signorini & Paganin (2026, *Frontiers in Psychology*, DOI: 10.3389/fpsyg.2026.1690291); [[ai-in-psicoterapia-2023-2026|AI in Psicoterapia 2023-2026 (rassegna interna)]].
 **Last updated**: 2026-08-27
 ---
 
@@ -31,9 +33,9 @@ flowchart TD
     end
 
     subgraph CorrelatiPatologici ["Quadri Associati"]
-        C1[Sindrome dell'Impostore IA-Specifica](sindrome-impostore-ia-specifica.md)"]
-        C2[Diagnostic Deskilling](cognitive-offloading-e-diagnostic-deskilling.md)"]
-        C3[Tecnostress & Burnout](tecnostress-e-paradosso-sovradocumentazione.md)"]
+        C1["Sindrome dell'Impostore IA-Specifica"]
+        C2["Diagnostic Deskilling"]
+        C3["Tecnostress & Burnout"]
     end
 
     Trigger --> SintomatologiaAIRD
@@ -47,7 +49,7 @@ flowchart TD
 1. **Crisi di Sovranità Epistemologica**:
    - Il clinico osserva che un modello linguistico può generare sintesi bibliografiche, ipotesi diagnostiche DSM-5 e formulazioni in frazioni di secondo, sperimentando un senso di "svalutazione della fatica formativa decennale".
 2. **Minaccia Economica ed Esistenziale**:
-   - Pressione percepita dovuta all'adozione da parte del mercato e delle compagnie assicurative di assistenti virtuali low-cost o gratuiti (come evidenziato dalla [Survey APA 2026](ai-in-psicoterapia-2023-2026.md), in cui il 77% dei pazienti usa già LLM).
+   - Pressione percepita dovuta all'adozione da parte del mercato e delle compagnie assicurative di assistenti virtuali low-cost o gratuiti (come evidenziato dalla [[ai-in-psicoterapia-2023-2026|Survey APA 2026]], in cui il 77% dei pazienti usa già LLM).
 3. **Senso di Inadeguatezza Tecnologica**:
    - Difficoltà a tenere il passo con l'evoluzione esponenziale degli strumenti, sentendosi costretti ad acquisire forzatamente competenze ingegneristiche di prompting.
 
@@ -55,19 +57,19 @@ flowchart TD
 
 ## Interventi di Mitigazione e Resilienza Professionale
 
-- **Rifocalizzazione sulle [Specializzazioni IA-Resistenti](specializzazioni-ia-resistenti.md)**: Spostare l'investimento professionale su contesti ad alta intensità corporea e relazionale (terapia familiare, di coppia, infanzia, trauma complesso incarnato).
+- **Rifocalizzazione sulle [[specializzazioni-ia-resistenti]]**: Spostare l'investimento professionale su contesti ad alta intensità corporea e relazionale (terapia familiare, di coppia, infanzia, trauma complesso incarnato).
 - **Comprensione dei Limiti Algoritmici**: Riconoscere che l'IA non possiede né *embodiment* (consapevolezza somatica) né *agency morale*, e che la relazione umana curativa si fonda sulla risonanza emotiva autentica e sulla rottura/riparazione dell'alleanza.
-- **Protocolli Protetti di Autosupervisione**: Integrare framework strutturati come il [SADAR](sadar-framework.md), trasformando l'IA da minaccia concorrenziale a strumento di provocazione riflessiva governato dal clinico.
+- **Protocolli Protetti di Autosupervisione**: Integrare framework strutturati come il [[sadar-framework|SADAR]], trasformando l'IA da minaccia concorrenziale a strumento di provocazione riflessiva governato dal clinico.
 
 ---
 
-## Pagine Correlate
-- [sindrome-impostore-ia-specifica](sindrome-impostore-ia-specifica.md)
-- [specializzazioni-ia-resistenti](specializzazioni-ia-resistenti.md)
-- [sadar-framework](sadar-framework.md)
-- [tecnostress-e-paradosso-sovradocumentazione](tecnostress-e-paradosso-sovradocumentazione.md)
-- [cognitive-offloading-e-diagnostic-deskilling](cognitive-offloading-e-diagnostic-deskilling.md)
-- [ai-in-psicoterapia-2023-2026](../sintesi/ai-in-psicoterapia-2023-2026.md)
+## Relazioni
+- [[sindrome-impostore-ia-specifica]]
+- [[specializzazioni-ia-resistenti]]
+- [[sadar-framework]]
+- [[tecnostress-e-paradosso-sovradocumentazione]]
+- [[cognitive-offloading-e-diagnostic-deskilling]]
+- [[ai-in-psicoterapia-2023-2026]]
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Signorini, S., & Paganin, W. (2026). Artificial intelligence as a digital analytic third: The SADAR framework for reflective supervision in psychotherapy. *Frontiers in Psychology*, *17*, 1690291. https://doi.org/10.3389/fpsyg.2026.1690291

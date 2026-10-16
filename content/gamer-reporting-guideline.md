@@ -8,6 +8,7 @@ tags:
   - prompt-engineering-reporting
   - evidence-based-medicine
   - research-transparency
+tipo_fonte: scientifica
 source_papers:
   - GAMER2025.pdf
 ---
@@ -97,14 +98,14 @@ mindmap
 
 ## Relazioni
 
-- [gamer2025-1](gamer2025-1.md)
-- [gai-research-integrity-and-verification](gai-research-integrity-and-verification.md)
-- [chart-reporting-guideline](chart-reporting-guideline.md)
-- [elevate-genai-framework](elevate-genai-framework.md)
-- [ai-research-ethics](ai-research-ethics.md)
-- [generative-ai-in-research](generative-ai-in-research.md)
-- [prompting-in-psychology](prompting-in-psychology.md)
-- [large-language-models](large-language-models.md)
-- [gdpr-governance-mental-health-ai](concetti/concetti/concetti\gdpr-governance-mental-health-ai.md)
-- [human-in-the-reasoning](human-in-the-reasoning.md)
+- [[gamer2025-1]]
+- [[gai-research-integrity-and-verification]]
+- [[chart-reporting-guideline]]
+- [[elevate-genai-framework]]
+- [[ai-research-ethics]]
+- [[generative-ai-in-research]]
+- [[prompting-in-psychology]]
+- [[large-language-models]]
+- [[gdpr-governance-mental-health-ai]]
+- [[human-in-the-reasoning]]
 

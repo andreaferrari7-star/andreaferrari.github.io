@@ -1,5 +1,6 @@
 ---
 tags: [ai-agent-security, llm-security, cybersecurity, sandboxing, session-management, model-pollution, privacy-leak, prompt-injection, fpets, fhe, formal-verification, state-monad, cia-triad, tool-use]
+tipo_fonte: scientifica
 source_papers: ["Security_of_AI_Agents.pdf"]
 ---
 
@@ -125,7 +126,7 @@ Gli autori introducono due protocolli crittografici per permettere agli agenti d
 ---
 
 **Riferimenti Bibliografici:**
-- He, Y., Wang, E., Rong, Y., Cheng, Z., & Chen, H. (2024). Security of AI Agents. *arXiv preprint arXiv:2406.xxxxx* [cs.CR].
+- He, Y., Wang, E., Rong, Y., Cheng, Z., & Chen, H. (2024). Security of AI Agents. *arXiv preprint*.
 - Acar, A., Aksu, H., Uluagac, A. S., & Conti, M. (2018). A survey on homomorphic encryption schemes: Theory and implementation. *ACM Computing Surveys (CSUR)*, 51(4), 1–35.
 - Bell, D. E., & LaPadula, L. J. (1989). *Secure computer systems: Mathematical foundations*. National Technical Information Service.
 - Carlini, N., Tramer, F., Wallace, E., Jagielski, M., Herbert-Voss, A., Lee, K., ... & Raffel, C. (2021). Extracting training data from large language models. *USENIX Security Symposium*.
@@ -141,7 +142,4 @@ Gli autori introducono due protocolli crittografici per permettere agli agenti d
 ---
 
 ## Relazioni
-- Vedi anche: [sandbox-isolation-and-access-control-in-ai-agents](sandbox-isolation-and-access-control-in-ai-agents.md), [privacy-preserving-computation-in-ai-agents](privacy-preserving-computation-in-ai-agents.md), [power-safety-paradox](power-safety-paradox.md), [layered-safeguards-in-clinical-ai](concetti/concetti/concetti\layered-safeguards-in-clinical-ai.md), [configurazione-sicurezza-piattaforme-ia-clinica](configurazione-sicurezza-piattaforme-ia-clinica.md), [rlhf-safety-therapeutic-conflict](rlhf-safety-therapeutic-conflict.md), [gdpr-governance-mental-health-ai](concetti/concetti/concetti\gdpr-governance-mental-health-ai.md), [mental-privacy-in-clinical-ai](mental-privacy-in-clinical-ai.md), [three-layer-governance-framework](concetti/concetti/concetti\three-layer-governance-framework.md), [automated-clinical-ai-red-teaming](automated-clinical-ai-red-teaming.md), [human-in-the-reasoning](human-in-the-reasoning.md)
-
-## Riferimenti Bibliografici
-- [Da integrare]
+- Vedi anche: [[sandbox-isolation-and-access-control-in-ai-agents]], [[privacy-preserving-computation-in-ai-agents]], [[power-safety-paradox]], [[layered-safeguards-in-clinical-ai]], [[configurazione-sicurezza-piattaforme-ia-clinica]], [[rlhf-safety-therapeutic-conflict]], [[gdpr-governance-mental-health-ai]], [[mental-privacy-in-clinical-ai]], [[three-layer-governance-framework]], [[automated-clinical-ai-red-teaming]], [[human-in-the-reasoning]]

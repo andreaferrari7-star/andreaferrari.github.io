@@ -1,5 +1,6 @@
 ---
 tags: [affective-resonance, emotional-dynamics, emoatlas, plutchik-emotions, emotional-flowers, cognitive-network-science, sintonizzazione-emotiva, hope-dataset]
+tipo_fonte: scientifica
 source_papers: ["2607.25667v1.pdf"]
 title: "Risonanza Affettiva e Dinamiche Emotive nella Simulazione Clinica"
 ---
@@ -7,13 +8,13 @@ title: "Risonanza Affettiva e Dinamiche Emotive nella Simulazione Clinica"
 # Risonanza Affettiva e Dinamiche Emotive nella Simulazione Clinica (Affective Resonance in AI Psychotherapy)
 
 **Summary**: Modellizzazione computazionale e quantificazione delle dinamiche emozionali tra paziente simulato e terapeuta mediante la scienza delle reti cognitive e lexicons psicologici (EmoAtlas, Plutchik). Descrive come i modelli generativi esprimano profili emotivi disturbo-congruenti e come il terapeuta attui un rispecchiamento attenuato e sintonizzato (*affective attunement*), replicando i pattern del counseling umano.
-**Sources**: `2607.25667v1.pdf` (*arXiv:2607.25667v1*, 2026), Semeraro et al. (2025), Plutchik (1980), Malhotra et al. (2022).
+**Fonti**: Rizzi et al. (2026), Semeraro et al. (2025), Plutchik (1980), Malhotra et al. (2022).
 **Last updated**: 2026-08-27
 ---
 
 ## Il Problema della Validità Emotiva nella Simulazione Clinica
 
-Perché una simulazione di colloquio clinico mediata da [large-language-models](../large-language-models.md) (LLM) sia pedagogicamente utile, la plausibilità conversazionale non è sufficiente. Un paziente virtuale non deve limitarsi a recitare parole chiave sintomatologiche (es. ripetere "tristezza" o "paura"), ma deve esibire **firme emotive psicologicamente coerenti e disturbo-congruenti** che si sviluppano lungo l'interazione (Rizzi et al., 2026).
+Perché una simulazione di colloquio clinico mediata da [[large-language-models]] (LLM) sia pedagogicamente utile, la plausibilità conversazionale non è sufficiente. Un paziente virtuale non deve limitarsi a recitare parole chiave sintomatologiche (es. ripetere "tristezza" o "paura"), ma deve esibire **firme emotive psicologicamente coerenti e disturbo-congruenti** che si sviluppano lungo l'interazione (Rizzi et al., 2026).
 
 Al contempo, il terapeuta non può rimanere emotivamente indifferente: la relazione terapeutica umana si fonda sull'**attunement affettivo** (*sintonizzazione*), in cui il clinico percepisce lo stato emotivo del paziente, lo accoglie e lo rispecchia in una forma **attenuata, calda e regolata**, fornendo una base sicura di fiducia (*trust*) e prospettiva costruttiva (*anticipation*).
 
@@ -87,12 +88,16 @@ graph LR
 ---
 
 ## Relazioni
-- [mymentorllm-framework](mymentorllm-framework.md): L'ambiente di simulazione in cui operano le dinamiche affettive.
-- [deliberate-practice-in-psicoterapia-ia](deliberate-practice-in-psicoterapia-ia.md): Addestramento alla regolazione e sintonizzazione emotiva.
-- [native-speech-vs-text-in-clinical-simulation](native-speech-vs-text-in-clinical-simulation.md): Come la voce nativa trasmette prosodia e sfumature affettive.
-- [simulated-empathy-vs-authentic-presence](concetti/concetti\simulated-empathy-vs-authentic-presence.md): Distinzione tra risonanza computazionale e autentica presenza clinica.
-- [calibrated-mismatches](concetti/concetti\calibrated-mismatches.md): Il bilanciamento tra sintonizzazione emotiva e perturbazione strategica.
-- [rizzi-et-al-2026](../sintesi/rizzi-et-al-2026.md): Studio di riferimento sulle firme emozionali simulate.
+- [[mymentorllm-framework]]: L'ambiente di simulazione in cui operano le dinamiche affettive.
+- [[deliberate-practice-in-psicoterapia-ia]]: Addestramento alla regolazione e sintonizzazione emotiva.
+- [[native-speech-vs-text-in-clinical-simulation]]: Come la voce nativa trasmette prosodia e sfumature affettive.
+- [[simulated-empathy-vs-authentic-presence]]: Distinzione tra risonanza computazionale e autentica presenza clinica.
+- [[calibrated-mismatches]]: Il bilanciamento tra sintonizzazione emotiva e perturbazione strategica.
+- [[rizzi-et-al-2026]]: Studio di riferimento sulle firme emozionali simulate.
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Malhotra, G., Waheed, A., Srivastava, A., Akhtar, M. S., & Chakraborty, T. (2022). Speaker and time-aware joint contextual learning for dialogue-act classification in counselling conversations. In *Proceedings of the Fifteenth ACM International Conference on Web Search and Data Mining (WSDM '22)* (pp. 735–745). Association for Computing Machinery.
+- Mohammad, S. M., & Turney, P. D. (2013). Crowdsourcing a word–emotion association lexicon. *Computational intelligence*, *29*, 436–465.
+- Plutchik, R. (1980). A general psychoevolutionary theory of emotion. In R. Plutchik & H. Kellerman (Eds.), *Theories of emotion* (pp. 3–33). Elsevier.
+- Rizzi, R., Grecucci, A., & Stella, M. (2026). MyMentorLLM: A psychotherapy GenAI environment with multimodal voice/text patients, trainees and experts for deliberate practice. *arXiv preprint arXiv:2607.25667v1 [cs.CL]*, 1–27.
+- Semeraro, A., et al. (2025). Emoatlas: An emotional network analyzer of texts that merges psychological lexicons, artificial intelligence, and network science. *Behavior Research Methods*, *57*, 77.

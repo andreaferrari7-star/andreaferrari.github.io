@@ -1,18 +1,18 @@
 ---
 tags: [clinical-decision-support, generative-ai, psychotherapy, automation-bias, case-conceptualization, human-in-the-loop, readi-framework, neuro-symbolic-cdss, mind-safe, apa-guidelines]
+tipo_fonte: [scientifica, interna]
 source_papers: ["AI Generativa in Psicoterapia.docx"]
 ---
 
 # L'Intelligenza Artificiale Generativa come Clinical Decision Support System in Psicoterapia: Un'Analisi Integrata su Ragionamento Clinico, Bias Cognitivi e Protocolli Human-in-the-Loop
 
-**Summary**: Sintesi integrata e approfondita sull'impiego dell'Intelligenza Artificiale Generativa (GenAI) e dei Large Language Models (LLM) come Clinical Decision Support System (CDSS) in psicoterapia e psichiatria. Il documento esamina il passaggio dai vecchi modelli discriminativi all'elaborazione basata su architettura Transformer, analizzando l'efficacia diagnostica e i limiti nella concettualizzazione del caso (evidenze dello studio LIBET di Buattini et al., 2026). Viene esplorato in dettaglio il rischio sistemico di [automation-bias-clinical-reasoning](../concetti/automation-bias-clinical-reasoning.md) e il "paradosso dell'esperienza" isolato nel trial randomizzato di Qazi et al. (2025), in cui clinici esperti subiscono un grave degrado del ragionamento per cognitive offloading. Vengono infine delineati i protocolli operativi di mitigazione: l'approccio [human-in-the-reasoning](../human-in-the-reasoning.md), le architetture [hybrid-neuro-symbolic-cdss](../concetti/hybrid-neuro-symbolic-cdss.md) con Constraint Logic Programming (Kim, 2025), il framework di sicurezza [mind-safe-framework](../concetti/mind-safe-framework.md), la griglia di validazione pre-deployment [readi-framework](../concetti/readi-framework.md) (Stade et al., 2025), le direttive istituzionali APA (2024-2026) e l'adozione dell'IA come [antagonista-cognitivo-sparring-partner](../concetti/antagonista-cognitivo-sparring-partner.md).
-**Sources**: `AI Generativa in Psicoterapia.docx`
+**Summary**: Sintesi integrata e approfondita sull'impiego dell'Intelligenza Artificiale Generativa (GenAI) e dei Large Language Models (LLM) come Clinical Decision Support System (CDSS) in psicoterapia e psichiatria. Il documento esamina il passaggio dai vecchi modelli discriminativi all'elaborazione basata su architettura Transformer, analizzando l'efficacia diagnostica e i limiti nella concettualizzazione del caso (evidenze dello studio LIBET di Buattini et al., 2026). Viene esplorato in dettaglio il rischio sistemico di [[automation-bias-clinical-reasoning]] e il "paradosso dell'esperienza" isolato nel trial randomizzato di Qazi et al. (2025), in cui clinici esperti subiscono un grave degrado del ragionamento per cognitive offloading. Vengono infine delineati i protocolli operativi di mitigazione: l'approccio [[human-in-the-reasoning]], le architetture [[hybrid-neuro-symbolic-cdss]] con Constraint Logic Programming (Kim & Wang, 2025), il framework di sicurezza [[mind-safe-framework]], la griglia di validazione pre-deployment [[readi-framework]] (Stade et al., 2025), le direttive istituzionali APA (2024-2026) e l'adozione dell'IA come [[antagonista-cognitivo-sparring-partner]].
 **Last updated**: 2026-08-27
 ---
 
 ## 1. Epistemologia della Trasformazione Tecnologica: Dai Modelli Discriminativi ai CDSS Generativi
 
-L'integrazione dell'Intelligenza Artificiale Generativa (GenAI) e dei Large Language Models ([large-language-models](../large-language-models.md)) nei percorsi di cura della salute mentale segna un profondo cambiamento epistemologico:
+L'integrazione dell'Intelligenza Artificiale Generativa (GenAI) e dei Large Language Models ([[large-language-models]]) nei percorsi di cura della salute mentale segna un profondo cambiamento epistemologico:
 - **Modelli Tradizionali Discriminativi**: Sistemi di classificazione binaria o categoriale basati su rigida ingegnerizzazione manuale di feature (*feature engineering*), in grado di fornire unicamente stime probabilistiche isolate (es. percentuale di probabilità di un episodio depressivo maggiore), strutturalmente incapaci di comprendere la narrazione, la complessità relazionale e le sfumature idiosincratiche del paziente.
 - **Modelli Generativi basati su Transformer**: L'architettura Transformer sfrutta meccanismi di auto-attenzione (*self-attention*) che calcolano le interazioni a coppie tra i token linguistici, pesando l'importanza di ciascuna parola o costrutto in relazione all'intero contesto dialogico ed esperienziale.
 - **Nuovo Ruolo del CDSS**: Il CDSS non si limita ad estrarre o categorizzare dati, ma opera come un vero e proprio "specchio cognitivo" e "alter-ego analitico", sintetizzando cartelle cliniche, supportando il ragionamento differenziale e stimolando la formulazione di ipotesi cliniche.
@@ -59,7 +59,7 @@ end
 - **Prestazioni su Scenari Lineari**: Su vignette cliniche controllate e quadri nosografici standardizzati (ansia, depressione maggiore, disturbo ossessivo-compulsivo, spettro schizofrenico), modelli come ChatGPT e Claude mostrano elevata sensibilità, con punteggi F1 compresi tra 0.5 e 0.9, riducendo il rischio di chiusura prematura del giudizio clinico (*premature closure*).
 - **Decadimento su Comorbilità e Casi Atipici**: Di fronte a comorbilità stratificate o quadri neuro-atipici (es. insonnia cronica in spettro autistico/ADHD), i modelli generano deduzioni fuorvianti o raccomandazioni terapeutiche ambigue.
 - **Fragilità Critiche nel Rischio e nella Prognosi**:
-  - *Sottostima del Rischio Suicidario*: Tendenza sistematica a non cogliere i micro-segnali narrativi di crisi acuta e ideazione suicidaria ([rischio-suicidario-ai-limits](../concetti/rischio-suicidario-ai-limits.md)).
+  - *Sottostima del Rischio Suicidario*: Tendenza sistematica a non cogliere i micro-segnali narrativi di crisi acuta e ideazione suicidaria ([[rischio-suicidario-ai-limits]]).
   - *Pessimismo Prognostico*: Propensione a formulare proiezioni eccessivamente infauste che, se non filtrate, comprometterebbero l'alleanza terapeutica e la motivazione del paziente.
 - **Tecniche di Ottimizzazione**:
   - *Chain-of-Thought (CoT)*: Forzare l'algoritmo a esplicitare il ragionamento diagnostico passo dopo passo, argomentando evidenze a favore e contro ciascuna ipotesi, stimolando domande esplorative anziché verdetti aprioristici.
@@ -84,7 +84,7 @@ Mentre la diagnosi categoriale risponde a *"cosa ha il paziente?"*, la concettua
 
 ## 3. Impatto sui Bias Cognitivi del Clinico: Automation Bias e Paradosso dell'Esperienza
 
-I clinici sono naturalmente soggetti a fallacie cognitive umane (bias di ancoraggio, bias di conferma, *base-rate neglect*). Sebbene la GenAI sia stata introdotta per controbilanciare tali euristiche, la sua interazione con il clinico innesca una nuova e insidiosa minaccia: l'**[automation-bias-clinical-reasoning](../concetti/automation-bias-clinical-reasoning.md)**.
+I clinici sono naturalmente soggetti a fallacie cognitive umane (bias di ancoraggio, bias di conferma, *base-rate neglect*). Sebbene la GenAI sia stata introdotta per controbilanciare tali euristiche, la sua interazione con il clinico innesca una nuova e insidiosa minaccia: l'**[[automation-bias-clinical-reasoning]]**.
 
 ```mermaid
 flowchart TD
@@ -127,7 +127,7 @@ Per impedire la delega acritica e tutelare l'autonomia clinica, la ricerca ha fo
 ```mermaid
 flowchart TD
     subgraph Protocolli_Human_in_the_Loop ["Ecosistema di Governance Human-in-the-Loop"]
-        P1["Architettura Neuro-Simbolica (Kim, 2025)<br>LLM come Traduttore + Motore Logico CLP"]
+        P1["Architettura Neuro-Simbolica (Kim & Wang, 2025)<br>LLM come Traduttore + Motore Logico CLP"]
         P2["Framework MIND-SAFE<br>RAG Vincolato + Proactive Risk Detection"]
         P3["Framework READI (Stade et al., 2025)<br>Valutazione 6 Dimensioni Pre-Deployment"]
         P4["Linee Guida Istituzionali APA (2024-2026)<br>Divieto Standalone & Responsabilità Inalienabile"]
@@ -135,8 +135,8 @@ flowchart TD
     end
 ```
 
-### 4.1 Architetture Ibride Neuro-Simboliche e Constraint Logic Programming (Kim, 2025)
-Per azzerare il rischio di allucinazioni probabilistiche nei CDSS, **Kim (2025)** propone la separazione tra generazione linguistica e motore decisionale:
+### 4.1 Architetture Ibride Neuro-Simboliche e Constraint Logic Programming (Kim & Wang, 2025)
+Per azzerare il rischio di allucinazioni probabilistiche nei CDSS, **Kim & Wang (2025)** propongono la separazione tra generazione linguistica e motore decisionale:
 1. L'LLM funge esclusivamente da *traduttore semantico*, convertendo i criteri diagnostici dei manuali ufficiali (es. DSM-5) in regole formali per un motore di **Constraint Logic Programming (CLP)**.
 2. Prima di qualsiasi esecuzione sui dati clinici, il codice logico generato viene esposto in chiaro affinché il clinico possa ispezionarlo, validarlo o correggerlo (*interpretabilità pre-esecuzione*).
 3. L'inferenza diagnostica finale è demandata al motore deterministico CLP, garantendo spiegabilità assoluta ed eliminando la black-box statistica.
@@ -203,7 +203,7 @@ Per contrastare il disimpegno cognitivo e il deskilling:
 | **Qazi, Ali, Khawaja, et al.** | 2025 | Studio Clinico Randomizzato (RCT) singolo cieco | Dimostra l'automation bias nei medici formati all'IA: l'esposizione a diagnosi errate riduce l'accuratezza dall'84.9% al 73.3% ($p < .0001$). Isola il *paradosso dell'esperienza* (-16.6 pp nei senior vs -9.1 pp nei junior) e asimmetrie di genere (-25.8 pp uomini vs -2.1 pp donne). |
 | **Buattini, Barjami, Paponetti, et al.** | 2026 | Studio Qualitativo (Analisi Tematica Riflessiva) | Esamina ChatGPT-4 su trascrizioni di colloqui reali con modello LIBET. Evidenzia eccellente riordino strutturale e lessico ipotetico, ma gravi *barriere di astrazione* (confusione coping vs temi di vita) e allucinazioni interpretative. |
 | **Stade, Eichstaedt, Kim, & Stirman** | 2025 | Narrative Review & Framework Metodologico | Introduce il framework **READI** (6 dimensioni: Safety, Privacy, Equity, Effectiveness, Engagement, Implementation) per vincolare il deployment clinico dell'IA in salute mentale a rigorosi protocolli human-in-the-loop. |
-| **Kim, B. H.** | 2025 | Studio Architetturale in Informatica Medica | Propone un CDSS ibrido neuro-simbolico: l'LLM traduce i criteri diagnostici testuali in regole logiche per Constraint Logic Programming (CLP), consentendo ispezione e validazione umana pre-esecuzione. |
+| **Kim, B. H., & Wang, C.** | 2025 | Studio Architetturale in Informatica Medica | Propone un CDSS ibrido neuro-simbolico: l'LLM traduce i criteri diagnostici testuali in regole logiche per Constraint Logic Programming (CLP), consentendo ispezione e validazione umana pre-esecuzione. |
 | **American Psychological Association (APA)** | 2025 | Health Advisory & Linee Guida Deontologiche | Vieta l'uso di chatbot autonomi come sostituti della psicoterapia, allerta sui rischi di sycophancy e *folie à deux*, e impone il rispetto rigoroso della de-identificazione e della responsabilità clinica non delegabile. |
 | **Zhong, Luo, & Zhang** | 2026 | Scoping Review Sistematica | Documenta buone performance degli LLM (F1 > 0.8) su diagnosi elementari ma marcato declino su complessità psicopatologiche, prescrivendo Chain-of-Thought e Few-Shot Prompting. |
 | **Rabbani et al.** | 2025 | Literature Review su Sanità Digitale | Analizza il potenziale di alleggerimento burocratico della GenAI, mettendo in guardia contro l'opacità delle black-box algoritmiche e l'insorgenza di bias sistemici. |
@@ -211,31 +211,28 @@ Per contrastare il disimpegno cognitivo e il deskilling:
 ---
 
 ## 6. Riferimenti Bibliografici
-
 - American Psychological Association. (2025). *APA Health Advisory on the Use of Generative AI Chatbots and Wellness Applications for Mental Health*. American Psychological Association.
-- Buattini, S., Barjami, M., Paponetti, E., et al. (2026). ChatGPT tries to understand the patient: What it really can - and can't - do in CBT case conceptualization. *Cyberpsychology: Journal of Psychosocial Research on Cyberspace*, 20, Article 40142.
-- Kim, B. H. (2025). Large Language Models for Interpretable Mental Health Diagnosis. *AAAI 2025 Workshop on Large Language Models and Generative AI for Health (GenAI4Health)*. arXiv:2501.07653.
-- Qazi, I. A., Ali, A., Khawaja, A. U., Akhtar, M. J., Sheikh, A. Z., & Alizai, M. H. (2025). Automation Bias in Large Language Model Assisted Diagnostic Reasoning Among AI-Trained Physicians. *medRxiv*. doi:10.1101/2025.08.23.25334280.
+- Buattini, S., Barjami, M., Paponetti, E., et al. (2026). ChatGPT tries to understand the patient: What it really can – and can't – do in CBT case conceptualization. *Cyberpsychology: Journal of Psychosocial Research on Cyberspace*, *20*, Article 40142. https://cyberpsychology.eu/article/view/40142
+- Kim, B. H., & Wang, C. (2025). Large language models for interpretable mental health diagnosis [Preprint]. AAAI 2025 Workshop on Large Language Models and Generative AI for Health (GenAI4Health). *arXiv*. https://doi.org/10.48550/arXiv.2501.07653
+- Qazi, I. A., Ali, A., Khawaja, A. U., Akhtar, M. J., Sheikh, A. Z., & Alizai, M. H. (2025). Automation bias in large language model assisted diagnostic reasoning among AI-trained physicians [Preprint]. *medRxiv*. https://doi.org/10.1101/2025.08.23.25334280
 - Rabbani, S., et al. (2025). Generative Artificial Intelligence in Healthcare: Applications, Implementation Challenges, and Future Directions. *BiomedInformatics*, 5(3).
-- Stade, E. C., Eichstaedt, J. C., Kim, J. P., & Stirman, S. W. (2025). Readiness Evaluation for Artificial Intelligence-Mental Health Deployment and Implementation (READI): A Review and Proposed Framework. *Technology, Mind, and Behavior*, 6(2).
+- Stade, E. C., Eichstaedt, J. C., Kim, J. P., & Stirman, S. W. (2025). Readiness evaluation for artificial intelligence-mental health deployment and implementation (READI): A review and proposed framework. *Technology, Mind, and Behavior*, *6*(2). https://doi.org/10.1037/tmb0000163
 - Zhong, W., Luo, J., & Zhang, H. (2026). Evaluating generative AI in mental health: systematic review of capabilities and limitations. *JMIR Mental Health*, 12(e70014).
+
 
 ---
 
-## Related Pages
-- [automation-bias-clinical-reasoning](../concetti/automation-bias-clinical-reasoning.md)
-- [readi-framework](../concetti/readi-framework.md)
-- [hybrid-neuro-symbolic-cdss](../concetti/hybrid-neuro-symbolic-cdss.md)
-- [mind-safe-framework](../concetti/mind-safe-framework.md)
-- [barriere-astrazione-concettualizzazione-caso](../concetti/barriere-astrazione-concettualizzazione-caso.md)
-- [antagonista-cognitivo-sparring-partner](../concetti/antagonista-cognitivo-sparring-partner.md)
-- [ai-clinical-decision-support](../concetti/ai-clinical-decision-support.md)
-- [human-in-the-reasoning](../human-in-the-reasoning.md)
-- [libet-prime](../concetti/concetti/concetti\libet-prime.md)
-- [rischio-suicidario-ai-limits](../concetti/rischio-suicidario-ai-limits.md)
-- [etica-privacy-bias-ia-clinica](../concetti/etica-privacy-bias-ia-clinica.md)
-- [sycophantic-mirroring](../concetti/concetti/concetti\sycophantic-mirroring.md)
-- [large-language-models](../large-language-models.md)
-
-## Riferimenti Bibliografici
-- [Da integrare]
+## Relazioni
+- [[automation-bias-clinical-reasoning]]
+- [[readi-framework]]
+- [[hybrid-neuro-symbolic-cdss]]
+- [[mind-safe-framework]]
+- [[barriere-astrazione-concettualizzazione-caso]]
+- [[antagonista-cognitivo-sparring-partner]]
+- [[ai-clinical-decision-support]]
+- [[human-in-the-reasoning]]
+- [[libet-prime]]
+- [[rischio-suicidario-ai-limits]]
+- [[etica-privacy-bias-ia-clinica]]
+- [[sycophantic-mirroring]]
+- [[large-language-models]]

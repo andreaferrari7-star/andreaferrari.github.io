@@ -1,5 +1,6 @@
 ---
 tags: [domain-shift, nlp-clinico, transformers, validita-ecologica, bias-rappresentazione]
+tipo_fonte: scientifica
 source_papers: ["10.1177_20552076261421688.pdf"]
 ---
 
@@ -17,7 +18,4 @@ source_papers: ["10.1177_20552076261421688.pdf"]
 - Rezaei, Z., Khorraminia, A., Shi, D., & Banad, Y. M. (2026). Network-based artificial intelligence in mental healthcare: A systematic review of chatbots, artificial intelligence/machine learning models and ethical considerations in global healthcare networks. *DIGITAL HEALTH*, 12, 1–30. https://doi.org/10.1177/20552076261421688
 
 ## Relazioni
-- Vedi anche: [10-1177-20552076261421688](10-1177-20552076261421688.md), [network-based-mental-healthcare](network-based-mental-healthcare.md), [audit-bias-llm-clinici](concetti/concetti/concetti\audit-bias-llm-clinici.md), [large-language-models](large-language-models.md), [dual-validity-framework](dual-validity-framework.md)
-
-## Riferimenti Bibliografici
-- [Da integrare]
+- Vedi anche: [[10-1177-20552076261421688]], [[network-based-mental-healthcare]], [[audit-bias-llm-clinici]], [[large-language-models]], [[dual-validity-framework]]

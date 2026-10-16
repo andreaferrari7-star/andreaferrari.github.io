@@ -1,5 +1,6 @@
 ---
 tags: [weird-bias, cultural-adaptability, global-mental-health, cross-cultural-ai, algorithmic-bias, explainable-ai, equity]
+tipo_fonte: scientifica
 source_papers: ["10.1177_20552076261421688.pdf"]
 title: "WEIRD Bias and Cultural Adaptability in Mental Health AI (Bias di Campionamento W.E.I.R.D. e Adattabilità Interculturale)"
 ---
@@ -66,11 +67,11 @@ graph TD
 
 ---
 
-## Pagine Correlate
-- [rezaei-et-al-2026](../sintesi/rezaei-et-al-2026.md)
-- [algorithmic-bias-and-digital-inequalities](algorithmic-bias-and-digital-inequalities.md)
-- [ieacp-canada-protocol-ethical-frameworks](ieacp-canada-protocol-ethical-frameworks.md)
-- [network-based-ai-mental-healthcare](network-based-ai-mental-healthcare.md)
-- [specialized-nlp-models-mental-health](specialized-nlp-models-mental-health.md)
-- [mental-health-chatbot-taxonomy](mental-health-chatbot-taxonomy.md)
+## Relazioni
+- [[rezaei-et-al-2026]]
+- [[algorithmic-bias-and-digital-inequalities]]
+- [[ieacp-canada-protocol-ethical-frameworks]]
+- [[network-based-ai-mental-healthcare]]
+- [[specialized-nlp-models-mental-health]]
+- [[mental-health-chatbot-taxonomy]]
 

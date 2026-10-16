@@ -1,5 +1,6 @@
 ---
 tags: [multi-party-interaction, multi-agent-systems, turn-taking, triadic-dialogue, couples-therapy, interactive-simulation, role-fidelity, state-tracking]
+tipo_fonte: scientifica
 source_papers: ["2601.10970v2.pdf"]
 ---
 
@@ -70,7 +71,4 @@ L'architettura per interazioni multipartitiche triadiche costituisce una base me
 - Luz de Araujo, P. H., Hedderich, M. A., Modarressi, A., Schuetze, H., & Roth, B. (2026). Persistent personas? Role-playing, instruction following, and safety in extended interactions. In *Proceedings of EACL 2026*, pp. 5329–5359.
 
 ## Relazioni
-- Vedi anche: [2601-10970v2](2601-10970v2.md), [demand-withdraw-multi-agent-dynamics](demand-withdraw-multi-agent-dynamics.md), [simulazione-pazienti-ai](simulazione-pazienti-ai.md), [clinical-ai-simulation](clinical-ai-simulation.md), [trainer-simulator](trainer-simulator.md), [clinical-fidelity-assessment](clinical-fidelity-assessment.md), [reverse-training-simulazione](reverse-training-simulazione.md), [modello-centauro-clinico](concetti/concetti/concetti\modello-centauro-clinico.md)
-
-## Riferimenti Bibliografici
-- [Da integrare]
+- Vedi anche: [[2601-10970v2]], [[demand-withdraw-multi-agent-dynamics]], [[simulazione-pazienti-ai]], [[clinical-ai-simulation]], [[trainer-simulator]], [[clinical-fidelity-assessment]], [[reverse-training-simulazione]], [[modello-centauro-clinico]]

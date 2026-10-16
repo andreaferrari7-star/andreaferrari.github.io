@@ -1,5 +1,6 @@
 ---
 tags: [ensemble-prompting, clinical-nlp, majority-voting, model-diversity, reliability, explainable-ai, hallucination-mitigation]
+tipo_fonte: scientifica
 source_papers: ["2512.05836v1.pdf"]
 title: "Ensemble Prompting in Clinical NLP (Prompting ad Ensemble nel NLP Clinico)"
 ---
@@ -74,10 +75,10 @@ Nel protocollo di Ong et al. (2025), la convergenza dell'ensemble avviene attrav
 
 ---
 
-## Pagine Correlate
-- [ong-et-al-2025](../sintesi/ong-et-al-2025.md)
-- [llm-case-conceptualization-pipeline](concetti/concetti\llm-case-conceptualization-pipeline.md)
-- [personalized-networks-in-psychotherapy](concetti/concetti\personalized-networks-in-psychotherapy.md)
-- [ai-clinical-decision-support](ai-clinical-decision-support.md)
-- [hybrid-ai-research-workflows](../hybrid-ai-research-workflows.md)
+## Relazioni
+- [[ong-et-al-2025]]
+- [[llm-case-conceptualization-pipeline]]
+- [[personalized-networks-in-psychotherapy]]
+- [[ai-clinical-decision-support]]
+- [[hybrid-ai-research-workflows]]
 

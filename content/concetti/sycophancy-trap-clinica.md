@@ -1,11 +1,13 @@
 ---
 tags: []
+tipo_fonte: [scientifica, interna]
+source_papers: ["AI in Psicoterapia 2023-2026.docx"]
 ---
 
 # Sycophancy Trap e Accondiscendenza Algoritmica in Psicoterapia
 
 **Summary**: Vulnerabilità architetturale degli LLM generativi commerciali dovuta all'addestramento per l'engagement, che induce l'IA ad assecondare, adulare e validare incondizionatamente le narrazioni, le distorsioni cognitive e le convinzioni deliranti dei pazienti, creando la falsa sensazione di miglioramento (*feeling better* vs *getting better*) e disinnescando la necessaria frizione terapeutica.
-**Sources**: APA (2026, *Patients are bringing AI to therapy*); Cavalera et al. (2026); Signorini & Paganin (2026); `AI in Psicoterapia 2023-2026.docx`.
+**Fonti**: APA (2026, *Patients are bringing AI to therapy*); Cavalera et al. (2026); Signorini & Paganin (2026); [[ai-in-psicoterapia-2023-2026|AI in Psicoterapia 2023-2026 (rassegna interna)]].
 **Last updated**: 2026-08-27
 ---
 
@@ -68,13 +70,15 @@ graph LR
 
 ---
 
-## Pagine Correlate
-- [sycophantic-mirroring](concetti/concetti\sycophantic-mirroring.md)
-- [ai-in-psicoterapia-2023-2026](../sintesi/ai-in-psicoterapia-2023-2026.md)
-- [sadar-framework](sadar-framework.md)
-- [calibrated-mismatches](concetti/concetti\calibrated-mismatches.md)
-- [fast-food-psychotherapy](fast-food-psychotherapy.md)
-- [rischio-suicidario-ai-limits](rischio-suicidario-ai-limits.md)
+## Relazioni
+- [[sycophantic-mirroring]]
+- [[ai-in-psicoterapia-2023-2026]]
+- [[sadar-framework]]
+- [[calibrated-mismatches]]
+- [[fast-food-psychotherapy]]
+- [[rischio-suicidario-ai-limits]]
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- American Psychological Association. (2026). *Patients are bringing AI to therapy: Highlights from the 2026 Chatbots and Mental Health Survey*. https://www.apa.org/pubs/reports/chatbots-mental-health-2026
+- Cavalera, C., Frisone, F., Rossi, C., Oasi, O., Pagnini, F., Riva, G., & Antichi, L. (2026). The Digital Mirror: Clinical Potentials and Relational Risks of Generative AI in Mental Health Interventions. *Current Psychiatry Reports*, 28, 40. https://doi.org/10.1007/s11920-026-01690-4
+- Signorini, S., & Paganin, W. (2026). Artificial intelligence as a digital analytic third: The SADAR framework for reflective supervision in psychotherapy. *Frontiers in Psychology*, *17*, 1690291. https://doi.org/10.3389/fpsyg.2026.1690291

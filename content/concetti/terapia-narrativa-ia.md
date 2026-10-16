@@ -1,11 +1,13 @@
 ---
 tags: []
+tipo_fonte: scientifica
+source_papers: ["2507.20241v2.pdf"]
 ---
 
 # Terapia Narrativa Computazionale (Narrative Therapy with AI)
 
 **Summary**: Formalizzazione e trasposizione dei principi clinici ed epistemologici della Terapia Narrativa (sviluppata da Michael White e David Epston) all'interno di architetture di intelligenza artificiale basate su Large Language Models. Il paradigma si focalizza sulla decostruzione delle narrazioni sature di problema (*problem-saturated narratives*), sull'esternalizzazione del disturbo, sulla co-autorialità (*re-authoring*) e sulla ri-tessitura della rete relazionale (*re-membering*).
-**Sources**: `2507.20241v2.pdf`
+**Fonti**: Feng et al. (2025), cfr. [[feng-et-al-2025]]
 **Last updated**: 2026-08-27
 ---
 
@@ -49,7 +51,7 @@ flowchart LR
 
 ## Principi Guida Tradotti in Vincoli Computazionali (Prompting & Policy)
 
-Per allineare un modello linguistico ([large-language-models](../large-language-models.md)) alla conduzione di colloqui di terapia narrativa, il sistema deve incorporare specifiche direttive etico-cliniche:
+Per allineare un modello linguistico ([[large-language-models]]) alla conduzione di colloqui di terapia narrativa, il sistema deve incorporare specifiche direttive etico-cliniche:
 
 ### 1. Atteggiamento "Decentered yet Influential"
 - Il terapeuta artificiale non si pone come un'autorità diagnostica o un dispensatore di soluzioni preconfenzionate (*decentered*). La competenza sulla vita del paziente risiede esclusivamente nel paziente stesso.
@@ -81,27 +83,31 @@ Per allineare un modello linguistico ([large-language-models](../large-language-
 | **Rapporto con il Problema** | Interiorizzato (*"Come puoi gestire la TUA ansia?"*). | Esternalizzato (*"Cosa cerca di farti credere l'Ansia quando si presenta?"*). |
 | **Progressione Intra-seduta** | Stazionaria: cicli ripetuti di sfogo e conforto (*Reassuring loop*). | Dinamica: progressione strutturata da *Trust Building* a *Re-membering*. |
 | **Obiettivo Clinico** | Riduzione immediata del distress sintomatico. | Trasformazione dell'identità narrativa ed emancipazione personale. |
-| **Monitoraggio Efficacia** | Punteggi di empatia o gradimento superficiale. | Rilevazione quantitativa di *Innovative Moments* ([innovative-moment-assessment](innovative-moment-assessment.md)). |
+| **Monitoraggio Efficacia** | Punteggi di empatia o gradimento superficiale. | Rilevazione quantitativa di *Innovative Moments* ([[innovative-moment-assessment]]). |
 
 ---
 
 ## Impatto e Sintesi di Dati di Addestramento (Dataset NTConv)
 
 L'adozione della terapia narrativa computazionale non solo migliora l'interazione diretta, ma consente di generare dataset sintetici ad altissima fedeltà clinica:
-- L'architettura [interactive-narrative-therapist](interactive-narrative-therapist.md) è stata impiegata per sintetizzare il dataset **NTConv** (in corrispondenza 1:1 con il dataset ESConv).
+- L'architettura [[interactive-narrative-therapist]] è stata impiegata per sintetizzare il dataset **NTConv** (in corrispondenza 1:1 con il dataset ESConv).
 - Modelli open-weight addestrati su dialoghi strutturati con principi di terapia narrativa dimostrano superiori capacità di ascolto, generazione di domande maieutiche e guida non invasiva nei compiti di supporto emotivo reale.
 
 ---
 
-## Related pages
-- [feng-et-al-2025](../sintesi/feng-et-al-2025.md)
-- [interactive-narrative-therapist](interactive-narrative-therapist.md)
-- [innovative-moment-assessment](innovative-moment-assessment.md)
-- [process-of-change](process-of-change.md)
-- [simulazione-pazienti-ai](simulazione-pazienti-ai.md)
-- [rag-in-psicoterapia](rag-in-psicoterapia.md)
-- [human-in-the-reasoning](human-in-the-reasoning.md)
-- [ai-assisted-psychotherapy](../ai-assisted-psychotherapy.md)
+## Relazioni
+- [[feng-et-al-2025]]
+- [[interactive-narrative-therapist]]
+- [[innovative-moment-assessment]]
+- [[process-of-change]]
+- [[simulazione-pazienti-ai]]
+- [[rag-in-psicoterapia]]
+- [[human-in-the-reasoning]]
+- [[ai-assisted-psychotherapy]]
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Bruner, J. (1985). Chapter vi: Narrative and paradigmatic modes of thought. *Teachers College Record*, *86*(6), 97–115.
+- Feng, Y., Wang, J., Zhang, W., Chen, Z., Shen, Y., Xiao, X., Huang, M., Jing, L., & Yu, J. (2025). Reframe Your Life Story: Interactive Narrative Therapist and Innovative Moment Assessment with Large Language Models. *arXiv preprint* arXiv:2507.20241.
+- Sarbin, T. R. (1986). The narrative as a root metaphor for psychology. In *Narrative psychology: The storied nature of human conduct* (pp. 1–27).
+- White, M. (2007). *Maps of narrative practice*. WW Norton & Company.
+- White, M., & Epston, D. (1990). *Narrative means to therapeutic ends*. WW Norton & Company.

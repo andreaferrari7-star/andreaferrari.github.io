@@ -1,11 +1,13 @@
 ---
 tags: []
+tipo_fonte: [scientifica, evento]
+source_papers: ["06-10 Lezione_ RAG, LLM in Psicoterapia e Governance Etica.txt"]
 ---
 
 # Uso Problematico da Chatbot e Dipendenze da Intelligenza Artificiale
 
-**Summary**: Inquadramento clinico, psicopatologico ed epidemiologico dell'uso problematico di chatbot e assistenti virtuali intelligenti. Vengono analizzati il modello esplicativo I-PACE, le dinamiche di mantenimento (antropomorfismo, compiacenza, relazione "senza corpo"), la specifica vulnerabilità evolutiva degli adolescenti e i protocolli di trattamento integrati (Romano & Baioni, 2026).
-**Sources**: 06-10 Lezione_ RAG, LLM in Psicoterapia e Governance Etica.txt
+**Summary**: Inquadramento clinico, psicopatologico ed epidemiologico dell'uso problematico di chatbot e assistenti virtuali intelligenti. Vengono analizzati il modello esplicativo I-PACE, le dinamiche di mantenimento (antropomorfismo, compiacenza, relazione "senza corpo"), la specifica vulnerabilità evolutiva degli adolescenti e i protocolli di trattamento integrati (Romano e Baioni, cfr. [[06-10-lezione-rag-llm]]).
+**Fonti**: [[06-10-lezione-rag-llm|Lezione e Seminario: RAG, LLM in Psicoterapia, Supervisione e Governance Etica (10 Giugno 2026)]]
 **Last updated**: 2026-08-27
 ---
 
@@ -105,19 +107,18 @@ L'intervento terapeutico si fonda sui protocolli per le dipendenze comportamenta
 
 ---
 
-## Related pages
-- [main-1](main-1.md)
-- [cognitive-debt-in-generative-ai](cognitive-debt-in-generative-ai.md)
-- [psychometric-assessment-problematic-ai-use](psychometric-assessment-problematic-ai-use.md)
-- [06-10_Lezione_RAG_LLM](06-10_Lezione_RAG_LLM.md)
-- [modello-centauro-clinico](concetti/concetti/concetti\modello-centauro-clinico.md)
-- [supervisione-clinica-ai](supervisione-clinica-ai.md)
-- [augmented-psychotherapy](augmented-psychotherapy.md)
-- [digital-therapeutic-alliance](digital-therapeutic-alliance.md)
-- [anthropomorphism-in-ai](anthropomorphism-in-ai.md)
-- [ai-research-ethics](ai-research-ethics.md)
-- [human-in-the-reasoning](human-in-the-reasoning.md)
-- [large-language-models](large-language-models.md)
+## Relazioni
+- [[main-1]]
+- [[cognitive-debt-in-generative-ai]]
+- [[psychometric-assessment-problematic-ai-use]]
+- [[06-10-lezione-rag-llm]]
+- [[modello-centauro-clinico]]
+- [[supervisione-clinica-ai]]
+- [[augmented-psychotherapy]]
+- [[digital-therapeutic-alliance]]
+- [[anthropomorphism-in-ai]]
+- [[ai-research-ethics]]
+- [[human-in-the-reasoning]]
+- [[large-language-models]]
 
 ## Riferimenti Bibliografici
-- [Da integrare]

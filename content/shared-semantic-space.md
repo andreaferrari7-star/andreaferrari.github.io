@@ -1,5 +1,6 @@
 ---
 tags: [shared-semantic-space, semantic-embeddings, conceptual-engineering, psicometria, llm-mapping]
+tipo_fonte: scientifica
 source_papers: ["wulff-mata-2025-escaping-the-jingle-jangle-jungle-increasing-conceptual-clarity-in-psychology-using-large-language.pdf"]
 ---
 
@@ -26,6 +27,6 @@ source_papers: ["wulff-mata-2025-escaping-the-jingle-jangle-jungle-increasing-co
 
 ## Relazioni
 
-*   **Vedi anche:** [wulff-mata-2025](wulff-mata-2025.md), [taxonomic-incommensurability](taxonomic-incommensurability.md), [jingle-fallacy](jingle-fallacy.md), [jangle-fallacy](jangle-fallacy.md), [llm-assisted-semantic-clustering](llm-assisted-semantic-clustering.md), [dual-validity-framework](dual-validity-framework.md)
+*   **Vedi anche:** [[wulff-mata-2025]], [[taxonomic-incommensurability]], [[jingle-fallacy]], [[jangle-fallacy]], [[llm-assisted-semantic-clustering]], [[dual-validity-framework]]
 
 

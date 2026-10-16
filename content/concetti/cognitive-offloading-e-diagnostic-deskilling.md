@@ -1,11 +1,13 @@
 ---
 tags: []
+tipo_fonte: [scientifica, interna]
+source_papers: ["AI in Psicoterapia 2023-2026.docx"]
 ---
 
 # Cognitive Offloading e Diagnostic Deskilling in Psicoterapia
 
 **Summary**: Processo di decadimento neurocognitivo e professionale in cui la delega sistematica all'IA dei processi di memorizzazione anamnestica, sintesi tematica e formulazione diagnostica produce "debito cognitivo", atrofia della memoria di lavoro in seduta e vulnerabilità all'automation bias.
-**Sources**: Signorini & Paganin (2026, *Frontiers in Psychology*, DOI: 10.3389/fpsyg.2026.1690291); Parasuraman & Manzey (2010); `AI in Psicoterapia 2023-2026.docx`.
+**Fonti**: Signorini & Paganin (2026, *Frontiers in Psychology*, DOI: 10.3389/fpsyg.2026.1690291); Parasuraman & Manzey (2010); [[ai-in-psicoterapia-2023-2026|AI in Psicoterapia 2023-2026 (rassegna interna)]].
 **Last updated**: 2026-08-27
 ---
 
@@ -63,7 +65,7 @@ L'**Automation Bias** è la tendenza euristica a sovrastimare l'affidabilità, l
 
 ## Tabella Comparativa degli Impatti Cognitivi
 
-| Funzione Clinica | Esercizio Tradizionale | Delega all'IA (Offloading) | Presidio Protocollato ([SADAR](sadar-framework.md)) |
+| Funzione Clinica | Esercizio Tradizionale | Delega all'IA (Offloading) | Presidio Protocollato ([[sadar-framework\|SADAR]]) |
 | :--- | :--- | :--- | :--- |
 | **Memoria di Lavoro** | Allenamento continuo in seduta per associare temi | Atrofia da disuso; consultazione continua di note | Stimolata nel richiamo differito post-seduta |
 | **Generazione Ipotesi** | Faticosa esplorazione intuitivo-analitica | Accettazione passiva di pattern suggeriti | **L'IA è costretta a produrre 3 ipotesi divergenti** |
@@ -74,20 +76,21 @@ L'**Automation Bias** è la tendenza euristica a sovrastimare l'affidabilità, l
 
 ## Contromisure e Standard Operativi
 
-- **Intenzionale Attrito Cognitivo**: Rifiutare l'automazione totale dei processi decisionali; impiegare prompt che costringano al ragionamento divergente (come previsto dal metodo 3-2-1 del [SADAR](sadar-framework.md)).
+- **Intenzionale Attrito Cognitivo**: Rifiutare l'automazione totale dei processi decisionali; impiegare prompt che costringano al ragionamento divergente (come previsto dal metodo 3-2-1 del [[sadar-framework|SADAR]]).
 - **Mantenimento di Compiti Mentali Non Delegabili**: La stesura della concettualizzazione del caso e la formulazione diagnostica devono rimanere atti intellettuali prioritariamente umani.
 - **Formazione Continua sui Bias Tecnologici**: Inserimento dell'automation bias nei curricula ECM e di specializzazione per psicoterapeuti.
 
 ---
 
-## Pagine Correlate
-- [moral-buffering-e-deskilling-etico](moral-buffering-e-deskilling-etico.md)
-- [sadar-framework](sadar-framework.md)
-- [digital-analytic-third](digital-analytic-third.md)
-- [sindrome-impostore-ia-specifica](sindrome-impostore-ia-specifica.md)
-- [artificial-intelligence-replacement-dysfunction](artificial-intelligence-replacement-dysfunction.md)
-- [tecnostress-e-paradosso-sovradocumentazione](tecnostress-e-paradosso-sovradocumentazione.md)
-- [ai-in-psicoterapia-2023-2026](../sintesi/ai-in-psicoterapia-2023-2026.md)
+## Relazioni
+- [[moral-buffering-e-deskilling-etico]]
+- [[sadar-framework]]
+- [[digital-analytic-third]]
+- [[sindrome-impostore-ia-specifica]]
+- [[artificial-intelligence-replacement-dysfunction]]
+- [[tecnostress-e-paradosso-sovradocumentazione]]
+- [[ai-in-psicoterapia-2023-2026]]
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Parasuraman, R., & Manzey, D. H. (2010). Complacency and bias in human use of automation: An attentional integration. *Human Factors*, *52*(3), 381–410. https://doi.org/10.1177/0018720810376055
+- Signorini, S., & Paganin, W. (2026). Artificial intelligence as a digital analytic third: The SADAR framework for reflective supervision in psychotherapy. *Frontiers in Psychology*, *17*, 1690291. https://doi.org/10.3389/fpsyg.2026.1690291

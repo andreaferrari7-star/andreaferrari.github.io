@@ -1,5 +1,6 @@
 ---
 tags: [cbt, cognitive-distortions, nlp, machine-learning, llm, mentalbert, ernie, text-classification]
+tipo_fonte: scientifica
 source_papers: ["2407.19422v1.pdf"]
 title: "Cognitive Distortion Detection"
 ---
@@ -77,10 +78,21 @@ graph TD
 ---
 
 ## Relazioni
-- [automated-cognitive-restructuring](automated-cognitive-restructuring.md): Fase successiva di ristrutturazione del pensiero individuato.
-- [ai-enhanced-cbt](concetti/concetti\ai-enhanced-cbt.md): Collocazione nell'assessment pre-trattamento e durante la terapia.
-- [cbt-dialogue-systems-and-tools](concetti/concetti\cbt-dialogue-systems-and-tools.md): Integrazione nei motori conversazionali (es. TeaBot, Woebot).
-- [jiang-et-al-2024](../sintesi/jiang-et-al-2024.md): Review sistematica di base.
+- [[automated-cognitive-restructuring]]: Fase successiva di ristrutturazione del pensiero individuato.
+- [[ai-enhanced-cbt]]: Collocazione nell'assessment pre-trattamento e durante la terapia.
+- [[cbt-dialogue-systems-and-tools]]: Integrazione nei motori conversazionali (es. TeaBot, Woebot).
+- [[jiang-et-al-2024]]: Review sistematica di base.
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Alhaj, F., Al-Haj, A., Sharieh, A., et al. (2022). Improving arabic cognitive distortion classification in twitter using bertopic. *International Journal of Advanced Computer Science and Applications*, *13*(1), 854–860.
+- Burns, D. D., & Beck, A. T. (1999). Feeling good: The new mood therapy. Avon New York.
+- Chen, Z., Lu, Y., & Wang, W. Y. (2023). Empowering psychotherapy with large language models: Cognitive distortion detection through diagnosis of thought prompting. *arXiv preprint* arXiv:2310.07146.
+- Ding, X., Lybarger, K., Tauscher, J., et al. (2022). Improving classification of infrequent cognitive distortions: domain-specific model vs. data augmentation. In *Proceedings 36 of the 2022 conference of the North American chapter of the association for computational linguistics: human language technologies: Student Research Workshop* (pp. 68–75).
+- Elsharawi, N., & El Bolock, A. (2024). C-journal: A journaling application for detecting and classifying cognitive distortions using deep-learning based on a crowd-sourced dataset. In *Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)* (pp. 3224–3234).
+- Jiang, M., Yu, Y. J., Zhao, Q., et al. (2024). Ai-enhanced cognitive behavioral therapy: Deep learning and large language models for extracting cognitive pathways from social media texts. *arXiv preprint* arXiv:240411449.
+- Lim, S., Kim, Y., Choi, C. H., et al. (2024). Erd: A framework for improving llm reasoning for cognitive distortion classification. *arXiv preprint* arXiv:240314255.
+- Na, H. (2024). Cbt-llm: A chinese large language model for cognitive behavioral therapybased mental health question answering. *arXiv preprint* arXiv:240316008.
+- Shickel, B., Siegel, S., Heesacker, M., et al. (2020). Automatic detection and classification of cognitive distortions in mental health text. In *2020 IEEE 20th International Conference on Bioinformatics and Bioengineering (BIBE), IEEE* (pp. 275–280).
+- Shreevastava, S., & Foltz, P. (2021). Detecting cognitive distortions from patient-therapist interactions. In *Proceedings of the Seventh Workshop on Computational Linguistics and Clinical Psychology: Improving Access* (pp. 151–158).
+- Singh, G. V., Ghosh, S., Ekbal, A., et al. (2023). Decode: Detection of cognitive distortion and emotion cause extraction in clinical conversations. In *European Conference on Information Retrieval, Springer* (pp. 156–171).
+- Wang, B., Deng, P., Zhao, Y., et al. (2023a). C2D2 dataset: A resource for the cognitive distortion analysis and its impact on mental health. In *Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing*. Association for Computational Linguistics.

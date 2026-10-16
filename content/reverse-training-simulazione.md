@@ -1,12 +1,14 @@
 ---
 tags: []
+tipo_fonte: interna
+source_papers: ["06-05 Riunione_ Impiego dell'IA in ambito clinico, bias e formazione.txt", "05-08 Riunione_ Sviluppo Knowledge Base AI, Etica e Applicazioni Cliniche.txt"]
 ---
 
 # Reverse Training e Didattica Induttiva con Pazienti Virtuali
 
 **Summary**: Metodologia pedagogica avanzata per la formazione clinica e la psicoterapia in cui lo specializzando modella e addestra un paziente virtuale basato su LLM per dimostrare la padronanza di un quadro diagnostico-funzionale (*learning by teaching*), sottoponendo l'agente simulato alla valutazione del docente/supervisore.
 
-**Sources**: [06-05 Riunione_ Impiego dell'IA in ambito clinico, bias e formazione.txt](file:///c:/Users/ANDREA/AI%20Knowledge%20Base/wiki/06-05%20Riunione_%20Impiego%20dell'IA%20in%20ambito%20clinico,%20bias%20e%20formazione.txt), [05-08 Riunione_ Sviluppo Knowledge Base AI, Etica e Applicazioni Cliniche.txt](file:///c:/Users/ANDREA/AI%20Knowledge%20Base/wiki/05-08%20Riunione_%20Sviluppo%20Knowledge%20Base%20AI,%20Etica%20e%20Applicazioni%20Cliniche.txt)
+**Fonti**: [[06-05-riunione-impiego-ia|Riunione 06-05: Impiego dell'IA in Ambito Clinico, Bias e Formazione]], [[05-08-riunione-knowledge-base|Riunione 05-08: Sviluppo Knowledge Base AI, Etica e Applicazioni Cliniche]]
 
 **Last updated**: 2026-08-27
 
@@ -41,14 +43,11 @@ flowchart TD
 
 ---
 
-## Related pages
+## Relazioni
 
-- [06-05_Riunione_Impiego_IA](06-05_Riunione_Impiego_IA.md)
-- [simulazione-pazienti-ai](simulazione-pazienti-ai.md)
-- [clinical-ai-simulation](clinical-ai-simulation.md)
-- [human-in-the-reasoning](human-in-the-reasoning.md)
-- [prompting-in-psychology](prompting-in-psychology.md)
-- [machine-psychology](machine-psychology.md)
-
-## Riferimenti Bibliografici
-- [Da integrare]
+- [[06-05-riunione-impiego-ia]]
+- [[simulazione-pazienti-ai]]
+- [[clinical-ai-simulation]]
+- [[human-in-the-reasoning]]
+- [[prompting-in-psychology]]
+- [[machine-psychology]]

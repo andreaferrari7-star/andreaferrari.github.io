@@ -1,5 +1,6 @@
 ---
 tags: [stage-structured-dialogue, dialogue-control, behavioral-drift, prompt-engineering, stateful-agents, multi-agent-simulation]
+tipo_fonte: scientifica
 source_papers: ["2601.10970v2.pdf"]
 ---
 
@@ -47,7 +48,4 @@ flowchart TD
 - Almasi, M., & Kristensen-McLachlan, R. D. (2025). Alignment Drift in CEFR-prompted LLMs for Interactive Spanish Tutoring. *Proceedings of BEA 2025 (ACL)*, 70–88.
 
 ## Relazioni
-- Vedi anche: [wang-chen-et-al-2026](../sintesi/wang-chen-et-al-2026.md), [sense-plan-act-therapy-simulation](sense-plan-act-therapy-simulation.md), [multi-party-interaction-simulation](multi-party-interaction-simulation.md), [demand-withdraw-multi-agent-dynamics](demand-withdraw-multi-agent-dynamics.md), [therapeutic-enactment-simulation](therapeutic-enactment-simulation.md), [clinical-fidelity-assessment](../clinical-fidelity-assessment.md)
-
-## Riferimenti Bibliografici
-- [Da integrare]
+- Vedi anche: [[wang-chen-et-al-2026]], [[sense-plan-act-therapy-simulation]], [[multi-party-interaction-simulation]], [[demand-withdraw-multi-agent-dynamics]], [[therapeutic-enactment-simulation]], [[clinical-fidelity-assessment]]

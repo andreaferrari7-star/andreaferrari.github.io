@@ -2,6 +2,7 @@
 title: "AI-Driven Mental Health Interventions in Vulnerable & Humanitarian Settings"
 tags: [mental-health, vulnerable-populations, humanitarian, AI, LLM, ethics]
 last_updated: 2026-09-01
+tipo_fonte: scientifica
 ---
 
 # AI-Driven Mental Health Interventions in Vulnerable & Humanitarian Settings
@@ -19,7 +20,7 @@ Oltre l'80% della popolazione globale affetta da disturbi mentali risiede in **P
 3. **Sicurezza Pre-Sessione**: Verifica della privacy fisica e istruzioni chiare per evitare la divulgazione di dati identificativi.
 
 **Riferimenti Bibliografici:**
-- Sahab et al. (2025) - [`2508.00847v1.md`](file:///C:/Users/ANDREA/AI%20Knowledge%20Base/wiki/2508-00847v1.md)
+- [[2508-00847v1|Sahab et al. (2025)]]
 - World Health Organization (WHO), 2021
 - Schwartz et al. (2023)
 
@@ -50,14 +51,11 @@ flowchart TD
     Solution --> ClinicalImpact
 ```
 
-- [sahab-et-al-2025](../sintesi/sahab-et-al-2025.md)
-- [supportive-listener-prompting](concetti/concetti\supportive-listener-prompting.md)
-- [language-style-matching-human-ai](concetti/concetti\language-style-matching-human-ai.md)
-- [algorithmic-bias-and-digital-inequalities](algorithmic-bias-and-digital-inequalities.md)
-- [etica-privacy-bias-ia-clinica](etica-privacy-bias-ia-clinica.md)
-- [stepped-care-ai-integration](stepped-care-ai-integration.md)
-- [simulated-therapeutic-alliance](simulated-therapeutic-alliance.md)
-- [conversational-agents-mental-health](conversational-agents-mental-health.md)
-
-## Riferimenti Bibliografici
-- [Da integrare]
+- [[sahab-et-al-2025]]
+- [[supportive-listener-prompting]]
+- [[language-style-matching-human-ai]]
+- [[algorithmic-bias-and-digital-inequalities]]
+- [[etica-privacy-bias-ia-clinica]]
+- [[stepped-care-ai-integration]]
+- [[simulated-therapeutic-alliance]]
+- [[conversational-agents-mental-health]]

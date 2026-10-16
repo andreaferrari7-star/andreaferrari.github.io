@@ -2,6 +2,7 @@
 
 tags: [traffic-light-framework, quality-appraisal, risk-of-bias, prisma-2020, clinical-nlp, evaluation-methodology, ethics-reporting, external-validation, mental-health-ai]
 
+tipo_fonte: scientifica
 source_papers: ["ai_v5i1e80348.pdf"]
 
 ---
@@ -16,7 +17,7 @@ source_papers: ["ai_v5i1e80348.pdf"]
 
 - Il **Traffic Light Quality Appraisal Framework** (Quadro di Valutazione della Qualità a Semaforo) è una metodologia strutturata di valutazione della qualità metodologica e del rischio di bias specificamente progettata per analizzare chatbot e sistemi di intelligenza artificiale per il counseling e la salute mentale, introdotta e validata sistematicamente da Cho et al. (2026; *JMIR AI*, doi: 10.2196/80348).
 
-- **Utilità Clinica e Metodologica:** Supera i limiti delle griglie di valutazione generiche per trial medici (es. Cochrane RoB 2) o per modelli puramente computazionali, integrando in un unico schema a semaforo (**Low Risk / Verde**, **Some Concerns / Giallo**, **High Risk / Rosso**) 5 domini cruciali per la trasferibilità clinica e la sicurezza dei sistemi basati su [large-language-models](large-language-models.md) (LLM):
+- **Utilità Clinica e Metodologica:** Supera i limiti delle griglie di valutazione generiche per trial medici (es. Cochrane RoB 2) o per modelli puramente computazionali, integrando in un unico schema a semaforo (**Low Risk / Verde**, **Some Concerns / Giallo**, **High Risk / Rosso**) 5 domini cruciali per la trasferibilità clinica e la sicurezza dei sistemi basati su [[large-language-models]] (LLM):
 
   1. *Study Design* (Disegno dello studio);
 
@@ -222,20 +223,20 @@ Sulla base del Traffic Light Framework, ogni futuro studio su sistemi conversazi
 
 ## Relazioni
 
-- [ai-v5i1e80348](ai-v5i1e80348.md): Systematic review di Cho et al. (2026) in cui il framework è introdotto.
+- [[ai-v5i1e80348]]: Systematic review di Cho et al. (2026) in cui il framework è introdotto.
 
-- [clinical-readiness-gap-in-mh-chatbots](concetti/concetti/concetti\clinical-readiness-gap-in-mh-chatbots.md): Il divario di prontezza clinica evidenziato dal framework.
+- [[clinical-readiness-gap-in-mh-chatbots]]: Il divario di prontezza clinica evidenziato dal framework.
 
-- [counseling-benchmarks-evaluation](concetti/counseling-benchmarks-evaluation.md): Metodologie avanzate di benchmarking clinico per LLM.
+- [[counseling-benchmarks-evaluation]]: Metodologie avanzate di benchmarking clinico per LLM.
 
-- [three-layer-governance-framework](concetti/concetti/concetti\three-layer-governance-framework.md): Quadro di governance etica e sicurezza a tre livelli.
+- [[three-layer-governance-framework]]: Quadro di governance etica e sicurezza a tre livelli.
 
-- [evidence-adoption-gap-ai-mental-health](concetti/evidence-adoption-gap-ai-mental-health.md): Divario tra diffusione massiva ed evidenze cliniche controllate.
+- [[evidence-adoption-gap-ai-mental-health]]: Divario tra diffusione massiva ed evidenze cliniche controllate.
 
-- [validita-psicometrica-llm](concetti/concetti/concetti\validita-psicometrica-llm.md): Discrepanza tra affidabilità statistica e validità psicometrica reale.
+- [[validita-psicometrica-llm]]: Discrepanza tra affidabilità statistica e validità psicometrica reale.
 
-- [software-as-a-medical-device-salute-mentale](software-as-a-medical-device-salute-mentale.md): Inquadramento normativo per la certificazione medica del software.
+- [[software-as-a-medical-device-salute-mentale]]: Inquadramento normativo per la certificazione medica del software.
 
-- [audit-bias-llm-clinici](concetti/concetti/concetti\audit-bias-llm-clinici.md): Metodologie per l'audit dei bias e delle disparità algoritmiche.
+- [[audit-bias-llm-clinici]]: Metodologie per l'audit dei bias e delle disparità algoritmiche.
 
 

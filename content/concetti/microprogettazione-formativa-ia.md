@@ -2,6 +2,8 @@
 title: Microprogettazione Formativa per l'IA
 summary: Modello metodologico iterativo per la progettazione, validazione e implementazione di percorsi formativi specialistici sull'Intelligenza Artificiale applicata alla psicoterapia.
 last_updated: 2026-08-27
+tipo_fonte: interna
+source_papers: ["07-08 Riunione_ Pianificazione corso IA per psicoterapia — struttura, validazione interessi, microprogettazione e coordinamento.txt"]
 ---
 
 # Microprogettazione Formativa per l'IA
@@ -25,14 +27,11 @@ La formazione specialistica sull'IA in contesti clinici richiede un approccio sp
 
 ## Relazioni
 
-- [07-08_Pianificazione_Corso_IA_Psicoterapia](../sintesi/07-08_Pianificazione_Corso_IA_Psicoterapia.md)
-- [second-brain-clinico](second-brain-clinico.md)
-- [ai-literacy-in-academia](../ai-literacy-in-academia.md)
-- [human-in-the-reasoning](human-in-the-reasoning.md)
-- [prompting-in-psychology](../prompting-in-psychology.md)
+- [[07-08-riunione-pianificazione-corso]]
+- [[second-brain-clinico]]
+- [[ai-literacy-in-academia]]
+- [[human-in-the-reasoning]]
+- [[prompting-in-psychology]]
 
-**Riferimenti Bibliografici:**
-- 07-08 Riunione_ Pianificazione corso IA per psicoterapia — struttura, validazione interessi, microprogettazione e coordinamento.txt
-
-## Riferimenti Bibliografici
-- [Da integrare]
+## Fonti
+- [[07-08-riunione-pianificazione-corso|Riunione 07-08: Pianificazione Corso IA per Psicoterapia — Struttura, Validazione Interessi, Microprogettazione e Coordinamento]]

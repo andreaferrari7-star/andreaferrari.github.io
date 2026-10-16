@@ -9,6 +9,7 @@ tags:
   - mental-health-chatbots
   - evidence-based-ai
   - regulatory-certification
+tipo_fonte: scientifica
 source_papers:
   - "WPS-24-383.pdf"
 ---
@@ -122,13 +123,13 @@ Il framework T1-T3 evidenzia una fallacia ricorrente nella digital health: presu
 ## Relazioni
 
 - **Concetti correlati:**
-    - [marketing-architecture-mismatch-in-mental-health-ai](marketing-architecture-mismatch-in-mental-health-ai.md) (Discrepanza tra branding AI e architettura sottostante)
-    - [validation-gap-in-mental-health-llms](validation-gap-in-mental-health-llms.md) (Il divario di validazione clinica basato su esiti proxy)
-    - [clinical-readiness-gap-in-mh-chatbots](concetti/concetti/concetti\clinical-readiness-gap-in-mh-chatbots.md) (Il divario di prontezza clinica nei chatbot di salute mentale)
-    - [three-layer-morphological-framework-mental-health-ai](three-layer-morphological-framework-mental-health-ai.md) (Design space morfologico a tre livelli per l'IA clinica)
-    - [tiered-autonomy-in-clinical-ai](tiered-autonomy-in-clinical-ai.md) (Modello di autonomia stratificata nell'IA clinica)
-    - [safety-mechanisms-ai-chatbots](safety-mechanisms-ai-chatbots.md) (Meccanismi di sicurezza e protocolli di emergenza per chatbot)
+    - [[marketing-architecture-mismatch-in-mental-health-ai]] (Discrepanza tra branding AI e architettura sottostante)
+    - [[validation-gap-in-mental-health-llms]] (Il divario di validazione clinica basato su esiti proxy)
+    - [[clinical-readiness-gap-in-mh-chatbots]] (Il divario di prontezza clinica nei chatbot di salute mentale)
+    - [[three-layer-morphological-framework-mental-health-ai]] (Design space morfologico a tre livelli per l'IA clinica)
+    - [[tiered-autonomy-in-clinical-ai]] (Modello di autonomia stratificata nell'IA clinica)
+    - [[safety-mechanisms-ai-chatbots]] (Meccanismi di sicurezza e protocolli di emergenza per chatbot)
 - **Sintesi di riferimento:**
-    - [wps-24-383](wps-24-383.md) (Revisione sistematica su 160 studi di chatbot per la salute mentale, 2020-2024)
-    - [mental-2026-1-e88057](mental-2026-1-e88057.md) (Lokadjaja et al., 2026: Scoping review sulla validazione degli LLM su dati reali)
+    - [[wps-24-383]] (Revisione sistematica su 160 studi di chatbot per la salute mentale, 2020-2024)
+    - [[mental-2026-1-e88057]] (Lokadjaja et al., 2026: Scoping review sulla validazione degli LLM su dati reali)
  sulla validazione degli LLM su dati reali)

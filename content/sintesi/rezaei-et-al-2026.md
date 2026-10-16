@@ -1,5 +1,6 @@
 ---
 tags: [systematic-review, artificial-intelligence, mental-health, chatbots, machine-learning, nlp, transformers, ethics, data-privacy, algorithmic-bias, network-science, prisma-2020]
+tipo_fonte: scientifica
 source_papers: ["10.1177_20552076261421688.pdf"]
 title: "Network-based artificial intelligence in mental healthcare: A systematic review of chatbots, artificial intelligence/machine learning models and ethical considerations in global healthcare networks"
 authors: "Zahra Rezaei, Atieh Khorraminia, Dingjing Shi, Yaser Mike Banad"
@@ -18,7 +19,7 @@ doi: "10.1177/20552076261421688"
 - **Rivista:** *DIGITAL HEALTH*, Vol. 12, pp. 1–30. DOI: [10.1177/20552076261421688](https://doi.org/10.1177/20552076261421688).
 - **Contesto Epidemiologico Globale:**
   - Oltre **1 miliardo di persone** nel mondo convivono con disturbi mentali (WHO, 2025); ansia e depressione rappresentano la seconda causa principale di disabilità a lungo termine, con un costo economico globale stimato in circa **1.000 miliardi di dollari all'anno**.
-  - La pandemia da COVID-19 ha causato un incremento del **27,6% del disturbo depressivo maggiore** e del **25,6% dei disturbi d'ansia**, con un impatto sproporzionato su donne e giovani (*Lancet Global Study*, 2021).
+  - La pandemia da COVID-19 ha causato un incremento del **27,6% del disturbo depressivo maggiore** e del **25,6% dei disturbi d'ansia**, con un impatto sproporzionato su donne e giovani (Santomauro et al., 2021).
   - La spesa pubblica per la salute mentale rimane ferma a circa il **2% dei budget sanitari complessivi**.
   - **Trattamento e Disuguaglianze Strutturali (*Treatment Gap*):** Nei paesi a basso e medio reddito (LMIC), la copertura terapeutica per i disturbi depressivi è inferiore all'**8–10%**, contro il **33–50%** dei paesi ad alto reddito (Moitra et al., 2022; WHO, 2025).
   - **Divario tra Politiche e Implementazione (*Policy-Implementation Gap*):** Sebbene il 78–89% dei paesi disponga di politiche formali sulla salute mentale, la piena conformità è limitata al 45–60% e l'effettiva attuazione pratica scende al **2–14% nei contesti a basso reddito**.
@@ -174,18 +175,43 @@ graph LR
 
 ## Pagine Correlate e Concetti
 
-- [network-based-ai-mental-healthcare](../concetti/network-based-ai-mental-healthcare.md)
-- [specialized-nlp-models-mental-health](../concetti/specialized-nlp-models-mental-health.md)
-- [mental-health-chatbot-taxonomy](../concetti/mental-health-chatbot-taxonomy.md)
-- [ieacp-canada-protocol-ethical-frameworks](../concetti/ieacp-canada-protocol-ethical-frameworks.md)
-- [weird-bias-cultural-adaptability-ai](../concetti/weird-bias-cultural-adaptability-ai.md)
-- [conversational-agents-mental-health](../concetti/conversational-agents-mental-health.md)
-- [algorithmic-bias-and-digital-inequalities](../concetti/algorithmic-bias-and-digital-inequalities.md)
-- [etica-privacy-bias-ia-clinica](../concetti/etica-privacy-bias-ia-clinica.md)
-- [rischio-suicidario-ai-limits](../concetti/rischio-suicidario-ai-limits.md)
-- [stepped-care-ai-integration](../concetti/stepped-care-ai-integration.md)
-- [huynh-et-al-2026](huynh-et-al-2026.md)
-- [erdemir-sumbas-2026](erdemir-sumbas-2026.md)
+- [[network-based-ai-mental-healthcare]]
+- [[specialized-nlp-models-mental-health]]
+- [[mental-health-chatbot-taxonomy]]
+- [[ieacp-canada-protocol-ethical-frameworks]]
+- [[weird-bias-cultural-adaptability-ai]]
+- [[conversational-agents-mental-health]]
+- [[algorithmic-bias-and-digital-inequalities]]
+- [[etica-privacy-bias-ia-clinica]]
+- [[rischio-suicidario-ai-limits]]
+- [[stepped-care-ai-integration]]
+- [[huynh-et-al-2026]]
+- [[erdemir-sumbas-2026]]
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- **He, Y., Yang, L., Zhu, X., Wu, B., Zhang, S., Qian, C., et al. (2022).** Mental health chatbot for young adults with depressive symptoms during the COVID-19 pandemic: single-blind, three-arm randomized controlled trial. *Journal of Medical Internet Research*, 24(11), e40719.
+- Abd-Alrazaq, A. A., Rababeh, A., Alajlani, M., et al. (2020). Effectiveness and safety of using chatbots to improve mental health: systematic review and meta-analysis. *J Med Internet Res*, *22*, e16021.
+- Ahmadi, A., Sharif, S., & Banad, Y. M. (2025). MCP Bridge: A lightweight, LLM-agnostic RESTful proxy for Model Context Protocol servers. *arXiv preprint* arXiv:2504.08999.
+- Booth, F., Potts, C., Bond, R., et al. (2023). A mental health and well-being chatbot: user event log analysis. *JMIR Mhealth Uhealth*, *11*, e43052.
+- Chou, Y.-H., Lin, C., Lee, S.-H., et al. (2024). User-friendly chatbot to mitigate the psychological stress of older adults during the COVID-19 pandemic: development and usability study. *JMIR Form Res*, *8*, e49462.
+- Fulmer, R., Joerin, A., Gentile, B., Lakerink, L., & Rauws, M. (2018). Using psychological artificial intelligence (Tess) to relieve symptoms of depression and anxiety: randomized controlled trial. *JMIR Mental Health*, 5(4), e9782.
+- Izmaylov, D., Agarwal, R., Cai, J., et al. (2023). Combining psychological theory with language models for suicide risk detection. *EACL 2023*.
+- Jackson-Triche, M., Vetal, D., Turner, E.-M., et al. (2023). Meeting the behavioral health needs of health care workers during COVID-19 by leveraging chatbot technology: development and usability study. *J Med Internet Res*, *25*, e40635.
+- Ji, S., Li, Y., Xu, J., et al. (2021). MentalBERT: publicly available pretrained language models for mental healthcare. *arXiv:2110.15621*.
+- Lee, Y. K., Lee, I., Shin, M., Bae, S., & Hahn, S. (2023). Chain of empathy: Enhancing empathetic response of large language models based on psychotherapy models. *arXiv preprint* arXiv:2311.04915.
+- Mariamo, A., Temcheff, C. E., Léger, P.-M., et al. (2021). Emotional reactions and likelihood of response to questions designed for a mental health chatbot among adolescents: experimental study. *JMIR Hum Factors*, *8*, e24343.
+- Moitra, M., Santomauro, D., Collins, P. Y., et al. (2022). The global gap in treatment coverage for major depressive disorder in 84 countries from 2000–2019: a systematic review and Bayesian meta-regression analysis. *PLoS Med*, *19*, e1003901.
+- Mörch, C.-M., Gupta, A., & Mishara, B. L. (2020). Canada protocol: an ethical checklist for the use of artificial intelligence in suicide prevention and mental health. *Artif Intell Med*, 108, 101934.
+- Nguyen, Q. C., Aparicio, E. M., Jasczynski, M., et al. (2024). Rosie, a health education question-and-answer chatbot for new mothers: randomized pilot study. *JMIR Form Res*, *8*, e51361.
+- Potts, C., Lindström, F., Bond, R., et al. (2023). A multilingual digital mental health and well-being chatbot (ChatPal): pre–post multicenter intervention study. *J Med Internet Res*, 25, e43051.
+- Putica, A., Khanna, R., Bosl, W., et al. (2025). Ethical decision-making for AI in mental health: the integrated ethical approach for computational psychiatry (IEACP) framework. *Psychol Med*, *55*, e213.
+- Rezaei, Z., Khorraminia, A., Shi, D., & Banad, Y. M. (2026). Network-based artificial intelligence in mental healthcare: A systematic review of chatbots, artificial intelligence/machine learning models and ethical considerations in global healthcare networks. *Digital Health*, *12*, 1–30. https://doi.org/10.1177/20552076261421688
+- Rubio-Martín, S., García-Ordás, M. T., Bayón-Gutiérrez, M., et al. (2024). Enhancing ASD detection accuracy: A combined approach of machine learning and deep learning models with natural language processing. *Health Information Science and Systems*, *12*, 20.
+- Santomauro, D. F., Mantilla Herrera, A. M., Shadid, J., et al. (2021). Global prevalence and burden of depressive and anxiety disorders in 204 countries and territories in 2020 due to the COVID-19 pandemic. *The Lancet*, *398*, 1700–1712.
+- Viduani, A., Cosenza, V., Fisher, H. L., et al. (2023). Assessing mood with the identifying depression early in adolescence chatbot (IDEABot): development and implementation study. *JMIR Hum Factors*, *10*, e44388.
+- Wongkoblap, A., Vadillo, M. A., & Curcin, V. (2021). Deep learning with anaphora resolution for the detection of tweeters with depression: algorithm development and validation study. *JMIR Ment Health*, *8*, e19824.
+- World Health Organization. (2025, 2 settembre). *Over a billion people living with mental health conditions – services require urgent scale-up* [Comunicato stampa]. https://www.who.int/news/item/02-09-2025-over-a-billion-people-living-with-mental-health-conditions-services-require-urgent-scale-up
+- Yang, K., Ji, S., Zhang, T., et al. (2023). Towards interpretable mental health analysis with large language models. *arXiv preprint* arXiv:2304.03347.
+
+## Relazioni
+- Vedi anche: [[10-1177-20552076261421688]], [[clinical-nlp-domain-shift]], [[network-based-mental-healthcare]], [[ieacp-canada-protocol-ethical-frameworks]], [[mental-health-chatbot-taxonomy]], [[network-based-ai-mental-healthcare]], [[specialized-nlp-models-mental-health]], [[weird-bias-cultural-adaptability-ai]]

@@ -1,18 +1,19 @@
 ---
 tags: [boundary-objects, relational-mediators, llm-psicoterapia, marginalized-communities, lgbtq-mental-health, dynamic-boundary-mediation, qualitative-study, therapeutic-alliance, privacy-architecture, robotic-feeling]
+tipo_fonte: scientifica
 source_papers: ["2512.22462v1.pdf"]
 ---
 
 # Relational Mediators: LLM Chatbots as Boundary Objects in Psychotherapy (Quan et al., 2025)
 
 **Summary**: Studio qualitativo pionieristico (ACM / arXiv:2512.22462, 2025) condotto da ricercatori della Hong Kong Polytechnic University, University of Washington e Nankai University. Il lavoro ridefinisce il ruolo dei Large Language Models (LLM) nella salute mentale, superando la dicotomia tra "semplici strumenti di supporto clinico" e "agenti terapeutici autonomi". Basandosi sulla **Boundary-Object Theory** (Star & Griesemer) e sulla nozione di spazio potenziale di Winnicott, gli autori introducono il **Dynamic Boundary Mediation Framework**. Lo studio analizza, tramite *Constructivist Grounded Theory* su 24 interviste in profondità (12 psicoterapeuti e 12 pazienti appartenenti a minoranze sistemiche e comunità LGBTQ+ in Cina), come i sistemi LLM possano agire da mediatori socio-tecnici adattivi attraverso 5 stadi terapeutici, articolando tre forme di mediazione: **Epistemica** (riduzione delle asimmetrie di conoscenza e dell'onere pedagogico del paziente), **Relazionale** (riequilibrio delle dinamiche di potere e privacy granulare) e **Contestuale** (continuità tra seduta e vita quotidiana). Vengono infine formalizzate 5 linee guida di design per un'IA eticamente e relazionalmente responsabile.
-**Sources**: `2512.22462v1.pdf` (arXiv:2512.22462v1 [cs.HC], 27 Dec 2025. Authors: Jiatao Quan, Ziyue Li, Tian Qi Zhu, Yuxuan Li, Baoying Wang, Wanda Pratt, Nan Gao).
+**Fonti**: arXiv:2512.22462v1 [cs.HC], 27 Dec 2025. Authors: Jiatao Quan, Ziyue Li, Tian Qi Zhu, Yuxuan Li, Baoying Wang, Wanda Pratt, Nan Gao.
 **Last updated**: 2026-08-27
 ---
 
 ## Inquadramento e Razionale Teorico
 
-Nella letteratura sulla salute mentale digitale, i sistemi basati su **Intelligenza Artificiale Generativa e [LLM](../concetti/large-language-models.md)** sono stati prevalentemente concettualizzati secondo due paradigmi contrapposti:
+Nella letteratura sulla salute mentale digitale, i sistemi basati su **Intelligenza Artificiale Generativa e [[large-language-models|LLM]]** sono stati prevalentemente concettualizzati secondo due paradigmi contrapposti:
 1. **Strumenti amministrativo-diagnostici per il terapeuta**: Sistemi passivi dedicati all'elaborazione di note, screening o supporto decisionale.
 2. **Agenti terapeutici autonomi / Self-help tools**: Piattaforme basate su CBT dialogica (es. Woebot, Wysa) operanti indipendentemente dalla relazione interpersonale tra clinico e paziente.
 
@@ -175,18 +176,19 @@ flowchart TD
 - **Applicabilità estesa ad altri domini ad alta intensità relazionale**: Il modello di mediazione di confine è estendibile all'assistenza sociale, all'orientamento educativo e al supporto legale per popolazioni vulnerabili.
 
 ---
-## Concetti Correlati
-- [dynamic-boundary-mediation-framework](../dynamic-boundary-mediation-framework.md)
-- [boundary-objects-in-psychotherapy](../boundary-objects-in-psychotherapy.md)
-- [educator-burden-marginalized-clients](../concetti/educator-burden-marginalized-clients.md)
-- [negotiable-data-visibility-privacy](../concetti/negotiable-data-visibility-privacy.md)
-- [contextualized-relational-memory](../concetti/contextualized-relational-memory.md)
-- [between-session-continuity-ai](../concetti/between-session-continuity-ai.md)
-- [interazione-triadica-terapeuta-paziente-ia](../concetti/interazione-triadica-terapeuta-paziente-ia.md)
-- [ai-mental-health-vulnerable-populations](../concetti/ai-mental-health-vulnerable-populations.md)
-- [simulated-empathy-vs-authentic-presence](../concetti/concetti/concetti\simulated-empathy-vs-authentic-presence.md)
-- [genuineness-gap](../genuineness-gap.md)
-- [weird-bias-cultural-adaptability-ai](../concetti/weird-bias-cultural-adaptability-ai.md)
+## Relazioni
+- [[dynamic-boundary-mediation-framework]]
+- [[boundary-objects-in-psychotherapy]]
+- [[educator-burden-marginalized-clients]]
+- [[negotiable-data-visibility-privacy]]
+- [[contextualized-relational-memory]]
+- [[between-session-continuity-ai]]
+- [[interazione-triadica-terapeuta-paziente-ia]]
+- [[ai-mental-health-vulnerable-populations]]
+- [[simulated-empathy-vs-authentic-presence]]
+- [[genuineness-gap]]
+- [[weird-bias-cultural-adaptability-ai]]
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Charmaz, K. (2012). *Constructing Grounded Theory: A Practical Guide through Qualitative Analysis*. Sage Publications.
+- Quan, J., Li, Z., Zhu, T. Q., Li, Y., Wang, B., Pratt, W., & Gao, N. (2025). Relational Mediators: LLM Chatbots as Boundary Objects in Psychotherapy. *arXiv preprint arXiv:2512.22462v1 [cs.HC]*, 1–35. https://doi.org/10.48550/arXiv.2512.22462

@@ -1,5 +1,6 @@
 ---
 tags: [care-continuum, mental-health-ai, screening-nlp, diagnostic-classifiers, predictive-modelling, digital-monitoring, cbt-chatbots, clinical-decision-support, performance-decay, frontiers-in-psychiatry]
+tipo_fonte: scientifica
 source_papers: ["fpsyt-17-1688043 (1).pdf"]
 ---
 
@@ -91,7 +92,4 @@ Chatbot CBT (*Woebot*, *Wysa*) guidano l'auto-monitoraggio e la ristrutturazione
 
 ## Relazioni
 
-- Vedi anche: [fpsyt-17-1688043-1](fpsyt-17-1688043-1.md), [deployment-readiness-checklist-mental-health-ai](deployment-readiness-checklist-mental-health-ai.md), [clinical-readiness-gap-in-mh-chatbots](concetti/concetti/concetti\clinical-readiness-gap-in-mh-chatbots.md), [ai-psychosocial-functioning-in-psychosis](ai-psychosocial-functioning-in-psychosis.md), [cbt-dialogue-systems-and-tools](concetti/concetti/concetti\cbt-dialogue-systems-and-tools.md), [wearable-sensor-fusion-adherence](wearable-sensor-fusion-adherence.md), [multimodal-anxiety-detection-ai](multimodal-anxiety-detection-ai.md), [modello-centauro-clinico](concetti/concetti/concetti\modello-centauro-clinico.md), [explainable-mental-health-diagnosis](explainable-mental-health-diagnosis.md), [software-as-a-medical-device-salute-mentale](software-as-a-medical-device-salute-mentale.md), [ai-psychosis](ai-psychosis.md)
-
-## Riferimenti Bibliografici
-- [Da integrare]
+- Vedi anche: [[fpsyt-17-1688043-1]], [[deployment-readiness-checklist-mental-health-ai]], [[clinical-readiness-gap-in-mh-chatbots]], [[ai-psychosocial-functioning-in-psychosis]], [[cbt-dialogue-systems-and-tools]], [[wearable-sensor-fusion-adherence]], [[multimodal-anxiety-detection-ai]], [[modello-centauro-clinico]], [[explainable-mental-health-diagnosis]], [[software-as-a-medical-device-salute-mentale]], [[ai-psychosis]]

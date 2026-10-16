@@ -1,12 +1,13 @@
 ---
 tags: [credibility-gap, status-socioculturale, influenza-sociale, remoralizzazione, expert-heuristics, machine-heuristics, aderenza, outcome-expectations]
+tipo_fonte: scientifica
 source_papers: ["2509.02144v1.pdf"]
 ---
 
 # Credibility Gap (Divario di Credibilità Socioculturale)
 
 **Summary**: Costrutto teorico introdotto da Herbener & Damholdt (2025) indicante la disparità tra le prestazioni operative dimostrate da un agente artificiale nel fornire interventi psicologici e la sua intrinseca carenza di credibilità percepita, autorità epistemica e legittimazione socioculturale come figura curante riconosciuta.
-**Sources**: Herbener & Damholdt (2025) - `2509.02144v1.pdf`
+**Fonti**: Herbener & Damholdt (2025)
 **Last updated**: 2026-08-27
 ---
 
@@ -42,7 +43,7 @@ flowchart TD
    - Gli esseri umani valutano l'appartenenza di un'entità a una categoria tramite euristiche di rappresentatività rispetto a un prototipo ideale.
    - Il prototipo del terapeuta include indizi simbolici di perizia: titoli accademici, abilitazione professionale, adesione a un codice etico-deontologico, linguaggio clinico contestualizzato ed esperienza di vita umana. Gli agenti artificiali non possiedono queste credenziali istituzionali.
 
-4. **Conflitto tra Expert Heuristics e [Machine Heuristics](machine-heuristics-in-therapy.md) (Sundar, 2008; Yang & Sundar, 2024)**:
+4. **Conflitto tra Expert Heuristics e [[machine-heuristics-in-therapy|Machine Heuristics]] (Sundar, 2008; Yang & Sundar, 2024)**:
    - *Expert Heuristic*: mental shortcut che assegna credibilità immediata a simboli istituzionali di competenza medica/psicologica.
    - *Machine Heuristic*: scorciatoia mentale che riconosce all'IA doti di calcolo, oggettività e assenza di bias, ma la ritiene priva di saggezza esistenziale e risonanza emotiva. Per compiti complessi di salute mentale, prevale lo scetticismo verso la macchina.
 
@@ -57,20 +58,26 @@ flowchart TD
 
 ## Superamento del Credibility Gap nel Modello Ibrido
 
-Il modo più efficace per neutralizzare il Credibility Gap consiste nell'adozione del modello **[Blended Care](blended-care-ai-framework.md)**:
+Il modo più efficace per neutralizzare il Credibility Gap consiste nell'adozione del modello **[[blended-care-ai-framework|Blended Care]]**:
 - Il clinico umano avvia il percorso, stabilisce l'autorità clinica e conferisce all'agente IA il proprio **"timbro di legittimazione" (*stamp of approval*)**.
 - L'utente trasferisce la fiducia riposta nel terapeuta umano sull'applicazione digitale, incrementando aderenza e coinvolgimento.
 
 ---
 
 ## Relazioni
-- [herbener-damholdt-2025](../sintesi/herbener-damholdt-2025.md)
-- [genuineness-gap](genuineness-gap.md)
-- [ontological-and-sociocultural-status](ontological-and-sociocultural-status.md)
-- [machine-heuristics-in-therapy](machine-heuristics-in-therapy.md)
-- [blended-care-ai-framework](blended-care-ai-framework.md)
-- [three-layer-governance-framework](concetti/concetti\three-layer-governance-framework.md)
-- [common-vs-specific-factors](common-vs-specific-factors.md)
+- [[herbener-damholdt-2025]]
+- [[genuineness-gap]]
+- [[ontological-and-sociocultural-status]]
+- [[machine-heuristics-in-therapy]]
+- [[blended-care-ai-framework]]
+- [[three-layer-governance-framework]]
+- [[common-vs-specific-factors]]
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Frank, J. D., & Frank, J. B. (1991). *Persuasion and healing: A comparative study of psychotherapy* (3rd ed.). Johns Hopkins University Press.
+- Herbener, A. B., & Damholdt, M. F. (2025). A Theoretical Framework of the Processes of Change in Psychotherapy Delivered by Artificial Agents. *arXiv preprint arXiv:2509.02144v1 [cs.HC]*, 1–16. https://doi.org/10.48550/arXiv.2509.02144
+- Kahneman, D., & Tversky, A. (1972). Subjective probability: A judgment of representativeness. *Cognitive Psychology*, *3*(3), 430–454.
+- Rosch, E. H. (1973). Natural categories. *Cognitive Psychology*, *4*(3), 328–350.
+- Strong, S. R. (1968). Counseling: An interpersonal influence process. *Journal of Counseling Psychology*, 15(3), 215–224.
+- Sundar, S. S. (2008). The MAIN Model: A Heuristic Approach to Understanding Technology Effects on Credibility.
+- Yang, H., & Sundar, S. S. (2024). Machine heuristic: concept explication and development of a measurement scale. *Journal of Computer-Mediated Communication*, 29(6).

@@ -1,5 +1,6 @@
 ---
 tags: [ipotesi, ricerca-psicologica, llm-applications, innovazione]
+tipo_fonte: scientifica
 source_papers: ["Using_Large_Language_Models_in_Psychological_Resea.pdf"]
 ---
 
@@ -17,7 +18,4 @@ source_papers: ["Using_Large_Language_Models_in_Psychological_Resea.pdf"]
 - Adeyemi, V. (2024). Using Large Language Models in Psychological Research: A New Frontier for Hypothesis Generation. *Premier Journal of Psychology*, 1–4.
 
 ## Relazioni
-- Vedi anche: [hypothesis-generation](hypothesis-generation.md), [large-language-models](large-language-models.md), [hybrid-ai-research-workflows](hybrid-ai-research-workflows.md)
-
-## Riferimenti Bibliografici
-- [Da integrare]
+- Vedi anche: [[hypothesis-generation]], [[large-language-models]], [[hybrid-ai-research-workflows]]

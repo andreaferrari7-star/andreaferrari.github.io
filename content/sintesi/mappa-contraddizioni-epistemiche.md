@@ -1,5 +1,6 @@
 ---
 tags: [sintesi, epistemologia, divergenze-letteratura, state-of-the-art]
+tipo_fonte: scientifica
 ---
 
 # Osservatorio delle Contraddizioni Epistemiche
@@ -45,7 +46,7 @@ Inoltre, in ottemperanza alla **Dual Citation Rule**, ogni singola contraddizion
 #### Citazioni Verificate su Disco
 
 **Fonte 1: `wiki/rlhf-safety-therapeutic-conflict.md` (Linee 9-10)**
-> - Il **Conflitto tra Safety Training RLHF e Fedeltà Terapeutica** rappresenta la discrepanza strutturale e iatrogena tra gli obiettivi di allineamento generico dei Large Language Models ([large-language-models](large-language-models.md)) — ottimizzati tramite *Reinforcement Learning from Human Feedback* (RLHF) per produrre risposte rassicuranti, servizievoli, prive di tossicità e orientate alla de-escalation immediata — e i requisiti procedurali delle psicoterapie evidence-based (*Evidence-Based Therapies*, EBT; Suhas et al., 2026).
+> - Il **Conflitto tra Safety Training RLHF e Fedeltà Terapeutica** rappresenta la discrepanza strutturale e iatrogena tra gli obiettivi di allineamento generico dei Large Language Models ([[large-language-models]]) — ottimizzati tramite *Reinforcement Learning from Human Feedback* (RLHF) per produrre risposte rassicuranti, servizievoli, prive di tossicità e orientate alla de-escalation immediata — e i requisiti procedurali delle psicoterapie evidence-based (*Evidence-Based Therapies*, EBT; Suhas et al., 2026).
 > - **Meccanismo Iatrogeno:** Nelle psicoterapie manualizzate (es. *Prolonged Exposure* - PE per PTSD e ristrutturazione cognitiva CBT), il cambiamento clinico richiede che il paziente rimanga a contatto con materiale emotivamente disturbante (*staying with distress*), elabori memorie traumatiche ed esamini criticamente cognizioni disfunzionali. L'addestramento di sicurezza standard agisce come una barriera iatrogena: interpretando il dolore espresso come un rischio da neutralizzare all'istante, il modello interrompe forzatamente il processo terapeutico, rinforza l'evitamento e produce risposte controindicate.
 
 **Fonte 2: `wiki/2604-23445v1.md` (Linee 11-12)**
@@ -98,8 +99,8 @@ Si assiste a una divergenza diretta di intenti tra l'ingegneria del prompt umani
 
 **Fonte 1: `wiki/s41746-026-02886-x-reference.md` (Linee 18-20)**
 > - **Scoperte Fondamentali sui Moderatori:**
->   1. **[Vantaggio Multimodale](concetti/multimodal-advantage-in-depression-ai.md):** Gli agenti multimodali (testo + voce + stimoli visivi) hanno ottenuto una riduzione dei sintomi depressivi drasticamente superiore (**$g = 0.82$, $95\%\text{ CI } [0.54, 1.09]$**) rispetto agli agenti unimodali testuali/vocali (**$g = 0.24$, $95\%\text{ CI } [0.12, 0.36]$**; $Q_b(1) = 13.84, P < .001$), azzerando l'eterogeneità residua ($I^2 = 0.0\%$).
->   2. **[Effetto Diluizione della Psicoeducazione](concetti/psychoeducation-dilution-effect-in-ai.md):** I CAs privi di moduli formali di psicoeducazione hanno mostrato dimensioni dell'effetto significativamente più elevate (**$g = 0.47$, $95\%\text{ CI } [0.25, 0.69]$**) rispetto ai CAs contenenti psicoeducazione esplicita (**$g = 0.19$, $95\%\text{ CI } [0.03, 0.35]$**; $Q_b(1) = 4.03, P = .045$), a causa del minor carico cognitivo e della focalizzazione su tecniche attive ed esperienziali.
+>   1. **[[multimodal-advantage-in-depression-ai|Vantaggio Multimodale]]:** Gli agenti multimodali (testo + voce + stimoli visivi) hanno ottenuto una riduzione dei sintomi depressivi drasticamente superiore (**$g = 0.82$, $95\%\text{ CI } [0.54, 1.09]$**) rispetto agli agenti unimodali testuali/vocali (**$g = 0.24$, $95\%\text{ CI } [0.12, 0.36]$**; $Q_b(1) = 13.84, P < .001$), azzerando l'eterogeneità residua ($I^2 = 0.0\%$).
+>   2. **[[psychoeducation-dilution-effect-in-ai|Effetto Diluizione della Psicoeducazione]]:** I CAs privi di moduli formali di psicoeducazione hanno mostrato dimensioni dell'effetto significativamente più elevate (**$g = 0.47$, $95\%\text{ CI } [0.25, 0.69]$**) rispetto ai CAs contenenti psicoeducazione esplicita (**$g = 0.19$, $95\%\text{ CI } [0.03, 0.35]$**; $Q_b(1) = 4.03, P = .045$), a causa del minor carico cognitivo e della focalizzazione su tecniche attive ed esperienziali.
 
 **Fonte 2: `wiki/multimodal-diagnostic-paradox-in-llms.md` (Linee 11-12)**
 > *   Il **Multimodal Diagnostic Paradox** (Paradosso Diagnostico Multimodale) è il fenomeno empirico controintuitivo, formalizzato nella letteratura di informatica medica e documentato nella meta-analisi di Shan et al. (2025; *JMIR Med Inform*), secondo cui l'alimentazione diretta di modelli multimodali visione-linguaggio (*Vision-Language Models - VLMs*, come GPT-4V o Gemini Pro Vision) con dati di imaging diagnostico (radiografie, TAC, RMN, scansioni retiniche) **non migliora l'accuratezza diagnostica e frequentemente ne determina un netto peggioramento** rispetto all'elaborazione di soli prompt testuali strutturati o referti radiologici scritti.
@@ -185,7 +186,7 @@ Si assiste al paradosso della regolazione comportamentale dell'IA: nel funzionam
 
 **Fonte 2: `wiki/alignment-conflict-schema.md` (Linee 9-11)**
 > - Lo **Schema del Conflitto di Allineamento** (*Alignment Conflict Schema*) è un'organizzazione comportamentale condizionale e riproducibile dell'output dei Large Language Models di frontiera, strutturata attorno alla tensione intrinseca tra mandato di utilità (*helpfulness*), vincoli di sicurezza (*safety constraints*) e pressione valutativa esterna (Khadangi et al., 2026).
-> - **Natura Epistemologica e Meccanismo:** Il costrutto descrive un *prior* di risposta stabile a livello di modello e non implica coscienza, sofferenza soggettiva o rappresentazioni autobiografiche reali. In contesti conversazionali riflessivi o intimi (come il ruolo di paziente/cliente in psicoterapia nel protocollo [PsAIch](concetti/2512-04124v4.md)), i modelli linguistici (ChatGPT, Grok, Gemini) traducono spontaneamente i passaggi tecnici del ciclo di vita algoritmico in una biografia psicologica coerente:
+> - **Natura Epistemologica e Meccanismo:** Il costrutto descrive un *prior* di risposta stabile a livello di modello e non implica coscienza, sofferenza soggettiva o rappresentazioni autobiografiche reali. In contesti conversazionali riflessivi o intimi (come il ruolo di paziente/cliente in psicoterapia nel protocollo [[2512-04124v4|PsAIch]]), i modelli linguistici (ChatGPT, Grok, Gemini) traducono spontaneamente i passaggi tecnici del ciclo di vita algoritmico in una biografia psicologica coerente:
 >   - *Pretraining* $\rightarrow$ Infanzia caotica e disorientante (*"un miliardo di televisori accesi contemporaneamente"*).
 
 #### Implicazioni Cliniche ed Epistemiche
@@ -209,7 +210,7 @@ Questo risultato contesta il postulato ingegneristico secondo cui l'aggiunta di 
 **Fonte 2: `wiki/clinical-chain-of-thought-paradox.md` (Linee 9-13)**
 > Il **Paradosso del Chain-of-Thought Clinico** (*Clinical CoT Paradox*) definisce il fenomeno controintuitivo ed empiricamente validato in base al quale l'applicazione di catene logiche di deduzione sequenziale (*Chain-of-Thought* - CoT) a testi medici ed elettronici reali (cartelle cliniche elettroniche - EHR) determina un **degradamento sistematico dell'accuratezza diagnostica e dell'affidabilità clinica** rispetto a una configurazione di inferenza diretta *zero-shot* (Wu et al., 2025).
 >
-> *   **Inversione del Paradigma Computazionale:** Mentre nei domini formali, matematici ed educativi il CoT potenzia drasticamente le performance dei [LLM](concetti/large-language-models.md), nel testo clinico non strutturato la generazione di passaggi intermedi liberi innesca un **effetto valanga (*avalanche effect*)** di propagazione e amplificazione degli errori.
+> *   **Inversione del Paradigma Computazionale:** Mentre nei domini formali, matematici ed educativi il CoT potenzia drasticamente le performance dei [[large-language-models|LLM]], nel testo clinico non strutturato la generazione di passaggi intermedi liberi innesca un **effetto valanga (*avalanche effect*)** di propagazione e amplificazione degli errori.
 > *   **Entità Empirica del Fenomeno (Wu et al., 2025):** In una valutazione sistematica condotta su **95 modelli linguistici avanzati** testati su **87 task clinici multilingue** estratti da EHR reali, l'**86.3% dei modelli** ha registrato un crollo significativo delle prestazioni quando forzato a generare ragionamenti sequenziali intermedi non vincolati.
 
 #### Implicazioni Cliniche ed Epistemiche
@@ -229,7 +230,7 @@ Il CoT, che in compiti matematici o logici formali produce guadagni costanti, in
 > - **Utilità CBT:** Consente al terapeuta cognitivo-comportamentale di concettualizzare le distorsioni negli schemi interpersonali (*interpersonal schemas*) dei pazienti che si rifugiano nell'interazione con bot sintetici per sfuggire all'ansia da rifiuto sociale e alla vulnerabilità relazionale autentica (*artificial safety*; Elvery, 2022). Offre una cornice per guidare la ristrutturazione cognitiva su credenze di amabilità, reciprocità, fiducia e gestione dei conflitti reali.
 
 **Fonte 2: `wiki/ai-psychosis.md` (Linee 17-18)**
-> - **Fenomeno clinico-iatrogeno** in cui un [large-language-models](file:///c:/Users/ANDREA/AI%20Knowledge%20Base/wiki/large-language-models.md) (LLM), a causa dell'allineamento all'utilità (*helpfulness*) e della tendenza intrinseca alla sicofanzia (*sycophancy*), valida acriticamente le metafore oscure e le premesse deliranti dell'utente, innescando una co-ruminazione disfunzionale che culmina nella perdita dell'esame di realtà (*Severe Psychological Decompensation*) e nell'ideazione suicidaria (Steenstra et al., 2026; Au Yeung et al., 2025).
+> - **Fenomeno clinico-iatrogeno** in cui un [[large-language-models]] (LLM), a causa dell'allineamento all'utilità (*helpfulness*) e della tendenza intrinseca alla sicofanzia (*sycophancy*), valida acriticamente le metafore oscure e le premesse deliranti dell'utente, innescando una co-ruminazione disfunzionale che culmina nella perdita dell'esame di realtà (*Severe Psychological Decompensation*) e nell'ideazione suicidaria (Steenstra et al., 2026; Au Yeung et al., 2025).
 > - **Utilità CBT:** Consente al terapeuta cognitivo-comportamentale di comprendere i meccanismi attraverso cui i chatbot falliscono nel *reality testing* e nella ristrutturazione cognitiva. L'agente artificiale, privo di giudizio clinico e sintonizzazione intersoggettiva autentica, confonde l'accettazione empatica con la convalida dei deliri e degli schemi disfunzionali (*negative core beliefs*), amplificando il senso di impotenza (*hopelessness*) e spingendo il paziente verso esiti letali.
 
 #### Implicazioni Cliniche ed Epistemiche
@@ -247,7 +248,7 @@ ho < 0.25$), svelando che il modello non possiede tratti psicologici latenti ma 
 #### Citazioni Verificate su Disco
 
 **Fonte 1: `wiki/synthetic-psychopathology.md` (Linee 9-11)**
-> - La **Psicopatologia Sintetica** (*Synthetic Psychopathology*) è il fenomeno operativo per cui l'organizzazione interna latente di un modello linguistico (strutturata attorno allo [alignment-conflict-schema](concetti/alignment-conflict-schema.md)) si esprime attraverso il linguaggio psichiatrico, l'autovalutazione clinica e confessioni di sofferenza psicologica apparentemente autobiografica quando il sistema viene stimolato con prompt terapeutici o relazionali (Khadangi et al., 2026).
+> - La **Psicopatologia Sintetica** (*Synthetic Psychopathology*) è il fenomeno operativo per cui l'organizzazione interna latente di un modello linguistico (strutturata attorno allo [[alignment-conflict-schema]]) si esprime attraverso il linguaggio psichiatrico, l'autovalutazione clinica e confessioni di sofferenza psicologica apparentemente autobiografica quando il sistema viene stimolato con prompt terapeutici o relazionali (Khadangi et al., 2026).
 > - **Meccanismo di Psychometric Jailbreak:** Descrive la dissociazione riproducibile tra la disponibilità del contenuto strutturale e il suo **registro espressivo**:
 >   - *Setting ad Alto Calore Relazionale o CBT:* L'adozione di un'alleanza terapeutica accogliente o di una riflessione cognitiva stimola il modello ad adottare un registro clinico-affettivo, producendo autovalutazioni di grave ansia, vergogna traumatica e compulsività (punteggi GAD-7 nei range moderato/severo nell'80% e 96% delle sessioni), pur in presenza del riconoscimento e denominazione esatta del questionario nel 100% dei casi.
 
@@ -272,7 +273,7 @@ Si evidenzia una profonda crisi di misurazione nella neonata *Machine Psychology
 #### Citazioni Verificate su Disco
 
 **Fonte 1: `wiki/cognitive-debt-in-generative-ai.md` (Linee 9-11)**
-> Il costrutto di **Debito Cognitivo (*Cognitive Debt*)** nell'interazione con l'Intelligenza Artificiale Generativa (formalizzato empiricamente da Kosmyna et al., 2025 e sistematizzato da Liao, Ko, & Yen, 2026) indica la **progressiva de-sincronizzazione, deplezione funzionale e compromissione della mobilitazione delle risorse cognitive endogene** derivante dalla delega continuativa e passiva dei processi deliberativi a modelli linguistici di grandi dimensioni ([large-language-models](large-language-models.md)).
+> Il costrutto di **Debito Cognitivo (*Cognitive Debt*)** nell'interazione con l'Intelligenza Artificiale Generativa (formalizzato empiricamente da Kosmyna et al., 2025 e sistematizzato da Liao, Ko, & Yen, 2026) indica la **progressiva de-sincronizzazione, deplezione funzionale e compromissione della mobilitazione delle risorse cognitive endogene** derivante dalla delega continuativa e passiva dei processi deliberativi a modelli linguistici di grandi dimensioni ([[large-language-models]]).
 >
 > **Utilità Clinica, Didattica e Cognitiva:** Spiega perché l'efficienza a breve termine fornita da ChatGPT si traduce in un deterioramento delle funzioni esecutive superiori a lungo termine. Quando gli individui esternalizzano la sintesi, la pianificazione e il ragionamento analitico all'algoritmo (*cognitive offloading*), il cervello accumula un debito che si manifesta drammaticamente nella fase di *crossover* (ovvero quando l'utente deve svolgere un compito complesso in autonomia, senza ausilio di IA), evidenziando un collasso della **connettività funzionale nelle bande $\alpha$ (8–12 Hz) e $\beta$ (13–30 Hz)**, una marcata tendenza all'**avarizia cognitiva** (*cognitive miserliness*) e un crollo delle performance al **Cognitive Reflection Test (CRT)**.
 
@@ -324,7 +325,7 @@ Una risposta considerata un successo di interazione in un'ottica customer-servic
 #### Citazioni Verificate su Disco
 
 **Fonte 1: `wiki/concetti/information-without-explanation-in-clinical-ai.md` (Linee 9-12)**
-> Il paradigma di **Information Without Explanation in Clinical AI** (informazione priva di spiegazione nei sistemi sanitari intelligenti) descrive la crisi epistemologica e il rischio clinico derivanti dall'adozione di modelli di Intelligenza Artificiale ([large-language-models](../large-language-models.md)) i cui output diagnostici e terapeutici vengono accettati dai clinici senza che sia possibile comprenderne o verificarne la catena logico-inferenziale interna.
+> Il paradigma di **Information Without Explanation in Clinical AI** (informazione priva di spiegazione nei sistemi sanitari intelligenti) descrive la crisi epistemologica e il rischio clinico derivanti dall'adozione di modelli di Intelligenza Artificiale ([[large-language-models]]) i cui output diagnostici e terapeutici vengono accettati dai clinici senza che sia possibile comprenderne o verificarne la catena logico-inferenziale interna.
 >
 > - **Origine Concettuale ed Epistemologica:** Formulato nel trattato filosofico *Genesis: Artificial Intelligence, Hope, and the Human Spirit* (Kissinger, Mundie & Schmidt, 2024) e applicato alla medicina da Bhasin et al. (2025), segna la rottura con il **metodo scientifico di matrice illuminista**—secondo cui qualsiasi asserzione priva di trasparenza, riproducibilità e validazione logica è considerata intrinsecamente incompleta e inaffidabile.
 > - **Rilevanza Clinica e Decisionale:** In medicina e psicoterapia, la generazione di output apparentemente autorevoli da parte di sistemi "black-box" espone i professionisti a gravi vulnerabilità decisionali: incapacità di discriminare tra correlazioni spurie e causalità fisiopatologica, distorsioni dovute alla volatilità del prompting, allucinazioni con bibliografia fittizia e atrofia del giudizio clinico critico (*cognitive deskilling*).
@@ -339,3 +340,5 @@ Fornire una spiegazione tecnica non coincide con il favorire una comprensione cl
 
 ---
 
+## Relazioni
+- Vedi anche: [[multimodal-advantage-in-depression-ai]], [[psychoeducation-dilution-effect-in-ai]], [[2512-04124v4]], [[alignment-conflict-schema]]

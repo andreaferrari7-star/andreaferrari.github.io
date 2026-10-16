@@ -1,5 +1,6 @@
 ---
 tags: [privacy-preserving-ml, federated-learning, differential-privacy, homomorphic-encryption, telemedicine, remote-patient-monitoring, laplace-mechanism, gdpr, hipaa, cybersecurity]
+tipo_fonte: scientifica
 source_papers: ["AI-PoweredReal-TimeAdherenceMonitoringforRemotePatientCareinTelemedicine.pdf"]
 title: "Privacy-Preserving Machine Learning in Telemedicine and Remote Patient Monitoring"
 ---
@@ -82,9 +83,9 @@ graph LR
 ---
 
 ## Relazioni
-- [joshua-peterson-2025](../sintesi/joshua-peterson-2025.md)
-- [video-observed-therapy-ai](video-observed-therapy-ai.md)
-- [wearable-sensor-fusion-adherence](wearable-sensor-fusion-adherence.md)
-- [etica-privacy-bias-ia-clinica](etica-privacy-bias-ia-clinica.md)
-- [on-device-slm-mental-health](on-device-slm-mental-health.md)
+- [[joshua-peterson-2025]]
+- [[video-observed-therapy-ai]]
+- [[wearable-sensor-fusion-adherence]]
+- [[etica-privacy-bias-ia-clinica]]
+- [[on-device-slm-mental-health]]
 

@@ -1,11 +1,13 @@
 ---
 tags: []
+tipo_fonte: scientifica
+source_papers: ["2510.25384v1.pdf"]
 ---
 
 # Benchmarking e Valutazione di Competenze di Counseling per LLM
 
 **Summary**: Quadro metodologico per la valutazione quantitativa e qualitativa delle competenze psicoterapeutiche e di counseling nei Large Language Models. Comprende benchmark standardizzati di esame clinico (*CounselingBench*), compiti di comprensione del modello cognitivo CBT (*CBT-Bench*), scenari avversariali (*CounselBench-Adv*) e protocolli di valutazione comparata tra panel di LLM-as-a-Judge e psicoterapeuti esperti accreditati, evidenziando le discrepanze sistematiche tra metriche automatiche e giudizio clinico umano.
-**Sources**: `2510.25384v1.pdf` (Vu et al., 2025), `Nguyen et al., 2025` (*CounselingBench*), `Zhang et al., 2025` (*CBT-Bench*), `Li et al., 2025` (*CounselBench-Adv*)
+**Fonti**: (Vu et al., 2025), Nguyen et al., 2025 (*CounselingBench*), Zhang et al., 2025 (*CBT-Bench*), Li et al., 2025 (*CounselBench-Adv*)
 **Last updated**: 2026-08-27
 ---
 
@@ -105,13 +107,16 @@ graph LR
 
 ---
 
-## Pagine Correlate
-- [vu-et-al-2025](../sintesi/vu-et-al-2025.md): Sintesi del paper di riferimento e risultati comparativi.
-- [sqpsych-framework](sqpsych-framework.md): Architettura di generazione e modelli SQPsychLLM valutati nei benchmark.
-- [clinical-fidelity-assessment](../clinical-fidelity-assessment.md): Metodologie per la misura della fedeltà e aderenza ai modelli terapeutici.
-- [ctrs-automated-evaluation](ctrs-automated-evaluation.md): Valutazione automatizzata della scala CTRS per la CBT.
-- [cognitive-distortion-detection](cognitive-distortion-detection.md): Sistemi computazionali per il rilevamento di distorsioni cognitive.
-- [human-in-the-reasoning](human-in-the-reasoning.md): Centralità del giudizio clinico umano rispetto all'automazione algoritmica.
+## Relazioni
+- [[vu-et-al-2025]]: Sintesi del paper di riferimento e risultati comparativi.
+- [[sqpsych-framework]]: Architettura di generazione e modelli SQPsychLLM valutati nei benchmark.
+- [[clinical-fidelity-assessment]]: Metodologie per la misura della fedeltà e aderenza ai modelli terapeutici.
+- [[ctrs-automated-evaluation]]: Valutazione automatizzata della scala CTRS per la CBT.
+- [[cognitive-distortion-detection]]: Sistemi computazionali per il rilevamento di distorsioni cognitive.
+- [[human-in-the-reasoning]]: Centralità del giudizio clinico umano rispetto all'automazione algoritmica.
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Li, Z., et al. (2025). Roleplaying with Structure: Synthetic Therapist-Client Conversation Generation from Questionnaires. *arXiv preprint arXiv:2510.25384v1*.
+- Nguyen, V. C., et al. (2025). Do large language models align with core mental health counseling competencies? In *Findings of NAACL 2025*, pages 7488–7511.
+- Vu, D. N. L., Tan, R., Moench, L., Francke, S. J., Woiwod, D., Thomas-Odenthal, F., Stroth, S., Kircher, T., Hermann, C., Dannlowski, U., Jamalabadi, H., & Ji, S. (2025). Roleplaying with Structure: Synthetic Therapist-Client Conversation Generation from Questionnaires. *arXiv preprint arXiv:2510.25384v1 [cs.CL]*.
+- Zhang, M., et al. (2025). CBT-Bench: Evaluating large language models on assisting cognitive behavior therapy. In *Proceedings of NAACL-HLT 2025*, pages 3864–3900.

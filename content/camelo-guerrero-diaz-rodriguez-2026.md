@@ -1,5 +1,6 @@
 ---
 tags: [bibliometria, cluster-description, sintesi-letteratura, hybrid-workflows]
+tipo_fonte: scientifica
 source_papers: ["2605.24351v1.pdf"]
 ---
 
@@ -17,7 +18,4 @@ source_papers: ["2605.24351v1.pdf"]
 - Camelo-Guerrero, A., & Diaz-Rodriguez, J. (2026). How Much Structure Do LLMs Need? Evaluating LLMs for Bibliometric Cluster Description. *arXiv preprint arXiv:2605.24351v1*. https://arxiv.org/abs/2605.24351v1
 
 ## Relazioni
-- Vedi anche: [bibliometric-analysis](bibliometric-analysis.md), [llm-assisted-synthesis](llm-assisted-synthesis.md), [hybrid-ai-research-workflows](hybrid-ai-research-workflows.md)
-
-## Riferimenti Bibliografici
-- [Da integrare]
+- Vedi anche: [[bibliometric-analysis]], [[llm-assisted-synthesis]], [[hybrid-ai-research-workflows]]

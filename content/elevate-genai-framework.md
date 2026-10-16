@@ -1,5 +1,6 @@
 ---
 tags: [elevate-genai-framework, reporting-guidelines, ispor, health-economics-outcomes-research, heor-methodology, research-transparency, living-guideline, scientific-reproducibility]
+tipo_fonte: scientifica
 source_papers: ["ELEVATE-GenAI2025.pdf"]
 ---
 
@@ -101,15 +102,12 @@ mindmap
 - Gallifant, J., Afshar, M., Ameen, S., et al. (2025). The TRIPOD-LLM reporting guideline for studies using large language models. *Nature Medicine*, 31(1), 60–69.
 
 ## Relazioni
-- [elevate-genai2025-1](elevate-genai2025-1.md)
-- [heor-generative-ai-validation](heor-generative-ai-validation.md)
-- [chart-reporting-guideline](chart-reporting-guideline.md)
-- [chart2025-1](chart2025-1.md)
-- [traffic-light-quality-appraisal-clinical-ai](traffic-light-quality-appraisal-clinical-ai.md)
-- [chai-blueprint-health-ai](chai-blueprint-health-ai.md)
-- [large-language-models](large-language-models.md)
-- [gdpr-governance-mental-health-ai](concetti/concetti/concetti\gdpr-governance-mental-health-ai.md)
-- [ai-research-ethics](ai-research-ethics.md)
-
-## Riferimenti Bibliografici
-- [Da integrare]
+- [[elevate-genai2025-1]]
+- [[heor-generative-ai-validation]]
+- [[chart-reporting-guideline]]
+- [[chart2025-1]]
+- [[traffic-light-quality-appraisal-clinical-ai]]
+- [[chai-blueprint-health-ai]]
+- [[large-language-models]]
+- [[gdpr-governance-mental-health-ai]]
+- [[ai-research-ethics]]

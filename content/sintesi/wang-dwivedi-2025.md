@@ -1,5 +1,6 @@
 ---
 tags: [multi-omics, transcriptomics, artificial-intelligence, machine-learning, deep-learning, mdd, suicide, mirna, lncrna, circrna, snorna, pirna, single-cell-rnaseq, spatial-transcriptomics, exosomes, biomarkers, precision-psychiatry]
+tipo_fonte: scientifica
 source_papers: ["41398_2025_Article_3497.pdf"]
 ---
 
@@ -7,7 +8,7 @@ source_papers: ["41398_2025_Article_3497.pdf"]
 
 **Summary**: Review sistematica e fondamentale pubblicata su *Translational Psychiatry* da Qingzhong Wang e Yogesh Dwivedi (University of Alabama at Birmingham) che sintetizza lo stato dell'arte e le frontiere emergenti nell'applicazione delle tecnologie omiche ad alto rendimento (bulk RNA-seq, single-cell/single-nucleus RNA-seq, trascrittomica spaziale, epigenomica, proteomica) e dell'Intelligenza Artificiale (Machine Learning, Deep Learning, Natural Language Processing) nello studio del Disturbo Depressivo Maggiore (MDD) e del comportamento suicidario. Il lavoro esamina in dettaglio i profili trascrittomici in cervello postmortem, sangue periferico e modelli animali, categorizza l'intero panorama degli RNA non codificanti (miRNA, lncRNA, circRNA, snoRNA, piRNA) e delinea come i modelli computazionali avanzati (SVM, Random Deep Forest, reti neurali multimodali) stiano trasformando la scoperta di biomarcatori diagnostici, la stratificazione del rischio suicidario e la previsione di risposta ai trattamenti antidepressivi.
 
-**Sources**: `41398_2025_Article_3497.pdf` (*Translational Psychiatry* (2025) 15:275; DOI: [10.1038/s41398-025-03497-y](https://doi.org/10.1038/s41398-025-03497-y))
+**Fonti**: *Translational Psychiatry* (2025) 15:275; DOI: [10.1038/s41398-025-03497-y](https://doi.org/10.1038/s41398-025-03497-y).
 **Last updated**: 2026-08-27
 ---
 
@@ -253,12 +254,14 @@ Gli autori identificano le priorità per la ricerca futura:
 ---
 
 ## Pagine Correlate nel Knowledge Base
-- [multi-omics-depression-suicide](../concetti/multi-omics-depression-suicide.md): Integrazione di genomica, trascrittomica, epigenomica e proteomica nel MDD e nel rischio suicidario.
-- [non-coding-rna-biomarkers-psychiatry](../concetti/non-coding-rna-biomarkers-psychiatry.md): Il ruolo regolatorio di miRNA, lncRNA, circRNA, snoRNA e piRNA nei disturbi dell'umore.
-- [single-cell-and-spatial-transcriptomics-in-mental-health](../concetti/single-cell-and-spatial-transcriptomics-in-mental-health.md): Deconvoluzione cellulare cerebrale (snRNA-seq, ST, DBiT-seq) e dimorfismo sessuale.
-- [ai-multi-omics-psychiatric-biomarkers](../concetti/ai-multi-omics-psychiatric-biomarkers.md): Algoritmi di Machine Learning e Deep Learning applicati a dati omici e clinici multimodali.
-- [peripheral-blood-biomarkers-and-exosomes-in-mdd](../concetti/peripheral-blood-biomarkers-and-exosomes-in-mdd.md): Biopsia liquida, biomarcatori trascrittomici periferici ed esosomi cerebrali circolanti.
-- [treatment-outcome-and-relapse-prediction](../concetti/treatment-outcome-and-relapse-prediction.md): Predizione dell'esito clinico e della risposta ai trattamenti in salute mentale.
-- [rischio-suicidario-ai-limits](../concetti/rischio-suicidario-ai-limits.md): Limiti clinici ed etici dei modelli linguistici nella rilevazione dell'ideazione suicidaria.
-- [ai-clinical-decision-support](../concetti/ai-clinical-decision-support.md): Sistemi di supporto alle decisioni cliniche in psichiatria e psicoterapia.
+- [[multi-omics-depression-suicide]]: Integrazione di genomica, trascrittomica, epigenomica e proteomica nel MDD e nel rischio suicidario.
+- [[non-coding-rna-biomarkers-psychiatry]]: Il ruolo regolatorio di miRNA, lncRNA, circRNA, snoRNA e piRNA nei disturbi dell'umore.
+- [[single-cell-and-spatial-transcriptomics-in-mental-health]]: Deconvoluzione cellulare cerebrale (snRNA-seq, ST, DBiT-seq) e dimorfismo sessuale.
+- [[ai-multi-omics-psychiatric-biomarkers]]: Algoritmi di Machine Learning e Deep Learning applicati a dati omici e clinici multimodali.
+- [[peripheral-blood-biomarkers-and-exosomes-in-mdd]]: Biopsia liquida, biomarcatori trascrittomici periferici ed esosomi cerebrali circolanti.
+- [[treatment-outcome-and-relapse-prediction]]: Predizione dell'esito clinico e della risposta ai trattamenti in salute mentale.
+- [[rischio-suicidario-ai-limits]]: Limiti clinici ed etici dei modelli linguistici nella rilevazione dell'ideazione suicidaria.
+- [[ai-clinical-decision-support]]: Sistemi di supporto alle decisioni cliniche in psichiatria e psicoterapia.
 
+## Relazioni
+- Vedi anche: [[41398-2025-article-3497]], [[multi-omics-ai-psychiatry]], [[non-coding-rna-psychiatric-biomarkers]], [[ai-multi-omics-psychiatric-biomarkers]], [[multi-omics-depression-suicide]], [[non-coding-rna-biomarkers-psychiatry]], [[peripheral-blood-biomarkers-and-exosomes-in-mdd]], [[reti-neurali-in-psicologia]]

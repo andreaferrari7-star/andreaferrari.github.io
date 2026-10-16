@@ -1,5 +1,6 @@
 ---
 tags: [intherapy, iper-lab, greta, routine-outcome-monitoring, early-vs-late-dropout, cbt-online, ampd, pid-5, network-analysis, emotional-disorders, personality-disorders, rcsi, predictive-coding, metastabilita, clinical-decision-support]
+tipo_fonte: scientifica
 source_papers: ["Bollettino_IPERlab_inTherapy_N01 (1).pdf"]
 ---
 
@@ -65,15 +66,12 @@ flowchart TD
 
 ## Relazioni
 
-- [early-vs-late-dropout-cbt](early-vs-late-dropout-cbt.md)
-- [metastabilita-predictive-coding-trauma](metastabilita-predictive-coding-trauma.md)
-- [treatment-outcome-and-relapse-prediction](concetti/treatment-outcome-and-relapse-prediction.md)
-- [clinical-fidelity-assessment](clinical-fidelity-assessment.md)
-- [personalized-networks-in-psychotherapy](concetti/concetti/concetti\personalized-networks-in-psychotherapy.md)
-- [processes-of-change-in-psychotherapy](processes-of-change-in-psychotherapy.md)
-- [process-based-therapy](concetti/process-based-therapy.md)
-- [software-as-a-medical-device-salute-mentale](software-as-a-medical-device-salute-mentale.md)
-- [modello-centauro-clinico](concetti/concetti/concetti\modello-centauro-clinico.md)
-
-## Riferimenti Bibliografici
-- [Da integrare]
+- [[early-vs-late-dropout-cbt]]
+- [[metastabilita-predictive-coding-trauma]]
+- [[treatment-outcome-and-relapse-prediction]]
+- [[clinical-fidelity-assessment]]
+- [[personalized-networks-in-psychotherapy]]
+- [[processes-of-change-in-psychotherapy]]
+- [[process-based-therapy]]
+- [[software-as-a-medical-device-salute-mentale]]
+- [[modello-centauro-clinico]]

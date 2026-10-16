@@ -1,11 +1,13 @@
 ---
 tags: []
+tipo_fonte: scientifica
+source_papers: ["ai-v5-e84305.pdf"]
 ---
 
 # Bias Transculturali, Disparità Algoritmiche e Audit di Equità nell'IA Clinica
 
 **Summary**: Analisi delle disparità sistematiche e dei bias etno-culturali, linguistici e demografici nei modelli di intelligenza artificiale applicati alla salute mentale, con disamina degli strumenti di audit algoritmico (IBM AI Fairness 360, Google What-If Tool) e delle metodologie di co-design partecipativo per un'IA inclusiva ed equa.
-**Sources**: Kandeel et al. (2026) - `ai-v5-e84305.pdf`, Obermeyer et al. (2019), Harrigian et al. (2021), Liu et al. (2023)
+**Fonti**: Kandeel et al. (2026), Obermeyer et al. (2019), Harrigian et al. (2021), Liu et al. (2023)
 **Last updated**: 2026-08-27
 ---
 
@@ -77,16 +79,21 @@ La conformità alle linee guida dell'OMS (2021), al GDPR e all'EU AI Act impone 
 
 ---
 
-## Related pages
-- [kandeel-et-al-2026](../sintesi/kandeel-et-al-2026.md)
-- [weird-bias-cultural-adaptability-ai](weird-bias-cultural-adaptability-ai.md)
-- [audit-bias-llm-clinici](concetti/concetti\audit-bias-llm-clinici.md)
-- [misurazione-bias-razziale-llm](concetti/concetti\misurazione-bias-razziale-llm.md)
-- [gdpr-governance-mental-health-ai](concetti/concetti\gdpr-governance-mental-health-ai.md)
-- [algorithmic-paternalism-in-ai-mental-health](concetti/concetti\algorithmic-paternalism-in-ai-mental-health.md)
-- [federated-learning-and-differential-privacy-mental-health](federated-learning-and-differential-privacy-mental-health.md)
-- [three-layer-governance-framework](concetti/concetti\three-layer-governance-framework.md)
-- [etica-privacy-bias-ia-clinica](etica-privacy-bias-ia-clinica.md)
+## Relazioni
+- [[kandeel-et-al-2026]]
+- [[weird-bias-cultural-adaptability-ai]]
+- [[audit-bias-llm-clinici]]
+- [[misurazione-bias-razziale-llm]]
+- [[gdpr-governance-mental-health-ai]]
+- [[algorithmic-paternalism-in-ai-mental-health]]
+- [[federated-learning-and-differential-privacy-mental-health]]
+- [[three-layer-governance-framework]]
+- [[etica-privacy-bias-ia-clinica]]
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Harrigian, K., Aguirre, C., & Dredze, M. (2021). On the state of social media data for mental health research. *CLPsych 2021*, 15–24.
+- Kandeel, M. E., Abo Hamza, E. G., Abouahmed, A., AbdelAziz, G. M., Hashish, A., Abo El Wafa, T., Khalil, A., & Eldakak, A. (2026). AI applications integrating legal and regulatory perspectives in mental health: Systematic review. *JMIR AI*, *5*, e84305. https://doi.org/10.2196/84305
+- Liu, Y., Ye, H., Weissweiler, L., Pei, R., & Schuetze, H. (2023). Crosslingual transfer learning for low-resource languages based on multilingual colexification graphs. *EMNLP 2023*, 562.
+- Obermeyer, Z., Powers, B., Vogeli, C., & Mullainathan, S. (2019). Dissecting racial bias in an algorithm used to manage the health of populations. *Science*, 366(6464), 447–453.
+- Sheller, M. J., Edwards, B., Reina, G. A., et al. (2020). Federated learning in medicine: facilitating multi-institutional collaborations without sharing patient data. *Scientific Reports*, 10(1), 12598.
+- Torous, J., Bucci, S., Bell, I. H., Kessing, L. V., Faurholt-Jepsen, M., Whelan, P., ... & Firth, J. (2021). The growing field of digital psychiatry: Current evidence and the future of apps, social media, chatbots, and virtual reality. *World Psychiatry*, 20(3), 318–335.

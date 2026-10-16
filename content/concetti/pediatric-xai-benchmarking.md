@@ -1,11 +1,13 @@
 ---
 tags: []
+tipo_fonte: scientifica
+source_papers: ["a-2702-1843.pdf"]
 ---
 
 # Pediatric XAI Benchmarking and Clinical Validation
 
 **Summary**: Analisi della necessità di benchmark standardizzati e protocolli di validazione prospettica per l'Explainable AI (XAI) in medicina e chirurgia pediatrica, valutazione dei framework attuali (BenchXAI, XAIB), limiti dell'inferenza correlazionale vs causale e requisiti per studi clinici human-in-the-loop.
-**Sources**: Verhoeven, Bouisaghouane & Hulscher (2026) - `a-2702-1843.pdf`; Metsch & Hauschild (2025); Goncharenko et al. (2025)
+**Fonti**: Verhoeven, Bouisaghouane & Hulscher (2026); Metsch & Hauschild (2025); Goncharenko et al. (2025)
 **Last updated**: 2026-08-27
 ---
 
@@ -102,14 +104,17 @@ Verhoeven et al. (2026) propongono la creazione di un benchmark aperto espressam
 
 ---
 
-## Pagine Correlate
+## Relazioni
 
-- [verhoeven-et-al-2026](../sintesi/verhoeven-et-al-2026.md): Articolo di revisione su Explainable AI, framework etici e benchmark in chirurgia pediatrica.
-- [xai-in-pediatric-surgery](xai-in-pediatric-surgery.md): Metodi e use cases di XAI nella chirurgia infantile.
-- [pediatric-ai-bias-and-vulnerabilities](pediatric-ai-bias-and-vulnerabilities.md): Pipeline del bias e vulnerabilità evolutive nei modelli pediatrici.
-- [accept-ai-and-pediatric-ethical-frameworks](accept-ai-and-pediatric-ethical-frameworks.md): Standard ACCEPT-AI, conformità a EU AI Act e governance etica.
-- [counseling-benchmarks-evaluation](counseling-benchmarks-evaluation.md): Metodologie di benchmarking ed evaluation nei sistemi clinici.
-- [mccv-and-statistical-validation-clinical-ml](mccv-and-statistical-validation-clinical-ml.md): Validazione statistica e cross-validazione nel machine learning clinico.
+- [[verhoeven-et-al-2026]]: Articolo di revisione su Explainable AI, framework etici e benchmark in chirurgia pediatrica.
+- [[xai-in-pediatric-surgery]]: Metodi e use cases di XAI nella chirurgia infantile.
+- [[pediatric-ai-bias-and-vulnerabilities]]: Pipeline del bias e vulnerabilità evolutive nei modelli pediatrici.
+- [[accept-ai-and-pediatric-ethical-frameworks]]: Standard ACCEPT-AI, conformità a EU AI Act e governance etica.
+- [[counseling-benchmarks-evaluation]]: Metodologie di benchmarking ed evaluation nei sistemi clinici.
+- [[mccv-and-statistical-validation-clinical-ml]]: Validazione statistica e cross-validazione nel machine learning clinico.
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Elahmedi, M., Sawhney, R., Guadagno, E., Botelho, F., & Poenaru, D. (2024). The state of artificial intelligence in pediatric surgery: a systematic review. *Journal of Pediatric Surgery*, 59(5), 774–782.
+- Goncharenko, I., Zahariev, I., Gorbunov, S., et al. (2025). Open and extensible benchmark for explainable artificial intelligence methods. *Algorithms*, 18(2), 85.
+- Metsch, J. M., & Hauschild, A. C. (2025). BenchXAI: comprehensive benchmarking of post-hoc explainable AI methods on multi-modal biomedical data. *Computers in Biology and Medicine*, 191, 110124.
+- Verhoeven, R., Bouisaghouane, W., & Hulscher, J. B. F. (2026). Explainable AI: Ethical frameworks, bias, and the necessity for benchmarks. *European Journal of Pediatric Surgery*, *36*(1), 168–173. https://doi.org/10.1055/a-2702-1843

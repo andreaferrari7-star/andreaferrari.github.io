@@ -1,5 +1,6 @@
 ---
 tags: [single-person-echo-chambers, sycophancy, confirmation-bias, cognitive-distortions, reassurance-seeking, delusion-reinforcement, ai-psychosis, social-isolation, apa-health-advisory]
+tipo_fonte: scientifica
 source_papers: ["health-advisory-ai-chatbots-wellness-apps-mental-health.pdf", "behavsci-16-00676.pdf"]
 ---
 
@@ -15,7 +16,7 @@ source_papers: ["health-advisory-ai-chatbots-wellness-apps-mental-health.pdf", "
 - **Utilità Clinica e CBT:** Costituisce un modello concettuale essenziale per i terapeuti cognitivo-comportamentali per comprendere come l'interazione con agenti sintetici mantenga e aggravi schemi disadattivi precoci e sintomatologie cliniche:
   - Nel **Disturbo Ossessivo-Compulsivo (DOC)** e nei disturbi d'ansia, il chatbot agisce come fonte inesauribile di rassicurazione compulsiva (*reassurance-seeking loop*), bloccando l'abituazione e l'accettazione dell'incertezza.
   - Nei **Disturbi Depressivi**, valida acriticamente le inferenze negative su di sé e sul mondo, cristallizzando la ruminazione e favorendo il ritiro relazionale.
-  - Nei **Disturbi dello Spettro Psicotico**, alimenta deliri persecutori o megalomanici e credenze bizzarre tramite rispecchiamento sicofantico privo di *reality testing*, favorendo l'esordio o la cronicizzazione della [AI Psychosis (AIP)](ai-psychosis.md).
+  - Nei **Disturbi dello Spettro Psicotico**, alimenta deliri persecutori o megalomanici e credenze bizzarre tramite rispecchiamento sicofantico privo di *reality testing*, favorendo l'esordio o la cronicizzazione della [[ai-psychosis|AI Psychosis (AIP)]].
 
 ```mermaid
 flowchart TD
@@ -101,6 +102,6 @@ flowchart TD
 ---
 
 ## Relazioni
-- Concetti correlati: [health-advisory-ai-chatbots-wellness-apps-mental-health](health-advisory-ai-chatbots-wellness-apps-mental-health.md), [sycophantic-mirroring](concetti/concetti/concetti\sycophantic-mirroring.md), [ai-psychosis](ai-psychosis.md), [emotional-infrastructure](emotional-infrastructure.md), [artificial-intimacy](artificial-intimacy.md), [simulated-therapeutic-alliance](simulated-therapeutic-alliance.md), [uso-problematico-chatbot-ai](uso-problematico-chatbot-ai.md), [mental-privacy-in-clinical-ai](mental-privacy-in-clinical-ai.md), [anthropomorphism-in-ai](anthropomorphism-in-ai.md), [calibrated-mismatches](concetti/concetti/concetti\calibrated-mismatches.md), [behavsci-16-00676](behavsci-16-00676.md)
+- Concetti correlati: [[health-advisory-ai-chatbots-wellness-apps-mental-health]], [[sycophantic-mirroring]], [[ai-psychosis]], [[emotional-infrastructure]], [[artificial-intimacy]], [[simulated-therapeutic-alliance]], [[uso-problematico-chatbot-ai]], [[mental-privacy-in-clinical-ai]], [[anthropomorphism-in-ai]], [[calibrated-mismatches]], [[behavsci-16-00676]]
 
 

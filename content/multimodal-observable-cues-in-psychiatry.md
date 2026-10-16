@@ -11,6 +11,7 @@ tags:
   - affective-computing
   - clinical-decision-support
   - hrv
+tipo_fonte: scientifica
 source_papers:
   - frai-08-1696448.pdf
 ---
@@ -26,8 +27,8 @@ source_papers:
   3. *Espressioni facciali e dinamiche oculari* (computer vision, Action Units del FACS, attivazione dei muscoli zigomatico e corrugatore, ammiccamento e fissazione visiva);
   4. *Segnali motori e postura corporea* (fidgeting, gesti adattatori, ampiezza e lentezza dei movimenti corporei);
   5. *Fisiologia autonomica periferica* (variabilità della frequenza cardiaca HRV, aritmia sinusale respiratoria RSA, conduttanza cutanea EDA/SCL, pressione arteriosa e intervallo QTc);
-  6. *Telemetria digitale passiva* ([Passive Sensing](file:///c:/Users/ANDREA/AI%20Knowledge%20Base/wiki/wearable-sensor-fusion-adherence.md)) (raggio di mobilità GPS, entropia dei luoghi visitati, log delle chiamate/messaggi, utilizzo delle app e ritmo circadiano sonno-veglia).
-- **Fondamento per l'[Explainable AI (XAI)](concetti/explainable-mental-health-diagnosis.md):** A differenza delle architetture deep learning puramente "black-box", l'ancoraggio a feature clinico-comportamentali osservabili garantisce trasparenza epistemica, consentendo al clinico di comprendere quali parametri specifici guidino la stima del rischio diagnostico o prognostico.
+  6. *Telemetria digitale passiva* ([[wearable-sensor-fusion-adherence|Passive Sensing]]) (raggio di mobilità GPS, entropia dei luoghi visitati, log delle chiamate/messaggi, utilizzo delle app e ritmo circadiano sonno-veglia).
+- **Fondamento per l'[[explainable-mental-health-diagnosis|Explainable AI (XAI)]]:** A differenza delle architetture deep learning puramente "black-box", l'ancoraggio a feature clinico-comportamentali osservabili garantisce trasparenza epistemica, consentendo al clinico di comprendere quali parametri specifici guidino la stima del rischio diagnostico o prognostico.
 
 ```mermaid
 flowchart TD
@@ -194,14 +195,14 @@ Poiché i dati clinici longitudinali per singolo paziente sono quantitativamente
 
 ---
 
-## Related pages
+## Relazioni
 
-- [frai-08-1696448](frai-08-1696448.md): Rassegna di revisioni sistematiche su indicatori multimodali per XAI.
-- [bpd-multimodal-behavioral-markers](bpd-multimodal-behavioral-markers.md): Indicatori comportamentali, fisiologici e relazionali specifici del BPD.
-- [multimodal-anxiety-detection-ai](multimodal-anxiety-detection-ai.md): Riconoscimento multimodale dell'ansia e biosensori.
-- [explainable-mental-health-diagnosis](explainable-mental-health-diagnosis.md): Metodi di Explainable AI (XAI) applicati alla diagnosi psichiatrica.
-- [social-media-phenotyping-anxiety](social-media-phenotyping-anxiety.md): Fenotipizzazione dell'ansia tramite analisi dei social media.
-- [wearable-sensor-fusion-adherence](wearable-sensor-fusion-adherence.md): Fusione di sensori indossabili e telemetria passiva.
-- [modello-centauro-clinico](concetti/concetti/concetti\modello-centauro-clinico.md): Integrazione human-in-the-loop per la sintesi tra intuizione clinica e biomarcatori digitali.
+- [[frai-08-1696448]]: Rassegna di revisioni sistematiche su indicatori multimodali per XAI.
+- [[bpd-multimodal-behavioral-markers]]: Indicatori comportamentali, fisiologici e relazionali specifici del BPD.
+- [[multimodal-anxiety-detection-ai]]: Riconoscimento multimodale dell'ansia e biosensori.
+- [[explainable-mental-health-diagnosis]]: Metodi di Explainable AI (XAI) applicati alla diagnosi psichiatrica.
+- [[social-media-phenotyping-anxiety]]: Fenotipizzazione dell'ansia tramite analisi dei social media.
+- [[wearable-sensor-fusion-adherence]]: Fusione di sensori indossabili e telemetria passiva.
+- [[modello-centauro-clinico]]: Integrazione human-in-the-loop per la sintesi tra intuizione clinica e biomarcatori digitali.
 
 

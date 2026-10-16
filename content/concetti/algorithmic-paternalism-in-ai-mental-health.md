@@ -2,6 +2,8 @@
 title: Paternalismo Algoritmico e Autonomia del Paziente nell'IA Clinica
 date: 2026-08-31
 tags: [paternalismo-algoritmico, ia-salute-mentale, autonomia-paziente, automation-bias, etica-ia]
+tipo_fonte: scientifica
+source_papers: ["ai-v5-e84305.pdf"]
 ---
 
 # Paternalismo Algoritmico e Autonomia del Paziente nell'IA Clinica
@@ -40,7 +42,7 @@ Il rischio è amplificato dalle disuguaglianze socio-sanitarie (Dzangare & Gulu,
 
 **Riferimenti Bibliografici:**
 
-*   Kandeel et al. (2026) - `ai-v5-e84305.pdf`
+*   Kandeel et al. (2026)
 *   Topol, E. (2019). *Deep Medicine*.
 *   Darcy, A., et al. (2021).
 *   Dzangare, T., & Gulu, M. (2025).
@@ -49,15 +51,12 @@ Il rischio è amplificato dalle disuguaglianze socio-sanitarie (Dzangare & Gulu,
 
 ## Relazioni
 
-- [kandeel-et-al-2026](../sintesi/kandeel-et-al-2026.md)
-- [gdpr-governance-mental-health-ai](concetti/concetti\gdpr-governance-mental-health-ai.md)
-- [fast-food-psychotherapy](fast-food-psychotherapy.md)
-- [sycophantic-mirroring](concetti/concetti\sycophantic-mirroring.md)
-- [calibrated-mismatches](concetti/concetti\calibrated-mismatches.md)
-- [simulated-empathy-vs-authentic-presence](concetti/concetti\simulated-empathy-vs-authentic-presence.md)
-- [human-in-the-reasoning](human-in-the-reasoning.md)
-- [cross-cultural-bias-and-fairness-audits-ai](cross-cultural-bias-and-fairness-audits-ai.md)
-- [explainable-mental-disorder-diagnosis](explainable-mental-disorder-diagnosis.md)
-
-## Riferimenti Bibliografici
-- [Da integrare]
+- [[kandeel-et-al-2026]]
+- [[gdpr-governance-mental-health-ai]]
+- [[fast-food-psychotherapy]]
+- [[sycophantic-mirroring]]
+- [[calibrated-mismatches]]
+- [[simulated-empathy-vs-authentic-presence]]
+- [[human-in-the-reasoning]]
+- [[cross-cultural-bias-and-fairness-audits-ai]]
+- [[explainable-mental-disorder-diagnosis]]

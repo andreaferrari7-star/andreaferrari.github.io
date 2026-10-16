@@ -1,5 +1,6 @@
 ---
 tags: [eemm, process-based-therapy, pbt, dimensioni-psicologiche, analisi-funzionale, tassonomia-clinica, multi-label-classification]
+tipo_fonte: scientifica
 source_papers: ["2512.05836v1.pdf", "1-s2.0-S0272735826000917-main.pdf"]
 title: "Extended Evolutionary Meta-Model (EEMM)"
 ---
@@ -68,10 +69,10 @@ Nel framework di annotazione e prompting proposto da Ong et al. (2025):
 
 ---
 
-## Pagine Correlate
-- [ong-et-al-2025](../sintesi/ong-et-al-2025.md)
-- [personalized-networks-in-psychotherapy](concetti/concetti\personalized-networks-in-psychotherapy.md)
-- [process-based-therapy](process-based-therapy.md)
-- [process-of-change](process-of-change.md)
-- [llm-case-conceptualization-pipeline](concetti/concetti\llm-case-conceptualization-pipeline.md)
+## Relazioni
+- [[ong-et-al-2025]]
+- [[personalized-networks-in-psychotherapy]]
+- [[process-based-therapy]]
+- [[process-of-change]]
+- [[llm-case-conceptualization-pipeline]]
 

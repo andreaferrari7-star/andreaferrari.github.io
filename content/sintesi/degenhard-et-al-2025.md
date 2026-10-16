@@ -1,12 +1,13 @@
 ---
 tags: [generative-ai, cptsd, exposure-therapy, vret, trauma-informed-design, mental-health, hci, ethics, reality-distortion]
+tipo_fonte: scientifica
 source_papers: ["2505.20796v1.pdf"]
 ---
 
 # Describe Me Something You Do Not Remember: Challenges and Risks of Exposure Design Using Generative AI for Therapy of Complex PTSD (Degenhard et al., 2025)
 
 **Summary**: Analisi critica delle opportunità e dei rischi associati all'impiego dell'Intelligenza Artificiale Generativa (GAI) per la visualizzazione personalizzata in tempo reale nella psicoterapia di esposizione per il Disturbo da Stress Post-Traumatico Complesso (CPTSD). Gli autori esaminano la natura esplorativa del recupero mnestico dissociativo, propongono una tassonomia di 6 rischi clinici paziente-dipendenti, evidenziano le criticità etiche e tecniche della GAI (instabilità di editing, bias algoritmici, distorsione della memoria, gestione dei filtri per abusi) e delineano principi di *Trauma-Informed HCI Design* basati su un'interazione triadica guidata dal terapeuta.
-**Sources**: `2505.20796v1.pdf` (*arXiv:2505.20796v1 [cs.HC]*, Ulm University, 27 May 2025)
+**Fonti**: *arXiv:2505.20796v1 [cs.HC]*, Ulm University, 27 May 2025.
 **Last updated**: 2026-08-27
 ---
 
@@ -150,11 +151,13 @@ flowchart LR
 ---
 
 ## Pagine e Concetti Correlati
-- [generative-ai-exposure-therapy](../concetti/generative-ai-exposure-therapy.md): Opportunità e modalità d'uso della GAI per la visualizzazione dell'esposizione traumatica.
-- [rischi-esposizione-cptsd-ia](../concetti/rischi-esposizione-cptsd-ia.md): Tassonomia e analisi dei 6 rischi clinici (R1-R6) nell'esposizione mediata da IA.
-- [interazione-triadica-terapeuta-paziente-ia](../concetti/interazione-triadica-terapeuta-paziente-ia.md): Architettura di interazione triadica e principi di Trauma-Informed HCI.
-- [distorsione-memoria-imagery-rescripting-ia](../concetti/distorsione-memoria-imagery-rescripting-ia.md): Differenziazione clinica tra allucinazioni/falsi ricordi dell'IA e Imagery Rescripting terapeutico.
-- [algorithmic-bias-and-digital-inequalities](../concetti/algorithmic-bias-and-digital-inequalities.md): Bias dei dati, esclusione culturale e popolazioni minoritarie nell'IA per la salute mentale.
-- [human-in-the-reasoning](../human-in-the-reasoning.md): Centralità e autorità clinica del professionista nei sistemi ibridi di IA.
-- [ai-assisted-psychotherapy](../ai-assisted-psychotherapy.md): Panoramica generale sull'integrazione tecnologica nei processi psicoterapeutici.
+- [[generative-ai-exposure-therapy]]: Opportunità e modalità d'uso della GAI per la visualizzazione dell'esposizione traumatica.
+- [[rischi-esposizione-cptsd-ia]]: Tassonomia e analisi dei 6 rischi clinici (R1-R6) nell'esposizione mediata da IA.
+- [[interazione-triadica-terapeuta-paziente-ia]]: Architettura di interazione triadica e principi di Trauma-Informed HCI.
+- [[distorsione-memoria-imagery-rescripting-ia]]: Differenziazione clinica tra allucinazioni/falsi ricordi dell'IA e Imagery Rescripting terapeutico.
+- [[algorithmic-bias-and-digital-inequalities]]: Bias dei dati, esclusione culturale e popolazioni minoritarie nell'IA per la salute mentale.
+- [[human-in-the-reasoning]]: Centralità e autorità clinica del professionista nei sistemi ibridi di IA.
+- [[ai-assisted-psychotherapy]]: Panoramica generale sull'integrazione tecnologica nei processi psicoterapeutici.
 
+## Relazioni
+- Vedi anche: [[distorsione-memoria-imagery-rescripting-ia]], [[generative-ai-exposure-therapy]], [[interazione-triadica-terapeuta-paziente-ia]], [[rischi-esposizione-cptsd-ia]], [[algorithmic-bias-and-digital-inequalities]], [[human-in-the-reasoning]], [[ai-assisted-psychotherapy]]

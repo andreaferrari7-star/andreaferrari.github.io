@@ -1,17 +1,19 @@
 ---
 tags: []
+tipo_fonte: interna
+source_papers: ["07-10 Riunione_ Test e Valutazione di “Libet Prime” (Tutor AI per Libet_CBT), Trainer Simulator e Piano Operativo.txt", "05-08 Riunione_ Sviluppo Knowledge Base AI, Etica e Applicazioni Cliniche.txt"]
 ---
 
 # Testing e Validazione di Agenti Didattici
 
 **Summary**: Metodologia, protocolli operativi e criteri qualitativi per la sperimentazione, il benchmarking e la prevenzione delle regressioni algoritmiche nello sviluppo di agenti AI applicati alla didattica e alla clinica psicoterapeutica.
-**Sources**: `07-10 Riunione_ Test e Valutazione di “Libet Prime” (Tutor AI per Libet_CBT), Trainer Simulator e Piano Operativo.txt`, `05-08 Riunione_ Sviluppo Knowledge Base AI, Etica e Applicazioni Cliniche.txt`
+**Fonti**: [[07-10-riunione-test-libet-prime|Riunione 07-10: Test e Valutazione di Libet Prime, Trainer Simulator e Piano Operativo]], [[05-08-riunione-knowledge-base|Riunione 05-08: Sviluppo Knowledge Base AI, Etica e Applicazioni Cliniche]]
 **Last updated**: 2026-08-27
 ---
 
 ## Necessità di un Protocollo di Validazione Strutturato
 
-L'implementazione di Large Language Model nella formazione specialistica in psicoterapia (es. [libet-prime](concetti/concetti\libet-prime.md), [trainer-simulator](trainer-simulator.md)) richiede protocolli di test empirici rigorosi. L'interazione informale ("smanettamento libero") è insufficiente per garantire che l'agente mantenga coerenza epistemica, accuratezza concettuale e sicurezza deontologica.
+L'implementazione di Large Language Model nella formazione specialistica in psicoterapia (es. [[libet-prime]], [[trainer-simulator]]) richiede protocolli di test empirici rigorosi. L'interazione informale ("smanettamento libero") è insufficiente per garantire che l'agente mantenga coerenza epistemica, accuratezza concettuale e sicurezza deontologica.
 
 ---
 
@@ -56,14 +58,11 @@ flowchart TD
 
 ---
 
-## Related pages
-- [07-10_Riunione_Test_Valutazione_Libet_Prime](../sintesi/07-10_Riunione_Test_Valutazione_Libet_Prime.md)
-- [libet-prime](concetti/concetti\libet-prime.md)
-- [trainer-simulator](trainer-simulator.md)
-- [ia-maieutica-e-co-ragionamento](ia-maieutica-e-co-ragionamento.md)
-- [clinical-fidelity-assessment](../clinical-fidelity-assessment.md)
-- [human-in-the-reasoning](human-in-the-reasoning.md)
-- [prompting-in-psychology](../prompting-in-psychology.md)
-
-## Riferimenti Bibliografici
-- [Da integrare]
+## Relazioni
+- [[07-10-riunione-test-libet-prime]]
+- [[libet-prime]]
+- [[trainer-simulator]]
+- [[ia-maieutica-e-co-ragionamento]]
+- [[clinical-fidelity-assessment]]
+- [[human-in-the-reasoning]]
+- [[prompting-in-psychology]]

@@ -1,12 +1,13 @@
 ---
 tags: [reflected-appraisal, concetto-di-se, genuineness-gap, intersoggettivita, esperienze-emotive-correttive, autostima, psicoterapia-ia]
+tipo_fonte: scientifica
 source_papers: ["2509.02144v1.pdf"]
 ---
 
 # Reflected Appraisal nella Terapia con Agenti IA
 
 **Summary**: Analisi del processo socio-cognitivo di *Reflected Appraisal* (valutazione riflessa del Sé) applicato alle interazioni cliniche uomo-macchina. Herbener & Damholdt (2025) dimostrano come la consapevolezza della natura inanimata di un agente artificiale riduca la contingenza del concetto di Sé rispetto ai suoi messaggi empatici (*decreased self-concept contingency*), limitando l'efficacia delle esperienze emotive correttive.
-**Sources**: Herbener & Damholdt (2025) - `2509.02144v1.pdf`
+**Fonti**: Herbener & Damholdt (2025)
 **Last updated**: 2026-08-27
 ---
 
@@ -54,11 +55,13 @@ flowchart TD
 ---
 
 ## Relazioni
-- [herbener-damholdt-2025](../sintesi/herbener-damholdt-2025.md)
-- [genuineness-gap](genuineness-gap.md)
-- [ontological-and-sociocultural-status](ontological-and-sociocultural-status.md)
-- [simulated-empathy-vs-authentic-presence](concetti/concetti\simulated-empathy-vs-authentic-presence.md)
-- [blended-care-ai-framework](blended-care-ai-framework.md)
+- [[herbener-damholdt-2025]]
+- [[genuineness-gap]]
+- [[ontological-and-sociocultural-status]]
+- [[simulated-empathy-vs-authentic-presence]]
+- [[blended-care-ai-framework]]
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Goldfried, M. R. (2012). The corrective experience: A core principle for therapeutic change. In *Transformation in psychotherapy* (pp. 13–29). American Psychological Association.
+- Herbener, A. B., & Damholdt, M. F. (2025). A Theoretical Framework of the Processes of Change in Psychotherapy Delivered by Artificial Agents. *arXiv preprint arXiv:2509.02144v1 [cs.HC]*, 1–16. https://doi.org/10.48550/arXiv.2509.02144
+- Rogers, C. R. (1957). The necessary and sufficient conditions of therapeutic personality change. *Journal of Consulting Psychology*, *21*(2), 95–103. https://doi.org/10.1037/h0045357

@@ -1,11 +1,13 @@
 ---
 tags: []
+tipo_fonte: scientifica
+source_papers: ["2512.16206v2.pdf"]
 ---
 
 # Intervention Titration in AI Support (Titolazione dell'Intervento Terapeutico nell'IA)
 
 **Summary**: Principio di design interattivo per la salute mentale digitale mutuato dalla titolazione farmacologica in psichiatria: processo iterativo e collaborativo per regolare l'orientamento teorico, il tono e il livello di approfondimento dell'intervento di supporto dell'IA in base al feedback continuo dell'utente, evitando il sovraccarico cognitivo derivante dall'esposizione grezza delle tracce Chain-of-Thought (CoT).
-**Sources**: Pendse et al. (2026) - `2512.16206v2.pdf`; Caffrey & Borrelli (2020); Dattilio & Hanna (2012); Pang et al. (2025); Korbak et al. (2025).
+**Fonti**: Pendse et al. (2026); Caffrey & Borrelli (2020); Dattilio & Hanna (2012); Pang et al. (2025); Korbak et al. (2025).
 **Last updated**: 2026-08-27
 ---
 
@@ -50,15 +52,22 @@ Nel paradigma dell'Interpretabilità Riflessiva (Pendse et al., 2026), la titola
 
 ---
 
-## Pagine Correlate
-- [reflective-interpretability](reflective-interpretability.md)
-- [pendse-et-al-2026](../sintesi/pendse-et-al-2026.md)
-- [role-induction-ai-mental-health](role-induction-ai-mental-health.md)
-- [prosocial-advance-directives](prosocial-advance-directives.md)
-- [recourse-mechanisms-ai-mental-health](recourse-mechanisms-ai-mental-health.md)
-- [psychological-distress-interaction-patterns](psychological-distress-interaction-patterns.md)
-- [calibrated-mismatches](concetti/concetti\calibrated-mismatches.md)
-- [weird-bias-cultural-adaptability-ai](weird-bias-cultural-adaptability-ai.md)
+## Relazioni
+- [[reflective-interpretability]]
+- [[pendse-et-al-2026]]
+- [[role-induction-ai-mental-health]]
+- [[prosocial-advance-directives]]
+- [[recourse-mechanisms-ai-mental-health]]
+- [[psychological-distress-interaction-patterns]]
+- [[calibrated-mismatches]]
+- [[weird-bias-cultural-adaptability-ai]]
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Caffrey, A. R., & Borrelli, E. P. (2020). The art and science of drug titration. *Therapeutic Advances in Drug Safety*, 11, 2042098620958910.
+- Dattilio, F. M., & Hanna, M. A. (2012). Collaboration in cognitive-behavioral therapy. *Journal of Clinical Psychology*, *68*(2), 146–158.
+- Jung, K., Lee, G., Huang, Y., & Chen, Y. (2025). " i’ve talked to chatgpt about my issues last night.": Examining mental health conversations with large language models through reddit analysis. *arXiv preprint* arXiv:2504.20320.
+- Korbak, T., Balesni, M., Barnes, E., Bengio, Y., Benton, J., Bloom, J., Chen, M., Cooney, A., Dafoe, A., Dragan, A., et al. (2025). Chain of thought monitorability: A new and fragile opportunity for ai safety. *arXiv preprint* arXiv:2507.11473.
+- Pang, R. Y., Feng, K. J., Feng, S., Li, C., Shi, W., Tsvetkov, Y., Heer, J., & Reinecke, K. (2025). Interactive reasoning: Visualizing and controlling chain-of-thought reasoning in large language models. *arXiv preprint* arXiv:2506.23678.
+- Pendse, S. R., Gergle, D., Kornfield, R., Kruzan, K., Mohr, D., Schleider, J., Suh, J., Wescott, A., & Meyerhoff, J. (2026). The Agony of Opacity: Foundations for Reflective Interpretability in AI-Mediated Mental Health Support. In *Proceedings of the Second Conference of the International Association for Safe and Ethical Artificial Intelligence (IASEAI'26)*, arXiv:2512.16206v2 [cs.HC], 1–18. https://doi.org/10.48550/arXiv.2512.16206
+- Song, I., Pendse, S. R., Kumar, N., & De Choudhury, M. (2024). The typing cure: Experiences with large language model chatbots for mental health support. *arXiv preprint* arXiv:2401.14362.
+- Tower, L. E. (1956). Countertransference. *Journal of the American Psychoanalytic Association*, *4*(2), 224–255.

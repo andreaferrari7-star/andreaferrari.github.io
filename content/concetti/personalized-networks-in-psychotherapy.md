@@ -1,5 +1,6 @@
 ---
 tags: [personalized-networks, process-based-therapy, idiographic-models, case-conceptualization, network-psychopathology, eemm, clinical-reasoning]
+tipo_fonte: scientifica
 source_papers: ["2512.05836v1.pdf", "1-s2.0-S0272735826000917-main.pdf"]
 title: "Personalized Networks in Psychotherapy (Reti Personalizzate in Psicoterapia)"
 ---
@@ -75,12 +76,12 @@ Nei modelli sviluppati secondo il framework della *Process-Based Therapy* (PBT; 
 
 ---
 
-## Pagine Correlate
-- [ong-et-al-2025](../sintesi/ong-et-al-2025.md)
-- [extended-evolutionary-meta-model](extended-evolutionary-meta-model.md)
-- [llm-case-conceptualization-pipeline](concetti/concetti\llm-case-conceptualization-pipeline.md)
-- [process-based-therapy](process-based-therapy.md)
-- [process-of-change](process-of-change.md)
-- [ai-clinical-decision-support](ai-clinical-decision-support.md)
-- [network-based-ai-mental-healthcare](network-based-ai-mental-healthcare.md)
+## Relazioni
+- [[ong-et-al-2025]]
+- [[extended-evolutionary-meta-model]]
+- [[llm-case-conceptualization-pipeline]]
+- [[process-based-therapy]]
+- [[process-of-change]]
+- [[ai-clinical-decision-support]]
+- [[network-based-ai-mental-healthcare]]
 

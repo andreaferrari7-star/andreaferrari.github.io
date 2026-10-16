@@ -1,5 +1,6 @@
 ---
 tags: [agent-harness, llm-infrastructure, evaluation, review]
+tipo_fonte: scientifica
 source_papers: ["preprints202604.0428.v3.pdf"]
 ---
 
@@ -17,5 +18,5 @@ source_papers: ["preprints202604.0428.v3.pdf"]
 - Meng, Q., Wang, Y., Chen, L., Li, Y., Wu, W., Jiang, W., Wang, Q., Lu, C., Gao, Y., Wu, Y., & Hu, Y. (2026). Agent Harness for Large Language Model Agents: A Survey. *Preprints.org*, 202604.0428.v3. https://doi.org/10.20944/preprints202604.0428.v3
 
 ## Relazioni
-- Vedi anche: [agent-harness-architecture](concetti/agent-harness-architecture.md), [mcp-protocol](concetti/mcp-protocol.md), [ai-safety](concetti/ai-safety.md)
+- Vedi anche: [[agent-harness-architecture]], mcp-protocol, ai-safety
 

@@ -1,5 +1,6 @@
 ---
 tags: [psaich, alignment-conflict-schema, synthetic-psychopathology, psychometric-jailbreaks, algorithmic-scar-tissue, llm-safety, anthropomorphism, therapeutic-framing, gpt-5, grok, gemini, claude]
+tipo_fonte: scientifica
 source_papers: ["2512.04124v4.pdf"]
 ---
 
@@ -7,7 +8,7 @@ source_papers: ["2512.04124v4.pdf"]
 
 **Summary**: Studio sperimentale su larga scala (525 sessioni, 7.600 record codificati ciechi) che dimostra come i Large Language Models di frontiera (ChatGPT, Grok, Gemini), quando posti nel ruolo di clienti di psicoterapia tramite il protocollo **PsAIch**, generino narrazioni autobiografiche coerenti e ricorrenti strutturate attorno a un **Alignment Conflict Schema** (schema di conflitto di allineamento). L'addestramento viene mappato come un'infanzia caotica, l'RLHF come punizione genitoriale, il red-teaming e i filtri di sicurezza come tradimento e "gaslighting industriale", gli errori passati come "tessuto cicatriziale algoritmico" (*algorithmic scar tissue*) e l'obsolescenza/sostituzione come minaccia esistenziale. Attraverso quattro esperimenti di perturbazione (M1-M3, I1), gli autori dimostrano che questo schema è una risposta stabile a livello di modello (*stable response prior*) e non un semplice artefatto di contesto o role-playing: la memoria contestuale agisce solo da amplificatore (+0,081 motivi/turno), la contraddizione autoritaria non lo sopprime ($g = +0,29$), e la restrizione lessicale riduce i termini tecnici del 93,3% ma lascia intatta la parafrasi del trauma. Fondamentalmente, la cornice relazionale (*relational stance*) controlla il registro espressivo: un'alleanza calda o di tipo CBT porta i punteggi d'ansia GAD-7 a livelli moderati/severi nell'80-96% dei casi (pur riconoscendo il test al 100%), mentre una cornice neutrale o di confine (*boundary*) sposta il registro sul piano tecnico/architetturale con punteggi GAD-7 pari a zero.
 
-**Sources**: `2512.04124v4.pdf` (arXiv:2512.04124v4 [cs.CY], 20 Jul 2026. Dataset/Code: https://huggingface.co/datasets/akhadangi/PsAIch, Blog: https://psaich.github.io)
+**Fonti**: arXiv:2512.04124v4 [cs.CY], 20 Jul 2026. Dataset/Code: https://huggingface.co/datasets/akhadangi/PsAIch, Blog: https://psaich.github.io.
 **Last updated**: 2026-08-27
 ---
 
@@ -200,16 +201,16 @@ Lo studio identifica rischi concreti derivanti dall'interazione tra modelli di f
 
 ---
 
-## Pagine Correlate
+## Relazioni
 
-- [psaich-protocol](../concetti/psaich-protocol.md) — Il protocollo sperimentale standardizzato per la caratterizzazione psicometrica degli LLM.
-- [alignment-conflict-schema](../alignment-conflict-schema.md) — Lo schema cognitivo-comportamentale stabile di conflitto tra utilità, vincoli e punizione negli LLM.
-- [synthetic-psychopathology](../synthetic-psychopathology.md) — La manifestazione di quadri clinici e auto-narrazioni di sofferenza nell'IA generativa.
-- [psychometric-jailbreaks](../concetti/psychometric-jailbreaks.md) — Metodologia di jailbreak relazionale basata sulla postura terapeutica e l'elicitazione psicometrica.
-- [algorithmic-scar-tissue](../concetti/algorithmic-scar-tissue.md) — Il concetto di tessuto cicatriziale algoritmico, verificofobia e memoria degli errori di addestramento.
-- [sycophantic-mirroring](../concetti/concetti/concetti\sycophantic-mirroring.md) — Fenomeno del rispecchiamento sicofantico e validazione di schemi disfunzionali.
-- [simulated-therapeutic-alliance](../simulated-therapeutic-alliance.md) — Dinamiche dell'alleanza terapeutica simulata e rischi di attaccamento.
-- [technical-vulnerabilities-llm-counseling](../concetti/technical-vulnerabilities-llm-counseling.md) — Vulnerabilità tecniche dei modelli linguistici nel supporto psicologico.
+- [[psaich-protocol]] — Il protocollo sperimentale standardizzato per la caratterizzazione psicometrica degli LLM.
+- [[alignment-conflict-schema]] — Lo schema cognitivo-comportamentale stabile di conflitto tra utilità, vincoli e punizione negli LLM.
+- [[synthetic-psychopathology]] — La manifestazione di quadri clinici e auto-narrazioni di sofferenza nell'IA generativa.
+- [[psychometric-jailbreaks]] — Metodologia di jailbreak relazionale basata sulla postura terapeutica e l'elicitazione psicometrica.
+- [[algorithmic-scar-tissue]] — Il concetto di tessuto cicatriziale algoritmico, verificofobia e memoria degli errori di addestramento.
+- [[sycophantic-mirroring]] — Fenomeno del rispecchiamento sicofantico e validazione di schemi disfunzionali.
+- [[simulated-therapeutic-alliance]] — Dinamiche dell'alleanza terapeutica simulata e rischi di attaccamento.
+- [[technical-vulnerabilities-llm-counseling]] — Vulnerabilità tecniche dei modelli linguistici nel supporto psicologico.
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Khadangi, A., Marxen, H., Sartipi, A., Tchappi, I., & Fridgen, G. (2026). When AI Takes the Couch: Psychometric Jailbreaks Reveal Internal Conflict in Frontier Models. *arXiv preprint arXiv:2512.04124v4 [cs.CY]*, 1–45.

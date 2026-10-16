@@ -1,5 +1,6 @@
 ---
 tags: [deliberate-practice, psychotherapy-training, cbt, behavioral-rehearsal, skill-acquisition, clinical-competence, generative-ai]
+tipo_fonte: scientifica
 source_papers: ["2607.25667v1.pdf"]
 title: "Deliberate Practice in Psicoterapia mediata da IA"
 ---
@@ -7,7 +8,7 @@ title: "Deliberate Practice in Psicoterapia mediata da IA"
 # Deliberate Practice in Psicoterapia mediata da IA (Pratica Deliberata Aumentata da Modelli Generativi)
 
 **Summary**: Applicazione dei principi della *deliberate practice* (Ericsson, Rousmaniere) alla formazione clinica in psicoterapia mediante ambienti di simulazione generativa e supervisione aumentata da LLM, basata sulla ripetizione comportamentale mirata, feedback esperto tempestivo e superamento dei plateau prestazionali.
-**Sources**: `2607.25667v1.pdf` (*arXiv:2607.25667v1*, 2026), Rousmaniere (2024), Ericsson & Pool (2016).
+**Fonti**: Rizzi et al. (2026), Rousmaniere (2024), Ericsson & Pool (2016).
 **Last updated**: 2026-08-27
 ---
 
@@ -49,9 +50,9 @@ L'integrazione di ambienti generativi come **MyMentorLLM** (Rizzi et al., 2026) 
 
 | Dimensione di Competenza | Modalità di Esercitazione con GenAI | Metrica di Valutazione |
 | :--- | :--- | :--- |
-| **Sintonizzazione e Risonanza Affettiva** | Risposta a pazienti virtuali con carichi emotivi intensi (rabbia BPD, tristezza MDD, paura GAD). | Analisi lessicale/affettiva ([risonanza-affettiva-simulazione-clinica](risonanza-affettiva-simulazione-clinica.md), EmoAtlas). |
+| **Sintonizzazione e Risonanza Affettiva** | Risposta a pazienti virtuali con carichi emotivi intensi (rabbia BPD, tristezza MDD, paura GAD). | Analisi lessicale/affettiva ([[risonanza-affettiva-simulazione-clinica]], EmoAtlas). |
 | **Intervista e Raccolta Anamnestica** | Svelamento graduale di informazioni sensibili di fronte a domande ben formulate. | Numero di turni per la disclosure clinica. |
-| **Fedeltà al Modello CBT** | Mantenimento della struttura di seduta, esplorazione di pensieri automatici e compiti a casa. | Item CTRS 1–11 ([ctrs-automated-evaluation](ctrs-automated-evaluation.md)). |
+| **Fedeltà al Modello CBT** | Mantenimento della struttura di seduta, esplorazione di pensieri automatici e compiti a casa. | Item CTRS 1–11 ([[ctrs-automated-evaluation]]). |
 | **Diagnosi Differenziale e Riconoscimento Sintomi** | Formulazione diagnostica e clustering di sintomi DSM-5-TR. | Accuratezza diagnostica ($A_I, A_F$) e coerenza sintomatica ($A_S$). |
 | **Flessibilità Metacognitiva** | Risposta a feedback didattici senza cadere nella deferenza cieca. | Indice di guadagno diagnostico ($g$) vs *over-deference*. |
 
@@ -67,13 +68,16 @@ L'integrazione di ambienti generativi come **MyMentorLLM** (Rizzi et al., 2026) 
 ---
 
 ## Relazioni
-- [mymentorllm-framework](mymentorllm-framework.md): L'ambiente di simulazione triadico per la deliberate practice CBT.
-- [native-speech-vs-text-in-clinical-simulation](native-speech-vs-text-in-clinical-simulation.md): Impatto della modalità vocale nativa nella simulazione della pratica.
-- [over-deference-in-llm-supervision](over-deference-in-llm-supervision.md): Gestione del feedback supervisivo ed evitamento della compiacenza acritica.
-- [ctrs-automated-evaluation](ctrs-automated-evaluation.md): Metriche di rating della competenza clinica nella CBT.
-- [feedback-informed-practice-ai](feedback-informed-practice-ai.md): Integrazione di feedback continui nei sistemi di salute mentale.
-- [simulazione-pazienti-ai](simulazione-pazienti-ai.md): Architettura di base per la creazione di pazienti virtuali.
-- [rizzi-et-al-2026](../sintesi/rizzi-et-al-2026.md): Studio sperimentale su larga scala sulla deliberate practice simulata.
+- [[mymentorllm-framework]]: L'ambiente di simulazione triadico per la deliberate practice CBT.
+- [[native-speech-vs-text-in-clinical-simulation]]: Impatto della modalità vocale nativa nella simulazione della pratica.
+- [[over-deference-in-llm-supervision]]: Gestione del feedback supervisivo ed evitamento della compiacenza acritica.
+- [[ctrs-automated-evaluation]]: Metriche di rating della competenza clinica nella CBT.
+- [[feedback-informed-practice-ai]]: Integrazione di feedback continui nei sistemi di salute mentale.
+- [[simulazione-pazienti-ai]]: Architettura di base per la creazione di pazienti virtuali.
+- [[rizzi-et-al-2026]]: Studio sperimentale su larga scala sulla deliberate practice simulata.
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Ericsson, A., & Pool, R. (2016). *Peak: Secrets from the new science of expertise*. Houghton Mifflin Harcourt.
+- Goldberg, S. B., Rousmaniere, T., Miller, S. D., Whipple, J., Nielsen, S. L., Hoyt, W. T., & Wampold, B. E. (2016). Do psychotherapists improve with time and experience? A longitudinal analysis of outcomes in a clinical setting. *Journal of Counseling Psychology*, *63*(1), 1–11. https://doi.org/10.1037/cou0000131
+- Rizzi, R., Grecucci, A., & Stella, M. (2026). MyMentorLLM: A psychotherapy GenAI environment with multimodal voice/text patients, trainees and experts for deliberate practice. *arXiv preprint arXiv:2607.25667v1 [cs.CL]*, 1–27.
+- Rousmaniere, T. (2024). Deliberate practice for psychotherapists: A guide to improving clinical effectiveness. Routledge.

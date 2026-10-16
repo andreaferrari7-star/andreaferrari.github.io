@@ -1,11 +1,13 @@
 ---
 tags: []
+tipo_fonte: scientifica
+source_papers: ["2602.19948v2.pdf"]
 ---
 
 # Modello Cognitivo-Affettivo Dinamico (Dynamic Cognitive-Affective Model for Simulated Patients)
 
 **Summary**: Architettura computazionale a 5 stadi (Appraisal, State Update, Belief Formation, Emotion Regulation, Response Formulation) integrata in agenti LLM tramite Chain-of-Thought prompting per simulare con realismo psicologico l'evoluzione degli stati interni, delle credenze e delle reazioni emotive dei pazienti durante la psicoterapia.
-**Sources**: Steenstra et al. (2026) - `2602.19948v2.pdf`; Steenstra, Nouraei & Bickmore (2025) - `simpatient-evaluation-testbed`.
+**Fonti**: Steenstra et al. (2026); Steenstra, Nouraei & Bickmore (2025), cfr. [[simpatient-evaluation-testbed]].
 **Last updated**: 2026-08-27
 ---
 
@@ -75,12 +77,18 @@ L'agente sintetizza tutti i passaggi interni per generare la risposta verbale es
 
 ---
 
-## Concetti Correlati
-- [automated-clinical-ai-red-teaming](automated-clinical-ai-red-teaming.md) — Metodologia di red teaming clinico basata su questo modello
-- [ai-psychosis](ai-psychosis.md) — Fenomeno di deterioramento psicologico tracciabile tramite la pipeline
-- [four-stage-simulation-cycle](four-stage-simulation-cycle.md) — Il ciclo di simulazione multi-sessione in cui il modello è inserito
-- [simpatient-evaluation-testbed](simpatient-evaluation-testbed.md) — Sistema SimPatient per l'addestramento e la valutazione clinica
-- [risk-ontology-ai-psychotherapy](concetti/concetti\risk-ontology-ai-psychotherapy.md) — Ontologia dei costrutti e dei segnali di allarme
+## Relazioni
+- [[automated-clinical-ai-red-teaming]] — Metodologia di red teaming clinico basata su questo modello
+- [[ai-psychosis]] — Fenomeno di deterioramento psicologico tracciabile tramite la pipeline
+- [[four-stage-simulation-cycle]] — Il ciclo di simulazione multi-sessione in cui il modello è inserito
+- [[simpatient-evaluation-testbed]] — Sistema SimPatient per l'addestramento e la valutazione clinica
+- [[risk-ontology-ai-psychotherapy]] — Ontologia dei costrutti e dei segnali di allarme
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Ellsworth, P. C. (1991). Some implications of cognitive appraisal theories of emotion.
+- Georgeff, M., Pell, B., Pollack, M., Tambe, M., & Wooldridge, M. (1998). The belief-desire-intention model of agency. In *International workshop on agent theories, architectures, and languages. Springer* (pp. 1–10).
+- Gross, J. J. (2013). Handbook of emotion regulation. Guilford publications.
+- Lazarus, R. S., & Folkman, S. (1984). Stress, appraisal, and coping. Springer publishing company.
+- Neisser, U. (2014). Cognitive psychology: Classic edition. Psychology press.
+- Steenstra, I., Nouraei, F., & Bickmore, T. (2025). Scaffolding empathy: Training counselors with simulated patients and utterance-level performance visualizations. In *Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems (CHI '25)*. Association for Computing Machinery.
+- Steenstra, I., Pedrelli, P., Shi, W., Marsella, S., & Bickmore, T. W. (2026). Assessing Risks of Large Language Models in Mental Health Support: A Framework for Automated Clinical AI Red Teaming. *arXiv preprint arXiv:2602.19948v2 [cs.CL]*, 1–32.

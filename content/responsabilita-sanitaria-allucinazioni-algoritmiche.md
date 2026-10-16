@@ -1,5 +1,6 @@
 ---
 tags: [responsabilita-sanitaria, allucinazioni-algoritmiche, colpa-professionale, ddl-ia, legge-gelli-bianco, codice-penale-622, codice-deontologico-psicologi, human-in-the-loop, malpractice-clinica, intelligenza-artificiale-sanita]
+tipo_fonte: [scientifica, interna]
 source_papers: ["Normativa LLM Psicologia in Italia.pdf"]
 ---
 
@@ -57,7 +58,4 @@ flowchart TD
 ---
 
 ## Relazioni
-- Vedi anche: [normativa-llm-psicologia-in-italia](normativa-llm-psicologia-in-italia.md), [quattro-condizioni-liceita-ia-psicologia](quattro-condizioni-liceita-ia-psicologia.md), [human-oversight-and-liability-in-clinical-ai](human-oversight-and-liability-in-clinical-ai.md), [over-deference-in-llm-supervision](over-deference-in-llm-supervision.md), [clinical-decision-making-and-artificial-intelligence](clinical-decision-making-and-artificial-intelligence.md), [accuratezza-vs-fattualita-in-genai](accuratezza-vs-fattualita-in-genai.md), [single-correct-answer-fallacy-in-clinical-ai](single-correct-answer-fallacy-in-clinical-ai.md), [guida-pratica-ai-oppv-1](guida-pratica-ai-oppv-1.md)
-
-## Riferimenti Bibliografici
-- [Da integrare]
+- Vedi anche: [[normativa-llm-psicologia-in-italia]], [[quattro-condizioni-liceita-ia-psicologia]], [[human-oversight-and-liability-in-clinical-ai]], [[over-deference-in-llm-supervision]], [[clinical-decision-making-and-artificial-intelligence]], [[accuratezza-vs-fattualita-in-genai]], [[single-correct-answer-fallacy-in-clinical-ai]], [[guida-pratica-ai-oppv-1]]

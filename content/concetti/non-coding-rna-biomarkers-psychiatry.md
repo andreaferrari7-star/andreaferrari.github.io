@@ -1,5 +1,6 @@
 ---
 tags: [ncrna, mirna, lncrna, circrna, snorna, pirna, epigenetics, synaptic-plasticity, mdd, suicide, biomarkers, ketamine, precision-psychiatry]
+tipo_fonte: scientifica
 source_papers: ["41398_2025_Article_3497.pdf"]
 title: "Non-Coding RNA Biomarkers in Psychiatry"
 ---
@@ -79,12 +80,26 @@ Circa il 40% dei lncRNA umani è espresso specificamente nel cervello, dove agis
 
 ---
 
-## Relazioni nel Knowledge Base
-- [wang-dwivedi-2025](../sintesi/wang-dwivedi-2025.md): Sintesi sistematica della review di riferimento.
-- [multi-omics-depression-suicide](multi-omics-depression-suicide.md): Integrazione sistemica con altri strati biologici.
-- [peripheral-blood-biomarkers-and-exosomes-in-mdd](peripheral-blood-biomarkers-and-exosomes-in-mdd.md): Trasporto di ncRNA attraverso la barriera emato-encefalica.
-- [single-cell-and-spatial-transcriptomics-in-mental-health](single-cell-and-spatial-transcriptomics-in-mental-health.md): Espressione cellula-specifica di ncRNA nel tessuto cerebrale.
-- [ai-multi-omics-psychiatric-biomarkers](ai-multi-omics-psychiatric-biomarkers.md): Analisi computazionale di profili di ncRNA tramite Machine Learning.
+## Relazioni
+- [[wang-dwivedi-2025]]: Sintesi sistematica della review di riferimento.
+- [[multi-omics-depression-suicide]]: Integrazione sistemica con altri strati biologici.
+- [[peripheral-blood-biomarkers-and-exosomes-in-mdd]]: Trasporto di ncRNA attraverso la barriera emato-encefalica.
+- [[single-cell-and-spatial-transcriptomics-in-mental-health]]: Espressione cellula-specifica di ncRNA nel tessuto cerebrale.
+- [[ai-multi-omics-psychiatric-biomarkers]]: Analisi computazionale di profili di ncRNA tramite Machine Learning.
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Cui, X., Niu, W., Kong, L., He, M., Jiang, K., Chen, S., et al. (2016). hsa_circRNA_103636: potential novel diagnostic and therapeutic biomarker in Major depressive disorder. *Biomark Med*, *10*, 943–52.
+- Fiori, L. M., Lopez, J. P., Richard-Devantoy, S., Berlim, M., Chachamovich, E., Jollant, F., et al. (2017). Investigation of miR-1202, miR-135a, and miR-16 in major depressive disorder and antidepressant response. *Int J Neuropsychopharmacol*, *20*, 619–23.
+- Issler, O., van der Zee, Y. Y., Ramakrishnan, A., Wang, J., Tan, C., Loh, Y. E., et al. (2020). Sex-specific role for the long non-coding RNA LINC00473 in depression. *Neuron*, 106(6), 912–926.
+- Issler, O., van der Zee, Y. Y., Ramakrishnan, A., Xia, S., Zinsmaier, A. K., Tan, C., et al. (2022). The long noncoding RNA FEDORA is a cell type–and sex-specific regulator of depression. *Science Advances*, 8(2), eabn9494.
+- Lin, R., Kos, A., Lopez, J. P., Dine, J., Fiori, L. M., Yang, J., et al. (2023). SNORD90 induces glutamatergic signaling following treatment with monoaminergic antidepressants. *eLife*, *12*, e85316.
+- Lopez, J. P., Lim, R., Cruceanu, C., Crapper, L., Fasano, C., Labonte, B., et al. (2014). miR-1202 is a primate-specific and brain-enriched microRNA involved in major depression and antidepressant treatment. *Nature Medicine*, 20(7), 764–768.
+- Nandi, S., Chandramohan, D., Fioriti, L., Melnick, A. M., Hébert, J. M., Mason, C. E., et al. (2016). Roles for small noncoding RNAs in silencing of retrotransposons in the mammalian brain. *Proc Natl Acad Sci USA*, *113*, 12697–702.
+- Punzi, G., Ursini, G., Viscanti, G., Radulescu, E., Shin, J. H., Quarto, T., et al. (2019). Association of a noncoding RNA postmortem with suicide by violent means and in vivo with aggressive phenotypes. *Biological Psychiatry*, 85(5), 417–424.
+- Roy, B., Dunbar, M., Shelton, R. C., & Dwivedi, Y. (2017). Identification of microRNA-124-3p as a putative epigenetic signature of major depressive disorder. *Neuropsychopharmacology*, *42*, 864–875.
+- Sato, K., Takayama, K.-I., & Inoue, S. (2023). Role of piRNA biogenesis and its neuronal function in the development of neurodegenerative diseases. *Front Aging Neurosci*, *15*, 1157818.
+- Shi, Y., Song, R., Wang, Z., Zhang, H., Zhu, J., Yue, Y., et al. (2021). Potential clinical value of circular RNAs as peripheral biomarkers for the diagnosis and treatment of major depressive disorder. *EBioMedicine*, *66*, 103337.
+- Smalheiser, N. R., Lugli, G., Rizavi, H. S., Torvik, V. I., Turecki, G., & Dwivedi, Y. (2012). MicroRNA expression is down-regulated and reorganized in prefrontal cortex of depressed suicide subjects. *PLoS ONE*, 7(3), e33201.
+- Wang, Q., & Dwivedi, Y. (2025). Recent developments in omics studies and artificial intelligence in depression and suicide. *Translational Psychiatry*, 15(1), 1–18. https://doi.org/10.1038/s41398-025-03497-6
+- Wang, Q., Roy, B., Turecki, G., Shelton, R. C., & Dwivedi, Y. (2018). Role of complex epigenetic switching in tumor necrosis factor-α upregulation in the prefrontal cortex of suicide subjects. *The American Journal of Psychiatry*, *175*, 262–274.
+- Yoshino, Y., Roy, B., & Dwivedi, Y. (2021). Differential and unique patterns of synaptic miRNA expression in dorsolateral prefrontal cortex of depressed subjects. *Neuropsychopharmacology*, 46(5), 900–910.

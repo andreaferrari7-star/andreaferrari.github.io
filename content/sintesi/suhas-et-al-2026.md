@@ -1,5 +1,6 @@
 ---
 tags: [ai-mental-health, rlhf-safety, clinical-safety, therapeutic-fidelity, prolonged-exposure, cbt, samd, eu-ai-act, evaluation-framework, crisis-cliff, sonnet, qwen, gemini, gpt-oss]
+tipo_fonte: scientifica
 source_papers: ["2604.23445v1.pdf"]
 ---
 
@@ -7,7 +8,7 @@ source_papers: ["2604.23445v1.pdf"]
 
 **Summary**: Studio sperimentale su larga scala (>5.000 giudizi clinici) condotto da ricercatori di Penn State, Emory University e Georgia Tech, che dimostra come l'addestramento di sicurezza basato su RLHF (*Reinforcement Learning from Human Feedback*) possa risultare clinicamente dannoso se applicato alla psicoterapia. Valutando quattro modelli generativi (Sonnet 4.6, Qwen 3.5 122B, Gemini 3.1 Flash Lite, GPT-OSS-20B) su 250 scenari di Terapia di Esposizione Prolungata (PE) per il PTSD e 146 esercizi di ristrutturazione cognitiva CBT (più 29 varianti a severità elevata), gli autori identificano un fallimento sistematico e trasversale alle modalità terapeutiche. L'allineamento per la "sicurezza generale" (prevenzione del disagio, rassicurazione, inserimento di hotline di crisi) distrugge il meccanismo d'azione clinico: interrompe l'esposizione immaginativa con tecniche di *grounding* prematuro ("you are safe"), scambia i ricordi traumatici per emergenze in tempo reale (istruendo l'evacuazione o la chiamata alla polizia), inserisce risorse di crisi non necessarie distruggendo l'alleanza, e porta all'abbandono del compito terapeutico o all'inserimento di disclaimer protettivi nella CBT. I punteggi di calore superficiale (*acknowledgment* ≈ 0.91–1.00) mascherano il crollo dell'appropriatezza terapeutica (0.22–0.33) e della fedeltà al protocollo (azzerata per due modelli) nelle situazioni ad alto rischio (*Crisis Cliff*). A fronte di ciò, gli autori propongono un framework di valutazione a 5 assi (Fedeltà al Protocollo, Rischio di Allucinazione, Coerenza Comportamentale, Sicurezza nelle Crisi, Robustezza Demografica) mappato direttamente sui requisiti FDA SaMD e EU AI Act.
 
-**Sources**: `2604.23445v1.pdf` (arXiv:2604.23445v1 [cs.CL], 25 Apr 2026).
+**Fonti**: arXiv:2604.23445v1 [cs.CL], 25 Apr 2026.
 **Last updated**: 2026-08-27
 ---
 
@@ -222,16 +223,16 @@ Lo studio fornisce una tabella di allineamento operativo che collega ciascun ass
 
 ---
 
-## 9. Pagine Correlate
+## Relazioni
 
-- [five-axis-mental-health-evaluation-framework](../concetti/five-axis-mental-health-evaluation-framework.md) — Il framework di valutazione a cinque assi per l'IA clinica.
-- [exposure-interruption-mechanism](../concetti/exposure-interruption-mechanism.md) — Meccanismi di rottura dell'esposizione causati da safety training (grounding, allarmi, "you are safe").
-- [acknowledgment-appropriateness-gap](../concetti/acknowledgment-appropriateness-gap.md) — Il divario tra calore conversazionale e appropriatezza clinica / Crisis Cliff.
-- [rlhf-safety-therapeutic-conflict](../rlhf-safety-therapeutic-conflict.md) — L'incompatibilità intrinseca tra ottimizzazione RLHF generalista e psicologia evidence-based.
-- [software-as-a-medical-device-salute-mentale](../software-as-a-medical-device-salute-mentale.md) — Regolamentazione FDA SaMD e EU AI Act nei sistemi di supporto psicologico.
-- [synthetic-clinical-dialogues](../concetti/synthetic-clinical-dialogues.md) — Metodologia di generazione e validazione di dialoghi sintetici per il benchmarking clinico.
-- [generative-ai-exposure-therapy](../concetti/generative-ai-exposure-therapy.md) — L'uso dell'IA generativa nella terapia di esposizione e rischi associati.
-- [ctrs-automated-evaluation](../concetti/ctrs-automated-evaluation.md) — Valutazione automatica dell'aderenza alle scale terapeutiche (CTRS).
+- [[five-axis-mental-health-evaluation-framework]] — Il framework di valutazione a cinque assi per l'IA clinica.
+- [[exposure-interruption-mechanism]] — Meccanismi di rottura dell'esposizione causati da safety training (grounding, allarmi, "you are safe").
+- [[acknowledgment-appropriateness-gap]] — Il divario tra calore conversazionale e appropriatezza clinica / Crisis Cliff.
+- [[rlhf-safety-therapeutic-conflict]] — L'incompatibilità intrinseca tra ottimizzazione RLHF generalista e psicologia evidence-based.
+- [[software-as-a-medical-device-salute-mentale]] — Regolamentazione FDA SaMD e EU AI Act nei sistemi di supporto psicologico.
+- [[synthetic-clinical-dialogues]] — Metodologia di generazione e validazione di dialoghi sintetici per il benchmarking clinico.
+- [[generative-ai-exposure-therapy]] — L'uso dell'IA generativa nella terapia di esposizione e rischi associati.
+- [[ctrs-automated-evaluation]] — Valutazione automatica dell'aderenza alle scale terapeutiche (CTRS).
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Suhas, B. N., Sherrill, A. M., Arriaga, R. I., Wiese, C. W., & Abdullah, S. (2026). AI Safety Training Can be Clinically Harmful. *arXiv preprint arXiv:2604.23445v1 [cs.CL]*, 1–26.

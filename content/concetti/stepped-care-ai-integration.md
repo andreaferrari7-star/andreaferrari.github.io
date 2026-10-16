@@ -1,11 +1,13 @@
 ---
 tags: []
+tipo_fonte: scientifica
+source_papers: ["10.1177_00469580261438322.pdf"]
 ---
 
 # Stepped-Care AI Integration
 
 **Summary**: Modello organizzativo e clinico che inserisce gli strumenti basati su intelligenza artificiale nei sistemi di cura a gradini (*stepped-care*), allocando compiti a bassa intensità all'IA e riservando diagnosi differenziale, terapia relazionale e gestione delle crisi alla supervisione umana diretta.
-**Sources**: Erdemir & Sumbas (2026) - `10.1177_00469580261438322.pdf`
+**Fonti**: Erdemir & Sumbas (2026)
 **Last updated**: 2026-08-27
 ---
 
@@ -64,13 +66,13 @@ Un requisito fondamentale dello Stepped-Care ibrido è la presenza di algoritmi 
 
 ---
 
-## Related pages
-- [erdemir-sumbas-2026](../sintesi/erdemir-sumbas-2026.md)
-- [three-layer-governance-framework](concetti/concetti\three-layer-governance-framework.md)
-- [clinical-fidelity-assessment](../clinical-fidelity-assessment.md)
-- [ai-assisted-psychotherapy](../ai-assisted-psychotherapy.md)
-- [augmented-psychotherapy](../augmented-psychotherapy.md)
-- [simulated-empathy-vs-authentic-presence](concetti/concetti\simulated-empathy-vs-authentic-presence.md)
+## Relazioni
+- [[erdemir-sumbas-2026]]
+- [[three-layer-governance-framework]]
+- [[clinical-fidelity-assessment]]
+- [[ai-assisted-psychotherapy]]
+- [[augmented-psychotherapy]]
+- [[simulated-empathy-vs-authentic-presence]]
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Erdemir, N., & Sumbas, E. (2026). Integrating Artificial Intelligence into Psychological Counseling: A Narrative Review and Governance Framework. *INQUIRY: The Journal of Health Care Organization, Provision, and Financing*, 63, 1–16. https://doi.org/10.1177/00469580261438322

@@ -1,11 +1,13 @@
 ---
 tags: []
+tipo_fonte: scientifica
+source_papers: ["2512.16206v2.pdf"]
 ---
 
 # Role Induction in AI-Mediated Mental Health (Socializzazione Anticipatoria dei Ruoli nell'IA)
 
 **Summary**: Adattamento tecnologico del costrutto psicoterapeutico di Role Induction / Socializzazione Anticipatoria: processo esplicito e dinamico con cui un sistema conversazionale di IA definisce i propri limiti, la natura non-umana dei dati di addestramento, il divieto di fungere da autorità prescrittiva e le modalità con cui l'utente rimane l'esperto della propria esperienza.
-**Sources**: Pendse et al. (2026) - `2512.16206v2.pdf`; Orne & Wender (1968); Swift et al. (2023); Rogers (1995); Morrin et al. (2025).
+**Fonti**: Pendse et al. (2026); Orne & Wender (1968); Swift et al. (2023); Rogers (1995); Morrin et al. (2025).
 **Last updated**: 2026-08-27
 ---
 
@@ -57,14 +59,23 @@ Secondo Pendse et al. (2026), la Role Induction deve essere implementata nell'in
 
 ---
 
-## Pagine Correlate
-- [reflective-interpretability](reflective-interpretability.md)
-- [pendse-et-al-2026](../sintesi/pendse-et-al-2026.md)
-- [psychological-distress-interaction-patterns](psychological-distress-interaction-patterns.md)
-- [prosocial-advance-directives](prosocial-advance-directives.md)
-- [intervention-titration-ai](intervention-titration-ai.md)
-- [sycophantic-mirroring](concetti/concetti\sycophantic-mirroring.md)
-- [fast-food-psychotherapy](fast-food-psychotherapy.md)
+## Relazioni
+- [[reflective-interpretability]]
+- [[pendse-et-al-2026]]
+- [[psychological-distress-interaction-patterns]]
+- [[prosocial-advance-directives]]
+- [[intervention-titration-ai]]
+- [[sycophantic-mirroring]]
+- [[fast-food-psychotherapy]]
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Gray, A. (2013). An introduction to the therapeutic frame. Routledge.
+- Hill, K. (2025, 13 giugno). They asked an A.I. chatbot questions. The answers sent them spiraling. *The New York Times*. https://www.nytimes.com/2025/06/13/technology/chatgpt-ai-chatbots-conspiracies.html
+- Morrin, H., Nicholls, L., Levin, M., Yiend, J., Iyengar, U., DelGuidice, F., Bhattacharyya, S., MacCabe, J., Tognin, S., Twumasi, R., Alderson-Day, B., & Pollak, T. (2025). Delusions by design? How everyday AIs might be fuelling psychosis (and what can be done about it). *PsyArXiv*. https://doi.org/10.31234/osf.io/cmy7n_v5
+- Orne, M. T., & Wender, P. H. (1968). Anticipatory socialization for psychotherapy: Method and rationale. *American Journal of Psychiatry*, 124(9), 1202–1212.
+- Pendse, S. R., Gergle, D., Kornfield, R., Kruzan, K., Mohr, D., Schleider, J., Suh, J., Wescott, A., & Meyerhoff, J. (2026). The Agony of Opacity: Foundations for Reflective Interpretability in AI-Mediated Mental Health Support. In *Proceedings of the Second Conference of the International Association for Safe and Ethical Artificial Intelligence (IASEAI'26)*, arXiv:2512.16206v2 [cs.HC], 1–18. https://doi.org/10.48550/arXiv.2512.16206
+- Rogers, C. R. (1995). *On becoming a person: A therapist’s view of psychotherapy*. Houghton Mifflin Harcourt.
+- Siddals, S., Torous, J., & Coxon, A. (2024). “it happened to be the perfect thing”: experiences of generative ai chatbots for mental health. *npj Mental Health Research*, *3*(1), 48.
+- Song, I., Pendse, S. R., Kumar, N., & De Choudhury, M. (2024). The typing cure: Experiences with large language model chatbots for mental health support. *arXiv preprint* arXiv:2401.14362.
+- Swift, J. K., Penix, E. A., & Li, A. (2023). A meta-analysis of the effects of role induction in psychotherapy. *Psychotherapy*, 60(3), 342.
+- Tryon, G. S., Birch, S. E., & Verkuilen, J. (2018). Meta-analyses of the relation of goal consensus and collaboration to psychotherapy outcome. *Psychotherapy*, *55*(4), 372.

@@ -11,6 +11,7 @@ tags:
   - de-biasing-sycophancy
   - formazione-psicoterapia
   - cbt-simulation
+tipo_fonte: scientifica
 source_papers:
   - Clinical_AI_Blueprint.pdf
 ---
@@ -19,7 +20,7 @@ source_papers:
 
 ## Definizione Operativa
 
-- Il **Framework PATIENT-Ψ** è un'architettura avanzata per la simulazione generativa di **pazienti artificiali realistici ed ecologici**, ideata specificamente per l'addestramento clinico e la [Deliberate Practice](concetti/deliberate-practice-in-psicoterapia-ia.md) di psicologi, psicoterapeuti e psichiatri in formazione.
+- Il **Framework PATIENT-Ψ** è un'architettura avanzata per la simulazione generativa di **pazienti artificiali realistici ed ecologici**, ideata specificamente per l'addestramento clinico e la [[deliberate-practice-in-psicoterapia-ia|Deliberate Practice]] di psicologi, psicoterapeuti e psichiatri in formazione.
 
 - **Superamento della Caricatura Sintomatica:** I sistemi di simulazione tradizionali e i chatbot standard generano rappresentazioni caricaturali e bidimensionali del disagio mentale, basandosi su mere checklist di criteri descrittivi del DSM-5. PATIENT-Ψ modella il paziente virtuale come un sistema cognitivo-affettivo profondo ancorato a:
     1. **Deep Cognitive Modeling (Programmazione Profonda):** Definizione esplicita di schemi cognitivi disfunzionali, credenze condizionali e *Core Beliefs* nucleari (es. credenze di indegnità, abbandono, vulnerabilità o difettosità).
@@ -105,16 +106,16 @@ flowchart TD
 
 ## Riferimenti Bibliografici
 
-- *L'Intelligenza Artificiale Generativa in Psicoterapia: Dalla Scatola Nera alla Pratica Clinica Sicura* (`Clinical_AI_Blueprint.pdf`).
+- *L'Intelligenza Artificiale Generativa in Psicoterapia: Dalla Scatola Nera alla Pratica Clinica Sicura* (cfr. [[clinical-ai-blueprint]]).
 - Rizzi, R., Grecucci, A., & Stella, M. (2026). MyMentorLLM: A Psychotherapy GenAI Environment with Multimodal Voice/Text Patients, Trainees and Experts for Deliberate Practice. *arXiv:2607.25667*.
 - Rousmaniere, T. (2024). *Deliberate Practice in Clinical Psychology*. American Psychological Association.
-- Goldberg, S. B., et al. (2020). The Cognitive Therapy Rating Scale (CTRS) in therapist training: A systematic evaluation. *Journal of Consulting and Clinical Psychology*.
+- Goldberg, S. B., Baldwin, S. A., Merced, K., Caperton, D. D., Imel, Z. E., Atkins, D. C., & Creed, T. (2020). The structure of competence: Evaluating the factor structure of the Cognitive Therapy Rating Scale. *Behavior Therapy*, *51*(1), 113–122. https://doi.org/10.1016/j.beth.2019.05.008
 
 ---
 
 ## Relazioni
-- Scheda sintesi collegata: [clinical-ai-blueprint](clinical-ai-blueprint.md)
-- Concetti correlati: [coast-framework-clinical-prompting](concetti/concetti/concetti\coast-framework-clinical-prompting.md), [mind-safe-framework](concetti/mind-safe-framework.md), [simulazione-pazienti-ai](simulazione-pazienti-ai.md), [deliberate-practice-in-psicoterapia-ia](concetti/deliberate-practice-in-psicoterapia-ia.md), [sycophantic-mirroring](concetti/concetti/concetti\sycophantic-mirroring.md), [over-deference-in-llm-supervision](over-deference-in-llm-supervision.md), [cbt-dialogue-systems-and-tools](concetti/concetti/concetti\cbt-dialogue-systems-and-tools.md), [libet-prime-agenti-didattici](concetti/concetti/concetti\libet-prime-agenti-didattici.md).
+- Scheda sintesi collegata: [[clinical-ai-blueprint]]
+- Concetti correlati: [[coast-framework-clinical-prompting]], [[mind-safe-framework]], [[simulazione-pazienti-ai]], [[deliberate-practice-in-psicoterapia-ia]], [[sycophantic-mirroring]], [[over-deference-in-llm-supervision]], [[cbt-dialogue-systems-and-tools]], [[libet-prime-agenti-didattici]].
 
 
 

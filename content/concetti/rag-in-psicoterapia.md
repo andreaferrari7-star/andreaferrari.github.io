@@ -1,11 +1,13 @@
 ---
 tags: []
+tipo_fonte: evento
+source_papers: ["06-10 Lezione_ RAG, LLM in Psicoterapia e Governance Etica.txt"]
 ---
 
 # Retrieval-Augmented Generation (RAG) in Psicoterapia
 
 **Summary**: Architettura informatica che integra modelli linguistici di grandi dimensioni (LLM) con database documentali clinici esterni per fornire risposte contestualizzate, minimizzare le allucinazioni e preservare la privacy e la deontologia professionale.
-**Sources**: `06-10 Lezione_ RAG, LLM in Psicoterapia e Governance Etica.txt`
+**Fonti**: [[06-10-lezione-rag-llm|Lezione e Seminario: RAG, LLM in Psicoterapia, Supervisione e Governance Etica (10 Giugno 2026)]]
 **Last updated**: 2026-08-27
 ---
 
@@ -37,11 +39,8 @@ graph LR
 
 ---
 
-## Pagine Correlate
-- [modello-centauro-clinico](concetti/concetti\modello-centauro-clinico.md)
-- [feedback-informed-practice-ai](feedback-informed-practice-ai.md)
-- [augmented-psychotherapy](../augmented-psychotherapy.md)
-- [large-language-models](../large-language-models.md)
-
-## Riferimenti Bibliografici
-- [Da integrare]
+## Relazioni
+- [[modello-centauro-clinico]]
+- [[feedback-informed-practice-ai]]
+- [[augmented-psychotherapy]]
+- [[large-language-models]]

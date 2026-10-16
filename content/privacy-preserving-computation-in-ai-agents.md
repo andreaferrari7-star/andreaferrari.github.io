@@ -1,5 +1,6 @@
 ---
 tags: [privacy-preserving, homomorphic-encryption, fhe, fpets, format-preserving-encryption, data-confidentiality, prompt-tuning, coala-architecture, medical-privacy, hipaa, gdpr]
+tipo_fonte: scientifica
 source_papers: ["Security_of_AI_Agents.pdf"]
 ---
 
@@ -63,7 +64,7 @@ flowchart TD
 ---
 
 **Riferimenti Bibliografici:**
-- He, Y., Wang, E., Rong, Y., Cheng, Z., & Chen, H. (2024). Security of AI Agents. *arXiv preprint arXiv:2406.xxxxx* [cs.CR].
+- He, Y., Wang, E., Rong, Y., Cheng, Z., & Chen, H. (2024). Security of AI Agents. *arXiv preprint*.
 - Acar, A., Aksu, H., Uluagac, A. S., & Conti, M. (2018). A survey on homomorphic encryption schemes: Theory and implementation. *ACM Computing Surveys (CSUR)*, 51(4), 1–35.
 - Carlini, N., Tramer, F., Wallace, E., Jagielski, M., Herbert-Voss, A., Lee, K., ... & Raffel, C. (2021). Extracting training data from large language models. *USENIX Security Symposium*.
 - Gentry, C. (2009). *A fully homomorphic encryption scheme* (Doctoral dissertation, Stanford University).
@@ -74,7 +75,4 @@ flowchart TD
 ---
 
 ## Relazioni
-- Vedi anche: [security-of-ai-agents](file:///c:/Users/ANDREA/AI%20Knowledge%20Base/wiki/security-of-ai-agents.md), [sandbox-isolation-and-access-control-in-ai-agents](file:///c:/Users/ANDREA/AI%20Knowledge%20Base/wiki/sandbox-isolation-and-access-control-in-ai-agents.md), [gdpr-governance-mental-health-ai](file:///c:/Users/ANDREA/AI%20Knowledge%20Base/wiki/concetti/concetti\gdpr-governance-mental-health-ai.md), [mental-privacy-in-clinical-ai](file:///c:/Users/ANDREA/AI%20Knowledge%20Base/wiki/mental-privacy-in-clinical-ai.md), [open-weight-privacy-compliant-synthesis](file:///c:/Users/ANDREA/AI%20Knowledge%20Base/wiki/open-weight-privacy-compliant-synthesis.md), [federated-learning-and-differential-privacy-mental-health](file:///c:/Users/ANDREA/AI%20Knowledge%20Base/wiki/federated-learning-and-differential-privacy-mental-health.md), [configurazione-sicurezza-piattaforme-ia-clinica](file:///c:/Users/ANDREA/AI%20Knowledge%20Base/wiki/configurazione-sicurezza-piattaforme-ia-clinica.md), [layered-safeguards-in-clinical-ai](file:///c:/Users/ANDREA/AI%20Knowledge%20Base/wiki/concetti/concetti\layered-safeguards-in-clinical-ai.md)
-
-## Riferimenti Bibliografici
-- [Da integrare]
+- Vedi anche: [[security-of-ai-agents]], [[sandbox-isolation-and-access-control-in-ai-agents]], [[gdpr-governance-mental-health-ai]], [[mental-privacy-in-clinical-ai]], [[open-weight-privacy-compliant-synthesis]], [[federated-learning-and-differential-privacy-mental-health]], [[configurazione-sicurezza-piattaforme-ia-clinica]], [[layered-safeguards-in-clinical-ai]]

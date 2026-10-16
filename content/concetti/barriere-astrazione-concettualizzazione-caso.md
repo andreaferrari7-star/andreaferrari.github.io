@@ -1,12 +1,13 @@
 ---
 tags: [case-conceptualization, libet-model, abstraction-barriers, interpretive-hallucinations, cbt, epistemic-markers, machine-limitations]
+tipo_fonte: [scientifica, interna]
 source_papers: ["AI Generativa in Psicoterapia.docx", "Buattini et al. (2026)"]
 ---
 
 # Barriere di Astrazione e Allucinazioni Interpretative nella Concettualizzazione del Caso Clinico
 
 **Summary**: Limiti epistemologici dei Large Language Models nella formulazione e concettualizzazione del caso clinico emersi dallo studio empirico di Buattini et al. (2026) sul modello LIBET. Pur mostrando eccellenti capacità organizzative e lessicali, l'IA incontra severe "barriere di astrazione", confondendo comportamenti manifesti (coping) con vulnerabilità emotive profonde (temi di vita) e generando allucinazioni interpretative prive di riscontro oggettivo.
-**Sources**: `AI Generativa in Psicoterapia.docx`, Buattini, Barjami, Paponetti, et al. (2026) (*Cyberpsychology*)
+**Fonti**: [[ai-generativa-in-psicoterapia|AI Generativa in Psicoterapia (rassegna interna)]], Buattini, Barjami, Paponetti, et al. (2026) (*Cyberpsychology*)
 **Last updated**: 2026-08-27
 ---
 
@@ -61,13 +62,13 @@ Lo studio di **Buattini et al. (2026)** ha applicato ChatGPT-4 all'analisi quali
 
 ---
 
-## Related Pages
-- [ai-generativa-in-psicoterapia](../sintesi/ai-generativa-in-psicoterapia.md)
-- [libet-prime](concetti/concetti\libet-prime.md)
-- [antagonista-cognitivo-sparring-partner](antagonista-cognitivo-sparring-partner.md)
-- [human-in-the-reasoning](human-in-the-reasoning.md)
-- [automation-bias-clinical-reasoning](automation-bias-clinical-reasoning.md)
-- [llm-case-conceptualization-pipeline](concetti/concetti\llm-case-conceptualization-pipeline.md)
+## Relazioni
+- [[ai-generativa-in-psicoterapia]]
+- [[libet-prime]]
+- [[antagonista-cognitivo-sparring-partner]]
+- [[human-in-the-reasoning]]
+- [[automation-bias-clinical-reasoning]]
+- [[llm-case-conceptualization-pipeline]]
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Buattini, S., Barjami, M., Paponetti, E., et al. (2026). ChatGPT tries to understand the patient: What it really can – and can't – do in CBT case conceptualization. *Cyberpsychology: Journal of Psychosocial Research on Cyberspace*, *20*, Article 40142. https://cyberpsychology.eu/article/view/40142

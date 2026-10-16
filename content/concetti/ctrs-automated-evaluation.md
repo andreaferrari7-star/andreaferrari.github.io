@@ -1,5 +1,6 @@
 ---
 tags: [cbt, ctrs, clinical-fidelity, quality-assessment, nlp, deep-learning, supervisione-clinica, training-psicoterapia]
+tipo_fonte: scientifica
 source_papers: ["2407.19422v1.pdf"]
 title: "Automated CTRS and Fidelity Evaluation"
 ---
@@ -44,7 +45,7 @@ graph TD
 - Impiego di modelli linguistici BERT pre-addestrati e fine-tunati su trascrizioni psicoterapeutiche reali per classificare il superamento della soglia di competenza CTRS (score binario e punteggi continui).
 - L'analisi automatica del linguaggio verbale e prosodico ha permesso di quantificare competenze specifiche come l'empatia, il timing delle interpretazioni e la guida socratica con alta coerenza rispetto ai valutatori umani esperti.
 
-### 3. Architetture Gerarchiche e Dinamiche Conversazionali (Chen et al., 2022; Ardulov et al., 2022)
+### 3. Architetture Gerarchiche e Dinamiche Conversazionali (Chen et al., 2022b; Ardulov et al., 2022)
 - Modelli gerarchici che combinano stime di qualità a livello di singolo scambio (*turn-level*) con metriche globali di seduta (*session-level*), preservando la struttura narrativa della conversazione.
 - Analisi mediante sistemi dinamici affini al controllo (*control-affine models*) per tracciare i pattern di reciprocità e sintonizzazione verbale tra clinico e paziente.
 
@@ -58,11 +59,16 @@ graph TD
 ---
 
 ## Relazioni
-- [clinical-fidelity-assessment](../clinical-fidelity-assessment.md): Concetto generale di fidelity e behavioral coding.
-- [ai-enhanced-cbt](concetti/concetti\ai-enhanced-cbt.md): Ruolo dell'IA nella valutazione del processo terapeutico.
-- [treatment-outcome-and-relapse-prediction](treatment-outcome-and-relapse-prediction.md): Impatto della qualità erogata sugli esiti a lungo termine.
-- [simulazione-pazienti-ai](simulazione-pazienti-ai.md): Training e debriefing con pazienti virtuali.
-- [jiang-et-al-2024](../sintesi/jiang-et-al-2024.md): Studio di review di riferimento.
+- [[clinical-fidelity-assessment]]: Concetto generale di fidelity e behavioral coding.
+- [[ai-enhanced-cbt]]: Ruolo dell'IA nella valutazione del processo terapeutico.
+- [[treatment-outcome-and-relapse-prediction]]: Impatto della qualità erogata sugli esiti a lungo termine.
+- [[simulazione-pazienti-ai]]: Training e debriefing con pazienti virtuali.
+- [[jiang-et-al-2024]]: Studio di review di riferimento.
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Ardulov, V., Creed, T. A., Atkins, D. C., et al. (2022). Local dynamic mode of cognitive behavioral therapy. *arXiv preprint* arXiv:220509752.
+- Chen, Z., Flemotomos, N., Singla, K., et al. (2022b). An automated quality evaluation framework of psychotherapy conversations with local quality estimates. *Computer Speech & Language*, *75*, 101380.
+- Ewbank, M. P., Cummins, R., Tablan, V., et al. (2020). Quantifying the association between psychotherapy content and clinical outcomes using deep learning. *JAMA psychiatry*, *77*(1), 35–43.
+- Flemotomos, N., Martinez, V. R., Chen, Z., et al. (2021). Automated quality assessment of cognitive behavioral therapy sessions through highly contextualized language representations. *PloS one*, *16*(10), e0258639.
+- Jiang, M., Yu, Y. J., Zhao, Q., et al. (2024). Ai-enhanced cognitive behavioral therapy: Deep learning and large language models for extracting cognitive pathways from social media texts. *arXiv preprint* arXiv:240411449.
+- Wang, R., Milani, S., Chiu, J. C., et al. (2024). PATIENT-Ψ: Using large language models to simulate patients for training mental health professionals. In *Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing*. Association for Computational Linguistics. https://doi.org/10.48550/arXiv.2405.19660

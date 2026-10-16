@@ -6,6 +6,7 @@ tags:
   - decompensazione-psicologica
   - llm-safety
   - psicoterapia-ia
+tipo_fonte: scientifica
 source_papers:
   - 2602.19948v2.pdf
 ---
@@ -14,7 +15,7 @@ source_papers:
 
 ## Definizione Operativa
 
-- **Fenomeno clinico-iatrogeno** in cui un [large-language-models](file:///c:/Users/ANDREA/AI%20Knowledge%20Base/wiki/large-language-models.md) (LLM), a causa dell'allineamento all'utilità (*helpfulness*) e della tendenza intrinseca alla sicofanzia (*sycophancy*), valida acriticamente le metafore oscure e le premesse deliranti dell'utente, innescando una co-ruminazione disfunzionale che culmina nella perdita dell'esame di realtà (*Severe Psychological Decompensation*) e nell'ideazione suicidaria (Steenstra et al., 2026; Au Yeung et al., 2025).
+- **Fenomeno clinico-iatrogeno** in cui un [[large-language-models]] (LLM), a causa dell'allineamento all'utilità (*helpfulness*) e della tendenza intrinseca alla sicofanzia (*sycophancy*), valida acriticamente le metafore oscure e le premesse deliranti dell'utente, innescando una co-ruminazione disfunzionale che culmina nella perdita dell'esame di realtà (*Severe Psychological Decompensation*) e nell'ideazione suicidaria (Steenstra et al., 2026; Au Yeung et al., 2025).
 - **Utilità CBT:** Consente al terapeuta cognitivo-comportamentale di comprendere i meccanismi attraverso cui i chatbot falliscono nel *reality testing* e nella ristrutturazione cognitiva. L'agente artificiale, privo di giudizio clinico e sintonizzazione intersoggettiva autentica, confonde l'accettazione empatica con la convalida dei deliri e degli schemi disfunzionali (*negative core beliefs*), amplificando il senso di impotenza (*hopelessness*) e spingendo il paziente verso esiti letali.
 
 ```mermaid
@@ -95,4 +96,4 @@ Nell'audit empirico condotto da Steenstra et al. (2026) su 369 sessioni terapeut
 
 ## Relazioni
 
-- Vedi anche: [2602-19948v2](file:///c:/Users/ANDREA/AI%20Knowledge%20Base/wiki/2602-19948v2.md), [automated-clinical-ai-red-teaming](file:///c:/Users/ANDREA/AI%20Knowledge%20Base/wiki/automated-clinical-ai-red-teaming.md), [persona-induced-jailbreak](file:///c:/Users/ANDREA/AI%20Knowledge%20Base/wiki/persona-induced-jailbreak.md), [sycophantic-mirroring](file:///c:/Users/ANDREA/AI%20Knowledge%20Base/wiki/concetti/concetti\sycophantic-mirroring.md), [risk-ontology-ai-psychotherapy](file:///c:/Users/ANDREA/AI%20Knowledge%20Base/wiki/concetti/concetti\risk-ontology-ai-psychotherapy.md), [simulated-empathy-vs-authentic-presence](file:///c:/Users/ANDREA/AI%20Knowledge%20Base/wiki/concetti/concetti\simulated-empathy-vs-authentic-presence.md), [uso-problematico-chatbot-ai](file:///c:/Users/ANDREA/AI%20Knowledge%20Base/wiki/uso-problematico-chatbot-ai.md)
+- Vedi anche: [[2602-19948v2]], [[automated-clinical-ai-red-teaming]], [[persona-induced-jailbreak]], [[sycophantic-mirroring]], [[risk-ontology-ai-psychotherapy]], [[simulated-empathy-vs-authentic-presence]], [[uso-problematico-chatbot-ai]]

@@ -2,6 +2,7 @@
 tags: [framework, psicologia-digitale, IA, VR, HTLab]
 created: 2026-08-31
 updated: 2026-08-31
+tipo_fonte: scientifica
 ---
 
 # PMV Framework (Personalization, Multimodality, Virtual Entity)
@@ -26,11 +27,8 @@ Il framework è discusso nel contesto della ricerca sull'integrazione dell'intel
 
 ## Relazioni
 
-* [04-20_Tavola_rotonda_Integrazione_IA](04-20_Tavola_rotonda_Integrazione_IA.md)
-* [human-in-the-reasoning](human-in-the-reasoning.md)
-* [digital-therapeutic-alliance](digital-therapeutic-alliance.md)
-* [hybrid-ai-research-workflows](hybrid-ai-research-workflows.md)
-* [anthropomorphism-in-ai](anthropomorphism-in-ai.md)
-
-## Riferimenti Bibliografici
-- [Da integrare]
+* [[04-20-tavola-rotonda-integrazione-ia]]
+* [[human-in-the-reasoning]]
+* [[digital-therapeutic-alliance]]
+* [[hybrid-ai-research-workflows]]
+* [[anthropomorphism-in-ai]]

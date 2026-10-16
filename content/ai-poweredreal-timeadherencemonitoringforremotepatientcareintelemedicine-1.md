@@ -1,5 +1,6 @@
 ---
 tags: [medication-adherence, remote-patient-monitoring, telemedicine, computer-vision, wearable-sensors, bi-lstm, 3d-resnet, sfoa, federated-learning, differential-privacy, homomorphic-encryption, predictive-analytics, chronic-disease-management]
+tipo_fonte: scientifica
 source_papers: ["AI-PoweredReal-TimeAdherenceMonitoringforRemotePatientCareinTelemedicine.pdf"]
 ---
 
@@ -156,7 +157,4 @@ flowchart LR
 - Zisanur Rahman, Md., et al. (2024). A Smart Wearable Sensor-Based Model for Medication Adherence Using SFOA-Bi-LSTM. *Digital Health*, 10, 1-15.
 
 ## Relazioni
-- Vedi anche: [video-observed-therapy-ai](video-observed-therapy-ai.md), [wearable-sensor-fusion-adherence](wearable-sensor-fusion-adherence.md), [proactive-surveillance-alert-fatigue](concetti/proactive-surveillance-alert-fatigue.md), [privacy-preserving-rpm-frameworks](concetti/privacy-preserving-rpm-frameworks.md), [context-aware-adaptive-nudging](concetti/context-aware-adaptive-nudging.md), [chronic-disease-monitoring-adherence](concetti/chronic-disease-monitoring-adherence.md), [software-as-a-medical-device-salute-mentale](software-as-a-medical-device-salute-mentale.md), [ai-clinical-decision-support](concetti/ai-clinical-decision-support.md), [etica-privacy-bias-ia-clinica](concetti/etica-privacy-bias-ia-clinica.md)
-
-## Riferimenti Bibliografici
-- [Da integrare]
+- Vedi anche: [[video-observed-therapy-ai]], [[wearable-sensor-fusion-adherence]], [[proactive-surveillance-alert-fatigue]], [[privacy-preserving-rpm-frameworks]], [[context-aware-adaptive-nudging]], [[chronic-disease-monitoring-adherence]], [[software-as-a-medical-device-salute-mentale]], [[ai-clinical-decision-support]], [[etica-privacy-bias-ia-clinica]]

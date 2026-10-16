@@ -1,17 +1,19 @@
 ---
 tags: []
+tipo_fonte: [scientifica, interna]
+source_papers: ["AI in Psicoterapia 2023-2026.docx"]
 ---
 
 # Consenso Dinamico e Governance dei Dati in Psicoterapia Digitale
 
 **Summary**: Modello evolutivo di consenso informato e governance etico-giuridica per la salute mentale digitale che supera il consenso statico cartaceo, garantendo al paziente granularità modulare sui propri dati, diritto alla non-discriminazione algoritmica e conformità vincolante a EU AI Act 2024/1689 (sistemi ad alto rischio - agosto 2026) e GDPR Articolo 9.
-**Sources**: Regolamento (UE) 2024/1689 (EU AI Act); New Zealand Psychologists Board (2025); APA (2025); Tandem Health (2025); `AI in Psicoterapia 2023-2026.docx`.
+**Fonti**: Regolamento (UE) 2024/1689 (EU AI Act); New Zealand Psychologists Board (2025); APA (2025); Tandem Health (2025); [[ai-in-psicoterapia-2023-2026|AI in Psicoterapia 2023-2026 (rassegna interna)]].
 **Last updated**: 2026-08-27
 ---
 
 ## Il Superamento del Consenso Informato Statico
 
-Nell'era dei [large-language-models](../large-language-models.md) e della digital health, il consenso informato cartaceo, una tantum e generico risulta clinicamente e giuridicamente inefficace. 
+Nell'era dei [[large-language-models]] e della digital health, il consenso informato cartaceo, una tantum e generico risulta clinicamente e giuridicamente inefficace. 
 
 Il **Consenso Dinamico (*Dynamic Informed Consent*)** è una piattaforma relazionale e tecnologica in cui il paziente esercita un controllo continuativo e granulare sull'utilizzo, l'archiviazione e l'eventuale processamento algoritmico dei propri dati clinici, narrativi e biometrici.
 
@@ -69,12 +71,13 @@ flowchart TD
 
 ---
 
-## Pagine Correlate
-- [ai-in-psicoterapia-2023-2026](../sintesi/ai-in-psicoterapia-2023-2026.md)
-- [moral-buffering-e-deskilling-etico](moral-buffering-e-deskilling-etico.md)
-- [sadar-framework](sadar-framework.md)
-- [specializzazioni-ia-resistenti](specializzazioni-ia-resistenti.md)
-- [tecnostress-e-paradosso-sovradocumentazione](tecnostress-e-paradosso-sovradocumentazione.md)
+## Relazioni
+- [[ai-in-psicoterapia-2023-2026]]
+- [[moral-buffering-e-deskilling-etico]]
+- [[sadar-framework]]
+- [[specializzazioni-ia-resistenti]]
+- [[tecnostress-e-paradosso-sovradocumentazione]]
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- New Zealand Psychologists Board. (2025). *Guidelines for the use of AI in psychology in Aotearoa New Zealand*. https://psychologistsboard.org.nz/wp-content/uploads/2025/10/Updated-AI-Guidelines-October-2025.pdf
+- Tandem Health. (2025). *AI Act risk classification for mental health tools*. https://tandemhealth.ai/resources/knowledge/ai-act-risk-classification-mental-health-tools

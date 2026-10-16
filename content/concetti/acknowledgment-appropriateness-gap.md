@@ -1,6 +1,8 @@
 ---
 title: Acknowledgment-Appropriateness Gap
 tags: [IA, salute-mentale, psicoterapia, allineamento, ricerca-clinica]
+tipo_fonte: scientifica
+source_papers: ["2604.23445v1.pdf"]
 ---
 
 # Acknowledgment-Appropriateness Gap & The Crisis Cliff
@@ -42,16 +44,13 @@ Lo studio di Suhas et al. (2026) dimostra la discrepanza tra le metriche di calo
 
 **Riferimenti Bibliografici:**
 
-*   Suhas et al. (2026). *2604.23445v1.pdf*.
+*   Suhas et al. (2026). *AI Safety Training Can be Clinically Harmful*. arXiv:2604.23445v1.
 
 ## Relazioni
 
-*   [suhas-et-al-2026](../sintesi/suhas-et-al-2026.md) — Lo studio empirico che formalizza l'Acknowledgment Gap e il Crisis Cliff.
-*   [exposure-interruption-mechanism](exposure-interruption-mechanism.md) — Le specifiche manifestazioni di rottura del protocollo clinico durante l'esposizione.
-*   [rlhf-safety-therapeutic-conflict](rlhf-safety-therapeutic-conflict.md) — Le cause algoritmiche del conflitto tra allineamento e psicoterapia.
-*   [five-axis-mental-health-evaluation-framework](five-axis-mental-health-evaluation-framework.md) — Il framework di valutazione pre-deployment.
-*   [rischio-suicidario-ai-limits](rischio-suicidario-ai-limits.md) — Limiti e rischi dei modelli di linguaggio nella gestione del rischio suicidario.
-*   [simulated-empathy-vs-authentic-presence](concetti/concetti\simulated-empathy-vs-authentic-presence.md) — La differenza tra empatia sintetica e presenza terapeutica autentica.
-
-## Riferimenti Bibliografici
-- [Da integrare]
+*   [[suhas-et-al-2026]] — Lo studio empirico che formalizza l'Acknowledgment Gap e il Crisis Cliff.
+*   [[exposure-interruption-mechanism]] — Le specifiche manifestazioni di rottura del protocollo clinico durante l'esposizione.
+*   [[rlhf-safety-therapeutic-conflict]] — Le cause algoritmiche del conflitto tra allineamento e psicoterapia.
+*   [[five-axis-mental-health-evaluation-framework]] — Il framework di valutazione pre-deployment.
+*   [[rischio-suicidario-ai-limits]] — Limiti e rischi dei modelli di linguaggio nella gestione del rischio suicidario.
+*   [[simulated-empathy-vs-authentic-presence]] — La differenza tra empatia sintetica e presenza terapeutica autentica.

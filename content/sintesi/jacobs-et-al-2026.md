@@ -1,12 +1,13 @@
 ---
 tags: [machine-learning, random-forest, pretraining, simulated-data, psychotherapy-outcome-prediction, cbt, ocd, precision-psychiatry, open-data, data-scarcity, smote, mccv]
+tipo_fonte: scientifica
 source_papers: ["2601.06159v1.pdf"]
 ---
 
 # Can we Improve Prediction of Psychotherapy Outcomes Through Pretraining With Simulated Data? (Jacobs et al., 2026)
 
 **Summary**: Studio empirico che valuta se il pre-addestramento (*pretraining*) di modelli di Machine Learning (Random Forests) tramite dati sintetici simulati a partire da statistiche descrittive pubblicate in letteratura (medie, deviazioni standard e matrici di covarianza di responder e non-responder) possa migliorare l'accuratezza nella predizione degli esiti della Psicoterapia Cognitivo-Comportamentale (CBT) nel Disturbo Ossessivo-Compulsivo (OCD), affrontando la scarsità di dataset clinici aperti. Attraverso due studi condotti su $N=463$ pazienti e validati con Monte Carlo Cross-Validation (100 iterazioni), gli autori rilevano che nel primo studio (predizione della *risposta*) il pretraining ha mostrato miglioramenti descrittivi (+2.2% di balanced accuracy) ma non statisticamente significativi ($p=0.19$), mentre nel secondo studio (predizione della *remissione* con estrazione sistematica) il modello addestrato solo su dati reali ha superato nettamente i modelli pre-addestrati. Vengono discusse le cause del fallimento (scarsità di statistiche pubblicate per sottogruppi, limiti della normalità multivariata) e fornite linee guida per la ricerca futura.
-**Sources**: `2601.06159v1.pdf` (*arXiv:2601.06159v1 [stat.ML]*, Health and Medical University Erfurt, Humboldt-Universität zu Berlin, Université de Fribourg, 2026)
+**Fonti**: *arXiv:2601.06159v1 [stat.ML]*, Health and Medical University Erfurt, Humboldt-Universität zu Berlin, Université de Fribourg, 2026.
 **Last updated**: 2026-08-27
 ---
 
@@ -203,10 +204,12 @@ Il pretraining ha mostrato vantaggi principalmente sui dataset non bilanciati, a
 ---
 
 ## Pagine e Concetti Correlati
-- [pretraining-simulated-data-clinical-ml](../pretraining-simulated-data-clinical-ml.md): Concetto teorico e metodologico di pretraining con dati simulati da parametri di letteratura.
-- [open-data-scarcity-clinical-psychology](../open-data-scarcity-clinical-psychology.md): Problematica della scarsità di dati aperti, vincoli di privacy e reporting statistico in psicologia clinica.
-- [mccv-and-statistical-validation-clinical-ml](../concetti/mccv-and-statistical-validation-clinical-ml.md): Protocollo di validazione MCCV a 100 iterazioni, bilanciamento SMOTE-NC e test statistici corretti per ML clinico.
-- [treatment-outcome-and-relapse-prediction](../concetti/treatment-outcome-and-relapse-prediction.md): Panoramica generale sull'impiego del Machine Learning per la predizione dell'esito psicoterapeutico.
-- [ai-clinical-decision-support](../concetti/ai-clinical-decision-support.md): Sistemi di supporto decisionale clinico basati su algoritmi predittivi.
-- [ai-enhanced-cbt](../concetti/concetti/concetti\ai-enhanced-cbt.md): Integrazione di modelli computazionali e IA nel ciclo di trattamento cognitivo-comportamentale.
+- [[pretraining-simulated-data-clinical-ml]]: Concetto teorico e metodologico di pretraining con dati simulati da parametri di letteratura.
+- [[open-data-scarcity-clinical-psychology]]: Problematica della scarsità di dati aperti, vincoli di privacy e reporting statistico in psicologia clinica.
+- [[mccv-and-statistical-validation-clinical-ml]]: Protocollo di validazione MCCV a 100 iterazioni, bilanciamento SMOTE-NC e test statistici corretti per ML clinico.
+- [[treatment-outcome-and-relapse-prediction]]: Panoramica generale sull'impiego del Machine Learning per la predizione dell'esito psicoterapeutico.
+- [[ai-clinical-decision-support]]: Sistemi di supporto decisionale clinico basati su algoritmi predittivi.
+- [[ai-enhanced-cbt]]: Integrazione di modelli computazionali e IA nel ciclo di trattamento cognitivo-comportamentale.
 
+## Relazioni
+- Vedi anche: [[2601-06159v1]], [[open-data-scarcity-clinical-psychology]], [[pretraining-simulated-data-clinical-ml]], [[mccv-and-statistical-validation-clinical-ml]], [[ia-e-ipercontrollo-rassegna]], [[treatment-outcome-and-relapse-prediction]], [[ai-clinical-decision-support]], [[ai-enhanced-cbt]]

@@ -1,5 +1,6 @@
 ---
 tags: [semantic-drift, contextual-fidelity, llm-vulnerabilities, mental-health, dialogue-summarization, clinical-nlp, motivational-interviewing, alignment]
+tipo_fonte: scientifica
 source_papers: ["2511.22818v1.pdf"]
 title: "Semantic Drift e Contextual Fidelity nei Modelli Linguistici per la Psicoterapia"
 ---
@@ -82,13 +83,13 @@ Nello studio di Kumar et al. (2025), la deriva semantica è stata quantificata m
 ---
 
 ## Relazioni
-- [miti-framework-llm-evaluation](miti-framework-llm-evaluation.md): Schema di codifica clinica per quantificare e limitare la deriva semantica nel Colloquio Motivazionale.
-- [progressive-prompting-clinical-summarization](progressive-prompting-clinical-summarization.md): Tecniche di ingegneria dei prompt per guidare la fedeltà contestuale.
-- [annosum-mi-dataset](annosum-mi-dataset.md): Benchmark empirico per la misurazione della deviazione da ground truth esperta.
-- [clinical-fidelity-assessment](../clinical-fidelity-assessment.md): Principi metodologici per la misurazione della fedeltà terapeutica.
-- [sycophantic-mirroring](concetti/concetti\sycophantic-mirroring.md): Rischio di compiacimento e deriva relazionale nei sistemi conversazionali.
-- [human-in-the-reasoning](human-in-the-reasoning.md): Ruolo del clinico come supervisore per l'identificazione precoce del drift.
-- [kumar-et-al-2025](../sintesi/kumar-et-al-2025.md): Studio sperimentale primario di riferimento.
+- [[miti-framework-llm-evaluation]]: Schema di codifica clinica per quantificare e limitare la deriva semantica nel Colloquio Motivazionale.
+- [[progressive-prompting-clinical-summarization]]: Tecniche di ingegneria dei prompt per guidare la fedeltà contestuale.
+- [[annosum-mi-dataset]]: Benchmark empirico per la misurazione della deviazione da ground truth esperta.
+- [[clinical-fidelity-assessment]]: Principi metodologici per la misurazione della fedeltà terapeutica.
+- [[sycophantic-mirroring]]: Rischio di compiacimento e deriva relazionale nei sistemi conversazionali.
+- [[human-in-the-reasoning]]: Ruolo del clinico come supervisore per l'identificazione precoce del drift.
+- [[kumar-et-al-2025]]: Studio sperimentale primario di riferimento.
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Kumar, V., Rajawat, P. S., & Ntoutsi, E. (2025). Mitigating semantic drift: Evaluating LLMs’ efficacy in psychotherapy through MI dialogue summarization leveraging MITI code. In *2025 International Joint Conference on Neural Networks (IJCNN)*, pp. 1–8. arXiv preprint arXiv:2511.22818v1.

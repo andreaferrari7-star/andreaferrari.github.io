@@ -10,6 +10,7 @@ tags:
   - igd-criteria
   - measurement-invariance
   - clinical-threshold
+tipo_fonte: scientifica
 source_papers:
   - main (1).pdf
 ---
@@ -174,15 +175,19 @@ flowchart TD
 
 ---
 
-## Related pages
+## Relazioni
 
-- [main-1](main-1.md)
-- [uso-problematico-chatbot-ai](uso-problematico-chatbot-ai.md)
-- [cognitive-debt-in-generative-ai](cognitive-debt-in-generative-ai.md)
-- [large-language-models](large-language-models.md)
-- [anthropomorphism-in-ai](anthropomorphism-in-ai.md)
-- [quattro-condizioni-liceita-ia-psicologia](quattro-condizioni-liceita-ia-psicologia.md)
-- [modello-centauro-clinico](concetti/concetti/concetti\modello-centauro-clinico.md)
+- [[main-1]]
+- [[uso-problematico-chatbot-ai]]
+- [[cognitive-debt-in-generative-ai]]
+- [[large-language-models]]
+- [[anthropomorphism-in-ai]]
+- [[quattro-condizioni-liceita-ia-psicologia]]
+- [[modello-centauro-clinico]]
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Chen, Y., Wang, M., Yuan, S., & Zhao, Y. (2025). Development and validation of the conversational AI dependence scale for Chinese college students. *Frontiers in Psychology*, *16*, 1621540.
+- Goh, A., et al. (2025). *Cognitive Failures Questionnaire in AI-enhanced learning*.
+- Liao, H.-Y., Ko, C.-H., & Yen, C.-F. (2026). Problematic ChatGPT use: Manifestations, etiologies, and evaluation. *Biomedical Journal*, *49*, 100998. https://doi.org/10.1016/j.bj.2026.100998
+- Maral, S., Naycı, N., Bilmez, H., Erdemir, E. İ., & Satici, S. A. (2025). Problematic ChatGPT use scale: AI-human collaboration or unraveling the dark side of ChatGPT. *International Journal of Mental Health and Addiction*, 1–27.
+- Yu, S. C., Chen, H. R., & Yang, Y. W. (2024). Development and validation the problematic ChatGPT use scale: A preliminary report. *Current Psychology*, *43*(31), 26080–26092.

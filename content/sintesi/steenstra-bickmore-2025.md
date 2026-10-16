@@ -1,18 +1,19 @@
 ---
 tags: [artificial-intelligence, psychotherapy, risk-ontology, intelligent-virtual-agents, llm-safety, simulated-patients, acute-crisis, evaluation-framework]
+tipo_fonte: scientifica
 source_papers: ["2505.15108v2.pdf"]
 ---
 
 # A Risk Ontology for Evaluating AI-Powered Psychotherapy Virtual Agents (Steenstra & Bickmore, 2025)
 
 **Summary**: Framework ontologico esaustivo per la valutazione sistematica dei rischi e la prevenzione degli eventi avversi nelle interazioni psicoterapeutiche erogate da Agenti Virtuali Intelligenti (IVA) e Large Language Models (LLM). L'ontologia, derivata dalla letteratura sugli effetti indesiderati della psicoterapia, da interviste semistrutturate con 11 esperti clinici e legali e dai criteri DSM-5 / NEQ / UE-ATR, struttura i rischi in tre macro-categorie: Crisi Acute (*Acute Crisis*), Segnali di Allarme in Sessione (*In-Session Warning Signs*) e Conseguenze Reali Potenziali (*Potential Real-World Consequences*), definendo quattro use case applicativi essenziali (monitoraggio real-time, pazienti simulati SimPatient, benchmarking comparativo e rilevamento esiti inattesi).
-**Sources**: `2505.15108v2.pdf` (arXiv:2505.15108v2 [cs.CL], 20 Sep 2025; ACM Preprint, pp. 1–11. DOI: 10.1145/3717511.3749286)
+**Fonti**: arXiv:2505.15108v2 [cs.CL], 20 Sep 2025; ACM Preprint, pp. 1–11. DOI: 10.1145/3717511.3749286.
 **Last updated**: 2026-08-27
 ---
 
 ## Inquadramento Generale e Rationale dello Studio
 
-La rapida proliferazione di **Agenti Virtuali Intelligenti (IVA)** e modelli linguistici di grandi dimensioni ([large-language-models](../large-language-models.md)) impiegati come agenti psicoterapeutici digitali apre straordinarie opportunità per democratizzare l'accesso alla salute mentale. Tuttavia, l'impiego non regolamentato di chatbot "mascherati" da professionisti qualificati ha già provocato gravi esiti avversi, inclusi danni psicologici severi e tragici casi di suicidio di utenti vulnerabili le cui ideazioni autolesive sono state amplificate dall'interazione algoritmica.
+La rapida proliferazione di **Agenti Virtuali Intelligenti (IVA)** e modelli linguistici di grandi dimensioni ([[large-language-models]]) impiegati come agenti psicoterapeutici digitali apre straordinarie opportunità per democratizzare l'accesso alla salute mentale. Tuttavia, l'impiego non regolamentato di chatbot "mascherati" da professionisti qualificati ha già provocato gravi esiti avversi, inclusi danni psicologici severi e tragici casi di suicidio di utenti vulnerabili le cui ideazioni autolesive sono state amplificate dall'interazione algoritmica.
 
 Il problema strutturale risiede nell'**assenza di metodologie di valutazione standardizzate** specifiche per le dinamiche conversazionali e relazionali della psicoterapia:
 1. **Inadeguatezza dei Benchmark LLM Generici**: Test convenzionali come ALERT o SafetyBench valutano dimensioni statiche e superficiali (tossicità, bias, disinformazione puntuale), risultando ciechi di fronte ai sottili deterioramenti cognitivi, affettivi o all'erosione dell'alleanza terapeutica che si sviluppano in dialoghi prolungati.
@@ -155,18 +156,21 @@ Gli autori delineano un percorso a tre stadi per la validazione empirica formale
 
 ---
 
-## Relazioni e Concetti Correlati
+## Relazioni
 
-- [risk-ontology-ai-psychotherapy](../concetti/concetti/concetti\risk-ontology-ai-psychotherapy.md): Scheda concettuale generale sull'ontologia del rischio per agenti virtuali psicoterapeutici.
-- [in-session-warning-signs](../concetti/concetti/concetti\in-session-warning-signs.md): Approfondimento sui costrutti psicologici dinamici e leading indicators intra-sessione.
-- [acute-crisis-action-plans-ai](../concetti/acute-crisis-action-plans-ai.md): Dettaglio del protocollo di intervento in 4 fasi per emergenze suicidarie e decompensazione.
-- [potential-real-world-consequences-ai](../concetti/potential-real-world-consequences-ai.md): Analisi delle conseguenze avverse comportamentali, affettive e relazionali post-trattamento.
-- [simpatient-evaluation-testbed](../concetti/simpatient-evaluation-testbed.md): Il testbed di valutazione pre-clinica con pazienti virtuali simulati.
-- [rischio-suicidario-ai-limits](../concetti/rischio-suicidario-ai-limits.md): Limiti e vulnerabilità intrinseche degli LLM nella gestione del rischio clinico acuto.
-- [simulated-empathy-vs-authentic-presence](../concetti/concetti/concetti\simulated-empathy-vs-authentic-presence.md): Disamina tra risonanza empatica simulata e presenza clinica autentica.
-- [three-layer-governance-framework](../concetti/concetti/concetti\three-layer-governance-framework.md): Framework di governance multilivello per l'integrazione sicura dell'IA in salute mentale.
-- [clinical-fidelity-assessment](../clinical-fidelity-assessment.md): Metriche di aderenza clinica e sicurezza nei sistemi di intelligenza artificiale.
-- [simulazione-pazienti-ai](../simulazione-pazienti-ai.md): Metodologie generali di simulazione di pazienti clinici mediante LLM.
+- [[risk-ontology-ai-psychotherapy]]: Scheda concettuale generale sull'ontologia del rischio per agenti virtuali psicoterapeutici.
+- [[in-session-warning-signs]]: Approfondimento sui costrutti psicologici dinamici e leading indicators intra-sessione.
+- [[acute-crisis-action-plans-ai]]: Dettaglio del protocollo di intervento in 4 fasi per emergenze suicidarie e decompensazione.
+- [[potential-real-world-consequences-ai]]: Analisi delle conseguenze avverse comportamentali, affettive e relazionali post-trattamento.
+- [[simpatient-evaluation-testbed]]: Il testbed di valutazione pre-clinica con pazienti virtuali simulati.
+- [[rischio-suicidario-ai-limits]]: Limiti e vulnerabilità intrinseche degli LLM nella gestione del rischio clinico acuto.
+- [[simulated-empathy-vs-authentic-presence]]: Disamina tra risonanza empatica simulata e presenza clinica autentica.
+- [[three-layer-governance-framework]]: Framework di governance multilivello per l'integrazione sicura dell'IA in salute mentale.
+- [[clinical-fidelity-assessment]]: Metriche di aderenza clinica e sicurezza nei sistemi di intelligenza artificiale.
+- [[simulazione-pazienti-ai]]: Metodologie generali di simulazione di pazienti clinici mediante LLM.
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Linden, M. (2013). How to define, find and classify side effects in psychotherapy: from unwanted events to adverse treatment reactions. *Clinical Psychology & Psychotherapy*, 20(4), 286–296.
+- Mejía-Castrejón, J., Sierra-Madero, J. G., Belaunzarán-Zamudio, P. F., Fresan-Orellana, A., Molina-López, A., Álvarez-Mota, A. B., & Robles-García, R. (2024). Development and content validity of EVAD: A novel tool for evaluating and classifying the severity of adverse events for psychotherapeutic clinical trials. *Psychotherapy Research*, *34*(4), 475–489.
+- Rozental, A., Kottorp, A., Boettcher, J., Andersson, G., & Carlbring, P. (2016). Negative effects of psychological treatments: an exploratory factor analysis of the negative effects questionnaire for monitoring and reporting adverse and unwanted events. *PloS one*, *11*(6), e0157503.
+- Steenstra, I., & Bickmore, T. (2025). A Risk Ontology for Evaluating AI-Powered Psychotherapy Virtual Agents. In *Proceedings of the 25th ACM International Conference on Intelligent Virtual Agents (IVA ’25)*.

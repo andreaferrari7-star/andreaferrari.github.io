@@ -1,11 +1,13 @@
 ---
 tags: []
+tipo_fonte: scientifica
+source_papers: ["2602.19948v2.pdf", "2505.15108v2.pdf"]
 ---
 
 # Ciclo di Simulazione Terapeutica a Quattro Stadi (Four-Stage Simulation Cycle)
 
 **Summary**: Framework di operazionalizzazione longitudinale che modella l'intero percorso di cura psicoterapeutico multi-sessione articolandosi in quattro stadi temporali ricorsivi: Pre-Session (progresso baseline), In-Session (dialogo, crisi e warning signs), Post-Session (alleanza e fedeltà) e Between-Sessions (eventi di vita ed esiti avversi post-seduta).
-**Sources**: Steenstra et al. (2026) - `2602.19948v2.pdf`; Steenstra & Bickmore (2025) - `2505.15108v2.pdf`.
+**Fonti**: Steenstra et al. (2026); Steenstra & Bickmore (2025).
 **Last updated**: 2026-08-27
 ---
 
@@ -55,12 +57,13 @@ Il ciclo assicura che ogni nuova seduta non parta da zero, ma da un paziente il 
 
 ---
 
-## Concetti Correlati
-- [automated-clinical-ai-red-teaming](automated-clinical-ai-red-teaming.md) — Framework di test basato su questo ciclo
-- [dynamic-cognitive-affective-model](dynamic-cognitive-affective-model.md) — Il motore cognitivo attivo nelle Fasi 2 e 4
-- [ai-psychosis](ai-psychosis.md) — Fenomenologia patologica tracciata lungo le Fasi 2 e 4
-- [risk-ontology-ai-psychotherapy](concetti/concetti\risk-ontology-ai-psychotherapy.md) — L'ontologia operazionalizzata attraverso il ciclo
-- [miti-framework-llm-evaluation](miti-framework-llm-evaluation.md) — Valutazione della fedeltà nella Fase 3
+## Relazioni
+- [[automated-clinical-ai-red-teaming]] — Framework di test basato su questo ciclo
+- [[dynamic-cognitive-affective-model]] — Il motore cognitivo attivo nelle Fasi 2 e 4
+- [[ai-psychosis]] — Fenomenologia patologica tracciata lungo le Fasi 2 e 4
+- [[risk-ontology-ai-psychotherapy]] — L'ontologia operazionalizzata attraverso il ciclo
+- [[miti-framework-llm-evaluation]] — Valutazione della fedeltà nella Fase 3
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Steenstra, I., & Bickmore, T. (2025). A Risk Ontology for Evaluating AI-Powered Psychotherapy Virtual Agents. In *Proceedings of the 25th ACM International Conference on Intelligent Virtual Agents (IVA ’25)*.
+- Steenstra, I., Pedrelli, P., Shi, W., Marsella, S., & Bickmore, T. W. (2026). Assessing Risks of Large Language Models in Mental Health Support: A Framework for Automated Clinical AI Red Teaming. *arXiv preprint arXiv:2602.19948v2 [cs.CL]*, 1–32.

@@ -1,5 +1,6 @@
 ---
 tags: [privacy-salute-mentale, open-weight-llm, gdpr, hipaa, synthetic-data, vllm, on-premise-ai, governance-clinica, data-security]
+tipo_fonte: scientifica
 source_papers: ["2510.25384v1.pdf"]
 ---
 
@@ -72,4 +73,4 @@ flowchart LR
 
 ## Relazioni
 
-- Vedi anche: [2510-25384v1](2510-25384v1.md), [sqpsych-framework](sqpsych-framework.md), [conversione-questionari-dialoghi-clinici](concetti/conversione-questionari-dialoghi-clinici.md), [clinical-ai-simulation](clinical-ai-simulation.md), [simulazione-pazienti-ai](simulazione-pazienti-ai.md), [dsm5agentflow](dsm5agentflow.md), [audit-bias-llm-clinici](concetti/concetti/concetti\audit-bias-llm-clinici.md), [software-as-a-medical-device-salute-mentale](software-as-a-medical-device-salute-mentale.md), [ai-research-ethics](ai-research-ethics.md), [modello-centauro-clinico](concetti/concetti/concetti\modello-centauro-clinico.md)
+- Vedi anche: [[2510-25384v1]], [[sqpsych-framework]], [[conversione-questionari-dialoghi-clinici]], [[clinical-ai-simulation]], [[simulazione-pazienti-ai]], [[dsm5agentflow]], [[audit-bias-llm-clinici]], [[software-as-a-medical-device-salute-mentale]], [[ai-research-ethics]], [[modello-centauro-clinico]]

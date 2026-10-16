@@ -1,5 +1,6 @@
 ---
 tags: [thhe, tiered-healing-ecosystem, dynamic-autonomy-modulation, stepped-care, clinical-governance, risk-stratification, human-in-the-loop, digital-mental-health]
+tipo_fonte: scientifica
 source_papers: ["healthcare-14-00820.pdf"]
 ---
 
@@ -105,7 +106,4 @@ flowchart TD
 ---
 
 ## Relazioni
-- Vedi anche: [healthcare-14-00820](healthcare-14-00820.md), [power-safety-paradox](power-safety-paradox.md), [tiered-autonomy-in-clinical-ai](tiered-autonomy-in-clinical-ai.md), [three-layer-governance-framework](concetti/concetti/concetti\three-layer-governance-framework.md), [stepped-care-ai-integration](concetti/stepped-care-ai-integration.md), [modello-centauro-clinico](concetti/concetti/concetti\modello-centauro-clinico.md), [simulated-empathy-vs-authentic-presence](concetti/concetti/concetti\simulated-empathy-vs-authentic-presence.md), [rlhf-safety-therapeutic-conflict](rlhf-safety-therapeutic-conflict.md), [ai-psychosis](ai-psychosis.md)
-
-## Riferimenti Bibliografici
-- [Da integrare]
+- Vedi anche: [[healthcare-14-00820]], [[power-safety-paradox]], [[tiered-autonomy-in-clinical-ai]], [[three-layer-governance-framework]], [[stepped-care-ai-integration]], [[modello-centauro-clinico]], [[simulated-empathy-vs-authentic-presence]], [[rlhf-safety-therapeutic-conflict]], [[ai-psychosis]]

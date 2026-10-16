@@ -1,12 +1,13 @@
 ---
 tags: [cognitive-restructuring, crdial, crisp, crispers, cbt-dialogica, llm-psicoterapia, supportive-strategies, defense-attorney-technique, distorsioni-cognitive, panas]
+tipo_fonte: scientifica
 source_papers: ["2504.17238v1.pdf"]
 ---
 
 # CRISP: Cognitive Restructuring of Negative Thoughts through Multi-turn Supportive Dialogues (Zhou et al., 2025)
 
 **Summary**: Studio pionieristico che formalizza la ristrutturazione cognitiva (CR) in psicoterapia assistita da LLM attraverso il framework multi-fase e multi-turno **CRDIAL**. Superando i limiti delle precedenti generazioni di modelli basati su semplice riscrittura del testo o dialoghi rigidi, il framework integra l'identificazione a 3 livelli dei pensieri (Cognitive Theory di Beck), la ristrutturazione maieutica tramite la Tecnica dell'Avvocato Difensore (DAT di de Oliveira), strategie di supporto emotivo vincolate a livello di singola frase (derivanti dalle teorie di Hill e Linehan) e un meccanismo multi-canale a ciclo continuo (*multi-channel loop*). Dalla distillazione di 22.063 dialoghi bilingui ad altissima qualità (**CRISP**) sono stati addestrati i modelli **CRISPERS** (7B e 14B), che dimostrano performance superiori a GPT-4o in valutazioni pointwise, pairwise e in un trial di intervento psicologico clinico con scala PANAS su 90 soggetti.
-**Sources**: `2504.17238v1.pdf` (arXiv:2504.17238v1 [cs.CL], 24 Apr 2025. CoAI Group - Tsinghua University, University of Pennsylvania, Lingxin AI, Harvard University, Zhejiang University, NetEase Fuxi AI Lab. Repository: [GitHub](https://github.com/thu-coai/Crisp))
+**Fonti**: arXiv:2504.17238v1 [cs.CL], 24 Apr 2025. CoAI Group - Tsinghua University, University of Pennsylvania, Lingxin AI, Harvard University, Zhejiang University, NetEase Fuxi AI Lab. Repository: [GitHub](https://github.com/thu-coai/Crisp).
 **Last updated**: 2026-08-27
 ---
 
@@ -197,13 +198,15 @@ graph LR
 ---
 
 ## Concetti Correlati nel Knowledge Base
-- [crdial-framework](../crdial-framework.md): Il framework metodologico e architetturale per la ristrutturazione cognitiva dialogica.
-- [defense-attorney-technique](../concetti/concetti/concetti\defense-attorney-technique.md): La tecnica psicoterapeutica maieutica del tribunale interiore (Defense, Prosecution, Verdict).
-- [sentence-level-supportive-strategies](../concetti/sentence-level-supportive-strategies.md): La tassonomia a 5 categorie e 8 sotto-strategie per il supporto emotivo vincolato frase per frase.
-- [multi-channel-loop-mechanism](../concetti/multi-channel-loop-mechanism.md): Il meccanismo di derivazione multi-canale e ricorsione ciclica sui bias cognitivi.
-- [crispers-models-and-dataset](../concetti/concetti/concetti\crispers-models-and-dataset.md): Il dataset bilingue CRISP e l'addestramento dei modelli specializzati CRISPERS (7B/14B).
-- [active-ai-therapeutic-agent](../active-ai-therapeutic-agent.md): Criterio di agente terapeutico attivo nel rimodellamento cognitivo.
-- [digital-therapeutic-alliance](../digital-therapeutic-alliance.md): Costruzione dell'alleanza di lavoro e fiducia nell'interazione uomo-macchina.
-- [conversational-agents-mental-health](../concetti/conversational-agents-mental-health.md): Panoramica sugli agenti conversazionali per la salute mentale.
-- [simulated-empathy-vs-authentic-presence](../concetti/concetti/concetti\simulated-empathy-vs-authentic-presence.md): Differenza tra strategie supportive simulate e risonanza affettiva autentica.
+- [[crdial-framework]]: Il framework metodologico e architetturale per la ristrutturazione cognitiva dialogica.
+- [[defense-attorney-technique]]: La tecnica psicoterapeutica maieutica del tribunale interiore (Defense, Prosecution, Verdict).
+- [[sentence-level-supportive-strategies]]: La tassonomia a 5 categorie e 8 sotto-strategie per il supporto emotivo vincolato frase per frase.
+- [[multi-channel-loop-mechanism]]: Il meccanismo di derivazione multi-canale e ricorsione ciclica sui bias cognitivi.
+- [[crispers-models-and-dataset]]: Il dataset bilingue CRISP e l'addestramento dei modelli specializzati CRISPERS (7B/14B).
+- [[active-ai-therapeutic-agent]]: Criterio di agente terapeutico attivo nel rimodellamento cognitivo.
+- [[digital-therapeutic-alliance]]: Costruzione dell'alleanza di lavoro e fiducia nell'interazione uomo-macchina.
+- [[conversational-agents-mental-health]]: Panoramica sugli agenti conversazionali per la salute mentale.
+- [[simulated-empathy-vs-authentic-presence]]: Differenza tra strategie supportive simulate e risonanza affettiva autentica.
 
+## Relazioni
+- Vedi anche: [[2504-17238v1]], [[crdial-framework]], [[simulazione-clinica-pazienti-virtuali]], [[crispers-models-and-dataset]], [[defense-attorney-technique]], [[multi-channel-loop-mechanism]], [[sentence-level-supportive-strategies]], [[active-ai-therapeutic-agent]]

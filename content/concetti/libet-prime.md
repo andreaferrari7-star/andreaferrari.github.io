@@ -3,6 +3,7 @@ title: Libet Prime
 created: 2026-08-27
 last_updated: 2026-08-27
 tags: [ai, libet, cbt, didattica, supervisione]
+tipo_fonte: scientifica
 ---
 
 # Libet Prime
@@ -46,13 +47,10 @@ L'agente utilizza un routing dinamico tra 5 modalità funzionali per gestire eff
 
 ## Relazioni
 
-- [07-10_Riunione_Test_Valutazione_Libet_Prime](../sintesi/07-10_Riunione_Test_Valutazione_Libet_Prime.md)
-- [trainer-simulator](trainer-simulator.md)
-- [testing-e-validazione-agenti-didattici](testing-e-validazione-agenti-didattici.md)
-- [ia-maieutica-e-co-ragionamento](ia-maieutica-e-co-ragionamento.md)
-- [human-in-the-reasoning](human-in-the-reasoning.md)
-- [simulazione-pazienti-ai](simulazione-pazienti-ai.md)
-- [05-08_Riunione_Knowledge_Base](../05-08_Riunione_Knowledge_Base.md)
-
-## Riferimenti Bibliografici
-- [Da integrare]
+- [[07-10-riunione-test-libet-prime]]
+- [[trainer-simulator]]
+- [[testing-e-validazione-agenti-didattici]]
+- [[ia-maieutica-e-co-ragionamento]]
+- [[human-in-the-reasoning]]
+- [[simulazione-pazienti-ai]]
+- [[05-08-riunione-knowledge-base]]

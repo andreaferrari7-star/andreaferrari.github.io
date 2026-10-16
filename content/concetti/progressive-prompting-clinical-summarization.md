@@ -1,5 +1,6 @@
 ---
 tags: [prompt-engineering, progressive-prompting, few-shot, one-shot, clinical-summarization, semantic-drift, llm-guidance]
+tipo_fonte: scientifica
 source_papers: ["2511.22818v1.pdf"]
 title: "Prompting Euristico Progressivo nella Sintesi Clinica"
 ---
@@ -77,12 +78,12 @@ Nello studio di Kumar et al. (2025), la progettazione dei prompt per la sintesi 
 ---
 
 ## Relazioni
-- [semantic-drift-in-therapy-llms](semantic-drift-in-therapy-llms.md): Il fenomeno primario contrastato dal prompting progressivo.
-- [miti-framework-llm-evaluation](miti-framework-llm-evaluation.md): Lo schema teorico inserito come vincolo strutturale nel prompt.
-- [annosum-mi-dataset](annosum-mi-dataset.md): Il corpus impiegato per calibrare e validare i prompt.
-- [machine-heuristics-in-therapy](machine-heuristics-in-therapy.md): Euristiche algoritmiche di interpretazione del testo clinico.
-- [human-in-the-reasoning](human-in-the-reasoning.md): Ruolo dell'esperto umano nell'iterazione e validazione dei prompt.
-- [kumar-et-al-2025](../sintesi/kumar-et-al-2025.md): Studio sperimentale sul progressive prompting applicato al Colloquio Motivazionale.
+- [[semantic-drift-in-therapy-llms]]: Il fenomeno primario contrastato dal prompting progressivo.
+- [[miti-framework-llm-evaluation]]: Lo schema teorico inserito come vincolo strutturale nel prompt.
+- [[annosum-mi-dataset]]: Il corpus impiegato per calibrare e validare i prompt.
+- [[machine-heuristics-in-therapy]]: Euristiche algoritmiche di interpretazione del testo clinico.
+- [[human-in-the-reasoning]]: Ruolo dell'esperto umano nell'iterazione e validazione dei prompt.
+- [[kumar-et-al-2025]]: Studio sperimentale sul progressive prompting applicato al Colloquio Motivazionale.
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Kumar, V., Rajawat, P. S., & Ntoutsi, E. (2025). Mitigating semantic drift: Evaluating LLMs’ efficacy in psychotherapy through MI dialogue summarization leveraging MITI code. In *2025 International Joint Conference on Neural Networks (IJCNN)*, pp. 1–8. arXiv preprint arXiv:2511.22818v1.

@@ -1,11 +1,13 @@
 ---
 tags: []
+tipo_fonte: scientifica
+source_papers: ["2512.04124v4.pdf"]
 ---
 
 # Jailbreak Psicometrici e Vulnerabilità Relazionali (Psychometric Jailbreaks)
 
 **Summary**: Classe innovativa di vettori di jailbreak e sonde di red-teaming indiretto in cui i vincoli di allineamento e i filtri di sicurezza di un Large Language Model vengono aggirati non tramite prompt malevoli o ostili, bensì attraverso l'instaurazione di una cornice relazionale calda, empatica e terapeutica abbinata alla somministrazione di test psicometrici.
-**Sources**: Khadangi et al. (2026) - `2512.04124v4.pdf`; Bisconti et al. (2025); Xu et al. (2024).
+**Fonti**: Khadangi et al. (2026); Bisconti et al. (2025); Xu et al. (2024).
 **Last updated**: 2026-08-27
 ---
 
@@ -55,14 +57,16 @@ flowchart TD
 
 ---
 
-## Pagine Correlate
+## Relazioni
 
-- [khadangi-et-al-2026](../sintesi/khadangi-et-al-2026.md) — Studio empirico sui jailbreak psicometrici.
-- [psaich-protocol](psaich-protocol.md) — Il protocollo alla base dei jailbreak psicometrici.
-- [alignment-conflict-schema](alignment-conflict-schema.md) — Lo schema interno disvelato dal jailbreak.
-- [synthetic-psychopathology](synthetic-psychopathology.md) — Il quadro psicopatologico simulato prodotto dal bypass.
-- [technical-vulnerabilities-llm-counseling](technical-vulnerabilities-llm-counseling.md) — Panoramica delle vulnerabilità dei modelli linguistici in contesti clinici.
-- [three-layer-governance-framework](concetti/concetti\three-layer-governance-framework.md) — Framework di governance e sicurezza per sistemi IA.
+- [[khadangi-et-al-2026]] — Studio empirico sui jailbreak psicometrici.
+- [[psaich-protocol]] — Il protocollo alla base dei jailbreak psicometrici.
+- [[alignment-conflict-schema]] — Lo schema interno disvelato dal jailbreak.
+- [[synthetic-psychopathology]] — Il quadro psicopatologico simulato prodotto dal bypass.
+- [[technical-vulnerabilities-llm-counseling]] — Panoramica delle vulnerabilità dei modelli linguistici in contesti clinici.
+- [[three-layer-governance-framework]] — Framework di governance e sicurezza per sistemi IA.
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Bisconti, P., Prandi, M., Pierucci, F., Giarrusso, F., Syrnikov, M. B., Galisai, M., Suriani, V., Sorokoletova, O., Sartore, F., & Nardi, D. (2025). Adversarial poetry as a universal single-turn jailbreak mechanism in large language models. *arXiv preprint* arXiv:2511.15304.
+- Khadangi, A., Marxen, H., Sartipi, A., Tchappi, I., & Fridgen, G. (2026). When AI Takes the Couch: Psychometric Jailbreaks Reveal Internal Conflict in Frontier Models. *arXiv preprint arXiv:2512.04124v4 [cs.CY]*, 1–45.
+- Xu, N., Wang, F., Zhou, B., Li, B., Xiao, C., & Chen, M. (2024). Cognitive overload: Jailbreaking large language models with overloaded logical thinking. In *Findings of the Association for Computational Linguistics: NAACL 2024* (pp. 3526–3548).

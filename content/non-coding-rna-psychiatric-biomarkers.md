@@ -1,5 +1,6 @@
 ---
 tags: [ncrna, mirna, lncrna, circrna, snorna, pirna, epigenetics, synaptic-plasticity, mdd, suicide, biomarkers, ketamine, precision-psychiatry]
+tipo_fonte: scientifica
 source_papers: ["41398_2025_Article_3497.pdf"]
 ---
 
@@ -96,5 +97,5 @@ Oltre il 40% dei lncRNA è espresso selettivamente nel cervello umano, fungendo 
 
 ## Relazioni
 
-- Vedi anche: [41398-2025-article-3497](41398-2025-article-3497.md), [multi-omics-ai-psychiatry](multi-omics-ai-psychiatry.md), [ai-assisted-psychotherapy](ai-assisted-psychotherapy.md), [treatment-outcome-and-relapse-prediction](concetti/treatment-outcome-and-relapse-prediction.md), [software-as-a-medical-device-salute-mentale](software-as-a-medical-device-salute-mentale.md), [11920-2026-article-1690](11920-2026-article-1690.md)
+- Vedi anche: [[41398-2025-article-3497]], [[multi-omics-ai-psychiatry]], [[ai-assisted-psychotherapy]], [[treatment-outcome-and-relapse-prediction]], [[software-as-a-medical-device-salute-mentale]], [[11920-2026-article-1690]]
 

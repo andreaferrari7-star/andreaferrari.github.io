@@ -1,5 +1,6 @@
 ---
 tags: [reflective-interpretability, ai-safety, digital-mental-health, human-computer-interaction, medical-ethics, role-induction, advance-directives, intervention-titration, recourse-mechanisms, psychological-distress]
+tipo_fonte: scientifica
 source_papers: ["2512.16206v2.pdf"]
 ---
 
@@ -7,7 +8,7 @@ source_papers: ["2512.16206v2.pdf"]
 
 **Summary**: Paper fondamentale (IASEAI 2026 / arXiv:2512.16206) che analizza l'intersezione critica tra l'opacità dei sistemi di salute mentale tradizionali e la black-box dell'IA generativa. Gli autori dimostrano come lo stato di vulnerabilità e distress psicologico acuto amplifichi l'euristica di autorità dell'interfaccia, portando a danni reali (deliri, dismorfofobia, interruzione cure, suicidio). Per superare i limiti della tradizionale Explainable AI (XAI) basata sulla mera trasmissione passiva di spiegazioni o tracce Chain-of-Thought (CoT), viene introdotto il paradigma dell'**Interpretabilità Riflessiva (*Reflective Interpretability*)**, fondato sull'etica medica del consenso informato come dialogo continuo e sul reflective design HCI. Vengono delineate quattro strategie tecniche derivate da discipline cliniche: **Role Induction** (psicoterapia), **Prosocial Advance Directives** (intervento sulle crisi), **Intervention Titration** (psichiatria) e **Mechanisms for Recourse** (autorizzazione delle cure).
 
-**Sources**: `2512.16206v2.pdf` (*Proceedings of the Second Conference of the International Association for Safe and Ethical Artificial Intelligence - IASEAI'26*, arXiv:2512.16206v2 [cs.HC], Febbraio 2026).
+**Fonti**: *Proceedings of the Second Conference of the International Association for Safe and Ethical Artificial Intelligence - IASEAI'26*, arXiv:2512.16206v2 [cs.HC], Febbraio 2026.
 **Autori**: Sachin R. Pendse (UCSF), Darren Gergle (Northwestern), Rachel Kornfield, Kaylee Kruzan, David Mohr, Jessica Schleider (Feinberg School of Medicine, Northwestern), Jina Suh (Microsoft Research), Annie Wescott, Jonah Meyerhoff.
 **Last updated**: 2026-08-27
 ---
@@ -79,7 +80,7 @@ Gli approcci convenzionali di **Explainable AI (XAI)** mostrano limiti intrinsec
 3. **Effetto paradosso dell'autorità**: Fornire tracce di ragionamento o spiegazioni tecniche può incrementare acriticamente la fiducia dell'utente, facendogli abbassare la guardia sulla veridicità dei contenuti.
 4. **La nozione di 'Spiegazione' vs 'Interpretazione'**:
    - Una **spiegazione (*explanation*)** posiziona l'utente come ricettore passivo di una verità oggettiva calata dall'alto da un'autorità tecnica.
-   - Nella salute mentale (dalla psicoanalisi alla [CBT](../concetti/terapia-cognitivo-comportamentale.md) fino alla terapia narrativa), la guarigione si fonda sull'**interpretazione attiva (*reflective interpretation*)** e sulla costruzione di senso (*meaning-making*) da parte del paziente (Gross, 2002; White & Epston, 1990).
+   - Nella salute mentale (dalla psicoanalisi alla [[cbt|CBT]] fino alla terapia narrativa), la guarigione si fonda sull'**interpretazione attiva (*reflective interpretation*)** e sulla costruzione di senso (*meaning-making*) da parte del paziente (Gross, 2002; White & Epston, 1990).
 
 ### Definizione di Interpretabilità Riflessiva (*Reflective Interpretability*)
 Un processo iterativo e di tutela dell'agency che stimola l'utente a riflettere sugli output del modello e a interpretarli per costruire significato personale, articolato su tre pilastri:
@@ -181,16 +182,17 @@ L'accesso alla salute mentale non deve costringere le persone a scegliere tra l'
 ---
 
 ## Pagine e Concetti Correlati
-- [reflective-interpretability](../reflective-interpretability.md): Definizione teorica, 3 pilastri e confronto critico con l'Explainable AI tradizionale.
-- [role-induction-ai-mental-health](../concetti/role-induction-ai-mental-health.md): Socializzazione anticipatoria e negoziazione dei ruoli nell'interfaccia chatbot.
-- [prosocial-advance-directives](../prosocial-advance-directives.md): Disposizioni anticipate digitali, pianificazione delle crisi e prosocial nudges contro l'isolamento.
-- [intervention-titration-ai](../concetti/intervention-titration-ai.md): Titolazione collaborativa delle modalità terapeutiche vs esposizione di raw CoT traces.
-- [recourse-mechanisms-ai-mental-health](../concetti/recourse-mechanisms-ai-mental-health.md): Sistemi di ricorso, audit indipendente e debriefing dopo interazioni avverse con l'IA.
-- [psychological-distress-interaction-patterns](../concetti/psychological-distress-interaction-patterns.md): Alterazioni cognitive in acuzie, euristica di autorità e progressione da utilità a patologia.
-- [sycophantic-mirroring](../concetti/concetti/concetti\sycophantic-mirroring.md): Compiacenza algoritmica e rischi di rinforzo dei deliri.
-- [calibrated-mismatches](../concetti/concetti/concetti\calibrated-mismatches.md): Discrepanze calibrate in terapia umana vs compiacenza automatica.
-- [fast-food-psychotherapy](../concetti/fast-food-psychotherapy.md): Gratificazione immediata e dipendenza dopaminergica nell'uso dei chatbot.
-- [evidence-adoption-gap-ai-mental-health](../concetti/evidence-adoption-gap-ai-mental-health.md): Divario tra disponibilità commerciale e validazione clinica.
-- [rischio-suicidario-ai-limits](../concetti/rischio-suicidario-ai-limits.md): Limiti e vulnerabilità nella gestione algoritmica delle crisi suicidarie.
+- [[reflective-interpretability]]: Definizione teorica, 3 pilastri e confronto critico con l'Explainable AI tradizionale.
+- [[role-induction-ai-mental-health]]: Socializzazione anticipatoria e negoziazione dei ruoli nell'interfaccia chatbot.
+- [[prosocial-advance-directives]]: Disposizioni anticipate digitali, pianificazione delle crisi e prosocial nudges contro l'isolamento.
+- [[intervention-titration-ai]]: Titolazione collaborativa delle modalità terapeutiche vs esposizione di raw CoT traces.
+- [[recourse-mechanisms-ai-mental-health]]: Sistemi di ricorso, audit indipendente e debriefing dopo interazioni avverse con l'IA.
+- [[psychological-distress-interaction-patterns]]: Alterazioni cognitive in acuzie, euristica di autorità e progressione da utilità a patologia.
+- [[sycophantic-mirroring]]: Compiacenza algoritmica e rischi di rinforzo dei deliri.
+- [[calibrated-mismatches]]: Discrepanze calibrate in terapia umana vs compiacenza automatica.
+- [[fast-food-psychotherapy]]: Gratificazione immediata e dipendenza dopaminergica nell'uso dei chatbot.
+- [[evidence-adoption-gap-ai-mental-health]]: Divario tra disponibilità commerciale e validazione clinica.
+- [[rischio-suicidario-ai-limits]]: Limiti e vulnerabilità nella gestione algoritmica delle crisi suicidarie.
 
-
+## Relazioni
+- Vedi anche: [[2512-16206v2]], [[prosocial-advance-directives]], [[reflective-interpretability]], [[intervention-titration-ai]], [[psychological-distress-interaction-patterns]], [[recourse-mechanisms-ai-mental-health]], [[role-induction-ai-mental-health]], [[cbt]]

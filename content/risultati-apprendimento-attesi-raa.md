@@ -5,6 +5,7 @@ tags:
   - progettazione-didattica
   - misurabilita
   - backward-design
+tipo_fonte: [scientifica, interna]
 source_papers:
   - 2.3_esempi_raa.pdf
 ---
@@ -29,7 +30,4 @@ Per risultare efficaci e funzionali, i RAA non devono mai basarsi su processi co
 - METID - Politecnico di Milano. *Esempi Formulazione Risultati di Apprendimento Attesi*.
 
 ## Relazioni
-- Vedi anche: [08-28-riunione-corso-ia-clinici](08-28-riunione-corso-ia-clinici.md), [clinical-training](clinical-training.md)
-
-## Riferimenti Bibliografici
-- [Da integrare]
+- Vedi anche: [[08-28-riunione-corso-ia-clinici]], [[07-17-riunione-corso-formazione|Corso di formazione sull'IA per clinici]]

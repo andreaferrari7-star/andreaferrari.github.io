@@ -10,6 +10,7 @@ tags:
   - y-bocs
   - precision-psychiatry
   - van-de-mortel-2025
+tipo_fonte: scientifica
 source_papers:
   - 1-s2.0-S0165032725011711-main.pdf
 title: "Predizione dell'Esito della CBT nel Disturbo Ossessivo-Compulsivo (CBT Outcome Prediction in OCD)"
@@ -71,7 +72,7 @@ Un contributo cardine della letteratura recente (Van de Mortel et al., 2025, con
     *   Nella remissione, solo l'omogeneità regionale (ReHo) ha mostrato un segnale debole ($\text{AUC} = 0.59$), mentre connettività funzionale ($\text{AUC} \le 0.50$) e ampiezza delle fluttuazioni ($\text{AUC} \le 0.50$) sono risultate del tutto inefficaci;
     *   L'integrazione multimodale (Clinica + fMRI) non ha fornito alcun vantaggio rispetto ai soli dati clinici ($\text{AUC} = 0.63$ vs $0.69$);
     *   L'armonizzazione statistica mediante algoritmi ComBat non ha colmato il divario, suggerendo un'assenza di biomarcatori fisiologici macroscopici rilevabili a riposo associati alla responsività all'ERP.
-3.  **Estensione alla fMRI Task-Based (Inibizione ed Error Processing):** La successiva mega-analisi multicentrica ENIGMA-OCD su 5 coorti ($N=130$) condotta da Džinalija et al. (2026) ha testato l'ipotesi che la fMRI evocata da compiti cognitivi (*task-based*, Stop-Signal e Flanker) potesse superare i limiti della rs-fMRI. Nonostante la rilevazione di chiare associazioni univariate e bayesiane a livello di gruppo (deattivazione del DMN e della corteccia motoria), i modelli di Machine Learning (SVM, Random Forest con validazione LOSO e nested 5-fold CV) hanno replicato prestazioni a livello del caso ($\text{AUC} = 0.40 - 0.59, p > 0.05$), consolidando l'esistenza del **Prediction vs. Association Gap** (vedi [task-based-fmri-cbt-prediction](task-based-fmri-cbt-prediction.md) e [dzinalija-et-al-2026](../dzinalija-et-al-2026.md)).
+3.  **Estensione alla fMRI Task-Based (Inibizione ed Error Processing):** La successiva mega-analisi multicentrica ENIGMA-OCD su 5 coorti ($N=130$) condotta da Džinalija et al. (2026) ha testato l'ipotesi che la fMRI evocata da compiti cognitivi (*task-based*, Stop-Signal e Flanker) potesse superare i limiti della rs-fMRI. Nonostante la rilevazione di chiare associazioni univariate e bayesiane a livello di gruppo (deattivazione del DMN e della corteccia motoria), i modelli di Machine Learning (SVM, Random Forest con validazione LOSO e nested 5-fold CV) hanno replicato prestazioni a livello del caso ($\text{AUC} = 0.40 - 0.59, p > 0.05$), consolidando l'esistenza del **Prediction vs. Association Gap** (vedi [[task-based-fmri-cbt-prediction]] e [[dzinalija-et-al-2026]]).
 4.  **Il Primato della Frugalità Clinica:** I parametri anamnestici e psicometrici ordinari, raccolti a costo zero in pochi minuti durante la visita di inquadramento, offrono una capacità predittiva significativamente più solida, affidabile e generalizzabile tra diversi ospedali rispetto a costose scansioni RM.
 
 ---
@@ -108,21 +109,23 @@ L'analisi dei valori Shapley (SHAP) nei modelli ad albero decisionale (*Random F
 *   **Stratificazione dell'Intensità Terapeutica:** I pazienti che presentano un profilo a basso potenziale di remissione standard (alta severità basale, età avanzata, presenza di ossessioni di pulizia, già in terapia farmacologica) non dovrebbero essere avviati a percorsi ambulatoriali a bassa frequenza senza supporto intensivo. Per questi profili sono indicati:
     *   Formati intensivi ad alta concentrazione (es. il protocollo norvegese Bergen 4-day, che ha dimostrato efficacia indipendente dalla gravità basale; Hansen et al., 2018, 2019);
     *   Sessioni di esposizione assistite in vivo dal terapeuta nell'ambiente naturale del paziente;
-    *   Integrazione di strumenti digitali per il monitoraggio e il supporto all'ERP extraseduta ([automated-erp-training](automated-erp-training.md)).
+    *   Integrazione di strumenti digitali per il monitoraggio e il supporto all'ERP extraseduta ([[automated-erp-training]]).
 *   **Abbandono del Neuroimaging di Routine:** In conformità ai criteri di appropriatezza clinica ed economica, l'esecuzione di risonanze magnetiche a riposo non trova alcuna giustificazione come biomarcatore decisionale pre-CBT nell'OCD.
 
 ---
 
 ## Relazioni
 
-*   [task-based-fmri-cbt-prediction](task-based-fmri-cbt-prediction.md): Predizione tramite fMRI task-based (controllo inibitorio ed error processing) e Prediction vs. Association Gap.
-*   [dzinalija-et-al-2026](../dzinalija-et-al-2026.md): Mega-analisi ENIGMA-OCD su 5 coorti e test di modelli ML (SVM, RF) su fMRI task-based.
-*   [van-de-mortel-et-al-2025](../van-de-mortel-et-al-2025.md): Studio multicentrico empirico ENIGMA-OCD su Journal of Affective Disorders.
-*   [treatment-outcome-and-relapse-prediction](treatment-outcome-and-relapse-prediction.md): Panoramica generale sui modelli di predizione esito e ricaduta in psicoterapia.
-*   [clinical-prediction-model-evaluation](../clinical-prediction-model-evaluation.md): Metodologia di valutazione continua, discriminazione, calibrazione e beneficio netto.
-*   [automated-erp-training](automated-erp-training.md): Piattaforme digitali e agenti IA per l'allenamento dell'esposizione con prevenzione della risposta.
-*   [cbt](cbt.md): Principi teorico-metodologici della Terapia Cognitivo-Comportamentale evidence-based.
-*   [tripod-ai2024](../tripod-ai2024.md): Standard internazionali di reporting per modelli predittivi clinici basati su AI e Machine Learning.
+*   [[task-based-fmri-cbt-prediction]]: Predizione tramite fMRI task-based (controllo inibitorio ed error processing) e Prediction vs. Association Gap.
+*   [[dzinalija-et-al-2026]]: Mega-analisi ENIGMA-OCD su 5 coorti e test di modelli ML (SVM, RF) su fMRI task-based.
+*   [[van-de-mortel-et-al-2025]]: Studio multicentrico empirico ENIGMA-OCD su Journal of Affective Disorders.
+*   [[treatment-outcome-and-relapse-prediction]]: Panoramica generale sui modelli di predizione esito e ricaduta in psicoterapia.
+*   [[clinical-prediction-model-evaluation]]: Metodologia di valutazione continua, discriminazione, calibrazione e beneficio netto.
+*   [[automated-erp-training]]: Piattaforme digitali e agenti IA per l'allenamento dell'esposizione con prevenzione della risposta.
+*   [[cbt]]: Principi teorico-metodologici della Terapia Cognitivo-Comportamentale evidence-based.
+*   [[tripod-ai2024]]: Standard internazionali di reporting per modelli predittivi clinici basati su AI e Machine Learning.
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Džinalija, N., van den Heuvel, O. A., Simpson, H. B., Ivanov, I., Alonso, P., Bertolin, S., Bruin, W., Fortea, L., Fullana, M. A., Hagen, K., Hansen, B., Huijser, C., Kvale, G., Martinez-Zalacain, I., Menchon, J. M., Ousdal, O. T., Soriano-Mas, C., van der Straten, A. L., Thomopoulos, S. I., ... van de Mortel, L. A. (2026). Predicting cognitive-behavioral therapy outcomes in obsessive-compulsive disorder from inhibitory control neural activity: A mega-analysis and machine learning study from the ENIGMA-OCD consortium. *medRxiv*, 2026.03.13.26348316. https://doi.org/10.64898/2026.03.13.26348316
+- Elsner, B., Kathmann, N., Schmidt, H. P., & Riesel, A. (2020). Long-term stability of benefits of cognitive behavioral therapy for obsessive compulsive disorder depends on symptom remission during treatment. *Clinical Psychology in Europe*, 2(1), Article e2785. https://doi.org/10.32872/cpe.v2i1.2785
+- Van de Mortel, L. A., Bruin, W. B., Alonso, P., Bertolín, S., Feusner, J. D., Guo, J., Hagen, K., Hansen, B., Thorsen, A. L., Martínez-Zalacaín, I., Menchón, J. M., Nurmi, E. L., O'Neill, J., Piacentini, J. C., Real, E., Segalàs, C., Soriano-Mas, C., Thomopoulos, S. I., Stein, D. J., Thompson, P. M., van den Heuvel, O. A., & van Wingen, G. A. (2025). Development and validation of a machine learning model to predict cognitive behavioral therapy outcome in obsessive-compulsive disorder using clinical and neuroimaging data. *Journal of Affective Disorders*, 389, 119729. https://doi.org/10.1016/j.jad.2025.119729

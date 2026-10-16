@@ -1,5 +1,6 @@
 ---
 tags: [medication-adherence, remote-patient-monitoring, telemedicine, computer-vision, wearable-sensors, bi-lstm, 3d-resnet, sfoa, federated-learning, differential-privacy, homomorphic-encryption, predictive-analytics, chronic-disease-management]
+tipo_fonte: scientifica
 source_papers: ["AI-PoweredReal-TimeAdherenceMonitoringforRemotePatientCareinTelemedicine.pdf"]
 title: "AI-Powered Real-Time Adherence Monitoring for Remote Patient Care in Telemedicine"
 authors: "Chidiebere Joshua, Whitney Peterson"
@@ -11,7 +12,7 @@ doi: "N/A"
 # AI-Powered Real-Time Adherence Monitoring for Remote Patient Care in Telemedicine
 
 **Summary**: Questo articolo esamina l'integrazione di architetture di Intelligenza Artificiale nel monitoraggio in tempo reale dell'aderenza farmacologica all'interno della telemedicina e del Remote Patient Monitoring (RPM). Superando i limiti delle metriche indirette tradizionali (conteggio pillole, self-report, smart pill bottles soggetti a "curiosity openings"), il framework integra Computer Vision (3D ResNet, 3D ResNeXt, I3D) per la Video-Observed Therapy (VDOT), sensori indossabili triassiali con reti attentive Bi-LSTM ottimizzate tramite Sheep Flock Optimization Algorithm (SFOA), e agenti conversazionali guidati da Reinforcement Learning per il nudging comportamentale contestuale. Il paradigma si fonda su architetture per la tutela della privacy (Federated Learning, Differential Privacy laplaciana, Homomorphic Encryption). I risultati mostrano accuratezze predittive fino al 97.7%-98.9%, un incremento dell'aderenza clinica tra il 6.1% e il 32.7%, la riduzione delle riammissioni ospedaliere per scompenso cardiaco del 23% (oltre 10 miliardi di dollari risparmiati annualmente negli USA), un calo del 60% nell'alert fatigue clinica e una riduzione del 43% nel tempo di documentazione medica.
-**Sources**: `AI-PoweredReal-TimeAdherenceMonitoringforRemotePatientCareinTelemedicine.pdf` (Joshua & Peterson, 12 Giugno 2025)
+**Fonti**: Joshua & Peterson (2025).
 **Last updated**: 2026-08-27
 ---
 
@@ -171,16 +172,16 @@ Il monitoraggio dell'aderenza in tempo reale basato su IA trasforma la gestione 
 
 ---
 
-## Relazioni e Concetti Chiave Collegati
+## Relazioni
 
-- [video-observed-therapy-ai](../video-observed-therapy-ai.md) — Modelli di Computer Vision e Video-Observed Therapy per la conferma dell'ingestione
-- [wearable-sensor-fusion-adherence](../wearable-sensor-fusion-adherence.md) — Sensori indossabili inerziali, architetture Bi-LSTM e ottimizzazione SFOA
-- [privacy-preserving-rpm-frameworks](../concetti/privacy-preserving-rpm-frameworks.md) — Federated Learning, Differential Privacy e Homomorphic Encryption in telemedicina
-- [proactive-surveillance-alert-fatigue](../concetti/proactive-surveillance-alert-fatigue.md) — Sorveglianza proattiva multivariata e riduzione dell'alert fatigue clinica
-- [context-aware-adaptive-nudging](../concetti/context-aware-adaptive-nudging.md) — Reinforcement Learning e agenti conversazionali per il nudging comportamentale
-- [chronic-disease-monitoring-adherence](../concetti/chronic-disease-monitoring-adherence.md) — Automonitoraggio delle patologie croniche e aderenza terapeutica
-- [ai-clinical-decision-support](../concetti/ai-clinical-decision-support.md) — Supporto decisionale clinico e accuratezza diagnostica
-- [etica-privacy-bias-ia-clinica](../concetti/etica-privacy-bias-ia-clinica.md) — Aspetti etici, sicurezza dei dati sanitari e bias algoritmici
+- [[video-observed-therapy-ai]] — Modelli di Computer Vision e Video-Observed Therapy per la conferma dell'ingestione
+- [[wearable-sensor-fusion-adherence]] — Sensori indossabili inerziali, architetture Bi-LSTM e ottimizzazione SFOA
+- [[privacy-preserving-rpm-frameworks]] — Federated Learning, Differential Privacy e Homomorphic Encryption in telemedicina
+- [[proactive-surveillance-alert-fatigue]] — Sorveglianza proattiva multivariata e riduzione dell'alert fatigue clinica
+- [[context-aware-adaptive-nudging]] — Reinforcement Learning e agenti conversazionali per il nudging comportamentale
+- [[chronic-disease-monitoring-adherence]] — Automonitoraggio delle patologie croniche e aderenza terapeutica
+- [[ai-clinical-decision-support]] — Supporto decisionale clinico e accuratezza diagnostica
+- [[etica-privacy-bias-ia-clinica]] — Aspetti etici, sicurezza dei dati sanitari e bias algoritmici
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Joshua, C., & Peterson, W. (2025, 12 giugno). *AI-powered real-time adherence monitoring for remote patient care in telemedicine* [Articolo di ricerca; sede di pubblicazione non indicata nella fonte].

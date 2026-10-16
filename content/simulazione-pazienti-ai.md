@@ -1,18 +1,20 @@
 ---
 tags: []
+tipo_fonte: interna
+source_papers: ["05-08 Riunione_ Sviluppo Knowledge Base AI, Etica e Applicazioni Cliniche.txt"]
 ---
 
 # Simulazione Pazienti AI
 
 **Summary**: Metodologia di impiego degli LLM per generare profili e dialoghi di pazienti virtuali a fini di addestramento psicoterapeutico, sperimentazione didattica e testing clinico.
-**Sources**: [05-08 Riunione_ Sviluppo Knowledge Base AI, Etica e Applicazioni Cliniche.txt](file:///c:/Users/ANDREA/AI%20Knowledge%20Base/05-08%20Riunione_%20Sviluppo%20Knowledge%20Base%20AI,%20Etica%20e%20Applicazioni%20Cliniche.txt)
+**Fonti**: [[05-08-riunione-knowledge-base|Riunione 05-08: Sviluppo Knowledge Base AI, Etica e Applicazioni Cliniche]]
 **Last updated**: 2026-08-27
 
 ---
 
 ## Definizione Operativa
 
-La **Simulazione Pazienti AI** consiste nella progettazione di agenti conversazionali basati su [large-language-models](large-language-models.md) configurati per simulare quadri psicopatologici, pattern di credenze disfunzionali e stili relazionali tipici del contesto psicoterapeutico.
+La **Simulazione Pazienti AI** consiste nella progettazione di agenti conversazionali basati su [[large-language-models]] configurati per simulare quadri psicopatologici, pattern di credenze disfunzionali e stili relazionali tipici del contesto psicoterapeutico.
 
 ## Principi di Prompt Design per la Simulazione Clinica
 
@@ -30,14 +32,11 @@ La **Simulazione Pazienti AI** consiste nella progettazione di agenti conversazi
 - **Bias Algoritmici di Genere e Categoria**: Rischio che i modelli interpretino con gravità asimmetrica scenari clinici equivalenti in base a variabili demografiche (es. sovrastima della severità diagnostica in vignette cliniche femminili).
 - **Trasparenza e Tutela dei Dati**: Necessità assoluta di non utilizzare trascrizioni o dati clinici reali non anonimizzati per la generazione o l'alimentazione dei profili di simulazione.
 
-## Related pages
+## Relazioni
 
-- [05-08_Riunione_Knowledge_Base](05-08_Riunione_Knowledge_Base.md)
-- [human-in-the-reasoning](human-in-the-reasoning.md)
-- [prompting-in-psychology](prompting-in-psychology.md)
-- [machine-psychology](machine-psychology.md)
-- [ai-research-ethics](ai-research-ethics.md)
-- [large-language-models](large-language-models.md)
-
-## Riferimenti Bibliografici
-- [Da integrare]
+- [[05-08-riunione-knowledge-base]]
+- [[human-in-the-reasoning]]
+- [[prompting-in-psychology]]
+- [[machine-psychology]]
+- [[ai-research-ethics]]
+- [[large-language-models]]

@@ -10,6 +10,7 @@ tags:
   - ehr-noise
   - premature-closure
   - cbt-case-formulation
+tipo_fonte: scientifica
 source_papers: 
   - "Clinical_AI_Cognitive_Assessment.pdf"
 ---
@@ -34,16 +35,13 @@ Il framework è nato per superare il *Paradosso dei Testi Clinici Reali*:
 - Ancorando le inferenze a un insieme verificato di fatti estratti nella fase iniziale, si inibisce la tendenza all'iper-compiacenza e si neutralizza l'allucinazione di tipo Korsakoff.
 
 **Riferimenti Bibliografici:**
-- "Clinical_AI_Cognitive_Assessment.pdf"
+- [[clinical-ai-cognitive-assessment]]
 - Documentazione interna sul COAST Framework.
 
 ## Relazioni
-- [COAST Framework](concetti/concetti\coast-framework-clinical-prompting.md) - Il DoT agisce come il motore logico interno per la componente *Actions* del framework COAST.
-- [Allucinazioni LLM](korsakoff-confabulazione-llm.md) - Il DoT mitiga la dissociazione tra accuratezza formale e fattualità empirica.
-- [CBT Case Formulation](cbt-case-formulation.md) - Applicazione specifica del DoT alla concettualizzazione cognitiva (Modello ABC).
-- [LLM](large-language-models.md) - Base tecnologica su cui viene applicato il framework.
-- [Modello Centauro Clinico](concetti/concetti\modello-centauro-clinico.md) - La metodologia DoT facilita la cooperazione clinica uomo-macchina con supervisione umana attiva.
-- [Explainable Mental Health Diagnosis](explainable-mental-health-diagnosis.md) - Tecniche di interpretabilità nosografica correlate al DoT.
-
-## Riferimenti Bibliografici
-- [Da integrare]
+- [[coast-framework-clinical-prompting|COAST Framework]] - Il DoT agisce come il motore logico interno per la componente *Actions* del framework COAST.
+- [[korsakoff-confabulazione-llm|Allucinazioni LLM]] - Il DoT mitiga la dissociazione tra accuratezza formale e fattualità empirica.
+- CBT Case Formulation - Applicazione specifica del DoT alla concettualizzazione cognitiva (Modello ABC).
+- [[large-language-models|LLM]] - Base tecnologica su cui viene applicato il framework.
+- [[modello-centauro-clinico]] - La metodologia DoT facilita la cooperazione clinica uomo-macchina con supervisione umana attiva.
+- [[explainable-mental-health-diagnosis]] - Tecniche di interpretabilità nosografica correlate al DoT.

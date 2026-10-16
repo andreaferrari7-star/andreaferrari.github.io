@@ -1,5 +1,6 @@
 ---
 tags: [validation-gap, proxy-outcomes, mental-health-ai, clinical-nlp, real-world-evidence, publication-bias, generalizability, psychiatric-assessment, evidence-based-ai]
+tipo_fonte: scientifica
 source_papers: ["mental-2026-1-e88057.pdf"]
 ---
 
@@ -109,17 +110,17 @@ pie title Distribuzione degli Studi per Tipologia di Validazione (N=41)
 
 ## Relazioni
 
-- [mental-2026-1-e88057](mental-2026-1-e88057.md)
-- [clinical-readiness-gap-in-mh-chatbots](concetti/concetti/concetti\clinical-readiness-gap-in-mh-chatbots.md)
-- [evidence-adoption-gap-ai-mental-health](concetti/evidence-adoption-gap-ai-mental-health.md)
-- [lightweight-domain-models-in-mental-health](lightweight-domain-models-in-mental-health.md)
-- [specialized-nlp-models-mental-health](concetti/specialized-nlp-models-mental-health.md)
-- [synthetic-psychopathology](synthetic-psychopathology.md)
-- [single-correct-answer-fallacy-in-clinical-ai](single-correct-answer-fallacy-in-clinical-ai.md)
-- [open-data-scarcity-clinical-psychology](open-data-scarcity-clinical-psychology.md)
-- [modello-centauro-clinico](concetti/concetti/concetti\modello-centauro-clinico.md)
-- [human-in-the-reasoning](human-in-the-reasoning.md)
-- [linee-guida-reporting-ai-generativa-chart-elevate](linee-guida-reporting-ai-generativa-chart-elevate.md)
-- [traffic-light-quality-appraisal-clinical-ai](traffic-light-quality-appraisal-clinical-ai.md)
+- [[mental-2026-1-e88057]]
+- [[clinical-readiness-gap-in-mh-chatbots]]
+- [[evidence-adoption-gap-ai-mental-health]]
+- [[lightweight-domain-models-in-mental-health]]
+- [[specialized-nlp-models-mental-health]]
+- [[synthetic-psychopathology]]
+- [[single-correct-answer-fallacy-in-clinical-ai]]
+- [[open-data-scarcity-clinical-psychology]]
+- [[modello-centauro-clinico]]
+- [[human-in-the-reasoning]]
+- [[linee-guida-reporting-ai-generativa-chart-elevate]]
+- [[traffic-light-quality-appraisal-clinical-ai]]
 t-quality-appraisal-clinical-ai]]
 

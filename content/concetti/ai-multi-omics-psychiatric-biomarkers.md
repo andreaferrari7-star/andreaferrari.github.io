@@ -1,5 +1,6 @@
 ---
 tags: [artificial-intelligence, machine-learning, deep-learning, nlp, random-forest, svm, multi-omics, psychiatric-biomarkers, suicide-prediction, depression-diagnosis, precision-psychiatry]
+tipo_fonte: scientifica
 source_papers: ["41398_2025_Article_3497.pdf"]
 title: "AI and Multi-Omics for Psychiatric Biomarkers and Risk Prediction"
 ---
@@ -84,13 +85,23 @@ L'integrazione di dati omici ematici e modelli di regressione supervisionata ha 
 
 ---
 
-## Relazioni nel Knowledge Base
-- [wang-dwivedi-2025](../sintesi/wang-dwivedi-2025.md): Sintesi sistematica della review di riferimento.
-- [multi-omics-depression-suicide](multi-omics-depression-suicide.md): Il substrato biologico integrato elaborato dai modelli di AI.
-- [peripheral-blood-biomarkers-and-exosomes-in-mdd](peripheral-blood-biomarkers-and-exosomes-in-mdd.md): Biopsia liquida ed esosomi come fonti di dati per modelli ML.
-- [treatment-outcome-and-relapse-prediction](treatment-outcome-and-relapse-prediction.md): Predizione dell'esito clinico basata su modelli computazionali.
-- [ai-clinical-decision-support](ai-clinical-decision-support.md): Sistemi di supporto alle decisioni cliniche.
-- [rischio-suicidario-ai-limits](rischio-suicidario-ai-limits.md): Limiti e rischi dei modelli linguistici nella gestione del suicidio.
+## Relazioni
+- [[wang-dwivedi-2025]]: Sintesi sistematica della review di riferimento.
+- [[multi-omics-depression-suicide]]: Il substrato biologico integrato elaborato dai modelli di AI.
+- [[peripheral-blood-biomarkers-and-exosomes-in-mdd]]: Biopsia liquida ed esosomi come fonti di dati per modelli ML.
+- [[treatment-outcome-and-relapse-prediction]]: Predizione dell'esito clinico basata su modelli computazionali.
+- [[ai-clinical-decision-support]]: Sistemi di supporto alle decisioni cliniche.
+- [[rischio-suicidario-ai-limits]]: Limiti e rischi dei modelli linguistici nella gestione del suicidio.
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Al Hanai, T., Ghassemi, M., & Glass, J. (2018). Detecting depression with audio/text sequence modeling of interviews. In *Proceedings of the Annual Conference of the International Speech Communication Association, INTERSPEECH. 9th Annual Conference of the International Speech Communication, INTERSPEECH 2018 - Hyderabad, India*.
+- Bhak, Y., Jeong, H. O., Cho, Y. S., Jeon, S., Cho, J., Gim, J. A., et al. (2019). Depression and suicide risk prediction models using blood-derived multi-omics data. *Transl Psychiatry*, *9*, 262.
+- Birnbaum, M. L., Abrami, A., Heisig, S., Ali, A., Arenare, E., Agurto, C., et al. (2022). Acoustic and facial features from clinical interviews for machine learning-based psychiatric diagnosis: algorithm development. *JMIR Ment Health*, *9*, e24699.
+- Gusev, A., Mancuso, N., Won, H., Kousi, M., Finucane, H. K., Reshef, Y., et al. (2018). Transcriptome-wide association study of schizophrenia and chromatin activity yields mechanistic disease insights. *Nature Genetics*, 50(4), 538–548.
+- Kreimeyer, K., Foster, M., Pandey, A., Arya, N., Halford, G., Jones, S. F., et al. (2017). Natural language processing systems for capturing and standardizing unstructured clinical information: a systematic review. *J Biomed Inform*, *73*, 14–29.
+- Peng, S., Zhou, Y., Xiong, L., & Wang, Q. (2023). Identification of novel targets and pathways to distinguish suicide dependent or independent on depression diagnosis. *Sci Rep*, *13*, 2488.
+- Quaak, M., van de Mortel, L., Thomas, R. M., & van Wingen, G. (2021). Deep learning applications for the classification of psychiatric disorders using neuroimaging data: systematic review and meta-analysis. *NeuroImage Clin*, *30*, 102584.
+- Walsh, C. G., Ribeiro, J. D., & Franklin, J. C. (2018). Predicting suicide attempts in adolescents with longitudinal clinical data and machine learning. *J Child Psychology Psychiatry*, *59*, 1261–70.
+- Wang, Q., & Dwivedi, Y. (2025). Recent developments in omics studies and artificial intelligence in depression and suicide. *Translational Psychiatry*, 15(1), 1–18. https://doi.org/10.1038/s41398-025-03497-6
+- Yi, Z., Li, Z., Yu, S., Yuan, C., Hong, W., Wang, Z., et al. (2012). Blood-based gene expression profiles models for classification of subsyndromal symptomatic depression and major depressive disorder. *PLoS ONE*, 7(2), e31283.
+- Yu, J., Xue, A., Redei, E., & Bagheri, N. (2016). A support vector machine model provides an accurate transcript-level-based diagnostic for major depressive disorder. *Translational Psychiatry*, 6(10), e931.

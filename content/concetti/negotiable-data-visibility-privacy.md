@@ -1,11 +1,13 @@
 ---
 tags: []
+tipo_fonte: scientifica
+source_papers: ["2512.22462v1.pdf"]
 ---
 
 # Visibilità Negoziabile dei Dati e Privacy Dinamica in Sanità Mentale
 
 **Summary**: Paradigma di sicurezza e governance del dato clinico (DG2, Quan et al., 2025) basato su un'architettura di privacy flessibile e multilivello (*share once, share partially, keep private*), progettato per mitigare l'effetto Panopticon e restituire agency relazionale ai pazienti marginalizzati nell'interazione con sistemi IA e terapeuti.
-**Sources**: Quan et al. (2025) - `2512.22462v1.pdf`, Belen Saglam et al. (2021)
+**Fonti**: Quan et al. (2025), Belen Saglam et al. (2021)
 **Last updated**: 2026-08-27
 ---
 
@@ -56,13 +58,14 @@ L'adozione della visibilità negoziabile richiede vincoli tecnici stringenti sui
 - **Diritto all'Oblio e Revocabilità**: Possibilità per l'utente di revocare in qualsiasi momento la visibilità di frammenti conversazionali passati.
 
 ---
-## Concetti Correlati
-- [dynamic-boundary-mediation-framework](dynamic-boundary-mediation-framework.md)
-- [boundary-objects-in-psychotherapy](boundary-objects-in-psychotherapy.md)
-- [contextualized-relational-memory](contextualized-relational-memory.md)
-- [educator-burden-marginalized-clients](educator-burden-marginalized-clients.md)
-- [etica-privacy-bias-ia-clinica](etica-privacy-bias-ia-clinica.md)
-- [three-layer-governance-framework](concetti/concetti\three-layer-governance-framework.md)
+## Relazioni
+- [[dynamic-boundary-mediation-framework]]
+- [[boundary-objects-in-psychotherapy]]
+- [[contextualized-relational-memory]]
+- [[educator-burden-marginalized-clients]]
+- [[etica-privacy-bias-ia-clinica]]
+- [[three-layer-governance-framework]]
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Quan, J., Li, Z., Zhu, T. Q., Li, Y., Wang, B., Pratt, W., & Gao, N. (2025). Relational Mediators: LLM Chatbots as Boundary Objects in Psychotherapy. *arXiv preprint arXiv:2512.22462v1 [cs.HC]*, 1–35. https://doi.org/10.48550/arXiv.2512.22462
+- Saglam, R. B., Nurse, J. R. C., & Hodges, D. (2021). Privacy Concerns in Chatbot Interactions: When to Trust and When to Worry. In *HCI International 2021 - Posters, Constantine Stephanidis, Margherita Antona, and Stavroula Ntoa (Eds.). Vol. 1420*.

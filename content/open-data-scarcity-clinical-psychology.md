@@ -1,5 +1,6 @@
 ---
 tags: [open-science, clinical-psychology, data-scarcity, privacy, gdpr, synthetic-data, attribute-disclosure-risk, rct, reporting-standards]
+tipo_fonte: scientifica
 source_papers: ["2601.06159v1.pdf"]
 title: "Scarsità di Dati Aperti, Privacy e Rischi di Re-Identificazione in Psicologia Clinica"
 ---
@@ -8,7 +9,7 @@ title: "Scarsità di Dati Aperti, Privacy e Rischi di Re-Identificazione in Psic
 
 **Summary**: Analisi delle barriere etiche, deontologiche e metodologiche che ostacolano l'accesso e la condivisione pubblica di dataset clinici (*Open Data Scarcity*) in salute mentale, dei rischi di re-identificazione insiti nei dati sintetici (*Attribute Disclosure Risk*) e delle raccomandazioni per il reporting trasparente di statistiche disaggregate nei trial clinici (RCT).
 
-**Sources**: Jacobs et al. (2026) - `2601.06159v1.pdf`, Hittmeir et al. (2020), Goncalves et al. (2020)
+**Fonti**: Jacobs et al. (2026), Hittmeir et al. (2020), Goncalves et al. (2020)
 
 **Last updated**: 2026-08-27
 
@@ -99,13 +100,15 @@ Per abilitare modelli predittivi robusti e riproducibili nel rispetto della priv
 
 ---
 
-## Related pages
+## Relazioni
 
-*   [2601-06159v1](2601-06159v1.md): Studio di valutazione empirica sull'uso di dati simulati da letteratura.
-*   [pretraining-simulated-data-clinical-ml](pretraining-simulated-data-clinical-ml.md): Algoritmi e modelli di pretraining su statistiche descrittive.
-*   [mccv-and-statistical-validation-clinical-ml](concetti/mccv-and-statistical-validation-clinical-ml.md): Metodologia di cross-validation e test di generalizzazione in campioni clinici.
-*   [etica-privacy-bias-ia-clinica](concetti/etica-privacy-bias-ia-clinica.md): Aspetti etici, deontologici e di privacy nell'uso dell'IA in clinica.
-*   [treatment-outcome-and-relapse-prediction](concetti/treatment-outcome-and-relapse-prediction.md): Predizione degli esiti terapeutici nella psicoterapia.
+*   [[2601-06159v1]]: Studio di valutazione empirica sull'uso di dati simulati da letteratura.
+*   [[pretraining-simulated-data-clinical-ml]]: Algoritmi e modelli di pretraining su statistiche descrittive.
+*   [[mccv-and-statistical-validation-clinical-ml]]: Metodologia di cross-validation e test di generalizzazione in campioni clinici.
+*   [[etica-privacy-bias-ia-clinica]]: Aspetti etici, deontologici e di privacy nell'uso dell'IA in clinica.
+*   [[treatment-outcome-and-relapse-prediction]]: Predizione degli esiti terapeutici nella psicoterapia.
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Goncalves, A., Ray, P., Soper, B., Stevens, J., Coyle, L., & Sales, A. P. (2020). Generation and evaluation of synthetic patient data. *BMC Medical Research Methodology*, 20(1), 108.
+- Hittmeir, M., Mayer, R., & Ekelhart, A. (2020). A Baseline for Attribute Disclosure Risk in Synthetic Data. *Proceedings of the 10th ACM Conference on Data and Application Security and Privacy*, 133–143.
+- Jacobs, N., Voelkle, M. C., Kathmann, N., & Hilbert, K. (2026). Can we Improve Prediction of Psychotherapy Outcomes Through Pretraining With Simulated Data? *arXiv preprint arXiv:2601.06159v1 [stat.ML]*.

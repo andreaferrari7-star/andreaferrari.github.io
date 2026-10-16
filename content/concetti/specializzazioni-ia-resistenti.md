@@ -1,17 +1,19 @@
 ---
 tags: []
+tipo_fonte: [scientifica, interna]
+source_papers: ["AI in Psicoterapia 2023-2026.docx"]
 ---
 
 # Specializzazioni IA-Resistenti e Modelli Ibridi in Psicoterapia
 
 **Summary**: Riorientamento strategico della professione psicoterapeutica verso aree cliniche ad altissima complessità somatica, relazionale e sistemica non surrogabili dagli algoritmi (terapia familiare, di coppia conflittuale, psicoterapia infantile embodied), integrato con modelli clinici ibridi in cui il terapeuta funge da "prescrittore tecnologico" e consulente etico nell'industria tecnologica.
-**Sources**: Caldwell (2026); GPA (2026); EFPA (2026); `AI in Psicoterapia 2023-2026.docx`.
+**Fonti**: Caldwell (2026); GPA (2026); EFPA (2026); [[ai-in-psicoterapia-2023-2026|AI in Psicoterapia 2023-2026 (rassegna interna)]].
 **Last updated**: 2026-08-27
 ---
 
 ## Il Rischio di Commoditizzazione della Terapia Verbale Individuale
 
-Con la rapida diffusione di [large-language-models](../large-language-models.md) generalisti e chatbot terapeutici commerciali a basso costo, i segmenti di psicoterapia verbale puramente cognitiva, psicoeducativa o di supporto aspecifico rischiano una progressiva pressione economica e sostitutiva da parte di assicurazioni e provider sanitari.
+Con la rapida diffusione di [[large-language-models]] generalisti e chatbot terapeutici commerciali a basso costo, i segmenti di psicoterapia verbale puramente cognitiva, psicoeducativa o di supporto aspecifico rischiano una progressiva pressione economica e sostitutiva da parte di assicurazioni e provider sanitari.
 
 Per contrastare questo scenario, la comunità clinica teorizza un duplice adattamento:
 1. **Focalizzazione su Specializzazioni IA-Resistenti**;
@@ -60,7 +62,7 @@ Le aree cliniche strutturalmente protette dalla disintermediazione algoritmica p
 Nel modello ibrido (*blended care* evoluto):
 - Il terapeuta non abdica alla relazione ma assume il ruolo di **curatore e prescrittore di specifici strumenti di micro-intervento** (es. app validate per il tracciamento neutro dei sintomi o per il role-playing di assertività).
 - **Titolarità Esclusiva della Crisi**: L'IA non gestisce l'emergenza clinica o l'ideazione suicidaria; l'accesso diretto e prioritario resta saldamente in capo al professionista umano.
-- **Sostituzione dell'Uso Autonomo Selvagio**: Invece di subire la [Sycophancy Trap](sycophancy-trap-clinica.md) dei chatbot commerciali, il paziente riceve percorsi strutturati guidati dal clinico.
+- **Sostituzione dell'Uso Autonomo Selvagio**: Invece di subire la [[sycophancy-trap-clinica|Sycophancy Trap]] dei chatbot commerciali, il paziente riceve percorsi strutturati guidati dal clinico.
 
 ---
 
@@ -72,13 +74,14 @@ Come auspicato dai principi della Global Psychology Alliance (GPA, 2026) e dell'
 
 ---
 
-## Pagine Correlate
-- [ai-in-psicoterapia-2023-2026](../sintesi/ai-in-psicoterapia-2023-2026.md)
-- [sadar-framework](sadar-framework.md)
-- [artificial-intelligence-replacement-dysfunction](artificial-intelligence-replacement-dysfunction.md)
-- [sycophancy-trap-clinica](sycophancy-trap-clinica.md)
-- [consenso-dinamico-e-governance-dati-ia](consenso-dinamico-e-governance-dati-ia.md)
-- [blended-care-ai-framework](blended-care-ai-framework.md)
+## Relazioni
+- [[ai-in-psicoterapia-2023-2026]]
+- [[sadar-framework]]
+- [[artificial-intelligence-replacement-dysfunction]]
+- [[sycophancy-trap-clinica]]
+- [[consenso-dinamico-e-governance-dati-ia]]
+- [[blended-care-ai-framework]]
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Global Psychology Alliance. (2026). *Top 10 principles for understanding artificial intelligence in psychology*. American Psychological Association. https://www.apa.org/international/networks/global-psychology-alliance/principles-understanding-artificial-intelligence
+- `[da verificare]` Caldwell (2026): citato nella rassegna interna senza un riferimento identificabile (la nota rinvia a una pagina APA non pertinente).

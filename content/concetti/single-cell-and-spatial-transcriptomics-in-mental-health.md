@@ -1,5 +1,6 @@
 ---
 tags: [single-cell-rnaseq, snrna-seq, spatial-transcriptomics, dbit-seq, cellular-heterogeneity, sex-dimorphism, opc, parvalbumin-interneurons, mdd, suicide, brain-mapping]
+tipo_fonte: scientifica
 source_papers: ["41398_2025_Article_3497.pdf"]
 title: "Single-Cell and Spatial Transcriptomics in Mental Health"
 ---
@@ -81,12 +82,18 @@ Studi di associazione sull'intero trascrittoma a singolo nucleo (*single-nucleus
 
 ---
 
-## Relazioni nel Knowledge Base
-- [wang-dwivedi-2025](../sintesi/wang-dwivedi-2025.md): Sintesi sistematica della review di riferimento.
-- [multi-omics-depression-suicide](multi-omics-depression-suicide.md): Integrazione di dati a singola cellula con GWAS ed epigenomica.
-- [non-coding-rna-biomarkers-psychiatry](non-coding-rna-biomarkers-psychiatry.md): Localizzazione sinaptica e cellulare degli RNA non codificanti.
-- [ai-multi-omics-psychiatric-biomarkers](ai-multi-omics-psychiatric-biomarkers.md): Algoritmi di apprendimento e clustering per dati a singola cellula.
-- [peripheral-blood-biomarkers-and-exosomes-in-mdd](peripheral-blood-biomarkers-and-exosomes-in-mdd.md): Validazione periferica di alterazioni cellulari centrali.
+## Relazioni
+- [[wang-dwivedi-2025]]: Sintesi sistematica della review di riferimento.
+- [[multi-omics-depression-suicide]]: Integrazione di dati a singola cellula con GWAS ed epigenomica.
+- [[non-coding-rna-biomarkers-psychiatry]]: Localizzazione sinaptica e cellulare degli RNA non codificanti.
+- [[ai-multi-omics-psychiatric-biomarkers]]: Algoritmi di apprendimento e clustering per dati a singola cellula.
+- [[peripheral-blood-biomarkers-and-exosomes-in-mdd]]: Validazione periferica di alterazioni cellulari centrali.
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Liu, Y., Yang, M., Deng, Y., Su, G., Enninful, A., Guo, C. C., et al. (2020). High-spatial-resolution multi-omics sequencing via deterministic barcoding in tissue. *Cell*, *183*, 1665–81.
+- Maitra, M., Mitsuhashi, H., Rahimian, R., Chawla, A., Yang, J., Fiori, L. M., et al. (2023). Cell type specific transcriptomic differences in depression show similar patterns between males and females but implicate distinct cell types and genes. *Nature Communications*, 14(1), 2912.
+- Maynard, K. R., Collado-Torres, L., Weber, L. M., Uytingco, C., Barry, B. K., Williams, S. R., et al. (2021). Transcriptome-scale spatial gene expression in the human dorsolateral prefrontal cortex. *Nature Neuroscience*, 24(3), 425–436.
+- Thompson, J. R., Nelson, E. D., Tippani, M., Ramnauth, A. D., Divecha, H. R., Miller, R. A., et al. (2025). An integrated single-nucleus and spatial transcriptomics atlas reveals the molecular landscape of the human hippocampus. *Nat Neurosci*. https://doi.org/10.1101/2024.04.26.590643
+- Wang, Q., & Dwivedi, Y. (2025). Recent developments in omics studies and artificial intelligence in depression and suicide. *Translational Psychiatry*, 15(1), 1–18. https://doi.org/10.1038/s41398-025-03497-6
+- Zeng, L., Fujita, M., Gao, Z., White, C. C., Green, G. S., Habib, N., et al. (2024). A single-nucleus transcriptome-wide association studyimplicates novel genes in depression pathogenesis. *Biol Psychiatry*, *96*, 34–43.
+- Zhou, Y., Xiong, L., Chen, J., & Wang, Q. (2023). Integrative analyses of scRNA-seq, bulk mRNA-seq, and DNA methylation profiling in depressed suicide brain tissues. *International Journal of Neuropsychopharmacology*, 26(12), 840–855.

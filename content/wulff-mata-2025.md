@@ -7,6 +7,7 @@ tags:
   - conceptual-engineering
   - embeddings
   - psicometria
+tipo_fonte: scientifica
 source_papers:
   - wulff-mata-2025-escaping-the-jingle-jangle-jungle-increasing-conceptual-clarity-in-psychology-using-large-language.pdf
 ---
@@ -36,10 +37,10 @@ source_papers:
 ## Relazioni
 
 Vedi anche:
-*   [taxonomic-incommensurability](taxonomic-incommensurability.md)
-*   [shared-semantic-space](shared-semantic-space.md)
-*   [jingle-fallacy](jingle-fallacy.md)
-*   [jangle-fallacy](jangle-fallacy.md)
-*   [llm-assisted-semantic-clustering](llm-assisted-semantic-clustering.md)
-*   [dual-validity-framework](dual-validity-framework.md)
+*   [[taxonomic-incommensurability]]
+*   [[shared-semantic-space]]
+*   [[jingle-fallacy]]
+*   [[jangle-fallacy]]
+*   [[llm-assisted-semantic-clustering]]
+*   [[dual-validity-framework]]
 

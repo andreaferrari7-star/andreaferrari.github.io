@@ -1,5 +1,6 @@
 ---
 tags: [machine-learning, pretraining, simulated-data, random-forest, psychotherapy, clinical-prediction, precision-psychiatry, mvnd]
+tipo_fonte: scientifica
 source_papers: ["2601.06159v1.pdf"]
 title: "Pretraining con Dati Simulati da Letteratura nel Machine Learning Clinico"
 ---
@@ -7,7 +8,7 @@ title: "Pretraining con Dati Simulati da Letteratura nel Machine Learning Clinic
 # Pretraining con Dati Simulati da Letteratura nel Machine Learning Clinico
 
 **Summary**: Metodologia di pre-addestramento algoritmico basata sulla generazione di dati sintetici a partire da statistiche descrittive aggregate pubblicate nella letteratura scientifica (medie, deviazioni standard, matrici di correlazione disaggregate per gruppi di outcome terapeutico), finalizzata a mitigare l'overfitting e compensare la scarsità di dataset clinici aperti prima del fine-tuning su campioni reali.
-**Sources**: Jacobs et al. (2026) - `2601.06159v1.pdf`
+**Fonti**: Jacobs et al. (2026)
 **Last updated**: 2026-08-27
 
 ---
@@ -108,12 +109,12 @@ graph LR
 
 ---
 
-## Related pages
-- [2601-06159v1](2601-06159v1.md): Sintesi completa dello studio empirico originale.
-- [open-data-scarcity-clinical-psychology](open-data-scarcity-clinical-psychology.md): Quadro etico e metodologico della carenza di dati condivisi in ambito clinico.
-- [mccv-and-statistical-validation-clinical-ml](concetti/mccv-and-statistical-validation-clinical-ml.md): Protocolli di validazione MCCV e inferenza statistica corretta.
-- [treatment-outcome-and-relapse-prediction](concetti/treatment-outcome-and-relapse-prediction.md): Modelli predittivi dell'efficacia psicoterapeutica.
-- [ai-clinical-decision-support](concetti/ai-clinical-decision-support.md): Sistemi di supporto alle decisioni cliniche.
+## Relazioni
+- [[2601-06159v1]]: Sintesi completa dello studio empirico originale.
+- [[open-data-scarcity-clinical-psychology]]: Quadro etico e metodologico della carenza di dati condivisi in ambito clinico.
+- [[mccv-and-statistical-validation-clinical-ml]]: Protocolli di validazione MCCV e inferenza statistica corretta.
+- [[treatment-outcome-and-relapse-prediction]]: Modelli predittivi dell'efficacia psicoterapeutica.
+- [[ai-clinical-decision-support]]: Sistemi di supporto alle decisioni cliniche.
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Jacobs, N., Voelkle, M. C., Kathmann, N., & Hilbert, K. (2026). Can we Improve Prediction of Psychotherapy Outcomes Through Pretraining With Simulated Data? *arXiv preprint arXiv:2601.06159v1 [stat.ML]*.

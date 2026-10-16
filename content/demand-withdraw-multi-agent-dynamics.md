@@ -1,5 +1,6 @@
 ---
 tags: [demand-withdraw, couple-conflict, state-transition-rules, sense-plan-act, clinical-fidelity, multi-agent-simulation, affective-dynamics, emotionally-focused-therapy]
+tipo_fonte: scientifica
 source_papers: ["2601.10970v2.pdf"]
 ---
 
@@ -65,7 +66,4 @@ Per garantire un valore pedagogico ottimale ed evitare stalli o derive incontrol
 - Woolley, S. R., Wampler, K. S., & Davis, S. D. (2012). Enactments in couple therapy: Identifying therapist interventions associated with positive change. *Journal of Family Therapy*, 34(3), 284–305.
 
 ## Relazioni
-- Vedi anche: [2601-10970v2](2601-10970v2.md), [multi-party-interaction-simulation](multi-party-interaction-simulation.md), [simulazione-pazienti-ai](simulazione-pazienti-ai.md), [clinical-ai-simulation](clinical-ai-simulation.md), [trainer-simulator](trainer-simulator.md), [clinical-fidelity-assessment](clinical-fidelity-assessment.md), [reverse-training-simulazione](reverse-training-simulazione.md), [ai-assisted-psychotherapy](ai-assisted-psychotherapy.md)
-
-## Riferimenti Bibliografici
-- [Da integrare]
+- Vedi anche: [[2601-10970v2]], [[multi-party-interaction-simulation]], [[simulazione-pazienti-ai]], [[clinical-ai-simulation]], [[trainer-simulator]], [[clinical-fidelity-assessment]], [[reverse-training-simulazione]], [[ai-assisted-psychotherapy]]

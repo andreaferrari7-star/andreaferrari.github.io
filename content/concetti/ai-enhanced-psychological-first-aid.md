@@ -1,5 +1,6 @@
 ---
 tags: [psychological-first-aid, ai-enhanced-pfa, crisis-intervention, trauma-response, task-shifting, low-resource-settings, digital-triage, sustainable-mental-health]
+tipo_fonte: scientifica
 source_papers: ["ijerph-22-01382.pdf"]
 ---
 
@@ -98,6 +99,6 @@ flowchart TD
 ---
 
 ## Relazioni
-- Documento sorgente: [ijerph-22-01382](../ijerph-22-01382.md)
-- Concetti correlati: [multidimensional-sustainability-mental-health-ai](concetti/concetti\multidimensional-sustainability-mental-health-ai.md), [tiered-human-ai-healing-ecosystem](tiered-human-ai-healing-ecosystem.md), [stepped-care-ai-integration](stepped-care-ai-integration.md), [acute-crisis-action-plans-ai](acute-crisis-action-plans-ai.md), [human-in-the-reasoning](human-in-the-reasoning.md), [algorithmic-bias-and-digital-inequalities](algorithmic-bias-and-digital-inequalities.md), [federated-learning-and-differential-privacy-mental-health](federated-learning-and-differential-privacy-mental-health.md)
+- Documento sorgente: [[ijerph-22-01382]]
+- Concetti correlati: [[multidimensional-sustainability-mental-health-ai]], [[tiered-human-ai-healing-ecosystem]], [[stepped-care-ai-integration]], [[acute-crisis-action-plans-ai]], [[human-in-the-reasoning]], [[algorithmic-bias-and-digital-inequalities]], [[federated-learning-and-differential-privacy-mental-health]]
 

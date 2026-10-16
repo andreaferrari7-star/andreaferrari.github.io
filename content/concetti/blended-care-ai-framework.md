@@ -1,12 +1,13 @@
 ---
 tags: [blended-care, stepped-care, alleanza-terapeutica, stamp-of-approval, aderenza, psicoterapia-ibrida, innovazione-clinica]
+tipo_fonte: scientifica
 source_papers: ["2509.02144v1.pdf"]
 ---
 
 # Blended Care Framework per l'Integrazione di Agenti IA
 
 **Summary**: Modello strategico e clinico di cura combinata (Blended Care) proposto da Herbener & Damholdt (2025) per superare i limiti strutturali degli agenti autonomi (Genuineness e Credibility Gap) capitalizzando al contempo sui loro punti di forza (scalabilità, disponibilità 24/7, basso costo).
-**Sources**: Herbener & Damholdt (2025) - `2509.02144v1.pdf`
+**Fonti**: Herbener & Damholdt (2025)
 **Last updated**: 2026-08-27
 ---
 
@@ -47,11 +48,11 @@ graph TD
 
 ## Razionale Clinico: Perché il Blended Care Neutralizza i Gap
 
-1. **Superamento del [Credibility Gap](concetti/concetti\credibility-gap.md) tramite lo "Stamp of Approval"**:
+1. **Superamento del [[credibility-gap]] tramite lo "Stamp of Approval"**:
    - Quando l'agente IA è raccomandato e introdotto direttamente dal professionista curante con cui il paziente ha instaurato una relazione di fiducia, l'agente eredita la legittimazione istituzionale e l'autorevolezza del clinico. Ciò incrementa significativamente l'aderenza (*retention & adherence*) e le aspettative positive di miglioramento.
 
-2. **Preservazione della Relazione Reale e del [Reflected Appraisal](reflected-appraisal-in-ai-therapy.md)**:
-   - La relazione reale (Gelso, 2014) e le esperienze emotive correttive continuano a svilupparsi nello spazio interpersonale umano, evitando che il [Genuineness Gap](genuineness-gap.md) comprometta la ristrutturazione del concetto di Sé del paziente.
+2. **Preservazione della Relazione Reale e del [[reflected-appraisal-in-ai-therapy|Reflected Appraisal]]**:
+   - La relazione reale (Gelso, 2014) e le esperienze emotive correttive continuano a svilupparsi nello spazio interpersonale umano, evitando che il [[genuineness-gap]] comprometta la ristrutturazione del concetto di Sé del paziente.
 
 3. **Massimizzazione dell'Efficienza e Abbattimento dei Costi**:
    - L'agente IA assicura la disponibilità h24 per compiti ad alta ripetitività (consolidamento abitudini, journaling cognitivo, promemoria di esercizi), alleviando il carico di lavoro del terapeuta e riducendo i tempi di attesa e i costi per il paziente (Kazdin, 2018; Koelen et al., 2022).
@@ -79,13 +80,18 @@ Herbener & Damholdt (2025) evidenziano quattro domande chiave per la progettazio
 ---
 
 ## Relazioni
-- [herbener-damholdt-2025](../sintesi/herbener-damholdt-2025.md)
-- [genuineness-gap](genuineness-gap.md)
-- [credibility-gap](concetti/concetti\credibility-gap.md)
-- [ontological-and-sociocultural-status](ontological-and-sociocultural-status.md)
-- [stepped-care-ai-integration](stepped-care-ai-integration.md)
-- [three-layer-governance-framework](concetti/concetti\three-layer-governance-framework.md)
-- [human-in-the-reasoning](human-in-the-reasoning.md)
+- [[herbener-damholdt-2025]]
+- [[genuineness-gap]]
+- [[credibility-gap]]
+- [[ontological-and-sociocultural-status]]
+- [[stepped-care-ai-integration]]
+- [[three-layer-governance-framework]]
+- [[human-in-the-reasoning]]
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Dennis, M., Frank, L. E., Herbener, A. B., Klincewicz, M., Damholdt, M. F., Puzio, A., et al. (2024). Reconceptualizing The Ethical Guidelines for Mental Health Apps: Values From Feminism, Disability Studies, and Intercultural Ethics. *IEEE*.
+- Gelso, C. (2014). A tripartite model of the therapeutic relationship: Theory, research, and practice. *Psychotherapy Research*, 24(2), 117–131.
+- Herbener, A. B., & Damholdt, M. F. (2025). A Theoretical Framework of the Processes of Change in Psychotherapy Delivered by Artificial Agents. *arXiv preprint arXiv:2509.02144v1 [cs.HC]*, 1–16. https://doi.org/10.48550/arXiv.2509.02144
+- Kazdin, A. (2018). Expanding mental health services through novel models of intervention delivery. *Journal of Child Psychology and Psychiatry*, *60*.
+- Koelen, J. A., Vonk, A., Klein, A., de Koning, L., Vonk, P., de Vet, S., & Wiers, R. (2022). Man vs. machine: A meta-analysis on the added value of human support in text-based internet treatments (“e-therapy”) for mental disorders. *Clinical Psychology Review*, *96*, 102179.
+- Wentzel, J., et al. (2016). Blended eHealth for depression: a systematic review and meta-analysis. *JMIR Mental Health*, 3(3), e34.

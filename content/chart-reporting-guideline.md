@@ -1,5 +1,6 @@
 ---
 tags: [chart-reporting-guideline, reporting-standards, equator-network, medical-ai-transparency, clinical-nlp, living-guideline, evidence-based-medicine, prompt-reproducibility]
+tipo_fonte: scientifica
 source_papers: ["CHART2025.pdf"]
 ---
 
@@ -38,15 +39,12 @@ flowchart TD
 
 ## Relazioni
 
-- [chart2025-1](chart2025-1.md)
-- [chatbot-health-advice-studies](chatbot-health-advice-studies.md)
-- [traffic-light-quality-appraisal-clinical-ai](traffic-light-quality-appraisal-clinical-ai.md)
-- [chai-blueprint-health-ai](chai-blueprint-health-ai.md)
-- [clinical-fidelity-assessment](clinical-fidelity-assessment.md)
-- [ai-research-ethics](ai-research-ethics.md)
-- [gdpr-governance-mental-health-ai](concetti/concetti/concetti\gdpr-governance-mental-health-ai.md)
-- [prompting-in-psychology](prompting-in-psychology.md)
-- [large-language-models](large-language-models.md)
-
-## Riferimenti Bibliografici
-- [Da integrare]
+- [[chart2025-1]]
+- [[chatbot-health-advice-studies]]
+- [[traffic-light-quality-appraisal-clinical-ai]]
+- [[chai-blueprint-health-ai]]
+- [[clinical-fidelity-assessment]]
+- [[ai-research-ethics]]
+- [[gdpr-governance-mental-health-ai]]
+- [[prompting-in-psychology]]
+- [[large-language-models]]

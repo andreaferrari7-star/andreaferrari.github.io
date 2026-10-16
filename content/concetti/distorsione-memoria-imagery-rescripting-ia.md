@@ -1,11 +1,13 @@
 ---
 tags: []
+tipo_fonte: scientifica
+source_papers: ["2505.20796v1.pdf"]
 ---
 
 # Distorsione della Memoria e Imagery Rescripting mediati da IA
 
 **Summary**: Analisi differenziale tra il rischio iatrogeno di induzione di false memorie (*false memory effect*) generato da allucinazioni o bias di prompting dell'IA generativa e l'impiego terapeutico intenzionale della modificazione mnestica (*Imagery Rescripting*) guidato dal clinico.
-**Sources**: Degenhard et al. (2025) - `2505.20796v1.pdf`
+**Fonti**: Degenhard et al. (2025)
 **Last updated**: 2026-08-27
 ---
 
@@ -57,13 +59,13 @@ La ricerca in Human-Computer Interaction (HCI) ed etica delle tecnologie immersi
 
 ---
 
-## Related pages
-- [degenhard-et-al-2025](../sintesi/degenhard-et-al-2025.md)
-- [generative-ai-exposure-therapy](generative-ai-exposure-therapy.md)
-- [rischi-esposizione-cptsd-ia](rischi-esposizione-cptsd-ia.md)
-- [interazione-triadica-terapeuta-paziente-ia](interazione-triadica-terapeuta-paziente-ia.md)
-- [human-in-the-reasoning](human-in-the-reasoning.md)
-- [etica-privacy-bias-ia-clinica](etica-privacy-bias-ia-clinica.md)
+## Relazioni
+- [[degenhard-et-al-2025]]
+- [[generative-ai-exposure-therapy]]
+- [[rischi-esposizione-cptsd-ia]]
+- [[interazione-triadica-terapeuta-paziente-ia]]
+- [[human-in-the-reasoning]]
+- [[etica-privacy-bias-ia-clinica]]
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Degenhard, A., Tschöke, S., Rietzler, M., & Rukzio, E. (2025). Describe Me Something You Do Not Remember - Challenges and Risks of Exposure Design Using Generative Artificial Intelligence for Therapy of Complex Post-traumatic Disorder. *arXiv preprint arXiv:2505.20796v1 [cs.HC]*.

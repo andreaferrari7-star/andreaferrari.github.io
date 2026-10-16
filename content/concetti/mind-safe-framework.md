@@ -1,18 +1,19 @@
 ---
 tags: [mind-safe, rag, ethical-framework, risk-detection, crisis-escalation, conversational-ai, mental-health-ai]
+tipo_fonte: [scientifica, interna]
 source_papers: ["AI Generativa in Psicoterapia.docx", "Rabbani et al. (2025)"]
 ---
 
 # Framework MIND-SAFE per la Psicoterapia Generativa
 
 **Summary**: Framework di salvaguardia etica e architetturale per agenti conversazionali e CDSS in salute mentale (*Mental Well-Being Through Dialogue – Safeguarded and Adaptive Framework for Ethics*), basato sull'integrazione di Retrieval-Augmented Generation (RAG) su banche dati evidence-based e livelli di monitoraggio proattivo del rischio con inibizione della generazione autonoma ed escalation umana immediata.
-**Sources**: `AI Generativa in Psicoterapia.docx`, Rabbani et al. (2025)
+**Fonti**: [[ai-generativa-in-psicoterapia|AI Generativa in Psicoterapia (rassegna interna)]], Rabbani et al. (2025)
 **Last updated**: 2026-08-27
 ---
 
 ## Obiettivi e Principi Guida
 
-L'impiego di agenti conversazionali generativi in contesti di salute mentale comporta gravi rischi di danno clinico: diffusione di consigli terapeutici non validati, rinforzo di ideazioni psicotiche o deliri (*folie à deux* tecnologica), accondiscendenza distorta ([sycophantic-mirroring](concetti/concetti\sycophantic-mirroring.md)) e mancata gestione delle crisi suicide.
+L'impiego di agenti conversazionali generativi in contesti di salute mentale comporta gravi rischi di danno clinico: diffusione di consigli terapeutici non validati, rinforzo di ideazioni psicotiche o deliri (*folie à deux* tecnologica), accondiscendenza distorta ([[sycophantic-mirroring]]) e mancata gestione delle crisi suicide.
 
 Il framework **MIND-SAFE** (*Mental Well-Being Through Dialogue – Safeguarded and Adaptive Framework for Ethics*) definisce una struttura a strati per blindare l'operatività dell'IA entro confini rigorosamente controllati.
 
@@ -50,15 +51,15 @@ flowchart TD
 
 ---
 
-## Related Pages
-- [ai-generativa-in-psicoterapia](../sintesi/ai-generativa-in-psicoterapia.md)
-- [readi-framework](readi-framework.md)
-- [hybrid-neuro-symbolic-cdss](hybrid-neuro-symbolic-cdss.md)
-- [rischio-suicidario-ai-limits](rischio-suicidario-ai-limits.md)
-- [sycophantic-mirroring](concetti/concetti\sycophantic-mirroring.md)
-- [rag-in-psicoterapia](rag-in-psicoterapia.md)
-- [human-in-the-reasoning](human-in-the-reasoning.md)
-- [etica-privacy-bias-ia-clinica](etica-privacy-bias-ia-clinica.md)
+## Relazioni
+- [[ai-generativa-in-psicoterapia]]
+- [[readi-framework]]
+- [[hybrid-neuro-symbolic-cdss]]
+- [[rischio-suicidario-ai-limits]]
+- [[sycophantic-mirroring]]
+- [[rag-in-psicoterapia]]
+- [[human-in-the-reasoning]]
+- [[etica-privacy-bias-ia-clinica]]
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Rabbani, S. A., El-Tanani, M., Sharma, S., Rabbani, S. S., El-Tanani, Y., Kumar, R., & Saini, M. (2025). Generative artificial intelligence in healthcare: Applications, implementation challenges, and future directions. *BioMedInformatics*, *5*(3), 37. https://doi.org/10.3390/biomedinformatics5030037

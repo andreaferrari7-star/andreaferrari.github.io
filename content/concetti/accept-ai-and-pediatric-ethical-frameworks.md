@@ -2,6 +2,8 @@
 title: ACCEPT-AI and Ethical Frameworks in Pediatric AI
 last_updated: 2026-08-27
 tags: [bioetica, intelligenza-artificiale, pediatria, accett-ai, xai, etica-medica]
+tipo_fonte: scientifica
+source_papers: ["a-2702-1843.pdf"]
 ---
 
 # ACCEPT-AI and Ethical Frameworks in Pediatric AI
@@ -50,17 +52,14 @@ Il framework **ACCEPT-AI** (*Recommendations for the use of pediatric data in ar
 
 *   Beauchamp, T. L., & Childress, J. F. (2001). *Principles of Biomedical Ethics*.
 *   Muralidharan, et al. (2023). *Recommendations for the use of pediatric data in artificial intelligence and machine learning (ACCEPT-AI framework)*.
-*   Verhoeven, T., Bouisaghouane, A., & Hulscher, J. (2026). *Explainable AI in Pediatric Ethics* (riferimento al file `a-2702-1843.pdf`).
+*   Verhoeven, T., Bouisaghouane, A., & Hulscher, J. (2026). *Explainable AI in Pediatric Ethics*.
 
 ## Relazioni
 
-- [verhoeven-et-al-2026](../sintesi/verhoeven-et-al-2026.md): Sintesi dell'articolo di revisione su Explainable AI e bioetica pediatrica.
-- [xai-in-pediatric-surgery](xai-in-pediatric-surgery.md): Metodologie di XAI applicate alle discipline chirurgiche infantili.
-- [pediatric-ai-bias-and-vulnerabilities](pediatric-ai-bias-and-vulnerabilities.md): Bias algoritmico, campionamento WEIRD e vulnerabilità dello sviluppo.
-- [pediatric-xai-benchmarking](pediatric-xai-benchmarking.md): Standardizzazione e benchmark per la validazione di fedeltà e sicurezza.
-- [ai-research-ethics](../ai-research-ethics.md): Principi generali di etica della ricerca e governance computazionale.
-- [three-layer-governance-framework](concetti/concetti\three-layer-governance-framework.md): Modello di governance multilivello per l'integrazione clinica dell'IA.
-- [etica-privacy-bias-ia-clinica](etica-privacy-bias-ia-clinica.md): Etica, riservatezza dei dati e non discriminazione nell'IA medica.
-
-## Riferimenti Bibliografici
-- [Da integrare]
+- [[verhoeven-et-al-2026]]: Sintesi dell'articolo di revisione su Explainable AI e bioetica pediatrica.
+- [[xai-in-pediatric-surgery]]: Metodologie di XAI applicate alle discipline chirurgiche infantili.
+- [[pediatric-ai-bias-and-vulnerabilities]]: Bias algoritmico, campionamento WEIRD e vulnerabilità dello sviluppo.
+- [[pediatric-xai-benchmarking]]: Standardizzazione e benchmark per la validazione di fedeltà e sicurezza.
+- [[ai-research-ethics]]: Principi generali di etica della ricerca e governance computazionale.
+- [[three-layer-governance-framework]]: Modello di governance multilivello per l'integrazione clinica dell'IA.
+- [[etica-privacy-bias-ia-clinica]]: Etica, riservatezza dei dati e non discriminazione nell'IA medica.

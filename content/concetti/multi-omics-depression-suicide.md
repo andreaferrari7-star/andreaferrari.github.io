@@ -1,5 +1,6 @@
 ---
 tags: [multi-omics, systems-biology, genomics, transcriptomics, epigenetics, proteomics, metabolomics, mdd, suicide, wgcna, convergent-functional-genomics]
+tipo_fonte: scientifica
 source_papers: ["41398_2025_Article_3497.pdf"]
 title: "Multi-Omics Approaches in Depression and Suicide"
 ---
@@ -72,13 +73,17 @@ flowchart TD
 
 ---
 
-## Relazioni nel Knowledge Base
-- [wang-dwivedi-2025](../sintesi/wang-dwivedi-2025.md): Review sistematica di riferimento su omica e intelligenza artificiale.
-- [non-coding-rna-biomarkers-psychiatry](non-coding-rna-biomarkers-psychiatry.md): Il livello regolatorio non codificante (miRNA, lncRNA, circRNA).
-- [single-cell-and-spatial-transcriptomics-in-mental-health](single-cell-and-spatial-transcriptomics-in-mental-health.md): Deconvoluzione cellulare e risoluzione anatomica.
-- [ai-multi-omics-psychiatric-biomarkers](ai-multi-omics-psychiatric-biomarkers.md): Algoritmi di apprendimento automatico per l'analisi multi-omica.
-- [peripheral-blood-biomarkers-and-exosomes-in-mdd](peripheral-blood-biomarkers-and-exosomes-in-mdd.md): Applicazioni periferiche e biopsia liquida.
-- [treatment-outcome-and-relapse-prediction](treatment-outcome-and-relapse-prediction.md): Predizione dell'efficacia terapeutica.
+## Relazioni
+- [[wang-dwivedi-2025]]: Review sistematica di riferimento su omica e intelligenza artificiale.
+- [[non-coding-rna-biomarkers-psychiatry]]: Il livello regolatorio non codificante (miRNA, lncRNA, circRNA).
+- [[single-cell-and-spatial-transcriptomics-in-mental-health]]: Deconvoluzione cellulare e risoluzione anatomica.
+- [[ai-multi-omics-psychiatric-biomarkers]]: Algoritmi di apprendimento automatico per l'analisi multi-omica.
+- [[peripheral-blood-biomarkers-and-exosomes-in-mdd]]: Applicazioni periferiche e biopsia liquida.
+- [[treatment-outcome-and-relapse-prediction]]: Predizione dell'efficacia terapeutica.
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Han, M., Yuan, L., Huang, Y., Wang, G., Du, C., Wang, Q., et al. (2022). Integrated co-expression network analysis uncovers novel tissue-specific genes in major depressive disorder and bipolar disorder. *Front Psychiatry*, *13*, 980315.
+- Lei, C., Li, N., Chen, J., & Wang, Q. (2023). Hypericin ameliorates depression-like behaviors via neurotrophin signaling pathway mediating m6a epitranscriptome modification. *Molecules*, *28*, 3859.
+- Sun, S., Liu, Q., Wang, Z., Huang, Y. Y., Sublette, M. E., Dwork, A. J., et al. (2024). Brain and blood transcriptome profiles delineate common genetic pathways across suicidal ideation and suicide. *Molecular Psychiatry*, 29(5), 1417–1426.
+- Wang, Q., & Dwivedi, Y. (2025). Recent developments in omics studies and artificial intelligence in depression and suicide. *Translational Psychiatry*, 15(1), 1–18. https://doi.org/10.1038/s41398-025-03497-6
+- Zhou, Y., Xiong, L., Chen, J., & Wang, Q. (2023). Integrative analyses of scRNA-seq, bulk mRNA-seq, and DNA methylation profiling in depressed suicide brain tissues. *International Journal of Neuropsychopharmacology*, 26(12), 840–855.

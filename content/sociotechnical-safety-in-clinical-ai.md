@@ -1,5 +1,6 @@
 ---
 tags: [sociotechnical-safety, clinical-ai, safety-framework, risk-mitigation, layered-safeguards, digital-mental-health, hitl, governance, samd, fda-guidelines, eu-ai-act]
+tipo_fonte: scientifica
 source_papers: ["Safety Mechanisms and Risk Mitigation in Generative AI Mental Health Chatbots - A Scoping Review.pdf", "Generative AI Mental Health Chatbot Interventions - A Scoping Review of Safety and User Experience.pdf"]
 ---
 
@@ -142,14 +143,23 @@ sequenceDiagram
 
 ## Voci Correlate nella Knowledge Base
 
-- [Safety Mechanisms and Risk Mitigation in Generative AI Mental Health Chatbots (Olisaeloka et al., 2026)](concetti/safety-mechanisms-ai-chatbots.md)
-- [Layered Safeguards in Clinical AI](concetti/concetti/concetti\layered-safeguards-in-clinical-ai.md)
-- [Adverse Event Monitoring in Clinical AI](concetti/adverse-event-monitoring-in-clinical-ai.md)
-- [Generative AI Mental Health Chatbot Interventions (Olisaeloka et al., 2026)](concetti/generative-ai-mental-health-chatbot-interventions.md)
-- [Relational-Engagement Paradox in GenAI](relational-engagement-paradox-genai.md)
-- [Software as a Medical Device (SaMD) in Salute Mentale](software-as-a-medical-device-salute-mentale.md)
-- [Demarcazione Wellness vs SaMD in Salute Mentale](concetti/demarcazione-wellness-vs-samd-salute-mentale.md)
-- [Configurazione di Sicurezza per Piattaforme di IA Clinica](concetti/configurazione-sicurezza-piattaforme-ia-clinica.md)
+- [[safety-mechanisms-ai-chatbots|Safety Mechanisms and Risk Mitigation in Generative AI Mental Health Chatbots (Olisaeloka et al., 2026)]]
+- [[layered-safeguards-in-clinical-ai]]
+- [[adverse-event-monitoring-in-clinical-ai]]
+- [[generative-ai-mental-health-chatbot-interventions|Generative AI Mental Health Chatbot Interventions (Olisaeloka et al., 2026)]]
+- [[relational-engagement-paradox-genai|Relational-Engagement Paradox in GenAI]]
+- [[software-as-a-medical-device-salute-mentale|Software as a Medical Device (SaMD) in Salute Mentale]]
+- [[demarcazione-wellness-vs-samd-salute-mentale|Demarcazione Wellness vs SaMD in Salute Mentale]]
+- [[configurazione-sicurezza-piattaforme-ia-clinica|Configurazione di Sicurezza per Piattaforme di IA Clinica]]
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Guo, Z., Lai, A., Deng, Z., & Li, K. (2024). Evaluating the feasibility and acceptability of a GPT-based chatbot for depression screening: A mixed-methods study. In X. Xie, I. Styles, G. Powathil, & M. Ceccarelli (Eds.), *Artificial intelligence in healthcare* (pp. 249–263). Springer Nature Switzerland.
+- Habicht, J., Viswanathan, S., Carrington, B., Hauser, T. U., Harper, R., & Rollwage, M. (2024). Closing the accessibility gap to mental health treatment with a personalized self-referral chatbot. *Nature Medicine*, 30, 595–602.
+- Heinz, M. V., Mackin, D. M., Trudeau, B. M., Bhattacharya, S., Wang, Y., Banta, H. A., ... & Jacobson, N. C. (2025). Randomized trial of a generative AI chatbot for mental health treatment. *NEJM AI*, 2, AIoa2400802.
+- Liu, T., Zhao, H., Liu, Y., Wang, X., & Peng, Z. (2024). ComPeer: A generative conversational agent for proactive peer support [Preprint]. *arXiv*. https://doi.org/10.48550/arXiv.2407.18064
+- Olisaeloka, L., Richardson, C. G., Wang, A. Y., Munthali, R. J., & Vigo, D. V. (2026). Safety mechanisms and risk mitigation in generative AI mental health chatbots: A systematic scoping review [Preprint]. Department of Psychiatry, University of British Columbia.
+- Olisaeloka, L., Richardson, C., Wang, A. Y., Munthali, R., & Vigo, D. (2026). Generative AI mental health chatbot interventions: A scoping review of safety and user experience [Preprint]. Department of Psychiatry, University of British Columbia.
+- Vossen, W., et al. (2024). The effect of personalizing a psychotherapy conversational agent on therapeutic bond and usage intentions. In *Proceedings of the 29th International Conference on Intelligent User Interfaces* (pp. 761–771). ACM.
+
+## Relazioni
+- Vedi anche: [[adverse-event-monitoring-in-clinical-ai]], [[generative-ai-mental-health-chatbot-interventions]], [[relational-engagement-paradox-genai]], [[safety-mechanisms-ai-chatbots]], [[human-in-the-loop]], [[layered-safeguards-in-clinical-ai]], [[software-as-a-medical-device-salute-mentale]], [[demarcazione-wellness-vs-samd-salute-mentale]]

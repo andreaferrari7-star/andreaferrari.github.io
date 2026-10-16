@@ -1,5 +1,6 @@
 ---
 tags: [routine-coach, on-demand-assistant, health-behavior-change, intervention-dosage, bct-taxonomy, feedback-and-monitoring, real-time-tracking, digital-health, mhealth, cbt-chatbots, supportive-accountability]
+tipo_fonte: scientifica
 source_papers: ["jmir_v28i1e79677.pdf"]
 ---
 
@@ -113,17 +114,19 @@ La superiorità o appropriatezza dell'uno o dell'altro ruolo dipende dal costrut
 
 ---
 
-## Collegamenti Strutturali con la Knowledge Base
+## Relazioni
 
-- **Origine e Dati Empirici:** Estratto da [Scoping Review JMIR 2026 (Fu et al.)](concetti/jmir-v28i1e79677.md).
-- **Framework di Misurazione:** Si collega a [Framework di Validazione a Cinque Domini per Chatbot di Salute Comportamentale](concetti/five-domain-chatbot-validation-framework.md).
-- **Dicotomie Funzionali Complementari:** Confronta con la distinzione orientata ai fattori emotivi vs compiti in [Social-Oriented vs Task-Oriented Chatbots](concetti/social-oriented-vs-task-oriented-chatbots.md).
-- **Architetture Tecniche di Risposta:** Si collega a [Retrieval vs Generative Clinical Chatbots](concetti/retrieval-vs-generative-clinical-chatbots.md).
-- **Integrazione con Dispositivi:** Si articola con [Wearable Sensor Fusion Adherence](wearable-sensor-fusion-adherence.md).
-- **Dinamiche Relazionali:** Si confronta con i meccanismi di [Alleanza Terapeutica Digitale](concetti/digital-therapeutic-alliance.md).
+- **Origine e Dati Empirici:** Estratto da [[jmir-v28i1e79677|Scoping Review JMIR 2026 (Fu et al.)]].
+- **Framework di Misurazione:** Si collega a [[five-domain-chatbot-validation-framework|Framework di Validazione a Cinque Domini per Chatbot di Salute Comportamentale]].
+- **Dicotomie Funzionali Complementari:** Confronta con la distinzione orientata ai fattori emotivi vs compiti in [[social-oriented-vs-task-oriented-chatbots]].
+- **Architetture Tecniche di Risposta:** Si collega a [[retrieval-vs-generative-clinical-chatbots]].
+- **Integrazione con Dispositivi:** Si articola con [[wearable-sensor-fusion-adherence]].
+- **Dinamiche Relazionali:** Si confronta con i meccanismi di [[digital-therapeutic-alliance|Alleanza Terapeutica Digitale]].
 
 ---
 *Fonte Primaria: Fu L, Burns R, Xie Y, Shen J, Zhe S, Estabrooks P, Bai Y. "The Development and Use of AI Chatbots for Health Behavior Change: Scoping Review." Journal of Medical Internet Research (JMIR), 2026; 28:e79677. DOI: 10.2196/79677.*
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Fu, L., Burns, R., Xie, Y., Shen, J., Zhe, S., Estabrooks, P., & Bai, Y. (2026). The Development and Use of AI Chatbots for Health Behavior Change: Scoping Review. *Journal of Medical Internet Research*, 28, e79677. https://doi.org/10.2196/79677
+- Michie, S., Richardson, M., Johnston, M., Abraham, C., Francis, J., Hardeman, W., et al. (2013). The behavior change technique taxonomy (v1) of 93 hierarchically clustered techniques: building an international consensus for the reporting of behavior change interventions. *Ann Behav Med*, *46*(1), 81-95. https://doi.org/10.1007/s12160-013-9486-6
+- Mohr, D. C., Cuijpers, P., & Lehman, K. (2011). Supportive accountability: A model for providing human support to enhance adherence to eHealth interventions. *Journal of Medical Internet Research*, *13*(1), e30. https://doi.org/10.2196/jmir.1602

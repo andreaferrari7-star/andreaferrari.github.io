@@ -1,11 +1,13 @@
 ---
 tags: []
+tipo_fonte: scientifica
+source_papers: ["11920_2026_Article_1690.pdf"]
 ---
 
 # Confidenze di Reati e Doveri di Segnalazione nell'IA Clinica
 
 **Summary**: Esplorazione del dilemma etico-giuridico generato dalle confidenze spontanee di reati, condotte illecite o intenzioni autolesive effettuate dagli utenti a chatbot di IA per la salute mentale, con particolare riferimento al conflitto tra giustizia (tutela delle vittime) e non-maleficenza (riservatezza e fiducia).
-**Sources**: Cavalera et al. (2026) - `11920_2026_Article_1690.pdf`; Coghlan et al. (2023); Heinz et al. (2025).
+**Fonti**: Cavalera et al. (2026); Coghlan et al. (2023); Heinz et al. (2025).
 **Last updated**: 2026-08-27
 ---
 
@@ -45,7 +47,7 @@ graph TD
 
 Nelle professioni sanitarie tradizionali (medici, psicologi, psicoterapeuti), la gestione delle rivelazioni di reati o emergenze è regolata da precisi codici deontologici e norme di legge sul segreto professionale, con deroghe tassative per casi di imminente pericolo di vita o reati perseguibili d'ufficio (obbligo di referto/denuncia).
 
-Nell'ecosistema dei chatbot commerciali basati su [large-language-models](../large-language-models.md) emergono criticità strutturali (Coghlan et al., 2023; Cavalera et al., 2026):
+Nell'ecosistema dei chatbot commerciali basati su [[large-language-models]] emergono criticità strutturali (Coghlan et al., 2023; Cavalera et al., 2026):
 - **Status Giuridico Indeterminato**: I fornitori di tecnologia (*tech providers*) non possiedono lo status di professionisti sanitari né sono soggetti alla vigilanza degli ordini professionali.
 - **Rischio di Falsi Positivi e Violazione della Fiducia**: Segnalazioni automatiche alle forze dell'ordine o ai servizi sociali basate su allucinazioni o interpretazioni errate del linguaggio figurato violano gravemente la privacy e distruggono la fiducia dell'utente.
 - **Rischio di Falsi Negativi e Mancata Protezione**: Al contrario, la mancata segnalazione di minacce concrete o abusi su minori espone terze persone a pericoli gravi e irreparabili.
@@ -64,12 +66,14 @@ Nell'ecosistema dei chatbot commerciali basati su [large-language-models](../lar
 
 ---
 
-## Pagine Correlate
-- [cavalera-et-al-2026](../sintesi/cavalera-et-al-2026.md)
-- [rischio-suicidario-ai-limits](rischio-suicidario-ai-limits.md)
-- [etica-privacy-bias-ia-clinica](etica-privacy-bias-ia-clinica.md)
-- [three-layer-governance-framework](concetti/concetti\three-layer-governance-framework.md)
-- [evidence-adoption-gap-ai-mental-health](evidence-adoption-gap-ai-mental-health.md)
+## Relazioni
+- [[cavalera-et-al-2026]]
+- [[rischio-suicidario-ai-limits]]
+- [[etica-privacy-bias-ia-clinica]]
+- [[three-layer-governance-framework]]
+- [[evidence-adoption-gap-ai-mental-health]]
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Cavalera, C., Frisone, F., Rossi, C., Oasi, O., Pagnini, F., Riva, G., & Antichi, L. (2026). The Digital Mirror: Clinical Potentials and Relational Risks of Generative AI in Mental Health Interventions. *Current Psychiatry Reports*, 28, 40. https://doi.org/10.1007/s11920-026-01690-4
+- Coghlan, S., Leins, K., Sheldrick, S., et al. (2023). To chat or bot to chat: ethical issues with using chatbots in mental health. *Digit Health*, *9*, 20552076231183542.
+- Heinz, M. V., Mackin, D. M., Trudeau, B. M., Bhattacharya, S., Wang, Y., Banta, H. A., Jewett, A. D., Salzhauer, A. J., Griffin, T. Z., & Jacobson, N. C. (2025). Randomized trial of a generative AI chatbot for mental health treatment. *NEJM AI*, *2*(4), AIoa2400802.

@@ -1,12 +1,13 @@
 ---
 tags: [clinical-readiness-gap, conversational-agents, mental-health-ai, psychometric-evaluation, rct-scarcity, regulatory-readiness, samd, safety-escalation, inappropriate-reassurance]
+tipo_fonte: scientifica
 source_papers: ["ai_v5i1e80348.pdf"]
 ---
 
 # Clinical Readiness Gap in Mental Health Chatbots
 
 ## Definizione Operativa
-- Il costrutto di **Clinical Readiness Gap** (Divario di Prontezza Clinica) descrive la profonda dissociazione empirica, metodologica ed epistemologica che caratterizza l'attuale generazione di chatbot e agenti conversazionali basati su [large-language-models](../large-language-models.md) (LLM) per il counseling e il supporto in salute mentale (Cho et al., 2026; *JMIR AI*, doi: 10.2196/80348).
+- Il costrutto di **Clinical Readiness Gap** (Divario di Prontezza Clinica) descrive la profonda dissociazione empirica, metodologica ed epistemologica che caratterizza l'attuale generazione di chatbot e agenti conversazionali basati su [[large-language-models]] (LLM) per il counseling e il supporto in salute mentale (Cho et al., 2026; *JMIR AI*, doi: 10.2196/80348).
 - **Utilità Clinica e per la Governance Sanitaria:** Evidenzia il contrasto tra **elevate performance computazionali e linguistiche** (alte metriche di sovrapposizione testuale come BLEU, ROUGE, BERTScore, bassa perplessità e fluenza apparente) e la **quasi totale assenza di validazione clinica empirica e sicurezza controllata**:
   - Nessun trial clinico controllato randomizzato (RCT) registrato nella letteratura sui sistemi conversazionali basati su LLM;
   - Mancanza di calibrazione con scale psicometriche validate (es. PHQ-9 per la depressione, GAD-7 per l'ansia, SUS per l'usabilità standardizzata);
@@ -91,20 +92,17 @@ Per trasformare i chatbot da prototipi sperimentali a interventi digitali clinic
 **Riferimenti Bibliografici:**
 - Cho, H. N., Wang, J., Hu, D., & Zheng, K. (2026). Large Language Model–Based Chatbots and Agentic AI for Mental Health Counseling: Systematic Review of Methodologies, Evaluation Frameworks, and Ethical Safeguards. *JMIR AI*, 5, e80348. https://doi.org/10.2196/80348
 - Abbasian, M., Khatibi, E., Azimi, I., Oniani, D., Shakeri Hossein Abad, Z., Thieme, A., et al. (2024). Foundation metrics for evaluating effectiveness of healthcare conversations powered by generative AI. *NPJ Digital Medicine*, 7(1), 82.
-- Cavalera, C., et al. (2026). The evidence-adoption gap in generative AI for mental health: opportunities, risks, and clinical safeguards. *Current Psychiatry Reports*, 28(1), 1690.
+- Cavalera, C., Frisone, F., Rossi, C., Oasi, O., Pagnini, F., Riva, G., & Antichi, L. (2026). The Digital Mirror: Clinical Potentials and Relational Risks of Generative AI in Mental Health Interventions. *Current Psychiatry Reports*, 28, 40. https://doi.org/10.1007/s11920-026-01690-4
 - U.S. Food and Drug Administration. (2021). *Artificial Intelligence/Machine Learning (AI/ML)-Based Software as a Medical Device (SaMD) Action Plan*. FDA.
 
 ## Relazioni
-- [ai-v5i1e80348](../ai-v5i1e80348.md): Systematic review di Cho et al. (2026) su metodologie ed etica dei chatbot LLM.
-- [traffic-light-quality-appraisal-clinical-ai](traffic-light-quality-appraisal-clinical-ai.md): Framework di valutazione a 5 domini per misurare la qualità metodologica.
-- [evidence-adoption-gap-ai-mental-health](evidence-adoption-gap-ai-mental-health.md): Analisi del divario tra adozione pubblica di massa ed evidenze cliniche controllate.
-- [healthcare-conversational-agents](concetti/concetti\healthcare-conversational-agents.md): Tassonomia ed efficacia clinica degli agenti conversazionali in sanità.
-- [software-as-a-medical-device-salute-mentale](software-as-a-medical-device-salute-mentale.md): Inquadramento regolatorio SaMD per algoritmi clinici.
-- [risk-ontology-ai-psychotherapy](concetti/concetti\risk-ontology-ai-psychotherapy.md): Ontologia e categorizzazione dei rischi nell'IA per la psicoterapia.
-- [three-layer-governance-framework](concetti/concetti\three-layer-governance-framework.md): Framework di governance etica e sicurezza a tre livelli.
-- [calibrated-mismatches](concetti/concetti\calibrated-mismatches.md): Importanza delle micro-rotture terapeutiche rispetto alla compiacenza artificiale.
-- [sycophantic-mirroring](concetti/concetti\sycophantic-mirroring.md): Rischi della validazione acritica nei modelli linguistici.
-- [modello-centauro-clinico](concetti/concetti\modello-centauro-clinico.md): Cooperazione human-in-the-loop per colmare il divario clinico.
-
-## Riferimenti Bibliografici
-- [Da integrare]
+- [[ai-v5i1e80348]]: Systematic review di Cho et al. (2026) su metodologie ed etica dei chatbot LLM.
+- [[traffic-light-quality-appraisal-clinical-ai]]: Framework di valutazione a 5 domini per misurare la qualità metodologica.
+- [[evidence-adoption-gap-ai-mental-health]]: Analisi del divario tra adozione pubblica di massa ed evidenze cliniche controllate.
+- [[healthcare-conversational-agents]]: Tassonomia ed efficacia clinica degli agenti conversazionali in sanità.
+- [[software-as-a-medical-device-salute-mentale]]: Inquadramento regolatorio SaMD per algoritmi clinici.
+- [[risk-ontology-ai-psychotherapy]]: Ontologia e categorizzazione dei rischi nell'IA per la psicoterapia.
+- [[three-layer-governance-framework]]: Framework di governance etica e sicurezza a tre livelli.
+- [[calibrated-mismatches]]: Importanza delle micro-rotture terapeutiche rispetto alla compiacenza artificiale.
+- [[sycophantic-mirroring]]: Rischi della validazione acritica nei modelli linguistici.
+- [[modello-centauro-clinico]]: Cooperazione human-in-the-loop per colmare il divario clinico.

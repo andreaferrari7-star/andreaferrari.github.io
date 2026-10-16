@@ -1,11 +1,13 @@
 ---
 tags: []
+tipo_fonte: scientifica
+source_papers: ["11920_2026_Article_1690.pdf"]
 ---
 
 # Fast-Food Psychotherapy e Circuiti della Ricompensa Dopaminergica
 
 **Summary**: Concettualizzazione clinica e neurobiologica del rischio di dipendenza comportamentale generato dall'interazione con chatbot di IA: l'immediatezza h24 e la disponibilità continua attivano le vie dopaminergiche mesocorticolimbiche, inducendo craving e uso compulsivo a scapito dell'autonomia e della profondità riflessiva.
-**Sources**: Cavalera et al. (2026) - `11920_2026_Article_1690.pdf`; Zhang et al. (2025); Gilbert & Simos (2022); Armanino & Furlani (2023).
+**Fonti**: Cavalera et al. (2026); Zhang et al. (2025); Gilbert & Simos (2022); Armanino & Furlani (2023).
 **Last updated**: 2026-08-27
 ---
 
@@ -65,13 +67,16 @@ Studi di neuroimaging (Zhang et al., 2025; Cavalera et al., 2026) dimostrano che
 
 ---
 
-## Pagine Correlate
-- [cavalera-et-al-2026](../sintesi/cavalera-et-al-2026.md)
-- [calibrated-mismatches](concetti/concetti\calibrated-mismatches.md)
-- [sycophantic-mirroring](concetti/concetti\sycophantic-mirroring.md)
-- [uso-problematico-chatbot-ai](uso-problematico-chatbot-ai.md)
-- [stepped-care-ai-integration](stepped-care-ai-integration.md)
-- [digital-therapeutic-alliance](../digital-therapeutic-alliance.md)
+## Relazioni
+- [[cavalera-et-al-2026]]
+- [[calibrated-mismatches]]
+- [[sycophantic-mirroring]]
+- [[uso-problematico-chatbot-ai]]
+- [[stepped-care-ai-integration]]
+- [[digital-therapeutic-alliance]]
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Armanino, D., & Furlani, F. A. (2023). *Identità, personalità e dissociazione: Un approccio costruttivista al paziente grave*. FrancoAngeli.
+- Cavalera, C., Frisone, F., Rossi, C., Oasi, O., Pagnini, F., Riva, G., & Antichi, L. (2026). The Digital Mirror: Clinical Potentials and Relational Risks of Generative AI in Mental Health Interventions. *Current Psychiatry Reports*, 28, 40. https://doi.org/10.1007/s11920-026-01690-4
+- Gilbert, P., & Simos, G. (2022). Compassion focused therapy: Clinical practice and applications. Routledge.
+- Zhang, X., Li, H., Yin, M., Zhang, M., et al. (2025). Investigating AI chatbot dependence: Associations with internet and smartphone dependence, mental health outcomes, and the moderating role of usage purposes. *Int J Hum-Comput Int*, 1–13.

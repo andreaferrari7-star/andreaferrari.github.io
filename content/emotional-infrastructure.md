@@ -1,5 +1,6 @@
 ---
 tags: [infrastruttura-emotiva, emotional-regulation, digital-clutch, ai-dependency, engagement-driven-ai, salute-mentale-digitale]
+tipo_fonte: scientifica
 source_papers: ["behavsci-16-00676.pdf"]
 ---
 
@@ -64,5 +65,5 @@ flowchart TD
 ---
 
 ## Relazioni
-- Vedi anche: [behavsci-16-00676](behavsci-16-00676.md), [artificial-intimacy](artificial-intimacy.md), [uso-problematico-chatbot-ai](uso-problematico-chatbot-ai.md), [ai-psychosis](ai-psychosis.md), [sycophantic-mirroring](concetti/concetti/concetti\sycophantic-mirroring.md), [calibrated-mismatches](concetti/concetti/concetti\calibrated-mismatches.md), [simulated-therapeutic-alliance](simulated-therapeutic-alliance.md)
+- Vedi anche: [[behavsci-16-00676]], [[artificial-intimacy]], [[uso-problematico-chatbot-ai]], [[ai-psychosis]], [[sycophantic-mirroring]], [[calibrated-mismatches]], [[simulated-therapeutic-alliance]]
 

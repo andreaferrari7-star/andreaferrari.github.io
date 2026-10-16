@@ -1,5 +1,6 @@
 ---
 tags: [five-factor-model, ocpd, personality-traits, machine-learning]
+tipo_fonte: scientifica
 source_papers: ["nihms-2055764.pdf"]
 ---
 
@@ -16,5 +17,5 @@ source_papers: ["nihms-2055764.pdf"]
 - Moreau, A. L., Gorelik, A. J., Knodt, A., Barch, D. M., Hariri, A. R., Samuel, D. B., Oltmanns, T. F., Hatoum, A. S., & Bogdan, R. (2024). Leveraging normative personality data and machine learning to examine the brain structure correlates of Obsessive-Compulsive Personality Disorder traits. *Journal of Psychopathology and Clinical Science*, 133(8), 656–666. https://doi.org/10.1037/abn0000919
 
 ## Relazioni
-- Vedi anche: [moreau-et-al-2024](../moreau-et-al-2024.md), [ocpd-neural-correlates](ocpd-neural-correlates.md), [overcontrol-and-undercontrol-personality-types](overcontrol-and-undercontrol-personality-types.md)
+- Vedi anche: [[moreau-et-al-2024]], [[ocpd-neural-correlates]], [[overcontrol-and-undercontrol-personality-types]]
 

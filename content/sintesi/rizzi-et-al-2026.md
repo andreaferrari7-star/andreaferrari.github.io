@@ -1,12 +1,13 @@
 ---
 tags: [cbt, deliberate-practice, mymentorllm, speech-to-speech, multimodal-simulation, ctrs, supervisione-clinica, emotional-dynamics, over-deference, gemini-flash-live, gemma-4, qwen]
+tipo_fonte: scientifica
 source_papers: ["2607.25667v1.pdf"]
 ---
 
 # MyMentorLLM: A Psychotherapy GenAI Environment with Multimodal Voice/Text Patients, Trainees and Experts for Deliberate Practice (Rizzi et al., 2026)
 
 **Summary**: Studio empirico su larga scala (arXiv:2607.25667v1, 2026) che introduce **MyMentorLLM**, un ambiente di simulazione generativa multimodale (audio nativo, audio sintetizzato e testo) basato sulla *deliberate practice* per la formazione in Psicoterapia Cognitivo-Comportamentale (CBT). Lo studio valuta **2.100 cicli completi di mentorship** strutturati su tre ruoli interagenti (paziente profilato DSM-5-TR, terapeuta in formazione calibrato su dati empirici CTRS di 413 clinici reali, supervisore clinico esperto). L'analisi dimostra che i pazienti simulati esprimono firme emotive disturbo-congruenti rispecchiate dal terapeuta in forma attenuata (risonanza affettiva). Crucialmente, i modelli **speech-to-speech nativi (Gemini 3.1 Flash Live)** riproducono fedelmente il profilo di competenza clinica umana (CTRS medio 29.97 vs 31.04 umano), mentre le simulazioni puramente testuali o con voce sintetizzata sovrastimano sistematicamente la competenza creando una falsa illusione di maestria. Inoltre, il feedback del supervisore migliora l'accuratezza diagnostica nei modelli medi e grandi (recupero delle diagnosi di disturbo borderline di personalità), ma genera **deterioramento diagnostico per deferenza acritica (*over-deference*)** nei modelli più piccoli (Gemma-4-E2B).
-**Sources**: `2607.25667v1.pdf` (*arXiv:2607.25667v1 [cs.CL]*, 28 Jul 2026. Authors: Rodolfo Rizzi, Alessandro Grecucci, Massimo Stella - CogNosco Lab, University of Trento & University of Bari)
+**Fonti**: *arXiv:2607.25667v1 [cs.CL]*, 28 Jul 2026. Authors: Rodolfo Rizzi, Alessandro Grecucci, Massimo Stella - CogNosco Lab, University of Trento & University of Bari.
 **Last updated**: 2026-08-27
 ---
 
@@ -180,12 +181,14 @@ graph TD
 ---
 
 ## Pagine e Concetti Correlati
-- [mymentorllm-framework](../concetti/mymentorllm-framework.md): L'architettura triadica integrata per la simulazione e la deliberate practice in psicoterapia.
-- [deliberate-practice-in-psicoterapia-ia](../concetti/deliberate-practice-in-psicoterapia-ia.md): Fondamenti teorici ed empirici della deliberate practice aumentata da modelli generativi.
-- [risonanza-affettiva-simulazione-clinica](../concetti/risonanza-affettiva-simulazione-clinica.md): Modellizzazione delle dinamiche emotive e rispecchiamento attenuato tramite EmoAtlas e Plutchik.
-- [native-speech-vs-text-in-clinical-simulation](../native-speech-vs-text-in-clinical-simulation.md): Confronto tra audio nativo e testo nella valutazione della fedeltà clinica CTRS.
-- [over-deference-in-llm-supervision](../over-deference-in-llm-supervision.md): Analisi del bias di deferenza e compiacenza algoritmica nei modelli linguistici sottomessi a feedback supervisivo.
-- [ctrs-automated-evaluation](../concetti/ctrs-automated-evaluation.md): Standard di valutazione quantitativa della fedeltà e competenza nella CBT.
-- [simulazione-pazienti-ai](../simulazione-pazienti-ai.md): Metodologie di simulazione di pazienti virtuali e grounding psicopatologico.
-- [supervisione-clinica-ai](../supervisione-clinica-ai.md): Modelli di supervisione e debriefing formativo mediati da agenti artificiali.
+- [[mymentorllm-framework]]: L'architettura triadica integrata per la simulazione e la deliberate practice in psicoterapia.
+- [[deliberate-practice-in-psicoterapia-ia]]: Fondamenti teorici ed empirici della deliberate practice aumentata da modelli generativi.
+- [[risonanza-affettiva-simulazione-clinica]]: Modellizzazione delle dinamiche emotive e rispecchiamento attenuato tramite EmoAtlas e Plutchik.
+- [[native-speech-vs-text-in-clinical-simulation]]: Confronto tra audio nativo e testo nella valutazione della fedeltà clinica CTRS.
+- [[over-deference-in-llm-supervision]]: Analisi del bias di deferenza e compiacenza algoritmica nei modelli linguistici sottomessi a feedback supervisivo.
+- [[ctrs-automated-evaluation]]: Standard di valutazione quantitativa della fedeltà e competenza nella CBT.
+- [[simulazione-pazienti-ai]]: Metodologie di simulazione di pazienti virtuali e grounding psicopatologico.
+- [[supervisione-clinica-ai]]: Modelli di supervisione e debriefing formativo mediati da agenti artificiali.
 
+## Relazioni
+- Vedi anche: [[native-speech-vs-text-in-clinical-simulation]], [[over-deference-in-llm-supervision]], [[simulazione-clinica-pazienti-virtuali]], [[tassonomia-bias-llm-psicoterapeuta]], [[deliberate-practice-in-psicoterapia-ia]], [[mymentorllm-framework]], [[risonanza-affettiva-simulazione-clinica]], [[ctrs-automated-evaluation]]

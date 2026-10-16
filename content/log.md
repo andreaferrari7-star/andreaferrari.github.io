@@ -472,3 +472,280 @@ Integrazione del paper sull'uso degli LLMs per la sintesi dei dialoghi nel collo
 - Mappate 12 discrepanze e divergenze strutturali/empiriche tra evidenze cliniche EBT e allineamento LLM con citazioni verificate a doppio riscontro.
 - Aggiornato `wiki/index.md` nella sezione 2 (Sicurezza Clinica, Bias, Allineamento e Red Teaming).
 
+
+## [2026-09-11] query | ipercontrollo-maladattivo-overcontrol
+- Domanda: `spiegami cos'e l'ipercontrollo maladattivo (overcontrol)`.
+
+## [2026-09-11] query | ipercontrollo-maladattivo-overcontrol
+- Domanda: "spiegami cos'e l'ipercontrollo maladattivo (overcontrol)".
+- Recupero ibrido via wiki-search: nessun match diretto al primo tentativo; ricerca testuale diretta ha identificato wiki/concetti/overcontrol-and-undercontrol-personality-types.md e wiki/gilmartin-et-al-2024.md.
+- Risposta sintetizzata in chat a partire da entrambe le pagine.
+
+## [2026-09-11] query | ipercontrollo-maladattivo-overcontrol - espansione pagina
+- Espansa la pagina wiki/concetti/overcontrol-and-undercontrol-personality-types.md: aggiunto profilo clinico OC al FFM, tabella comparativa OC vs UC vs Resiliente, sezione RO-DBT (Lynch, 2018), segnali clinici chiave, implicazioni per agenti IA basati su LLM.
+
+## [2026-09-11] query | ia-ipercontrollo-rassegna-studi
+- Domanda: "fammi una rassegna degli studi in cui metodi di IA sono stati impiegati per incrementare la comprensione e il trattamento delle problematiche da ipercontrollo".
+- Recupero ibrido via wiki-search (due query): risultati diretti deboli; integrazione con ricerca testuale su tutti i file wiki.
+- Pagine rilevanti identificate: gilmartin-et-al-2024.md, concetti/overcontrol-and-undercontrol-personality-types.md, arena-et-al-2025.md, concetti/ocpd-neural-correlates.md, sintesi/jacobs-et-al-2026.md, concetti/maladaptive-perfectionism.md, concetti/self-guided-mhealth-ocd.md, bollettino-iperlab-intherapy-n01-1.md.
+- Risposta sintetizzata in chat come rassegna strutturata. La wiki copre solo parzialmente il tema; informazione dichiarata come incompleta rispetto alla letteratura esistente.
+
+## [2026-09-11] ingest | RO-DBT e Overcontrol
+- Ingestiti "Agisci_come_un_Information_Specialist_e_ricercator.pdf" e "Ricerca Computazionale RO-DBT e Overcontrol.md".
+- Create le pagine di sintesi `applicazioni-computazionali-ro-dbt-overcontrol.md` e `consensus-review-ai-ro-dbt.md`.
+- Aggiornato `index.md` nella sezione Psicoterapia Aumentata con i relativi link.
+
+## [2026-09-11] expand | applicazioni-computazionali-ro-dbt-overcontrol.md + consensus-review-ai-ro-dbt.md
+- Entrambe le pagine erano stub di ~27 righe/3KB. Espanse a partire dal raw source Ricerca Computazionale RO-DBT e Overcontrol.md (58KB, 231 righe, 5 sezioni, ~49 riferimenti).
+- applicazioni-computazionali-ro-dbt-overcontrol.md: ora 21KB con 5 sezioni tematiche complete (AI-Augmented RO-DBT, Clinical NLP & Speech, ML Outcome Prediction, Digital Phenotyping, Cluster C systematic reviews), tabelle di studi con architetture AI e outcome, sezione critica su masking/Panottico/bias WEIRD, 26 riferimenti APA.
+- consensus-review-ai-ro-dbt.md: ora 13KB con 5 aree tematiche (Gap RO-DBT, ML outcome prediction, NLP & speech, digital phenotyping HRV, Cluster C), analisi critica dei tre rischi specifici OC, 20 riferimenti APA.
+- Pagine collegate aggiornate in entrambi i file: fenotipizzazione-computazionale, ocpd-neural-correlates, overcontrol-and-undercontrol-personality-types, multimodal-observable-cues-in-psychiatry.
+
+## [2026-09-11] synthesis | ia-e-ipercontrollo-rassegna.md
+- Creata la pagina di sintesi approfondita wiki/sintesi/ia-e-ipercontrollo-rassegna.md ("Rassegna degli Studi: IA per la Comprensione e il Trattamento dell'Ipercontrollo").
+- Organizzata su 6 direttrici di evidenza: (1) cluster analysis e fenotipizzazione FFM (Gilmartin 2024, Hyatt 2025); (2) neuroimaging strutturale ML e connettomica OCPD (Arena/Sepe 2025); (3) predizione esiti e dropout CBT con ensemble e pretraining (Jacobs 2026, Linardon 2025, De Jong 2024, Bennemann 2022); (4) digital phenotyping passivo e bio-firme paradossali di HRV/GPS (Kim 2024, Teckentrup 2023, Wang 2022); (5) clinical NLP, FACS/OpenFace e stima di fidelity (Ewbank 2020, Ryu 2023, Saeb 2024); (6) app mHealth e blended CBT per fenotipi affini (Mensinger 2024, Cardinal 2021, Mohammadi 2025, Lee Yoon Li 2024).
+- Inclusa sezione critica su falsi negativi da masking sociale, effetto Panottico iatrogeno nel monitoraggio continuo, bias WEIRD e gap di letteratura specifica RO-DBT.
+- Aggiornato wiki/index.md nella sezione 5 (Psicoterapia Aumentata, Interventi Digitali e Biomarcatori).
+
+## [2026-09-13] query | clustering-non-supervisionato-ipercontrollo-personalita
+- Domanda: "fammi una rassegna degli studi in cui l'applicazione di algoritmi di clustering non supervisionato permette di identificare i sottogruppi ipercontrollati a partire da dati di personalita multiscala".
+- Pagine consultate: wiki/gilmartin-et-al-2024.md, wiki/concetti/overcontrol-and-undercontrol-personality-types.md, wiki/sintesi/ia-e-ipercontrollo-rassegna.md, wiki/applicazioni-computazionali-ro-dbt-overcontrol.md, wiki/early-vs-late-dropout-cbt.md, wiki/bollettino-iperlab-intherapy-n01-1.md, wiki/moreau-et-al-2024.md, wiki/concetti/ffm-ocpd-prediction.md, wiki/arena-et-al-2025.md.
+- Risposta sintetizzata evidenziando lo studio cardine di Gilmartin et al. (2024), l'apporto metodologico della Latent Class Analysis (LCA) e pICA, il ruolo delle faccette FFM/PID-5 e la dichiarazione esplicita della scarsita di trial clinici diretti.
+
+## [2026-09-13] query | llm-mappatura-semantica-trigger-ossessivi
+- Domanda: "fammi una rassegna degli studi in cui i Large Language Models (LLM) consentono la mappatura semantica dei trigger ossessivi".
+- Pagine consultate: wiki/bentz-wulff-2026.md, wiki/concetti/llm-trigger-mapping.md, wiki/kim-et-al-2025.md, wiki/barkhuff-2026.md, wiki/concetti/reassurance-robots.md, wiki/concetti/nlp-ehr-ocs-detection.md.
+- Risposta sintetizzata articolando lo studio fondazionale di Bentz & Wulff (2026) sulla clusterizzazione semantica dei trigger di contaminazione tramite Llama-3.3 ed embedding, gli studi di NLP e word embedding su larga scala (Feusner et al., 2021; Bernstein et al., 2025), e la mappatura dei trigger indotti da IA con rischi di rassicurazione compulsiva (Barkhuff, 2026; Kim et al., 2025).
+
+## [2026-09-13] query | embedding-llm-ottimizzazione-protocolli-esposizione
+- Domanda: "in che modo l'impiego di embedding LLM ottimizza i protocolli di esposizione".
+- Pagine consultate: wiki/concetti/llm-trigger-mapping.md, wiki/bentz-wulff-2026.md, wiki/kim-et-al-2025.md, wiki/exposure-therapy-deficit-in-mental-health-ai.md, wiki/concetti/self-guided-mhealth-ocd.md, wiki/concetti/reassurance-robots.md.
+- Risposta sintetizzata articolando: (1) quantificazione matematica della vicinanza semantica dei trigger; (2) costruzione empirica di gerarchie ERP basate su gradienti di distress all'interno di cluster affini; (3) massimizzazione dell'apprendimento inibitorio (inhibitory learning model) tramite variabilita e sostituzione semantica controllata; (4) superamento dei limiti di astrazione puramente verbale tramite supporto human-in-the-loop.
+
+## [2026-09-13] query | embedding-llm-esposizione-vr-biofeedback
+- Domanda: "in che modo l'impiego di embedding LLM ottimizza i protocolli di esposizione, anche mediante l'uso di realta virtuale avanzata accoppiata a biofeedback passivi".
+- Pagine consultate: wiki/multimodal-anxiety-detection-ai.md, wiki/concetti/wearable-biosensors-ocd.md, wiki/concetti/generative-ai-exposure-therapy.md, wiki/bentz-wulff-2026.md, wiki/concetti/llm-trigger-mapping.md, wiki/kim-et-al-2025.md, wiki/exposure-therapy-deficit-in-mental-health-ai.md, wiki/fdgth-07-1646724.md.
+- Risposta sintetizzata integrando il ciclo chiuso (closed-loop) bio-guidato: (1) embedding LLM per la traiettoria semantica dei trigger; (2) VRET avanzata per l'attivazione somatosensoriale superando l'exposure deficit dei soli chatbot; (3) biosensori passivi (EDA/HRV) per l'adattamento dinamico in tempo reale e il superamento del masking; (4) massimizzazione dell'apprendimento inibitorio (violazione aspettativa e variabilita stimolo) sotto supervisione clinica centauro.
+
+## [2026-09-13] query | rischi-llm-reassurance-robots-loop-sicurezza
+- Domanda: "descrivi i rischi dell'utilizzo degli LLM da parte dei pazienti, in particolare rispetto alla tendenza ad usarli come Robot della rassicurazione alimentando loop perseverativi e comportamenti di ricerca di sicurezza digitale".
+- Pagine consultate: wiki/concetti/reassurance-robots.md, wiki/barkhuff-2026.md, wiki/concetti/sycophancy-trap-clinica.md, wiki/single-person-echo-chambers.md, wiki/emotional-infrastructure.md, wiki/concetti/exposure-interruption-mechanism.md, wiki/main-1.md.
+- Risposta sintetizzata articolando: (1) costrutto di Reassurance Robots e dinamica dell'accomodamento digitale (Barkhuff 2026; Albert 2017); (2) paradosso del feeling better vs getting better e stampella digitale (Neacsu 2026; APA 2026); (3) camere d'eco monopersonali e loop di rassicurazione compulsiva (APA 2025; Dohnany 2025); (4) innesco di nuovi trigger ossessivi indotti da IA (35% dei casi); (5) interruzione iatrogena dell'esposizione per eccesso di grounding/sicurezza RLHF (Suhas 2026); (6) principi di defensive design e gestione terapeutica CBT/ERP.
+
+## [2026-09-13] query | linee-guida-cliniche-confini-pazienti-llm
+- Domanda: "esistono raccomandazioni o linee guida per i clinici che vogliano stabilire per i pazienti confini espliciti e prevenire l'uso disfunzionale degli LLM".
+- Pagine consultate: wiki/concetti/psicoeducazione-ia-relazione-terapeutica.md, wiki/sintesi/ai-in-psicoterapia-2023-2026.md, wiki/concetti/sycophancy-trap-clinica.md, wiki/single-person-echo-chambers.md, wiki/concetti/evidence-adoption-gap-ai-mental-health.md, wiki/sintesi/cavalera-et-al-2026.md, wiki/concetti/sadar-framework.md.
+- Risposta sintetizzata organizzando: (1) quadro istituzionale delle linee guida (APA 2025/2026, GPA 2026, CNOP 2026, Cavalera 2026); (2) protocollo clinico in 5 fasi per la definizione dei confini (assessment all'intake, psicoeducazione su architettura probabilistica e sicofanzia, regolazione del contratto terapeutico con divieto nei picchi ansiosi, prescrizione di narrow tasks e prompt anti-sicofantici, analisi clinica dei log come thought records); (3) criteri di esclusione assoluta e red flags (psicosi, rischio suicidario, dissociazione); (4) consenso informato e data governance.
+
+## [2026-09-15] document | riepilogo-sessione-ia-overcontrol-ocd-llm
+- Creato il file riassuntivo integrale Riepilogo_Sessione_IA_Overcontrol_OCD_LLM.md nella cartella di progetto (~30KB).
+- Il documento sintetizza dettagliatamente l'intera sequenza di interrogazioni e argomenti trattati: (1) rassegna IA e overcontrol con espansione dei report wiki; (2) clustering non supervisionato e fenotipi multiscala FFM (Gilmartin 2024); (3) mappatura semantica dei trigger ossessivi con LLM ed embedding (Bentz & Wulff 2026); (4) ottimizzazione closed-loop dei protocolli di esposizione ERP con VR e biosensori passivi (Craske 2014, Degenhard 2025); (5) rischi dei Reassurance Robots, digital accommodation, sycophancy e loop perseverativi (Barkhuff 2026, Suhas 2026); (6) linee guida e raccomandazioni cliniche APA/CNOP/Cavalera per la regolazione dei confini terapeutici; (7) bibliografia completa APA integrata.
+
+## [2026-09-19] create | linee-guida-cliniche-ocd-genai
+- Creata la pagina `wiki/linee-guida-cliniche-ocd-genai.md` ("Linee Guida Cliniche per la Gestione del DOC e dell'Esposizione (ERP) nell'Era della GenAI").
+- Strutturata in 5 fasi operative per lo psicoterapeuta CBT: (1) Screening all'intake de-stigmatizzante con framework AI-ASK; (2) Psicoeducazione su architettura probabilistica, sycophancy e privacy; (3) Riconfigurazione dell'ERP con classificazione dell'IA come rituale compulsivo digitale da estinguere; (4) Analisi dei log di chat come thought records; (5) Prescrizione di prompt anti-sicofantici e compiti circoscritti.
+- Integrate tabelle sinottiche delle manifestazioni DOC indotte da IA (Barkhuff, 2026) e raccomandazioni di defensive design per sviluppatori e piattaforme sanitarie.
+- Aggiornato `wiki/index.md` nella sezione 1 (Linee Guida, Standard Metodologici e Reporting).
+
+## [2026-09-19] document | riepilogo-sessione-overcontrol-ocd-genai
+- Creato il documento riassuntivo integrale `Riepilogo_Sessione_2026-09-19_Overcontrol_OCD_GenAI.md` nella radice del progetto (~22KB).
+- Il file sintetizza l'intera sessione: fenotipi FFM e clustering non supervisionato (Gilmartin 2024); limiti applicativi individuali dell'IPIP-NEO-120; razionale IA e gap nella RO-DBT; mappatura semantica dei trigger; paradosso cardiovascolare vagale (Kim 2024), blocco fasico (Teckentrup 2023) e indicatori passivi da smartphone (Wang 2022); esposizione ERP bio-guidata (Lønfeldt 2023, Frank 2023, VRET); camere d'eco monopersonali (APA 2025); effetto panottico iatrogeno e ortosonnia (Baron 2017, Quan 2025); bias etnocentrico WEIRD e display rules (Matsumoto 2008); framework AI-ASK; parametri etici e controindicazioni all'uso autonomo di LLM; sycophancy trap e Reassurance Robots (Barkhuff 2026); e panoramica dei file aggiornati.
+
+## [2026-09-21] lint | wiki-health-check
+
+- Eseguito script automatico di validazione (struttura, link rotti, orfani, naming conventions).
+
+## [2026-09-29] ingest | discussione-panel-ia-libet-2026
+- Ingestione della trascrizione del panel "Discussione Panel IA, LIBET e Psicoterapia" del 25 Settembre 2026.
+- Creata la pagina `discussione-panel-ia-libet-2026.md` che sintetizza l'utilizzo dell'IA come supporto alla formulazione del caso, il modello LIBET nella terapia di coppia e l'analisi psicometrica tramite LIBET-Q.
+- Aggiunto link alla sezione "Architetture Cliniche, Prompt Engineering e Modelli Operativi" in `wiki/index.md`.
+
+## [2026-09-29] ingest | batch-ebooklet-upheal
+- Ingestione della raccolta "Artificial Intelligence: Redefining the Future of Psychology" (APA, 2024). Creata pagina `apa-artificial-intelligence-ebooklet.md` e aggiunta in `index.md` sotto Linee Guida.
+- Ingestione dei materiali Upheal sul tema "Therapeutic vs. Harmful AI Use by Patients" (Webinar Agosto 2026). Creata pagina sintetica `upheal-webinar-ai-pazienti-2026.md` integrando trascrizione, slide e risorse; aggiunta in `index.md` sotto Sicurezza Clinica.
+
+## [2026-09-29] ingest | mind-and-machine-beg-verma-2023
+- Ingestione del libro "The Mind and Machine: An Introduction to Artificial Intelligence" (Beg & Verma, 2023).
+- Creata la pagina `mind-and-machine-beg-verma-2023.md` con focus su architetture cognitive (ACT-R, SOAR), NLP e reti neurali in psicologia.
+- Aggiunto link alla sezione "Architetture Cliniche, Prompt Engineering e Modelli Operativi" in `wiki/index.md`.
+
+## [2026-09-29] ingest | ai-medical-sciences-psychology-nokeri-2022 | ai-mental-healthcare-bhavnani-mckim-2025
+- Ingestione del libro "Artificial Intelligence in Medical Sciences and Psychology" (Nokeri, 2022).
+- Creata la pagina `ai-medical-sciences-psychology-nokeri-2022.md` su modelli ML per diagnostica e NLP clinico. Aggiunto in `index.md` sotto Linee Guida e Standard Metodologici.
+- Ingestione del libro "Artificial Intelligence in Mental Healthcare" (Bhavnani & McKim, 2025).
+- Creata la pagina `ai-mental-healthcare-bhavnani-mckim-2025.md` che esplora le nuove frontiere della precision psychiatry, i digital biomarkers e i rischi etici/clinici connessi all'uso dell'IA (es. AI psychosis). Aggiunto in `index.md` sotto Psicoterapia Aumentata, Interventi Digitali e Biomarcatori.
+
+## [2026-09-29] ingest | fpsyg-15-1378904
+- Ingestione dell'articolo "Artificial intelligence in mental healthcare: transformative potential vs. the necessity of human interaction" (Babu & Joseph, 2024; Frontiers in Psychology).
+- Creata la pagina `fpsyg-15-1378904.md` che analizza la tensione tra potenziale trasformativo dell'IA e centralità della relazione umana in psicoterapia.
+- Aggiunto link alla sezione "Architetture Cliniche, Prompt Engineering e Modelli Operativi" in `wiki/index.md`.
+
+## [2026-09-29] query | reti-neurali-in-psicologia
+- Eseguito il workflow di query e sintesi su "cos'è una rete neurale e come sono applicate su tematiche psicologiche".
+- Creata la pagina concettuale dedicata `wiki/concetti/reti-neurali-in-psicologia.md` secondo lo standard operativo di `agent.md` (definizione connessionista, famiglie CNN/LSTM/Transformers/GNN, evidenze applicative in cognitive modeling, distorsioni cognitive CBT, neuroimaging, EHR e chatbot clinici, oltre a disamina critica su performance decay, black-box e assenza di intenzionalità).
+- Aggiornato `wiki/index.md` con l'indicizzazione concettuale nel 4° macro-dominio ("Architetture Cliniche, Prompt Engineering e Modelli Operativi").
+
+## [2026-10-06] ingest | 10-02-riunione-corso-ai-terapeuti-software
+- Ingestione del verbale "10-02 Riunione_ Corso AI per terapeuti e valutazione software-Summary.md".
+- Creata la pagina di sintesi `10-02-riunione-corso-ai-terapeuti-software.md` con focus sui 6 moduli del corso e la valutazione di piattaforme software CBT.
+- Aggiornato `wiki/index.md` inserendo i riferimenti nei macro-domini "Simulazione Clinica, Formazione e Supervisione" e "Psicoterapia Aumentata, Interventi Digitali e Biomarcatori".
+
+## [2026-10-14] ingest | 10-02-riunione-corso-ai-terapeuti-software
+- Nuova ingestione della fonte già acquisita il 2026-10-06: aggiornata (non duplicata) la pagina `10-02-riunione-corso-ai-terapeuti-software.md`.
+- Aggiunti: dettaglio dei Moduli 1-6 (incluso Modulo 4), tempi (~15 ore), esercitazioni trasversali, consenso informato, funzioni/limiti/costi della piattaforma CBT polacca, domande per la demo, prossimi passi e incontro del 6 novembre; punti non verificati marcati `[da verificare]`.
+- Aggiunti collegamenti a `modello-rocco`, `libet-prime`, `antagonista-cognitivo-sparring-partner`, `psicoeducazione-ia-relazione-terapeutica`.
+- Nessuna modifica a `wiki/index.md` (voci già presenti nei macro-domini 3 e 5, descrizioni ancora corrette).
+
+## [2026-10-14] lint | wiki-health-check
+- Controllo di integrità su 656 pagine. Backup pre-modifica salvato fuori dal vault.
+- Duplicati (punto 5): eliminati 15 file duplicati in radice/sottocartelle (11 stub sostituiti dalla versione completa in `concetti/` o `sintesi/`; 4 copie identiche in `concetti/` rimosse: `chart-reporting-guideline`, `elevate-genai-framework`, `genuineness-gap`, `TRIPOD_AI2024`). Aggiornati i link Markdown che puntavano ai file rimossi.
+- Indice (punti 1-2): normalizzati 77 percorsi malformati (`concetti/concetti\...`, `sintesi/sintesi\...`) e rimosse 125 voci duplicate; resta volutamente doppia solo la pagina `10-02-riunione-corso-ai-terapeuti-software` (domini 3 e 5).
+- Pagine fuori indice (punto 3): indicizzate nel dominio 5 le 8 pagine con contenuto reale (OCD/OCPD, biomarcatori, isolamento digitale). Le 33 pagine stub restano non indicizzate in attesa di decisione (eliminazione o completamento).
+- Wikilink rotti (punto 7): corretti `modello-libet`→`libet-prime`, `ffm-ocpd-profile`→`ffm-ocpd-prediction`; rimossi i link verso pagine inesistenti (`cognitive-modeling`, `SPIRIT-AI`, `QUADA-AI`).
+- Restano aperti i punti 4 (orfane), 6 (stub), 8-12 (citazioni, nomi file nel testo, sezioni Relazioni mancanti, formato).
+
+## [2026-10-15] lint | wiki-health-check (stub)
+- Punto 6: eliminate 12 pagine stub senza contenuto e senza alcun riferimento in entrata (wikilink o link Markdown); rimosse le 10 voci di indice corrispondenti (inclusi i 4 stub dei verbali 05-11, 06-05, 07-08, 07-17 in `concetti/`, le cui versioni complete restano indicizzate).
+- Mantenuti 47 stub ancora richiamati da link "Vedi anche" in pagine reali (es. `TRIPOD-LLM`, `CLAIM`, `DEAL`, `neq`, `readi`): la loro eliminazione richiederebbe di riscrivere circa 40 pagine. Decisione rimandata all utente.
+- Backup pre-modifica fuori dal vault.
+
+## [2026-10-15] lint | wiki-health-check (stub, seconda parte)
+- Gruppo A: eliminati 10 stub e reindirizzati i link alle pagine complete: `TRIPOD-LLM`→`tripod-llm2025`, `readi`→`concetti/readi-framework`, `elevate-genai`→`elevate-genai-framework`, `chart`→`chart-reporting-guideline`, `prisma-ai`→`linee-guida-prisma`, `virtual-patients`→`simulazione-clinica-pazienti-virtuali`, `rlhf-safety-alignment`→`rlhf-safety-therapeutic-conflict`, `assessment-cognitivo-ai`→`clinical-ai-cognitive-assessment`, `llm-in-psychotherapy`→`sintesi/ai-in-psicoterapia-2023-2026`, `cognitive-behavioural-therapy-cbt`→`terapia-cognitivo-comportamentale`. Mantenuto lo stub `human-in-the-loop`, concetto distinto da `human-in-the-reasoning` (decisione utente).
+- Gruppo D: eliminati 29 stub citati da una sola pagina; link sostituiti con testo semplice in 24 pagine. In `2602-19948v2` la voce Relazioni `da-completare` è diventata `[da integrare]`; lasciato invariato l'esempio di sintassi in code span di `llm-wiki`.
+- Indice: rimosse 9 voci che puntavano a stub eliminati.
+- Gruppi B e C mantenuti come stub da completare: `CANGARU`, `CLAIM`, `DEAL`, `LLM4CBT`, `between-and-within-tool-triangulation`, `digital-therapeutics-ai`, `reciprocal-care-in-ai-mental-health`.
+- Correzione: 5 link relativi verso stub eliminati erano sfuggiti al controllo dei riferimenti (`ai-act`, eliminato nel passaggio precedente; `mcp-protocol`, `blended-cbt`, `digital-autonomy`, `natural-language-processing`). Sostituiti con testo semplice in `concetti/agent-harness-architecture`, `concetti/maladaptive-perfectionism`, `concetti/multidimensional-sustainability-mental-health-ai`, `sintesi/04-17_Convegno_Integrazione_Etica_IA_Formazione_v2`, `sintesi/kandeel-et-al-2026`.
+- Nuovo rilievo, non corretto: 1003 link Markdown interni alle pagine non risolvono per percorso (742 con percorso malformato tipo `concetti/concetti\...`); 990 sono risolvibili univocamente per nome file, 13 puntano a file inesistenti (preesistenti).
+
+## [2026-10-15] lint | wiki-health-check (link Markdown → wikilink)
+- Convertiti in `[[wiki-links]]` 967 link Markdown interni alle pagine che non risolvevano per percorso (percorsi malformati `concetti/concetti\...`, URL `file:///` assoluti, percorsi relativi errati) ma puntavano a un file con nome univoco. Alias mantenuto quando il testo differiva dal nome della pagina; `\|` usato negli alias dentro le tabelle.
+- Corretti e convertiti i 13 link senza destinazione: vecchi nomi dei verbali → `05-08-riunione-knowledge-base`, `03-13-avvio-gruppo-lavoro-ia-psicoterapia`, `04-20-tavola-rotonda-integrazione-ia`, `07-08-riunione-pianificazione-corso`; ancore malformate → link alla sezione corretta di `vocal-biomarkers-in-depression` e `persian-psychotherapy-benchmarks`.
+- 346 pagine modificate; `index.md` e `log.md` esclusi (l'indice usa link Markdown per convenzione). I 3434 link Markdown già funzionanti non sono stati toccati.
+- Verifica: 1091 wikilink, 0 rotti, 0 ambigui, 0 ancore errate. Restano 23 pseudo-link dentro diagrammi Mermaid (non sono link renderizzati), lasciati invariati.
+- Backup pre-modifica fuori dal vault.
+
+## [2026-10-15] lint | wiki-health-check (problemi residui)
+- Link ai trascritti `.txt`: le 6 righe `**Sources**` con URL `file:///` (in `human-in-the-reasoning`, `reverse-training-simulazione`, `simulazione-pazienti-ai`, `software-as-a-medical-device-salute-mentale`, `supervisione-clinica-ai`, `trainer-simulator`) sostituite da `**Fonti**:` con wikilink alle pagine dei verbali (8 link). Non aggiunte voci APA: i riferimenti delle pagine dei verbali sono ancora `[Da integrare]`.
+- In `concetti/ai-mental-health-vulnerable-populations` il riferimento con anchor text arXiv e URL `file:///` è diventato `[[2508-00847v1|Sahab et al. (2025)]]`.
+- Diagrammi Mermaid: ricostruite 29 righe in cui un precedente passaggio di linkificazione aveva sostituito l'apertura delle etichette (`["<b>Etichetta`) con link Markdown; link interni alle etichette ridotti a testo.
+- Convertiti in wikilink i 3434 link Markdown funzionanti rimasti nelle pagine (`index.md` e `log.md` esclusi). Le pagine wiki ora non contengono più link Markdown interni fuori dai blocchi di codice.
+- Verifica: 4534 wikilink, 0 rotti, 0 ambigui, 0 ancore errate; 0 URL `file:///`. Backup pre-modifica fuori dal vault.
+- Nuovo rilievo, non corretto: 35 pagine citano ancora nomi di trascritti `.txt` come testo semplice (righe `**Sources**`), contro la regola di `agent.md`.
+
+## [2026-10-15] lint | wiki-health-check (nomi dei trascritti nel testo)
+- 35 pagine citavano nomi di trascritti `.txt` nel corpo del testo. In tutte i nomi esatti dei file presenti in `raw/` sono stati spostati nel campo `source_papers` del frontmatter (prima assente; in `ai-assisted-psychotherapy` sostituiti i nomi abbreviati `000` e `03-13_Avvio_...`).
+- Pagine dei verbali (11 in radice, incluso `000`, e 6 in `sintesi/`): rimossa la riga `**Sources**` che citava il proprio trascritto.
+- Altre 18 pagine: righe `**Sources**` sostituite da `**Fonti**:` con wikilink alle pagine dei verbali; nelle liste di riferimenti di `ai-assisted-psychotherapy`, `concetti/audit-bias-llm-clinici`, `concetti/microprogettazione-formativa-ia`, `concetti/modello-centauro-clinico` i nomi file sono diventati wikilink. In `concetti/etica-privacy-bias-ia-clinica` il titolo non corrispondente del convegno 04-17 è stato ricondotto al file reale.
+- Aggiunto `source_papers` anche alle 6 pagine corrette nel passaggio precedente (link `file:///`), che altrimenti avrebbero perso l'indicazione del trascritto.
+- Verifica: 0 nomi `.txt` nel corpo delle pagine; 4559 wikilink, 0 rotti. Backup pre-modifica fuori dal vault.
+
+## [2026-10-15] schema | classificazione-fonti
+- Aggiornato `agent.md`: nuova sezione "Classificazione delle fonti" con tre classi (`scientifica`, `interna`, `evento`) registrate nel frontmatter con `tipo_fonte`; l'APA resta obbligatorio solo per le fonti `scientifica`.
+- Riscritte le "Regole di citazione" per classe; aggiunto il modello di pagina per verbali ed eventi; adeguati il passo 1 e il passo 9 dell'ingestione, il lint e la colonna APA del catalogo ("Non applicabile (fonte interna)" / "Non applicabile (evento)").
+- Allineati `.claude/commands/ingest.md` e `.claude/commands/catalog.md`.
+- Le pagine esistenti non sono ancora migrate al nuovo criterio.
+
+## [2026-10-15] lint | migrazione-classificazione-fonti
+- Aggiunto `tipo_fonte` al frontmatter di 580 pagine secondo la nuova sezione "Classificazione delle fonti" di `agent.md`: scientifica 492, [scientifica, interna] 41, interna 28, evento 10, [interna, evento] 5, [scientifica, evento] 4. Restano senza classe gli 8 stub vuoti (CANGARU, CLAIM, DEAL, LLM4CBT, between-and-within-tool-triangulation, digital-therapeutics-ai, human-in-the-loop, reciprocal-care-in-ai-mental-health).
+- Decisioni dell'utente: report PDF e rassegne .docx/.md prodotti dal gruppo = interna; Bollettino IPER Lab = scientifica; panel 09-25 e webinar Upheal = evento. LIBET Prime KB e materiali del corso = interna per definizione.
+- Pagine nate da fonti interne che citano paper in APA classificate come miste ([scientifica, interna]), per coerenza con la regola "se si cita un paper, si cita il paper".
+- Rimosse 40 sezioni `Riferimenti Bibliografici` con solo `[Da integrare]` da pagine interne o di evento; in 4 pagine la lista di rimandi ai verbali è diventata `## Fonti`. Aggiunto `data` alle pagine di verbale ed evento datate.
+- Pagina 10-02 riscritta secondo il modello dei verbali (Sintesi, Decisioni, Azioni aperte, Relazioni), senza citazioni APA. Rimosse le pseudo-citazioni "(Discussione Panel LIBET, 2026)" e "(Convegno 04-17, 2026)" e le relative voci pseudo-APA; relatori del panel spostati in apertura; organizzatore del panel `[da verificare]`.
+- `second-brain-clinico`: riga `**Sources**` sostituita da `**Fonti**` e aggiunto `source_papers`. Rimosso il BOM da `concetti/fenotipizzazione-computazionale`.
+- Verifica: 4561 wikilink, 0 rotti; nessuna pagina interna o di evento con sezione Riferimenti; nessuna pseudo-citazione residua. Backup pre-modifica fuori dal vault.
+- Rilievo non corretto: circa 100 pagine contengono ancora righe `**Sources**` con nomi dei file sorgente tra backtick (punto 9 del lint del 2026-10-14).
+
+## [2026-10-15] lint | nomi-file-sorgente-nel-testo
+- Sostituite le 111 righe `**Sources**` con `**Fonti**`, eliminando i nomi dei file sorgente: per le fonti scientifiche resta la citazione autore-anno; le rassegne interne (`AI Generativa in Psicoterapia`, `AI in Psicoterapia 2023-2026`) sono diventate wikilink alla loro pagina di sintesi; nelle pagine di sintesi resta la descrizione bibliografica (arXiv, DOI, rivista). Rimossa la riga in `sintesi/ai-generativa-in-psicoterapia`, che citava solo il proprio file.
+- Citazioni prive di autore completate dalle pagine di sintesi: `Rizzi et al. (2026)` in 3 pagine, `Holl-Etten et al. (2026)` e `Feng et al. (2025)` con rimando alla sintesi.
+- 12 correzioni puntuali in riferimenti e testo (es. `(JML_1001.pdf; s44163-025-00495-3.pdf)` -> `(Tingelhoff et al., 2024; Mabirizi et al., 2025)`; `Suhas et al. (2026). *2604.23445v1.pdf*` -> titolo del paper).
+- I file citati sono stati aggiunti a `source_papers` dove mancavano (68 pagine).
+- Verifica: nessuna riga `**Sources**` residua; nessun nome di file sorgente nel testo (esclusi un URL di paper in un riferimento APA e i percorsi `wiki/` di `sintesi/mappa-contraddizioni-epistemiche`); 4583 wikilink, 0 rotti. Backup pre-modifica fuori dal vault.
+- Corrette 3 liste `source_papers` con YAML non valido preesistente: `2505-15108v2` e `2512-05836v1` puntano ora ai rispettivi PDF in `raw/`; `digital-therapeutic-alliance` (fonte "Non specificato") ha lista vuota.
+
+## [2026-10-15] lint | riferimenti-apa-da-integrare
+- 132 pagine con fonti scientifiche avevano la sezione `Riferimenti Bibliografici` composta solo da `[Da integrare]`. Inseriti 186 riferimenti APA completi gia presenti in altre pagine della wiki: 40 pagine completate, 50 completate in parte, 34 con sole citazioni da verificare; 8 pagine senza citazioni rilevabili lasciate invariate.
+- Criterio di abbinamento: stesso primo autore, anno, numero di autori e secondo autore; riferimento proveniente da una pagina collegata (stesse fonti in `source_papers` o wikilink diretto); un solo candidato. Le citazioni senza riferimento verificabile (317, di cui 31 ambigue per omonimia) sono elencate in una riga `[da verificare]` per pagina.
+- Un primo tentativo senza vincolo di vicinanza ha prodotto almeno un abbinamento errato (Liu et al., 2026) ed e stato annullato dal backup prima di ripetere l'operazione.
+- Corretti 2 riferimenti errati verificati sui PDF originali: in `ai-blended-therapy` Herbener & Damholdt (2025) aveva titolo e iniziali sbagliati; in `concetti/clinical-readiness-gap-in-mh-chatbots` Cavalera et al. (2026) aveva un titolo inesistente.
+- Backup pre-modifica fuori dal vault.
+
+## [2026-10-15] lint | dati-eventi-e-modello-verbali
+- Dati degli eventi verificati sulle trascrizioni in `raw/`: `04-17` relatori (Ruggiero, Ferrari, Buattini/Boattini con grafia `[da verificare]`) e data; `000` data non presente nella trascrizione; panel `09-25` organizzatore non indicato (dati dalla rete InTerapia di Studi Cognitivi).
+- Verbali portati al modello Sintesi / Decisioni / Azioni aperte / Relazioni (ristrutturazione leggera, contenuto invariato): `03-13`, `05-08`, `05-11`, `06-05`, `07-08`, `07-10`, `07-17`, `08-28`. Pagine di evento (`000`, `04-17`, `04-20`, `06-10`, panel `09-25`, webinar Upheal) con Sintesi e Relazioni (piu Riferimenti dove ci sono fonti scientifiche).
+- Unificati 7 doppioni nella pagina in radice ed eliminate le versioni in `sintesi/` (05-11, 06-05, 07-08, 07-10, 07-17, 04-17 v2, 06-10): integrati solo i fatti assenti dalla radice; reindirizzati i wikilink in 12 pagine; rimosse 7 voci doppie da `index.md`.
+- Correzioni verificate sulle trascrizioni: in `06-10` rimosso un grafico a torta con percentuali non attribuibili allo studio sulla supervisione (85/78 assenti dalla trascrizione, 92/42 riferiti ad altre indagini); confermato il 30% di accuratezza del giudizio clinico nel drop-out; `Orro & Mannarini` corretto in Orrù & Mannarini (2026) con riferimento completo; rimosse le pseudo-citazioni degli interventi (Cosentino; Romano & Baioni). In `07-17` corretta la generalizzazione "oltre la meta dei pazienti" (esperienza di un singolo partecipante) e segnalata la discrepanza sui contenuti dei Moduli 4-5. In `05-11` segnalata la discrepanza Mindlive/Mindlight.
+- Verifica: 583 pagine, 4518 wikilink, 0 rotti; indice senza link a file mancanti. Backup pre-modifica fuori dal vault.
+
+## [2026-10-15] query | usi-clinici-degli-llm-psicologi
+- Salvata la risposta a "In che modo vengono utilizzati gli LLM dagli psicologi clinici?" in `usi-clinici-degli-llm-psicologi.md` (fonti: large-language-models, bottom-up-clinical-documentation, ozgun-et-al-2025). Aggiunta voce in `index.md`.
+
+
+## [2026-10-15] lint | verifica-citazioni-da-verificare
+- Verificate sulle bibliografie delle fonti in `raw/` le citazioni marcate `[da verificare]` in 82 pagine.
+- Correzione di un errore del passaggio precedente: gli elenchi `[da verificare]` contenevano citazioni mal estratte (parole del testo prima del cognome, coautori al posto del primo autore, nomi di enti troncati) e 117 citazioni gia risolte in Riferimenti. Elenchi rigenerati con un estrattore corretto.
+- Esito su 316 citazioni ancora da completare: 203 presenti nella bibliografia della fonte (da riportare in APA); 33 con piu voci compatibili; 10 che citano la fonte stessa della pagina; 48 citate nella fonte senza voce bibliografica identificabile (soprattutto rassegne interne con bibliografia per titoli); 10 non presenti nella fonte dichiarata (probabile aggiunta in fase di sintesi: Festinger 1957, Ogden 1994, Parasuraman & Manzey 2010, Tarafdar et al. 2019, Ericsson & Pool 2016, Mansson et al. 2015, Sabour et al. 2023, Mahan et al. 2020, Cavalera et al. 2026 in una pagina di rassegna); 7 enti o documenti istituzionali; 5 in pagine senza fonte in `raw/`.
+- Ogni pagina riporta ora le citazioni da verificare divise per gruppo. Backup pre-modifica fuori dal vault.
+
+## [2026-10-15] lint | navigazione-indice
+- Aggiunto in `index.md` un sommario (callout) con wikilink alle 6 sezioni e un link di ritorno al sommario in fondo a ogni sezione. Nessuna voce spostata.
+
+
+## [2026-10-15] lint | inserimento-riferimenti-apa
+- Inseriti in 48 pagine 188 riferimenti APA ricavati dalle bibliografie delle fonti in `raw/` (citazioni del gruppo "Presenti nella bibliografia della fonte"); 2 erano gia presenti. Le sezioni Riferimenti sono ordinate alfabeticamente, con le righe `[da verificare]` in coda.
+- Conversione automatica dai formati della fonte (Vancouver/Springer, stile Nature, ACM/arXiv) all'APA, con controllo manuale di tutte le conversioni; scartati i DOI troncati nel PDF. Possibili piccole imperfezioni ereditate dal testo del PDF (spazi o lettere mancanti in alcuni titoli, abbreviazioni NLM delle riviste).
+- 13 voci non convertibili in modo affidabile restano in `[da verificare]` (voci malformate o troncate nella fonte: es. Heinz et al. 2025 senza iniziali, Armanino & Furlani 2023 senza anno, Clark 2013 con caratteri corrotti).
+- Backup pre-modifica fuori dal vault.
+
+## [2026-10-15] lint | riferimenti-fonte-stessa
+- Redatti in APA dai dati della prima pagina dei PDF in `raw/` i riferimenti di 6 paper citati come fonte della propria pagina: Hang et al. (2026, npj Digital Medicine), Humayun et al. (2025, PLOS ONE), Mese et al. (2026, Diagnostic and Interventional Radiology, REFINE), Feng et al. (2025, arXiv), Rezaei et al. (2026, Digital Health), Wang et al. (2026, arXiv). Inseriti in 10 pagine; rimosse le righe `[da verificare]` corrispondenti.
+- Corretta l'etichetta errata "Chen et al. (2026)" in `sintesi/wang-chen-et-al-2026` (la citazione nel testo e "Wang, Chen et al., 2026").
+- Humayun et al.: elenco autori riportato come nella citazione della fonte (6 autori ed et al.); REFINE: forma APA 7 per oltre 20 autori (primi 19, puntini, ultimo autore).
+
+## [2026-10-15] lint | riferimenti-doppi-e-segnaposto
+- Rimosse 177 sezioni `## Riferimenti Bibliografici` ridondanti contenenti solo `[Da integrare]` in pagine che hanno gia una sezione Riferimenti con voci reali. Non toccati i 7 stub con due sezioni entrambe vuote.
+- Corretti 6 riferimenti con identificativi segnaposto, verificati sui PDF in `raw/`: Hofmann et al. (2026) (rivista e DOI segnaposto -> *Clinical Psychology Review*, 128, 102782, doi 10.1016/j.cpr.2026.102782, autori completi); Gallifant et al. (2025) in `modular-reporting-framework-llm` (titolo e DOI errati -> riferimento corretto TRIPOD-LLM, *Nature Medicine*, 31(1), 60-69); Bentley et al. (2026) ("arXiv:2601.xxxxx" -> arXiv preprint, come nella fonte che lo cita); He et al. (2024) in 3 pagine ("arXiv:2406.xxxxx [cs.CR]" rimosso: l'identificativo non compare nella fonte).
+- Backup pre-modifica fuori dal vault.
+
+## [2026-10-15] lint | citazioni-da-verificare
+- Risolte 119 delle 120 citazioni `[da verificare]` in 65 pagine: inserite 115 voci APA e sostituite 5 voci esistenti incomplete. Dati presi dalle bibliografie di tutti i file in `raw/` (non solo della fonte dichiarata), dagli elenchi APA interni alle rassegne interne e, per 13 opere assenti da `raw/`, da verifica web (ACL Anthology, arXiv, JMIR, MDPI, Save the Children).
+- Corrette attribuzioni errate nel testo: "Bajaj et al., 2025" -> Wei et al. (2025); "Zack et al., 2025" -> Ahsan et al. (2025); "Kim (2025)" -> Kim & Wang (2025); "Lancet Global Study" -> Santomauro et al. (2021); "Goldberg & Rousmaniere" -> Goldberg et al. (2016); "IW et al., 2026" sostituito da una descrizione neutra (autori non identificabili dalla trascrizione); "Romano & Baioni, 2026" ricondotto alla lezione con wikilink.
+- Corretti 14 riferimenti errati: autori inventati di Goldberg et al. (2020) in 3 pagine, voci numerate con autori sbagliati in `ricerca-prompting-llm-clinico-sanitario` (LLM4CBT, Sant, Ahsan, Wei, PATIENT-Psi), Collins et al. (2025) al posto di Gallifant et al. (2025) in `clinical-ai-blueprint`, LLM4CBT in `clinical-chain-of-thought-paradox`.
+- Resta `[da verificare]`: Caldwell (2026) in `concetti/specializzazioni-ia-resistenti` (nessun riferimento identificabile). Backup pre-modifica fuori dal vault.
+
+## [2026-10-16] lint | citazioni-da-verificare-completamento
+- Verificati sul web i riferimenti redatti da conoscenza generale (Parasuraman & Manzey 2010, Ogden 1994, McMahan et al. 2017, Ericsson & Pool 2016): dati confermati.
+- Corretta l'attribuzione "Bousquet et al. (2024)", voce inesistente presente in 3 pagine: lo studio sulla deliberazione multi-agente è di Ke et al. (2024, *Journal of Medical Internet Research*, 26, e59439) in `ricerca-prompting-llm-clinico-sanitario`; in `clinical-ai-blueprint` il rimando all'Exploratory Thinking va a Wei et al. (2025); in `concetti/coast-framework-clinical-prompting` la voce, non citata nel testo, è stata rimossa.
+- Corretti gli autori di Chain of Empathy (Lee, Lee, Shin, Bae & Hahn, 2023) in `sintesi/rezaei-et-al-2026` (la bibliografia della fonte li riporta in modo errato) e in `sintesi/jiang-et-al-2024`.
+- Ricostruita dalla fonte la bibliografia numerata (45 voci) di `ricerca-prompting-llm-clinico-sanitario`: rimossi autori collettivi e anni inventati; le voci riportano titolo e URL come nella fonte, con riferimento APA completo solo per gli studi verificati (TRIPOD-LLM, LLM4CBT, REFINE, Sant, Ahsan, Wei, Ke, PATIENT-Psi).
+
+## [2026-10-16] lint | completamento-pagine-segnaposto
+- Completati i Riferimenti Bibliografici di 8 pagine che contenevano solo `[Da integrare]`: `2601-10970v2`, `2603-27146v3` (unificata la sezione `## Riferimenti` duplicata, aggiunti `source_papers` e citazione in-text), `concetti/persian-psychotherapy-benchmarks`, `concetti/psycholextherapy-framework`, `sintesi/abbasi-naderi-2025` (Abbasi & Naderi, 2025), `quattro-condizioni-liceita-ia-psicologia` (OPPV, 2026), `sintesi/joshua-peterson-2025` (Joshua & Peterson, 2025; sede di pubblicazione assente nella fonte), `task-specific-generative-evaluation-healthcare` (Gallifant et al., 2025).
+- Redatti dalle fonti in `raw/` gli 8 stub: `CANGARU`, `CLAIM`, `DEAL` (REFINE, CHART, TRIPOD-LLM, GAMER, ELEVATE-GenAI, MI-CLEAR-LLM), `LLM4CBT` (rassegna interna sul prompting; paper originale assente da `raw/`, segnalato `[da verificare]`), `between-and-within-tool-triangulation` (Tingelhoff et al., 2024), `digital-therapeutics-ai` (Bhavnani & McKim, 2025; Stojanovic et al., 2026), `human-in-the-loop` (OPPV, AI Act, GDPR, Garante Privacy, Olisaeloka et al., Hofmann et al.; tenuto distinto da human-in-the-reasoning), `reciprocal-care-in-ai-mental-health` (Bucher et al., 2025).
+- Indice: le 7 voci stub spostate dal dominio 5 ai domini pertinenti (CANGARU, CLAIM, DEAL e triangolazione nel dominio 1; LLM4CBT nel 4; digital therapeutics e reciprocal care nel 5) con descrizioni reali; aggiunta `human-in-the-loop` nel dominio 6.
+- Corretto il DOI errato di TRIPOD-LLM in `gamer2025-1` (03409-7 -> 03425-5).
+
+## [2026-10-16] lint | indice-descrizioni-stub
+- Aggiornate in `wiki/index.md` 14 descrizioni che riportavano ancora il testo da stub per pagine ormai complete (CONSORT-AI, STARD-AI, 11 schede di sintesi, vocal biomarkers), usando il sommario di ciascuna pagina.
+- Corretti due titoli nell'indice non coerenti con il contenuto: la scheda di Degenhard et al. (2025) riguarda l'esposizione con IA generativa nel CPTSD, non i chatbot per le dipendenze; la scheda RLHF è di Suhas et al. (2026), non "BN et al.".
+- Restano stub (non toccati, da decidere): `clinical-training`, `libet-prime-kb`, `lin-2026`, `terapia-cognitivo-comportamentale`.
+
+## [2026-10-16] ingest | lin-2026
+- Scritta dalla fonte `2507.04491v2.pdf` la pagina di sintesi `lin-2026` (Lin, 2026, *Behavior Research Methods*), prima stub, su cui si basavano già 6 pagine concetto (dual-validity-framework, measurement-phantoms, pseudoreplication e altre): workflow in sei fasi, quattro obiettivi di ricerca con requisiti di validità crescenti, indicazioni su affidabilità, equivalenza di misura, non indipendenza dei dati e linguaggio non antropomorfico. Indicizzata nel dominio 1.
+
+## [2026-10-16] lint | stub-duplicati
+- Eliminati 3 stub duplicati dopo aver reindirizzato i link: `terapia-cognitivo-comportamentale` -> `cbt` (4 pagine), `libet-prime-kb` -> `libet-prime` (1 pagina), `clinical-training` -> `07-17-riunione-corso-formazione` (1 pagina). Rimossi i duplicati di link creati nelle righe Relazioni. Rimosse le voci dall'indice. Backup pre-modifica fuori dal vault.
+- Al prossimo `/publish` le 3 pagine eliminate vanno rimosse anche da `quartz/content/`.
+
+## [2026-10-16] lint | riorganizzazione-indice
+- `index.md` ristrutturato in 7 sezioni: aggiunta *Attività del Gruppo: Riunioni ed Eventi* (9 riunioni e 6 eventi in ordine cronologico, spostati dalla ex sezione 6, ora *Etica, Governance e Regolazione*); sezione 1 rinominata *Linee Guida, Metodologia della Ricerca e Reporting* e ampliata con 17 voci sugli LLM come strumento di ricerca prima nella sezione 5.
+- Ogni sezione divisa in *Concetti e sintesi tematiche* (elenco alfabetico) e *Paper e documenti* (tabella Anno/Autori/Titolo/Focus, dal più recente). Sezione 5 divisa in 4 sottotemi.
+- Unite in una sola riga 25 coppie scheda paper + pagina di sintesi (link *sintesi* accanto al titolo); alcune coppie spostate nella stessa sezione.
+- Aggiunti sommario con conteggi, blocco *Da dove iniziare* e link di ritorno al sommario. Rimossa la voce doppia del verbale 10-02.
+- Verifica: 579 pagine indicizzate una volta, 0 link rotti, 0 pagine escluse. Backup dell'indice precedente fuori dal vault. Aggiornato `agent.md` (passo 7 dell'ingestione e sezione Indicizzazione).
+- Da fare: riscrivere le descrizioni troncate; correggere alcuni titoli in inglese con maiuscole irregolari.
+
+## [2026-10-16] lint | sezioni-relazioni
+- Uniformata a `## Relazioni` l'intestazione della sezione di collegamenti in 142 pagine che usavano varianti ("Pagine Correlate" 54, "Related pages/Pages" 52, "Concetti Correlati" 15, "Relazioni e ..." 17, altre 4); contenuto delle sezioni invariato.
+- Aggiunta una sezione `## Relazioni` ("Vedi anche", massimo 8 link) alle 20 pagine che ne erano prive, scegliendo nell'ordine: pagine derivate dalla stessa fonte, pagine che le citano, link già presenti nel testo.
+- Ora tutte le pagine della wiki hanno una sezione `## Relazioni`. `wiki/index.md` non modificato (nessuna pagina nuova). Backup pre-modifica fuori dal vault.

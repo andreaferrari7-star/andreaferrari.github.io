@@ -1,11 +1,13 @@
 ---
 tags: []
+tipo_fonte: scientifica
+source_papers: ["2512.22462v1.pdf"]
 ---
 
 # Continuità Tra le Sedute e Mediazione dei Confini Temporali
 
 **Summary**: Funzione di mediazione contestuale e relazionale (Stadio 4, Quan et al., 2025) in cui l'IA agisce come ponte asincrono tra una seduta di psicoterapia e la successiva, rispondendo al bisogno di presenza continuativa dei pazienti vulnerabili senza violare i confini professionali e il carico di lavoro del terapeuta.
-**Sources**: Quan et al. (2025) - `2512.22462v1.pdf`, Oewel et al. (2024)
+**Fonti**: Quan et al. (2025), Oewel et al. (2024)
 **Last updated**: 2026-08-27
 ---
 
@@ -61,13 +63,14 @@ L'IA opera come un **mediatore di confine contestuale e relazionale**, assumendo
 - **Ottimizzazione del Tempo in Seduta**: Il clinico riceve un quadro pre-sintetizzato dell'andamento emotivo settimanale, potendo focalizzare i 50 minuti di colloquio sui nodi trasformativi più rilevanti.
 
 ---
-## Concetti Correlati
-- [dynamic-boundary-mediation-framework](dynamic-boundary-mediation-framework.md)
-- [boundary-objects-in-psychotherapy](boundary-objects-in-psychotherapy.md)
-- [negotiable-data-visibility-privacy](negotiable-data-visibility-privacy.md)
-- [contextualized-relational-memory](contextualized-relational-memory.md)
-- [blended-care-ai-framework](blended-care-ai-framework.md)
-- [acute-crisis-action-plans-ai](acute-crisis-action-plans-ai.md)
+## Relazioni
+- [[dynamic-boundary-mediation-framework]]
+- [[boundary-objects-in-psychotherapy]]
+- [[negotiable-data-visibility-privacy]]
+- [[contextualized-relational-memory]]
+- [[blended-care-ai-framework]]
+- [[acute-crisis-action-plans-ai]]
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Oewel, B., Arean, P. A., & Agapie, E. (2024). Approaches for tailoring between-session mental health therapy activities. In *Proceedings of the CHI Conference on Human Factors in Computing Systems. ACM, Honolulu HI USA* (pp. 1–19). https://doi.org/10.1145/3613904.3642856
+- Quan, J., Li, Z., Zhu, T. Q., Li, Y., Wang, B., Pratt, W., & Gao, N. (2025). Relational Mediators: LLM Chatbots as Boundary Objects in Psychotherapy. *arXiv preprint arXiv:2512.22462v1 [cs.HC]*, 1–35. https://doi.org/10.48550/arXiv.2512.22462

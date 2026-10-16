@@ -1,5 +1,6 @@
 ---
 tags: [human-ai-alignment, paradigm-shift, ai-as-tool, ai-as-agent, power-safety-paradox, tiered-human-ai-healing-ecosystem, thhe, multi-agent-systems, therapeutic-alliance, clinical-governance, mdpi-healthcare]
+tipo_fonte: scientifica
 source_papers: ["healthcare-14-00820.pdf"]
 ---
 
@@ -182,7 +183,4 @@ Su 61 studi analizzati:
 ---
 
 ## Relazioni
-- Vedi anche: [tiered-human-ai-healing-ecosystem](tiered-human-ai-healing-ecosystem.md), [power-safety-paradox](power-safety-paradox.md), [tiered-autonomy-in-clinical-ai](tiered-autonomy-in-clinical-ai.md), [three-layer-governance-framework](concetti/concetti/concetti\three-layer-governance-framework.md), [simulated-empathy-vs-authentic-presence](concetti/concetti/concetti\simulated-empathy-vs-authentic-presence.md), [rlhf-safety-therapeutic-conflict](rlhf-safety-therapeutic-conflict.md), [ai-psychosis](ai-psychosis.md), [digital-therapeutic-alliance](digital-therapeutic-alliance.md), [modello-centauro-clinico](concetti/concetti/concetti\modello-centauro-clinico.md), [fpubh-14-1792627](fpubh-14-1792627.md), [2604-23445v1](2604-23445v1.md), [10-1177-00469580261438322](10-1177-00469580261438322.md)
-
-## Riferimenti Bibliografici
-- [Da integrare]
+- Vedi anche: [[tiered-human-ai-healing-ecosystem]], [[power-safety-paradox]], [[tiered-autonomy-in-clinical-ai]], [[three-layer-governance-framework]], [[simulated-empathy-vs-authentic-presence]], [[rlhf-safety-therapeutic-conflict]], [[ai-psychosis]], [[digital-therapeutic-alliance]], [[modello-centauro-clinico]], [[fpubh-14-1792627]], [[2604-23445v1]], [[10-1177-00469580261438322]]

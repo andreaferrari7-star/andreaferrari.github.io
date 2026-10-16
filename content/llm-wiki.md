@@ -1,11 +1,13 @@
 ---
 tags: []
+tipo_fonte: interna
+source_papers: ["07-17 Riunione_ Corso di Formazione sull'IA in Psicologia e Utilizzo Clinico.txt"]
 ---
 
 # LLM-Wiki (Architettura di Conoscenza Processuale)
 
 **Summary**: Paradigma di gestione e strutturazione della conoscenza computazionale introdotto da Andrej Karpathy. Invece di interrogare archivi statici di documenti grezzi tramite Retrieval-Augmented Generation (RAG vettoriale a frammenti), un agente LLM cura, sintetizza e aggiorna continuamente un'enciclopedia/wiki strutturata in Markdown con collegamenti ipertestuali concettuali bidirezionali.
-**Sources**: 07-17 Riunione_ Corso di Formazione sull'IA in Psicologia e Utilizzo Clinico.txt
+**Fonti**: [[07-17-riunione-corso-formazione|Riunione 07-17: Corso di Formazione sull'IA in Psicologia, Gestione Clinica del Paziente, LLM-Wiki e Documentazione Bottom-Up]]
 **Last updated**: 2026-08-27
 ---
 
@@ -67,24 +69,21 @@ flowchart TD
 
 ## 4. Applicazioni nella Formazione e nella Clinica Psicoterapeutica
 
-- **Potenziamento del [Second Brain Clinico](second-brain-clinico.md)**: Consente al terapeuta di mantenere un archivio personale sempre coerente e aggiornato senza il logorante lavoro manuale di riclassificazione delle note di seduta e dei protocolli.
-- **Supporto ad Agenti Didattici Specialistici**: Architettura ideale per alimentare sistemi come *[Libet Prime](concetti/concetti/concetti\libet-prime.md)* o simulatori clinici (*[Trainer Simulator](trainer-simulator.md)*), fornendo una base di conoscenza costantemente raffinata e rigorosamente verificata.
-- **Integrazione con la [Documentazione Clinica Bottom-Up](bottom-up-clinical-documentation.md)**: Permette di assimilare le discussioni delle riunioni d'équipe, trasformando i casi clinici discussi verbalmente in voci enciclopediche e alberi decisionali consultabili da tutti i membri del centro clinico.
+- **Potenziamento del [[second-brain-clinico]]**: Consente al terapeuta di mantenere un archivio personale sempre coerente e aggiornato senza il logorante lavoro manuale di riclassificazione delle note di seduta e dei protocolli.
+- **Supporto ad Agenti Didattici Specialistici**: Architettura ideale per alimentare sistemi come *[[libet-prime]]* o simulatori clinici (*[[trainer-simulator]]*), fornendo una base di conoscenza costantemente raffinata e rigorosamente verificata.
+- **Integrazione con la [[bottom-up-clinical-documentation|Documentazione Clinica Bottom-Up]]**: Permette di assimilare le discussioni delle riunioni d'équipe, trasformando i casi clinici discussi verbalmente in voci enciclopediche e alberi decisionali consultabili da tutti i membri del centro clinico.
 
 ---
 
-## Related pages
-- [07-17_Riunione_Corso_Formazione](07-17_Riunione_Corso_Formazione.md)
-- [second-brain-clinico](second-brain-clinico.md)
-- [bottom-up-clinical-documentation](bottom-up-clinical-documentation.md)
-- [libet-prime](concetti/concetti/concetti\libet-prime.md)
-- [trainer-simulator](trainer-simulator.md)
-- [microprogettazione-formativa-ia](concetti/concetti/concetti\microprogettazione-formativa-ia.md)
-- [human-in-the-reasoning](human-in-the-reasoning.md)
-- [augmented-psychotherapy](augmented-psychotherapy.md)
-- [ai-assisted-psychotherapy](ai-assisted-psychotherapy.md)
-- [06-10_Lezione_RAG_LLM](06-10_Lezione_RAG_LLM.md)
-- [05-08_Riunione_Knowledge_Base](05-08_Riunione_Knowledge_Base.md)
-
-## Riferimenti Bibliografici
-- [Da integrare]
+## Relazioni
+- [[07-17-riunione-corso-formazione]]
+- [[second-brain-clinico]]
+- [[bottom-up-clinical-documentation]]
+- [[libet-prime]]
+- [[trainer-simulator]]
+- [[microprogettazione-formativa-ia]]
+- [[human-in-the-reasoning]]
+- [[augmented-psychotherapy]]
+- [[ai-assisted-psychotherapy]]
+- [[06-10-lezione-rag-llm]]
+- [[05-08-riunione-knowledge-base]]

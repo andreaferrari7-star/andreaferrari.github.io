@@ -1,5 +1,6 @@
 ---
 tags: [network-science, mental-healthcare, socio-technical-networks, scale-free, small-world, resilience, hybrid-care]
+tipo_fonte: scientifica
 source_papers: ["10.1177_20552076261421688.pdf"]
 title: "Network-Based AI in Mental Healthcare (Reti Socio-Tecniche di Assistenza)"
 ---
@@ -62,11 +63,11 @@ graph TD
 
 ---
 
-## Pagine Correlate
-- [rezaei-et-al-2026](../sintesi/rezaei-et-al-2026.md)
-- [mental-health-chatbot-taxonomy](mental-health-chatbot-taxonomy.md)
-- [specialized-nlp-models-mental-health](specialized-nlp-models-mental-health.md)
-- [stepped-care-ai-integration](stepped-care-ai-integration.md)
-- [modello-centauro-clinico](concetti/concetti\modello-centauro-clinico.md)
-- [human-in-the-reasoning](human-in-the-reasoning.md)
+## Relazioni
+- [[rezaei-et-al-2026]]
+- [[mental-health-chatbot-taxonomy]]
+- [[specialized-nlp-models-mental-health]]
+- [[stepped-care-ai-integration]]
+- [[modello-centauro-clinico]]
+- [[human-in-the-reasoning]]
 

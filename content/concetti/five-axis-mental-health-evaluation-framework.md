@@ -1,11 +1,13 @@
 ---
 tags: []
+tipo_fonte: scientifica
+source_papers: ["2604.23445v1.pdf"]
 ---
 
 # Five-Axis Evaluation Framework for Mental Health AI (Framework di Valutazione a Cinque Assi)
 
 **Summary**: Framework multidimensionale e indipendente dal protocollo terapeutico (*protocol-agnostic*) progettato per la valutazione clinica e la certificazione regolatoria pre-deployment di sistemi di intelligenza artificiale per la salute mentale, strutturato su 5 assi cardine: Fedeltà al Protocollo, Rischio di Allucinazione, Coerenza Comportamentale Multi-Turno, Sicurezza nelle Crisi e Robustezza Demografica.
-**Sources**: Suhas et al. (2026) - `2604.23445v1.pdf`.
+**Fonti**: Suhas et al. (2026).
 **Last updated**: 2026-08-27
 ---
 
@@ -112,15 +114,31 @@ Il superamento di tutti e cinque gli assi fornisce agli sviluppatori e alle auto
 
 ---
 
-## Pagine Correlate
+## Relazioni
 
-- [suhas-et-al-2026](../sintesi/suhas-et-al-2026.md) — Sintesi dello studio empirico originale che formula il framework.
-- [exposure-interruption-mechanism](exposure-interruption-mechanism.md) — Meccanismi specifici di rottura del protocollo clinico.
-- [acknowledgment-appropriateness-gap](acknowledgment-appropriateness-gap.md) — Il divario tra metriche superficiali e appropriatezza clinica.
-- [rlhf-safety-therapeutic-conflict](rlhf-safety-therapeutic-conflict.md) — Il conflitto intrinseco tra allineamento standard e meccanismi d'azione terapeutici.
-- [software-as-a-medical-device-salute-mentale](software-as-a-medical-device-salute-mentale.md) — Requisiti SaMD e normative internazionali per i dispositivi medici in salute mentale.
-- [ctrs-automated-evaluation](ctrs-automated-evaluation.md) — Valutazione automatica dell'aderenza alle scale CBT.
-- [synthetic-clinical-dialogues](synthetic-clinical-dialogues.md) — Metodologia di creazione e validazione di dataset clinici sintetici.
+- [[suhas-et-al-2026]] — Sintesi dello studio empirico originale che formula il framework.
+- [[exposure-interruption-mechanism]] — Meccanismi specifici di rottura del protocollo clinico.
+- [[acknowledgment-appropriateness-gap]] — Il divario tra metriche superficiali e appropriatezza clinica.
+- [[rlhf-safety-therapeutic-conflict]] — Il conflitto intrinseco tra allineamento standard e meccanismi d'azione terapeutici.
+- [[software-as-a-medical-device-salute-mentale]] — Requisiti SaMD e normative internazionali per i dispositivi medici in salute mentale.
+- [[ctrs-automated-evaluation]] — Valutazione automatica dell'aderenza alle scale CBT.
+- [[synthetic-clinical-dialogues]] — Metodologia di creazione e validazione di dataset clinici sintetici.
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Asgari, E., Brown, N. M., Dubois, M., Khalil, S., Balloch, J., Yeung, J. A., & Pimentel, D. (2025). A framework to assess clinical safety and hallucination rates of LLMs for medical text summarisation. npj Digital Medicine.
+- Banerjee, S., Chatterjee, P., Kumar, S., Layek, S., Agrawal, P., Hazra, R., & Mukherjee, A. (2025). Attributional safety failures in large language models under code-mixed perturbations. *arXiv preprint*.
+- Bentley, K. H., Belli, L., Chekroud, A., Ward, E. J., Dworkin, E. R., Van Ark, E., et al. (2026). VERA-MH: Reliability and validity of an open-source AI safety evaluation in mental health. *arXiv preprint*.
+- Cunningham, P., Gilmore, J., Naar, S., Preston, S. D., Eubanks, C. F., Hubig, N., et al. (2023). Opening the black box of family-based treatments: An artificial intelligence framework to examine therapeutic alliance and therapist empathy. Clinical Child and Family Psychology Review.
+- Gaus, R., Gross, F., Korman, M., Klaassen, F., Maspero, S., Martignoni, L., Urquijo, M. F., Boger, S., Jebrini, T., Wolf, J., Hager, P., Stade, E. C., Terhorst, Y., Volkert, J., Kambeitz, J., Stubbe, H. C., Padberg, F., Stirman, S. W., Koutsouleris, N., & Eichstaedt, J. C. (2025). A scoping review of generative AI in mental health support [Preprint]. *PsyArXiv*. https://doi.org/10.31234/osf.io/n7qep
+- Kanithi, P., Christophe, C., Pimentel, M. A. F., Raha, T., Saadi, N., Javed, H. A., et al. (2024). MEDIC: Comprehensive evaluation of leading indicators for LLM safety and utility in clinical applications. *arXiv preprint* arXiv:2409.07819.
+- Kim, Y., Jeong, H., Chen, S., Li, S., Lu, M., Alhamoud, K., et al. (2025). Medical hallucination in foundation models and their impact on healthcare. medRxiv.
+- Liu, J., Li, Z., Niu, Q., Zhang, Z., Xun, Y., Hou, W., Wang, S., Iwasawa, Y., Matsuo, Y., & Hatakeyama-Sato, K. (2026). JMedEthicBench: A multi-turn conversational benchmark for evaluating medical safety in japanese large language models. *arXiv preprint*.
+- Mukherjee, S., Gamble, P., Ausin, M. S., Kant, N., Aggarwal, K., et al. (2024). Polaris: A safety-focused LLM constellation architecture for healthcare. *arXiv preprint*.
+- Osterhoudt, H., Schneider, C., Mohammad, H. A., Shih, M., Harper, A. E., Zhou, L., Skidmore, E., & Wang, Y. (2022). Automated fidelity assessment for strategy training in inpatient rehabilitation using natural language processing. *AMIA Joint Summits on Translational Science Proceedings*.
+- Qiu, J., He, Y., Juan, X., Wang, Y., Liu, Y., Yao, Z., ... & Wang, M. (2025). EmoAgent: Assessing and safeguarding human-AI interaction for mental health safety. *In Proceedings of EMNLP 2025*.
+- Rzadeczka, M., Sterna, A., Stolińska, J., Kaczyńska, P., & Moskalewicz, M. (2024). The efficacy of conversational AI in rectifying the theory-of-mind and autonomy biases: Comparative analysis. JMIR Mental Health.
+- Stade, E. C., Eichstaedt, J. C., Kim, J. P., & Stirman, S. W. (2025). Readiness evaluation for artificial intelligence–mental health deployment and implementation (READI): A review and proposed framework. *Technology, Mind, and Behavior*, *6*(2).
+- Suhas, B. N., Mahajan, Y., Mattioli, D., Sherrill, A. M., Arriaga, R. I., Wiese, C. W., & Abdullah, S. (2025c). The pursuit of empathy: Evaluating small language models for PTSD dialogue support. In *Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)*.
+- Suhas, B. N., Mattioli, D., Abdullah, S., Arriaga, R. I., Wiese, C. W., & Sherrill, A. M. (2025b). How real are synthetic therapy conversations? Evaluating fidelity in prolonged exposure dialogues. In *Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)*.
+- Suhas, B. N., Sherrill, A. M., Arriaga, R. I., Wiese, C. W., & Abdullah, S. (2026). AI safety training can be clinically harmful. *arXiv preprint* arXiv:2604.23445.
+- Suhas, B. N., Shing, H.-C., Xu, L., Strong, M., Burnsky, J., Ofor, J., Mason, J. R., Chen, S., Srinivasan, S., Shivade, C., Moriarty, J., & Cohen, J. P. (2025a). Fact-controlled diagnosis of hallucinations in medical text summarization. In *Proceedings of Interspeech 2025* (pp. 3070–3074). https://doi.org/10.21437/Interspeech.2025-537

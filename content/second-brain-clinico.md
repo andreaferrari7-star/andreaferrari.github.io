@@ -1,12 +1,14 @@
 ---
 tags: []
+tipo_fonte: interna
+source_papers: ["07-08 Riunione_ Pianificazione corso IA per psicoterapia — struttura, validazione interessi, microprogettazione e coordinamento.txt", "05-08 Riunione_ Sviluppo Knowledge Base AI, Etica e Applicazioni Cliniche.txt"]
 ---
 
 # Second Brain Clinico
 
 **Summary**: Metodologia e architettura di gestione della conoscenza personale (PKM) per psicoterapeuti, basata su archivi locali strutturati (es. Obsidian, Markdown) e integrabile con modelli linguistici. Consente di organizzare protocolli evidence-based, concettualizzazioni di caso e percorsi di autosupervisione senza delegare acriticamente il metodo clinico a software commerciali proprietari.
 
-**Sources**: [07-08 Riunione_ Pianificazione corso IA per psicoterapia](file:///c:/Users/ANDREA/AI%20Knowledge%20Base/wiki/07-08_Riunione_Pianificazione_Corso.md), [05-08 Riunione_ Sviluppo Knowledge Base AI, Etica e Applicazioni Cliniche](file:///c:/Users/ANDREA/AI%20Knowledge%20Base/wiki/05-08_Riunione_Knowledge_Base.md)
+**Fonti**: [[07-08-riunione-pianificazione-corso|Riunione 07-08: Pianificazione Corso IA per Psicoterapia — Struttura, Validazione Interessi, Microprogettazione e Coordinamento]], [[05-08-riunione-knowledge-base|Riunione 05-08: Sviluppo Knowledge Base AI, Etica e Applicazioni Cliniche]]
 
 **Last updated**: 2026-08-27
 
@@ -51,14 +53,11 @@ graph TD
 
 ---
 
-## Related pages
-- [07-08_Riunione_Pianificazione_Corso](07-08_Riunione_Pianificazione_Corso.md)
-- [microprogettazione-formativa-ia](concetti/concetti/concetti\microprogettazione-formativa-ia.md)
-- [human-in-the-reasoning](human-in-the-reasoning.md)
-- [augmented-psychotherapy](augmented-psychotherapy.md)
-- [ai-assisted-psychotherapy](ai-assisted-psychotherapy.md)
-- [prompting-in-psychology](prompting-in-psychology.md)
-- [05-08_Riunione_Knowledge_Base](05-08_Riunione_Knowledge_Base.md)
-
-## Riferimenti Bibliografici
-- [Da integrare]
+## Relazioni
+- [[07-08-riunione-pianificazione-corso]]
+- [[microprogettazione-formativa-ia]]
+- [[human-in-the-reasoning]]
+- [[augmented-psychotherapy]]
+- [[ai-assisted-psychotherapy]]
+- [[prompting-in-psychology]]
+- [[05-08-riunione-knowledge-base]]

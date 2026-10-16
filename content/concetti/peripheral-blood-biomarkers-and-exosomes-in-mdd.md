@@ -1,5 +1,6 @@
 ---
 tags: [liquid-biopsy, peripheral-blood, exosomes, extracellular-vesicles, blood-brain-barrier, mdd, suicide, biomarkers, antidepressant-response, ketamine, precision-psychiatry]
+tipo_fonte: scientifica
 source_papers: ["41398_2025_Article_3497.pdf"]
 title: "Peripheral Blood Biomarkers and Brain-Derived Exosomes in MDD"
 ---
@@ -88,14 +89,21 @@ L'isolamento di **vescicole extracellulari derivate dal cervello (*Brain-Derived
 
 ---
 
-## Relazioni nel Knowledge Base
-- [wang-dwivedi-2025](../sintesi/wang-dwivedi-2025.md): Sintesi sistematica della review di riferimento.
-- [multi-omics-depression-suicide](multi-omics-depression-suicide.md): Integrazione di trascrittoma, metiloma e proteomica.
-- [non-coding-rna-biomarkers-psychiatry](non-coding-rna-biomarkers-psychiatry.md): Profili di miRNA, lncRNA e circRNA circolanti.
-- [single-cell-and-spatial-transcriptomics-in-mental-health](single-cell-and-spatial-transcriptomics-in-mental-health.md): Mappatura cellula-specifica confrontata con la periferia.
-- [ai-multi-omics-psychiatric-biomarkers](ai-multi-omics-psychiatric-biomarkers.md): Algoritmi predittivi applicati a dati ematici e biomarcatori.
-- [treatment-outcome-and-relapse-prediction](treatment-outcome-and-relapse-prediction.md): Predizione di risposta terapeutica e ricadute.
-- [rischio-suicidario-ai-limits](rischio-suicidario-ai-limits.md): Limiti dell'approccio clinico soggettivo e necessità di biomarker oggettivi.
+## Relazioni
+- [[wang-dwivedi-2025]]: Sintesi sistematica della review di riferimento.
+- [[multi-omics-depression-suicide]]: Integrazione di trascrittoma, metiloma e proteomica.
+- [[non-coding-rna-biomarkers-psychiatry]]: Profili di miRNA, lncRNA e circRNA circolanti.
+- [[single-cell-and-spatial-transcriptomics-in-mental-health]]: Mappatura cellula-specifica confrontata con la periferia.
+- [[ai-multi-omics-psychiatric-biomarkers]]: Algoritmi predittivi applicati a dati ematici e biomarcatori.
+- [[treatment-outcome-and-relapse-prediction]]: Predizione di risposta terapeutica e ricadute.
+- [[rischio-suicidario-ai-limits]]: Limiti dell'approccio clinico soggettivo e necessità di biomarker oggettivi.
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Bhak, Y., Jeong, H. O., Cho, Y. S., Jeon, S., Cho, J., Gim, J. A., et al. (2019). Depression and suicide risk prediction models using blood-derived multi-omics data. *Transl Psychiatry*, *9*, 262.
+- Cui, X., Niu, W., Kong, L., He, M., Jiang, K., Chen, S., et al. (2016). hsa_circRNA_103636: potential novel diagnostic and therapeutic biomarker in Major depressive disorder. *Biomark Med*, *10*, 943–52.
+- Hennings, J., Uhr, M., Klengel, T., Weber, P., Pütz, B., Touma, C., et al. (2015). RNA expression profiling in depressed patients suggests retinoid-related orphan receptor alpha as a biomarker for antidepressant response. *Transl Psychiatry*, *5*, e538–e538.
+- Issler, O., van der Zee, Y. Y., Ramakrishnan, A., Xia, S., Zinsmaier, A. K., Tan, C., et al. (2022). The long noncoding RNA FEDORA is a cell type–and sex-specific regulator of depression. *Science Advances*, 8(2), eabn9494.
+- Ju, C., Fiori, L. M., Belzeaux, R., Theroux, J.-F., Chen, G. G., Aouabed, Z., et al. (2019). Integrated genome-wide methylation and expression analyses reveal functional predictors of response to antidepressants. *Transl Psychiatry*, *9*, 254.
+- Shi, Y., Song, R., Wang, Z., Zhang, H., Zhu, J., Yue, Y., et al. (2021). Potential clinical value of circular RNAs as peripheral biomarkers for the diagnosis and treatment of major depressive disorder. *EBioMedicine*, *66*, 103337.
+- Sun, S., Liu, Q., Wang, Z., Huang, Y. Y., Sublette, M. E., Dwork, A. J., et al. (2024). Brain and blood transcriptome profiles delineate common genetic pathways across suicidal ideation and suicide. *Molecular Psychiatry*, 29(5), 1417–1426.
+- Wang, Q., & Dwivedi, Y. (2025). Recent developments in omics studies and artificial intelligence in depression and suicide. *Translational Psychiatry*, 15(1), 1–18. https://doi.org/10.1038/s41398-025-03497-6

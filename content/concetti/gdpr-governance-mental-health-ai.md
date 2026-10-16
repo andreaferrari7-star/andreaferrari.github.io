@@ -2,6 +2,8 @@
 title: GDPR Governance e Protezione Dati nell'IA per la Salute Mentale
 last_updated: 2026-08-27
 tags: [GDPR, AI Act, Salute Mentale, Privacy, Governance]
+tipo_fonte: scientifica
+source_papers: ["ai-v5-e84305.pdf"]
 ---
 
 # GDPR Governance e Protezione Dati nell'IA per la Salute Mentale
@@ -25,20 +27,17 @@ La ricerca evidenzia una tensione strutturale tra la raccolta massiva di dati (s
 
 **Riferimenti Bibliografici:**
 *   D'Alfonso, S., et al. (2025). *Ethics in AI for Mental Health.*
-*   Kandeel, M., et al. (2026). *Privacy challenges in psychiatric AI models.* (ai-v5-e84305.pdf)
+*   Kandeel, M., et al. (2026). *Privacy challenges in psychiatric AI models.*
 *   Rocher, L., et al. (2019). *Estimating the success of re-identification in incomplete datasets.*
 *   Regolamento (UE) 2016/679 (GDPR).
 *   EU AI Act (2024).
 
 ## Relazioni
 
-*   [kandeel-et-al-2026](../sintesi/kandeel-et-al-2026.md)
-*   [federated-learning-and-differential-privacy-mental-health](federated-learning-and-differential-privacy-mental-health.md)
-*   [software-as-a-medical-device-salute-mentale](software-as-a-medical-device-salute-mentale.md)
-*   [three-layer-governance-framework](concetti/concetti\three-layer-governance-framework.md)
-*   [etica-privacy-bias-ia-clinica](etica-privacy-bias-ia-clinica.md)
-*   [algorithmic-paternalism-in-ai-mental-health](concetti/concetti\algorithmic-paternalism-in-ai-mental-health.md)
-*   [cross-cultural-bias-and-fairness-audits-ai](cross-cultural-bias-and-fairness-audits-ai.md)
-
-## Riferimenti Bibliografici
-- [Da integrare]
+*   [[kandeel-et-al-2026]]
+*   [[federated-learning-and-differential-privacy-mental-health]]
+*   [[software-as-a-medical-device-salute-mentale]]
+*   [[three-layer-governance-framework]]
+*   [[etica-privacy-bias-ia-clinica]]
+*   [[algorithmic-paternalism-in-ai-mental-health]]
+*   [[cross-cultural-bias-and-fairness-audits-ai]]

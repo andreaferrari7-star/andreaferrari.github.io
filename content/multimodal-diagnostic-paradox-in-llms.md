@@ -1,5 +1,6 @@
 ---
 tags: [multimodal-llm, vision-language-models, gpt-4v, medical-imaging, diagnostic-accuracy, visual-hallucination, domain-adaptation, feature-extraction, clinical-ai-paradox]
+tipo_fonte: scientifica
 source_papers: ["medinform-v13-e64963.pdf"]
 ---
 
@@ -120,13 +121,16 @@ flowchart TD
 
 ---
 
-## Collegamenti Concettuali
+## Relazioni
 
-*   [medinform-v13-e64963](medinform-v13-e64963.md) — Sintesi sistematica e meta-analisi di Shan et al. (2025).
-*   [diagnostic-accuracy-gap-llm-vs-physicians](concetti/concetti/concetti\diagnostic-accuracy-gap-llm-vs-physicians.md) — Il divario strutturale tra LLM e clinici umani.
-*   [hybrid-neuro-symbolic-cdss](concetti/hybrid-neuro-symbolic-cdss.md) — Sistemi di supporto alle decisioni ibridi che combinano visione, regole e LLM.
-*   [xai-in-pediatric-surgery](xai-in-pediatric-surgery.md) — Spiegabilità e interpretazione di immagini diagnostiche nei sistemi di intelligenza artificiale.
-*   [modello-centauro-clinico](concetti/concetti/concetti\modello-centauro-clinico.md) — Collaborazione e supervisione umana nei compiti diagnostici.
+*   [[medinform-v13-e64963]] — Sintesi sistematica e meta-analisi di Shan et al. (2025).
+*   [[diagnostic-accuracy-gap-llm-vs-physicians]] — Il divario strutturale tra LLM e clinici umani.
+*   [[hybrid-neuro-symbolic-cdss]] — Sistemi di supporto alle decisioni ibridi che combinano visione, regole e LLM.
+*   [[xai-in-pediatric-surgery]] — Spiegabilità e interpretazione di immagini diagnostiche nei sistemi di intelligenza artificiale.
+*   [[modello-centauro-clinico]] — Collaborazione e supervisione umana nei compiti diagnostici.
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Han, T., Adams, L. C., Bressem, K. K., Busch, F., Nebelung, S., & Truhn, D. (2024). Comparative analysis of multimodal large language model performance on clinical vignette questions. *JAMA*, *331*(15), 1320-1321.
+- Horiuchi, D., Tatekawa, H., Oura, T., et al. (2025). ChatGPT’s diagnostic performance based on textual vs. visual information compared to radiologists’ diagnostic performance in musculoskeletal radiology. *Eur Radiol*, *35*(1), 506-516. https://doi.org/10.1007/s00330-024-10902-5
+- Shan, G., Chen, X., Wang, C., Liu, L., Gu, Y., Jiang, H., & Shi, T. (2025). Comparing Diagnostic Accuracy of Clinical Professionals and Large Language Models: Systematic Review and Meta-Analysis. *JMIR Medical Informatics*, 13, e64963. https://doi.org/10.2196/64963
+- Suh, P. S., Shim, W. H., Suh, C. H., et al. (2024). Comparing diagnostic accuracy of radiologists versus GPT-4V and Gemini Pro Vision using image inputs from Diagnosis Please cases. *Radiology*, *312*(1), e240273. https://doi.org/10.1148/radiol.240273

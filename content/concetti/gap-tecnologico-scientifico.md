@@ -1,11 +1,13 @@
 ---
 tags: []
+tipo_fonte: interna
+source_papers: ["06-05 Riunione_ Impiego dell'IA in ambito clinico, bias e formazione.txt", "05-08 Riunione_ Sviluppo Knowledge Base AI, Etica e Applicazioni Cliniche.txt"]
 ---
 
 # Gap Tecnologico-Scientifico e Living Labs in Sanità Digitale
 
 **Summary**: Fenomeno di asincronia e disallineamento sistemico tra la velocità esponenziale di avanzamento delle tecnologie di IA generativa e i tempi pluriennali richiesti dalla validazione empirica formale (trial clinici controllati, certificazioni SaMD, bioetica), con la conseguente necessità di adottare modelli di Living Lab.
-**Sources**: 06-05 Riunione_ Impiego dell'IA in ambito clinico, bias e formazione.txt, 05-08 Riunione_ Sviluppo Knowledge Base AI, Etica e Applicazioni Cliniche.txt
+**Fonti**: [[06-05-riunione-impiego-ia|Riunione 06-05: Impiego dell'IA in Ambito Clinico, Bias e Formazione]], [[05-08-riunione-knowledge-base|Riunione 05-08: Sviluppo Knowledge Base AI, Etica e Applicazioni Cliniche]]
 **Last updated**: 2026-08-27
 ---
 
@@ -38,13 +40,10 @@ Per colmare questo divario senza rinunciare al rigore metodologico ed etico, eme
 
 ---
 
-## Related pages
-- [audit-bias-llm-clinici](concetti/concetti\audit-bias-llm-clinici.md)
-- [architetture-generative-dinamiche](architetture-generative-dinamiche.md)
-- [ai-research-ethics](../ai-research-ethics.md)
-- [augmented-psychotherapy](../augmented-psychotherapy.md)
-- [human-in-the-reasoning](human-in-the-reasoning.md)
-- [06-05_Riunione_Impiego_IA_Clinica_Bias_Formazione](../sintesi/06-05_Riunione_Impiego_IA_Clinica_Bias_Formazione.md)
-
-## Riferimenti Bibliografici
-- [Da integrare]
+## Relazioni
+- [[audit-bias-llm-clinici]]
+- [[architetture-generative-dinamiche]]
+- [[ai-research-ethics]]
+- [[augmented-psychotherapy]]
+- [[human-in-the-reasoning]]
+- [[06-05-riunione-impiego-ia]]

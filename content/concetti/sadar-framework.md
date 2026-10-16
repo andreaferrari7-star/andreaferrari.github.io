@@ -1,11 +1,13 @@
 ---
 tags: []
+tipo_fonte: [scientifica, interna]
+source_papers: ["AI in Psicoterapia 2023-2026.docx"]
 ---
 
 # Framework SADAR (Sistema Autoesplorativo Dialogico Autentico Relazionale)
 
-**Summary**: Framework procedurale e protocollo clinico (Signorini & Paganin, 2026) per l'impiego differito e post-seduta dei Large Language Models in psicoterapia come [Terzo Analitico Digitale](digital-analytic-third.md), strutturato nel "Metodo 3-2-1 post-sessione" per prevenire [deskilling diagnostico](cognitive-offloading-e-diagnostic-deskilling.md), [moral buffering](moral-buffering-e-deskilling-etico.md) e [sycophancy](sycophancy-trap-clinica.md).
-**Sources**: Signorini & Paganin (2026a, *Frontiers in Psychology*, DOI: 10.3389/fpsyg.2026.1690291); Signorini & Paganin (2026b, *Practice Innovations*, DOI: 10.1037/pri0000328); `AI in Psicoterapia 2023-2026.docx`.
+**Summary**: Framework procedurale e protocollo clinico (Signorini & Paganin, 2026) per l'impiego differito e post-seduta dei Large Language Models in psicoterapia come [[digital-analytic-third|Terzo Analitico Digitale]], strutturato nel "Metodo 3-2-1 post-sessione" per prevenire [[cognitive-offloading-e-diagnostic-deskilling|deskilling diagnostico]], [[moral-buffering-e-deskilling-etico|moral buffering]] e [[sycophancy-trap-clinica|sycophancy]].
+**Fonti**: Signorini & Paganin (2026a, *Frontiers in Psychology*, DOI: 10.3389/fpsyg.2026.1690291); Signorini & Paganin (2026b, *Practice Innovations*, DOI: 10.1037/pri0000328); [[ai-in-psicoterapia-2023-2026|AI in Psicoterapia 2023-2026 (rassegna interna)]].
 **Last updated**: 2026-08-27
 ---
 
@@ -17,7 +19,7 @@ A differenza dei software commerciali che propongono l'uso di IA in tempo reale 
 1. **Divieto d'uso in tempo reale**: L'IA non deve mai entrare nella stanza di terapia durante il colloquio con il paziente per non compromettere la presenza incarnata e l'alleanza.
 2. **Divieto di delega decisionale/diagnostica**: L'IA non deve produrre formulazioni finali o referti chiusi, scongiurando l'*automation bias*.
 
-Il SADAR posiziona l'IA esclusivamente in uno spazio **differito e post-seduta**, concependola come un **[Terzo Analitico Digitale](digital-analytic-third.md)** (*Digital Analytic Third*), uno specchio simbolico e dialogico volto a perturbare beneficamente la riflessività del terapeuta.
+Il SADAR posiziona l'IA esclusivamente in uno spazio **differito e post-seduta**, concependola come un **[[digital-analytic-third|Terzo Analitico Digitale]]** (*Digital Analytic Third*), uno specchio simbolico e dialogico volto a perturbare beneficamente la riflessività del terapeuta.
 
 ```mermaid
 flowchart TD
@@ -63,7 +65,7 @@ sequenceDiagram
 
 ### 1. Positioning (Focalizzazione Interna e De-identificazione)
 - Conclusa la seduta, il terapeuta opera in solitudine.
-- **De-identificazione rigorosa**: Rimozione di ogni identificatore diretto o semantico del paziente conforme a [GDPR e EU AI Act](consenso-dinamico-e-governance-dati-ia.md).
+- **De-identificazione rigorosa**: Rimozione di ogni identificatore diretto o semantico del paziente conforme a [[consenso-dinamico-e-governance-dati-ia|GDPR e EU AI Act]].
 - **Focalizzazione del nodo clinico**: Il clinico identifica un'impasse relazionale, una reazione somatica o un vissuto emotivo controtransferale (es. *"Sento un'irritazione insolita verso la richiesta di rassicurazione del paziente: appartiene alla mia storia o a un proiettivo del paziente?"*).
 
 ### 2. Dialogogic Prompting (Assegnazione Simbolica Vincolante)
@@ -82,18 +84,19 @@ Il terapeuta interroga l'LLM imponendo una struttura quantificata e vincolante v
 
 1. **Prevenzione del Cognitive Offloading e Deskilling**: Costringe il terapeuta a un intenso sforzo riflessivo e di formulazione controtransferale prima e durante il prompt.
 2. **Mitigazione della Sycophancy Trap**: L'obbligo di generare 3 ipotesi divergenti impedisce all'LLM di validare passivamente l'ipotesi del clinico.
-3. **Conformità all'EU AI Act (2026) e GDPR Art. 9**: Garantisce *Human-in-the-Loop Oversight*, assenza di cessione di dati a terzi per training commerciale e non-dipendenza da vendor proprietari (*anti vendor lock-in*).
+3. **Conformità all'EU AI Act (Regolamento UE 2024/1689) e GDPR Art. 9**: Garantisce *Human-in-the-Loop Oversight*, assenza di cessione di dati a terzi per training commerciale e non-dipendenza da vendor proprietari (*anti vendor lock-in*).
 
 ---
 
-## Pagine Correlate
-- [digital-analytic-third](digital-analytic-third.md)
-- [ai-in-psicoterapia-2023-2026](../sintesi/ai-in-psicoterapia-2023-2026.md)
-- [cognitive-offloading-e-diagnostic-deskilling](cognitive-offloading-e-diagnostic-deskilling.md)
-- [moral-buffering-e-deskilling-etico](moral-buffering-e-deskilling-etico.md)
-- [sindrome-impostore-ia-specifica](sindrome-impostore-ia-specifica.md)
-- [consenso-dinamico-e-governance-dati-ia](consenso-dinamico-e-governance-dati-ia.md)
-- [supervisione-clinica-ai](supervisione-clinica-ai.md)
+## Relazioni
+- [[digital-analytic-third]]
+- [[ai-in-psicoterapia-2023-2026]]
+- [[cognitive-offloading-e-diagnostic-deskilling]]
+- [[moral-buffering-e-deskilling-etico]]
+- [[sindrome-impostore-ia-specifica]]
+- [[consenso-dinamico-e-governance-dati-ia]]
+- [[supervisione-clinica-ai]]
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Regolamento (UE) 2024/1689 del Parlamento europeo e del Consiglio, del 13 giugno 2024, che stabilisce regole armonizzate sull'intelligenza artificiale (regolamento sull'intelligenza artificiale). (2024). *Gazzetta ufficiale dell'Unione europea*, L 2024/1689. http://data.europa.eu/eli/reg/2024/1689/oj
+- Signorini, S., & Paganin, W. (2026). Artificial intelligence as a digital analytic third: The SADAR framework for reflective supervision in psychotherapy. *Frontiers in Psychology*, *17*, 1690291. https://doi.org/10.3389/fpsyg.2026.1690291

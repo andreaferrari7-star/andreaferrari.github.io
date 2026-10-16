@@ -1,11 +1,13 @@
 ---
 tags: []
+tipo_fonte: scientifica
+source_papers: ["2512.22462v1.pdf"]
 ---
 
 # Educator Burden nei Clienti Marginalizzati e Mediazione dell'IA
 
 **Summary**: Fenomeno relazionale ed emotivo per cui i pazienti appartenenti a minoranze sistemiche (LGBTQ+, disabilità, minoranze culturali) devono impiegare quote significative di tempo e risorse cognitive nella psicoterapia tradizionale per istruire il terapeuta sulla propria identità e cultura; l'IA generativa agisce come riduttore epistemico di questo onere asimmetrico.
-**Sources**: Quan et al. (2025) - `2512.22462v1.pdf`, Sue & Sue (1999), Meyer (2003)
+**Fonti**: Quan et al. (2025), Sue & Sue (1999), Meyer (2003)
 **Last updated**: 2026-08-27
 ---
 
@@ -66,13 +68,15 @@ I sistemi basati su LLM possono svolgere un'azione di **Mediazione Epistemica bi
 - **Trasparenza Epistemica**: Il paziente deve sempre sapere quali informazioni identitarie vengono trasmesse al terapeuta, mantenendo il controllo esclusivo sui confini della propria autorappresentazione.
 
 ---
-## Concetti Correlati
-- [dynamic-boundary-mediation-framework](dynamic-boundary-mediation-framework.md)
-- [boundary-objects-in-psychotherapy](boundary-objects-in-psychotherapy.md)
-- [negotiable-data-visibility-privacy](negotiable-data-visibility-privacy.md)
-- [contextualized-relational-memory](contextualized-relational-memory.md)
-- [ai-mental-health-vulnerable-populations](ai-mental-health-vulnerable-populations.md)
-- [weird-bias-cultural-adaptability-ai](weird-bias-cultural-adaptability-ai.md)
+## Relazioni
+- [[dynamic-boundary-mediation-framework]]
+- [[boundary-objects-in-psychotherapy]]
+- [[negotiable-data-visibility-privacy]]
+- [[contextualized-relational-memory]]
+- [[ai-mental-health-vulnerable-populations]]
+- [[weird-bias-cultural-adaptability-ai]]
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Meyer, I. H. (2003). Prejudice, social stress, and mental health in lesbian, gay, and bisexual populations: Conceptual issues and research evidence. *Psychological Bulletin*, 129(5), 674–697.
+- Quan, J., Li, Z., Zhu, T. Q., Li, Y., Wang, B., Pratt, W., & Gao, N. (2025). Relational Mediators: LLM Chatbots as Boundary Objects in Psychotherapy. *arXiv preprint arXiv:2512.22462v1 [cs.HC]*, 1–35. https://doi.org/10.48550/arXiv.2512.22462
+- Sue, D. W., & Sue, D. (1999). Counseling the culturally different: theory and practice (3rd ed.). Wiley.

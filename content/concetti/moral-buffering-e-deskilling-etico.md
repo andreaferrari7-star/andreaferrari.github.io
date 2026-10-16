@@ -1,11 +1,13 @@
 ---
 tags: []
+tipo_fonte: [scientifica, interna]
+source_papers: ["AI in Psicoterapia 2023-2026.docx"]
 ---
 
 # Moral Buffering, Gap di Attribuibilità e Moral Deskilling
 
 **Summary**: Fenomeno psicologico e deontologico in cui l'interposizione dell'Intelligenza Artificiale funge da "cuscinetto morale" tra il terapeuta e le decisioni cliniche, creando un gap di attribuibilità (*attributability gap*), un bacino di dispersione della colpa (*liability sink*) e la conseguente atrofia del giudizio etico (*moral deskilling*).
-**Sources**: Signorini & Paganin (2026, *Frontiers in Psychology*, DOI: 10.3389/fpsyg.2026.1690291); APA (2025); GPA (2026); `AI in Psicoterapia 2023-2026.docx`.
+**Fonti**: Signorini & Paganin (2026, *Frontiers in Psychology*, DOI: 10.3389/fpsyg.2026.1690291); APA (2025); GPA (2026); [[ai-in-psicoterapia-2023-2026|AI in Psicoterapia 2023-2026 (rassegna interna)]].
 **Last updated**: 2026-08-27
 ---
 
@@ -38,7 +40,7 @@ flowchart TD
 - Psicologicamente, il professionista è tentato di attribuire l'errore al "malfunzionamento del software" o a dati di training incompleti, scindendo l'azione dalla propria colpa.
 
 ### 2. Dispersione della Responsabilità (*Liability Sink*)
-- Nonostante le normative vigenti (APA 2025, BPS 2026, [EU AI Act 2024/1689](consenso-dinamico-e-governance-dati-ia.md)) stabiliscano in modo non derogabile che la **responsabilità giuridica e morale ricade esclusivamente sul clinico umano**, a livello inconscio l'infrastruttura tecnologica opera come un bacino di assorbimento della responsabilità (*liability sink*).
+- Nonostante le normative vigenti (APA 2025, BPS 2026, [[consenso-dinamico-e-governance-dati-ia|EU AI Act 2024/1689]]) stabiliscano in modo non derogabile che la **responsabilità giuridica e morale ricade esclusivamente sul clinico umano**, a livello inconscio l'infrastruttura tecnologica opera come un bacino di assorbimento della responsabilità (*liability sink*).
 - Il terapeuta rischia di degradarsi a mero esecutore burocratico o validatore passivo di procedure algoritmiche.
 
 ### 3. Moral Deskilling (Atrofia del Ragionamento Morale)
@@ -53,17 +55,19 @@ flowchart TD
 | :--- | :--- | :--- |
 | **Istituzionale Globale** | *Human-in-the-Loop Oversight* e non delegabilità della cura | GPA Top 10 Principles (2026); APA Ethical Guidance (2025) |
 | **Normativo Europeo** | Responsabilità legale esclusiva del "deployer" umano; Audit del rischio clinico | Regolamento UE 2024/1689 (EU AI Act - High Risk) |
-| **Procedurale Operativo** | Obbligo di validazione critica differita e confronto in supervisione umana | [Framework SADAR (Signorini & Paganin, 2026)](sadar-framework.md) |
+| **Procedurale Operativo** | Obbligo di validazione critica differita e confronto in supervisione umana | [[sadar-framework\|Framework SADAR (Signorini & Paganin, 2026)]] |
 
 ---
 
-## Pagine Correlate
-- [cognitive-offloading-e-diagnostic-deskilling](cognitive-offloading-e-diagnostic-deskilling.md)
-- [sadar-framework](sadar-framework.md)
-- [digital-analytic-third](digital-analytic-third.md)
-- [consenso-dinamico-e-governance-dati-ia](consenso-dinamico-e-governance-dati-ia.md)
-- [ai-in-psicoterapia-2023-2026](../sintesi/ai-in-psicoterapia-2023-2026.md)
-- [sindrome-impostore-ia-specifica](sindrome-impostore-ia-specifica.md)
+## Relazioni
+- [[cognitive-offloading-e-diagnostic-deskilling]]
+- [[sadar-framework]]
+- [[digital-analytic-third]]
+- [[consenso-dinamico-e-governance-dati-ia]]
+- [[ai-in-psicoterapia-2023-2026]]
+- [[sindrome-impostore-ia-specifica]]
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- American Psychological Association. (2025). *Ethical guidance for AI in the professional practice of health service psychology*. https://www.apa.org/topics/artificial-intelligence-machine-learning/ethical-guidance-ai-professional-practice
+- Global Psychology Alliance. (2026). *Top 10 principles for understanding artificial intelligence in psychology*. American Psychological Association. https://www.apa.org/international/networks/global-psychology-alliance/principles-understanding-artificial-intelligence
+- Signorini, S., & Paganin, W. (2026). Artificial intelligence as a digital analytic third: The SADAR framework for reflective supervision in psychotherapy. *Frontiers in Psychology*, *17*, 1690291. https://doi.org/10.3389/fpsyg.2026.1690291

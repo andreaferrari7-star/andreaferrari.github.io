@@ -1,11 +1,13 @@
 ---
 tags: []
+tipo_fonte: evento
+source_papers: ["06-10 Lezione_ RAG, LLM in Psicoterapia e Governance Etica.txt"]
 ---
 
 # Limiti Strutturali dell'IA nella Gestione del Rischio Suicidario e delle Crisi Acute
 
 **Summary**: Analisi dei limiti tecnici, etici e clinici dei modelli linguistici (LLM) e dei chatbot sanitari nella rilevazione dell'ideazione suicidaria, nella gestione delle emergenze psichiatriche e nella prevenzione di danni iatrogeni.
-**Sources**: `06-10 Lezione_ RAG, LLM in Psicoterapia e Governance Etica.txt`
+**Fonti**: [[06-10-lezione-rag-llm|Lezione e Seminario: RAG, LLM in Psicoterapia, Supervisione e Governance Etica (10 Giugno 2026)]]
 **Last updated**: 2026-08-27
 ---
 
@@ -41,11 +43,8 @@ graph TD
 
 ---
 
-## Pagine Correlate
-- [uso-problematico-chatbot-ai](uso-problematico-chatbot-ai.md)
-- [supervisione-clinica-ai](supervisione-clinica-ai.md)
-- [modello-centauro-clinico](concetti/concetti\modello-centauro-clinico.md)
-- [ai-research-ethics](../ai-research-ethics.md)
-
-## Riferimenti Bibliografici
-- [Da integrare]
+## Relazioni
+- [[uso-problematico-chatbot-ai]]
+- [[supervisione-clinica-ai]]
+- [[modello-centauro-clinico]]
+- [[ai-research-ethics]]

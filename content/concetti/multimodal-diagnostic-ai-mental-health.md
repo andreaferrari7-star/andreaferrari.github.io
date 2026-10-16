@@ -1,11 +1,13 @@
 ---
 tags: []
+tipo_fonte: scientifica
+source_papers: ["ai-v5-e84305.pdf"]
 ---
 
 # Sistemi Diagnostici Multimodali e Ibridi nell'IA Psichiatrica
 
 **Summary**: Paradigma diagnostico e predittivo che integra molteplici flussi di dati eterogenei (elaborazione del linguaggio naturale da social/testi, segnali fisiologici e attigrafici da sensori indossabili, neuroimaging fMRI/EEG e cartelle cliniche elettroniche) per superare i limiti delle singole modalità e migliorare l'accuratezza nella prevenzione delle ricadute e del rischio suicidario.
-**Sources**: Kandeel et al. (2026) - `ai-v5-e84305.pdf`, Tseng et al. (2023), Zeng et al. (2018), Jacobson et al. (2020)
+**Fonti**: Kandeel et al. (2026), Tseng et al. (2023), Zeng et al. (2018), Jacobson et al. (2020)
 **Last updated**: 2026-08-27
 ---
 
@@ -70,14 +72,20 @@ Sebbene i modelli multimodali raggiungano le prestazioni più elevate ($\text{AU
 
 ---
 
-## Related pages
-- [kandeel-et-al-2026](../sintesi/kandeel-et-al-2026.md)
-- [explainable-mental-disorder-diagnosis](explainable-mental-disorder-diagnosis.md)
-- [federated-learning-and-differential-privacy-mental-health](federated-learning-and-differential-privacy-mental-health.md)
-- [gdpr-governance-mental-health-ai](concetti/concetti\gdpr-governance-mental-health-ai.md)
-- [software-as-a-medical-device-salute-mentale](software-as-a-medical-device-salute-mentale.md)
-- [ai-clinical-decision-support](ai-clinical-decision-support.md)
-- [treatment-outcome-and-relapse-prediction](treatment-outcome-and-relapse-prediction.md)
+## Relazioni
+- [[kandeel-et-al-2026]]
+- [[explainable-mental-disorder-diagnosis]]
+- [[federated-learning-and-differential-privacy-mental-health]]
+- [[gdpr-governance-mental-health-ai]]
+- [[software-as-a-medical-device-salute-mentale]]
+- [[ai-clinical-decision-support]]
+- [[treatment-outcome-and-relapse-prediction]]
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Coppersmith, G., Leary, R., Crutchley, P., & Fine, A. (2018). Natural language processing of social media as screening for suicide risk. *Biomedical Informatics Insights*, 10, 1178222618792860.
+- De Choudhury, M., Gamon, M., Counts, S., & Horvitz, E. (2013). Predicting depression via social media. *ICWSM*, *7*(1), 128-137. https://doi.org/10.1609/icwsm.v7i1.14432
+- Gkotsis, G., Oellrich, A., Velupillai, S., et al. (2017). Characterisation of mental health conditions in social media using Informed Deep Learning. *Scientific Reports*, 7(1), 45141.
+- Jacobson, N. C., Bentley, K. H., Walton, A., et al. (2020). Ethical dilemmas posed by mobile health and machine learning in psychiatry research. *Bulletin of the World Health Organization*, 98(4), 270–276.
+- Kandeel, M. E., Abo Hamza, E. G., Abouahmed, A., AbdelAziz, G. M., Hashish, A., Abo El Wafa, T., Khalil, A., & Eldakak, A. (2026). AI applications integrating legal and regulatory perspectives in mental health: Systematic review. *JMIR AI*, *5*, e84305. https://doi.org/10.2196/84305
+- Tseng, H. W., Chou, F. H., Chen, C. H., & Chang, Y. P. (2023). Effects of mindfulness-based cognitive therapy on major depressive disorder with multiple episodes: a systematic review and meta-analysis. *IJERPH*, 20(2), 1555.
+- Zeng, L. L., Wang, H., Hu, P., et al. (2018). Multi-site diagnostic classification of schizophrenia using discriminant deep learning with functional connectivity MRI. *EBioMedicine*, 30, 74–85.

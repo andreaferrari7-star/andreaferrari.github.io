@@ -1,5 +1,6 @@
 ---
 tags: [coast-framework, clinical-prompting, prompt-engineering, scaffolding-cognitivo, subjectivity-assessment, contrastive-reasoning, schema-analysis, in-context-learning, few-shot-prompting, clinical-nlp, cbt-prompting]
+tipo_fonte: scientifica
 source_papers: ["Clinical_AI_Blueprint.pdf"]
 ---
 
@@ -7,7 +8,7 @@ source_papers: ["Clinical_AI_Blueprint.pdf"]
 
 ## Definizione Operativa
 
-Il **Framework COAST** è una metodologia strutturata di prompt engineering clinico progettata per proceduralizzare le richieste rivolte ai [large-language-models](../large-language-models.md) (LLM) in contesti psicoterapeutici e di salute mentale, trasformando istruzioni vaghe in una rigida **impalcatura cognitiva (*cognitive scaffolding*)**.
+Il **Framework COAST** è una metodologia strutturata di prompt engineering clinico progettata per proceduralizzare le richieste rivolte ai [[large-language-models]] (LLM) in contesti psicoterapeutici e di salute mentale, trasformando istruzioni vaghe in una rigida **impalcatura cognitiva (*cognitive scaffolding*)**.
 
 ### La Struttura Pentapartita COAST
 1. **C - Context (Contesto):** Definizione del setting clinico, dell'orientamento teorico (es. CBT standard, ACT, terapia metacognitiva) e delle coordinate epidemiologico-anamnestiche.
@@ -68,14 +69,10 @@ flowchart LR
 ```
 
 **Riferimenti Bibliografici:**
-- *L'Intelligenza Artificiale Generativa in Psicoterapia: Dalla Scatola Nera alla Pratica Clinica Sicura* (`Clinical_AI_Blueprint.pdf`).
+- *L'Intelligenza Artificiale Generativa in Psicoterapia: Dalla Scatola Nera alla Pratica Clinica Sicura* (cfr. [[clinical-ai-blueprint]]).
 - Beck, J. S. (2020). *Cognitive Behavior Therapy: Basics and Beyond* (3rd ed.). Guilford Press.
-- Bousquet, J., et al. (2024). Multi-agent exploratory thinking and demographic swapping for mitigating algorithmic diagnostic bias. *Journal of Medical Artificial Intelligence*.
 - Wu, K., et al. (2025). The Avalanche Effect: How Chain-of-Thought Reasoning Degrades Performance on Unstructured Real-World Clinical Records. *Nature Digital Medicine*.
 
 ## Relazioni
-- Scheda sintesi collegata: [clinical-ai-blueprint](../clinical-ai-blueprint.md)
-- Concetti correlati: [mind-safe-framework](mind-safe-framework.md), [patient-psi-simulazione-clinica](patient-psi-simulazione-clinica.md), [chart-reporting-guideline](../chart-reporting-guideline.md), [cbt-dialogue-systems-and-tools](concetti/concetti\cbt-dialogue-systems-and-tools.md), [llm-case-conceptualization-pipeline](concetti/concetti\llm-case-conceptualization-pipeline.md), [stepwise-cot](../stepwise-cot.md), [audit-bias-llm-clinici](concetti/concetti\audit-bias-llm-clinici.md), [deliberate-practice-in-psicoterapia-ia](deliberate-practice-in-psicoterapia-ia.md).
-
-## Riferimenti Bibliografici
-- [Da integrare]
+- Scheda sintesi collegata: [[clinical-ai-blueprint]]
+- Concetti correlati: [[mind-safe-framework]], [[patient-psi-simulazione-clinica]], [[chart-reporting-guideline]], [[cbt-dialogue-systems-and-tools]], [[llm-case-conceptualization-pipeline]], [[stepwise-cot]], [[audit-bias-llm-clinici]], [[deliberate-practice-in-psicoterapia-ia]].

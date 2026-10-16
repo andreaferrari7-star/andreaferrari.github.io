@@ -1,17 +1,19 @@
 ---
 tags: []
+tipo_fonte: scientifica
+source_papers: ["2508.11398v2.pdf", "10.1177_00469580261438322.pdf"]
 ---
 
 # Explainable Mental Disorder Diagnosis (Diagnosi Psichiatrica Esplicabile)
 
 **Summary**: Approccio metodologico e architetturale nell'Intelligenza Artificiale clinica volto a rendere trasparenti, tracciabili e verificabili le diagnosi di disturbi mentali generate da LLM, mediante tagging semantico delle evidenze, citazioni verbatim del paziente e ancoraggio deduttivo ai criteri diagnostici standardizzati (DSM-5).
-**Sources**: `2508.11398v2.pdf` (Ozgun et al., CIKM 2025), `10.1177_00469580261438322.pdf` (Erdemir & Sumbas, 2026)
+**Fonti**: (Ozgun et al., CIKM 2025), (Erdemir & Sumbas, 2026)
 **Last updated**: 2026-08-27
 ---
 
 ## Il Problema dell'Opacità Diagnostica (Black-Box AI)
 
-Nella pratica clinica psichiatrica e psicoterapeutica, l'adozione di strumenti di screening o di supporto decisionale automatizzati ([ai-clinical-decision-support](ai-clinical-decision-support.md)) è ostacolata dall'opacità dei modelli probabilistici:
+Nella pratica clinica psichiatrica e psicoterapeutica, l'adozione di strumenti di screening o di supporto decisionale automatizzati ([[ai-clinical-decision-support]]) è ostacolata dall'opacità dei modelli probabilistici:
 - **Erosione della Fiducia Epistemica**: Quando un paziente o un terapeuta riceve un'etichetta diagnostica o un punteggio sintetico senza una spiegazione chiara del *perché* e del *come* sia stata raggiunta tale conclusione, la tendenza ad aderire alle raccomandazioni crolla.
 - **Difficoltà di Audit Clinico**: Nelle équipe multidisciplinari di salute mentale, i clinici necessitano di ispezionare le singole risposte e il loro peso relativo rispetto ai criteri nosografici ufficiali per validare o contestare una formulazione diagnostica.
 - **Limiti delle Spiegazioni Post-Hoc**: Mappe di attenzione (*attention heatmaps*) o gradienti statistici non offrono spiegazioni clinicamente interpretabili e rischiano di non essere fedeli al reale processo generativo del modello.
@@ -20,7 +22,7 @@ Nella pratica clinica psichiatrica e psicoterapeutica, l'adozione di strumenti d
 
 ## I Tre Pilastri dell'Esplicabilità Diagnostica (Ozgun et al., 2025)
 
-Nel framework [dsm5agentflow](dsm5agentflow.md), Ozgun e colleghi definiscono tre segnali operativi essenziali per garantire la trasparenza e l'auditabilità clinica:
+Nel framework [[dsm5agentflow]], Ozgun e colleghi definiscono tre segnali operativi essenziali per garantire la trasparenza e l'auditabilità clinica:
 
 ```mermaid
 graph TD
@@ -76,14 +78,15 @@ L'analisi sperimentale su 8.000 casi clinici evidenzia che:
 
 ---
 
-## Pagine Correlate
-- [dsm5agentflow](dsm5agentflow.md): Architettura del workflow multi-agente per lo screening clinico.
-- [ozgun-et-al-2025](../sintesi/ozgun-et-al-2025.md): Sintesi della ricerca empirica su CIKM 2025.
-- [trade-off-conversazione-ragionamento-llm](trade-off-conversazione-ragionamento-llm.md): Divergenza tra capacità di dialogo naturale e accuratezza inferenziale.
-- [synthetic-clinical-dialogues](synthetic-clinical-dialogues.md): Generazione di dialoghi clinici sintetici per il benchmarking XAI.
-- [rag-in-psicoterapia](rag-in-psicoterapia.md): Ancoraggio delle risposte generative ai manuali clinici.
-- [ai-clinical-decision-support](ai-clinical-decision-support.md): Sistemi di supporto alle decisioni cliniche e triage.
-- [human-in-the-reasoning](human-in-the-reasoning.md): Supervisione e co-ragionamento tra clinico umano e IA.
+## Relazioni
+- [[dsm5agentflow]]: Architettura del workflow multi-agente per lo screening clinico.
+- [[ozgun-et-al-2025]]: Sintesi della ricerca empirica su CIKM 2025.
+- [[trade-off-conversazione-ragionamento-llm]]: Divergenza tra capacità di dialogo naturale e accuratezza inferenziale.
+- [[synthetic-clinical-dialogues]]: Generazione di dialoghi clinici sintetici per il benchmarking XAI.
+- [[rag-in-psicoterapia]]: Ancoraggio delle risposte generative ai manuali clinici.
+- [[ai-clinical-decision-support]]: Sistemi di supporto alle decisioni cliniche e triage.
+- [[human-in-the-reasoning]]: Supervisione e co-ragionamento tra clinico umano e IA.
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Erdemir, N., & Sumbas, E. (2026). Integrating Artificial Intelligence into Psychological Counseling: A Narrative Review and Governance Framework. *INQUIRY: The Journal of Health Care Organization, Provision, and Financing*, 63, 1–16. https://doi.org/10.1177/00469580261438322
+- Ozgun, M. C., Pei, J., Hindriks, K., Donatelli, L., Liu, Q., & Wang, J. (2025). Trustworthy AI Psychotherapy: Multi-Agent LLM Workflow for Counseling and Explainable Mental Disorder Diagnosis. In *Proceedings of the 34th ACM International Conference on Information and Knowledge Management (CIKM ’25)*, November 10–14, 2025, Seoul, Republic of Korea. ACM, New York, NY, USA, 10 pages. https://doi.org/10.1145/3746252.3761164 / arXiv:2508.11398v2 [cs.HC]

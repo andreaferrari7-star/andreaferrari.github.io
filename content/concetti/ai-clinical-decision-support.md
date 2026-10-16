@@ -1,5 +1,6 @@
 ---
 tags: [clinical-decision-support, triage, diagnostic-accuracy, llm, medical-ai, human-in-the-loop, risk-assessment]
+tipo_fonte: scientifica
 source_papers: ["1-s2.0-S1386505625004216-main.pdf"]
 title: "AI in Clinical Decision Support and Diagnostic Triage"
 ---
@@ -69,10 +70,10 @@ Dall'umbrella review di Huynh et al. (2026) emerge una marcata disparità di acc
 ---
 
 ## Relazioni
-- [huynh-et-al-2026](../sintesi/huynh-et-al-2026.md)
-- [healthcare-conversational-agents](concetti/concetti\healthcare-conversational-agents.md)
-- [human-in-the-reasoning](human-in-the-reasoning.md)
-- [digital-therapeutic-alliance](../digital-therapeutic-alliance.md)
-- [ai-research-ethics](../ai-research-ethics.md)
-- [clinical-fidelity-assessment](../clinical-fidelity-assessment.md)
+- [[huynh-et-al-2026]]
+- [[healthcare-conversational-agents]]
+- [[human-in-the-reasoning]]
+- [[digital-therapeutic-alliance]]
+- [[ai-research-ethics]]
+- [[clinical-fidelity-assessment]]
 

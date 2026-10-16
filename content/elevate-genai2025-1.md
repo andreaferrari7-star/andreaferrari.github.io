@@ -1,5 +1,6 @@
 ---
 tags: [LLM, Guidelines, HEOR, ELEVATE-GenAI, Health Economics]
+tipo_fonte: scientifica
 source_papers: ["ELEVATE-GenAI: Reporting Guidelines for the Use of Large Language Models in Health Economics and Outcomes Research: An ISPOR Working Group Report"]
 ---
 
@@ -15,5 +16,5 @@ source_papers: ["ELEVATE-GenAI: Reporting Guidelines for the Use of Large Langua
 - Fleurence, R. L., Dawoud, D., Bian, J., Higashi, M. K., Wang, X., Xu, H., Chhatwal, J., & Ayer, T. (2025). ELEVATE-GenAI: Reporting Guidelines for the Use of Large Language Models in Health Economics and Outcomes Research: An ISPOR Working Group Report. *Value in Health*, 28(11), 1611–1625. https://doi.org/10.1016/j.jval.2025.06.018
 
 ## Relazioni
-- Vedi anche: [PRISMA-AI](concetti/prisma-ai.md), [TRIPOD-LLM](concetti/TRIPOD-LLM.md), [TRIPOD+AI2024](tripod-ai2024.md), [chart-reporting-guideline](chart-reporting-guideline.md)
+- Vedi anche: [[linee-guida-prisma|PRISMA-AI]], [[tripod-llm2025|TRIPOD-LLM]], [[tripod-ai2024|TRIPOD+AI2024]], [[chart-reporting-guideline]]
 

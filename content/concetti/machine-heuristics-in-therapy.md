@@ -1,12 +1,13 @@
 ---
 tags: [machine-heuristics, expert-heuristics, credibilita, decision-making, bias, stereotipi-tecnologici, psicoterapia-ia]
+tipo_fonte: scientifica
 source_papers: ["2509.02144v1.pdf"]
 ---
 
 # Machine Heuristics (Euristiche della Macchina) in Psicoterapia
 
 **Summary**: Disamina del ruolo delle *Machine Heuristics* nei contesti clinici e psicoterapeutici assistiti da IA. Concettualizzate da Sundar (2008) e Yang & Sundar (2024) e applicate alla salute mentale da Herbener & Damholdt (2025), descrivono le scorciatoie cognitive attraverso cui le persone valutano le tecnologie basandosi su credenze a priori circa la natura computazionale dei computer.
-**Sources**: Herbener & Damholdt (2025) - `2509.02144v1.pdf`
+**Fonti**: Herbener & Damholdt (2025)
 **Last updated**: 2026-08-27
 ---
 
@@ -49,7 +50,7 @@ Nel setting clinico, l'interazione con un terapeuta umano attiva le **Expert Heu
 
 Quando un agente artificiale utilizza espressioni tipiche del gergo psicoterapeutico o tenta di impersonare un clinico:
 - L'utente sperimenta una **dissonanza cognitiva**: i segnali di perizia verbale confliggono con l'attivazione della *machine heuristic*.
-- La consapevolezza che l'interlocutore è un algoritmo riduce la propensione ad affidargli la guida di processi emotivi complessi, contribuendo direttamente all'insorgenza del **[Credibility Gap](concetti/concetti\credibility-gap.md)**.
+- La consapevolezza che l'interlocutore è un algoritmo riduce la propensione ad affidargli la guida di processi emotivi complessi, contribuendo direttamente all'insorgenza del **[[credibility-gap]]**.
 
 ---
 
@@ -72,11 +73,13 @@ Herbener & Damholdt (2025) sottolineano un dilemma progettuale:
 ---
 
 ## Relazioni
-- [herbener-damholdt-2025](../sintesi/herbener-damholdt-2025.md)
-- [credibility-gap](concetti/concetti\credibility-gap.md)
-- [ontological-and-sociocultural-status](ontological-and-sociocultural-status.md)
-- [anthropomorphism-in-ai](../anthropomorphism-in-ai.md)
-- [blended-care-ai-framework](blended-care-ai-framework.md)
+- [[herbener-damholdt-2025]]
+- [[credibility-gap]]
+- [[ontological-and-sociocultural-status]]
+- [[anthropomorphism-in-ai]]
+- [[blended-care-ai-framework]]
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Herbener, A. B., & Damholdt, M. F. (2025). A Theoretical Framework of the Processes of Change in Psychotherapy Delivered by Artificial Agents. *arXiv preprint arXiv:2509.02144v1 [cs.HC]*, 1–16. https://doi.org/10.48550/arXiv.2509.02144
+- Sundar, S. S. (2008). The MAIN Model: A Heuristic Approach to Understanding Technology Effects on Credibility.
+- Yang, H., & Sundar, S. S. (2024). Machine heuristic: concept explication and development of a measurement scale. *Journal of Computer-Mediated Communication*, 29(6).

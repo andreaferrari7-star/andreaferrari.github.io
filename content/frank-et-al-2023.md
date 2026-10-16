@@ -1,5 +1,6 @@
 ---
 tags: [scoping-review, wearables, smartphones, digital-phenotyping, ocd, ema]
+tipo_fonte: scientifica
 source_papers: ["mental-2023-1-e45572.pdf"]
 ---
 
@@ -17,5 +18,5 @@ source_papers: ["mental-2023-1-e45572.pdf"]
 - Frank, A. C., Li, R., Peterson, B. S., & Narayanan, S. S. (2023). Wearable and Mobile Technologies for the Evaluation and Treatment of Obsessive-Compulsive Disorder: Scoping Review. *JMIR Mental Health*, 10, e45572. https://doi.org/10.2196/45572
 
 ## Relazioni
-- Vedi anche: [digital-phenotyping-ocd](concetti/digital-phenotyping-ocd.md), [wearable-biosensors-ocd](concetti/wearable-biosensors-ocd.md)
+- Vedi anche: [[digital-phenotyping-ocd]], [[wearable-biosensors-ocd]]
 

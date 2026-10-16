@@ -1,5 +1,6 @@
 ---
 tags: [sense-plan-act, stage-controller, architettura-multi-agente, simulazione-clinica, dialogue-management, llm-psicoterapia]
+tipo_fonte: scientifica
 source_papers: ["2601.10970v2.pdf"]
 ---
 
@@ -51,7 +52,4 @@ flowchart TD
 - Young, S., Gasic, M., Thomson, B., & Williams, J. D. (2013). POMDP-based Statistical Spoken Dialogue Systems: A Review. *Proceedings of the IEEE*, 101(5), 1160–1179.
 
 ## Relazioni
-- Vedi anche: [wang-chen-et-al-2026](../sintesi/wang-chen-et-al-2026.md), [stage-structured-dialogue-control](stage-structured-dialogue-control.md), [multi-party-interaction-simulation](multi-party-interaction-simulation.md), [demand-withdraw-multi-agent-dynamics](demand-withdraw-multi-agent-dynamics.md), [clinical-fidelity-assessment](../clinical-fidelity-assessment.md), [simulazione-pazienti-ai](simulazione-pazienti-ai.md)
-
-## Riferimenti Bibliografici
-- [Da integrare]
+- Vedi anche: [[wang-chen-et-al-2026]], [[stage-structured-dialogue-control]], [[multi-party-interaction-simulation]], [[demand-withdraw-multi-agent-dynamics]], [[clinical-fidelity-assessment]], [[simulazione-pazienti-ai]]

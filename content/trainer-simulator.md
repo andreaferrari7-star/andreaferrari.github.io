@@ -1,11 +1,13 @@
 ---
 tags: []
+tipo_fonte: interna
+source_papers: ["07-10 Riunione_ Test e Valutazione di “Libet Prime” (Tutor AI per Libet_CBT), Trainer Simulator e Piano Operativo.txt"]
 ---
 
 # Trainer Simulator
 
 **Summary**: Simulatore conversazionale basato su LLM (Interview Trainer) per l'addestramento pratico di psicoterapeuti in formazione, dotato di una libreria di pazienti virtuali su tre livelli di difficoltà, comandi di controllo del setting e rubrica di valutazione analitica delle competenze.
-**Sources**: [07-10 Riunione_ Test e Valutazione di “Libet Prime” (Tutor AI per Libet_CBT), Trainer Simulator e Piano Operativo.txt](file:///07-10%20Riunione_%20Test%20e%20Valutazione%20di%20%E2%80%9CLibet%20Prime%E2%80%9D%20(Tutor%20AI%20per%20Libet_CBT),%20Trainer%20Simulator%20e%20Piano%20Operativo.txt)
+**Fonti**: [[07-10-riunione-test-libet-prime|Riunione 07-10: Test e Valutazione di Libet Prime, Trainer Simulator e Piano Operativo]]
 **Last updated**: 2026-08-27
 
 ---
@@ -14,7 +16,7 @@ tags: []
 
 Il **Trainer Simulator** (o *Interview Trainer*, v0.2) è un agente conversazionale specializzato sviluppato per le scuole di psicoterapia cognitivo-comportamentale (*Studi Cognitivi* / SC Formazione).
 
-A differenza di [libet-prime](concetti/concetti/concetti\libet-prime.md), il cui scopo è il tutoraggio teorico e l'analisi maieutica di vignette cliniche, il Trainer Simulator è concepito come **ambiente esperienziale protetto** in cui l'allievo specializzando conduce simulazioni interattive di colloqui clinici direttamente con pazienti sintetici.
+A differenza di [[libet-prime]], il cui scopo è il tutoraggio teorico e l'analisi maieutica di vignette cliniche, il Trainer Simulator è concepito come **ambiente esperienziale protetto** in cui l'allievo specializzando conduce simulazioni interattive di colloqui clinici direttamente con pazienti sintetici.
 
 ---
 
@@ -66,14 +68,11 @@ Il Trainer Simulator risponde all'esigenza formativa di offrire agli allievi dei
 
 ---
 
-## Related pages
-- [libet-prime](concetti/concetti/concetti\libet-prime.md)
-- [07-10_Riunione_Test_Libet_Prime](07-10_Riunione_Test_Libet_Prime.md)
-- [simulazione-pazienti-ai](simulazione-pazienti-ai.md)
-- [clinical-ai-simulation](clinical-ai-simulation.md)
-- [human-in-the-reasoning](human-in-the-reasoning.md)
-- [clinical-fidelity-assessment](clinical-fidelity-assessment.md)
-- [ai-assisted-psychotherapy](ai-assisted-psychotherapy.md)
-
-## Riferimenti Bibliografici
-- [Da integrare]
+## Relazioni
+- [[libet-prime]]
+- [[07-10-riunione-test-libet-prime]]
+- [[simulazione-pazienti-ai]]
+- [[clinical-ai-simulation]]
+- [[human-in-the-reasoning]]
+- [[clinical-fidelity-assessment]]
+- [[ai-assisted-psychotherapy]]

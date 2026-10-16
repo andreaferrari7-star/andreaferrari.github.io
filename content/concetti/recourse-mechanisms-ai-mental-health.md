@@ -1,11 +1,13 @@
 ---
 tags: []
+tipo_fonte: scientifica
+source_papers: ["2512.16206v2.pdf"]
 ---
 
 # Mechanisms for Recourse in AI Mental Health (Meccanismi di Ricorso e Reclamo)
 
 **Summary**: Framework di governance e tutela dell'agency derivato dalle procedure di appello e diritto di reclamo (*right to complain*) dell'autorizzazione delle cure sanitarie: istituisce canali formali e audit umani indipendenti per investigare interazioni avverse, allucinazioni o risposte iatrogene dei chatbot, restituendo all'utente spiegazioni causali (*debriefing*) e significato trasformativo.
-**Sources**: Pendse et al. (2026) - `2512.16206v2.pdf`; Jost (2011); Furniss & Ormond-Walshe (2007); Frizelle (2024); Adler (2025).
+**Fonti**: Pendse et al. (2026); Jost (2011); Furniss & Ormond-Walshe (2007); Frizelle (2024); Adler (2025).
 **Last updated**: 2026-08-27
 ---
 
@@ -53,15 +55,21 @@ Pendse et al. (2026) propongono di mutuare il modello da iniziative indipendenti
 
 ---
 
-## Pagine Correlate
-- [reflective-interpretability](reflective-interpretability.md)
-- [pendse-et-al-2026](../sintesi/pendse-et-al-2026.md)
-- [role-induction-ai-mental-health](role-induction-ai-mental-health.md)
-- [prosocial-advance-directives](prosocial-advance-directives.md)
-- [intervention-titration-ai](intervention-titration-ai.md)
-- [psychological-distress-interaction-patterns](psychological-distress-interaction-patterns.md)
-- [evidence-adoption-gap-ai-mental-health](evidence-adoption-gap-ai-mental-health.md)
-- [etica-privacy-bias-ia-clinica](etica-privacy-bias-ia-clinica.md)
+## Relazioni
+- [[reflective-interpretability]]
+- [[pendse-et-al-2026]]
+- [[role-induction-ai-mental-health]]
+- [[prosocial-advance-directives]]
+- [[intervention-titration-ai]]
+- [[psychological-distress-interaction-patterns]]
+- [[evidence-adoption-gap-ai-mental-health]]
+- [[etica-privacy-bias-ia-clinica]]
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Adler, S. (2025). Practical tips for reducing chatbot psychosis. Clear-Eyed AI (Substack).
+- Frizelle, F. (2024). Review of the health and disability commissioner act and code-your chance to have your say. *The New Zealand Medical Journal (Online)*, *137*(1599), 13–15.
+- Furniss, R., & Ormond-Walshe, S. (2007). An alternative to the clinical negligence system. *BMJ*, *334*(7590), 400–402.
+- Hill, K. (2025, 13 giugno). They asked an A.I. chatbot questions. The answers sent them spiraling. *The New York Times*. https://www.nytimes.com/2025/06/13/technology/chatgpt-ai-chatbots-conspiracies.html
+- Jost, T. (2011). Implementing health reform: the appeals process amended rule. Health Affairs Forefront.
+- Klee, M. (2025, ottobre). He grew obsessed with an AI chatbot. Then he vanished in the Ozarks. *Rolling Stone*. https://www.rollingstone.com/culture/culture-features/ai-chatbot-disappearance-jon-ganz-1235438552/
+- Pendse, S. R., Gergle, D., Kornfield, R., Kruzan, K., Mohr, D., Schleider, J., Suh, J., Wescott, A., & Meyerhoff, J. (2026). The Agony of Opacity: Foundations for Reflective Interpretability in AI-Mediated Mental Health Support. In *Proceedings of the Second Conference of the International Association for Safe and Ethical Artificial Intelligence (IASEAI'26)*, arXiv:2512.16206v2 [cs.HC], 1–18. https://doi.org/10.48550/arXiv.2512.16206

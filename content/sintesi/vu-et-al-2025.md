@@ -1,12 +1,13 @@
 ---
 tags: [cbt, synthetic-dialogues, sqpsych, open-weight-llm, clinical-questionnaires, data-privacy, psychotherapy-simulation, counselingbench, cbt-bench]
+tipo_fonte: scientifica
 source_papers: ["2510.25384v1.pdf"]
 ---
 
 # Roleplaying with Structure: Synthetic Therapist-Client Conversation Generation from Questionnaires (Vu et al., 2025)
 
 **Summary**: Presentazione di **SQPsych** (*Structured Questionnaire-based Psychotherapy*), una pipeline multi-agente innovativa per la generazione di dialoghi clinici sintetici terapeuta-paziente basati sui principi della Terapia Cognitivo-Comportamentale (CBT) per disturbi depressivi (MDD) e d'ansia. Per rispettare le rigide normative sulla privacy (GDPR, HIPAA, PIPL) ed evitare la trasmissione di dati clinici sensibili ad API proprietarie terze, il framework impiega sette LLM open-weight (23B–123B) ospitati localmente per convertire profili strutturati e questionari psicometrici reali (BDI, HAM-D, HAM-A) in linguaggio naturale, simulando conversazioni multi-turno mediante un'architettura a doppio agente (Dual-Role Generation). Il corpus generato (**SQPsychConv**) viene distillato per fine-tunare modelli compatti da 8B (**SQPsychLLM**), che dimostrano prestazioni superiori ai modelli commerciali e baselines di settore nei benchmark clinici (*CounselingBench*, *CBT-Bench*) e nella preferenza espressa da psicoterapeuti esperti.
-**Sources**: `2510.25384v1.pdf` (*arXiv:2510.25384v1 [cs.CL]*, 29 Oct 2025. Code/Data: https://ai-mh.github.io/SQPsych)
+**Fonti**: *arXiv:2510.25384v1 [cs.CL]*, 29 Oct 2025. Code/Data: https://ai-mh.github.io/SQPsych.
 **Last updated**: 2026-08-27
 ---
 
@@ -172,12 +173,14 @@ Nei confronti diretti pairwise a doppio cieco su 120 scenari avversariali di *Co
 ---
 
 ## Pagine e Concetti Correlati
-- [sqpsych-framework](../sqpsych-framework.md): Architettura dettagliata del framework SQPsych e del dataset SQPsychConv.
-- [conversione-questionari-dialoghi-clinici](../concetti/conversione-questionari-dialoghi-clinici.md): Metodologia di hash-mapping per convertire scale psicometriche (BDI, HAM-D) in linguaggio naturale.
-- [open-weight-privacy-compliant-synthesis](../open-weight-privacy-compliant-synthesis.md): Protocolli di generazione sicura con LLM open-weight locali in conformità a GDPR e HIPAA.
-- [counseling-benchmarks-evaluation](../concetti/counseling-benchmarks-evaluation.md): Metodologie di valutazione clinica (CounselingBench, CBT-Bench, LLM Panels vs. Esperti).
-- [synthetic-clinical-dialogues](../concetti/synthetic-clinical-dialogues.md): Panoramica generale sulla generazione computazionale di dialoghi clinici sintetici.
-- [cognitive-distortion-detection](../concetti/cognitive-distortion-detection.md): Identificazione e classificazione automatizzata delle distorsioni cognitive nel dialogo.
-- [cbt-dialogue-systems-and-tools](../concetti/concetti/concetti\cbt-dialogue-systems-and-tools.md): Sistemi conversazionali basati sui principi della Terapia Cognitivo-Comportamentale.
-- [etica-privacy-bias-ia-clinica](../concetti/etica-privacy-bias-ia-clinica.md): Sfide etiche, privacy dei dati del paziente e mitigazione dei bias algoritmici.
+- [[sqpsych-framework]]: Architettura dettagliata del framework SQPsych e del dataset SQPsychConv.
+- [[conversione-questionari-dialoghi-clinici]]: Metodologia di hash-mapping per convertire scale psicometriche (BDI, HAM-D) in linguaggio naturale.
+- [[open-weight-privacy-compliant-synthesis]]: Protocolli di generazione sicura con LLM open-weight locali in conformità a GDPR e HIPAA.
+- [[counseling-benchmarks-evaluation]]: Metodologie di valutazione clinica (CounselingBench, CBT-Bench, LLM Panels vs. Esperti).
+- [[synthetic-clinical-dialogues]]: Panoramica generale sulla generazione computazionale di dialoghi clinici sintetici.
+- [[cognitive-distortion-detection]]: Identificazione e classificazione automatizzata delle distorsioni cognitive nel dialogo.
+- [[cbt-dialogue-systems-and-tools]]: Sistemi conversazionali basati sui principi della Terapia Cognitivo-Comportamentale.
+- [[etica-privacy-bias-ia-clinica]]: Sfide etiche, privacy dei dati del paziente e mitigazione dei bias algoritmici.
 
+## Relazioni
+- Vedi anche: [[open-weight-privacy-compliant-synthesis]], [[simulazione-clinica-pazienti-virtuali]], [[sqpsych-framework]], [[conversione-questionari-dialoghi-clinici]], [[counseling-benchmarks-evaluation]], [[synthetic-clinical-dialogues]], [[cognitive-distortion-detection]], [[cbt-dialogue-systems-and-tools]]

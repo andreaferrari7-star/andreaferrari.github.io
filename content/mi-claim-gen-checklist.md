@@ -1,5 +1,6 @@
 ---
 tags: [mi-claim-gen, reporting-guidelines, clinical-ai-evaluation, research-transparency, reproducibility, generative-ai, model-cards, joanna-briggs-institute, mental-health-ai]
+tipo_fonte: scientifica
 source_papers: ["mental_v12i1e70610.pdf"]
 ---
 
@@ -104,7 +105,4 @@ graph TD
 ---
 
 ## Relazioni
-- Vedi anche: [mental-v12i1e70610](mental-v12i1e70610.md), [genai4mh-framework](genai4mh-framework.md), [elevate-genai-framework](elevate-genai-framework.md), [chart-reporting-guideline](chart-reporting-guideline.md), [gamer-reporting-guideline](gamer-reporting-guideline.md), [single-task-zero-shot-evaluation-trap](single-task-zero-shot-evaluation-trap.md), [clinician-user-evaluation-discrepancy](clinician-user-evaluation-discrepancy.md), [five-domain-chatbot-validation-framework](five-domain-chatbot-validation-framework.md), [traffic-light-quality-appraisal-clinical-ai](traffic-light-quality-appraisal-clinical-ai.md), [gai-research-integrity-and-verification](gai-research-integrity-and-verification.md)
-
-## Riferimenti Bibliografici
-- [Da integrare]
+- Vedi anche: [[mental-v12i1e70610]], [[genai4mh-framework]], [[elevate-genai-framework]], [[chart-reporting-guideline]], [[gamer-reporting-guideline]], [[single-task-zero-shot-evaluation-trap]], [[clinician-user-evaluation-discrepancy]], [[five-domain-chatbot-validation-framework]], [[traffic-light-quality-appraisal-clinical-ai]], [[gai-research-integrity-and-verification]]

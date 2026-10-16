@@ -1,11 +1,13 @@
 ---
 tags: []
+tipo_fonte: scientifica
+source_papers: ["11920_2026_Article_1690.pdf"]
 ---
 
 # Immersive AI e Introspecta VR (Parts Work e Trasformazione del Sé)
 
 **Summary**: Integrazione innovativa tra Realtà Virtuale (VR) e Intelligenza Artificiale Generativa per facilitare il "parts work", l'esplorazione del sé e il cambio di prospettiva attraverso la generazione in tempo reale di ambienti metaforici immersivi a 360° (skyboxes).
-**Sources**: Cavalera et al. (2026) - `11920_2026_Article_1690.pdf`; Antichi et al. (2025); Rossi et al. (2025); Hidding et al. (2024).
+**Fonti**: Cavalera et al. (2026); Antichi et al. (2025); Rossi et al. (2025); Hidding et al. (2024).
 **Last updated**: 2026-08-27
 ---
 
@@ -49,12 +51,15 @@ Sviluppato da Antichi, Baglìo, Rossi e Riva (2025), il progetto **"Introspecta 
 
 ---
 
-## Pagine Correlate
-- [cavalera-et-al-2026](../sintesi/cavalera-et-al-2026.md)
-- [calibrated-mismatches](concetti/concetti\calibrated-mismatches.md)
-- [simulated-empathy-vs-authentic-presence](concetti/concetti\simulated-empathy-vs-authentic-presence.md)
-- [digital-therapeutic-alliance](../digital-therapeutic-alliance.md)
-- [process-based-therapy](process-based-therapy.md)
+## Relazioni
+- [[cavalera-et-al-2026]]
+- [[calibrated-mismatches]]
+- [[simulated-empathy-vs-authentic-presence]]
+- [[digital-therapeutic-alliance]]
+- [[process-based-therapy]]
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Antichi, L., Baglìo, L., Rossi, C., & Riva, G. (2025). Introspecta VR: the use of virtual reality and artificial intelligence for self-understanding, future self-identification, and personal transformation. *Cyberpsychol Behav Soc Netw*, *28*(6), 447–9.
+- Cavalera, C., Frisone, F., Rossi, C., Oasi, O., Pagnini, F., Riva, G., & Antichi, L. (2026). The Digital Mirror: Clinical Potentials and Relational Risks of Generative AI in Mental Health Interventions. *Current Psychiatry Reports*, 28, 40. https://doi.org/10.1007/s11920-026-01690-4
+- Hidding, M., Veling, W., Pijnenborg, G., et al. (2024). A single-session VR intervention addressing self-compassion and self-criticism with and without perspective change: Results of a randomized controlled experiment. *Behaviour Research and Therapy*, *173*, 104466.
+- Rossi, C., Frisone, F., Riva, G., et al. (2025). Virtual meets reality: a psychodynamic perspective on immersive technologies. *Clin Neuropsychiatry*, *22*(4), 320.

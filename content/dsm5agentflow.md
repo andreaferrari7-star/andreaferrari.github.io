@@ -1,5 +1,6 @@
 ---
 tags: [dsm5agentflow, multi-agent-llm, dsm-5, diagnostica-clinica, rag-clinico, explainable-ai, simpatient, psicoterapia-ai]
+tipo_fonte: scientifica
 source_papers: ["2508.11398v2.pdf"]
 ---
 
@@ -61,7 +62,4 @@ flowchart TD
 - American Psychiatric Association. (2013). *Diagnostic and Statistical Manual of Mental Disorders (DSM-5®)*. American Psychiatric Publishing.
 
 ## Relazioni
-- Vedi anche: [2508-11398v2](2508-11398v2.md), [explainable-mental-health-diagnosis](explainable-mental-health-diagnosis.md), [simulazione-pazienti-ai](simulazione-pazienti-ai.md), [clinical-ai-simulation](clinical-ai-simulation.md), [risk-ontology-ai-psychotherapy](concetti/concetti/concetti\risk-ontology-ai-psychotherapy.md), [crdial-framework](crdial-framework.md), [audit-bias-llm-clinici](concetti/concetti/concetti\audit-bias-llm-clinici.md), [modello-centauro-clinico](concetti/concetti/concetti\modello-centauro-clinico.md)
-
-## Riferimenti Bibliografici
-- [Da integrare]
+- Vedi anche: [[2508-11398v2]], [[explainable-mental-health-diagnosis]], [[simulazione-pazienti-ai]], [[clinical-ai-simulation]], [[risk-ontology-ai-psychotherapy]], [[crdial-framework]], [[audit-bias-llm-clinici]], [[modello-centauro-clinico]]

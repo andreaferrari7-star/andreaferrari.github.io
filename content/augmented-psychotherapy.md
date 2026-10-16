@@ -1,5 +1,6 @@
 ---
 tags: [psicoterapia, AI, tecnologia, clinical-practice]
+tipo_fonte: scientifica
 source_papers: ["04-17_Convegno_Integrazione_Etica_IA"]
 ---
 
@@ -15,5 +16,5 @@ source_papers: ["04-17_Convegno_Integrazione_Etica_IA"]
 - 04-17 Convegno. (2026). *Integrazione etica dell'IA nella psicoterapia (scrittura clinica, supervisione, monitoraggio, formazione)*.
 
 ## Relazioni
-- Vedi anche: [04-17_Convegno_Integrazione_Etica_IA](04-17_Convegno_Integrazione_Etica_IA.md), [digital-therapeutic-alliance](digital-therapeutic-alliance.md), [ai-research-ethics](ai-research-ethics.md), [hybrid-ai-research-workflows](hybrid-ai-research-workflows.md), [prompting-in-psychology](prompting-in-psychology.md), [large-language-models](large-language-models.md)
+- Vedi anche: [[04-17-convegno-integrazione-etica-ia]], [[digital-therapeutic-alliance]], [[ai-research-ethics]], [[hybrid-ai-research-workflows]], [[prompting-in-psychology]], [[large-language-models]]
 

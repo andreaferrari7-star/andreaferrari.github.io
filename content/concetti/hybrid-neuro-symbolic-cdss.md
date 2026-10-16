@@ -1,12 +1,13 @@
 ---
 tags: [neuro-symbolic-ai, constraint-logic-programming, clinical-decision-support, explainability, deterministic-logic, hallucination-mitigation, medical-ai]
-source_papers: ["AI Generativa in Psicoterapia.docx", "Kim (2025)"]
+tipo_fonte: [scientifica, interna]
+source_papers: ["AI Generativa in Psicoterapia.docx", "Kim & Wang (2025)"]
 ---
 
 # CDSS Ibridi Neuro-Simbolici e Constraint Logic Programming (CLP)
 
-**Summary**: Architettura computazionale per Clinical Decision Support Systems (CDSS) ideata da Kim (2025) che combina la capacità di comprensione linguistica dei Large Language Models con la logica deterministica della Constraint Logic Programming (CLP). In questo paradigma, l'LLM funge unicamente da traduttore semantico dei criteri diagnostici testuali in regole formali ispezionabili, eliminando le allucinazioni probabilistiche ed esponendo il codice logico alla validazione umana prima dell'esecuzione clinica.
-**Sources**: `AI Generativa in Psicoterapia.docx`, Kim, B. H. (2025) (*AAAI GenAI4Health Workshop / arXiv:2501.07653*)
+**Summary**: Architettura computazionale per Clinical Decision Support Systems (CDSS) ideata da Kim & Wang (2025) che combina la capacità di comprensione linguistica dei Large Language Models con la logica deterministica della Constraint Logic Programming (CLP). In questo paradigma, l'LLM funge unicamente da traduttore semantico dei criteri diagnostici testuali in regole formali ispezionabili, eliminando le allucinazioni probabilistiche ed esponendo il codice logico alla validazione umana prima dell'esecuzione clinica.
+**Fonti**: [[ai-generativa-in-psicoterapia|AI Generativa in Psicoterapia (rassegna interna)]], Kim & Wang (2025) (*AAAI GenAI4Health Workshop / arXiv:2501.07653*)
 **Last updated**: 2026-08-27
 ---
 
@@ -24,7 +25,7 @@ flowchart TD
         L3 -. Rischio Sistemico .-> H1["Allucinazioni, Instabilità & Mancanza di Controllo"]
     end
 
-    subgraph Approccio_Neuro_Simbolico ["CDSS Ibrido Neuro-Simbolico (Kim, 2025)"]
+    subgraph Approccio_Neuro_Simbolico ["CDSS Ibrido Neuro-Simbolico (Kim & Wang, 2025)"]
         N1["Criteri Diagnostici Ufficiali (es. DSM-5 / ICD-11)"] --> N2["LLM come Traduttore Semantico (Parser)"]
         N2 --> N3["Generazione Codice a Regole Deterministiche (CLP)"]
         N3 --> N4["Ispezione, Editing e Validazione da parte del Clinico"]
@@ -35,9 +36,9 @@ flowchart TD
 
 ---
 
-## Architettura del Sistema di Kim (2025)
+## Architettura del Sistema di Kim & Wang (2025)
 
-L'approccio neuro-simbolico di **Kim (2025)** disaccoppia la *comprensione del linguaggio naturale* dal *ragionamento logico-deduttivo*:
+L'approccio neuro-simbolico di **Kim & Wang (2025)** disaccoppia la *comprensione del linguaggio naturale* dal *ragionamento logico-deduttivo*:
 
 ### 1. Il Ruolo dell'LLM come Traduttore di Criteri
 L'LLM non esegue la diagnosi. Il suo unico compito è convertire le descrizioni narrative dei manuali nosografici (es. criteri di durata, soglie sintomatologiche, esclusioni organiche) in espressioni logiche formali strutturate nel paradigma della **Constraint Logic Programming (CLP)**.
@@ -65,14 +66,14 @@ I dati clinici del paziente (sintomi rilevati, durata, severità) vengono proces
 
 ---
 
-## Related Pages
-- [ai-generativa-in-psicoterapia](../sintesi/ai-generativa-in-psicoterapia.md)
-- [mind-safe-framework](mind-safe-framework.md)
-- [readi-framework](readi-framework.md)
-- [automation-bias-clinical-reasoning](automation-bias-clinical-reasoning.md)
-- [human-in-the-reasoning](human-in-the-reasoning.md)
-- [ai-clinical-decision-support](ai-clinical-decision-support.md)
-- [large-language-models](../large-language-models.md)
+## Relazioni
+- [[ai-generativa-in-psicoterapia]]
+- [[mind-safe-framework]]
+- [[readi-framework]]
+- [[automation-bias-clinical-reasoning]]
+- [[human-in-the-reasoning]]
+- [[ai-clinical-decision-support]]
+- [[large-language-models]]
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Kim, B. H., & Wang, C. (2025). Large language models for interpretable mental health diagnosis [Preprint]. AAAI 2025 Workshop on Large Language Models and Generative AI for Health (GenAI4Health). *arXiv*. https://doi.org/10.48550/arXiv.2501.07653

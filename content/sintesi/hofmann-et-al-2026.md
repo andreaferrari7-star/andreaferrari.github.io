@@ -1,5 +1,6 @@
 ---
 tags: [scoping-review, processi-di-cambiamento, process-based-therapy, cbt, fattori-comuni, llm-assisted-clustering, human-in-the-loop, prisma-scr]
+tipo_fonte: scientifica
 source_papers: ["1-s2.0-S0272735826000917-main.pdf"]
 ---
 
@@ -72,13 +73,13 @@ source_papers: ["1-s2.0-S0272735826000917-main.pdf"]
 
 ---
 
-## Relazioni e Collegamenti
-- [process-of-change](../concetti/process-of-change.md)
-- [llm-assisted-clustering](../concetti/llm-assisted-clustering.md)
-- [common-vs-specific-factors](../concetti/common-vs-specific-factors.md)
-- [terminological-fragmentation](../concetti/terminological-fragmentation.md)
-- [process-based-therapy](../concetti/process-based-therapy.md)
-- [jingle-fallacy](../jingle-fallacy.md)
-- [jangle-fallacy](../jangle-fallacy.md)
-- [hybrid-ai-research-workflows](../hybrid-ai-research-workflows.md)
+## Relazioni
+- [[process-of-change]]
+- [[llm-assisted-clustering]]
+- [[common-vs-specific-factors]]
+- [[terminological-fragmentation]]
+- [[process-based-therapy]]
+- [[jingle-fallacy]]
+- [[jangle-fallacy]]
+- [[hybrid-ai-research-workflows]]
 

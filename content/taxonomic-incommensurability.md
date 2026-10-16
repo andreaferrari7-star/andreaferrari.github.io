@@ -1,5 +1,6 @@
 ---
 tags: [taxonomic-incommensurability, costrutti, frammentazione-linguistica, psicometria, validita]
+tipo_fonte: scientifica
 source_papers: ["wulff-mata-2025-escaping-the-jingle-jangle-jungle-increasing-conceptual-clarity-in-psychology-using-large-language.pdf"]
 ---
 
@@ -21,5 +22,5 @@ source_papers: ["wulff-mata-2025-escaping-the-jingle-jangle-jungle-increasing-co
 * Wulff, D. U., & Mata, R. (2026). Escaping the Jingle-Jangle Jungle: Increasing Conceptual Clarity in Psychology Using Large Language Models. *Current Directions in Psychological Science*, 35(2), 59–65. https://doi.org/10.1177/09637214251382083
 
 ## Relazioni
-* Vedi anche: [wulff-mata-2025](wulff-mata-2025.md), [shared-semantic-space](shared-semantic-space.md), [jingle-fallacy](jingle-fallacy.md), [jangle-fallacy](jangle-fallacy.md), [llm-assisted-semantic-clustering](llm-assisted-semantic-clustering.md), [terminological-fragmentation](concetti/terminological-fragmentation.md)
+* Vedi anche: [[wulff-mata-2025]], [[shared-semantic-space]], [[jingle-fallacy]], [[jangle-fallacy]], [[llm-assisted-semantic-clustering]], [[terminological-fragmentation]]
 

@@ -1,11 +1,13 @@
 ---
 tags: []
+tipo_fonte: scientifica
+source_papers: ["2510.25384v1.pdf", "2508.11398v2.pdf"]
 ---
 
 # Conversione Questionari-Linguaggio Naturale per Agenti Clinici
 
 **Summary**: Metodologia di ingegneria del prompt e preprocessing clinico che trasforma scale psicometriche tabulari (es. BDI, HAM-D, HAM-A) e metadati anamnestici in descrizioni fenomenologiche in linguaggio naturale. Questo approccio risolve i problemi di allucinazione e interpretazione rigida dei Large Language Models durante la simulazione di pazienti, traducendo punteggi numerici discreti in vissuti soggettivi realistici e clinicamente coerenti.
-**Sources**: `2510.25384v1.pdf` (Vu et al., 2025: *Roleplaying with Structure: Synthetic Therapist-Client Conversation Generation from Questionnaires*), `2508.11398v2.pdf` (Ozgun et al., 2025)
+**Fonti**: (Vu et al., 2025: *Roleplaying with Structure: Synthetic Therapist-Client Conversation Generation from Questionnaires*), (Ozgun et al., 2025)
 **Last updated**: 2026-08-27
 ---
 
@@ -75,12 +77,13 @@ Nel framework **SQPsych** (Vu et al., 2025), la conversione si basa su una tabel
 
 ---
 
-## Pagine Correlate
-- [sqpsych-framework](sqpsych-framework.md): Architettura generale di generazione dual-agent e dataset SQPsychConv.
-- [vu-et-al-2025](../sintesi/vu-et-al-2025.md): Sintesi del paper di riferimento.
-- [cognitive-distortion-detection](cognitive-distortion-detection.md): Individuazione di credenze disfunzionali nel discorso clinico.
-- [simulazione-pazienti-ai](simulazione-pazienti-ai.md): Metodologie e vincoli per la creazione di pazienti virtuali.
-- [specialized-nlp-models-mental-health](specialized-nlp-models-mental-health.md): Adattamento di modelli NLP al lessico e alla psicopatologia clinica.
+## Relazioni
+- [[sqpsych-framework]]: Architettura generale di generazione dual-agent e dataset SQPsychConv.
+- [[vu-et-al-2025]]: Sintesi del paper di riferimento.
+- [[cognitive-distortion-detection]]: Individuazione di credenze disfunzionali nel discorso clinico.
+- [[simulazione-pazienti-ai]]: Metodologie e vincoli per la creazione di pazienti virtuali.
+- [[specialized-nlp-models-mental-health]]: Adattamento di modelli NLP al lessico e alla psicopatologia clinica.
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Ozgun, M. C., Pei, J., Hindriks, K., Donatelli, L., Liu, Q., & Wang, J. (2025). Trustworthy AI Psychotherapy: Multi-Agent LLM Workflow for Counseling and Explainable Mental Disorder Diagnosis. In *Proceedings of the 34th ACM International Conference on Information and Knowledge Management (CIKM ’25)*, November 10–14, 2025, Seoul, Republic of Korea. ACM, New York, NY, USA, 10 pages. https://doi.org/10.1145/3746252.3761164 / arXiv:2508.11398v2 [cs.HC]
+- Vu, D. N. L., Tan, R., Moench, L., Francke, S. J., Woiwod, D., Thomas-Odenthal, F., Stroth, S., Kircher, T., Hermann, C., Dannlowski, U., Jamalabadi, H., & Ji, S. (2025). Roleplaying with Structure: Synthetic Therapist-Client Conversation Generation from Questionnaires. *arXiv preprint arXiv:2510.25384v1 [cs.CL]*.

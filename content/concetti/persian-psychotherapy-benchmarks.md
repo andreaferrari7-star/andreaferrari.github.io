@@ -1,11 +1,13 @@
 ---
 tags: []
+tipo_fonte: scientifica
+source_papers: ["2510.03913v1.pdf"]
 ---
 
 # Benchmark Psicoterapeutici per la Lingua Persiana (PsychoLex Suite)
 
 **Summary**: Suite di tre dataset standardizzati e pionieristici (**PsychoLexEval**, **PsychoLexQuery**, **PsychoLexDialogue**) sviluppati per la valutazione sistematica delle competenze psicologiche, della risonanza empatica a singolo turno e della coerenza longitudinale multi-turno in sistemi di elaborazione del linguaggio naturale applicati alla salute mentale in lingua persiana.
-**Sources**: `2510.03913v1.pdf` (Abbasi & Naderi, 2025: *PsychoLexTherapy: Simulating Reasoning in Psychotherapy with Small Language Models in Persian*)
+**Fonti**: (Abbasi & Naderi, 2025: *PsychoLexTherapy: Simulating Reasoning in Psychotherapy with Small Language Models in Persian*)
 **Last updated**: 2026-08-27
 ---
 
@@ -72,7 +74,7 @@ graph TD
 ---
 
 ### 3. PsychoLexDialogue (Sessioni Psicoterapeutiche Simulate Multi-Turno)
-- **Finalità**: Valutare l'efficacia dei moduli di memoria a lungo termine ([memory-augmented-therapeutic-dialogue](memory-augmented-therapeutic-dialogue.md)) e la progressione dell'alleanza di lavoro.
+- **Finalità**: Valutare l'efficacia dei moduli di memoria a lungo termine ([[memory-augmented-therapeutic-dialogue]]) e la progressione dell'alleanza di lavoro.
 - **Dimensione**: **3.400 dialoghi completi**, con un'estensione media di **10–14 turni per sessione** su 16 domini tematici.
 - **Pipeline Generativa Ibrida**:
   1. *Generazione del Profilo Paziente*: Ogni query reale di PsychoLexQuery viene convertita in un profilo con temi emotivi prevalenti (frustrazione, tristezza, ansia, senso di colpa), pattern cognitivi disfunzionali e desiderata terapeutici.
@@ -98,13 +100,13 @@ La suite adotta un duplice protocollo di validazione:
 
 ---
 
-## Concetti Correlati
+## Relazioni
 
-- [psycholextherapy-framework](concetti/concetti\psycholextherapy-framework.md): Il framework testato sulla PsychoLex Suite.
-- [synthetic-clinical-dialogues](synthetic-clinical-dialogues.md): Approcci metodologici per la sintesi controllata di sedute cliniche.
-- [weird-bias-cultural-adaptability-ai](weird-bias-cultural-adaptability-ai.md): L'importanza dell'adattamento cross-culturale dei modelli psicologici.
-- [memory-augmented-therapeutic-dialogue](memory-augmented-therapeutic-dialogue.md): Architetture valutate tramite PsychoLexDialogue.
-- [clinical-fidelity-assessment](../clinical-fidelity-assessment.md): Metriche di fedeltà per sistemi clinici computazionali.
+- [[psycholextherapy-framework]]: Il framework testato sulla PsychoLex Suite.
+- [[synthetic-clinical-dialogues]]: Approcci metodologici per la sintesi controllata di sedute cliniche.
+- [[weird-bias-cultural-adaptability-ai]]: L'importanza dell'adattamento cross-culturale dei modelli psicologici.
+- [[memory-augmented-therapeutic-dialogue]]: Architetture valutate tramite PsychoLexDialogue.
+- [[clinical-fidelity-assessment]]: Metriche di fedeltà per sistemi clinici computazionali.
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Abbasi, M. A., & Naderi, H. (2025). PsychoLexTherapy: Simulating reasoning in psychotherapy with small language models in Persian. *arXiv preprint* arXiv:2510.03913.

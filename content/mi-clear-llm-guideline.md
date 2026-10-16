@@ -1,5 +1,6 @@
 ---
 tags: [mi-clear-llm, reporting-guidelines, accuracy-reports, large-language-models, clinical-evaluation, reproducibility-in-ai, local-deployment, api-access, prompt-engineering, test-data-independence]
+tipo_fonte: scientifica
 source_papers: ["MI-CLEAR-LLM_2025.pdf"]
 ---
 
@@ -15,5 +16,5 @@ source_papers: ["MI-CLEAR-LLM_2025.pdf"]
 - Park, S. H., et al. (2025). MI-CLEAR-LLM: Minimum Reporting Items for CLear Evaluation of Accuracy Reports of Large Language Models in Healthcare. *Korean Journal of Radiology*. https://doi.org/10.3348/kjr.2025.1522
 
 ## Relazioni
-- Vedi anche: [TRIPOD-LLM](concetti/TRIPOD-LLM.md), [DEAL](concetti/DEAL.md), [CHART](concetti/chart.md), [ELEVATE-GenAI](concetti/elevate-genai.md)
+- Vedi anche: [[tripod-llm2025|TRIPOD-LLM]], [[DEAL]], [[chart-reporting-guideline|CHART]], [[elevate-genai-framework|ELEVATE-GenAI]]
 

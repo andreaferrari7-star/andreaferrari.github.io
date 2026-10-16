@@ -1,5 +1,6 @@
 ---
 tags: [systematic-review, prisma-2020, mmat, generative-ai, large-language-models, mental-health-ai, psychoeducation, diagnostic-reasoning, emotional-awareness, leas, cultural-competence, zero-shot-prompting, chain-of-thought, clinician-user-discrepancy, cbt-interventions, jmir-mental-health]
+tipo_fonte: scientifica
 source_papers: ["mental-v12-e70014.pdf"]
 ---
 
@@ -15,7 +16,7 @@ source_papers: ["mental-v12-e70014.pdf"]
 - **Rilievi Chiave e Snodi Critici:**
   - *Punti di Forza Dimostrati:* Elevata qualità e chiarezza nelle risposte di **psicoeducazione** (leggibilità misurata con Gunning Fog Index a 13.8) e punteggi eccezionali di **consapevolezza emotiva** sulla scala LEAS (*Levels of Emotional Awareness Scale*), dove ChatGPT-3.5 supera le norme della popolazione generale umana.
   - *Debolezze e Rischi:* Accuratezza diagnostica incerta e polarizzata (GPT-4 indeciso/evitante, Bard iper-fiducioso con falsi positivi), superficialità nell'assessment clinico, marcato deficit di **competenza culturale e linguistica** (incapacità di decodificare idiomi culturali arabi o manifestazioni somatiche del disagio), e persistenti preoccupazioni di privacy, accuratezza e fiducia (espresse dall'80% degli utenti clinici).
-  - *Critica Metodologica Strutturale:* La letteratura soffre della trappola dello strumento (*"Hammer and Nail Problem"*): 5 studi su 8 hanno impiegato unicamente un prompting **zero-shot** a singolo turno Q&A su vignette isolate. Tale approccio sottostima il potenziale del ragionamento clinico avanzato (ottenibile con **Few-Shot** e **Chain-of-Thought / CoT**) e oscura la profonda **[discrepanza tra valutazioni dei clinici (ottimistiche) ed esperienza diretta degli utenti reali (critica e diffidente)](concetti/clinician-user-evaluation-discrepancy.md)**.
+  - *Critica Metodologica Strutturale:* La letteratura soffre della trappola dello strumento (*"Hammer and Nail Problem"*): 5 studi su 8 hanno impiegato unicamente un prompting **zero-shot** a singolo turno Q&A su vignette isolate. Tale approccio sottostima il potenziale del ragionamento clinico avanzato (ottenibile con **Few-Shot** e **Chain-of-Thought / CoT**) e oscura la profonda **[[clinician-user-evaluation-discrepancy|discrepanza tra valutazioni dei clinici (ottimistiche) ed esperienza diretta degli utenti reali (critica e diffidente)]]**.
 
 ```mermaid
 flowchart TD
@@ -34,8 +35,8 @@ flowchart TD
     end
 
     subgraph MethodologicalCritique ["Limiti Metodologici & 'Hammer and Nail' Trap"]
-        M1[Zero-Shot Single-Task Bias](concetti/single-task-zero-shot-evaluation-trap.md)</b><br/>62.5% studi usa solo Q&A zero-shot statico, ignorando CoT e multi-turn"]
-        M2[Discrepanza Clinico vs Utente](concetti/clinician-user-evaluation-discrepancy.md)</b><br/>Clinici entusiasti su task isolati vs Utenti insoddisfatti (80% sfiducia, assessment frettoloso)"]
+        M1["<b>Zero-Shot Single-Task Bias</b><br/>62.5% studi usa solo Q&A zero-shot statico, ignorando CoT e multi-turn"]
+        M2["<b>Discrepanza Clinico vs Utente</b><br/>Clinici entusiasti su task isolati vs Utenti insoddisfatti (80% sfiducia, assessment frettoloso)"]
         M3["<b>Assenza di Studi Longitudinali</b><br/>Mancanza di verifiche di efficacia e sicurezza a lungo termine"]
     end
 
@@ -187,7 +188,4 @@ flowchart TD
 ---
 
 ## Relazioni
-- Vedi anche: [clinician-user-evaluation-discrepancy](clinician-user-evaluation-discrepancy.md), [single-task-zero-shot-evaluation-trap](single-task-zero-shot-evaluation-trap.md), [cultural-adaptation-in-mental-health-llms](cultural-adaptation-in-mental-health-llms.md), [modello-centauro-clinico](concetti/concetti/concetti\modello-centauro-clinico.md), [simulated-empathy-vs-authentic-presence](concetti/concetti/concetti\simulated-empathy-vs-authentic-presence.md), [algorithmic-paternalism-in-ai-mental-health](concetti/concetti/concetti\algorithmic-paternalism-in-ai-mental-health.md), [digital-therapeutic-alliance](digital-therapeutic-alliance.md), [five-domain-chatbot-validation-framework](five-domain-chatbot-validation-framework.md), [stepwise-cot](stepwise-cot.md), [ai-enhanced-cbt](concetti/concetti/concetti\concetti/concetti\ai-enhanced-cbt.md), [fpsyg-16-1715306](fpsyg-16-1715306.md), [ai-v5-e84305](ai-v5-e84305.md), [jmir-v28i1e79677](jmir-v28i1e79677.md)
-
-## Riferimenti Bibliografici
-- [Da integrare]
+- Vedi anche: [[clinician-user-evaluation-discrepancy]], [[single-task-zero-shot-evaluation-trap]], [[cultural-adaptation-in-mental-health-llms]], [[modello-centauro-clinico]], [[simulated-empathy-vs-authentic-presence]], [[algorithmic-paternalism-in-ai-mental-health]], [[digital-therapeutic-alliance]], [[five-domain-chatbot-validation-framework]], [[stepwise-cot]], [[ai-enhanced-cbt]], [[fpsyg-16-1715306]], [[ai-v5-e84305]], [[jmir-v28i1e79677]]

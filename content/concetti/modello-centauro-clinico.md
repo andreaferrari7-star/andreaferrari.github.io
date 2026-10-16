@@ -3,6 +3,8 @@ title: Modello Centauro Clinico (Centaur Clinical Model)
 summary: Paradigma di integrazione clinico-tecnologica ispirato al "Centaur Chess" di Garry Kasparov, in cui il terapeuta umano, potenziato dall'intelligenza artificiale e dal feedback computazionale, raggiunge livelli di efficacia e accuratezza superiori sia al solo clinico isolato sia alla macchina autonoma.
 sources: 06-10 Lezione_ RAG, LLM in Psicoterapia e Governance Etica.txt
 last_updated: 2026-08-27
+tipo_fonte: evento
+source_papers: ["06-10 Lezione_ RAG, LLM in Psicoterapia e Governance Etica.txt"]
 ---
 
 # Modello Centauro Clinico (Centaur Clinical Model)
@@ -24,8 +26,8 @@ Il concetto trae origine storica dal gioco degli scacchi avanzato sviluppato da 
 
 In psicoterapia, l'applicazione di questo modello mira a mitigare i bias cognitivi, ridurre i *blind spots* clinici e prevenire il dropout terapeutico. Il modello sottolinea esplicitamente i pericoli di un approccio non supervisionato, citando casi di fallimento come il chatbot *Tessa* come evidenza della necessità di limitare l'uso di agenti autonomi in contesti di fragilità clinica.
 
-**Riferimenti Bibliografici:**
-- 06-10 Lezione_ RAG, LLM in Psicoterapia e Governance Etica.txt
+## Fonti
+- [[06-10-lezione-rag-llm|Lezione e Seminario: RAG, LLM in Psicoterapia, Supervisione e Governance Etica (10 Giugno 2026)]]
 
 ## Relazioni
 ```mermaid
@@ -39,11 +41,8 @@ graph LR
     IA --> Centauro
 ```
 
-- [rag-in-psicoterapia](rag-in-psicoterapia.md)
-- [feedback-informed-practice-ai](feedback-informed-practice-ai.md)
-- [supervisione-clinica-ai](supervisione-clinica-ai.md)
-- [augmented-psychotherapy](../augmented-psychotherapy.md)
-- [human-in-the-reasoning](human-in-the-reasoning.md)
-
-## Riferimenti Bibliografici
-- [Da integrare]
+- [[rag-in-psicoterapia]]
+- [[feedback-informed-practice-ai]]
+- [[supervisione-clinica-ai]]
+- [[augmented-psychotherapy]]
+- [[human-in-the-reasoning]]

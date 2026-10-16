@@ -1,5 +1,6 @@
 ---
 tags: [psicoterapia-ai, revisione-sistematica, campbell-collaboration, meta-analisi, disturbi-mentali, rct, cbt-digitale, agenti-conversazionali]
+tipo_fonte: scientifica
 source_papers: ["10.1177_18911803261439274.pdf"]
 ---
 
@@ -21,7 +22,4 @@ source_papers: ["10.1177_18911803261439274.pdf"]
 - Soni, A. K., Singh, V. K., & Kumar, M. (2026). Protocol: Effectiveness of Artificial Intelligence-Based Psychotherapy in Treating Mental Disorders. *Campbell Systematic Reviews*, 22(2), 1–19. https://doi.org/10.1177/18911803261439274
 
 ## Relazioni
-- Vedi anche: [active-ai-therapeutic-agent](../active-ai-therapeutic-agent.md), [simulated-therapeutic-alliance](../simulated-therapeutic-alliance.md), [ai-psychotherapy-clinical-effectiveness](../concetti/ai-psychotherapy-clinical-effectiveness.md), [hybrid-vs-autonomous-ai-delivery](../concetti/hybrid-vs-autonomous-ai-delivery.md), [ai-assisted-psychotherapy](../ai-assisted-psychotherapy.md), [clinical-fidelity-assessment](../clinical-fidelity-assessment.md), [structured-literature-reviews](../structured-literature-reviews.md), [digital-therapeutic-alliance](../digital-therapeutic-alliance.md)
-
-## Riferimenti Bibliografici
-- [Da integrare]
+- Vedi anche: [[active-ai-therapeutic-agent]], [[simulated-therapeutic-alliance]], [[ai-psychotherapy-clinical-effectiveness]], [[hybrid-vs-autonomous-ai-delivery]], [[ai-assisted-psychotherapy]], [[clinical-fidelity-assessment]], [[structured-literature-reviews]], [[digital-therapeutic-alliance]]

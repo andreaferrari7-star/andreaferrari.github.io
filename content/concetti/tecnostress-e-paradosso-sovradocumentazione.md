@@ -1,11 +1,13 @@
 ---
 tags: []
+tipo_fonte: [scientifica, interna]
+source_papers: ["AI in Psicoterapia 2023-2026.docx"]
 ---
 
 # Tecnostress Clinico e Paradosso della Sovra-Documentazione
 
 **Summary**: Manifestazione di distress professionale e burnout nello psicoterapeuta derivante dall'inclusione di strumenti di IA generativa nella routine clinica, caratterizzata da sovraccarico da correzione di allucinazioni, pletora documentale (*over-documentation paradox*), invasione dei confini di vita privata ed erosione della presenza terapeutica incarnata.
-**Sources**: Signorini & Paganin (2026, *Frontiers in Psychology*, DOI: 10.3389/fpsyg.2026.1690291); Tarafdar et al. (2019); `AI in Psicoterapia 2023-2026.docx`.
+**Fonti**: Signorini & Paganin (2026, *Frontiers in Psychology*, DOI: 10.3389/fpsyg.2026.1690291); Tarafdar et al. (2019); [[ai-in-psicoterapia-2023-2026|AI in Psicoterapia 2023-2026 (rassegna interna)]].
 **Last updated**: 2026-08-27
 ---
 
@@ -59,19 +61,20 @@ Un ulteriore rischio del tecnostress è lo scivolamento verso una **dipendenza e
 
 ## Linee Guida per la Decontaminazione Tecnologica
 
-1. **Setting Pulito (*Technology-Free In-Session*)**: Nessun dispositivo attivo nella stanza di terapia durante il colloquio (principio cardine del [SADAR](sadar-framework.md)).
+1. **Setting Pulito (*Technology-Free In-Session*)**: Nessun dispositivo attivo nella stanza di terapia durante il colloquio (principio cardine del [[sadar-framework|SADAR]]).
 2. **Standard di Sintesi Minimale**: Privilegiare note cliniche essenziali e scritte dal clinico rispetto a volumi di trascrizioni automatizzate.
 3. **Presidio della Supervisione tra Pari**: Mantenere la supervisione umana come unico luogo di confronto formativo ed etico.
 
 ---
 
-## Pagine Correlate
-- [artificial-intelligence-replacement-dysfunction](artificial-intelligence-replacement-dysfunction.md)
-- [cognitive-offloading-e-diagnostic-deskilling](cognitive-offloading-e-diagnostic-deskilling.md)
-- [sadar-framework](sadar-framework.md)
-- [digital-analytic-third](digital-analytic-third.md)
-- [moral-buffering-e-deskilling-etico](moral-buffering-e-deskilling-etico.md)
-- [ai-in-psicoterapia-2023-2026](../sintesi/ai-in-psicoterapia-2023-2026.md)
+## Relazioni
+- [[artificial-intelligence-replacement-dysfunction]]
+- [[cognitive-offloading-e-diagnostic-deskilling]]
+- [[sadar-framework]]
+- [[digital-analytic-third]]
+- [[moral-buffering-e-deskilling-etico]]
+- [[ai-in-psicoterapia-2023-2026]]
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Signorini, S., & Paganin, W. (2026). Artificial intelligence as a digital analytic third: The SADAR framework for reflective supervision in psychotherapy. *Frontiers in Psychology*, *17*, 1690291. https://doi.org/10.3389/fpsyg.2026.1690291
+- Tarafdar, M., Cooper, C. L., & Stich, J.-F. (2019). The technostress trifecta – techno eustress, techno distress and design: Theoretical directions and an agenda for research. *Information Systems Journal*, *29*(1), 6–42. https://doi.org/10.1111/isj.12169

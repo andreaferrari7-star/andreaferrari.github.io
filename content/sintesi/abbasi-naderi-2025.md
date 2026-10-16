@@ -1,5 +1,6 @@
 ---
 tags: [small-language-models, psychotherapeutic-reasoning, persian-nlp, on-device-ai, long-term-memory, memobase, cbt, reality-therapy, person-centered-therapy, psycholextherapy, mental-health-ai]
+tipo_fonte: scientifica
 source_papers: ["2510.03913v1.pdf"]
 title: "PsychoLexTherapy: Simulating Reasoning in Psychotherapy with Small Language Models in Persian"
 authors: "Mohammad Amin Abbasi, Hassan Naderi"
@@ -11,7 +12,7 @@ doi: "arXiv:2510.03913v1"
 # PsychoLexTherapy: Simulating Reasoning in Psychotherapy with Small Language Models in Persian
 
 **Summary**: Questo studio presenta **PsychoLexTherapy**, il primo framework clinico computazionale per la lingua persiana progettato per simulare il ragionamento psicoterapeutico tramite Small Language Models (SLM, <10B parametri) su dispositivi locali (*on-device*). Il sistema integra un selettore dinamico dell'approccio terapeutico, percorsi di ragionamento strutturati *stepwise* per tre paradigmi clinici principali (Terapia Cognitivo-Comportamentale - CBT, Reality Therapy - RT, Terapia Centrata sul Cliente - PCT) e un modulo di memoria a lungo termine gerarchica basato su MemoBase. Per validare il framework, gli autori hanno introdotto tre dataset di riferimento: **PsychoLexEval** (3.430 domande a scelta multipla per saggiare le competenze psicologiche degli SLM), **PsychoLexQuery** (~4.000 quesiti reali estratti da forum clinici persiani) e **PsychoLexDialogue** (3.400 sessioni psicoterapeutiche simulate multi-turno). I risultati evidenziano che l'integrazione di ragionamento terapeutico strutturato e memoria dinamica supera nettamente il prompting generico, le catene di empatia e i sistemi multi-agente in termini di coerenza, empatia clinica, appropriatezza culturale e personalizzazione.
-**Sources**: `2510.03913v1.pdf` (arXiv:2510.03913v1 [cs.CL], Iran University of Science and Technology, Tehran)
+**Fonti**: Abbasi & Naderi (2025), Iran University of Science and Technology, Tehran.
 **Last updated**: 2026-08-27
 ---
 
@@ -214,16 +215,16 @@ Il sistema adotta un **meccanismo di buffering**: i nuovi elementi vengono racco
 
 ---
 
-## Concetti Correlati nel Vault
+## Relazioni
 
-- [psycholextherapy-framework](../concetti/concetti/concetti\psycholextherapy-framework.md): Architettura modulare end-to-end con routing e memoria gerarchica.
-- [therapeutic-reasoning-paths](../therapeutic-reasoning-paths.md): Formalizzazione procedurale di CBT, Reality Therapy e PCT in LLM.
-- [persian-psychotherapy-benchmarks](../concetti/persian-psychotherapy-benchmarks.md): I benchmark PsychoLexEval, PsychoLexQuery e PsychoLexDialogue.
-- [on-device-slm-mental-health](../concetti/on-device-slm-mental-health.md): Impiego di Small Language Models in locale per la privacy clinica.
-- [memory-augmented-therapeutic-dialogue](../concetti/memory-augmented-therapeutic-dialogue.md): Sistemi di memoria persistente e profilazione dinamica per agenti terapeutici.
-- [synthetic-clinical-dialogues](../concetti/synthetic-clinical-dialogues.md): Generazione controllata di conversazioni cliniche simulate.
-- [weird-bias-cultural-adaptability-ai](../concetti/weird-bias-cultural-adaptability-ai.md): Adattamento socioculturale ed ecologico degli agenti di salute mentale.
-- [conversational-agents-mental-health](../concetti/conversational-agents-mental-health.md): Tassonomia e stato dell'arte dei chatbot psicologici.
+- [[psycholextherapy-framework]]: Architettura modulare end-to-end con routing e memoria gerarchica.
+- [[therapeutic-reasoning-paths]]: Formalizzazione procedurale di CBT, Reality Therapy e PCT in LLM.
+- [[persian-psychotherapy-benchmarks]]: I benchmark PsychoLexEval, PsychoLexQuery e PsychoLexDialogue.
+- [[on-device-slm-mental-health]]: Impiego di Small Language Models in locale per la privacy clinica.
+- [[memory-augmented-therapeutic-dialogue]]: Sistemi di memoria persistente e profilazione dinamica per agenti terapeutici.
+- [[synthetic-clinical-dialogues]]: Generazione controllata di conversazioni cliniche simulate.
+- [[weird-bias-cultural-adaptability-ai]]: Adattamento socioculturale ed ecologico degli agenti di salute mentale.
+- [[conversational-agents-mental-health]]: Tassonomia e stato dell'arte dei chatbot psicologici.
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Abbasi, M. A., & Naderi, H. (2025). PsychoLexTherapy: Simulating reasoning in psychotherapy with small language models in Persian. *arXiv preprint* arXiv:2510.03913.

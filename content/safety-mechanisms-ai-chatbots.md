@@ -1,5 +1,6 @@
 ---
 tags: [scoping-review, generative-ai, mental-health-chatbots, digital-mental-health, safety-mechanisms, risk-mitigation, layered-safeguards, sociotechnical-safety, human-in-the-loop, crisis-protocols, adverse-events, samd, fda-guidelines, eu-ai-act, prisma-scr, jbi-methodology]
+tipo_fonte: scientifica
 source_papers: ["Safety Mechanisms and Risk Mitigation in Generative AI Mental Health Chatbots - A Scoping Review.pdf"]
 ---
 
@@ -10,8 +11,8 @@ source_papers: ["Safety Mechanisms and Risk Mitigation in Generative AI Mental H
 - **Campione ed Evidenze Sintetizzate:** Ricerca sistematica condotta su 7 banche dati accademiche internazionali (MEDLINE/PubMed, Scopus, PsycINFO, ACM Digital Library, IEEE Xplore, Google Scholar e Consensus; luglio 2024 - aggiornata a luglio 2025). Su 1.899 record identificati, sono stati inclusi **21 studi primari peer-reviewed** condotti in **11 Paesi** (Cina n=4, Regno Unito n=4, USA n=3, Australia n=2, Germania n=1, Romania n=1, Kenya n=1, Kirghizistan n=1, Malesia n=1, Belgio n=1, Perù n=1), comprendenti trial randomizzati controllati (RCT), studi di fattibilità, valutazioni prototipali, disegni a metodi misti e una sperimentazione di implementazione clinica nel mondo reale (*real-world implementation*).
 - **Rilevanza Clinico-Psichiatrica e Governance Sanitaria:**
   - Supera la letteratura precedente focalizzata su chatbot rule-based o su LLM generalisti non vincolati (es. ChatGPT o Claude utilizzati in modo improprio per supporto psicologico), analizzando come i sistemi *purpose-built* (progettati ad hoc per ansia, depressione, PTSD, disturbi alimentari, demenza e stress occupazionale) affrontino i rischi intrinseci dell'IA generativa (allucinazioni, sicofantia, instabilità stocastica, mancata gestione delle crisi acute e rischio di iatrogenesi/psicosi indotta).
-  - Formalizza che la sicurezza nell'IA clinica non è una proprietà puramente algoritmica o lessicale, ma un **problema sociotecnico complesso** (**[Sociotechnical Safety Framework](concetti/sociotechnical-safety-in-clinical-ai.md)**) che richiede l'integrazione coordinata di tre pilastri: controlli tecnici AI/ML (**[Layered Safeguards](concetti/concetti/concetti\layered-safeguards-in-clinical-ai.md)**), salvaguardie procedurali pre-deployment e governance operativa di erogazione.
-  - Svela una **critica carenza nel tracciamento sistematico degli eventi avversi** (**[Adverse Event Monitoring](concetti/adverse-event-monitoring-in-clinical-ai.md)**): solo il 9,5% degli studi (2/21) include protocolli formalizzati di monitoraggio degli eventi indesiderati, suggerendo un significativo effetto di sottostima (*undercount fallacy*) dei reali fallimenti di sicurezza.
+  - Formalizza che la sicurezza nell'IA clinica non è una proprietà puramente algoritmica o lessicale, ma un **problema sociotecnico complesso** (**[[sociotechnical-safety-in-clinical-ai|Sociotechnical Safety Framework]]**) che richiede l'integrazione coordinata di tre pilastri: controlli tecnici AI/ML (**[[layered-safeguards-in-clinical-ai|Layered Safeguards]]**), salvaguardie procedurali pre-deployment e governance operativa di erogazione.
+  - Svela una **critica carenza nel tracciamento sistematico degli eventi avversi** (**[[adverse-event-monitoring-in-clinical-ai|Adverse Event Monitoring]]**): solo il 9,5% degli studi (2/21) include protocolli formalizzati di monitoraggio degli eventi indesiderati, suggerendo un significativo effetto di sottostima (*undercount fallacy*) dei reali fallimenti di sicurezza.
   - Documenta fallimenti clinici concreti nei sistemi che si affidano unicamente al prompt engineering (es. risposte generiche ed evasive di fronte a messaggi suicidari in *HopeBot*, citazione di paper scientifici inesistenti in *ComPeer*, e necessità di 13 interventi correttivi umani in *Therabot* per bloccare consigli medici impropri).
 
 ```mermaid
@@ -289,20 +290,40 @@ Sebbene la supervisione umana al 100% adottata in *Therabot* (dove i clinici han
 
 ---
 
-## Connessioni e Voci Correlate nella Knowledge Base
+## Relazioni
 
 - **Framework di Sicurezza e Architettura:**
-  - [Sociotechnical Safety Framework in Clinical AI](concetti/sociotechnical-safety-in-clinical-ai.md) — La formalizzazione del paradigma sociotecnico multilivello.
-  - [Layered Safeguards in Clinical AI](concetti/concetti/concetti\layered-safeguards-in-clinical-ai.md) — Approfondimento sui meccanismi di difesa in profondità algoritmica e procedurale.
-  - [Adverse Event Monitoring in Clinical AI](concetti/adverse-event-monitoring-in-clinical-ai.md) — Tassonomia e metodologie di tracciamento dei danni iatrogeni da GenAI.
+  - [[sociotechnical-safety-in-clinical-ai|Sociotechnical Safety Framework in Clinical AI]] — La formalizzazione del paradigma sociotecnico multilivello.
+  - [[layered-safeguards-in-clinical-ai]] — Approfondimento sui meccanismi di difesa in profondità algoritmica e procedurale.
+  - [[adverse-event-monitoring-in-clinical-ai]] — Tassonomia e metodologie di tracciamento dei danni iatrogeni da GenAI.
 - **Interventi, UX ed Efficacia:**
-  - [Generative AI Mental Health Chatbot Interventions (Olisaeloka et al., 2026)](concetti/generative-ai-mental-health-chatbot-interventions.md) — Studio complementare su design, UX e Working Alliance.
-  - [Relational-Engagement Paradox in GenAI](relational-engagement-paradox-genai.md) — Il fenomeno del drop-out massivo a medio termine a fronte di alta alleanza iniziale.
+  - [[generative-ai-mental-health-chatbot-interventions|Generative AI Mental Health Chatbot Interventions (Olisaeloka et al., 2026)]] — Studio complementare su design, UX e Working Alliance.
+  - [[relational-engagement-paradox-genai|Relational-Engagement Paradox in GenAI]] — Il fenomeno del drop-out massivo a medio termine a fronte di alta alleanza iniziale.
 - **Governance, Linee Guida e Regolamentazione:**
-  - [Software as a Medical Device (SaMD) in Salute Mentale](software-as-a-medical-device-salute-mentale.md) — Normative FDA e MDR per dispositivi medici digitali.
-  - [Demarcazione Wellness vs SaMD in Salute Mentale](concetti/demarcazione-wellness-vs-samd-salute-mentale.md) — Confini legali tra app di supporto e dispositivi terapeutici.
-  - [Configurazione di Sicurezza per Piattaforme di IA Clinica](concetti/configurazione-sicurezza-piattaforme-ia-clinica.md) — Best practice operative per la protezione dei dati e la mitigazione del rischio.
-  - [Linee Guida di Reporting per l'IA Generativa (CHART & ELEVATE)](concetti/linee-guida-reporting-ai-generativa-chart-elevate.md) — Standard metodologici per la trasparenza degli studi clinici su GenAI.
+  - [[software-as-a-medical-device-salute-mentale|Software as a Medical Device (SaMD) in Salute Mentale]] — Normative FDA e MDR per dispositivi medici digitali.
+  - [[demarcazione-wellness-vs-samd-salute-mentale|Demarcazione Wellness vs SaMD in Salute Mentale]] — Confini legali tra app di supporto e dispositivi terapeutici.
+  - [[configurazione-sicurezza-piattaforme-ia-clinica|Configurazione di Sicurezza per Piattaforme di IA Clinica]] — Best practice operative per la protezione dei dati e la mitigazione del rischio.
+  - [[linee-guida-reporting-ai-generativa-chart-elevate|Linee Guida di Reporting per l'IA Generativa (CHART & ELEVATE)]] — Standard metodologici per la trasparenza degli studi clinici su GenAI.
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Campellone, T. R., Flom, M., Montgomery, R. M., Bullard, L., Pirner, M. C., Pavez, A., et al. (2025). Safety and User Experience of a Generative Artificial Intelligence Digital Mental Health Intervention: Exploratory Randomized Controlled Trial. *Journal of Medical Internet Research*, 27, e67365.
+- Espinoza, F., et al. (2024). Supporting dementia caregivers in Peru through chatbots: generative AI vs structured conversations. *BCS Learning & Development*, 89–98.
+- Guo, Z., et al. (2024). Large Language Models for Mental Health Applications: Systematic Review. *JMIR Ment. Health*, *11*, e57400.
+- Habicht, J., et al. (2024). Closing the accessibility gap to mental health treatment with a personalized self-referral chatbot. *Nat. Med*, *30*, 595–602.
+- Heinz, M. V., Mackin, D. M., Trudeau, B. M., Bhattacharya, S., Wang, Y., Banta, H. A., ... & Jacobson, N. C. (2025). Randomized trial of a generative AI chatbot for mental health treatment. *NEJM AI*, 2, AIoa2400802.
+- Javanbakht, A., et al. (2024). Unreal that feels real: artificial intelligence-enhanced augmented reality for treating PTSD and anxiety disorders. *European Journal of Psychotraumatology*, 15, 2418248.
+- Lai, T., et al. (2024). Supporting the Demand on Mental Health Services with AI-Based Conversational Large Language Models (LLMs). *BioMedInformatics*, *4*, 8–33.
+- Liu, T., Zhao, H., Liu, Y., Wang, X., & Peng, Z. (2024). ComPeer: A Generative Conversational Agent for Proactive Peer Support. Preprint. https://doi.org/10.48550/arXiv.2407.18064
+- Manole, A., Cârciumaru, R., Brînzaș, R., & Manole, F. (2024). Harnessing AI in Anxiety Management: A Chatbot-Based Intervention for Personalized Mental Health Support. *Information*, *15*, 768.
+- Nazarova, D. (2023). Application of Artificial Intelligence in Mental Healthcare: Generative Pre-trained Transformer 3 (GPT-3) and Cognitive Distortions. In Arai, K. (Ed.), *Proceedings of the Future Technologies Conference (FTC) 2023, Volume 1* (pp. 204–219). Springer Nature Switzerland. https://doi.org/10.1007/978-3-031-47454-5_16
+- Ng, S. H., Soon, L.-K., & Su, T. T. (2023). Emotion-Aware Chatbot with Cultural Adaptation for Mitigating Work-Related Stress. In *Proceedings of the Asian HCI Symposium 2023* (pp. 41–50). Association for Computing Machinery. https://doi.org/10.1145/3604571.3604578
+- Ogamba, M., Gitonga, J., Muriithi, B., Olukuru, J., & Sevilla, J. (2023). Wellness Buddy: An AI Mental Health Chatbot for Kenyan University Students. In *2023 First International Conference on the Advancements of Artificial Intelligence in African Context (AAIAC)* (pp. 1–6). https://doi.org/10.1109/AAIAC60008.2023.10465291
+- Olisaeloka, L., Richardson, C. G., Wang, A. Y., Munthali, R. J., & Vigo, D. V. (2026). Safety mechanisms and risk mitigation in generative AI mental health chatbots: A systematic scoping review [Preprint]. Department of Psychiatry, University of British Columbia.
+- Sabour, S., Zhang, W., Xiao, X., Zhang, Y., Zheng, Y., Wen, J., et al. (2023). A chatbot for mental health support: exploring the impact of Emohaa on reducing mental distress in China. *Frontiers in Digital Health*, 5, 1133987.
+- Schäfer, L. M., Krause, T., & Köhler, S. (2025). Exploring user characteristics, motives, and expectations and the therapeutic alliance in the mental health conversational AI Clare®: a baseline study. *Frontiers in Digital Health*, 7, 1576135.
+- van der Schyff, E. L., Ridout, B., Amon, K. L., Forsyth, R., & Campbell, A. J. (2023). Providing self-led mental health support through an artificial intelligence–powered chat bot (Leora) to meet the demand of mental health care. *Journal of Medical Internet Research*, *25*, e46448.
+- Vossen, W., et al. (2024). The effect of personalizing a psychotherapy conversational agent on therapeutic bond and usage intentions. In *Proceedings of the 29th International Conference on Intelligent User Interfaces* (pp. 761–771). ACM.
+- Wang, X., et al. (2024). The Synergy of Dialogue and Art: Exploring the Potential of Multimodal AI Chatbots in Emotional Support. In *Companion Publication of the 2024 Conference on Computer-Supported Cooperative Work and Social Computing* (pp. 147–153). ACM. https://doi.org/10.1145/3678884.3681843
+- Xygkou, A., et al. (2024). MindTalker: Navigating the Complexities of AI-Enhanced Social Engagement for People with Early-Stage Dementia. https://doi.org/10.1145/3613904.3642538
+- Yu, H., & McGuinness, S. (2024). An Experimental Study of Integrating Fine-tuned LLMs and Prompts for Enhancing Mental Health Support Chatbot System. *J. Med. Artif. Intell*. https://doi.org/10.21037/jmai-23-1
+- Zhang, H., Qiao, Z., Wang, H., Duan, B., & Yin, J. (2024). VCounselor: a psychological intervention chat agent based on a knowledge-enhanced large language model. *Multimed. Syst*, *30*, 363.

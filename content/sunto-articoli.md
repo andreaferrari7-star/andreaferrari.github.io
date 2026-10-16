@@ -16,6 +16,7 @@ tags:
   - rlhf-bias
   - simulated-patients
   - cbt-simulation
+tipo_fonte: [scientifica, interna]
 source_papers:
   - Sunto articoli.docx.pdf
 ---

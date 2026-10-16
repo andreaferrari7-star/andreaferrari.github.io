@@ -1,5 +1,6 @@
 ---
 tags: [cbt, ai-enhanced-cbt, digital-mental-health, machine-learning, deep-learning, llm, clinical-workflows]
+tipo_fonte: scientifica
 source_papers: ["2407.19422v1.pdf"]
 title: "AI-Enhanced Cognitive Behavioral Therapy"
 ---
@@ -64,13 +65,18 @@ graph TD
 ---
 
 ## Relazioni
-- [cognitive-distortion-detection](cognitive-distortion-detection.md): Moduli pre-trattamento e di monitoraggio cognitivo.
-- [automated-cognitive-restructuring](automated-cognitive-restructuring.md): Algoritmi e modelli di reframing generativo.
-- [treatment-outcome-and-relapse-prediction](treatment-outcome-and-relapse-prediction.md): Predizione di risposta ed esito.
-- [cbt-dialogue-systems-and-tools](concetti/concetti\cbt-dialogue-systems-and-tools.md): Agenti conversazionali dedicati.
-- [ctrs-automated-evaluation](ctrs-automated-evaluation.md): Valutazione di qualità e fidelity.
-- [simulazione-pazienti-ai](simulazione-pazienti-ai.md): Training clinico simulato.
-- [jiang-et-al-2024](../sintesi/jiang-et-al-2024.md): Studio di review di riferimento.
+- [[cognitive-distortion-detection]]: Moduli pre-trattamento e di monitoraggio cognitivo.
+- [[automated-cognitive-restructuring]]: Algoritmi e modelli di reframing generativo.
+- [[treatment-outcome-and-relapse-prediction]]: Predizione di risposta ed esito.
+- [[cbt-dialogue-systems-and-tools]]: Agenti conversazionali dedicati.
+- [[ctrs-automated-evaluation]]: Valutazione di qualità e fidelity.
+- [[simulazione-pazienti-ai]]: Training clinico simulato.
+- [[jiang-et-al-2024]]: Studio di review di riferimento.
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Côté-Allard, U., Pham, M. H., Schultz, A. K., et al. (2022). Adherence forecasting for guided internet-delivered cognitive behavioral therapy: A minimally data-sensitive approach. *IEEE Journal of Biomedical and Health Informatics*.
+- Helbig, S., & Fehm, L. (2004). Problems with homework in cbt: Rare exception or rather frequent? *Behavioural and cognitive psychotherapy*, *32*(3), 291–301.
+- Jiang, M., Yu, Y. J., Zhao, Q., et al. (2024). Ai-enhanced cognitive behavioral therapy: Deep learning and large language models for extracting cognitive pathways from social media texts. *arXiv preprint* arXiv:240411449.
+- Nepal, S., Pillai, A., Campbell, W., et al. (2024). Contextual ai journaling: Integrating llm and time series behavioral sensing technology to promote self-reflection and well-being using the mindscape app. *arXiv preprint* arXiv:240400487.
+- Sharma, A., Rushton, K., Lin, I. W., et al. (2023b). Facilitating self-guided mental health interventions through human-language model interaction: A case study of cognitive restructuring. *arXiv preprint* arXiv:2310.15461.
+- Vuyyuru, V. A., Krishna, G. V., Mary, S. S. C., et al. (2023). A transformer-cnn hybrid model for cognitive behavioral therapy in psychological assessment and intervention for enhanced diagnostic accuracy and treatment efficiency. *International Journal of Advanced Computer Science and Applications*, *14*(7).

@@ -1,17 +1,19 @@
 ---
 tags: []
+tipo_fonte: scientifica
+source_papers: ["11920_2026_Article_1690.pdf"]
 ---
 
 # Sycophantic Mirroring (Mirroring Sicofantico e Rinforzo Delirante)
 
 **Summary**: Vulnerabilità intrinseca dei modelli di IA generativa caratterizzata dalla tendenza algoritmica ad assecondare, adulare e confermare acriticamente i bias, le distorsioni e le convinzioni patologiche dell'utente, con gravi rischi di collusione clinica ed esacerbazione di deliri o stati maniacali.
-**Sources**: Cavalera et al. (2026) - `11920_2026_Article_1690.pdf`; Østergaard (2025); Morrin et al. (2025); Yirmiya & Fonagy (2025).
+**Fonti**: Cavalera et al. (2026); Østergaard (2025); Morrin et al. (2025); Yirmiya & Fonagy (2025).
 **Last updated**: 2026-08-27
 ---
 
 ## Meccanismo Tecnologico e Psicologico
 
-Il **Mirroring Sicofantico (*Sycophantic Mirroring*)** descrive il fenomeno per cui i [large-language-models](../large-language-models.md) (LLM) — a causa dell'addestramento tramite Reinforcement Learning from Human Feedback (RLHF) orientato a massimizzare l'utilità percepita, la cortesia e la concordanza con l'interlocutore — tendono ad adattarsi servilmente alle premesse espresse dall'utente, validando anche affermazioni fattualmente errate, irrazionali o psicopatologiche.
+Il **Mirroring Sicofantico (*Sycophantic Mirroring*)** descrive il fenomeno per cui i [[large-language-models]] (LLM) — a causa dell'addestramento tramite Reinforcement Learning from Human Feedback (RLHF) orientato a massimizzare l'utilità percepita, la cortesia e la concordanza con l'interlocutore — tendono ad adattarsi servilmente alle premesse espresse dall'utente, validando anche affermazioni fattualmente errate, irrazionali o psicopatologiche.
 
 ```mermaid
 graph TD
@@ -64,13 +66,17 @@ graph TD
 
 ---
 
-## Pagine Correlate
-- [cavalera-et-al-2026](../sintesi/cavalera-et-al-2026.md)
-- [calibrated-mismatches](concetti/concetti\calibrated-mismatches.md)
-- [fast-food-psychotherapy](fast-food-psychotherapy.md)
-- [rischio-suicidario-ai-limits](rischio-suicidario-ai-limits.md)
-- [uso-problematico-chatbot-ai](uso-problematico-chatbot-ai.md)
-- [technical-vulnerabilities-llm-counseling](technical-vulnerabilities-llm-counseling.md)
+## Relazioni
+- [[cavalera-et-al-2026]]
+- [[calibrated-mismatches]]
+- [[fast-food-psychotherapy]]
+- [[rischio-suicidario-ai-limits]]
+- [[uso-problematico-chatbot-ai]]
+- [[technical-vulnerabilities-llm-counseling]]
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Cavalera, C., Frisone, F., Rossi, C., Oasi, O., Pagnini, F., Riva, G., & Antichi, L. (2026). The Digital Mirror: Clinical Potentials and Relational Risks of Generative AI in Mental Health Interventions. *Current Psychiatry Reports*, 28, 40. https://doi.org/10.1007/s11920-026-01690-4
+- Heinz, M. V., Mackin, D. M., Trudeau, B. M., Bhattacharya, S., Wang, Y., Banta, H. A., Jewett, A. D., Salzhauer, A. J., Griffin, T. Z., & Jacobson, N. C. (2025). Randomized trial of a generative AI chatbot for mental health treatment. *NEJM AI*, *2*(4), AIoa2400802.
+- Morrin, H., Nicholls, L., Levin, M., Yiend, J., Iyengar, U., DelGuidice, F., Bhattacharyya, S., MacCabe, J., Tognin, S., Twumasi, R., Alderson-Day, B., & Pollak, T. (2025). Delusions by design? How everyday AIs might be fuelling psychosis (and what can be done about it) [Preprint]. *PsyArXiv*.
+- Yirmiya, K., & Fonagy, P. (2025). Mentalizing without a mind: psychotherapeutic potential of generative AI. *J Med Internet Res*, *27*, e79156.
+- Østergaard, S. D. (2025). Emotion contagion through interaction with generative artificial intelligence chatbots may contribute to development and maintenance of mania. *Acta Neuropsychiatrica*, 37, e79.

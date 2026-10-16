@@ -1,5 +1,6 @@
 ---
 tags: [architecture, agent-harness, safety, governance]
+tipo_fonte: scientifica
 source_papers: ["preprints202604.0428.v3.pdf"]
 ---
 
@@ -16,5 +17,5 @@ source_papers: ["preprints202604.0428.v3.pdf"]
 - Meng, Q., Wang, Y., Chen, L., Li, Y., Wu, W., Jiang, W., Wang, Q., Lu, C., Gao, Y., Wu, Y., & Hu, Y. (2026). Agent Harness for Large Language Model Agents: A Survey. *Preprints.org*, 202604.0428.v3. https://doi.org/10.20944/preprints202604.0428.v3
 
 ## Relazioni
-- Vedi anche: [meng-et-al-2026](../meng-et-al-2026.md), [mcp-protocol](mcp-protocol.md)
+- Vedi anche: [[meng-et-al-2026]], mcp-protocol
 

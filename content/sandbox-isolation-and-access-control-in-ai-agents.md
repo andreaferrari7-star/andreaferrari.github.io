@@ -1,5 +1,6 @@
 ---
 tags: [sandboxing, access-control, ai-agent-security, bashagent, execution-isolation, rlhf-limitations, local-vulnerabilities, remote-vulnerabilities, cia-triad, docker-container]
+tipo_fonte: scientifica
 source_papers: ["Security_of_AI_Agents.pdf"]
 ---
 
@@ -58,7 +59,7 @@ flowchart TD
 ---
 
 **Riferimenti Bibliografici:**
-- He, Y., Wang, E., Rong, Y., Cheng, Z., & Chen, H. (2024). Security of AI Agents. *arXiv preprint arXiv:2406.xxxxx* [cs.CR].
+- He, Y., Wang, E., Rong, Y., Cheng, Z., & Chen, H. (2024). Security of AI Agents. *arXiv preprint*.
 - Bell, D. E., & LaPadula, L. J. (1989). *Secure computer systems: Mathematical foundations*. National Technical Information Service.
 - Cohen, S., Bitton, R., & Nassi, B. (2024). ComPromptMized: Unleashing zero-click worms that target GenAI-powered applications. *arXiv preprint*.
 - Liu, X., Yu, H., Zhang, H., Xu, Y., Lei, X., Lai, H., ... & Tang, J. (2023). AgentBench: Evaluating LLMs as agents. *arXiv preprint arXiv:2308.03688*.
@@ -67,7 +68,4 @@ flowchart TD
 ---
 
 ## Relazioni
-- Vedi anche: [security-of-ai-agents](security-of-ai-agents.md), [privacy-preserving-computation-in-ai-agents](privacy-preserving-computation-in-ai-agents.md), [configurazione-sicurezza-piattaforme-ia-clinica](configurazione-sicurezza-piattaforme-ia-clinica.md), [layered-safeguards-in-clinical-ai](concetti/concetti/concetti\layered-safeguards-in-clinical-ai.md), [power-safety-paradox](power-safety-paradox.md), [rlhf-safety-therapeutic-conflict](rlhf-safety-therapeutic-conflict.md), [human-in-the-reasoning](human-in-the-reasoning.md), [automated-clinical-ai-red-teaming](automated-clinical-ai-red-teaming.md)
-
-## Riferimenti Bibliografici
-- [Da integrare]
+- Vedi anche: [[security-of-ai-agents]], [[privacy-preserving-computation-in-ai-agents]], [[configurazione-sicurezza-piattaforme-ia-clinica]], [[layered-safeguards-in-clinical-ai]], [[power-safety-paradox]], [[rlhf-safety-therapeutic-conflict]], [[human-in-the-reasoning]], [[automated-clinical-ai-red-teaming]]

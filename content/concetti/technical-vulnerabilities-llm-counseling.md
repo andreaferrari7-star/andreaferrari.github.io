@@ -1,11 +1,13 @@
 ---
 tags: []
+tipo_fonte: scientifica
+source_papers: ["10.1177_00469580261438322.pdf"]
 ---
 
 # Technical Vulnerabilities of LLMs in Counseling
 
 **Summary**: Analisi delle fragilità architetturali e probabilistiche dei Modelli Linguistici di Grandi Dimensioni (LLM) applicati al contesto clinico-psicologico, comprendenti allucinazioni epistemiche, instabilità delle risposte e shift di distribuzione.
-**Sources**: Erdemir & Sumbas (2026) - `10.1177_00469580261438322.pdf`
+**Fonti**: Erdemir & Sumbas (2026)
 **Last updated**: 2026-08-27
 ---
 
@@ -56,14 +58,14 @@ graph TD
 
 ---
 
-## Related pages
-- [erdemir-sumbas-2026](../sintesi/erdemir-sumbas-2026.md)
-- [three-layer-governance-framework](concetti/concetti\three-layer-governance-framework.md)
-- [human-in-the-reasoning](human-in-the-reasoning.md)
-- [simulated-empathy-vs-authentic-presence](concetti/concetti\simulated-empathy-vs-authentic-presence.md)
-- [clinical-fidelity-assessment](../clinical-fidelity-assessment.md)
-- [large-language-models](../large-language-models.md)
-- [prompting-in-psychology](../prompting-in-psychology.md)
+## Relazioni
+- [[erdemir-sumbas-2026]]
+- [[three-layer-governance-framework]]
+- [[human-in-the-reasoning]]
+- [[simulated-empathy-vs-authentic-presence]]
+- [[clinical-fidelity-assessment]]
+- [[large-language-models]]
+- [[prompting-in-psychology]]
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Erdemir, N., & Sumbas, E. (2026). Integrating Artificial Intelligence into Psychological Counseling: A Narrative Review and Governance Framework. *INQUIRY: The Journal of Health Care Organization, Provision, and Financing*, 63, 1–16. https://doi.org/10.1177/00469580261438322

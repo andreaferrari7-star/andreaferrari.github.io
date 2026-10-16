@@ -1,5 +1,6 @@
 ---
 tags: [refine, reporting-guidelines, foundation-models, large-language-models, medical-ai, health-informatics, delphi-consensus, clinical-validation, open-science, multimodal-ai]
+tipo_fonte: scientifica
 source_papers: ["REFINE_2026.pdf"]
 ---
 
@@ -225,12 +226,15 @@ sequenceDiagram
 ---
 
 ## Pagine Correlate della Wiki
-- [refine-2026](wiki/refine-2026.md) — Sintesi completa della pubblicazione originale di Mese et al. (2026).
-- [dataset-integrity-and-contamination-in-medical-ai](wiki/dataset-integrity-and-contamination-in-medical-ai.md) — Trattazione approfondita su data leakage, pretraining cutoff e bias di campionamento nei modelli sanitari.
-- [mi-clear-llm-2025](wiki/mi-clear-llm-2025.md) — Linea guida specialistica per la rendicontazione dell'accuratezza diagnostica degli LLM.
-- [stochasticity-management-in-clinical-llms](wiki/stochasticity-management-in-clinical-llms.md) — Gestione statistica e iperparametrica della variabilità generativa nei modelli Transformer.
-- [chart-reporting-guideline](wiki/chart-reporting-guideline.md) — Linea guida per la rendicontazione degli studi su chatbot di consulenza sanitaria.
-- [elevate-genai-framework](wiki/elevate-genai-framework.md) — Standard di trasparenza per la ricerca biomedica assistita da GenAI.
+- [[refine-2026]] — Sintesi completa della pubblicazione originale di Mese et al. (2026).
+- [[dataset-integrity-and-contamination-in-medical-ai]] — Trattazione approfondita su data leakage, pretraining cutoff e bias di campionamento nei modelli sanitari.
+- [[mi-clear-llm-2025]] — Linea guida specialistica per la rendicontazione dell'accuratezza diagnostica degli LLM.
+- [[stochasticity-management-in-clinical-llms]] — Gestione statistica e iperparametrica della variabilità generativa nei modelli Transformer.
+- [[chart-reporting-guideline]] — Linea guida per la rendicontazione degli studi su chatbot di consulenza sanitaria.
+- [[elevate-genai-framework]] — Standard di trasparenza per la ricerca biomedica assistita da GenAI.
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Mese, I., Akinci D’Antonoli, T., Bluethgen, C., Bressem, K., Cuocolo, R., Chaudhari, A., Tejani, A. S., Isaac, A., Ponsiglione, A., Meddeb, A., Khosravi, B., Le Guellec, B., Kahn, C. E., Jr., Suh, C. H., Pinto dos Santos, D., Koh, D.-M., Tzanis, E., Kotter, E., Colak, E., . . . Kocak, B. (2026). Reporting checklist for foundation and large language models in medical research (REFINE): An international consensus guideline. *Diagnostic and Interventional Radiology*. Advance online publication. https://doi.org/10.4274/dir.2026.263812
+
+## Relazioni
+- Vedi anche: [[dataset-integrity-and-contamination-in-medical-ai]], [[refine-2026]], [[CANGARU]], [[CLAIM]], [[DEAL]], [[tripod-ai-reporting-guideline]], [[tripod-ai2024]], [[mi-clear-llm-2025]]

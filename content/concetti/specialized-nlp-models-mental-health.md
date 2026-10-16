@@ -1,5 +1,6 @@
 ---
 tags: [nlp, transformers, mentalbert, mentalroberta, mental-llama, sr-bert, domain-shift, large-language-models, suicide-risk]
+tipo_fonte: scientifica
 source_papers: ["10.1177_20552076261421688.pdf"]
 title: "Specialized NLP Models in Mental Health (Modelli NLP e LLM per la Salute Mentale)"
 ---
@@ -74,11 +75,11 @@ Una delle conclusioni più rilevanti della rassegna di Rezaei et al. (2026) rigu
 
 ---
 
-## Pagine Correlate
-- [rezaei-et-al-2026](../sintesi/rezaei-et-al-2026.md)
-- [network-based-ai-mental-healthcare](network-based-ai-mental-healthcare.md)
-- [mental-health-chatbot-taxonomy](mental-health-chatbot-taxonomy.md)
-- [rischio-suicidario-ai-limits](rischio-suicidario-ai-limits.md)
-- [ai-clinical-decision-support](ai-clinical-decision-support.md)
-- [human-in-the-reasoning](human-in-the-reasoning.md)
+## Relazioni
+- [[rezaei-et-al-2026]]
+- [[network-based-ai-mental-healthcare]]
+- [[mental-health-chatbot-taxonomy]]
+- [[rischio-suicidario-ai-limits]]
+- [[ai-clinical-decision-support]]
+- [[human-in-the-reasoning]]
 

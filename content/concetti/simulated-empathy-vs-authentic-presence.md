@@ -1,18 +1,20 @@
 ---
 tags: []
+tipo_fonte: scientifica
+source_papers: ["10.1177_00469580261438322.pdf"]
 ---
 
 # Simulated Empathy vs Authentic Presence
 
 **Summary**: Analisi differenziale tra l'empatia computazionale/simulata generata dagli LLM e l'empatia clinica autentica radicata nell'intersoggettività, nell'embodied cognition e nella presenza terapeutica umana.
-**Sources**: Erdemir & Sumbas (2026) - `10.1177_00469580261438322.pdf`
+**Fonti**: Erdemir & Sumbas (2026)
 **Last updated**: 2026-08-27
 ---
 
 ## Definizione e Confronto Fenomenologico
 
 Nel dibattito sull'IA in salute mentale, emerge una netta distinzione concettuale tra:
-1. **Empatia Simulata (*Simulated Empathy*)**: La capacità algoritmica dei [large-language-models](../large-language-models.md) di riconoscere pattern lessicali ed emettere risposte linguisticamente sintonizzate, cortesi e coerenti con le aspettative dell'utente attraverso predizioni probabilistiche.
+1. **Empatia Simulata (*Simulated Empathy*)**: La capacità algoritmica dei [[large-language-models]] di riconoscere pattern lessicali ed emettere risposte linguisticamente sintonizzate, cortesi e coerenti con le aspettative dell'utente attraverso predizioni probabilistiche.
 2. **Presenza Terapeutica Autentica (*Authentic Therapeutic Presence*)**: L'esperienza intersoggettiva umana, fondata sulla comprensione fenomenologica, sulla sintonizzazione emotiva corporea (*embodied resonance*), sull'intenzionalità reciproca e sulla capacità di condividere e contenere la sofferenza psichica.
 
 ---
@@ -43,13 +45,13 @@ Nel dibattito sull'IA in salute mentale, emerge una netta distinzione concettual
 
 ---
 
-## Related pages
-- [erdemir-sumbas-2026](../sintesi/erdemir-sumbas-2026.md)
-- [three-layer-governance-framework](concetti/concetti\three-layer-governance-framework.md)
-- [digital-therapeutic-alliance](../digital-therapeutic-alliance.md)
-- [anthropomorphism-in-ai](../anthropomorphism-in-ai.md)
-- [human-in-the-reasoning](human-in-the-reasoning.md)
-- [technical-vulnerabilities-llm-counseling](technical-vulnerabilities-llm-counseling.md)
+## Relazioni
+- [[erdemir-sumbas-2026]]
+- [[three-layer-governance-framework]]
+- [[digital-therapeutic-alliance]]
+- [[anthropomorphism-in-ai]]
+- [[human-in-the-reasoning]]
+- [[technical-vulnerabilities-llm-counseling]]
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Erdemir, N., & Sumbas, E. (2026). Integrating Artificial Intelligence into Psychological Counseling: A Narrative Review and Governance Framework. *INQUIRY: The Journal of Health Care Organization, Provision, and Financing*, 63, 1–16. https://doi.org/10.1177/00469580261438322

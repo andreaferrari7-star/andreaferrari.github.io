@@ -1,5 +1,6 @@
 ---
 tags: [motivational-interviewing, dialogue-summarization, clinical-nlp, mental-health, behavioral-change, llm-benchmarking]
+tipo_fonte: scientifica
 source_papers: ["2511.22818v1.pdf"]
 title: "Sintesi e Comprensione del Colloquio Motivazionale (MI) tramite LLM"
 ---
@@ -75,13 +76,15 @@ graph LR
 ---
 
 ## Relazioni
-- [miti-framework-llm-evaluation](miti-framework-llm-evaluation.md): Lo strumento di codifica standard per misurare l'integrità del Colloquio Motivazionale.
-- [semantic-drift-in-therapy-llms](semantic-drift-in-therapy-llms.md): Il rischio di perdita del tono clinico e dell'intento relazionale nella sintesi automatica.
-- [annosum-mi-dataset](annosum-mi-dataset.md): Il dataset di benchmark dedicato ai dialoghi di Colloquio Motivazionale.
-- [progressive-prompting-clinical-summarization](progressive-prompting-clinical-summarization.md): Tecniche di prompting per ottimizzare la qualità della sintesi.
-- [ctrs-automated-evaluation](ctrs-automated-evaluation.md): Valutazione automatizzata equivalente applicata alla CBT.
-- [clinical-fidelity-assessment](../clinical-fidelity-assessment.md): Quadro complessivo sulla fedeltà dell'intervento terapeutico.
-- [kumar-et-al-2025](../sintesi/kumar-et-al-2025.md): Studio sperimentale sulla sintesi di dialoghi MI con modelli di stato dell'arte.
+- [[miti-framework-llm-evaluation]]: Lo strumento di codifica standard per misurare l'integrità del Colloquio Motivazionale.
+- [[semantic-drift-in-therapy-llms]]: Il rischio di perdita del tono clinico e dell'intento relazionale nella sintesi automatica.
+- [[annosum-mi-dataset]]: Il dataset di benchmark dedicato ai dialoghi di Colloquio Motivazionale.
+- [[progressive-prompting-clinical-summarization]]: Tecniche di prompting per ottimizzare la qualità della sintesi.
+- [[ctrs-automated-evaluation]]: Valutazione automatizzata equivalente applicata alla CBT.
+- [[clinical-fidelity-assessment]]: Quadro complessivo sulla fedeltà dell'intervento terapeutico.
+- [[kumar-et-al-2025]]: Studio sperimentale sulla sintesi di dialoghi MI con modelli di stato dell'arte.
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Kumar, V., Rajawat, P. S., & Ntoutsi, E. (2025). Mitigating semantic drift: Evaluating LLMs’ efficacy in psychotherapy through MI dialogue summarization leveraging MITI code. In *2025 International Joint Conference on Neural Networks (IJCNN)*, pp. 1–8. arXiv preprint arXiv:2511.22818v1.
+- Moyers, T. B., Rowell, L. N., Manuel, J. K., Ernst, D., & Houck, J. M. (2016). The Motivational Interviewing Treatment Integrity code (MITI 4): Rationale, preliminary reliability and validity. *Journal of Substance Abuse Treatment*, 65, 36–42.
+- Wu, Z., Balloccu, S., Kumar, V., Helaoui, R., Reiter, E., Reforgiato Recupero, D., & Riboni, D. (2023). Creation, analysis and evaluation of AnnoMI, a dataset of expert-annotated counselling dialogues. *Future Internet*, 15(3), 110.

@@ -1,11 +1,13 @@
 ---
 tags: []
+tipo_fonte: scientifica
+source_papers: ["2505.20796v1.pdf"]
 ---
 
 # Interazione Triadica e Trauma-Informed Design in Salute Mentale
 
 **Summary**: Modello architetturale e relazionale a tre vie (Paziente – Terapeuta – Sistema IA) basato sull'integrazione dei principi di *Trauma-Informed HCI Design*, Explainable AI (XAI) e controllo clinico esclusivo per garantire un'applicazione sicura ed efficace dell'IA generativa in psicoterapia.
-**Sources**: Degenhard et al. (2025) - `2505.20796v1.pdf`
+**Fonti**: Degenhard et al. (2025)
 **Last updated**: 2026-08-27
 ---
 
@@ -64,14 +66,14 @@ L'interazione triadica consente di mantenere questo delicato equilibrio: massimi
 
 ---
 
-## Related pages
-- [degenhard-et-al-2025](../sintesi/degenhard-et-al-2025.md)
-- [generative-ai-exposure-therapy](generative-ai-exposure-therapy.md)
-- [rischi-esposizione-cptsd-ia](rischi-esposizione-cptsd-ia.md)
-- [distorsione-memoria-imagery-rescripting-ia](distorsione-memoria-imagery-rescripting-ia.md)
-- [human-in-the-reasoning](human-in-the-reasoning.md)
-- [simulated-empathy-vs-authentic-presence](concetti/concetti\simulated-empathy-vs-authentic-presence.md)
-- [gestione-clinica-paziente-ia](gestione-clinica-paziente-ia.md)
+## Relazioni
+- [[degenhard-et-al-2025]]
+- [[generative-ai-exposure-therapy]]
+- [[rischi-esposizione-cptsd-ia]]
+- [[distorsione-memoria-imagery-rescripting-ia]]
+- [[human-in-the-reasoning]]
+- [[simulated-empathy-vs-authentic-presence]]
+- [[gestione-clinica-paziente-ia]]
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Degenhard, A., Tschöke, S., Rietzler, M., & Rukzio, E. (2025). Describe Me Something You Do Not Remember - Challenges and Risks of Exposure Design Using Generative Artificial Intelligence for Therapy of Complex Post-traumatic Disorder. *arXiv preprint arXiv:2505.20796v1 [cs.HC]*.

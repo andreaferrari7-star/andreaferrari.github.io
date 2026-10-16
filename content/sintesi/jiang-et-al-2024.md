@@ -1,5 +1,6 @@
 ---
 tags: [cbt, artificial-intelligence, machine-learning, deep-learning, large-language-models, cognitive-restructuring, cognitive-distortions, conversational-agents, clinical-prediction, review]
+tipo_fonte: scientifica
 source_papers: ["2407.19422v1.pdf"]
 title: "A Generic Review of Integrating Artificial Intelligence in Cognitive Behavioral Therapy"
 authors: "Meng Jiang, Qing Zhao, Jianqiang Li, Fan Wang, Tianyu He, Xinyan Cheng, Bing Xiang Yang, Grace W.K. Ho, Guanghui Fu"
@@ -127,7 +128,7 @@ Oltre il 60% dei chatbot per la salute mentale si basa su principi CBT.
 ### 2.5 Valutazione della Qualità del Terapeuta e Simulazione Clinica
 - **Valutazione Automatizzata della Fidelity (CTRS):**
   - Automatizzazione del *Cognitive Therapy Rating Scale* (11 dimensioni di competenza clinica CBT).
-  - Modelli BERT adattati e architetture gerarchiche di deep learning su decine di migliaia di trascrizioni di sedute: la proporzione di interventi conformi al protocollo CBT correla positivamente con il miglioramento sintomatico del paziente (Ewbank et al., 2020; Flemotomos et al., 2021; Chen et al., 2022).
+  - Modelli BERT adattati e architetture gerarchiche di deep learning su decine di migliaia di trascrizioni di sedute: la proporzione di interventi conformi al protocollo CBT correla positivamente con il miglioramento sintomatico del paziente (Ewbank et al., 2020; Flemotomos et al., 2021; Chen et al., 2022a).
 - **Simulazione di Pazienti per il Training Clinico:**
   - **PATIENT-Ψ:** Framework basato su LLM per simulare pazienti virtuali con profili cognitivi ed emotivi CBT differenziati, permettendo ai tirocinanti di esercitarsi nel dialogo socratico e nella ristrutturazione cognitiva prima dell'incontro con pazienti reali.
 - **Predizione dell'Aderenza e Rischio Dropout:**
@@ -183,15 +184,32 @@ Oltre il 60% dei chatbot per la salute mentale si basa su principi CBT.
 
 ---
 
-## Relazioni e Concetti Connessi
-- [ai-enhanced-cbt](../concetti/concetti/concetti\ai-enhanced-cbt.md): Framework architetturale e metodologico generale.
-- [cognitive-distortion-detection](../concetti/cognitive-distortion-detection.md): Identificazione computazionale dei pattern disfunzionali di pensiero.
-- [automated-cognitive-restructuring](../concetti/automated-cognitive-restructuring.md): Generazione e reframing cognitivo basati su LLM e Transformer.
-- [cbt-dialogue-systems-and-tools](../concetti/concetti/concetti\cbt-dialogue-systems-and-tools.md): Tassonomia e analisi clinica dei chatbot CBT.
-- [treatment-outcome-and-relapse-prediction](../concetti/treatment-outcome-and-relapse-prediction.md): Modelli predittivi clinici e neurobiologici per esito e ricadute.
-- [ctrs-automated-evaluation](../concetti/ctrs-automated-evaluation.md): Valutazione automatizzata della qualità terapeutica e della fidelity.
-- [clinical-fidelity-assessment](../clinical-fidelity-assessment.md): Monitoraggio standardizzato delle competenze cliniche.
-- [simulazione-pazienti-ai](../simulazione-pazienti-ai.md): Ambienti di role-playing per il training clinico (PATIENT-Ψ).
+## Relazioni
+- [[ai-enhanced-cbt]]: Framework architetturale e metodologico generale.
+- [[cognitive-distortion-detection]]: Identificazione computazionale dei pattern disfunzionali di pensiero.
+- [[automated-cognitive-restructuring]]: Generazione e reframing cognitivo basati su LLM e Transformer.
+- [[cbt-dialogue-systems-and-tools]]: Tassonomia e analisi clinica dei chatbot CBT.
+- [[treatment-outcome-and-relapse-prediction]]: Modelli predittivi clinici e neurobiologici per esito e ricadute.
+- [[ctrs-automated-evaluation]]: Valutazione automatizzata della qualità terapeutica e della fidelity.
+- [[clinical-fidelity-assessment]]: Monitoraggio standardizzato delle competenze cliniche.
+- [[simulazione-pazienti-ai]]: Ambienti di role-playing per il training clinico (PATIENT-Ψ).
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Chen, Z., Flemotomos, N., Imel, Z. E., et al. (2022a). Leveraging open data and task augmentation to automated behavioral coding of psychotherapy conversations in low-resource scenarios. *arXiv preprint* arXiv:2210.14254.
+- Côté-Allard, U., Pham, M. H., Schultz, A. K., et al. (2022). Adherence forecasting for guided internet-delivered cognitive behavioral therapy: A minimally data-sensitive approach. *IEEE Journal of Biomedical and Health Informatics*.
+- Elsharawi, N., & El Bolock, A. (2024). C-journal: A journaling application for detecting and classifying cognitive distortions using deep-learning based on a crowd-sourced dataset. In *Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)* (pp. 3224–3234).
+- Ewbank, M. P., Cummins, R., Tablan, V., et al. (2020). Quantifying the association between psychotherapy content and clinical outcomes using deep learning. *JAMA psychiatry*, *77*(1), 35–43.
+- Flemotomos, N., Martinez, V. R., Chen, Z., et al. (2021). Automated quality assessment of cognitive behavioral therapy sessions through highly contextualized language representations. *PloS one*, *16*(10), e0258639.
+- Lee, Y. K., Lee, I., Shin, M., Bae, S., & Hahn, S. (2023). Chain of empathy: Enhancing empathetic response of large language models based on psychotherapy models. *arXiv preprint* arXiv:2311.04915.
+- Lim, S., Kim, Y., Choi, C. H., et al. (2024). Erd: A framework for improving llm reasoning for cognitive distortion classification. *arXiv preprint* arXiv:240314255.
+- Lin, S., Wang, Y., Dong, J., et al. (2024). Detection and positive reconstruction of cognitive distortion sentences: Mandarin dataset and evaluation. *arXiv preprint* arXiv:240515334.
+- Lorimer, B., Delgadillo, J., Kellett, S., et al. (2021). Dynamic prediction and identification of cases at risk of relapse following completion of low-intensity cognitive behavioural therapy. *Psychotherapy Research*, *31*(1), 19–32.
+- Maddela, M., Ung, M., Xu, J., et al. (2023). Training models to generate, recognize, and reframe unhelpful thoughts. In *Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)* (pp. 13641–13660).
+- Månsson, K. N. T., Frick, A., Boraxbekk, C.-J., et al. (2015). Predicting long-term outcome of internet-delivered cognitive behavior therapy for social anxiety disorder using fMRI and support vector machine learning. *Translational Psychiatry*, *5*(3), e530.
+- Na, H. (2024). Cbt-llm: A chinese large language model for cognitive behavioral therapybased mental health question answering. *arXiv preprint* arXiv:240316008.
+- Sharma, A., Rushton, K., Lin, I. E., Wadden, D., Lucas, K. G., Miner, A. S., Nguyen, T., & Althoff, T. (2023c). Cognitive reframing of negative thoughts through human-language model interaction. In *Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)* (pp. 9977–10000). Association for Computational Linguistics.
+- Shickel, B., Siegel, S., Heesacker, M., et al. (2020). Automatic detection and classification of cognitive distortions in mental health text. In *2020 IEEE 20th International Conference on Bioinformatics and Bioengineering (BIBE), IEEE* (pp. 275–280).
+- Shreevastava, S., & Foltz, P. (2021). Detecting cognitive distortions from patient-therapist interactions. In *Proceedings of the Seventh Workshop on Computational Linguistics and Clinical Psychology: Improving Access* (pp. 151–158).
+- Vieira, S., Liang, X., Guiomar, R., et al. (2022). Can we predict who will benefit from cognitive-behavioural therapy? a systematic review and meta-analysis of machine learning studies. *Clinical Psychology Review*, *97*, 102193.
+- Wang, B., Deng, P., Zhao, Y., et al. (2023a). C2D2 dataset: A resource for the cognitive distortion analysis and its impact on mental health. In *Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing*. Association for Computational Linguistics.
+- Wei, Y., Zhang, R., Wang, Y., et al. (2023). Towards a neuroimaging biomarker for predicting cognitive behavioural therapy outcomes in treatment-naive depression: Preliminary findings. *Psychiatry Research*, *329*, 115542.

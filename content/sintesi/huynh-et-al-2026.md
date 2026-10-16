@@ -1,5 +1,6 @@
 ---
 tags: [conversational-agents, healthcare-ai, umbrella-review, mental-health, clinical-decision-support, addiction, telemedicine, evidence-based-medicine]
+tipo_fonte: scientifica
 source_papers: ["1-s2.0-S1386505625004216-main.pdf"]
 title: "Applications of artificial intelligence-based conversational agents in healthcare: A systematic umbrella review"
 authors: "Anh L. Huynh, Tamal J. Roy, Kierra N. Jackson, Alyona G. Lee, Winston Liaw, M. Mahbub Hossain"
@@ -102,16 +103,16 @@ graph TD
 
 ---
 
-## Pagine Correlate
-- [healthcare-conversational-agents](../concetti/concetti/concetti\healthcare-conversational-agents.md)
-- [conversational-agents-mental-health](../concetti/conversational-agents-mental-health.md)
-- [ai-clinical-decision-support](../concetti/ai-clinical-decision-support.md)
-- [addiction-lifestyle-behavior-change](../concetti/addiction-lifestyle-behavior-change.md)
-- [chronic-disease-monitoring-adherence](../concetti/chronic-disease-monitoring-adherence.md)
-- [ai-assisted-psychotherapy](../ai-assisted-psychotherapy.md)
-- [augmented-psychotherapy](../augmented-psychotherapy.md)
-- [digital-therapeutic-alliance](../digital-therapeutic-alliance.md)
-- [human-in-the-reasoning](../human-in-the-reasoning.md)
+## Relazioni
+- [[healthcare-conversational-agents]]
+- [[conversational-agents-mental-health]]
+- [[ai-clinical-decision-support]]
+- [[addiction-lifestyle-behavior-change]]
+- [[chronic-disease-monitoring-adherence]]
+- [[ai-assisted-psychotherapy]]
+- [[augmented-psychotherapy]]
+- [[digital-therapeutic-alliance]]
+- [[human-in-the-reasoning]]
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- **Zhong, W., Luo, J., & Zhang, H. (2024).** The therapeutic effectiveness of artificial intelligence-based chatbots in alleviation of depressive and anxiety symptoms in short-course treatments: a systematic review and meta-analysis. *Journal of Affective Disorders*, 356, 459–469.

@@ -1,5 +1,6 @@
 ---
 tags: [annosum-mi, annomi, dataset, open-science, low-resource-nlp, mental-health, motivational-interviewing, inter-annotator-agreement]
+tipo_fonte: scientifica
 source_papers: ["2511.22818v1.pdf"]
 title: "Dataset AnnoSUM-MI e Benchmark di Trascrizioni Cliniche Annotate"
 ---
@@ -71,12 +72,14 @@ L'applicazione dell'IA alla salute mentale soffre di una cronica scarsità di da
 ---
 
 ## Relazioni
-- [miti-framework-llm-evaluation](miti-framework-llm-evaluation.md): Lo schema di codifica a 6 dimensioni impiegato in AnnoSUM-MI.
-- [motivational-interviewing-dialogue-summarization](motivational-interviewing-dialogue-summarization.md): Applicazione del dataset per compiti di NLP clinico.
-- [semantic-drift-in-therapy-llms](semantic-drift-in-therapy-llms.md): Quantificazione della deviazione semantica misurata sul test set di AnnoSUM-MI.
-- [synthetic-clinical-dialogues](synthetic-clinical-dialogues.md): Confronto tra dialoghi clinici reali trascritti e dialoghi clinici sintetici.
-- [specialized-nlp-models-mental-health](specialized-nlp-models-mental-health.md): Utilizzo di dataset specialistici per il fine-tuning e la valutazione.
-- [kumar-et-al-2025](../sintesi/kumar-et-al-2025.md): Paper fondativo che rilascia e descrive il dataset.
+- [[miti-framework-llm-evaluation]]: Lo schema di codifica a 6 dimensioni impiegato in AnnoSUM-MI.
+- [[motivational-interviewing-dialogue-summarization]]: Applicazione del dataset per compiti di NLP clinico.
+- [[semantic-drift-in-therapy-llms]]: Quantificazione della deviazione semantica misurata sul test set di AnnoSUM-MI.
+- [[synthetic-clinical-dialogues]]: Confronto tra dialoghi clinici reali trascritti e dialoghi clinici sintetici.
+- [[specialized-nlp-models-mental-health]]: Utilizzo di dataset specialistici per il fine-tuning e la valutazione.
+- [[kumar-et-al-2025]]: Paper fondativo che rilascia e descrive il dataset.
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Hallgren, K. A. (2012). Computing inter-rater reliability for observational data: An overview and tutorial. *Tutorials in Quantitative Methods for Psychology*, 8(1), 23–34.
+- Landis, J. R., & Koch, G. G. (1977). The measurement of observer agreement for categorical data. *Biometrics*, 33(1), 159–174.
+- Tanana, M., Hallgren, K. A., Imel, Z. E., Atkins, D. C., & Srikumar, V. (2016). A comparison of natural language processing methods for automated coding of motivational interviewing. *Journal of Substance Abuse Treatment*, 65, 43–50.

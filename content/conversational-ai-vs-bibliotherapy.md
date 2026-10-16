@@ -1,6 +1,7 @@
 ---
 title: Conversational AI vs. Bibliotherapy in Mental Health
 tags: [conversational-ai, bibliotherapy, digital-cbt, working-alliance, therapeutic-rapport, interactive-scaffolding, clinical-effectiveness, meta-analysis, socratic-dialogue, humayun-2025]
+tipo_fonte: scientifica
 source_papers: ["pone.0332207.pdf"]
 date: 2026-09-01
 ---
@@ -33,6 +34,3 @@ Nella sintesi meta-analitica di Humayun et al. (2025) e nel trial randomizzato d
 - **Implicazioni per la Sanità Pubblica:**
     - **Sostituzione della Biblioterapia nello Step 2:** I servizi sanitari dovrebbero aggiornare le linee guida di *stepped-care*, promuovendo agenti conversazionali certificati come primo livello attivo d'intervento.
     - **Integrazione come Esercizio Tra le Sedute:** L'assegnazione di compiti interattivi su chatbot supera l'inerzia tipica dei diari cartacei.
-
-## Riferimenti Bibliografici
-- [Da integrare]

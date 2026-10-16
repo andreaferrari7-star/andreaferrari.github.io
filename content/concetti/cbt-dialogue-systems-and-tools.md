@@ -1,5 +1,6 @@
 ---
 tags: [cbt, conversational-agents, chatbots, woebot, wysa, youper, emohaa, patient-psi, clinical-tools, digital-therapeutics]
+tipo_fonte: scientifica
 source_papers: ["2407.19422v1.pdf"]
 title: "CBT Dialogue Systems and Clinical Tools"
 ---
@@ -62,12 +63,14 @@ graph TD
 ---
 
 ## Relazioni
-- [ai-enhanced-cbt](concetti/concetti\ai-enhanced-cbt.md): Integrazione nel framework generale.
-- [cognitive-distortion-detection](cognitive-distortion-detection.md): Algoritmi di NLU integrati nelle interfacce.
-- [automated-cognitive-restructuring](automated-cognitive-restructuring.md): Generazione di risposte di reframing.
-- [conversational-agents-mental-health](conversational-agents-mental-health.md): Panoramica meta-analitica generale.
-- [simulazione-pazienti-ai](simulazione-pazienti-ai.md): Focus specifico su PATIENT-Ψ e simulatori per tirocinanti.
-- [jiang-et-al-2024](../sintesi/jiang-et-al-2024.md): Studio di review di riferimento.
+- [[ai-enhanced-cbt]]: Integrazione nel framework generale.
+- [[cognitive-distortion-detection]]: Algoritmi di NLU integrati nelle interfacce.
+- [[automated-cognitive-restructuring]]: Generazione di risposte di reframing.
+- [[conversational-agents-mental-health]]: Panoramica meta-analitica generale.
+- [[simulazione-pazienti-ai]]: Focus specifico su PATIENT-Ψ e simulatori per tirocinanti.
+- [[jiang-et-al-2024]]: Studio di review di riferimento.
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Abd-Alrazaq, A. A., Alajlani, M., Alalwan, A. A., et al. (2019). An overview of the features of chatbots in mental health: A scoping review. *International journal of medical informatics*, *132*, 103978.
+- Jiang, M., Yu, Y. J., Zhao, Q., et al. (2024). Ai-enhanced cognitive behavioral therapy: Deep learning and large language models for extracting cognitive pathways from social media texts. *arXiv preprint* arXiv:240411449.
+- Yin, Y., Jia, N., & Wakslak, C. J. (2024). Ai can help people feel heard, but an ai label diminishes this impact. *Proceedings of the National Academy of Sciences*, *121*(14), e2319112121.

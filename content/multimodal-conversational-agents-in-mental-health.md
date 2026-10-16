@@ -1,5 +1,6 @@
 ---
 tags: [multimodal-ai, conversational-agents, voice-interfaces, speech-processing, nonverbal-cues, digital-mental-health, therapeutic-alliance, accessibility, parkinsons-disease, older-adults, humayun-2025]
+tipo_fonte: scientifica
 source_papers: ["pone.0332207.pdf"]
 ---
 
@@ -7,7 +8,7 @@ source_papers: ["pone.0332207.pdf"]
 
 ## Definizione Operativa
 - Il concetto di **Multimodal Conversational Agents in Mental Health** definisce la classe di agenti interattivi basati su intelligenza artificiale che integrano e sincronizzano simultaneamente molteplici canali comunicativi e percettivi:
-  1. **Testo in linguaggio naturale:** Modelli di Natural Language Processing ([LLM](concetti/large-language-models.md)) per la decodifica semantica e la ristrutturazione cognitiva;
+  1. **Testo in linguaggio naturale:** Modelli di Natural Language Processing ([[large-language-models|LLM]]) per la decodifica semantica e la ristrutturazione cognitiva;
   2. **Voce e prosodia:** Moduli di *Automatic Speech Recognition* (ASR) e *Text-to-Speech* (TTS) sensibili all'intonazione affettiva, al ritmo e ai biomarker vocali;
   3. **Segnali visivo-espressivi e interfacce multimediali:** Rilevamento della mimica facciale (sorrisi, micro-espressioni), biofeedback e supporti grafici interattivi (Humayun et al., 2025; *PLoS ONE*, doi: [10.1371/journal.pone.0332207](https://doi.org/10.1371/journal.pone.0332207)).
 - **Evidenze Meta-Analitiche di Superiorità:** Nella sintesi quantitativa condotta da Humayun et al. (2025), gli agenti conversazionali multimodali hanno conseguito dimensioni dell'effetto sistematicamente superiori (**Cohen's $d = 0.78 - 0.85$**, es. Liu et al., 2022; Drouin et al., 2022) rispetto ai chatbot puramente testuali ($d = 0.62 - 0.70$, es. Prochaska et al., 2021; Klos et al., 2021; Romanovskyi et al., 2021).
@@ -75,11 +76,11 @@ flowchart LR
 ```
 
 ### 1. Il Canale Vocale e Prosodico (*Voice & Acoustic Processing*)
-- **Ascolto e Riconoscimento:** Moduli di *Automatic Speech Recognition* (ASR) combinati con l'analisi dei pattern acustici (prosodia, velocità dell'eloquio, esitazioni, frequenza fondamentale). Nei disturbi dell'umore e nelle condizioni neurodegenerative, la voce riflette direttamente il livello di anedonia, rallentamento psicomotorio o disregolazione autonomica ([Vocal Biomarkers in Depression](vocal-biomarkers-in-depression.md)).
+- **Ascolto e Riconoscimento:** Moduli di *Automatic Speech Recognition* (ASR) combinati con l'analisi dei pattern acustici (prosodia, velocità dell'eloquio, esitazioni, frequenza fondamentale). Nei disturbi dell'umore e nelle condizioni neurodegenerative, la voce riflette direttamente il livello di anedonia, rallentamento psicomotorio o disregolazione autonomica ([[vocal-biomarkers-in-depression]]).
 - **Sintesi Vocale Calibrata:** L'output vocale sintetizzato modula tono, volume e ritmo per trasmettere calore, comprensione e contenimento affettivo, simulando l'intonazione rassicurante della voce terapeutica umana.
 
 ### 2. Il Canale Testuale e Semantico (*Semantic & CBT Reasoning*)
-- **Elaborazione del Linguaggio Naturale:** Il motore di comprensione testuale (LLM specializzato o albero decisionale esperto) analizza i contenuti esternalizzati dal paziente, estrae le credenze disfunzionali (es. catastrofizzazione, pensiero dicotomico) e struttura la risposta secondo protocolli empiricamente validati di terapia cognitivo-comportamentale ([AI-Enhanced CBT](concetti/concetti/concetti\concetti/concetti\ai-enhanced-cbt.md)).
+- **Elaborazione del Linguaggio Naturale:** Il motore di comprensione testuale (LLM specializzato o albero decisionale esperto) analizza i contenuti esternalizzati dal paziente, estrae le credenze disfunzionali (es. catastrofizzazione, pensiero dicotomico) e struttura la risposta secondo protocolli empiricamente validati di terapia cognitivo-comportamentale ([[ai-enhanced-cbt]]).
 
 ### 3. Il Canale Visivo-Interattivo e Comportamentale (*Visual & Multimedia Feedback*)
 - **Rilevamento delle Espressioni e Biofeedback:** Telecamere e sensori ottici rilevano micro-espressioni e reazioni emotive immediate. Nello studio di Ogawa et al. (2022), il chatbot interattivo su tablet ha analizzato e stimolato attivamente la mimica del sorriso (*facial expressivity*) e la cadenza verbale in pazienti con malattia di Parkinson.
@@ -154,17 +155,22 @@ flowchart TD
 
 1. **Gestione della Latenza Conversazionale (*Turn-Taking*):** Nell'interazione vocale terapeutica, pause superiori a 800–1000 ms spezzano il senso di sintonia empatica. L'integrazione di pipeline *Speech-to-Speech* ultra-rapide e modelli di decodifica on-device è fondamentale per mantenere la fluidità relazionale.
 2. **Trattamento dei Dati Biometrici Vocali e Facciali:** La voce e il volto costituiscono identificatori biometrici diretti ai sensi del GDPR. I sistemi devono garantire la crittografia end-to-end, l'elaborazione locale o l'anonimizzazione dei flussi prima del passaggio a server cloud.
-3. **Prevenzione dell'Intimità Artificiale (*Artificial Intimacy*):** La ricchezza relazionale degli agenti multimodali (specie in app di compagnia sociale come Replika, Drouin et al., 2022) richiede un design rigoroso che espliciti costantemente la natura algoritmica del sistema, evitando dipendenze affettive patologiche o l'allontanamento dalle relazioni umane reali ([Artificial Intimacy](concetti/artificial-intimacy.md)).
+3. **Prevenzione dell'Intimità Artificiale (*Artificial Intimacy*):** La ricchezza relazionale degli agenti multimodali (specie in app di compagnia sociale come Replika, Drouin et al., 2022) richiede un design rigoroso che espliciti costantemente la natura algoritmica del sistema, evitando dipendenze affettive patologiche o l'allontanamento dalle relazioni umane reali ([[artificial-intimacy]]).
 
 ---
 
-## Pagine Correlate
-- [PLoS ONE Meta-Analysis (Humayun et al., 2025)](concetti/pone-0332207.md): Sintesi meta-analitica su 6 RCT e gradienti di effect size.
-- [Conversational AI vs Bibliotherapy](concetti/conversational-ai-vs-bibliotherapy.md): Dinamiche dell'alleanza di lavoro e reciprocità dialogica rispetto a testi statici.
-- [Digital Therapeutic Alliance](concetti/digital-therapeutic-alliance.md): Metriche e costrutti per misurare l'alleanza uomo-IA.
-- [Vocal Biomarkers in Depression](vocal-biomarkers-in-depression.md): Analisi acustica e prosodica come marker clinico predittivo.
-- [Multimodal Observable Cues in Psychiatry](concetti/multimodal-observable-cues-in-psychiatry.md): Integrazione di segnali visivi, vocali e psicometrici in psichiatria.
-- [Artificial Intimacy](concetti/artificial-intimacy.md): Rischi relazionali e attaccamento affettivo nei sistemi di IA sociale.
+## Relazioni
+- [[pone-0332207|PLoS ONE Meta-Analysis (Humayun et al., 2025)]]: Sintesi meta-analitica su 6 RCT e gradienti di effect size.
+- [[conversational-ai-vs-bibliotherapy]]: Dinamiche dell'alleanza di lavoro e reciprocità dialogica rispetto a testi statici.
+- [[digital-therapeutic-alliance]]: Metriche e costrutti per misurare l'alleanza uomo-IA.
+- [[vocal-biomarkers-in-depression]]: Analisi acustica e prosodica come marker clinico predittivo.
+- [[multimodal-observable-cues-in-psychiatry]]: Integrazione di segnali visivi, vocali e psicometrici in psichiatria.
+- [[artificial-intimacy]]: Rischi relazionali e attaccamento affettivo nei sistemi di IA sociale.
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Drouin, M., Sprecher, S., Nicola, R., & Perkins, T. (2022). Is chatting with a sophisticated chatbot as good as chatting online or FTF with a stranger? *Comp Human Behav*, *128*, 107100. https://doi.org/10.1016/j.chb.2021.107100
+- Humayun, A., Madawana, A. M., Hassan, A., Mahmud, A., Kamaruddin, N., Noor, S. H., et al. (2025). Artificial intelligence as a predictive tool for mental health status: Insights from a systematic review and meta-analysis. *PLOS ONE*, *20*(9), e0332207. https://doi.org/10.1371/journal.pone.0332207
+- Klos, M. C., Escoredo, M., Joerin, A., Lemos, V. N., Rauws, M., & Bunge, E. L. (2021). Artificial intelligence-based chatbot for anxiety and depression in university students: pilot randomized controlled trial. *JMIR Form Res*, *5*(8), e20678. https://doi.org/10.2196/20678
+- Liu, H., Peng, H., Song, X., Xu, C., & Zhang, M. (2022). Using AI chatbots to provide self-help depression interventions for university students: a randomized trial of effectiveness. *Internet Interv*, *27*, 100495. https://doi.org/10.1016/j.invent.2022.100495
+- Ogawa, M., Oyama, G., Morito, K., Kobayashi, M., Yamada, Y., Shinkawa, K., et al. (2022). Can AI make people happy? The effect of AI-based chatbot on smile and speech in Parkinson’s disease. *Parkinsonism Relat Disord*, *99*, 43–6. https://doi.org/10.1016/j.parkreldis.2022.04.018
+- Romanovskyi, O., Pidbutska, N., & Knysh, A. (2021). Elomia chatbot: the effectiveness of artificial intelligence in the fight for mental health. *CEUR Workshop Proc*, *2870*, 1215–24.

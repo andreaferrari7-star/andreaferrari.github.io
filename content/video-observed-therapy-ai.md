@@ -1,5 +1,6 @@
 ---
 tags: [computer-vision, vdot, video-observed-therapy, medication-adherence, 3d-resnet, i3d, aicure, directly-observed-therapy, deep-learning, telemedicine]
+tipo_fonte: scientifica
 source_papers: ["AI-PoweredReal-TimeAdherenceMonitoringforRemotePatientCareinTelemedicine.pdf"]
 ---
 
@@ -72,12 +73,9 @@ flowchart TD
 
 ## Relazioni
 
-- [ai-poweredreal-timeadherencemonitoringforremotepatientcareintelemedicine-1](ai-poweredreal-timeadherencemonitoringforremotepatientcareintelemedicine-1.md)
-- [wearable-sensor-fusion-adherence](wearable-sensor-fusion-adherence.md)
-- [proactive-surveillance-alert-fatigue](concetti/proactive-surveillance-alert-fatigue.md)
-- [privacy-preserving-rpm-frameworks](concetti/privacy-preserving-rpm-frameworks.md)
-- [chronic-disease-monitoring-adherence](concetti/chronic-disease-monitoring-adherence.md)
-- [software-as-a-medical-device-salute-mentale](software-as-a-medical-device-salute-mentale.md)
-
-## Riferimenti Bibliografici
-- [Da integrare]
+- [[ai-poweredreal-timeadherencemonitoringforremotepatientcareintelemedicine-1]]
+- [[wearable-sensor-fusion-adherence]]
+- [[proactive-surveillance-alert-fatigue]]
+- [[privacy-preserving-rpm-frameworks]]
+- [[chronic-disease-monitoring-adherence]]
+- [[software-as-a-medical-device-salute-mentale]]

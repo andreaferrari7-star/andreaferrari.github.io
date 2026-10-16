@@ -1,5 +1,6 @@
 ---
 tags: [mymentorllm, cbt, generative-ai, deliberate-practice, multimodal-simulation, triadic-architecture, clinical-training]
+tipo_fonte: scientifica
 source_papers: ["2607.25667v1.pdf"]
 title: "MyMentorLLM Framework"
 ---
@@ -7,7 +8,7 @@ title: "MyMentorLLM Framework"
 # MyMentorLLM Framework (Architettura Triadica di Simulazione per la Deliberate Practice CBT)
 
 **Summary**: Framework di simulazione generativa multimodale (Rizzi et al., 2026) che riproduce l'intero ciclo di formazione e mentorship in Psicoterapia Cognitivo-Comportamentale (CBT) attraverso un'architettura triadica integrata: Paziente virtuale con ancoraggio DSM-5-TR, Terapeuta in formazione calibrato su dati empirici CTRS reali, e Supervisore clinico esperto per valutazione e debriefing formativo.
-**Sources**: `2607.25667v1.pdf` (*arXiv:2607.25667v1*, 2026)
+**Fonti**: Rizzi et al. (2026)
 **Last updated**: 2026-08-27
 ---
 
@@ -15,7 +16,7 @@ title: "MyMentorLLM Framework"
 
 Tradizionalmente, le applicazioni di Intelligenza Artificiale in psicoterapia si sono focalizzate sulla simulazione diadica (paziente-chatbot) o sul tentativo di sostituire il clinico. **MyMentorLLM** (Rizzi, Grecucci, Stella, 2026) trasforma l'IA generativa in un **ambiente pedagogico di *deliberate practice*** (pratica deliberata), progettato per potenziare la formazione degli psicoterapeuti senza esporre i pazienti reali a rischi clinici precoci.
 
-A differenza delle simulazioni testuali isolate, MyMentorLLM modella l'intero **ecosistema educativo della CBT**, integrando il colloquio clinico, la diagnosi differenziale, la valutazione standardizzata delle competenze ([ctrs-automated-evaluation](ctrs-automated-evaluation.md)) e la supervisione maieutica basata su domande riflessive.
+A differenza delle simulazioni testuali isolate, MyMentorLLM modella l'intero **ecosistema educativo della CBT**, integrando il colloquio clinico, la diagnosi differenziale, la valutazione standardizzata delle competenze ([[ctrs-automated-evaluation]]) e la supervisione maieutica basata su domande riflessive.
 
 ---
 
@@ -83,14 +84,16 @@ Lo studio su 2.100 sedute ha dimostrato che **la modalità audio nativa è l'uni
 ---
 
 ## Relazioni
-- [deliberate-practice-in-psicoterapia-ia](deliberate-practice-in-psicoterapia-ia.md): Quadro concettuale dell'addestramento deliberato.
-- [native-speech-vs-text-in-clinical-simulation](native-speech-vs-text-in-clinical-simulation.md): Differenze metodologiche tra parlato nativo e testo.
-- [risonanza-affettiva-simulazione-clinica](risonanza-affettiva-simulazione-clinica.md): Sintonizzazione emotiva nel framework MyMentorLLM.
-- [over-deference-in-llm-supervision](over-deference-in-llm-supervision.md): Rischi pedagogici del feedback supervisivo nei modelli piccoli.
-- [ctrs-automated-evaluation](ctrs-automated-evaluation.md): Strumento di scoring clinico impiegato nel supervisore.
-- [simulazione-pazienti-ai](simulazione-pazienti-ai.md): Metodologie generali di patient simulation con LLM.
-- [supervisione-clinica-ai](supervisione-clinica-ai.md): Teoria e architetture di supervisione automatizzata.
-- [rizzi-et-al-2026](../sintesi/rizzi-et-al-2026.md): Sintesi dello studio empirico su MyMentorLLM.
+- [[deliberate-practice-in-psicoterapia-ia]]: Quadro concettuale dell'addestramento deliberato.
+- [[native-speech-vs-text-in-clinical-simulation]]: Differenze metodologiche tra parlato nativo e testo.
+- [[risonanza-affettiva-simulazione-clinica]]: Sintonizzazione emotiva nel framework MyMentorLLM.
+- [[over-deference-in-llm-supervision]]: Rischi pedagogici del feedback supervisivo nei modelli piccoli.
+- [[ctrs-automated-evaluation]]: Strumento di scoring clinico impiegato nel supervisore.
+- [[simulazione-pazienti-ai]]: Metodologie generali di patient simulation con LLM.
+- [[supervisione-clinica-ai]]: Teoria e architetture di supervisione automatizzata.
+- [[rizzi-et-al-2026]]: Sintesi dello studio empirico su MyMentorLLM.
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Barnhill, J. W. (2023). DSM-5-TR Clinical Cases. American Psychiatric Association Publishing.
+- Goldberg, S. B., Baldwin, S. A., Merced, K., Caperton, D. D., Imel, Z. E., Atkins, D. C., & Creed, T. (2020). The structure of competence: Evaluating the factor structure of the Cognitive Therapy Rating Scale. *Behavior Therapy*, *51*(1), 113–122. https://doi.org/10.1016/j.beth.2019.05.008
+- Rizzi, R., Grecucci, A., & Stella, M. (2026). MyMentorLLM: A psychotherapy GenAI environment with multimodal voice/text patients, trainees and experts for deliberate practice. *arXiv preprint arXiv:2607.25667v1 [cs.CL]*, 1–27.

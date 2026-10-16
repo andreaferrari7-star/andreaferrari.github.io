@@ -1,5 +1,6 @@
 ---
 tags: [explainable-ai, xai, pediatric-surgery, bias-in-ai, ethical-frameworks, eu-ai-act, accept-ai, benchmarks, machine-learning, clinical-decision-support]
+tipo_fonte: scientifica
 source_papers: ["a-2702-1843.pdf"]
 ---
 
@@ -7,7 +8,7 @@ source_papers: ["a-2702-1843.pdf"]
 
 **Summary**: Articolo di revisione (European Journal of Pediatric Surgery, 2026) che esamina il ruolo cruciale dell'Explainable AI (XAI) nella chirurgia e medicina pediatrica. Il lavoro analizza le sfide specifiche delle popolazioni pediatriche (dati limitati, eterogenei e dinamici con il 77% dei modelli ad alto rischio di bias), mappa la tassonomia dei bias lungo l'intera pipeline algoritmica, confronta le metodologie di interpretabilità intrinseca e post-hoc (alberi, SVM, XGBoost, Attention, SHAP, LIME, PDP, Grad-CAM/Saliency maps), inquadra la spiegabilità all'interno dei quattro principi della bioetica (autonomia, beneficenza, non-maleficenza, giustizia) e dei requisiti normativi (EU AI Act per i sistemi ad alto rischio, ACCEPT-AI, linee guida UE e OMS), ed evidenzia la pressante necessità di benchmark dedicati e protocolli di validazione prospettica human-in-the-loop per garantire applicazioni di IA eque, sicure e clinicamente efficaci per l'infanzia.
 
-**Sources**: `a-2702-1843.pdf` (*European Journal of Pediatric Surgery*, Vol. 36, pp. 168–173, 2026. DOI: 10.1055/a-2702-1843)
+**Fonti**: *European Journal of Pediatric Surgery*, Vol. 36, pp. 168–173, 2026. DOI: 10.1055/a-2702-1843.
 **Last updated**: 2026-08-27
 ---
 
@@ -229,12 +230,14 @@ Gli autori delineano quattro priorità strategiche per la ricerca e l'implementa
 
 ## Pagine e Concetti Correlati
 
-- [xai-in-pediatric-surgery](../xai-in-pediatric-surgery.md): Metodologie di explainable AI (intrinseche vs post-hoc) e applicazioni cliniche in chirurgia pediatrica.
-- [pediatric-ai-bias-and-vulnerabilities](../pediatric-ai-bias-and-vulnerabilities.md): Pipeline del bias (dati, etichettatura, sviluppo, deployment) e vulnerabilità dello sviluppo pediatrico.
-- [accept-ai-and-pediatric-ethical-frameworks](../concetti/accept-ai-and-pediatric-ethical-frameworks.md): Principi bioetici, conformità al regolamento EU AI Act e linee guida operative ACCEPT-AI.
-- [pediatric-xai-benchmarking](../concetti/pediatric-xai-benchmarking.md): Standardizzazione della valutazione di fedeltà e stabilità delle spiegazioni (BenchXAI, XAIB) e validazione clinica prospettica.
-- [ai-clinical-decision-support](../concetti/ai-clinical-decision-support.md): Sistemi di supporto decisionale clinico e integrazione nei workflow sanitari.
-- [algorithmic-bias-and-digital-inequalities](../concetti/algorithmic-bias-and-digital-inequalities.md): Disparità algoritmiche, campionamento WEIRD e impatto sui gruppi vulnerabili.
-- [etica-privacy-bias-ia-clinica](../concetti/etica-privacy-bias-ia-clinica.md): Fondamenti etico-deontologici e tutela della privacy nei sistemi intelligenti sanitari.
-- [three-layer-governance-framework](../concetti/concetti/concetti\three-layer-governance-framework.md): Modelli di governance a tre livelli per l'adozione sicura dell'IA.
+- [[xai-in-pediatric-surgery]]: Metodologie di explainable AI (intrinseche vs post-hoc) e applicazioni cliniche in chirurgia pediatrica.
+- [[pediatric-ai-bias-and-vulnerabilities]]: Pipeline del bias (dati, etichettatura, sviluppo, deployment) e vulnerabilità dello sviluppo pediatrico.
+- [[accept-ai-and-pediatric-ethical-frameworks]]: Principi bioetici, conformità al regolamento EU AI Act e linee guida operative ACCEPT-AI.
+- [[pediatric-xai-benchmarking]]: Standardizzazione della valutazione di fedeltà e stabilità delle spiegazioni (BenchXAI, XAIB) e validazione clinica prospettica.
+- [[ai-clinical-decision-support]]: Sistemi di supporto decisionale clinico e integrazione nei workflow sanitari.
+- [[algorithmic-bias-and-digital-inequalities]]: Disparità algoritmiche, campionamento WEIRD e impatto sui gruppi vulnerabili.
+- [[etica-privacy-bias-ia-clinica]]: Fondamenti etico-deontologici e tutela della privacy nei sistemi intelligenti sanitari.
+- [[three-layer-governance-framework]]: Modelli di governance a tre livelli per l'adozione sicura dell'IA.
 
+## Relazioni
+- Vedi anche: [[a-2702-1843]], [[pediatric-ai-bias-and-vulnerabilities]], [[xai-in-pediatric-surgery]], [[accept-ai-and-pediatric-ethical-frameworks]], [[pediatric-xai-benchmarking]], [[ai-clinical-decision-support]], [[algorithmic-bias-and-digital-inequalities]], [[etica-privacy-bias-ia-clinica]]

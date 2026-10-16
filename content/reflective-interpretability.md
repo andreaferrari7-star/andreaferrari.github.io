@@ -1,5 +1,6 @@
 ---
 tags: [reflective-interpretability, ai-safety, explainable-ai, digital-mental-health, human-computer-interaction, medical-ethics, agency-preservation, meaning-making, clinical-decision-support]
+tipo_fonte: scientifica
 source_papers: ["2512.16206v2.pdf"]
 ---
 
@@ -76,7 +77,4 @@ flowchart TD
 ---
 
 ## Relazioni
-- Vedi anche: [2512-16206v2](2512-16206v2.md), [role-induction-ai-mental-health](concetti/role-induction-ai-mental-health.md), [prosocial-advance-directives](prosocial-advance-directives.md), [intervention-titration-ai](concetti/intervention-titration-ai.md), [recourse-mechanisms-ai-mental-health](concetti/recourse-mechanisms-ai-mental-health.md), [psychological-distress-interaction-patterns](concetti/psychological-distress-interaction-patterns.md), [sycophantic-mirroring](concetti/concetti/concetti\sycophantic-mirroring.md), [calibrated-mismatches](concetti/concetti/concetti\calibrated-mismatches.md), [synthetic-psychopathology](synthetic-psychopathology.md), [alignment-conflict-schema](alignment-conflict-schema.md), [simulated-empathy-vs-authentic-presence](concetti/concetti/concetti\simulated-empathy-vs-authentic-presence.md), [ai-assisted-psychotherapy](ai-assisted-psychotherapy.md), [software-as-a-medical-device-salute-mentale](software-as-a-medical-device-salute-mentale.md), [risk-ontology-ai-psychotherapy](concetti/concetti/concetti\risk-ontology-ai-psychotherapy.md)
-
-## Riferimenti Bibliografici
-- [Da integrare]
+- Vedi anche: [[2512-16206v2]], [[role-induction-ai-mental-health]], [[prosocial-advance-directives]], [[intervention-titration-ai]], [[recourse-mechanisms-ai-mental-health]], [[psychological-distress-interaction-patterns]], [[sycophantic-mirroring]], [[calibrated-mismatches]], [[synthetic-psychopathology]], [[alignment-conflict-schema]], [[simulated-empathy-vs-authentic-presence]], [[ai-assisted-psychotherapy]], [[software-as-a-medical-device-salute-mentale]], [[risk-ontology-ai-psychotherapy]]

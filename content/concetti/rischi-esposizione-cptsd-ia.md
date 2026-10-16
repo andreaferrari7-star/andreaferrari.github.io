@@ -1,11 +1,13 @@
 ---
 tags: []
+tipo_fonte: scientifica
+source_papers: ["2505.20796v1.pdf"]
 ---
 
 # Rischi Clinici nell'Esposizione Mediata da IA per CPTSD
 
 **Summary**: Tassonomia e analisi dei sei rischi clinici specifici del paziente (R1 Intense recall, R2 Unintentional trauma flashbacks, R3 Avoidance, R4 Retraumatization, R5 Low acceptance/dropout, R6 Distortion of reality) derivanti dall'interazione tra la complessità dissociativa del CPTSD e l'imprevedibilità dei modelli di intelligenza artificiale generativa.
-**Sources**: Degenhard et al. (2025) - `2505.20796v1.pdf`
+**Fonti**: Degenhard et al. (2025)
 **Last updated**: 2026-08-27
 ---
 
@@ -74,13 +76,13 @@ graph TD
 
 ---
 
-## Related pages
-- [degenhard-et-al-2025](../sintesi/degenhard-et-al-2025.md)
-- [generative-ai-exposure-therapy](generative-ai-exposure-therapy.md)
-- [interazione-triadica-terapeuta-paziente-ia](interazione-triadica-terapeuta-paziente-ia.md)
-- [distorsione-memoria-imagery-rescripting-ia](distorsione-memoria-imagery-rescripting-ia.md)
-- [human-in-the-reasoning](human-in-the-reasoning.md)
-- [rischio-suicidario-ai-limits](rischio-suicidario-ai-limits.md)
+## Relazioni
+- [[degenhard-et-al-2025]]
+- [[generative-ai-exposure-therapy]]
+- [[interazione-triadica-terapeuta-paziente-ia]]
+- [[distorsione-memoria-imagery-rescripting-ia]]
+- [[human-in-the-reasoning]]
+- [[rischio-suicidario-ai-limits]]
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Degenhard, A., Tschöke, S., Rietzler, M., & Rukzio, E. (2025). Describe Me Something You Do Not Remember - Challenges and Risks of Exposure Design Using Generative Artificial Intelligence for Therapy of Complex Post-traumatic Disorder. *arXiv preprint arXiv:2505.20796v1 [cs.HC]*.

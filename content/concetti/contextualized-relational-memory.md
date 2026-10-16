@@ -1,11 +1,13 @@
 ---
 tags: []
+tipo_fonte: scientifica
+source_papers: ["2512.22462v1.pdf"]
 ---
 
 # Memoria Relazionale Contestualizzata e Superamento del "Robotic Feeling"
 
 **Summary**: Architettura di memoria conversazionale per agenti terapeutici LLM (DG3 & DG5, Quan et al., 2025) basata su "sintesi relazionali distillate" (temi, trigger, traiettorie emotive) anziché trascritti integrali, finalizzata a mantenere continuità narrativa e sintonizzazione affettiva profonda senza innescare ansie da sorveglianza.
-**Sources**: Quan et al. (2025) - `2512.22462v1.pdf`, Fu et al. (2025), Song et al. (2024)
+**Fonti**: Quan et al. (2025), Fu et al. (2025), Song et al. (2024)
 **Last updated**: 2026-08-27
 ---
 
@@ -58,14 +60,16 @@ Per superare l'artificiosità percepita e consentire all'utente di "sentirsi aut
 - **Accoglienza Culturale e Identitaria**: Riconoscimento non giudicante dei modi di dire subculturali o regionali, integrando la conoscenza della comunità marginalizzata senza stereotipi paternalistici.
 
 ---
-## Concetti Correlati
-- [dynamic-boundary-mediation-framework](dynamic-boundary-mediation-framework.md)
-- [boundary-objects-in-psychotherapy](boundary-objects-in-psychotherapy.md)
-- [negotiable-data-visibility-privacy](negotiable-data-visibility-privacy.md)
-- [educator-burden-marginalized-clients](educator-burden-marginalized-clients.md)
-- [simulated-empathy-vs-authentic-presence](concetti/concetti\simulated-empathy-vs-authentic-presence.md)
-- [genuineness-gap](genuineness-gap.md)
-- [language-style-matching-human-ai](concetti/concetti\language-style-matching-human-ai.md)
+## Relazioni
+- [[dynamic-boundary-mediation-framework]]
+- [[boundary-objects-in-psychotherapy]]
+- [[negotiable-data-visibility-privacy]]
+- [[educator-burden-marginalized-clients]]
+- [[simulated-empathy-vs-authentic-presence]]
+- [[genuineness-gap]]
+- [[language-style-matching-human-ai]]
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Fu, Y., Wu, J., Wang, Z., Zhang, M., Shan, L., Wu, Y., & Liu, B. (2025). LaERC-S: Improving LLM-based Emotion Recognition in Conversation with Speaker Characteristics. In *Proceedings of the 31st International Conference on Computational Linguistics, Owen Rambow, Leo Wanner, Marianna Apidianaki, Hend Al-Khalifa, Barbara Di Eugenio, and Steven Schockaert (Eds.). Association for Computational Linguistics, Abu Dhabi, UAE* (pp. 6748–6761).
+- Quan, J., Li, Z., Zhu, T. Q., Li, Y., Wang, B., Pratt, W., & Gao, N. (2025). Relational Mediators: LLM Chatbots as Boundary Objects in Psychotherapy. *arXiv preprint arXiv:2512.22462v1 [cs.HC]*, 1–35. https://doi.org/10.48550/arXiv.2512.22462
+- Song, I., Pendse, S. R., Kumar, N., & De Choudhury, M. (2024). The Typing Cure: Experiences with Large Language Model Chatbots for Mental Health Support. https://doi.org/10.48550/ARXIV.2401.14362

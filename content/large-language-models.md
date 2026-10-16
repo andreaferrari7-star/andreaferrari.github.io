@@ -1,5 +1,6 @@
 ---
 tags: [llm, reti-neurali, nlp, psicologia-computazionale]
+tipo_fonte: scientifica
 source_papers: ["Using_Large_Language_Models_in_Psychological_Resea.pdf", "final_textbook_genAIinpsychologyresearchandtraining.pdf"]
 ---
 
@@ -18,7 +19,4 @@ source_papers: ["Using_Large_Language_Models_in_Psychological_Resea.pdf", "final
 - Adeyemi, V. (2024). Using Large Language Models in Psychological Research: A New Frontier for Hypothesis Generation. *Premier Journal of Psychology*, 1–4.
 
 ## Relazioni
-- Vedi anche: [adeyemi-2024](adeyemi-2024.md), [hypothesis-generation](hypothesis-generation.md), [prompting-in-psychology](prompting-in-psychology.md)
-
-## Riferimenti Bibliografici
-- [Da integrare]
+- Vedi anche: [[adeyemi-2024]], [[hypothesis-generation]], [[prompting-in-psychology]]

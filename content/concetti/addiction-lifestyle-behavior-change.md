@@ -1,5 +1,6 @@
 ---
 tags: [behavior-change, addiction-cessation, smoking-cessation, lifestyle-interventions, physical-activity, weight-management, digital-health]
+tipo_fonte: scientifica
 source_papers: ["1-s2.0-S1386505625004216-main.pdf"]
 title: "Behavioral Change, Addiction Cessation, and Lifestyle Interventions via Conversational AI"
 ---
@@ -67,9 +68,9 @@ L'umbrella review di Huynh et al. (2026) evidenzia che l'assistenza alla cessazi
 ---
 
 ## Relazioni
-- [huynh-et-al-2026](../sintesi/huynh-et-al-2026.md)
-- [healthcare-conversational-agents](concetti/concetti\healthcare-conversational-agents.md)
-- [conversational-agents-mental-health](conversational-agents-mental-health.md)
-- [chronic-disease-monitoring-adherence](chronic-disease-monitoring-adherence.md)
-- [augmented-psychotherapy](../augmented-psychotherapy.md)
+- [[huynh-et-al-2026]]
+- [[healthcare-conversational-agents]]
+- [[conversational-agents-mental-health]]
+- [[chronic-disease-monitoring-adherence]]
+- [[augmented-psychotherapy]]
 

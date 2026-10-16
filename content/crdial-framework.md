@@ -1,5 +1,6 @@
 ---
 tags: [crdial, cognitive-restructuring, cbt-dialogica, architettura-clinica, multi-turn-dialogue, llm-psicoterapia]
+tipo_fonte: scientifica
 source_papers: ["2504.17238v1.pdf"]
 ---
 
@@ -51,7 +52,4 @@ flowchart TD
 - Beck, J. S. (2011). *Cognitive behavior therapy: Basics and beyond*. Guilford Publications.
 
 ## Relazioni
-- Vedi anche: [2504-17238v1](2504-17238v1.md), [crispers-models-and-dataset](concetti/concetti/concetti\crispers-models-and-dataset.md), [defense-attorney-technique](concetti/concetti/concetti\defense-attorney-technique.md), [cbt-dialogue-systems-and-tools](concetti/concetti/concetti\cbt-dialogue-systems-and-tools.md), [automated-cognitive-restructuring](concetti/automated-cognitive-restructuring.md), [active-ai-therapeutic-agent](active-ai-therapeutic-agent.md), [conversational-agents-mental-health](concetti/conversational-agents-mental-health.md), [digital-therapeutic-alliance](digital-therapeutic-alliance.md)
-
-## Riferimenti Bibliografici
-- [Da integrare]
+- Vedi anche: [[2504-17238v1]], [[crispers-models-and-dataset]], [[defense-attorney-technique]], [[cbt-dialogue-systems-and-tools]], [[automated-cognitive-restructuring]], [[active-ai-therapeutic-agent]], [[conversational-agents-mental-health]], [[digital-therapeutic-alliance]]

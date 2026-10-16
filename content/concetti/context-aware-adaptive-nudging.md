@@ -1,5 +1,6 @@
 ---
 tags: [conversational-ai, reinforcement-learning, adaptive-nudging, natural-language-processing, context-aware, medication-adherence, drug-drug-interactions, chatbots, rasa, dialogflow, digital-health]
+tipo_fonte: scientifica
 source_papers: ["AI-PoweredReal-TimeAdherenceMonitoringforRemotePatientCareinTelemedicine.pdf"]
 title: "Context-Aware Adaptive Nudging and Reinforcement Learning in Adherence"
 ---
@@ -83,11 +84,11 @@ graph TD
 ---
 
 ## Relazioni
-- [joshua-peterson-2025](../sintesi/joshua-peterson-2025.md)
-- [video-observed-therapy-ai](video-observed-therapy-ai.md)
-- [wearable-sensor-fusion-adherence](wearable-sensor-fusion-adherence.md)
-- [proactive-surveillance-alert-fatigue](proactive-surveillance-alert-fatigue.md)
-- [chronic-disease-monitoring-adherence](chronic-disease-monitoring-adherence.md)
-- [conversational-agents-mental-health](conversational-agents-mental-health.md)
-- [algorithmic-bias-and-digital-inequalities](algorithmic-bias-and-digital-inequalities.md)
+- [[joshua-peterson-2025]]
+- [[video-observed-therapy-ai]]
+- [[wearable-sensor-fusion-adherence]]
+- [[proactive-surveillance-alert-fatigue]]
+- [[chronic-disease-monitoring-adherence]]
+- [[conversational-agents-mental-health]]
+- [[algorithmic-bias-and-digital-inequalities]]
 

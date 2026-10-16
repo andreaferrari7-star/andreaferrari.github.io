@@ -4,6 +4,7 @@ summary: Applicazione dei Large Language Models come tecnologie assistive per su
 sources: 
   - 2601.06032v1.pdf
 last_updated: 2026-09-01
+tipo_fonte: scientifica
 ---
 
 # Strumenti di IA Assistiva per la Comunicazione nello Spettro Autistico
@@ -51,13 +52,10 @@ flowchart TD
     Decodifica --> OutputAssistivo
 ```
 
-- [holl-etten-et-al-2026](../sintesi/holl-etten-et-al-2026.md)
-- [applied-theory-of-mind-llm](applied-theory-of-mind-llm.md)
-- [epistemic-markers-in-ai](epistemic-markers-in-ai.md)
-- [social-vignettes-benchmarking](social-vignettes-benchmarking.md)
-- [ai-mental-health-vulnerable-populations](ai-mental-health-vulnerable-populations.md)
-- [conversational-agents-mental-health](conversational-agents-mental-health.md)
-- [simulazione-pazienti-ai](simulazione-pazienti-ai.md)
-
-## Riferimenti Bibliografici
-- [Da integrare]
+- [[holl-etten-et-al-2026]]
+- [[applied-theory-of-mind-llm]]
+- [[epistemic-markers-in-ai]]
+- [[social-vignettes-benchmarking]]
+- [[ai-mental-health-vulnerable-populations]]
+- [[conversational-agents-mental-health]]
+- [[simulazione-pazienti-ai]]

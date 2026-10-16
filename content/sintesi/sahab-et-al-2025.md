@@ -1,5 +1,6 @@
 ---
 tags: [psicoterapia-ai, rct, gpt-4, salute-mentale-globale, donne-afghane, lsm, liwc, empatia-artificiale, contesti-umanitari, trauma-informed]
+tipo_fonte: scientifica
 source_papers: ["2508.00847v1.pdf"]
 title: "GPT Chatbots for Alleviating Anxiety and Depression: A Pilot Randomized Controlled Trial with Afghan Women"
 authors: "Sofia Sahab, Jawad Haqbeen, Diksha Sapkota, Takayuki Ito"
@@ -11,7 +12,7 @@ arxiv_id: "2508.00847v1"
 # GPT Chatbots for Alleviating Anxiety and Depression: A Pilot Randomized Controlled Trial with Afghan Women (Sahab et al., 2025)
 
 **Summary**: Studio controllato randomizzato pilota ($N=60$) volto a valutare l'efficacia di un chatbot basato su GPT-4 configurato come "Supportive Listener" (ascoltatore empatico con istruzioni trauma-informed) nel ridurre ansia e depressione (scala HADS) in donne afghane residenti in patria sotto il regime talebano. Il gruppo *Supportive Listener* ha evidenziato una riduzione statisticamente significativa dei punteggi HADS, un tono emotivo più positivo e un maggior allineamento stilistico (Language Style Matching - LSM), il quale correla inversamente con la riduzione dei sintomi. Al contrario, il gruppo esposto a *GPT-4 standard* privo di prompt empatico ha registrato un peggioramento paradossale dell'ansia e della depressione a causa di rifiuti bruschi e disclaimers decontestualizzati.
-**Sources**: `2508.00847v1.pdf` (*arXiv:2508.00847v1*, Kyoto University & Griffith Criminology Institute)
+**Fonti**: *arXiv:2508.00847v1*, Kyoto University & Griffith Criminology Institute.
 **Last updated**: 2026-08-27
 ---
 
@@ -25,7 +26,7 @@ Le donne afghane affrontano una condizione di vulnerabilità sistemica senza pre
 - **Prevalenza psicopatologica allarmante**: indagini epidemiologiche indicano che il 47% delle donne afghane presenta grave distress psicologico e circa l'80% manifesta sintomi depressivi.
 - **Stigma socioculturale**: forte inibizione alla condivisione della sofferenza emotiva persino all'interno della cerchia familiare o amicale.
 
-In tale scenario, gli agenti conversazionali basati su modelli linguistici di grandi dimensioni ([large-language-models](../large-language-models.md)) come GPT-4 rappresentano una risorsa potenzialmente democratizzante per fornire supporto psicologico scalabile, anonimo e accessibile.
+In tale scenario, gli agenti conversazionali basati su modelli linguistici di grandi dimensioni ([[large-language-models]]) come GPT-4 rappresentano una risorsa potenzialmente democratizzante per fornire supporto psicologico scalabile, anonimo e accessibile.
 
 ```mermaid
 flowchart TD
@@ -163,16 +164,16 @@ L'analisi semantica delle conversazioni ha evidenziato le preoccupazioni primari
 
 ---
 
-## Concetti Correlati
-- [language-style-matching-human-ai](../concetti/concetti/concetti\language-style-matching-human-ai.md)
-- [supportive-listener-prompting](../concetti/concetti/concetti\supportive-listener-prompting.md)
-- [ai-mental-health-vulnerable-populations](../concetti/ai-mental-health-vulnerable-populations.md)
-- [simulated-empathy-vs-authentic-presence](../concetti/concetti/concetti\simulated-empathy-vs-authentic-presence.md)
-- [conversational-agents-mental-health](../concetti/conversational-agents-mental-health.md)
-- [simulated-therapeutic-alliance](../simulated-therapeutic-alliance.md)
-- [ai-psychotherapy-clinical-effectiveness](../concetti/ai-psychotherapy-clinical-effectiveness.md)
-- [etica-privacy-bias-ia-clinica](../concetti/etica-privacy-bias-ia-clinica.md)
-- [stepped-care-ai-integration](../concetti/stepped-care-ai-integration.md)
+## Relazioni
+- [[language-style-matching-human-ai]]
+- [[supportive-listener-prompting]]
+- [[ai-mental-health-vulnerable-populations]]
+- [[simulated-empathy-vs-authentic-presence]]
+- [[conversational-agents-mental-health]]
+- [[simulated-therapeutic-alliance]]
+- [[ai-psychotherapy-clinical-effectiveness]]
+- [[etica-privacy-bias-ia-clinica]]
+- [[stepped-care-ai-integration]]
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Sahab, S., Haqbeen, J., Sapkota, D., & Ito, T. (2025). GPT Chatbots for Alleviating Anxiety and Depression: A Pilot Randomized Controlled Trial with Afghan Women. *arXiv preprint arXiv:2508.00847v1*, 1–13.

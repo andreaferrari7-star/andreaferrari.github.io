@@ -1,12 +1,13 @@
 ---
 tags: [theory-of-mind, large-language-models, autism-spectrum, social-vignettes, faux-pas-test, social-stories-questionnaire, story-comprehension-test, epistemic-markers, assistive-ai]
+tipo_fonte: scientifica
 source_papers: ["2601.06032v1.pdf"]
 ---
 
 # Applied Theory of Mind and Large Language Models – How Good is ChatGPT at Solving Social Vignettes? (Holl-Etten et al., 2026)
 
 **Summary**: Studio empirico cross-linguistico (inglese e tedesco) che valuta sistematicamente le capacità di Theory of Mind (ToM) di ordine superiore di GPT-3.5 Turbo e GPT-4 attraverso tre test standardizzati a vignette sociali complesse (Faux Pas Test, Social Stories Questionnaire, Story Comprehension Test). I risultati mostrano che GPT-4 raggiunge livelli di accuratezza paragonabili (e in alcuni compiti superiori) agli adulti neurotipici, superando nettamente GPT-3.5 e individui con tratti autistici. Tuttavia, GPT-4 manifesta un'elevata frequenza di marcatori epistemici di incertezza (fino al 42% delle risposte, rispetto al ~6% umano), evidenziando una potenziale criticità per l'impiego come tecnologia assistiva per utenti autistici.
-**Sources**: `2601.06032v1.pdf` (arXiv:2601.06032v1, 2026)
+**Fonti**: arXiv:2601.06032v1, 2026.
 **Last updated**: 2026-08-27
 ---
 
@@ -14,7 +15,7 @@ source_papers: ["2601.06032v1.pdf"]
 
 La **Theory of Mind (ToM)** — la capacità di inferire stati mentali altrui (credenze, desideri, intenzioni ed emozioni) — è un prerequisito fondamentale per la comunicazione sociale complessa. Nello spettro autistico (Autism Spectrum Condition, ASC), le difficoltà nell'elaborazione della ToM di ordine superiore (es. comprendere gaffe sociali/*faux pas*, ironia, sarcasmo, mezze verità) determinano spesso isolamento relazionale e fraintendimenti.
 
-Dato l'interesse diffuso delle persone autistiche per gli strumenti tecnologici, i Large Language Models ([large-language-models](../large-language-models.md)) offrono prospettive promettenti per lo sviluppo di sistemi assistivi capaci di decodificare interazioni sociali ambigue in tempo reale. Tuttavia, la letteratura precedente sulle capacità ToM degli LLM ha mostrato risultati discordanti a causa di limiti metodologici:
+Dato l'interesse diffuso delle persone autistiche per gli strumenti tecnologici, i Large Language Models ([[large-language-models]]) offrono prospettive promettenti per lo sviluppo di sistemi assistivi capaci di decodificare interazioni sociali ambigue in tempo reale. Tuttavia, la letteratura precedente sulle capacità ToM degli LLM ha mostrato risultati discordanti a causa di limiti metodologici:
 1. Focalizzazione quasi esclusiva su compiti di primo e secondo ordine a scelta binaria (es. paradigmi di *false belief* / Unexpected Transfer).
 2. Valutazioni frammentarie e non standardizzate su vignette sociali complesse.
 3. Mancanza di controllo cross-linguistico per verificare la contaminazione dei dati di pre-training.
@@ -193,11 +194,11 @@ La stabilità dei risultati tra inglese e tedesco (con punteggi persino superior
 
 ---
 
-## Relazioni e Concetti Correlati
-- [applied-theory-of-mind-llm](../applied-theory-of-mind-llm.md): Modellizzazione e benchmarking della Theory of Mind di ordine superiore nei modelli generativi.
-- [epistemic-markers-in-ai](../epistemic-markers-in-ai.md): Analisi delle modalità epistemiche, hedging e impatto dell'incertezza comunicativa per utenti clinici.
-- [social-vignettes-benchmarking](../concetti/social-vignettes-benchmarking.md): Protocolli di valutazione neuropsicologica basati su vignette (Faux Pas, SSQ, SCT) applicati all'IA.
-- [ai-assistive-autism-communication](../concetti/ai-assistive-autism-communication.md): Applicazioni e sfide dei sistemi conversazionali per il supporto alla comunicazione sociale nell'autismo.
-- [large-language-models](../large-language-models.md): Architetture neurali generative e loro impiego nella cognizione sociale computazionale.
-- [ai-mental-health-vulnerable-populations](../concetti/ai-mental-health-vulnerable-populations.md): Considerazioni etiche e cliniche sull'uso dell'IA con popolazioni vulnerabili o neurodivergenti.
+## Relazioni
+- [[applied-theory-of-mind-llm]]: Modellizzazione e benchmarking della Theory of Mind di ordine superiore nei modelli generativi.
+- [[epistemic-markers-in-ai]]: Analisi delle modalità epistemiche, hedging e impatto dell'incertezza comunicativa per utenti clinici.
+- [[social-vignettes-benchmarking]]: Protocolli di valutazione neuropsicologica basati su vignette (Faux Pas, SSQ, SCT) applicati all'IA.
+- [[ai-assistive-autism-communication]]: Applicazioni e sfide dei sistemi conversazionali per il supporto alla comunicazione sociale nell'autismo.
+- [[large-language-models]]: Architetture neurali generative e loro impiego nella cognizione sociale computazionale.
+- [[ai-mental-health-vulnerable-populations]]: Considerazioni etiche e cliniche sull'uso dell'IA con popolazioni vulnerabili o neurodivergenti.
 

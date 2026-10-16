@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
   - digital-phenotyping
   - computational-psychiatry
@@ -10,6 +10,7 @@ tags:
   - nlp
   - machine-learning
   - affective-computing
+tipo_fonte: scientifica
 ---
 
 # Fenotipizzazione Computazionale (Digital Phenotyping)

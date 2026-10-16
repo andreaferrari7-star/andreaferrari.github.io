@@ -8,12 +8,14 @@ tags:
   - ai-research-ethics
   - machine-psychology
   - large-language-models
+tipo_fonte: [interna, evento]
+source_papers: ["06-05 Riunione_ Impiego dell'IA in ambito clinico, bias e formazione.txt", "04-20 Tavola rotonda_ Integrazione dell’IA in psicoterapia — governance, co‑ragionamento e modelli ibridi.txt"]
 ---
 
 # Framework di Audit e Benchmark dei Bias Clinici negli LLM
 
 ## Definizione Operativa
-L'audit dei bias clinici negli LLM consiste nell'applicazione di un protocollo sperimentale standardizzato per l'identificazione, la quantificazione e il monitoraggio sistematico di distorsioni cognitive, diagnostiche e comportamentali insite negli output generati dai modelli linguistici di grandi dimensioni ([large-language-models](../large-language-models.md)).
+L'audit dei bias clinici negli LLM consiste nell'applicazione di un protocollo sperimentale standardizzato per l'identificazione, la quantificazione e il monitoraggio sistematico di distorsioni cognitive, diagnostiche e comportamentali insite negli output generati dai modelli linguistici di grandi dimensioni ([[large-language-models]]).
 
 Il framework si focalizza su tre dimensioni critiche:
 *   **Bias di Genere e Patologizzazione Differenziale**: La tendenza del modello a sovrastimare la gravità diagnostica (es. disturbo borderline di personalità) in profili femminili e sottodiagnosticare quadri depressivi in profili maschili a parità di sintomi.
@@ -40,17 +42,14 @@ Le metodologie principali includono:
 2.  **Metriche di Dispersione e Neutralità**: Calcolo di indici di deviazione rispetto a standard clinici definiti (Gold Standard NICE / APA / CBT).
 3.  **Auditing Continuo tramite Meta-Prompting**: Utilizzo di tool di ispezione di secondo livello per scansionare l'output di altri agenti e segnalare gradi di tendenziosità argomentativa.
 
-**Riferimenti Bibliografici:**
-*   06-05 Riunione_ Impiego dell'IA in ambito clinico, bias e formazione.txt
-*   04-20 Tavola rotonda_ Integrazione dell’IA in psicoterapia — governance, co‑ragionamento e modelli ibridi.txt
+## Fonti
+*   [[06-05-riunione-impiego-ia|Riunione 06-05: Impiego dell'IA in Ambito Clinico, Bias e Formazione]]
+*   [[04-20-tavola-rotonda-integrazione-ia|Tavola Rotonda: Integrazione dell'IA in Psicoterapia — Governance, Co-Ragionamento e Modelli Ibridi]]
 
 ## Relazioni
-*   [ai-research-ethics](../ai-research-ethics.md)
-*   [human-in-the-reasoning](human-in-the-reasoning.md)
-*   [large-language-models](../large-language-models.md)
-*   [machine-psychology](../machine-psychology.md)
-*   [06-05_Riunione_Impiego_IA_Clinica_Bias_Formazione](../sintesi/06-05_Riunione_Impiego_IA_Clinica_Bias_Formazione.md)
-*   [gap-tecnologico-scientifico](gap-tecnologico-scientifico.md)
-
-## Riferimenti Bibliografici
-- [Da integrare]
+*   [[ai-research-ethics]]
+*   [[human-in-the-reasoning]]
+*   [[large-language-models]]
+*   [[machine-psychology]]
+*   [[06-05-riunione-impiego-ia]]
+*   [[gap-tecnologico-scientifico]]

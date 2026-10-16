@@ -1,5 +1,6 @@
 ---
 tags: [fattori-comuni, fattori-specifici, alleanza-terapeutica, cbt, relazione-terapeutica, efficacia]
+tipo_fonte: scientifica
 source_papers: ["1-s2.0-S0272735826000917-main.pdf"]
 ---
 
@@ -22,7 +23,4 @@ source_papers: ["1-s2.0-S0272735826000917-main.pdf"]
 - Wampold, B. E. (2015). How important are the common factors in psychotherapy? An update. *World Psychiatry*, 14, 270–277. https://doi.org/10.1002/wps.20238
 
 ## Relazioni
-- Vedi anche: [digital-therapeutic-alliance](../digital-therapeutic-alliance.md), [process-of-change](process-of-change.md), [process-based-therapy](process-based-therapy.md), [terminological-fragmentation](terminological-fragmentation.md), [hofmann-et-al-2026](../sintesi/hofmann-et-al-2026.md)
-
-## Riferimenti Bibliografici
-- [Da integrare]
+- Vedi anche: [[digital-therapeutic-alliance]], [[process-of-change]], [[process-based-therapy]], [[terminological-fragmentation]], [[hofmann-et-al-2026]]

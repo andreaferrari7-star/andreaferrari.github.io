@@ -1,5 +1,6 @@
 ---
 tags: [rlvr, reinforcement-learning, reasoning, formal-verification]
+tipo_fonte: scientifica
 source_papers: ["2605.17333v1.pdf"]
 ---
 
@@ -16,5 +17,5 @@ source_papers: ["2605.17333v1.pdf"]
 - Liu, W., Xu, Y., Xie, W., Zhu, Y., Dong, S., Wang, Z., Shao, W., Zhang, X., Yang, T., Duan, N., & Wang, J. (2026). Leveraging Error Diversity in Group Rollouts for Reinforcement Learning. *arXiv preprint arXiv:2605.17333*.
 
 ## Relazioni
-- Vedi anche: [error-diversity-advantage-shaping](error-diversity-advantage-shaping.md), [llm-as-a-judge](llm-as-a-judge.md), [clinical-fidelity-assessment](../clinical-fidelity-assessment.md)
+- Vedi anche: [[error-diversity-advantage-shaping]], [[llm-as-a-judge]], [[clinical-fidelity-assessment]]
 

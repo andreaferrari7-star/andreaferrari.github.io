@@ -1,5 +1,6 @@
 ---
 tags: [mi-clear-llm, reporting-guidelines, accuracy-reports, large-language-models, healthcare-ai, medical-imaging, radiology-ai, api-access, local-deployment, open-source-llm, prompt-engineering, stochasticity-management, test-data-independence, research-transparency]
+tipo_fonte: scientifica
 source_papers: ["MI-CLEAR-LLM_2025.pdf"]
 ---
 
@@ -15,5 +16,5 @@ source_papers: ["MI-CLEAR-LLM_2025.pdf"]
 - Park, S. H., Suh, C. H., Lee, J. H., Tejani, A. S., You, S. C., Kahn, C. E., Jr., & Moy, L. (2025). Minimum reporting items for clear evaluation of accuracy reports of large language models in healthcare (MI-CLEAR-LLM): 2025 updates. *Korean Journal of Radiology*, 26(12), 1123–1132. https://doi.org/10.3348/kjr.2025.1522
 
 ## Relazioni
-- Vedi anche: [TRIPOD-LLM](concetti/TRIPOD-LLM.md), [DEAL](concetti/DEAL.md), [chart-reporting-guideline](chart-reporting-guideline.md), [stochasticity-management-in-clinical-llms](stochasticity-management-in-clinical-llms.md), [clinical-fidelity-assessment](clinical-fidelity-assessment.md)
+- Vedi anche: [[tripod-llm2025|TRIPOD-LLM]], [[DEAL]], [[chart-reporting-guideline]], [[stochasticity-management-in-clinical-llms]], [[clinical-fidelity-assessment]]
 

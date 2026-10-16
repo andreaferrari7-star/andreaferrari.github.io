@@ -1,5 +1,6 @@
 ---
 tags: [chatbots, conversational-agents, cbt, digital-therapeutics, mental-health-taxonomy, user-engagement, telehealth]
+tipo_fonte: scientifica
 source_papers: ["10.1177_20552076261421688.pdf"]
 title: "Functional Taxonomy of Mental Health Chatbots (Tassonomia Funzionale dei Chatbot per la Salute Mentale)"
 ---
@@ -77,11 +78,11 @@ graph TD
 
 ---
 
-## Pagine Correlate
-- [rezaei-et-al-2026](../sintesi/rezaei-et-al-2026.md)
-- [conversational-agents-mental-health](conversational-agents-mental-health.md)
-- [network-based-ai-mental-healthcare](network-based-ai-mental-healthcare.md)
-- [specialized-nlp-models-mental-health](specialized-nlp-models-mental-health.md)
-- [stepped-care-ai-integration](stepped-care-ai-integration.md)
-- [human-in-the-reasoning](human-in-the-reasoning.md)
+## Relazioni
+- [[rezaei-et-al-2026]]
+- [[conversational-agents-mental-health]]
+- [[network-based-ai-mental-healthcare]]
+- [[specialized-nlp-models-mental-health]]
+- [[stepped-care-ai-integration]]
+- [[human-in-the-reasoning]]
 

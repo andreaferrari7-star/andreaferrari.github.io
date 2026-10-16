@@ -1,5 +1,6 @@
 ---
 tags: [enactment, eft, couples-therapy, primary-emotions, softening, multi-agent-simulation, clinical-skills]
+tipo_fonte: scientifica
 source_papers: ["2601.10970v2.pdf"]
 ---
 
@@ -45,7 +46,4 @@ flowchart TD
 - Andersson, L. G., Butler, M. H., & Seedall, R. B. (2006). Couples’ experience of enactments and softening in marital therapy. *The American Journal of Family Therapy*, 34(4), 301–315.
 
 ## Relazioni
-- Vedi anche: [wang-chen-et-al-2026](../sintesi/wang-chen-et-al-2026.md), [demand-withdraw-multi-agent-dynamics](demand-withdraw-multi-agent-dynamics.md), [sense-plan-act-therapy-simulation](sense-plan-act-therapy-simulation.md), [stage-structured-dialogue-control](stage-structured-dialogue-control.md), [simulated-therapeutic-alliance](simulated-therapeutic-alliance.md), [clinical-fidelity-assessment](../clinical-fidelity-assessment.md)
-
-## Riferimenti Bibliografici
-- [Da integrare]
+- Vedi anche: [[wang-chen-et-al-2026]], [[demand-withdraw-multi-agent-dynamics]], [[sense-plan-act-therapy-simulation]], [[stage-structured-dialogue-control]], [[simulated-therapeutic-alliance]], [[clinical-fidelity-assessment]]

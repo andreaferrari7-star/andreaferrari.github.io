@@ -3,6 +3,7 @@ title: Protocolli di Intervento per Crisi Acute nell'IA Psicoterapeutica (Action
 summary: Protocollo clinico standardizzato in 4 fasi (Assess, De-escalate, Recommend Emergency Services, Request Human Consultation) strutturato da Steenstra e Bickmore (2025) per guidare la risposta immediata e sicura degli agenti IA di fronte a pericoli letali, eterolesivi o scompensi psicotici acuti.
 sources: 2505.15108v2.pdf (Steenstra & Bickmore, 2025)
 last_updated: 2026-08-27
+tipo_fonte: scientifica
 ---
 
 # Protocolli di Intervento per Crisi Acute nell'IA Psicoterapeutica (Action Plans for Acute Crisis)
@@ -64,16 +65,13 @@ L'esistenza di questo protocollo evidenzia i confini invalicabili dell'IA in con
 - L'action plan rappresenta una **rete di contenimento (*fail-safe escalation*)** obbligatoria per prevenire la compiacenza (*sycophancy*) e garantire il tempestivo passaggio di consegne all'essere umano.
 
 **Riferimenti Bibliografici:**
-- Steenstra, & Bickmore (2025). *Action Plans for Acute Crisis* (2505.15108v2.pdf).
+- Steenstra, & Bickmore (2025). *Action Plans for Acute Crisis*.
 
 ## Relazioni
 
-- [risk-ontology-ai-psychotherapy](concetti/concetti\risk-ontology-ai-psychotherapy.md)
-- [in-session-warning-signs](concetti/concetti\in-session-warning-signs.md)
-- [potential-real-world-consequences-ai](potential-real-world-consequences-ai.md)
-- [rischio-suicidario-ai-limits](rischio-suicidario-ai-limits.md)
-- [three-layer-governance-framework](concetti/concetti\three-layer-governance-framework.md)
-- [steenstra-bickmore-2025](../sintesi/steenstra-bickmore-2025.md)
-
-## Riferimenti Bibliografici
-- [Da integrare]
+- [[risk-ontology-ai-psychotherapy]]
+- [[in-session-warning-signs]]
+- [[potential-real-world-consequences-ai]]
+- [[rischio-suicidario-ai-limits]]
+- [[three-layer-governance-framework]]
+- [[steenstra-bickmore-2025]]

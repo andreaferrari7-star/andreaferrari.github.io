@@ -1,6 +1,7 @@
 ---
 tags: [psicologia, IA, etica, psicoterapia, tecnologia]
-source_papers: [" Non specificato"]
+tipo_fonte: scientifica
+source_papers: []
 ---
 
 ## Definizione Operativa
@@ -15,6 +16,6 @@ source_papers: [" Non specificato"]
 - 04-17 Convegno. (2026). Integrazione etica dell'IA nella psicoterapia (scrittura clinica, supervisione, monitoraggio, formazione).
 
 ## Relazioni
-- Vedi anche: [04-17_Convegno_Integrazione_Etica_IA](04-17_Convegno_Integrazione_Etica_IA.md), [augmented-psychotherapy](augmented-psychotherapy.md), [ai-research-ethics](ai-research-ethics.md), [anthropomorphism-in-ai](anthropomorphism-in-ai.md), [hybrid-ai-research-workflows](hybrid-ai-research-workflows.md), [large-language-models](large-language-models.md)
+- Vedi anche: [[04-17-convegno-integrazione-etica-ia]], [[augmented-psychotherapy]], [[ai-research-ethics]], [[anthropomorphism-in-ai]], [[hybrid-ai-research-workflows]], [[large-language-models]]
 
 

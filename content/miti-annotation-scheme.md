@@ -1,5 +1,6 @@
 ---
 tags: [miti-coding, motivational-interviewing, annosum-mi, clinical-fidelity-assessment, dialogue-summarization, supervisione-clinica-ai, llm-psicoterapia, psicometria-clinica]
+tipo_fonte: scientifica
 source_papers: ["2511.22818v1.pdf"]
 ---
 
@@ -46,7 +47,4 @@ mindmap
 - Hallgren, K. A. (2012). Computing inter-rater reliability for observational data: An overview and tutorial. *Tutorials in Quantitative Methods for Psychology*, 8(1), 23–34.
 
 ## Relazioni
-- Vedi anche: [2511-22818v1](2511-22818v1.md), [semantic-drift-psicoterapia](semantic-drift-psicoterapia.md), [clinical-fidelity-assessment](clinical-fidelity-assessment.md), [supervisione-clinica-ai](supervisione-clinica-ai.md), [in-session-warning-signs](concetti/concetti/concetti\in-session-warning-signs.md), [stamp-llm-framework](concetti/concetti/concetti\stamp-llm-framework.md), [cbt-dialogue-systems-and-tools](concetti/concetti/concetti\cbt-dialogue-systems-and-tools.md), [validita-psicometrica-llm](concetti/concetti/concetti\validita-psicometrica-llm.md), [simulazione-pazienti-ai](simulazione-pazienti-ai.md)
-
-## Riferimenti Bibliografici
-- [Da integrare]
+- Vedi anche: [[2511-22818v1]], [[semantic-drift-psicoterapia]], [[clinical-fidelity-assessment]], [[supervisione-clinica-ai]], [[in-session-warning-signs]], [[stamp-llm-framework]], [[cbt-dialogue-systems-and-tools]], [[validita-psicometrica-llm]], [[simulazione-pazienti-ai]]

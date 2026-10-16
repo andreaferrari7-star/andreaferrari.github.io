@@ -1,5 +1,6 @@
 ---
 tags: [mental-health, cbt, digital-therapeutics, psychotherapy, depression, anxiety, effect-size, conversational-agents]
+tipo_fonte: scientifica
 source_papers: ["1-s2.0-S1386505625004216-main.pdf"]
 title: "Conversational Agents in Mental Health"
 ---
@@ -78,10 +79,10 @@ Un dato cruciale emerso dall'umbrella review di Huynh et al. (2026) riguarda la 
 ---
 
 ## Relazioni
-- [huynh-et-al-2026](../sintesi/huynh-et-al-2026.md)
-- [healthcare-conversational-agents](concetti/concetti\healthcare-conversational-agents.md)
-- [ai-assisted-psychotherapy](../ai-assisted-psychotherapy.md)
-- [augmented-psychotherapy](../augmented-psychotherapy.md)
-- [digital-therapeutic-alliance](../digital-therapeutic-alliance.md)
-- [human-in-the-reasoning](human-in-the-reasoning.md)
+- [[huynh-et-al-2026]]
+- [[healthcare-conversational-agents]]
+- [[ai-assisted-psychotherapy]]
+- [[augmented-psychotherapy]]
+- [[digital-therapeutic-alliance]]
+- [[human-in-the-reasoning]]
 

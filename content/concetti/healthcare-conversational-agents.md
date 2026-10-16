@@ -1,5 +1,6 @@
 ---
 tags: [conversational-agents, healthcare-ai, taxonomy, nlp, deep-learning, llm, embodied-agents]
+tipo_fonte: scientifica
 source_papers: ["1-s2.0-S1386505625004216-main.pdf"]
 title: "Healthcare Conversational Agents"
 ---
@@ -65,10 +66,10 @@ graph TD
 ---
 
 ## Relazioni
-- [huynh-et-al-2026](../sintesi/huynh-et-al-2026.md)
-- [conversational-agents-mental-health](conversational-agents-mental-health.md)
-- [ai-clinical-decision-support](ai-clinical-decision-support.md)
-- [digital-therapeutic-alliance](../digital-therapeutic-alliance.md)
-- [anthropomorphism-in-ai](../anthropomorphism-in-ai.md)
-- [large-language-models](../large-language-models.md)
+- [[huynh-et-al-2026]]
+- [[conversational-agents-mental-health]]
+- [[ai-clinical-decision-support]]
+- [[digital-therapeutic-alliance]]
+- [[anthropomorphism-in-ai]]
+- [[large-language-models]]
 

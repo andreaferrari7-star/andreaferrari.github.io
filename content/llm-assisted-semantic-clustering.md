@@ -1,5 +1,6 @@
 ---
 tags: [clustering, LLM, sintesi-letteratura, AI-ibrida]
+tipo_fonte: scientifica
 source_papers: ["1-s2.0-S0272735826000917-main.pdf"]
 ---
 
@@ -15,5 +16,5 @@ source_papers: ["1-s2.0-S0272735826000917-main.pdf"]
 - Hofmann, S. G., et al. (2026). LLM-Assisted Semantic Clustering in Psychotherapy Research. *Journal of Psychotherapy Integration*. (Dati dedotti dal corpus di riferimento).
 
 ## Relazioni
-- Vedi anche: [1-s2-0-s0272735826000917-main](1-s2-0-s0272735826000917-main.md), [processes-of-change-in-psychotherapy](processes-of-change-in-psychotherapy.md), [structured-literature-reviews](structured-literature-reviews.md), [hybrid-ai-research-workflows](hybrid-ai-research-workflows.md), [llm-assisted-synthesis](llm-assisted-synthesis.md), [jingle-fallacy](jingle-fallacy.md), [jangle-fallacy](jangle-fallacy.md)
+- Vedi anche: [[1-s2-0-s0272735826000917-main]], [[processes-of-change-in-psychotherapy]], [[structured-literature-reviews]], [[hybrid-ai-research-workflows]], [[llm-assisted-synthesis]], [[jingle-fallacy]], [[jangle-fallacy]]
 

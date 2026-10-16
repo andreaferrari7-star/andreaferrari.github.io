@@ -1,5 +1,6 @@
 ---
 tags: [clinical-simulation, AI-training, digital-health]
+tipo_fonte: [scientifica, interna]
 source_papers: ["03-13 Avvio del Gruppo di Lavoro sull'Intelligenza Artificiale in Psicoterapia.txt"]
 ---
 
@@ -15,5 +16,5 @@ source_papers: ["03-13 Avvio del Gruppo di Lavoro sull'Intelligenza Artificiale 
 - Non specificato.
 
 ## Relazioni
-- Vedi anche: [03-13_Avvio_Gruppo_Lavoro_IA_Psicoterapia](03-13_Avvio_Gruppo_Lavoro_IA_Psicoterapia.md), [ai-assisted-psychotherapy](ai-assisted-psychotherapy.md), [simulazione-pazienti-ai](simulazione-pazienti-ai.md), [machine-psychology](machine-psychology.md), [prompting-in-psychology](prompting-in-psychology.md), [ai-research-ethics](ai-research-ethics.md)
+- Vedi anche: [[03-13-avvio-gruppo-lavoro-ia-psicoterapia]], [[ai-assisted-psychotherapy]], [[simulazione-pazienti-ai]], [[machine-psychology]], [[prompting-in-psychology]], [[ai-research-ethics]]
 

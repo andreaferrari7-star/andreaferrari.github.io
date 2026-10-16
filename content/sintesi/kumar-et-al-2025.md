@@ -1,12 +1,13 @@
 ---
 tags: [motivational-interviewing, miti, semantic-drift, dialogue-summarization, llm-evaluation, mental-health, prompt-engineering, nlp, annosum-mi, chatgpt, deepseek, gemini]
+tipo_fonte: scientifica
 source_papers: ["2511.22818v1.pdf"]
 ---
 
 # Mitigating Semantic Drift: Evaluating LLMs' Efficacy in Psychotherapy through MI Dialogue Summarization (Kumar et al., 2025)
 
 **Summary**: Studio empirico che valuta l'efficacia dei Large Language Models (OpenAI ChatGPT-4.0, Google Gemini 2.0 Flash e DeepSeek-V3) nella comprensione, sintesi e annotazione automatizzata di dialoghi di Colloquio Motivazionale (Motivational Interviewing, MI). Gli autori introducono lo schema di annotazione a 6 dimensioni derivato dal framework clinico MITI (Evocation, Collaboration, Autonomy, Direction, Empathy e Non-Judgmental Attitude), rilasciano il dataset annotato da esperti **AnnoSUM-MI** (esteso da AnnoMI), propongono tecniche di *progressive prompting* (zero-shot, one-shot, few-shot) per mitigare la *semantic drift* (deriva semantica) e valutano la fedeltà clinico-contestuale attraverso un task di classificazione multi-output multi-classe su scala Likert 1–5.
-**Sources**: `2511.22818v1.pdf` (*arXiv:2511.22818v1 [cs.CL]*, University of the Bundeswehr Munich / Barkatullah University, IJCNN 2025)
+**Fonti**: *arXiv:2511.22818v1 [cs.CL]*, University of the Bundeswehr Munich / Barkatullah University, IJCNN 2025.
 **Last updated**: 2026-08-27
 ---
 
@@ -181,12 +182,14 @@ L'introduzione di strategie **one-shot e few-shot** riduce in modo significativo
 ---
 
 ## Pagine e Concetti Correlati
-- [semantic-drift-in-therapy-llms](../concetti/semantic-drift-in-therapy-llms.md): Analisi teorica ed empirica della deriva semantica nei modelli linguistici applicati alla clinica.
-- [miti-framework-llm-evaluation](../concetti/miti-framework-llm-evaluation.md): Il framework Motivational Interviewing Treatment Integrity come metrica di valutazione e allineamento per l'IA.
-- [annosum-mi-dataset](../concetti/annosum-mi-dataset.md): Dettagli architetturali, composizione e utilizzo del dataset AnnoSUM-MI.
-- [progressive-prompting-clinical-summarization](../concetti/progressive-prompting-clinical-summarization.md): Tecniche di prompting euristico progressivo per la sintesi e il coding clinico.
-- [motivational-interviewing-dialogue-summarization](../concetti/motivational-interviewing-dialogue-summarization.md): Stato dell'arte dell'elaborazione automatica del linguaggio applicata al Colloquio Motivazionale.
-- [ctrs-automated-evaluation](../concetti/ctrs-automated-evaluation.md): Valutazione automatizzata della fedeltà terapeutica in CBT mediante scale cliniche standardizzate.
-- [clinical-fidelity-assessment](../clinical-fidelity-assessment.md): Principi generali di fidelity assessment e behavioral coding in psicoterapia assistita da IA.
-- [human-in-the-reasoning](../human-in-the-reasoning.md): Centralità del giudizio clinico umano nei processi di annotazione e validazione dei modelli generativi.
+- [[semantic-drift-in-therapy-llms]]: Analisi teorica ed empirica della deriva semantica nei modelli linguistici applicati alla clinica.
+- [[miti-framework-llm-evaluation]]: Il framework Motivational Interviewing Treatment Integrity come metrica di valutazione e allineamento per l'IA.
+- [[annosum-mi-dataset]]: Dettagli architetturali, composizione e utilizzo del dataset AnnoSUM-MI.
+- [[progressive-prompting-clinical-summarization]]: Tecniche di prompting euristico progressivo per la sintesi e il coding clinico.
+- [[motivational-interviewing-dialogue-summarization]]: Stato dell'arte dell'elaborazione automatica del linguaggio applicata al Colloquio Motivazionale.
+- [[ctrs-automated-evaluation]]: Valutazione automatizzata della fedeltà terapeutica in CBT mediante scale cliniche standardizzate.
+- [[clinical-fidelity-assessment]]: Principi generali di fidelity assessment e behavioral coding in psicoterapia assistita da IA.
+- [[human-in-the-reasoning]]: Centralità del giudizio clinico umano nei processi di annotazione e validazione dei modelli generativi.
 
+## Relazioni
+- Vedi anche: [[miti-annotation-scheme]], [[nlp-clinico-analisi-sedute]], [[semantic-drift-psicoterapia]], [[annosum-mi-dataset]], [[miti-framework-llm-evaluation]], [[motivational-interviewing-dialogue-summarization]], [[progressive-prompting-clinical-summarization]], [[semantic-drift-in-therapy-llms]]

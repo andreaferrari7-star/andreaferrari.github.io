@@ -1,5 +1,6 @@
 ---
 tags: [framework, reporting-guideline, diagnostic-accuracy, ai-clinical-trials]
+tipo_fonte: scientifica
 source_papers: ["STARD-AI (2021)"]
 ---
 
@@ -20,4 +21,4 @@ source_papers: ["STARD-AI (2021)"]
 - Bossuyt, P. M., Reitsma, J. B., Bruns, D. E., Gatsonis, C. A., Glasziou, P. P., Irwig, L., ... & STARD Group. (2015). STARD 2015: an updated list of essential items for reporting diagnostic accuracy studies. *BMJ*, 351, h5527.
 
 ## Relazioni
-- Vedi anche: [[TRIPOD_AI2024]], [[QUADA-AI]], [[linee-guida-prisma]]
+- Vedi anche: [[TRIPOD_AI2024]], [[linee-guida-prisma]]

@@ -1,11 +1,13 @@
 ---
 tags: []
+tipo_fonte: interna
+source_papers: ["05-11 Discussione del Gruppo di Ricerca su AI e Psicoterapia.txt"]
 ---
 
 # Software as a Medical Device (SaMD) in Salute Mentale
 
 **Summary**: Framework regolatorio, metodologico e clinico per l'integrazione di sistemi di intelligenza artificiale certificati come dispositivi medici (SaMD) nei servizi sanitari pubblici, con focus sulla gestione dei pazienti Not-On-Track e la validazione tramite RCT in cieco.
-**Sources**: [05-11 Discussione del Gruppo di Ricerca su AI e Psicoterapia.txt](file:///c:/Users/ANDREA/AI%20Knowledge%20Base/wiki/05-11%20Discussione%20del%20Gruppo%20di%20Ricerca%20su%20AI%20e%20Psicoterapia.txt)
+**Fonti**: [[05-11-discussione-gruppo-ricerca|Riunione 05-11: Discussione del Gruppo di Ricerca su AI e Psicoterapia]]
 **Last updated**: 2026-08-27
 
 ---
@@ -53,14 +55,11 @@ Ottenere la certificazione SaMD impone requisiti di evidenza empirica eccezional
 
 ---
 
-## Related pages
+## Relazioni
 
-- [05-11_Discussione_Gruppo_Ricerca](05-11_Discussione_Gruppo_Ricerca.md)
-- [libet-prime-agenti-didattici](concetti/concetti/concetti\libet-prime-agenti-didattici.md)
-- [human-in-the-reasoning](human-in-the-reasoning.md)
-- [digital-therapeutic-alliance](digital-therapeutic-alliance.md)
-- [ai-research-ethics](ai-research-ethics.md)
-- [large-language-models](large-language-models.md)
-
-## Riferimenti Bibliografici
-- [Da integrare]
+- [[05-11-discussione-gruppo-ricerca]]
+- [[libet-prime-agenti-didattici]]
+- [[human-in-the-reasoning]]
+- [[digital-therapeutic-alliance]]
+- [[ai-research-ethics]]
+- [[large-language-models]]

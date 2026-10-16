@@ -1,5 +1,6 @@
 ---
 tags: [machine-psychology, psicometria, psychometric-jailbreaks, measurement-phantoms, stamp-llm]
+tipo_fonte: scientifica
 source_papers:
   - "2512.04124v4.pdf"
   - "2509.13324v3.pdf"
@@ -26,5 +27,5 @@ source_papers:
 
 ## Relazioni
 
-- Vedi anche: [applied-theory-of-mind-llm](applied-theory-of-mind-llm.md), [stamp-llm-framework](concetti/concetti/concetti\stamp-llm-framework.md), [psychometric-jailbreaks](concetti/psychometric-jailbreaks.md), [measurement-phantoms](measurement-phantoms.md), [validita-psicometrica-llm](concetti/concetti/concetti\validita-psicometrica-llm.md)
+- Vedi anche: [[applied-theory-of-mind-llm]], [[stamp-llm-framework]], [[psychometric-jailbreaks]], [[measurement-phantoms]], [[validita-psicometrica-llm]]
 

@@ -1,5 +1,6 @@
 ---
 tags: [ieacp-framework, canada-protocol, ethics-by-design, ai-governance, federated-learning, data-privacy, computational-psychiatry, informed-consent]
+tipo_fonte: scientifica
 source_papers: ["10.1177_20552076261421688.pdf"]
 title: "Ethical Frameworks & Governance in Mental Health AI: IEACP Model, Canada Protocol & Federated Learning"
 ---
@@ -85,12 +86,12 @@ graph TD
 
 ---
 
-## Pagine Correlate
-- [rezaei-et-al-2026](../sintesi/rezaei-et-al-2026.md)
-- [network-based-ai-mental-healthcare](network-based-ai-mental-healthcare.md)
-- [specialized-nlp-models-mental-health](specialized-nlp-models-mental-health.md)
-- [etica-privacy-bias-ia-clinica](etica-privacy-bias-ia-clinica.md)
-- [algorithmic-bias-and-digital-inequalities](algorithmic-bias-and-digital-inequalities.md)
-- [three-layer-governance-framework](concetti/concetti\three-layer-governance-framework.md)
-- [rischio-suicidario-ai-limits](rischio-suicidario-ai-limits.md)
+## Relazioni
+- [[rezaei-et-al-2026]]
+- [[network-based-ai-mental-healthcare]]
+- [[specialized-nlp-models-mental-health]]
+- [[etica-privacy-bias-ia-clinica]]
+- [[algorithmic-bias-and-digital-inequalities]]
+- [[three-layer-governance-framework]]
+- [[rischio-suicidario-ai-limits]]
 

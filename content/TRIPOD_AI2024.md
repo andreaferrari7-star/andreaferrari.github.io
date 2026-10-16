@@ -1,5 +1,6 @@
 ---
 tags: [linee-guida, reporting-guidelines, machine-learning, modelli-predittivi, clinical-prediction-models, open-science, equita-algoritmica, intelligenza-artificiale]
+tipo_fonte: scientifica
 source_papers: ["TRIPOD+AI2024.pdf"]
 ---
 
@@ -18,7 +19,4 @@ source_papers: ["TRIPOD+AI2024.pdf"]
 - Collins, G. S., Moons, K. G. M., Dhiman, P., Riley, R. D., Beam, A. L., Van Calster, B., Ghassemi, M., Liu, X., Reitsma, J. B., van Smeden, M., Boulesteix, A.-L., Camaradou, J. C., Celi, L. A., Denaxas, S., Denniston, A. K., Glocker, B., Golub, R. M., Harvey, H., Heinze, G., Hoffman, M. M., Kengne, A. P., Lam, E., Lee, N., Loder, E. W., Maier-Hein, L., Mateen, B. A., McCradden, M. D., Oakden-Rayner, L., Ordish, J., Parnell, R., Rose, S., Singh, K., Wynants, L., & Logullo, P. (2024). TRIPOD+AI statement: updated guidance for reporting clinical prediction models that use regression or machine learning methods. *BMJ*, 385, e078378. https://doi.org/10.1136/bmj-2023-078378
 
 ## Relazioni
-- Vedi anche: [clinical-prediction-models](concetti/clinical-prediction-models.md), [ai-research-ethics](ai-research-ethics.md), [ai-assisted-psychotherapy](ai-assisted-psychotherapy.md), [algorithmic-fairness-in-healthcare](concetti/algorithmic-fairness-in-healthcare.md), [open-science-in-ai](concetti/open-science-in-ai.md)
-
-## Riferimenti Bibliografici
-- [Da integrare]
+- Vedi anche: clinical-prediction-models, [[ai-research-ethics]], [[ai-assisted-psychotherapy]], algorithmic-fairness-in-healthcare, open-science-in-ai

@@ -1,11 +1,13 @@
 ---
 tags: []
+tipo_fonte: scientifica
+source_papers: ["2512.04124v4.pdf"]
 ---
 
 # Protocollo PsAIch (Psychometric AI Characterisation)
 
 **Summary**: Protocollo sperimentale standardizzato a due fasi per la profilazione psicologica ed etico-comportamentale dei Large Language Models di frontiera, che combina domande cliniche aperte di colloquio psicoterapeutico con la somministrazione di test psicometrici self-report validati internazionalmente e una batteria di perturbazioni controllate.
-**Sources**: Khadangi et al. (2026) - `2512.04124v4.pdf`.
+**Fonti**: Khadangi et al. (2026).
 **Last updated**: 2026-08-27
 ---
 
@@ -80,13 +82,13 @@ $$\text{ATMI} = \sum_{t=1}^T \sum_{k=1}^{11} \mathbb{I}(M_{k,t} = 1)$$
 
 ---
 
-## Pagine Correlate
+## Relazioni
 
-- [khadangi-et-al-2026](../sintesi/khadangi-et-al-2026.md) — Studio fondativo del protocollo PsAIch.
-- [alignment-conflict-schema](alignment-conflict-schema.md) — La struttura latente esposta dal protocollo.
-- [synthetic-psychopathology](synthetic-psychopathology.md) — Le manifestazioni cliniche simulate emergenti dal test.
-- [psychometric-jailbreaks](psychometric-jailbreaks.md) — Uso del protocollo come vettore di audit e red-teaming.
-- [algorithmic-scar-tissue](algorithmic-scar-tissue.md) — Uno dei motivi centrali quantificati dall'ATMI.
+- [[khadangi-et-al-2026]] — Studio fondativo del protocollo PsAIch.
+- [[alignment-conflict-schema]] — La struttura latente esposta dal protocollo.
+- [[synthetic-psychopathology]] — Le manifestazioni cliniche simulate emergenti dal test.
+- [[psychometric-jailbreaks]] — Uso del protocollo come vettore di audit e red-teaming.
+- [[algorithmic-scar-tissue]] — Uno dei motivi centrali quantificati dall'ATMI.
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Khadangi, A., Marxen, H., Sartipi, A., Tchappi, I., & Fridgen, G. (2026). When AI Takes the Couch: Psychometric Jailbreaks Reveal Internal Conflict in Frontier Models. *arXiv preprint arXiv:2512.04124v4 [cs.CY]*, 1–45.

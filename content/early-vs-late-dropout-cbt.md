@@ -1,5 +1,6 @@
 ---
 tags: [dropout, cbt-online, early-dropout, late-dropout, pid-5, ampd, machine-learning, latent-class-analysis, clinical-decision-support, greta, therapeutic-alliance]
+tipo_fonte: scientifica
 source_papers: ["Bollettino_IPERlab_inTherapy_N01 (1).pdf"]
 ---
 
@@ -70,7 +71,4 @@ I modelli di Machine Learning (es. Random Forest, XGBoost) integrano *feature* d
 - Caselli, G., Grazioli, S., Piron, R., Fanfoni, M., Giuri, S., Scaini, S., Ruggiero, G. M., & Sassaroli, S. (2026). Effectiveness of Cognitive Behavioral Therapy on anxiety and depression symptoms in naturalistic settings for patients with and without personality disorders. *British Journal of Clinical Psychology* (In revisione).
 
 ## Relazioni
-- Vedi anche: [bollettino-iperlab-intherapy-n01-1](bollettino-iperlab-intherapy-n01-1.md), [treatment-outcome-and-relapse-prediction](concetti/treatment-outcome-and-relapse-prediction.md), [clinical-fidelity-assessment](clinical-fidelity-assessment.md), [process-based-therapy](concetti/process-based-therapy.md), [software-as-a-medical-device-salute-mentale](software-as-a-medical-device-salute-mentale.md), [000](000.md)
-
-## Riferimenti Bibliografici
-- [Da integrare]
+- Vedi anche: [[bollettino-iperlab-intherapy-n01-1]], [[treatment-outcome-and-relapse-prediction]], [[clinical-fidelity-assessment]], [[process-based-therapy]], [[software-as-a-medical-device-salute-mentale]], [[000]]

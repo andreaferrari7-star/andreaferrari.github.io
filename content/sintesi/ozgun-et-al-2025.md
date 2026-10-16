@@ -1,5 +1,6 @@
 ---
 tags: [multi-agent-systems, explainable-ai, mental-health-diagnosis, dsm-5, synthetic-dialogues, llm-benchmarking, clinical-decision-support]
+tipo_fonte: scientifica
 source_papers: ["2508.11398v2.pdf"]
 title: "Trustworthy AI Psychotherapy: Multi-Agent LLM Workflow for Counseling and Explainable Mental Disorder Diagnosis"
 authors: "Mithat Can Ozgun, Jiahuan Pei, Koen Hindriks, Lucia Donatelli, Qingzhi Liu, Junxiao Wang"
@@ -13,13 +14,13 @@ code_repository: "https://github.com/mithatco/mental_health_multiagent"
 # Trustworthy AI Psychotherapy: Multi-Agent LLM Workflow for Counseling and Explainable Mental Disorder Diagnosis (Ozgun et al., 2025)
 
 **Summary**: Lo studio introduce **DSM5AgentFlow**, un framework multi-agente basato su Large Language Models (LLM) per la simulazione e la somministrazione automatizzata del questionario diagnostico *DSM-5 Level-1 Cross-Cutting Symptom Measure*, accoppiato a un motore diagnostico RAG-grounded capace di generare diagnosi psichiatriche provvisorie e razionali clinici esplicabili e tracciabili. Il benchmark comparativo su 8.000 dialoghi simulati con quattro modelli (Llama-4-scout-17b, Mistral-Saba-24b, Qwen-QWQ-32b e GPT-4.1-Nano) evidenzia un trade-off cruciale: i modelli conversazionali eccellono nel realismo dialogico ed empatico, mentre i modelli specializzati nel ragionamento logico (Qwen-QWQ-32b) ottengono una netta superiorità nell'accuratezza diagnostica (F1 = 77%) e nell'ancoraggio strutturato ai criteri del DSM-5.
-**Sources**: `2508.11398v2.pdf` (*CIKM '25: Proceedings of the 34th ACM International Conference on Information and Knowledge Management*, Seoul, Republic of Korea, November 10–14, 2025. ACM, New York, NY, USA, 10 pages. DOI: 10.1145/3746252.3761164)
+**Fonti**: *CIKM '25: Proceedings of the 34th ACM International Conference on Information and Knowledge Management*, Seoul, Republic of Korea, November 10–14, 2025. ACM, New York, NY, USA, 10 pages. DOI: 10.1145/3746252.3761164.
 **Last updated**: 2026-08-27
 ---
 
 ## Inquadramento Generale e Problema
 
-L'integrazione degli agenti basati su LLM ([large-language-models](../large-language-models.md)) nella salute mentale affronta ostacoli metodologici, etici e clinici rilevanti:
+L'integrazione degli agenti basati su LLM ([[large-language-models]]) nella salute mentale affronta ostacoli metodologici, etici e clinici rilevanti:
 1. **Scarsità e Riservatezza dei Dati Clinici**: L'accesso a trascrizioni reali di colloqui clinici è vincolato da stringenti norme sulla privacy e requisiti etici/IRB, limitando la riproducibilità e la scalabilità della ricerca.
 2. **Opacità e Mancanza di Trasparenza Diagnostica**: I tradizionali strumenti di screening (come il questionario DSM-5 Livello 1) calcolano punteggi sintetici che i pazienti percepiscono spesso come una "scatola nera", riducendo la fiducia epistemica e l'ingaggio terapeutico. Inoltre, i modelli di NLP convenzionali emettono etichette diagnostiche opache (*black-box*), prive di giustificazione clinica esplicabile.
 3. **Incapacità di Emulare la Conduzione Clinica Proattiva**: I modelli generativi non strutturati falliscono spesso nella comprensione multi-turno e non riescono a condurre un'intervista clinica adattiva ed empatica senza giungere a conclusioni premature o deviare dalle linee guida diagnostiche.
@@ -180,16 +181,16 @@ L'evidenza principale dello studio è la divergenza di capacità tra modelli lin
 
 ---
 
-## Pagine Correlate
-- [dsm5agentflow](../dsm5agentflow.md): Architettura e dinamiche del workflow multi-agente per lo screening clinico.
-- [explainable-mental-disorder-diagnosis](../concetti/explainable-mental-disorder-diagnosis.md): Metodologie di trasparenza, tagging clinico e razionali diagnostici step-by-step.
-- [trade-off-conversazione-ragionamento-llm](../concetti/trade-off-conversazione-ragionamento-llm.md): Analisi del divario prestazionale tra modelli conversazionali e modelli di ragionamento nell'IA clinica.
-- [synthetic-clinical-dialogues](../concetti/synthetic-clinical-dialogues.md): Generazione controllata di dialoghi sintetici per la ricerca psicoterapeutica e il superamento della scarsità dei dati.
-- [simulazione-pazienti-ai](../simulazione-pazienti-ai.md): Metodologie generali di modellizzazione dei pazienti virtuali.
-- [rag-in-psicoterapia](../concetti/rag-in-psicoterapia.md): Integrazione di database clinici vincolanti mediante Retrieval-Augmented Generation.
-- [human-in-the-reasoning](../human-in-the-reasoning.md): Supervisione clinica attiva ed esplicabilità del processo diagnostico.
-- [three-layer-governance-framework](../concetti/concetti/concetti\three-layer-governance-framework.md): Quadro etico e regolatorio per l'impiego dell'IA in salute mentale.
-- [ai-assisted-psychotherapy](../ai-assisted-psychotherapy.md): Panoramica generale sull'IA in psicoterapia.
+## Relazioni
+- [[dsm5agentflow]]: Architettura e dinamiche del workflow multi-agente per lo screening clinico.
+- [[explainable-mental-disorder-diagnosis]]: Metodologie di trasparenza, tagging clinico e razionali diagnostici step-by-step.
+- [[trade-off-conversazione-ragionamento-llm]]: Analisi del divario prestazionale tra modelli conversazionali e modelli di ragionamento nell'IA clinica.
+- [[synthetic-clinical-dialogues]]: Generazione controllata di dialoghi sintetici per la ricerca psicoterapeutica e il superamento della scarsità dei dati.
+- [[simulazione-pazienti-ai]]: Metodologie generali di modellizzazione dei pazienti virtuali.
+- [[rag-in-psicoterapia]]: Integrazione di database clinici vincolanti mediante Retrieval-Augmented Generation.
+- [[human-in-the-reasoning]]: Supervisione clinica attiva ed esplicabilità del processo diagnostico.
+- [[three-layer-governance-framework]]: Quadro etico e regolatorio per l'impiego dell'IA in salute mentale.
+- [[ai-assisted-psychotherapy]]: Panoramica generale sull'IA in psicoterapia.
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Ozgun, M. C., Pei, J., Hindriks, K., Donatelli, L., Liu, Q., & Wang, J. (2025). Trustworthy AI Psychotherapy: Multi-Agent LLM Workflow for Counseling and Explainable Mental Disorder Diagnosis. In *Proceedings of the 34th ACM International Conference on Information and Knowledge Management (CIKM ’25)*, November 10–14, 2025, Seoul, Republic of Korea. ACM, New York, NY, USA, 10 pages. https://doi.org/10.1145/3746252.3761164 / arXiv:2508.11398v2 [cs.HC]

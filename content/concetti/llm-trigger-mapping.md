@@ -1,5 +1,6 @@
 ---
 tags: [llm, nlp, ocd-triggers, exposure-therapy, erp]
+tipo_fonte: scientifica
 source_papers: ["s44271-026-00503-x_reference.pdf"]
 ---
 
@@ -16,5 +17,5 @@ source_papers: ["s44271-026-00503-x_reference.pdf"]
 - Bentz, D., & Wulff, D. U. (2026). Leveraging large language models to map triggers of contamination-related obsessive-compulsive symptoms. *Communications Psychology*. https://doi.org/10.1038/s44271-026-00503-x
 
 ## Relazioni
-- Vedi anche: [bentz-wulff-2026](../bentz-wulff-2026.md), [nlp-ehr-ocs-detection](nlp-ehr-ocs-detection.md), [agent-harness-architecture](agent-harness-architecture.md)
+- Vedi anche: [[bentz-wulff-2026]], [[nlp-ehr-ocs-detection]], [[agent-harness-architecture]]
 

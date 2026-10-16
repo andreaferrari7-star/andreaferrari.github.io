@@ -1,5 +1,6 @@
 ---
 tags: [behavioral-persistence, frustrative-nonreward, animal-models, ocd-phenotypes]
+tipo_fonte: scientifica
 source_papers: ["nihpp-2026.03.02.709169v2.pdf"]
 ---
 
@@ -16,5 +17,5 @@ source_papers: ["nihpp-2026.03.02.709169v2.pdf"]
 - Cao, T., Johnston, W. R., Christensen, S., Crouse, S., & Sun, Q.-Q. (2026). A Multidimensional Framework for Behavioral Persistence: Dissociable Dimensions of Effort, Endurance, and Sequence Stability in Mice. *bioRxiv*. https://doi.org/10.64898/2026.03.02.709169
 
 ## Relazioni
-- Vedi anche: [cao-et-al-2026](../cao-et-al-2026.md)
+- Vedi anche: [[cao-et-al-2026]]
 

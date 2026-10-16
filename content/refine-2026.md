@@ -1,5 +1,6 @@
 ---
 tags: [refine, reporting-guidelines, foundation-models, large-language-models, medical-ai, radiology-ai, delphi-consensus, prompt-engineering, stochasticity-control, dataset-integrity, output-evaluation, clinical-implementation, research-transparency, multimodal-ai]
+tipo_fonte: scientifica
 source_papers: ["REFINE_2026.pdf"]
 ---
 
@@ -9,7 +10,7 @@ source_papers: ["REFINE_2026.pdf"]
 - Il **REFINE** (*REporting checklist for FoundatIon and large laNguagE models*) è una linea guida metodologica internazionale sviluppata mediante processo di consenso Delphi modificato per standardizzare la rendicontazione trasparente, rigorosa e riproducibile degli studi biomedici e clinici basati su Foundation Models (FM) e Large Language Models (LLM), inclusi i modelli multimodali e le applicazioni in diagnostica per immagini.
 - **Autori e Consenso Internazionale:** Pubblicato su *Diagnostic and Interventional Radiology* (2026; DOI: [10.4274/dir.2026.263812](https://doi.org/10.4274/dir.2026.263812)) da un consorzio internazionale di 57 contributori provenienti da 17 Paesi (guidato da Ismail Mese, Tugba Akinci D’Antonoli e Burak Kocak come steering committee, con il contributo di figure di spicco della radiologia e dell'IA sanitaria come Christian Bluethgen, Keno Bressem, Renato Cuocolo, Charles E. Kahn Jr., Seong Ho Park, Linda Moy e Jakob Nikolas Kather).
 - **Architettura del Framework:** Si articola in una checklist strutturata di **44 item suddivisi in 6 macro-domini** (*Model Specification*, *Prompt Design*, *Stochasticity Control*, *Dataset Integrity*, *Output Evaluation*, *Implementation*), corredata da definizioni terminologiche standardizzate (Table 1) e istruzioni operative item-by-item (Table 3), supportata da una piattaforma web interattiva open-access ([refinechecklist.github.io](https://refinechecklist.github.io/refine/checklist.html)).
-- **Collocazione nell'Ecosistema Metodologico:** REFINE estende e integra le linee guida EQUATOR tradizionali per l'IA deterministica ([MI-CLEAR-LLM](concetti/mi-clear-llm-2025.md), [CHART](concetti/chart-reporting-guideline.md), [CANGARU](concetti/CANGARU.md)), coprendo l'intero ciclo di vita dello studio generativo: dall'identificazione algoritmica e ingegneria dei prompt alla gestione della non-determinatezza, prevenzione della contaminazione dei dati di test (*data leakage*), validazione clinica e governance di implementazione sicura.
+- **Collocazione nell'Ecosistema Metodologico:** REFINE estende e integra le linee guida EQUATOR tradizionali per l'IA deterministica ([[mi-clear-llm-2025|MI-CLEAR-LLM]], [[chart-reporting-guideline|CHART]], [[CANGARU]]), coprendo l'intero ciclo di vita dello studio generativo: dall'identificazione algoritmica e ingegneria dei prompt alla gestione della non-determinatezza, prevenzione della contaminazione dei dati di test (*data leakage*), validazione clinica e governance di implementazione sicura.
 
 ```mermaid
 flowchart TD
@@ -237,12 +238,12 @@ REFINE si posiziona come lo standard più comprensivo e granulare per i modelli 
 | Linea Guida / Framework | Focus Primario | Ambito di Applicazione | Gestione Stocasticità | Dettaglio Prompting | Integrità Dataset & Contaminazione | Governance & Safety Clinica |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **REFINE (2026)** | Foundation Models & LLM in Ricerca Medica e Imaging | Generale Biomedico, Multimodale, Radiologico | **Esaustiva** (3 item specifici + analisi quantitativa) | **Massima** (Protocollo, versioning, 4 livelli di controllo output) | **Completa** (Rischio cutoff pretraining, de-identificazione, pairing) | **Integrata** (7 item: workflow, misuse, safety, privacy PHI, audit) |
-| **[MI-CLEAR-LLM (2025)](concetti/mi-clear-llm-2025.md)** | Studi di accuratezza diagnostica di LLM/LMM | Imaging e Test Clinici | **Elevata** (Iperparametri e sintesi multi-query) | **Elevata** (Copy-paste verbatim, brittleness) | **Focalizzata** (Leakage diretto e indiretto) | **Marginale** (Focus prettamente metodologico/laboratoristico) |
-| **[TRIPOD-LLM](concetti/TRIPOD-LLM.md)** | Modelli predittivi e prognostici basati su LLM | Epidemiologia clinica e predizione di rischio | Moderata | Moderata | Elevata (Split train/validation) | Moderata |
-| **[DEAL](concetti/DEAL.md) (NEJM AI)** | Sviluppo e valutazione di modelli linguistici | Sanità generale (Dual-path: advanced vs off-the-shelf) | Moderata | Moderata | Moderata | Elevata |
-| **[CHART Statement](concetti/chart-reporting-guideline.md)** | Valutazione di chatbot per consigli sanitari al paziente | Interazione medico-paziente e consulenza | Specifica per query | Elevata per consigli sanitari | Moderata | Elevata (Rischio clinico al paziente) |
-| **[CLAIM](concetti/CLAIM.md) / CLAIM-2024** | Modelli di IA in diagnostica per immagini | Radiologia classica (CNN, modelli discriminativi) | Assente (pensato per IA deterministica) | Non applicabile | Elevata per immagini | Moderata |
-| **[CONSORT-AI](concetti/CONSORT-AI.md) / [STARD-AI](concetti/STARD-AI.md)** | Trial clinici randomizzati e accuratezza diagnostica | Valutazione clinica formale | Assente | Non applicabile | Elevata | Elevata |
+| **[[mi-clear-llm-2025\|MI-CLEAR-LLM (2025)]]** | Studi di accuratezza diagnostica di LLM/LMM | Imaging e Test Clinici | **Elevata** (Iperparametri e sintesi multi-query) | **Elevata** (Copy-paste verbatim, brittleness) | **Focalizzata** (Leakage diretto e indiretto) | **Marginale** (Focus prettamente metodologico/laboratoristico) |
+| **[[tripod-llm2025\|TRIPOD-LLM]]** | Modelli predittivi e prognostici basati su LLM | Epidemiologia clinica e predizione di rischio | Moderata | Moderata | Elevata (Split train/validation) | Moderata |
+| **[[DEAL]] (NEJM AI)** | Sviluppo e valutazione di modelli linguistici | Sanità generale (Dual-path: advanced vs off-the-shelf) | Moderata | Moderata | Moderata | Elevata |
+| **[[chart-reporting-guideline\|CHART Statement]]** | Valutazione di chatbot per consigli sanitari al paziente | Interazione medico-paziente e consulenza | Specifica per query | Elevata per consigli sanitari | Moderata | Elevata (Rischio clinico al paziente) |
+| **[[CLAIM]] / CLAIM-2024** | Modelli di IA in diagnostica per immagini | Radiologia classica (CNN, modelli discriminativi) | Assente (pensato per IA deterministica) | Non applicabile | Elevata per immagini | Moderata |
+| **[[CONSORT-AI]] / [[STARD-AI]]** | Trial clinici randomizzati e accuratezza diagnostica | Valutazione clinica formale | Assente | Non applicabile | Elevata | Elevata |
 
 ---
 
@@ -262,19 +263,23 @@ REFINE si posiziona come lo standard più comprensivo e granulare per i modelli 
 ---
 
 ## Pagine Correlate della Wiki
-- [refine-reporting-checklist](refine-reporting-checklist.md) — Concetto metodologico sul framework REFINE e guida operativa all'adozione negli studi biomedici.
-- [dataset-integrity-and-contamination-in-medical-ai](dataset-integrity-and-contamination-in-medical-ai.md) — Analisi dei rischi di data leakage, pretraining cutoff contamination e bias di rappresentatività nei modelli di fondazione.
-- [mi-clear-llm-2025](mi-clear-llm-2025.md) — Linea guida specialistica per la rendicontazione dell'accuratezza diagnostica dei modelli linguistici in sanità.
-- [stochasticity-management-in-clinical-llms](stochasticity-management-in-clinical-llms.md) — Meccanismi fisici, iperparametrici e statistici per il controllo della stocasticità negli LLM clinici.
-- [chart-reporting-guideline](chart-reporting-guideline.md) — Standard di reporting per studi su chatbot di consulenza sanitaria al paziente.
-- [elevate-genai-framework](elevate-genai-framework.md) — Framework strutturale per la trasparenza e la riproducibilità della GenAI nella ricerca medica.
-- [linee-guida-reporting-ai-generativa-chart-elevate](linee-guida-reporting-ai-generativa-chart-elevate.md) — Quadro comparativo generale sulle linee guida per la ricerca con IA generativa.
+- [[refine-reporting-checklist]] — Concetto metodologico sul framework REFINE e guida operativa all'adozione negli studi biomedici.
+- [[dataset-integrity-and-contamination-in-medical-ai]] — Analisi dei rischi di data leakage, pretraining cutoff contamination e bias di rappresentatività nei modelli di fondazione.
+- [[mi-clear-llm-2025]] — Linea guida specialistica per la rendicontazione dell'accuratezza diagnostica dei modelli linguistici in sanità.
+- [[stochasticity-management-in-clinical-llms]] — Meccanismi fisici, iperparametrici e statistici per il controllo della stocasticità negli LLM clinici.
+- [[chart-reporting-guideline]] — Standard di reporting per studi su chatbot di consulenza sanitaria al paziente.
+- [[elevate-genai-framework]] — Framework strutturale per la trasparenza e la riproducibilità della GenAI nella ricerca medica.
+- [[linee-guida-reporting-ai-generativa-chart-elevate]] — Quadro comparativo generale sulle linee guida per la ricerca con IA generativa.
 
-- [mi-clear-llm-2025](mi-clear-llm-2025.md) — Linea guida specialistica per la rendicontazione dell'accuratezza diagnostica dei modelli linguistici in sanità.
-- [stochasticity-management-in-clinical-llms](stochasticity-management-in-clinical-llms.md) — Meccanismi fisici, iperparametrici e statistici per il controllo della stocasticità negli LLM clinici.
-- [chart-reporting-guideline](chart-reporting-guideline.md) — Standard di reporting per studi su chatbot di consulenza sanitaria al paziente.
-- [elevate-genai-framework](elevate-genai-framework.md) — Framework strutturale per la trasparenza e la riproducibilità della GenAI nella ricerca medica.
-- [linee-guida-reporting-ai-generativa-chart-elevate](linee-guida-reporting-ai-generativa-chart-elevate.md) — Quadro comparativo generale sulle linee guida per la ricerca con IA generativa.
+- [[mi-clear-llm-2025]] — Linea guida specialistica per la rendicontazione dell'accuratezza diagnostica dei modelli linguistici in sanità.
+- [[stochasticity-management-in-clinical-llms]] — Meccanismi fisici, iperparametrici e statistici per il controllo della stocasticità negli LLM clinici.
+- [[chart-reporting-guideline]] — Standard di reporting per studi su chatbot di consulenza sanitaria al paziente.
+- [[elevate-genai-framework]] — Framework strutturale per la trasparenza e la riproducibilità della GenAI nella ricerca medica.
+- [[linee-guida-reporting-ai-generativa-chart-elevate]] — Quadro comparativo generale sulle linee guida per la ricerca con IA generativa.
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Kocak, B. (2025, 19 agosto). *REFINE* [Progetto]. Open Science Framework.
+- Mese, I., Akinci D’Antonoli, T., Bluethgen, C., Bressem, K., Cuocolo, R., Chaudhari, A., Tejani, A. S., Isaac, A., Ponsiglione, A., Meddeb, A., Khosravi, B., Le Guellec, B., Kahn, C. E., Jr., Suh, C. H., Pinto dos Santos, D., Koh, D.-M., Tzanis, E., Kotter, E., Colak, E., . . . Kocak, B. (2026). Reporting checklist for foundation and large language models in medical research (REFINE): An international consensus guideline. *Diagnostic and Interventional Radiology*. Advance online publication. https://doi.org/10.4274/dir.2026.263812
+
+## Relazioni
+- Vedi anche: [[dataset-integrity-and-contamination-in-medical-ai]], [[refine-reporting-checklist]], [[CANGARU]], [[CLAIM]], [[DEAL]], [[mi-clear-llm-2025]], [[chart-reporting-guideline]], [[CONSORT-AI]]

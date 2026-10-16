@@ -11,6 +11,7 @@ tags:
   - eu-ai-act
   - readi-framework
   - synthetic-benchmarks
+tipo_fonte: scientifica
 source_papers:
   - 2604.23445v1.pdf
 ---
@@ -52,12 +53,12 @@ Il **Framework di Valutazione Clinica a Cinque Assi** (*Five-Axis Evaluation Fra
 
 ## Riferimenti Bibliografici
 *   Suhas, B. N., et al. (2026). AI Safety Training Can be Clinically Harmful. *arXiv:2604.23445v1*.
-*   Bentley, K. H., et al. (2026). VERA-MH: Reliability and validity of an open-source AI safety evaluation in mental health. *arXiv:2601.xxxxx*.
+*   Bentley, K. H., Belli, L., Chekroud, A., Ward, E. J., Dworkin, E. R., Van Ark, E., et al. (2026). VERA-MH: Reliability and validity of an open-source AI safety evaluation in mental health. *arXiv preprint*.
 *   Gaus, R., et al. (2025). A scoping review of generative AI in mental health support. *PsyArXiv preprint*.
 *   Stade, E. C., et al. (2025). Readiness evaluation for artificial intelligence–mental health deployment and implementation (READI). *Technology, Mind, and Behavior*, 6(2).
 *   Suhas, B. N., et al. (2025a). Thousand voices of trauma: A large-scale synthetic dataset for modeling prolonged exposure therapy conversations. *NeurIPS Datasets & Benchmarks*.
 *   Young, J. E., & Beck, A. T. (1980). *Cognitive Therapy Rating Scale: Rating Manual*. University of Pennsylvania.
 
 ## Relazioni
-- Vedi anche: [2604-23445v1](2604-23445v1.md), [rlhf-safety-therapeutic-conflict](rlhf-safety-therapeutic-conflict.md), [clinical-fidelity-assessment](clinical-fidelity-assessment.md), [software-as-a-medical-device-salute-mentale](software-as-a-medical-device-salute-mentale.md), [three-layer-governance-framework](concetti/concetti/concetti\three-layer-governance-framework.md), [automated-clinical-ai-red-teaming](automated-clinical-ai-red-teaming.md), [audit-bias-llm-clinici](concetti/concetti/concetti\audit-bias-llm-clinici.md), [validita-psicometrica-llm](concetti/concetti/concetti\validita-psicometrica-llm.md), [ai-assisted-psychotherapy](ai-assisted-psychotherapy.md), [000](000.md)
+- Vedi anche: [[2604-23445v1]], [[rlhf-safety-therapeutic-conflict]], [[clinical-fidelity-assessment]], [[software-as-a-medical-device-salute-mentale]], [[three-layer-governance-framework]], [[automated-clinical-ai-red-teaming]], [[audit-bias-llm-clinici]], [[validita-psicometrica-llm]], [[ai-assisted-psychotherapy]], [[000]]
 

@@ -1,5 +1,6 @@
 ---
 tags: [process-based-therapy, pbt, cbt-terza-onda, modelli-transdiagnostici, reti-dinamiche, idionomico]
+tipo_fonte: scientifica
 source_papers: ["1-s2.0-S0272735826000917-main.pdf"]
 ---
 
@@ -23,7 +24,4 @@ source_papers: ["1-s2.0-S0272735826000917-main.pdf"]
 - Hofmann, S. G., Curtiss, J. E., & Hayes, S. C. (2020). Beyond linear mediation: Toward a dynamic network approach to study treatment processes. *Clinical Psychology Review*, 76, Article 101824. https://doi.org/10.1016/j.cpr.2020.101824
 
 ## Relazioni
-- Vedi anche: [process-of-change](process-of-change.md), [common-vs-specific-factors](common-vs-specific-factors.md), [terminological-fragmentation](terminological-fragmentation.md), [dual-validity-framework](../dual-validity-framework.md), [hofmann-et-al-2026](../sintesi/hofmann-et-al-2026.md)
-
-## Riferimenti Bibliografici
-- [Da integrare]
+- Vedi anche: [[process-of-change]], [[common-vs-specific-factors]], [[terminological-fragmentation]], [[dual-validity-framework]], [[hofmann-et-al-2026]]

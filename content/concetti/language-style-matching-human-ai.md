@@ -1,11 +1,13 @@
 ---
 tags: []
+tipo_fonte: scientifica
+source_papers: ["2508.00847v1.pdf"]
 ---
 
 # Language Style Matching (LSM) in Human-AI Dyads
 
 **Summary**: Analisi del Language Style Matching (LSM) come metrica computazionale di convergenza e sintonizzazione linguistica nelle diadi umano-IA applicate alla salute mentale, basata sul calcolo LIWC delle parole funzione e sulla sua correlazione clinica con la riduzione di ansia e depressione.
-**Sources**: Sahab et al. (2025) - `2508.00847v1.pdf`, Ireland et al. (2011), Borelli et al. (2019)
+**Fonti**: Sahab et al. (2025), Ireland et al. (2011), Borelli et al. (2019)
 **Last updated**: 2026-08-27
 ---
 
@@ -63,14 +65,17 @@ Nello studio controllato randomizzato di **Sahab et al. (2025)** condotto su don
 
 ---
 
-## Related pages
-- [sahab-et-al-2025](../sintesi/sahab-et-al-2025.md)
-- [supportive-listener-prompting](concetti/concetti\supportive-listener-prompting.md)
-- [digital-therapeutic-alliance](../digital-therapeutic-alliance.md)
-- [simulated-empathy-vs-authentic-presence](concetti/concetti\simulated-empathy-vs-authentic-presence.md)
-- [simulated-therapeutic-alliance](simulated-therapeutic-alliance.md)
-- [lexical-psychological-features](../lexical-psychological-features.md)
-- [conversational-agents-mental-health](conversational-agents-mental-health.md)
+## Relazioni
+- [[sahab-et-al-2025]]
+- [[supportive-listener-prompting]]
+- [[digital-therapeutic-alliance]]
+- [[simulated-empathy-vs-authentic-presence]]
+- [[simulated-therapeutic-alliance]]
+- [[lexical-psychological-features]]
+- [[conversational-agents-mental-health]]
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Aafjes-van Doorn, K., Porcerelli, J., & Müller-Frommeyer, L. C. (2020). Language style matching in psychotherapy: An implicit aspect of alliance. *Journal of Counseling Psychology*, *67*(4), 509.
+- Borelli, J. L., Sohn, L., Wang, B. A., Hong, K., DeCoste, C., & Suchman, N. E. (2019). Therapist–client language matching: Initial promise as a measure of therapist–client relationship quality. *Psychoanalytic Psychology*, 36(1), 9–18.
+- Ireland, M. E., Slatcher, R. B., Eastwick, P. W., Scissors, L. E., Finkel, E. J., & Pennebaker, J. W. (2011). Language Style Matching Predicts Relationship Initiation and Stability. *Psychological Science*, 22(1), 39–44.
+- Sahab, S., Haqbeen, J., Sapkota, D., & Ito, T. (2025). GPT Chatbots for Alleviating Anxiety and Depression: A Pilot Randomized Controlled Trial with Afghan Women. *arXiv preprint arXiv:2508.00847v1*, 1–13.

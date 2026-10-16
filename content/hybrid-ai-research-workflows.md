@@ -1,5 +1,6 @@
 ---
 tags: [workflow-ibridi, architettura, human-in-the-loop, integrazione-scientifica]
+tipo_fonte: scientifica
 source_papers: ["JML_1001.pdf", "Using_Large_Language_Models_in_Psychological_Resea.pdf", "2603.27146v3.pdf", "2605.24351v1.pdf"]
 ---
 
@@ -20,7 +21,4 @@ source_papers: ["JML_1001.pdf", "Using_Large_Language_Models_in_Psychological_Re
 - Wang, H., Jiang, P., Sun, J., Shi, Z., Yu, H., Han, J., & Ji, H. (2026). Learning to Predict Future-Aligned Research Proposals with Language Models. *arXiv preprint arXiv:2603.27146v3*. https://arxiv.org/abs/2603.27146v3
 
 ## Relazioni
-- Vedi anche: [llm-assisted-synthesis](llm-assisted-synthesis.md), [stepwise-cot](stepwise-cot.md), [hypothesis-generation](hypothesis-generation.md), [future-alignment-score](future-alignment-score.md), [structured-literature-reviews](structured-literature-reviews.md), [ai-research-ethics](ai-research-ethics.md)
-
-## Riferimenti Bibliografici
-- [Da integrare]
+- Vedi anche: [[llm-assisted-synthesis]], [[stepwise-cot]], [[hypothesis-generation]], [[future-alignment-score]], [[structured-literature-reviews]], [[ai-research-ethics]]

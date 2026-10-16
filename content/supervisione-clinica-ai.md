@@ -1,18 +1,20 @@
 ---
 tags: []
+tipo_fonte: evento
+source_papers: ["06-10 Lezione_ RAG, LLM in Psicoterapia e Governance Etica.txt"]
 ---
 
 # Supervisione Clinica e Intelligenza Artificiale
 
 **Summary**: Inquadramento teorico ed evidenze empiriche sull'utilizzo dei Large Language Models e chatbot come strumenti a supporto della supervisione e dell'intervisione in psicoterapia. L'analisi include lo studio pionieristico di Cosentino et al. (2026) su allievi specializzandi e terapeuti esperti, focalizzandosi su timore della colpa, ansia sociale, rischi di de-skilling e sycophancy.
-**Sources**: [06-10 Lezione_ RAG, LLM in Psicoterapia e Governance Etica.txt](file:///06-10%20Lezione_%20RAG,%20LLM%20in%20Psicoterapia%20e%20Governance%20Etica.txt)
+**Fonti**: [[06-10-lezione-rag-llm|Lezione e Seminario: RAG, LLM in Psicoterapia, Supervisione e Governance Etica (10 Giugno 2026)]]
 **Last updated**: 2026-08-27
 
 ---
 
 ## Definizione e Razionale
 
-L'applicazione dell'[Intelligenza Artificiale](concetti/large-language-models.md) nell'ambito della **supervisione clinica** e dell'intervisione tra pari rappresenta una delle frontiere più discusse della psicoterapia contemporanea. La supervisione costituisce storicamente lo spazio privilegiato per la riflessione metacognitiva, l'elaborazione dei vissuti relazionali, la gestione dell'alleanza terapeutica e la calibrazione del ragionamento clinico.
+L'applicazione dell'[[large-language-models|Intelligenza Artificiale]] nell'ambito della **supervisione clinica** e dell'intervisione tra pari rappresenta una delle frontiere più discusse della psicoterapia contemporanea. La supervisione costituisce storicamente lo spazio privilegiato per la riflessione metacognitiva, l'elaborazione dei vissuti relazionali, la gestione dell'alleanza terapeutica e la calibrazione del ragionamento clinico.
 
 L'introduzione di assistenti conversazionali intelligenti (LLM generalisti o agenti potenziati da RAG) apre opportunità di supporto preliminare, ma solleva interrogativi cruciali sulla tenuta del giudizio autonomo del clinico, sull'assenza di saggezza clinica incarnata e sul rischio di de-responsabilizzazione formativa.
 
@@ -87,16 +89,13 @@ graph TD
 
 ---
 
-## Related pages
-- [06-10_Lezione_RAG_LLM](06-10_Lezione_RAG_LLM.md)
-- [modello-centauro-clinico](concetti/concetti/concetti\modello-centauro-clinico.md)
-- [uso-problematico-chatbot-ai](uso-problematico-chatbot-ai.md)
-- [augmented-psychotherapy](augmented-psychotherapy.md)
-- [digital-therapeutic-alliance](digital-therapeutic-alliance.md)
-- [human-in-the-reasoning](human-in-the-reasoning.md)
-- [ai-research-ethics](ai-research-ethics.md)
-- [ai-assisted-psychotherapy](ai-assisted-psychotherapy.md)
-- [large-language-models](large-language-models.md)
-
-## Riferimenti Bibliografici
-- [Da integrare]
+## Relazioni
+- [[06-10-lezione-rag-llm]]
+- [[modello-centauro-clinico]]
+- [[uso-problematico-chatbot-ai]]
+- [[augmented-psychotherapy]]
+- [[digital-therapeutic-alliance]]
+- [[human-in-the-reasoning]]
+- [[ai-research-ethics]]
+- [[ai-assisted-psychotherapy]]
+- [[large-language-models]]

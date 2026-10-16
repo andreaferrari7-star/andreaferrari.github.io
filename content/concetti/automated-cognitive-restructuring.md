@@ -1,5 +1,6 @@
 ---
 tags: [cbt, cognitive-restructuring, cognitive-reappraisal, nlp, llm, healme, reframegpt, generative-ai]
+tipo_fonte: scientifica
 source_papers: ["2407.19422v1.pdf"]
 title: "Automated Cognitive Restructuring"
 ---
@@ -63,11 +64,23 @@ Xiao et al. (2024) hanno superato la logica del "suggerimento imposto dall'alto"
 ---
 
 ## Relazioni
-- [cognitive-distortion-detection](cognitive-distortion-detection.md): Identificazione del pattern da ristrutturare.
-- [ai-enhanced-cbt](concetti/concetti\ai-enhanced-cbt.md): Collocazione all'interno del processo terapeutico.
-- [cbt-dialogue-systems-and-tools](concetti/concetti\cbt-dialogue-systems-and-tools.md): Integrazione nei motori di dialogo clinico.
-- [human-in-the-reasoning](human-in-the-reasoning.md): Supervisione clinica sul processo di ristrutturazione.
-- [jiang-et-al-2024](../sintesi/jiang-et-al-2024.md): Studio di review di riferimento.
+- [[cognitive-distortion-detection]]: Identificazione del pattern da ristrutturare.
+- [[ai-enhanced-cbt]]: Collocazione all'interno del processo terapeutico.
+- [[cbt-dialogue-systems-and-tools]]: Integrazione nei motori di dialogo clinico.
+- [[human-in-the-reasoning]]: Supervisione clinica sul processo di ristrutturazione.
+- [[jiang-et-al-2024]]: Studio di review di riferimento.
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Clark, D. A. (2013). Cognitive restructuring. In *The Wiley handbook of cognitive behavioral therapy* (pp. 1–22). Wiley.
+- de Toledo Rodriguez, I., Salton, G., & Ross, R. (2021). Formulating automated responses to cognitive distortions for cbt interactions. In *Proceedings of the 4th International Conference on Natural Language and Speech Processing (ICNLSP 2021)* (pp. 108–116).
+- Furukawa, T. A., Iwata, S., Horikoshi, M., et al. (2023). Harnessing ai to optimize thought records and facilitate cognitive restructuring in smartphone cbt: An exploratory study. *Cognitive Therapy and Research*, *47*(6), 887–893.
+- Jeong, Y., Song, J. J., Yang, J., et al. (2024). Advancing tinnitus therapeutics: Gpt-2 driven clustering analysis of cognitive behavioral therapy sessions and google t5-based predictive modeling for thi score assessment. IEEE Access.
+- Jiang, M., Yu, Y. J., Zhao, Q., et al. (2024). Ai-enhanced cognitive behavioral therapy: Deep learning and large language models for extracting cognitive pathways from social media texts. *arXiv preprint* arXiv:240411449.
+- Li, J. Z., Herderich, A., & Goldenberg, A. (2024). Skill but not effort drive gpt overperformance over humans in cognitive reframing of negative scenarios. Preprint.
+- Lin, S., Wang, Y., Dong, J., et al. (2024). Detection and positive reconstruction of cognitive distortion sentences: Mandarin dataset and evaluation. *arXiv preprint* arXiv:240515334.
+- Maddela, M., Ung, M., Xu, J., et al. (2023). Training models to generate, recognize, and reframe unhelpful thoughts. In *Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)* (pp. 13641–13660).
+- Sharma, A., Rushton, K., Lin, I. E., Wadden, D., Lucas, K. G., Miner, A. S., Nguyen, T., & Althoff, T. (2023c). Cognitive reframing of negative thoughts through human-language model interaction. In *Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)* (pp. 9977–10000). Association for Computational Linguistics.
+- Sharma, A., Rushton, K., Lin, I. W., et al. (2023b). Facilitating self-guided mental health interventions through human-language model interaction: A case study of cognitive restructuring. *arXiv preprint* arXiv:2310.15461.
+- Wang, X., Sharma, D., & Kumar, D. (2024b). Cognitive reframing via large language models for enhanced linguistic attributes. In *The Second Tiny Papers Track at ICLR 2024*.
+- Xiao, M., Xie, Q., Kuang, Z., et al. (2024). Healme: Harnessing cognitive reframing in large language models for psychotherapy. *arXiv preprint* arXiv:240305574.
+- Zhan, H., Zheng, A., Lee, Y. K., et al. (2024). Large language models are capable of offering cognitive reappraisal, if guided. *arXiv preprint* arXiv:240401288.

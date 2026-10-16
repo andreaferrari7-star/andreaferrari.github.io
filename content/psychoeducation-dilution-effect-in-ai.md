@@ -1,5 +1,6 @@
 ---
 tags: [psychoeducation-dilution, cognitive-load-theory, conversational-agents, active-cbt-mechanisms, streamlined-design, digital-mental-health, interaction-design, hang-2026]
+tipo_fonte: scientifica
 source_papers: ["s41746-026-02886-x_reference.pdf"]
 ---
 
@@ -90,13 +91,18 @@ flowchart LR
 ---
 
 ## Pagine e Concetti Correlati
-- [The Effectiveness of CBT-Based NLP-Enabled AI Conversational Agents (Hang et al., 2026)](concetti/s41746-026-02886-x-reference.md)
-- [Vantaggio Multimodale negli Agenti Conversazionali per la Depressione](concetti/concetti/concetti\multimodal-advantage-in-depression-ai.md)
-- [Architettura Concettuale dell'AI-Guided CBT](concetti/concetti/concetti\conceptual-architecture-of-ai-guided-cbt.md)
-- [Deficit di Esposizione Comportamentale nell'IA per la Salute Mentale](concetti/exposure-therapy-deficit-in-mental-health-ai.md)
-- [Sistemi di Dialogo e Strumenti CBT](concetti/concetti/concetti\cbt-dialogue-systems-and-tools.md)
-- [Finestra di Opportunità Subclinica nell'IA](concetti/subclinical-depression-window-of-opportunity.md)
-- [Alleanza Terapeutica Digitale](concetti/digital-therapeutic-alliance.md)
+- [[s41746-026-02886-x-reference|The Effectiveness of CBT-Based NLP-Enabled AI Conversational Agents (Hang et al., 2026)]]
+- [[multimodal-advantage-in-depression-ai|Vantaggio Multimodale negli Agenti Conversazionali per la Depressione]]
+- [[conceptual-architecture-of-ai-guided-cbt|Architettura Concettuale dell'AI-Guided CBT]]
+- [[exposure-therapy-deficit-in-mental-health-ai|Deficit di Esposizione Comportamentale nell'IA per la Salute Mentale]]
+- [[cbt-dialogue-systems-and-tools|Sistemi di Dialogo e Strumenti CBT]]
+- [[subclinical-depression-window-of-opportunity|Finestra di Opportunità Subclinica nell'IA]]
+- [[digital-therapeutic-alliance|Alleanza Terapeutica Digitale]]
 
 ## Riferimenti Bibliografici
-- [Da integrare]
+- Baxter, K. A., Sachdeva, N., & Baker, S. (2025). The Application of Cognitive Load Theory to the Design of Health and Behavior Change Programs: Principles and Recommendations. *Health Educ Behav*, *52*, 469-477.
+- Hang, Y., Wu, W., Feng, Y., Yan, K., Liu, Y., Xiao, X., & Qiao, Z. (2026). The effectiveness of CBT-based NLP-enabled AI conversational agents for mental health intervention: A systematic review and meta-analysis. *npj Digital Medicine*. Advance online publication. https://doi.org/10.1038/s41746-026-02886-x
+- O'Toole, M. S., et al. (2025). Compatibility of components in cognitive behavioral therapies: A call for combinatory congruency. *Cognitive and Behavioral Practice*, *32*, 194–205.
+
+## Relazioni
+- Vedi anche: [[s41746-026-02886-x-reference]], [[multimodal-advantage-in-depression-ai]], [[mappa-contraddizioni-epistemiche]], [[conceptual-architecture-of-ai-guided-cbt]], [[exposure-therapy-deficit-in-mental-health-ai]], [[cbt-dialogue-systems-and-tools]], [[subclinical-depression-window-of-opportunity]], [[digital-therapeutic-alliance]]
