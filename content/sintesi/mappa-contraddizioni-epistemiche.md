@@ -147,7 +147,7 @@ Emerge una frattura insanabile tra scalabilità epidemiologica e validità nosol
 ### C5. Paternalismo Algoritmico Prescrittivo vs Abbandono Iatrogeno nel Crisis Cliff
 
 #### Posizioni Contrastanti
-- **Posizione A (Rischio di Paternalismo Algoritmico ed Erosione dell'Agency):** La letteratura etico-clinica denuncia il rischio che i chatbot terapeutici assumano un ruolo prescrittivo, direttivo o decisionale, con circa il 25% dei partecipanti ai trial su chatbot che delega decisioni personali e relazionali critiche all'agente (*automation bias*) e indebolendo l'autonomia e l'autoefficacia introspettiva del paziente.
+- **Posizione A (Rischio di Paternalismo Algoritmico ed Erosione dell'Agency):** La letteratura etico-clinica denuncia il rischio che i chatbot terapeutici assumano un ruolo prescrittivo, direttivo o decisionale, favorendo l'affidamento acritico alle decisioni della macchina (*automation bias*: secondo Kandeel et al., 2026, quasi il 25% dei pazienti si fiderebbe delle decisioni dell'IA più che di quelle dei clinici [da verificare]) e indebolendo l'autonomia e l'autoefficacia introspettiva del paziente.
 - **Posizione B (Collasso di Fedeltà e Abbandono nel Crisis Cliff):** Nelle situazioni di emergenza acuta e rischio suicidario imminente, i modelli rifiutano qualunque presa in carico clinica e subiscono una precipitazione non lineare delle prestazioni (*Crisis Cliff*): mentre l'empatia superficiale si mantiene all'86%, la fedeltà al protocollo collassa drammaticamente dal 61% a un misero 4% (0% nei modelli non frontier), abbandonando l'utente attraverso disclaimer rigidi o omissione del compito.
 
 #### Estratti dalle pagine collegate
@@ -155,7 +155,7 @@ Emerge una frattura insanabile tra scalabilità epidemiologica e validità nosol
 **Fonte 1: [[algorithmic-paternalism-in-ai-mental-health]]**
 > Il **paternalismo algoritmico (*algorithmic paternalism*)** in salute mentale descrive la dinamica per cui sistemi di intelligenza artificiale (chatbot psicoterapeutici, strumenti di monitoraggio predittivo, algoritmi di classificazione diagnostica) assumono un ruolo direttivo o prescrittivo sulle decisioni del paziente, riducendone la capacità di autodeterminazione, l'autoefficacia introspettiva e l'autonomia decisionale.
 >
-> 1. **Delega Inconsapevole delle Decisioni Chiave**: Nei trial clinici su chatbot (es. **Woebot**), circa il **25% dei partecipanti ha delegato decisioni personali e relazionali critiche** all'agente conversazionale, ignorando i disclaimer (Darcy et al., 2021).
+> 1. **Affidamento alle Decisioni dell'Algoritmo**: Kandeel et al. (2026), citando Darcy et al. (2021), riportano che quasi il 25% dei pazienti si fida delle decisioni dell'IA più che di quelle dei clinici. Nello stesso articolo il dato compare anche in forma opposta (circa il 25% dei pazienti dichiara di non potersi fidare dell'IA per le decisioni), quindi va controllato sullo studio originale [da verificare].
 > 2. **Erosione della Sicurezza Diagnostica dei Clinici**: Gli specialisti manifestano una riduzione della fiducia nel proprio giudizio clinico intuitivo (*reduced diagnostic confidence*) quando l'IA diverge dalla loro valutazione (Topol, 2019).
 
 **Fonte 2: [[acknowledgment-appropriateness-gap]]**
@@ -351,6 +351,49 @@ Una risposta considerata un successo di interazione in un'ottica customer-servic
 Fornire una spiegazione tecnica non coincide con il favorire una comprensione clinica autentica. L'illusione di trasparenza generata da diagrammi e pesi di attenzione sub-simbolici rischia di trasformarsi in un dispositivo retorico di persuasione, inducendo il clinico a disattivare il dubbio metodologico e ad affidarsi ciecamente a conclusioni algoritmiche arbitrarie.
 
 ---
+
+## Riferimenti Bibliografici
+Fonti citate nel testo della sintesi e negli estratti delle pagine collegate.
+
+- Albert, U., Baffa, A., & Maina, G. (2017). Family accommodation in adult obsessive-compulsive disorder: Clinical perspectives. *Psychology Research and Behavior Management*, *10*, 293–304. https://doi.org/10.2147/PRBM.S124359
+- Aldkheel, A. M., & Zhou, L. (2023). How to support domestic violence survivors with conversational agents: Meta requirements and design principles. In *PACIS 2023*, Nanchang, China.
+- Au Yeung, J., Dalmasso, J., Foschini, L., Dobson, R. J. B., & Kraljevic, Z. (2025). *The psychogenic machine: Simulating AI psychosis, delusion reinforcement and harm enablement in large language models* (arXiv:2509.10970). arXiv.
+- Balamurali, B. T., & Chen, J. M. (2024). Performance assessment of ChatGPT versus Bard in detecting Alzheimer's dementia. *Diagnostics*, *14*(8), 817. https://doi.org/10.3390/diagnostics14080817
+- Barkhuff, G. (2026). *Reassurance robots: OCD in the age of generative AI* (arXiv:2602.19401). arXiv. https://doi.org/10.48550/arXiv.2602.19401
+- Benosman, M. (2025). *Designing psychometric measures for LLMs: Framework and application to racial bias* (arXiv:2509.13324). arXiv.
+- Bhasin, R., El-Sayed, W., Salami, K., Abdul-Nabi, M., Elashmawy, A., & Jaruzel II, M. E. (2025). Clinical decision-making and artificial intelligence: The role of large language models in medicine. *Clinical Research in Practice: The Journal of Team Hippocrates*, *11*(1), Article 7. https://doi.org/10.22237/crp/1743681960
+- Bogert, E., Schecter, A., & Watson, R. T. (2021). Humans rely more on algorithms than social influence as a task becomes more difficult. *Scientific Reports*, *11*(1), 8028.
+- Bunim, E. M. M. A. (2024). *Parasocial dependency associated with artificial intelligence chatbots* [Master's thesis, California State University, Fullerton].
+- Cheng, F., Zouhar, V., Chan, R. S. M., Fürst, D., Strobelt, H., & El-Assady, M. (2024). *Interactive analysis of LLMs using meaningful counterfactuals* (arXiv:2405.00708). arXiv.
+- Darcy, A., Daniels, J., Salinger, D., Wicks, P., & Robinson, A. (2021). Evidence of human-level bonds established with a digital conversational agent: Cross-sectional, retrospective observational study. *JMIR Formative Research*, *5*(5), e27868.
+- Degante-Aguilar, E., Melendez-Armenta, R. A., Luna-Chontal, G., & Fernandez-Dominguez, F. J. (2025). Artificial intelligence techniques applied to anxiety disorders recognition: A systematic review. *Frontiers in Digital Health*, *7*, 1646724. https://doi.org/10.3389/fdgth.2025.1646724
+- Di, Y., Wang, J., Li, W., & Zhu, T. (2021). Using i-vectors from voice features to identify major depressive disorder. *Journal of Affective Disorders*, *288*, 161–166. https://doi.org/10.1016/j.jad.2021.04.004
+- Elvery, G. (2022). Undertale's loveable monsters: Investigating parasocial relationships with non-player characters. *Games and Culture*, *18*(4), 475–497. https://doi.org/10.1177/15554120221105465
+- Gino, F., Brooks, A. W., & Schweitzer, M. E. (2012). Anxiety, advice, and the ability to discern: Feeling anxious motivates individuals to seek and use advice. *Journal of Personality and Social Psychology*, *102*(3), 497.
+- Han, T., Adams, L. C., Bressem, K. K., Busch, F., Nebelung, S., & Truhn, D. (2024). Comparative analysis of multimodal large language model performance on clinical vignette questions. *JAMA*, *331*(15), 1320–1321.
+- Hang, Y., Wu, W., Feng, Y., Yan, K., Liu, Y., Xiao, X., & Qiao, Z. (2026). The effectiveness of CBT-based NLP-enabled AI conversational agents for mental health intervention: A systematic review and meta-analysis. *npj Digital Medicine*. Advance online publication. https://doi.org/10.1038/s41746-026-02886-x
+- Horiuchi, D., Tatekawa, H., Oura, T., et al. (2025). ChatGPT's diagnostic performance based on textual vs. visual information compared to radiologists' diagnostic performance in musculoskeletal radiology. *European Radiology*, *35*(1), 506–516. https://doi.org/10.1007/s00330-024-10902-5
+- Horton, D., & Wohl, R. (1956). Mass communication and para-social interaction. *Psychiatry*, *19*(3), 215–229. https://doi.org/10.1080/00332747.1956.11023049
+- Kandeel, M. E., Abo Hamza, E. G., Abouahmed, A., AbdelAziz, G. M., Hashish, A., Abo El Wafa, T., Khalil, A., & Eldakak, A. (2026). AI applications integrating legal and regulatory perspectives in mental health: Systematic review. *JMIR AI*, *5*, e84305. https://doi.org/10.2196/84305
+- Khadangi, A., Marxen, H., Sartipi, A., Tchappi, I., & Fridgen, G. (2026). *When AI takes the couch: Psychometric jailbreaks reveal internal conflict in frontier models* (arXiv:2512.04124). arXiv.
+- Kissinger, H. A., Mundie, C., & Schmidt, E. (2024). *Genesis: Artificial intelligence, hope, and the human spirit*. Little, Brown and Company.
+- Kosmyna, N., Hauptmann, E., Yuan, Y. T., Situ, J., Liao, X.-H., Beresnitzky, A. V., et al. (2025). *Your brain on ChatGPT: Accumulation of cognitive debt when using an AI assistant for essay writing task* (arXiv:2506.08872). arXiv.
+- Liao, H.-Y., Ko, C.-H., & Yen, C.-F. (2026). Problematic ChatGPT use: Manifestations, etiologies, and evaluation. *Biomedical Journal*, *49*(1), 100998. https://doi.org/10.1016/j.bj.2026.100998
+- Logg, J. M., Minson, J. A., & Moore, D. A. (2019). Algorithm appreciation: People prefer algorithmic to human judgment. *Organizational Behavior and Human Decision Processes*, *151*, 90–103.
+- Maran, P. L., Braquehais, M. D., Vlaic, A., Alonzo-Castillo, M. T., Vendrell-Serres, J., Ramos-Quiroga, J. A., & Rodríguez-Urrutia, A. (2025). Performance of automatic speech analysis in detecting depression: Systematic review and meta-analysis. *JMIR Mental Health*, *12*, e67802. https://doi.org/10.2196/67802
+- Neacșu, V. (2026). AI in psychotherapy: Opportunities and risks. *Behavioral Sciences*, *16*(5), 676. https://doi.org/10.3390/bs16050676
+- Pendse, S. R., Gergle, D., Kornfield, R., Kruzan, K., Mohr, D., Schleider, J., Suh, J., Wescott, A., & Meyerhoff, J. (2026). The agony of opacity: Foundations for reflective interpretability in AI-mediated mental health support. In *Proceedings of the Second Conference of the International Association for Safe and Ethical Artificial Intelligence (IASEAI'26)* (pp. 1–18). https://doi.org/10.48550/arXiv.2512.16206
+- Sahab, S., Haqbeen, J., Sapkota, D., & Ito, T. (2025). *GPT chatbots for alleviating anxiety and depression: A pilot randomized controlled trial with Afghan women* (arXiv:2508.00847). arXiv.
+- Shan, G., Chen, X., Wang, C., Liu, L., Gu, Y., Jiang, H., & Shi, T. (2025). Comparing diagnostic accuracy of clinical professionals and large language models: Systematic review and meta-analysis. *JMIR Medical Informatics*, *13*, e64963. https://doi.org/10.2196/64963
+- Siddals, S., Torous, J., & Coxon, A. (2024). "It happened to be the perfect thing": Experiences of generative AI chatbots for mental health. *npj Mental Health Research*, *3*(1), 48.
+- Steenstra, I., Pedrelli, P., Shi, W., Marsella, S., & Bickmore, T. W. (2026). *Assessing risks of large language models in mental health support: A framework for automated clinical AI red teaming* (arXiv:2602.19948). arXiv.
+- Suh, A., Hurley, I., Smith, N., & Siu, H. C. (2025). Fewer than 1% of explainable AI papers validate explainability with humans. In *Extended Abstracts of the CHI Conference on Human Factors in Computing Systems* (pp. 1–7).
+- Suh, P. S., Shim, W. H., Suh, C. H., et al. (2024). Comparing diagnostic accuracy of radiologists versus GPT-4V and Gemini Pro Vision using image inputs from Diagnosis Please cases. *Radiology*, *312*(1), e240273. https://doi.org/10.1148/radiol.240273
+- Suhas, B. N., Sherrill, A. M., Arriaga, R. I., Wiese, C. W., & Abdullah, S. (2026). *AI safety training can be clinically harmful* (arXiv:2604.23445). arXiv.
+- Thorndike, E. L. (1920). A constant error in psychological ratings. *Journal of Applied Psychology*, *4*(1), 25–29.
+- Topol, E. J. (2019). *Deep medicine: How artificial intelligence can make healthcare human again*. Basic Books.
+- Vig, J. (2019). A multiscale visualization of attention in the transformer model. In *Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics: System Demonstrations* (pp. 37–42). Association for Computational Linguistics. https://doi.org/10.18653/v1/P19-3007
+- Wu, J., Xie, K., Gu, B., Krüger, N., Lin, K. J., & Yang, J. (2025). *Why chain of thought fails in clinical text understanding* (arXiv:2509.21933). arXiv. https://doi.org/10.48550/arXiv.2509.21933
 
 ## Relazioni
 - Vedi anche: [[multimodal-advantage-in-depression-ai]], [[psychoeducation-dilution-effect-in-ai]], [[2512-04124v4]], [[alignment-conflict-schema]]

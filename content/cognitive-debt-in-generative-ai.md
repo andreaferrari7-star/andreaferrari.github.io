@@ -59,7 +59,7 @@ La mente umana è un "avaro cognitivo" (*cognitive miser*; Stanovich, 2009; Deng
 * **Atrofia Funzionale del Sistema 2:** Il sistema deliberativo, deputato al ragionamento logico-matematico, alla decostruzione di premesse fallaci e al controllo comportamentale, viene disattivato. Negli utilizzatori abituali di ChatGPT si registra un calo statisticamente significativo nei punteggi del **Cognitive Reflection Test (CRT)** e un aumento dei fallimenti cognitivi quotidiani (misurati con il *Cognitive Failures Questionnaire* - CFQ-7; Goh et al., 2025).
 
 **Riferimenti Bibliografici:**
-- Kosmyna, N., et al. (2025). *Cognitive Offloading and EEG Network Connectivity in LLM Interaction*.
+- Kosmyna, N., Hauptmann, E., Yuan, Y. T., Situ, J., Liao, X.-H., Beresnitzky, A. V., et al. (2025). *Your brain on ChatGPT: Accumulation of cognitive debt when using an AI assistant for essay writing task* (arXiv:2506.08872). arXiv.
 - Liao, J., Ko, S., & Yen, H. (2026). *Sistematizzazione del Debito Cognitivo nell'Era Generativa*.
 - Stanovich, K. E. (2009). *Decision making and rationality in the modern world*.
 - Deng, Y., & Deng, X. (2025). *Cognitive Miserliness and Human-AI Interaction*.

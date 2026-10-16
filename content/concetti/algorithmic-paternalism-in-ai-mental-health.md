@@ -31,7 +31,7 @@ graph LR
 
 Nella revisione sistematica di Kandeel et al. (2026) e nella letteratura empirica correlata emergono pattern comportamentali critici:
 
-1. **Delega Inconsapevole delle Decisioni Chiave**: Nei trial clinici su chatbot (es. **Woebot**), circa il **25% dei partecipanti ha delegato decisioni personali e relazionali critiche** all'agente conversazionale, ignorando i disclaimer (Darcy et al., 2021).
+1. **Affidamento alle Decisioni dell'Algoritmo**: Kandeel et al. (2026), citando Darcy et al. (2021), riportano che quasi il 25% dei pazienti si fida delle decisioni dell'IA più che di quelle dei clinici. Nello stesso articolo il dato compare anche in forma opposta (circa il 25% dei pazienti dichiara di non potersi fidare dell'IA per le decisioni), quindi va controllato sullo studio originale [da verificare].
 2. **Erosione della Sicurezza Diagnostica dei Clinici**: Gli specialisti manifestano una riduzione della fiducia nel proprio giudizio clinico intuitivo (*reduced diagnostic confidence*) quando l'IA diverge dalla loro valutazione (Topol, 2019).
 3. **Paternalismo Predittivo dai Wearable**: Notifiche biometriche predittive possono indurre profezie che si auto-avverano, portando il paziente a conformare i propri stati soggettivi all'indicatore della macchina.
 

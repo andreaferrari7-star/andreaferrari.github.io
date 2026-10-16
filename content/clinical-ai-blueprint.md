@@ -35,7 +35,7 @@ Il **Clinical AI Blueprint** è un quadro sistematico e programmatico per la tra
 - Wei, K., Abdullah, H. M., & Huang, R. (2025). Mitigating gender bias via fostering exploratory thinking in LLMs. In *Findings of the Association for Computational Linguistics: EMNLP 2025* (pp. 6895–6917). Association for Computational Linguistics. https://doi.org/10.18653/v1/2025.findings-emnlp.364
 - Gallifant, J., Afshar, M., Ameen, S., Aphinyanaphongs, Y., Chen, S., Cacciamani, G., Demner-Fushman, D., Dligach, D., Daneshjou, R., Fernandes, C., Hansen, L. H., Landman, A., Lehmann, L., McCoy, L. G., Miller, T., Moreno, A., Munch, N., Restrepo, D., Savova, G., Umeton, R., Gichoya, J. W., Collins, G. S., Moons, K. G. M., Celi, L. A., & Bitterman, D. S. (2025). The TRIPOD-LLM reporting guideline for studies using large language models. *Nature Medicine*, 31(1), 60–69. https://doi.org/10.1038/s41591-024-03425-5
 - Huo, C., et al. (2025). CHART Reporting Guideline: Chatbot Assessment Reporting Tool for Healthcare Advice Studies. *JAMA Network Open / EQUATOR Network*.
-- Wu, K., et al. (2025). The Avalanche Effect: How Chain-of-Thought Reasoning Degrades Performance on Unstructured Real-World Clinical Records. *Nature Digital Medicine*.
+- Wu, J., Xie, K., Gu, B., Krüger, N., Lin, K. J., & Yang, J. (2025). *Why chain of thought fails in clinical text understanding* (arXiv:2509.21933). arXiv. https://doi.org/10.48550/arXiv.2509.21933
 
 ## Relazioni
 - **Concetti Chiave**: [[coast-framework-clinical-prompting]], [[patient-psi-simulazione-clinica]], [[mind-safe-framework]], [[chart-reporting-guideline]].
