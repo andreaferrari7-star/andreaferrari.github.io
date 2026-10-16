@@ -102,8 +102,7 @@ Accecamento dei valutatori (blinded review), calcolo della concordanza (*Inter-R
 
 ---
 
-**Riferimenti Bibliografici:**
-
+## Riferimenti Bibliografici
 *   Huo, B., Collins, G. S., Chartash, D., Thirunavukarasu, A. J., Flanagin, A., Iorio, A., Cacciamani, G., ..., & Guyatt, G. H. (2025). Reporting guideline for chatbot health advice studies: The CHART Statement. *JAMA Network Open*, 8(8), e2530220. https://doi.org/10.1001/jamanetworkopen.2025.30220
 *   Huo, B., Boyle, A., Marfo, N., et al. (2025). Large language models for chatbot health advice studies: a systematic review. *JAMA Network Open*, 8(2), e2457879. https://doi.org/10.1001/jamanetworkopen.2024.57879
 *   Huo, B., McKechnie, T., Ortenzi, M., et al. (2024). Dr. GPT will see you now: the ability of large language model-linked chatbots to provide colorectal cancer screening recommendations. *Health and Technology*, 14(3), 463–469.

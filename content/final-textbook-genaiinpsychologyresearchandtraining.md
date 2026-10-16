@@ -64,8 +64,7 @@ L'uso degli LLM si estende al perfezionamento del disegno sperimentale, alla rev
 ### Governance Etica
 L'integrazione segue i principi WAME (Zielinski et al., 2023) e le linee guida Harvard HUIT (2025), ponendo l'accento sulla responsabilità umana, la privacy dei dati e la trasparenza (disclosure dei prompt).
 
-**Riferimenti Bibliografici:**
-
+## Riferimenti Bibliografici
 - **Adamkovič, M. (2025).** *Large Language Models in (Not Only) Psychology Training and Research: A Brief Introduction*. Centre of Social and Psychological Sciences, Slovak Academy of Sciences. https://doi.org/10.31577/2025.9788082980144
 - **Baek, J., Jauhar, S. K., Cucerzan, S., & Hwang, S. J. (2024).** ResearchAgent: Iterative research idea generation over scientific literature with large language models. *arXiv preprint*, arXiv:2404.07738.
 - **Bharathi Mohan, G., Prasanna Kumar, R., Vishal Krishh, P., et al. (2024).** An analysis of large language models: their impact and potential applications. *Knowledge and Information Systems*, 66(9), 5047–5070.

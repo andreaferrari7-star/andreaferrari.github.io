@@ -94,4 +94,4 @@ Herbener & Damholdt (2025) evidenziano quattro domande chiave per la progettazio
 - Herbener, A. B., & Damholdt, M. F. (2025). A Theoretical Framework of the Processes of Change in Psychotherapy Delivered by Artificial Agents. *arXiv preprint arXiv:2509.02144v1 [cs.HC]*, 1–16. https://doi.org/10.48550/arXiv.2509.02144
 - Kazdin, A. (2018). Expanding mental health services through novel models of intervention delivery. *Journal of Child Psychology and Psychiatry*, *60*.
 - Koelen, J. A., Vonk, A., Klein, A., de Koning, L., Vonk, P., de Vet, S., & Wiers, R. (2022). Man vs. machine: A meta-analysis on the added value of human support in text-based internet treatments (“e-therapy”) for mental disorders. *Clinical Psychology Review*, *96*, 102179.
-- Wentzel, J., et al. (2016). Blended eHealth for depression: a systematic review and meta-analysis. *JMIR Mental Health*, 3(3), e34.
+- Wentzel, J., van der Vaart, R., Bohlmeijer, E. T., & van Gemert-Pijnen, J. E. W. C. (2016). Mixing online and face-to-face therapy: How to benefit from blended care in mental health care. *JMIR Mental Health*, *3*(1), e9.

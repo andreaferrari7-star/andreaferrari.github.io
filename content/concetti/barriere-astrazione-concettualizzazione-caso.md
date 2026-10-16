@@ -1,7 +1,7 @@
 ---
 tags: [case-conceptualization, libet-model, abstraction-barriers, interpretive-hallucinations, cbt, epistemic-markers, machine-limitations]
 tipo_fonte: [scientifica, interna]
-source_papers: ["AI Generativa in Psicoterapia.docx", "Buattini et al. (2026)"]
+source_papers: ["AI Generativa in Psicoterapia.docx"]
 ---
 
 # Barriere di Astrazione e Allucinazioni Interpretative nella Concettualizzazione del Caso Clinico

@@ -14,7 +14,7 @@ source_papers: ["2507.04491v2.pdf"]
 - Punteggi psicometrici elevati (es. test di personalità o teoria della mente) degenerano o si invertono con minime alterazioni di prompt (Lin, 2026).
 - L'assenza di stabilità test-retest e di invarianza strutturale dimostra che molti comportamenti apparentemente intelligenti sono meri artefatti statistici (Lin, 2026).
 
-**Riferimenti Bibliografici:**
+## Riferimenti Bibliografici
 - Lin, Z. (2026). A validity-guided workflow for robust large language model research in psychology. *Behavior Research Methods*, 58, Article 216. https://doi.org/10.3758/s13428-026-03073-2
 
 ## Relazioni

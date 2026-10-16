@@ -1,7 +1,7 @@
 ---
 tags: [automation-bias, clinical-reasoning, cognitive-offloading, dual-process-theory, deskilling, trial-rct, medical-ai]
 tipo_fonte: [scientifica, interna]
-source_papers: ["AI Generativa in Psicoterapia.docx", "Qazi et al. (2025)"]
+source_papers: ["AI Generativa in Psicoterapia.docx"]
 ---
 
 # Automation Bias nel Ragionamento Clinico e Paradosso dell'Esperienza

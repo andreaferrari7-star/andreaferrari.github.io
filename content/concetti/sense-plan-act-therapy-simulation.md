@@ -46,7 +46,7 @@ flowchart TD
 - **Accordo e Fedeltà di Transizione:** Nello studio empirico su 42 sessioni, l'architettura ha dimostrato un accordo sostanziale tra le transizioni determinate dal controller automatico e la codifica di psicoterapeuti umani esperti ($\kappa = 0.77$, accuratezza 82.93%, F1 pesato 0.84), garantendo una progressione fluida e clinicamente verosimile (Wang, Chen et al., 2026).
 - **Aderenza Comportamentale (*Stage Fidelity*):** L'attivazione di istruzioni specifiche per ciascuno stadio ha prodotto un tasso di aderenza al comportamento clinico atteso dell'83.8% nel sistema sperimentale rispetto al 63.8% della baseline priva di controller ($\chi^2 = 43.75, p < 0.001$) (Wang, Chen et al., 2026).
 
-**Riferimenti Bibliografici:**
+## Riferimenti Bibliografici
 - Wang, C., Chen, A., Bao, C., Jin, S., Swartz, H., Wu, T., Kraut, R. E., & Zhu, H. (2026). Simulating Couple Conflict: Designing A Multi-Agent System for Therapy Training and Practice. *arXiv preprint arXiv:2601.10970v2*. https://arxiv.org/abs/2601.10970
 - Li, Z., Peng, J., Wang, Y., et al. (2025). ChatSOP: An SOP-Guided MCTS Planning Framework for Controllable LLM Dialogue Agents. *Proceedings of ACL 2025*, 17637–17659.
 - Young, S., Gasic, M., Thomson, B., & Williams, J. D. (2013). POMDP-based Statistical Spoken Dialogue Systems: A Review. *Proceedings of the IEEE*, 101(5), 1160–1179.

@@ -38,8 +38,8 @@ I pattern linguistici di Alice e Luke presentano una distribuzione statistica so
 2. **Amplificazione Caricaturale:** Tendenza a sovra-rappresentare i sintomi, risultando a volte stereotipati.
 3. **Rigidità Tematica:** Difficoltà nel deviare spontaneamente su argomenti contingenti non previsti dal prompt iniziale.
 
-**Riferimenti Bibliografici:**
-- Cabrera Lozoya et al. (2025). Framework Client101 per la Simulazione di Pazienti Virtuali.
+## Riferimenti Bibliografici
+- Cabrera Lozoya, D., Conway, M., De Duro, E. S., et al. (2025). Leveraging large language models for simulated psychotherapy client interactions: Development and usability study of Client 101. *JMIR Medical Education*, *11*(1), e68056. https://doi.org/10.2196/68056
 
 ## Relazioni
 

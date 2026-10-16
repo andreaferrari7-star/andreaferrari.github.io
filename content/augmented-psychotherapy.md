@@ -1,8 +1,10 @@
 ---
 tags: [psicoterapia, AI, tecnologia, clinical-practice]
 tipo_fonte: scientifica
-source_papers: ["04-17_Convegno_Integrazione_Etica_IA"]
+source_papers: ["04-17 Convegno_ Integrazione etica dell’IA nella psicoterapia (scrittura clinica, supervisione, monitoraggio, formazione).txt"]
 ---
+
+# Augmented Psychotherapy
 
 ## Definizione Operativa
 - Modello clinico che integra l'intelligenza artificiale come supporto analitico, diagnostico ed ecologico, preservando la centralità decisionale e relazionale del clinico tramite il principio Human-in-the-Loop.
@@ -16,5 +18,5 @@ source_papers: ["04-17_Convegno_Integrazione_Etica_IA"]
 - 04-17 Convegno. (2026). *Integrazione etica dell'IA nella psicoterapia (scrittura clinica, supervisione, monitoraggio, formazione)*.
 
 ## Relazioni
-- Vedi anche: [[04-17-convegno-integrazione-etica-ia]], [[digital-therapeutic-alliance]], [[ai-research-ethics]], [[hybrid-ai-research-workflows]], [[prompting-in-psychology]], [[large-language-models]]
+- Vedi anche: [[04-17-convegno-integrazione-etica-ia]], [[digital-therapeutic-alliance]], [[ai-research-ethics]], [[hybrid-ai-research-workflows]], [[prompting-in-psychology]], [[large-language-models]], [[fpsyg-15-1378904]]
 

@@ -3,7 +3,7 @@ title: Libet Prime
 created: 2026-08-27
 last_updated: 2026-08-27
 tags: [ai, libet, cbt, didattica, supervisione]
-tipo_fonte: scientifica
+tipo_fonte: interna
 ---
 
 # Libet Prime
@@ -41,10 +41,6 @@ L'agente utilizza un routing dinamico tra 5 modalità funzionali per gestire eff
 4. Razionale e Ipotesi di Intervento
 5. Interrogazione e Stimolo Riflessivo
 
-**Riferimenti Bibliografici:**
-- 07-10 Riunione_ Test e Valutazione di “Libet Prime” (Tutor AI per Libet_CBT), Trainer Simulator e Piano Operativo.
-- 05-08 Riunione_ Sviluppo Knowledge Base AI, Etica e Applicazioni Cliniche.
-
 ## Relazioni
 
 - [[07-10-riunione-test-libet-prime]]
@@ -54,3 +50,4 @@ L'agente utilizza un routing dinamico tra 5 modalità funzionali per gestire eff
 - [[human-in-the-reasoning]]
 - [[simulazione-pazienti-ai]]
 - [[05-08-riunione-knowledge-base]]
+- [[discussione-panel-ia-libet-2026]]

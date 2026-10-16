@@ -85,8 +85,7 @@ flowchart LR
 - **Primato della ToM di Prima Persona:** La consapevolezza introspettiva e il riconoscimento in prima persona dei propri stati interni (*first-order first-person ToM*) costituiscono la condizione necessaria affinché il paziente possa sviluppare o mantenere capacità di mentalizzazione più complesse.
 - **Deficit Elettivi nella Schizofrenia:** I deficit più severi si riscontrano nella *Second-Order ToM* e nella *Third-Person Allocentric ToM*. Tuttavia, tentare di riabilitare direttamente queste ultime senza aver prima consolidato la ToM di prima persona risulta clinicamente inefficace, poiché la struttura probabilistica della rete mostra che la probabilità di successo sui compiti di terzo ordine è condizionata all'integrità del primo ordine.
 
-**Riferimenti Bibliografici:**
-
+## Riferimenti Bibliografici
 - Mok, C. H. Y., Cheng, C. P. W., & Chu, M. H. W. (2025). Application of artificial intelligence and psychosocial functioning in psychosis: a systematic review and meta-analysis. *Frontiers in Psychiatry*, 16, 1692177. https://doi.org/10.3389/fpsyt.2025.1692177
 - Miley, K., Meyer-Kalos, P., Ma, S., Bond, D. J., Kummerfeld, E., & Vinogradov, S. (2023). Causal pathways to social and occupational functioning in the first episode of schizophrenia: uncovering unmet treatment needs. *Psychological Medicine*, 53(5), 2041–2049. https://doi.org/10.1017/S0033291721003780
 - Bosco, F. M., Colle, L., Salvini, R., & Gabbatore, I. (2024). A machine-learning approach to investigating the complexity of theory of mind in individuals with schizophrenia. *Heliyon*, 10(6), e30693. https://doi.org/10.1016/j.heliyon.2024.e30693

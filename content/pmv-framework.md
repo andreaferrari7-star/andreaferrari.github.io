@@ -2,7 +2,7 @@
 tags: [framework, psicologia-digitale, IA, VR, HTLab]
 created: 2026-08-31
 updated: 2026-08-31
-tipo_fonte: scientifica
+tipo_fonte: evento
 ---
 
 # PMV Framework (Personalization, Multimodality, Virtual Entity)
@@ -20,10 +20,6 @@ Il framework si inserisce nei modelli di cura *stepped-care* per colmare il *tre
 ## Evidenze dalla Letteratura
 
 Il framework è discusso nel contesto della ricerca sull'integrazione dell'intelligenza artificiale in psicoterapia, focalizzandosi su governance, co-ragionamento e modelli ibridi. Le evidenze sottolineano l'importanza di passare da interazioni puramente testuali a esperienze multimodali e incarnate per garantire un impatto clinico significativo e una reale trasformazione esperienziale.
-
-**Riferimenti Bibliografici:**
-
-* HTLab (Università Cattolica/Marconi). Tavola rotonda: Integrazione dell’IA in psicoterapia — governance, co-ragionamento e modelli ibridi.
 
 ## Relazioni
 

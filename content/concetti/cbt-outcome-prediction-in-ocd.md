@@ -11,9 +11,7 @@ tags:
   - precision-psychiatry
   - van-de-mortel-2025
 tipo_fonte: scientifica
-source_papers:
-  - 1-s2.0-S0165032725011711-main.pdf
-title: "Predizione dell'Esito della CBT nel Disturbo Ossessivo-Compulsivo (CBT Outcome Prediction in OCD)"
+source_papers: ["1-s2.0-S0165032725011711-main.pdf"]
 ---
 
 # Predizione dell'Esito della CBT nel Disturbo Ossessivo-Compulsivo (CBT Outcome Prediction in OCD)

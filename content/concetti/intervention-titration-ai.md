@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [cbt, large-language-models, mental-health-chatbots, prompt-engineering]
 tipo_fonte: scientifica
 source_papers: ["2512.16206v2.pdf"]
 ---

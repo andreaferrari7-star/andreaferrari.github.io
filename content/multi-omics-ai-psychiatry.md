@@ -92,7 +92,7 @@ L'applicazione di algoritmi supervisionati su trascrittoma ed epigenoma ematico 
 
 ---
 
-**Riferimenti Bibliografici:**
+## Riferimenti Bibliografici
 - Wang, Q., & Dwivedi, Y. (2025). Recent developments in omics studies and artificial intelligence in depression and suicide. *Translational Psychiatry*, 15(1), 275. https://doi.org/10.1038/s41398-025-03497-y
 - Bhak, Y., Jeong, H. O., Cho, Y. S., Jeon, S., Cho, J., Gim, J. A., et al. (2019). Depression and suicide risk prediction models using blood-derived multi-omics data. *Translational Psychiatry*, 9(1), 262.
 - Gusev, A., Mancuso, N., Won, H., Kousi, M., Finucane, H. K., Reshef, Y., et al. (2018). Transcriptome-wide association study of schizophrenia and chromatin activity yields mechanistic disease insights. *Nature Genetics*, 50(4), 538–548.

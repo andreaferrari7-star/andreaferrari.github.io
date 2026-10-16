@@ -79,8 +79,7 @@ flowchart LR
 
 - **Il [[modello-centauro-clinico|Modello Centauro]]:** Preservare la funzione ermeneutica, relazionale ed etica in capo al terapeuta umano.
 
-**Riferimenti Bibliografici:**
-
+## Riferimenti Bibliografici
 - Orrù, L., & Mannarini, S. (2026). The Role of Artificial Intelligence in Clinical Psychology: How AI and NLP Systems Are Reshaping Psychological Interventions. A Systematic Review. *Clinical Psychology & Psychotherapy*, 33, e70242. https://doi.org/10.1002/cpp.70242
 - Kazdin, A. E., & Rabbitt, S. M. (2013). Novel models for delivering mental health services and reducing the burdens of mental illness. *Clinical Psychological Science*, 1(2), 170–191.
 - Topaz, M., & Pruinelli, L. (2017). Big data and nursing: Implications for the future. *Studies in Health Technology and Informatics*, 232, 165–171.

@@ -65,7 +65,7 @@ I modelli di Machine Learning (es. Random Forest, XGBoost) integrano *feature* d
 - *Prime sedute:* Alert guidato da punteggi di Disinibizione e bassi supporti anamnestici $\rightarrow$ raccomandazione di consolidare il contratto terapeutico e chiarire le aspettative.
 - *Sedute intermedie/avanzate:* Alert guidato da punteggi di Antagonismo $\rightarrow$ raccomandazione di esplorare attivamente attriti, sentimenti di incomprensione e rotture dell'alleanza.
 
-**Riferimenti Bibliografici:**
+## Riferimenti Bibliografici
 - Grazioli, S., Canessa, N., Villa, G., De Francesco, S., Ocera, A., Galletti, E., Sassaroli, S., & Caselli, G. (2026). Distinguishing early from late dropout in online Cognitive Behavioral Therapy: the role of biopsychosocial anamnestic profiles and maladaptive personality traits. *Manoscritto in fase di pubblicazione*.
 - Grazioli, S., Ocera, A., Notaristefano, I., Piron, R., Fanfoni, M., Terrazzan, L., Ruggiero, G. M., Sassaroli, S., & Caselli, G. (2025). Advancing Cognitive Behavioural Therapy Progress Tracking: A Study on the Design and Implementation of the Online Platform GRETA. *Psychological Reports*, DOI: 10.1177/00332941251409157.
 - Caselli, G., Grazioli, S., Piron, R., Fanfoni, M., Giuri, S., Scaini, S., Ruggiero, G. M., & Sassaroli, S. (2026). Effectiveness of Cognitive Behavioral Therapy on anxiety and depression symptoms in naturalistic settings for patients with and without personality disorders. *British Journal of Clinical Psychology* (In revisione).

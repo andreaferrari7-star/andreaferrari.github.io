@@ -1,7 +1,7 @@
 ---
 tags: [neuro-symbolic-ai, constraint-logic-programming, clinical-decision-support, explainability, deterministic-logic, hallucination-mitigation, medical-ai]
 tipo_fonte: [scientifica, interna]
-source_papers: ["AI Generativa in Psicoterapia.docx", "Kim & Wang (2025)"]
+source_papers: ["AI Generativa in Psicoterapia.docx"]
 ---
 
 # CDSS Ibridi Neuro-Simbolici e Constraint Logic Programming (CLP)

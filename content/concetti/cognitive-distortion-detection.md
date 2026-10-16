@@ -85,7 +85,7 @@ graph TD
 
 ## Riferimenti Bibliografici
 - Alhaj, F., Al-Haj, A., Sharieh, A., et al. (2022). Improving arabic cognitive distortion classification in twitter using bertopic. *International Journal of Advanced Computer Science and Applications*, *13*(1), 854–860.
-- Burns, D. D., & Beck, A. T. (1999). Feeling good: The new mood therapy. Avon New York.
+- Burns, D. D., & Beck, A. T. (1999). *Feeling good: The new mood therapy*. Avon.
 - Chen, Z., Lu, Y., & Wang, W. Y. (2023). Empowering psychotherapy with large language models: Cognitive distortion detection through diagnosis of thought prompting. *arXiv preprint* arXiv:2310.07146.
 - Ding, X., Lybarger, K., Tauscher, J., et al. (2022). Improving classification of infrequent cognitive distortions: domain-specific model vs. data augmentation. In *Proceedings 36 of the 2022 conference of the North American chapter of the association for computational linguistics: human language technologies: Student Research Workshop* (pp. 68–75).
 - Elsharawi, N., & El Bolock, A. (2024). C-journal: A journaling application for detecting and classifying cognitive distortions using deep-learning based on a crowd-sourced dataset. In *Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)* (pp. 3224–3234).

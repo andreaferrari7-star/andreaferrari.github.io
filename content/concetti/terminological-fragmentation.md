@@ -16,7 +16,7 @@ source_papers: ["1-s2.0-S0272735826000917-main.pdf"]
 - Concetti centrali come il *collaborative empiricism* vengono descritti in modo intercambiabile come qualità relazionale, tecnica, processo, metodo o atmosfera, senza una definizione operativa univoca (Tee & Kazantzis, 2011; Kazantzis et al., 2018).
 - L'utilizzo di workflow computazionali ibridi (LLM-assisted clustering con validazione umana) offre un metodo scalabile per mappare e armonizzare inventari terminologici complessi verso categorie latenti coerenti.
 
-**Riferimenti Bibliografici:**
+## Riferimenti Bibliografici
 - Hofmann, S. G., Pahlen, L., Westhoff, M., Hossner, K., Quintarelli, H., Usée, F., Stenzel, K., & Stangier, U. (2026). Processes in psychotherapy: A scoping review with LLM-assisted clustering. *Clinical Psychology Review*, 128, Article 102782. https://doi.org/10.1016/j.cpr.2026.102782
 - Gonzalez, O., MacKinnon, D. P., & Muniz, F. B. (2021). Extrinsic convergent validity evidence to prevent jingle and jangle fallacies. *Multivariate Behavioral Research*, 56(1), 3–19. https://doi.org/10.1080/00273171.2019.1707061
 - Tee, J., & Kazantzis, N. (2011). Collaborative empiricism in cognitive therapy: A definition and theory for the relationship construct. *Clinical Psychology: Science and Practice*, 18(1), 47–61. https://doi.org/10.1111/j.1468-2850.2010.01234.x

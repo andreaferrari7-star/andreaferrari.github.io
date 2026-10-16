@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [explainable-ai, human-in-the-loop]
 tipo_fonte: scientifica
 source_papers: ["a-2702-1843.pdf"]
 ---

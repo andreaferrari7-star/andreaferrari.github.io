@@ -47,7 +47,7 @@ flowchart TD
 - Il quadro deontologico ripristinato a seguito dell'annullamento giurisdizionale del referendum 2023 vincola lo psicologo a usare esclusivamente metodologie scientificamente validate e di cui possa indicare fonti certe, vietando l'adozione cieca di logiche *black-box* e sanzionando qualsiasi danno da affidamento tecnologico acritico (Consiglio di Stato, 2024; CNOP, 2024).
 - Il Garante Privacy ha ribadito che il caricamento di dati clinici e referti su piattaforme di IA generativa espone a gravi rischi di allucinazione e dispersione dei dati sanitari, con conseguente responsabilità diretta del professionista in qualità di Titolare del Trattamento (Garante per la Protezione dei Dati Personali, 2023; 2025).
 
-**Riferimenti Bibliografici:**
+## Riferimenti Bibliografici
 - Consiglio di Stato. (2024). *Sentenza n. 10376/2024 del 24 dicembre 2024 (Annullamento referendum revisione Codice Deontologico Psicologi)*. Roma: Consiglio di Stato.
 - Consiglio Nazionale Ordine Psicologi [CNOP]. (2024). *Codice Deontologico degli Psicologi Italiani (Testo vigente 2013)*. Roma: CNOP. https://www.psy.it/
 - Garante per la Protezione dei Dati Personali. (2023). *Sanità: decalogo del Garante Privacy sull'uso dell'intelligenza artificiale* (Provvedimento n. 9937730). Roma: Garante Privacy. https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/9937730

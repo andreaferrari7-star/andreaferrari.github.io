@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [explainable-ai, supervisione, clinical-decision-support, medical-ethics]
 tipo_fonte: scientifica
 source_papers: ["10.1177_00469580261438322.pdf"]
 ---

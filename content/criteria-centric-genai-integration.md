@@ -77,8 +77,7 @@ flowchart TD
 *   **Valutazione Metodologica:** I modelli AI risultano spesso ciechi a vizi metodologici sottili (Drori & Te'eni, 2024; Kankanhalli, 2024).
 *   **Generazione di sintesi:** L'esposizione a fenomeni di inquinamento accademico e ritrattazioni massive (Subbaraman, 2024) rende necessaria la supervisione umana.
 
-**Riferimenti Bibliografici:**
-
+## Riferimenti Bibliografici
 *   Tingelhoff, F., Brugger, M., & Leimeister, J. M. (2024). A guide for structured literature reviews in business research: The state-of-the-art and how to integrate generative artificial intelligence. *Journal of Information Technology*, 1–23. https://doi.org/10.1177/02683962241304105
 *   Drori, I., & Te’eni, D. (2024). Human-in-the-Loop AI reviewing: Feasibility, opportunities, and risks. *Journal of the Association for Information Systems*, 25(1), 98–109.
 *   Kankanhalli, A. (2024). Peer review in the age of generative AI. *Journal of the Association for Information Systems*, 25(1), 76–84.

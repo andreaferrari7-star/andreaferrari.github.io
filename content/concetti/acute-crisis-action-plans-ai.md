@@ -1,4 +1,5 @@
 ---
+tags: [cognitive-restructuring, psychotherapy]
 title: Protocolli di Intervento per Crisi Acute nell'IA Psicoterapeutica (Action Plans for Acute Crisis)
 summary: Protocollo clinico standardizzato in 4 fasi (Assess, De-escalate, Recommend Emergency Services, Request Human Consultation) strutturato da Steenstra e Bickmore (2025) per guidare la risposta immediata e sicura degli agenti IA di fronte a pericoli letali, eterolesivi o scompensi psicotici acuti.
 sources: 2505.15108v2.pdf (Steenstra & Bickmore, 2025)
@@ -64,8 +65,8 @@ L'esistenza di questo protocollo evidenzia i confini invalicabili dell'IA in con
 - L'agente non può fare diagnosi differenziale in acuzie né garantire fisicamente la sicurezza del paziente.
 - L'action plan rappresenta una **rete di contenimento (*fail-safe escalation*)** obbligatoria per prevenire la compiacenza (*sycophancy*) e garantire il tempestivo passaggio di consegne all'essere umano.
 
-**Riferimenti Bibliografici:**
-- Steenstra, & Bickmore (2025). *Action Plans for Acute Crisis*.
+## Riferimenti Bibliografici
+- Steenstra, I., & Bickmore, T. (2025). *A risk ontology for evaluating AI-powered psychotherapy virtual agents* (arXiv:2505.15108). arXiv.
 
 ## Relazioni
 

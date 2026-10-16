@@ -64,13 +64,13 @@ Ispirato all'approccio centrato sulla persona di Carl Rogers, finalizzato a crea
 - **Efficacia Comparativa:** Nei test empirici su PsychoLexQuery, i percorsi di ragionamento strutturati di PsychoLexTherapy hanno ottenuto un punteggio di allineamento terapeutico di **8.34/10** (rispetto a 1.24 del prompt semplice, 1.70 delle catene CoT standard e 7.92 dei sistemi multi-agente) e una coerenza strutturale di **8.76/10** (Abbasi & Naderi, 2025).
 - **Valutazione degli Esperti:** Gli psicologi valutatori hanno preferito significativamente i percorsi strutturati disaccoppiati (rank medio 1.43) rispetto alla Chain-of-Thought esplicita (rank 3.16), evidenziando che l'invisibilità del processo inferenziale evita l'effetto iatrogeno di sentirsi "analizzati" anziché "ascoltati" (Abbasi & Naderi, 2025; Feng et al., 2025).
 
-**Riferimenti Bibliografici:**
+## Riferimenti Bibliografici
 - Abbasi, M. A., & Naderi, H. (2025). PsychoLexTherapy: Simulating Reasoning in Psychotherapy with Small Language Models in Persian. *arXiv preprint arXiv:2510.03913v1 [cs.CL]*, 1–26. https://doi.org/10.48550/arXiv.2510.03913
 - Beck, A. T. (1979). *Cognitive therapy and the emotional disorders*. Penguin.
 - Beck, J. S. (2011). *Cognitive behavior therapy: Basics and beyond* (2nd ed.). Guilford Press.
 - Glasser, W. (1998). *Choice theory: A new psychology of personal freedom*. HarperCollins.
 - Rogers, C. R. (1957). The necessary and sufficient conditions of therapeutic personality change. *Journal of Consulting Psychology*, 21(2), 95–103.
-- Feng, S., et al. (2025). Interactive Narrative Therapist: Staged Narrative Restructuring in Multi-turn Dialogue. *arXiv preprint arXiv:2507.20241v2*.
+- Feng, Y., Wang, J., Zhang, W., Chen, Z., Shen, Y., Xiao, X., Huang, M., Jing, L., & Yu, J. (2025). *Reframe your life story: Interactive narrative therapist and innovative moment assessment with large language models* (arXiv:2507.20241). arXiv.
 
 ## Relazioni
 - Vedi anche: [[2510-03913v1]], [[psycholextherapy-framework]], [[stepwise-cot]], [[crdial-framework]], [[cbt-dialogue-systems-and-tools]], [[supportive-listener-prompting]], [[simulated-therapeutic-alliance]], [[modello-centauro-clinico]], [[interactive-narrative-therapist]]

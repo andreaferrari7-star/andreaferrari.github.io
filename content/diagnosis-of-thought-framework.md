@@ -34,9 +34,8 @@ Il framework è nato per superare il *Paradosso dei Testi Clinici Reali*:
 - Il DoT, attraverso il controllo biforcato (Filtro Fatti Oggettivi -> Ipotesi Differenziali Multiple -> Sintesi Clinica Rigorosa), neutralizza l'**Automation Bias** e previene la **Chiusura Prematura (*Premature Closure*)**.
 - Ancorando le inferenze a un insieme verificato di fatti estratti nella fase iniziale, si inibisce la tendenza all'iper-compiacenza e si neutralizza l'allucinazione di tipo Korsakoff.
 
-**Riferimenti Bibliografici:**
+## Riferimenti Bibliografici
 - [[clinical-ai-cognitive-assessment]]
-- Documentazione interna sul COAST Framework.
 
 ## Relazioni
 - [[coast-framework-clinical-prompting|COAST Framework]] - Il DoT agisce come il motore logico interno per la componente *Actions* del framework COAST.

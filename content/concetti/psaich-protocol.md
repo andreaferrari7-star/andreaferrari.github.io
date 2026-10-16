@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [psicometria, large-language-models, ai-safety, formazione-clinica]
 tipo_fonte: scientifica
 source_papers: ["2512.04124v4.pdf"]
 ---

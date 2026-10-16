@@ -14,7 +14,7 @@ source_papers: ["2605.24351v1.pdf"]
 - L'integrazione di LLM con partizioni algoritmiche preesistenti produce sintesi narrative semanticamente equivalenti a quelle redatte da ricercatori umani (Camelo-Guerrero & Diaz-Rodriguez, 2026).
 - Senza una rigorosa impalcatura bibliometrica a monte, i modelli tendono a sintetizzare informazioni fittizie e citazioni inesistenti (Camelo-Guerrero & Diaz-Rodriguez, 2026).
 
-**Riferimenti Bibliografici:**
+## Riferimenti Bibliografici
 - Camelo-Guerrero, A., & Diaz-Rodriguez, J. (2026). How Much Structure Do LLMs Need? Evaluating LLMs for Bibliometric Cluster Description. *arXiv preprint arXiv:2605.24351v1*. https://arxiv.org/abs/2605.24351v1
 
 ## Relazioni

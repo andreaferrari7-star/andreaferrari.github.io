@@ -14,7 +14,7 @@ source_papers: ["10.1177_18911803261439274.pdf"]
 - La maggior parte della letteratura esistente presenta una marcata carenza di specificità diagnostica, basandosi su misure di distress auto-riportate anziché su diagnosi formalizzate tramite interviste strutturate o valutazioni cliniche (Soni et al., 2026; Lau et al., 2025; Feng et al., 2025).
 - L'adozione di rigorosi modelli di meta-analisi a effetti casuali (Hedges' g, RoB 2, analisi ITT/TOT) e di Network Meta-Analysis (NMA) è indispensabile per determinare la superiorità relativa delle diverse architetture AI rispetto a controlli attivi e cure standard (TAU) (Soni et al., 2026).
 
-**Riferimenti Bibliografici:**
+## Riferimenti Bibliografici
 - Soni, A. K., Singh, V. K., & Kumar, M. (2026). Protocol: Effectiveness of Artificial Intelligence-Based Psychotherapy in Treating Mental Disorders. *Campbell Systematic Reviews*, 22(2), 1–19. https://doi.org/10.1177/18911803261439274
 
 ## Relazioni

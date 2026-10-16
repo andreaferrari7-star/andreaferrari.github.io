@@ -14,7 +14,7 @@ source_papers: ["2605.24351v1.pdf"]
 - Le reti di accoppiamento bibliografico e co-citazione forniscono partizioni documentali stabili e verificabili per delimitare specifici ambiti di studio (Camelo-Guerrero & Diaz-Rodriguez, 2026).
 - L'approccio algoritmico puro necessita di una componente interpretativa qualitativa per trasformare le matrici numeriche in descrizioni cliniche o concettuali leggibili (Camelo-Guerrero & Diaz-Rodriguez, 2026).
 
-**Riferimenti Bibliografici:**
+## Riferimenti Bibliografici
 - Camelo-Guerrero, A., & Diaz-Rodriguez, J. (2026). How Much Structure Do LLMs Need? Evaluating LLMs for Bibliometric Cluster Description. *arXiv preprint arXiv:2605.24351v1*. https://arxiv.org/abs/2605.24351v1
 
 ## Relazioni

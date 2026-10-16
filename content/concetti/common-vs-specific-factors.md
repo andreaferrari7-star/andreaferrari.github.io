@@ -17,7 +17,7 @@ source_papers: ["1-s2.0-S0272735826000917-main.pdf"]
 - Gli interventi digitali privi o a basso contenuto di fattori comuni mostrano spesso un'efficacia comparabile alla terapia faccia a faccia (Moshe et al., 2021), indicando che i fattori relazionali da soli non esauriscono i meccanismi causali di cambiamento (Cuijpers et al., 2019).
 - Le revisioni sistematiche (Kazantzis et al., 2018; Hayes et al., 2022) evidenziano che l'effettiva messa in atto e generalizzazione delle abilità apprese tra le sedute (*homework enactment*) è un mediatore cardine dell'esito clinico nella CBT.
 
-**Riferimenti Bibliografici:**
+## Riferimenti Bibliografici
 - Hofmann, S. G., Pahlen, L., Westhoff, M., Hossner, K., Quintarelli, H., Usée, F., Stenzel, K., & Stangier, U. (2026). Processes in psychotherapy: A scoping review with LLM-assisted clustering. *Clinical Psychology Review*, 128, Article 102782. https://doi.org/10.1016/j.cpr.2026.102782
 - Cuijpers, P., Reijnders, M., & Huibers, M. J. H. (2019). The role of common factors in psychotherapy outcomes. *Annual Review of Clinical Psychology*, 15, 207–231. https://doi.org/10.1146/annurev-clinpsy-050718-095424
 - Wampold, B. E. (2015). How important are the common factors in psychotherapy? An update. *World Psychiatry*, 14, 270–277. https://doi.org/10.1002/wps.20238

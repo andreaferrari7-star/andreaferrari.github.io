@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [supervisione, large-language-models, psychotherapy, medical-ethics]
 tipo_fonte: [scientifica, evento]
 data: 2026-06-10
 source_papers: ["06-10 Lezione_ RAG, LLM in Psicoterapia e Governance Etica.txt"]

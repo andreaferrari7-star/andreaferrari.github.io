@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [psychotherapy, sycophancy, large-language-models, generative-ai]
 tipo_fonte: [scientifica, interna]
 source_papers: ["AI in Psicoterapia 2023-2026.docx"]
 ---

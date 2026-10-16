@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [depression, psychotherapy, ai-safety, anxiety]
 tipo_fonte: scientifica
 source_papers: ["2602.19948v2.pdf", "2505.15108v2.pdf"]
 ---

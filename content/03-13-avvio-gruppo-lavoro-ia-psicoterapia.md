@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [psychotherapy, medical-ethics, formazione-clinica, prompt-engineering]
 tipo_fonte: interna
 data: 2026-03-13
 source_papers: ["03-13 Avvio del Gruppo di Lavoro sull'Intelligenza Artificiale in Psicoterapia.txt"]

@@ -24,8 +24,7 @@ Le evidenze di computer vision, analisi acustica e biosensoristica (Močnik et a
 *   **Disaccoppiamento Acustica-Valenza:** La direzione e la magnitudo delle variazioni di pitch ($F_0$) durante espressioni emotive appaiono atipiche, segnalando una disconnessione tra esperienza soggettiva e pianificazione motoria.
 *   **Fisiologia:** La soppressione cronica del tono vagale e l'elevata conduttanza cutanea (SCL) confermano uno stato di allerta biologica e instabilità neurovegetativa, corroborata dal prolungamento dell'intervallo QTc.
 
-**Riferimenti Bibliografici:**
-
+## Riferimenti Bibliografici
 - Močnik, G., Rehberger, A., Smogavc, Ž., Mlakar, I., Smrke, U., & Močnik, S. (2025). Multimodal observable cues in mood, anxiety, and borderline personality disorders: a review of reviews to inform explainable AI in mental health. *Frontiers in Artificial Intelligence*, 8:1696448. https://doi.org/10.3389/frai.2025.1696448
 - Močnik, S., Smrke, U., Mlakar, I., Močnik, G., Gregorič Kumperščak, H., & Plohl, N. (2024). Beyond clinical observations: a scoping review of AI-detectable observable cues in borderline personality disorder. *Frontiers in Psychiatry*, 15:1345916. https://doi.org/10.3389/fpsyt.2024.1345916
 - Linehan, M. M. (1993). *Cognitive-behavioral treatment of borderline personality disorder*. Guilford Press.

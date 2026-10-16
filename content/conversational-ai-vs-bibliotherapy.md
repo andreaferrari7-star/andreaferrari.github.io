@@ -20,9 +20,9 @@ Nella sintesi meta-analitica di Humayun et al. (2025) e nel trial randomizzato d
 - Una remissione significativamente più marcata dell'ansia (**p < 0.01**).
 - Punteggi statisticamente più elevati nella *Working Alliance Inventory* (**WAI, p < 0.05**), a dimostrazione che l'interattività dialogica genera un legame terapeutico percepito assente nella lettura statica.
 
-**Riferimenti Bibliografici:**
-- Humayun et al., 2025; *PLoS ONE*, doi: [10.1371/journal.pone.0332207](https://doi.org/10.1371/journal.pone.0332207).
-- Liu et al., 2022; *Internet Interventions*, doi: [10.1016/j.invent.2022.100495](https://doi.org/10.1016/j.invent.2022.100495).
+## Riferimenti Bibliografici
+- Humayun, A., Madawana, A. M., Hassan, A., Mahmud, A., Kamaruddin, N., Noor, S. H., et al. (2025). Artificial intelligence as a predictive tool for mental health status: Insights from a systematic review and meta-analysis. *PLOS ONE*, *20*(9), e0332207. https://doi.org/10.1371/journal.pone.0332207
+- Liu, H., Peng, H., Song, X., Xu, C., & Zhang, M. (2022). Using AI chatbots to provide self-help depression interventions for university students: A randomized trial of effectiveness. *Internet Interventions*, *27*, 100495. https://doi.org/10.1016/j.invent.2022.100495
 
 ## Relazioni
 - **I Quattro Driver della Superiorità Conversazionale:**

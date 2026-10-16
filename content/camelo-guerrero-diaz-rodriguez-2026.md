@@ -14,7 +14,7 @@ source_papers: ["2605.24351v1.pdf"]
 - Gli LLM generano descrizioni tematiche accurate e semanticamente vicine a quelle umane quando interpretano cluster determinati da algoritmi bibliometrici (Camelo-Guerrero & Diaz-Rodriguez, 2026).
 - Se impiegati per inferire la struttura bibliometrica da zero senza impalcatura algoritmica, i modelli generano citazioni allucinate e raggruppamenti tematicamente deboli (Camelo-Guerrero & Diaz-Rodriguez, 2026).
 
-**Riferimenti Bibliografici:**
+## Riferimenti Bibliografici
 - Camelo-Guerrero, A., & Diaz-Rodriguez, J. (2026). How Much Structure Do LLMs Need? Evaluating LLMs for Bibliometric Cluster Description. *arXiv preprint arXiv:2605.24351v1*. https://arxiv.org/abs/2605.24351v1
 
 ## Relazioni

@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [riunione, formazione-clinica, cbt, psychotherapy]
 tipo_fonte: interna
 data: 2026-07-10
 source_papers: ["07-10 Riunione_ Test e Valutazione di “Libet Prime” (Tutor AI per Libet_CBT), Trainer Simulator e Piano Operativo.txt"]

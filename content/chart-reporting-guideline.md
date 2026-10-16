@@ -30,8 +30,7 @@ flowchart TD
     EQUATOREcosystem --> CHARTArchitecture
 ```
 
-**Riferimenti Bibliografici:**
-
+## Riferimenti Bibliografici
 - The CHART Collaborative (Huo, B., Collins, G. S., et al.). (2025). Reporting guideline for chatbot health advice studies: The CHART Statement. *JAMA Network Open*, 8(8), e2530220. https://doi.org/10.1001/jamanetworkopen.2025.30220
 - The CHART Collaborative. (2025). Reporting guidelines for chatbot health advice studies: explanation and elaboration for the Chatbot Assessment Reporting Tool (CHART). *BMJ*, 390, e083305. https://doi.org/10.1136/bmj-2024-083305
 - Moher, D., et al. (2010). Guidance for developers of health research reporting guidelines. *PLoS Medicine*, 7(2), e1000217.

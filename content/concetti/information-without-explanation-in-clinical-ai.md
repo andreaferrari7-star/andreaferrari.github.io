@@ -74,7 +74,7 @@ Interagire efficacemente con l'IA richiede un livello superiore di consapevolezz
 ### 4. Incapacità Ontologica di Cogliere la Sofferenza e la Sentience
 Le macchine possono quantificare un *pain score* o processare codici ICD/EHR, ma sono strutturalmente incapaci di comprendere la **sofferenza, l'angoscia e la demoralizzazione** (Cassel, 1982; Clarke & Kissane, 2002), le quali richiedono sintonizzazione affettiva, risonanza empatica e comprensione relazionale.
 
-**Riferimenti Bibliografici:**
+## Riferimenti Bibliografici
 - **Bhasin, R., El-Sayed, W., Salami, K., Abdul-Nabi, M., Elashmawy, A., & Jaruzel II, M. E. (2025).** Clinical decision-making and artificial intelligence: The role of large language models in medicine. *Clinical Research in Practice*, 11(1), eP3601. https://doi.org/10.22237/crp/1743681960
 - **Cassel, E. J. (1982).** The nature of suffering and the goals of medicine. *New England Journal of Medicine*, 306(11), 639–645.
 - **Clarke, D. M., & Kissane, D. W. (2002).** Demoralization: its phenomenology and importance. *Aust N Z J Psychiatry*, 36(6), 733–742.

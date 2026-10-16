@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [prompt-engineering, clinical-simulation, formazione-clinica, riunione]
 tipo_fonte: interna
 source_papers: ["05-08 Riunione_ Sviluppo Knowledge Base AI, Etica e Applicazioni Cliniche.txt"]
 ---

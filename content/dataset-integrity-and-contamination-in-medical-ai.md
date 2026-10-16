@@ -65,8 +65,7 @@ I modelli proprietari o open-weight (es. GPT-4, LLaMA-3, Claude 3.5, Gemini 1.5/
 Negli studi basati su *inference-time adaptation*, i ricercatori testano iterativamente varianti di prompt. Se l'efficacia del prompt viene valutata direttamente sul medesimo set di dati usato per il reporting finale, si verifica un fenomeno di overfitting metodologico analogo al *data snooping*.
 - *Regola aurea:* Il prompt engineering deve avvenire su un sottoinsieme dedicato (*prompt development/adaptation data*), mantenendo il test set finale rigorosamente non visto (*strictly unseen held-out set*).
 
-**Riferimenti Bibliografici:**
-
+## Riferimenti Bibliografici
 | Item REFINE | Dominio Metodologico | Requisito Operativo ed Elementi Chiave |
 | :--- | :--- | :--- |
 | **4.1** | **Tracciabilità e Licenze** | Nome, versione esatta del dataset (es. MIMIC-CXR v2.0), tipo di accesso (pubblico, restricted con credenziali PhysioNet, privato), citazione formale, licenza d'uso e conformità ad accordi di utilizzo (DUA). |

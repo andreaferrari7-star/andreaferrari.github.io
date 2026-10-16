@@ -101,7 +101,7 @@ flowchart TD
 2. **Audit Trail Immutabile (*Accountability-by-Design*):** Ogni passaggio decisionale inter-agente viene registrato con marcatura temporale, identità dell'agente, ruolo formale, input scatenante, confidenza numerica e successive modifiche apportate da altri agenti o dall'operatore umano (Phiri, 2025; Kulothungan, 2025).
 3. **Integrazione con il Modello di [[tiered-autonomy-in-clinical-ai|Autonomia a Scaglioni (*Tiered Autonomy*)]]:** Quando l'inscrutabilità di un passaggio decisionale supera una soglia predefinita o si manifesta un disaccordo inter-agente, il sistema sospende l'esecuzione automatica e rimette la decisione al clinico umano.
 
-**Riferimenti Bibliografici:**
+## Riferimenti Bibliografici
 - Xie, Z., Wang, H., Dai, L., Wang, Z., Song, H., & Qian, J. (2026). Ethical issues in multi-agent AI systems for healthcare: a narrative review. *Frontiers in Public Health*, 14, 1792627. https://doi.org/10.3389/fpubh.2026.1792627
 - Bani Issa, H. (2025). Robotic surgery and the law: defining control and criminal responsibility. *Journal of Soft Computing and Data Mining*, 6, 423–434. https://doi.org/10.30880/jscdm.2025.06.01.028
 - Brohi, S., ul-ain Mastoi, Q., Jhanjhi, N. Z., & Pillai, T. (2025). A research landscape of agentic AI and large language models: applications, challenges and future directions. *Algorithms*, 18, 499. https://doi.org/10.3390/a18080499

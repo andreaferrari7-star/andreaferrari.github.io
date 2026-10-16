@@ -1,4 +1,5 @@
 ---
+tags: [supervisione, psychotherapy, large-language-models, medical-ethics]
 title: Modello Centauro Clinico (Centaur Clinical Model)
 summary: Paradigma di integrazione clinico-tecnologica ispirato al "Centaur Chess" di Garry Kasparov, in cui il terapeuta umano, potenziato dall'intelligenza artificiale e dal feedback computazionale, raggiunge livelli di efficacia e accuratezza superiori sia al solo clinico isolato sia alla macchina autonoma.
 sources: 06-10 Lezione_ RAG, LLM in Psicoterapia e Governance Etica.txt

@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [multimodal-ai, neuroimaging, nlp, depression]
 tipo_fonte: scientifica
 source_papers: ["ai-v5-e84305.pdf"]
 ---

@@ -94,6 +94,6 @@ Lo studio su 2.100 sedute ha dimostrato che **la modalità audio nativa è l'uni
 - [[rizzi-et-al-2026]]: Sintesi dello studio empirico su MyMentorLLM.
 
 ## Riferimenti Bibliografici
-- Barnhill, J. W. (2023). DSM-5-TR Clinical Cases. American Psychiatric Association Publishing.
+- Barnhill, J. W. (2023). *DSM-5-TR clinical cases*. American Psychiatric Association Publishing.
 - Goldberg, S. B., Baldwin, S. A., Merced, K., Caperton, D. D., Imel, Z. E., Atkins, D. C., & Creed, T. (2020). The structure of competence: Evaluating the factor structure of the Cognitive Therapy Rating Scale. *Behavior Therapy*, *51*(1), 113–122. https://doi.org/10.1016/j.beth.2019.05.008
 - Rizzi, R., Grecucci, A., & Stella, M. (2026). MyMentorLLM: A psychotherapy GenAI environment with multimodal voice/text patients, trainees and experts for deliberate practice. *arXiv preprint arXiv:2607.25667v1 [cs.CL]*, 1–27.

@@ -14,7 +14,7 @@ source_papers: ["Using_Large_Language_Models_in_Psychological_Resea.pdf"]
 - Gli LLM ampliano la capacità di sintesi su corpora eterogenei, identificando connessioni teoriche non banali tra costrutti psicologici e comportamentali (Adeyemi, 2024).
 - Persistono gravi rischi di ancoraggio a dati di training distorti, allucinazione di relazioni causali e incapacità di cogliere la complessità fenomenologica individuale (Adeyemi, 2024).
 
-**Riferimenti Bibliografici:**
+## Riferimenti Bibliografici
 - Adeyemi, V. (2024). Using Large Language Models in Psychological Research: A New Frontier for Hypothesis Generation. *Premier Journal of Psychology*, 1–4.
 
 ## Relazioni

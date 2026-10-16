@@ -125,7 +125,7 @@ Gli autori introducono due protocolli crittografici per permettere agli agenti d
 
 ---
 
-**Riferimenti Bibliografici:**
+## Riferimenti Bibliografici
 - He, Y., Wang, E., Rong, Y., Cheng, Z., & Chen, H. (2024). Security of AI Agents. *arXiv preprint*.
 - Acar, A., Aksu, H., Uluagac, A. S., & Conti, M. (2018). A survey on homomorphic encryption schemes: Theory and implementation. *ACM Computing Surveys (CSUR)*, 51(4), 1–35.
 - Bell, D. E., & LaPadula, L. J. (1989). *Secure computer systems: Mathematical foundations*. National Technical Information Service.

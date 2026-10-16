@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [psychotherapy, formazione-clinica, riunione, cbt]
 tipo_fonte: interna
 data: 2026-05-11
 source_papers: ["05-11 Discussione del Gruppo di Ricerca su AI e Psicoterapia.txt"]

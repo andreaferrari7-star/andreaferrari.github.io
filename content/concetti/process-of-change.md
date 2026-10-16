@@ -20,7 +20,7 @@ source_papers: ["1-s2.0-S0272735826000917-main.pdf"]
 - I processi specifici legati alla CBT (ristrutturazione dei pensieri disfunzionali, processi metacognitivi, regolazione e attivazione emotiva, flessibilità psicologica) costituiscono la maggioranza dei percorsi di cambiamento indagati empiricamente (Hofmann et al., 2026; Kazantzis et al., 2018).
 - L'analisi dei processi richiede il passaggio da modelli statistici lineari a modelli dinamici di rete idionomici, capaci di cogliere retroazioni e relazioni funzionali tempo-dipendenti (Hofmann et al., 2020).
 
-**Riferimenti Bibliografici:**
+## Riferimenti Bibliografici
 - Hofmann, S. G., Pahlen, L., Westhoff, M., Hossner, K., Quintarelli, H., Usée, F., Stenzel, K., & Stangier, U. (2026). Processes in psychotherapy: A scoping review with LLM-assisted clustering. *Clinical Psychology Review*, 128, Article 102782. https://doi.org/10.1016/j.cpr.2026.102782
 - Hofmann, S. G., & Hayes, S. C. (2019). The future of intervention science: Process-based therapy. *Clinical Psychological Science*, 7(1), 37–50. https://doi.org/10.1177/2167702618772296
 - Kazdin, A. E. (2007). Mediators and mechanisms of change in psychotherapy research. *Annual Review of Clinical Psychology*, 3, 1–27. https://doi.org/10.1146/annurev.clinpsy.3.022806.091432

@@ -4,7 +4,7 @@ tipo_fonte: scientifica
 source_papers: ["nihms-2055764.pdf"]
 ---
 
-# Predizione dell'OCD tramite il Modello a Cinque Fattori (FFM OCPD Prediction)
+# Predizione dell'OCPD tramite il Modello a Cinque Fattori (FFM OCPD Prediction)
 
 ## Definizione Operativa
 - Framework concettuale e metodologico che modella il Disturbo Ossessivo-Compulsivo di Personalità (OCPD) non come una categoria diagnostica discreta, ma come la costellazione maladattiva di tratti di personalità normativi appartenenti al Big Five (Five Factor Model). In particolare, l'OCPD viene previsto da elevata Coscienziosità (es. perfezionismo, deliberazione), basso livello di Apertura (rigidità dei valori) e alterazioni in specifici facet di Nevroticismo e Amicalità.

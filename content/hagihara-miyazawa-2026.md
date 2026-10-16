@@ -14,7 +14,7 @@ source_papers: ["13428_2025_Article_2938.pdf"]
 - Gli LLM mostrano un forte allineamento con i rating umani per proprietà fisicamente radicate come Concretezza e Interagibilità Corporea (rs > .82), predicendo l'età di acquisizione lessicale (Hagihara & Miyazawa, 2026).
 - I modelli divergono sensibilmente dai giudizi umani per tratti emotivi e astratti (Iconicità, Arousal; rs < .48) e mostrano discrepanze maggiori sulle parole funzione rispetto alle parole contenuto (Hagihara & Miyazawa, 2026).
 
-**Riferimenti Bibliografici:**
+## Riferimenti Bibliografici
 - Hagihara, H., & Miyazawa, K. (2026). How well do large language models mirror human cognition of word concepts?: A comparison of psychological ratings for early-acquired English words. *Behavior Research Methods*, 58, Article 58. https://doi.org/10.3758/s13428-025-02938-2
 
 ## Relazioni

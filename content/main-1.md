@@ -4,6 +4,8 @@ tipo_fonte: scientifica
 source_papers: ["main (1).pdf"]
 ---
 
+# Uso Problematico di ChatGPT e dell'IA Generativa
+
 ## Definizione Operativa
 - Sintesi di manifestazioni cliniche, eziologie, assessment e correlati neurofisiologici dell'uso problematico di ChatGPT e GAI.
 - **Utilità CBT / Applicativa:** Fornisce un framework diagnostico e clinico per la dipendenza da IA, supportando la creazione di protocolli di intervento basati su CBT, digital literacy e neurofeedback.

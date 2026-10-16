@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [ai-safety, large-language-models]
 tipo_fonte: scientifica
 source_papers: ["2505.15108v2.pdf"]
 ---

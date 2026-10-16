@@ -186,7 +186,7 @@ sequenceDiagram
 - L'evoluzione del diritto sanitario e dell'IA Act qualifica gli strumenti diagnostico-terapeutici come SaMD ad alto rischio, vietandone l'impiego privo di marcatura CE (MDCG, 2019; Regolamento UE 2017/745; Regolamento UE 2024/1689).
 - Il ripristino del Codice Deontologico del 2013 impone una responsabilità personale inderogabile che rende inoperante qualsiasi esimente basata sul malfunzionamento del software (Consiglio di Stato, 2024; CNOP, 2024).
 
-**Riferimenti Bibliografici:**
+## Riferimenti Bibliografici
 - Consiglio di Stato. (2024). *Sentenza n. 10376/2024 del 24 dicembre 2024 (Annullamento referendum revisione Codice Deontologico Psicologi)*. Roma: Consiglio di Stato.
 - Consiglio Nazionale Ordine Psicologi [CNOP]. (2024). *Codice Deontologico degli Psicologi Italiani (Testo vigente 2013)*. Roma: CNOP. https://www.psy.it/
 - Garante per la Protezione dei Dati Personali. (2023). *Sanità: decalogo del Garante Privacy sull'uso dell'intelligenza artificiale* (Provvedimento n. 9937730). Roma: Garante Privacy. https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/9937730

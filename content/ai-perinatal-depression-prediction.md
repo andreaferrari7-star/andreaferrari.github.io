@@ -101,7 +101,7 @@ I modelli di Machine Learning hanno permesso di stabilire una precisa gerarchia 
 
 ---
 
-**Riferimenti Bibliografici:**
+## Riferimenti Bibliografici
 - Ruger-Navarrete, A., Gómez-Ferrera, M., Mérida-Yáñez, B., Vázquez-Lara, J. M., Gómez-Salgado, J., García-Oliva, S., et al. (2026). Artificial intelligence in the prevention and early detection of postpartum depression: a systematic review and meta-analysis. *Frontiers in Psychiatry*, 16, 1734102. https://doi.org/10.3389/fpsyt.2025.1734102
 - Andersson, S., Bathula, D. R., Iliadis, S. I., Walter, M., & Skalkidou, A. (2021). Predicting women with depressive symptoms postpartum with machine learning methods. *Scientific Reports*, 11, 7877. https://doi.org/10.1038/s41598-021-86368-y
 - Fanos, V., Dessì, A., Deledda, L., Lai, A., Ranzi, P., Avellino, I., et al. (2023). Postpartum depression screening through artificial intelligence: preliminary data through the Talking About algorithm. *Journal of Pediatric and Neonatal Individualized Medicine*, 12(1), 1–11. https://doi.org/10.7363/120222

@@ -18,7 +18,7 @@ source_papers: ["10.1177_18911803261439274.pdf"]
 - **Analisi di Sottogruppo e Moderatori:** Esplorazione sistematica dell'eterogeneità per categoria diagnostica, architettura algoritmica (rule-based vs ML/NLP vs LLM generativi), livello di coinvolgimento umano (completamente autonomo vs ibrido con supporto minimo o attivo del terapeuta), modalità (testo, voce, avatar incarnati) e orientamento teorico (CBT, mindfulness, counseling) (Soni et al., 2026).
 - **Rigore di Valutazione del Rischio di Bias:** Utilizzo del tool Cochrane RoB 2 con focus sull'effetto Treatment-on-the-Treated (TOT), equivalenza di baseline calcolata sul campione analitico effettivo e controllo dei bias di pubblicazione tramite registri di trial e server di preprint (Soni et al., 2026).
 
-**Riferimenti Bibliografici:**
+## Riferimenti Bibliografici
 - Soni, A. K., Singh, V. K., & Kumar, M. (2026). Protocol: Effectiveness of Artificial Intelligence-Based Psychotherapy in Treating Mental Disorders. *Campbell Systematic Reviews*, 22(2), 1–19. https://doi.org/10.1177/18911803261439274
 
 ## Relazioni

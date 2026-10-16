@@ -4,6 +4,8 @@ tipo_fonte: scientifica
 source_papers: ["MI-CLEAR-LLM_2025.pdf"]
 ---
 
+# MI-CLEAR-LLM Guideline
+
 ## Definizione Operativa
 - Il **MI-CLEAR-LLM** (*MInimum reporting items for CLear Evaluation of Accuracy Reports of Large Language Models in healthcare*) è la linea guida metodologica per la rendicontazione trasparente degli studi clinici di accuratezza prestazionale di LLM e LMM.
 - **Utilità CBT / Applicativa:** Fornisce agli editori, revisori e ricercatori uno standard operativo (checklist a 8 domini) per garantire la riproducibilità e la valutazione rigorosa di modelli generativi in ambito diagnostico e clinico.

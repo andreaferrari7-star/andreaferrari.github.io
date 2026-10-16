@@ -93,10 +93,9 @@ flowchart LR
     end
 ```
 
-**Riferimenti Bibliografici:**
-- Fleurence, R. L., et al. (2025). Linee Guida per il Reporting dell'Intelligenza Artificiale Generativa in Medicina e Ricerca Economico-Sanitaria: Analisi dei Quadri CHART ed ELEVATE-GenAI.
-- CHART Statement (2025).
-- ELEVATE-GenAI Framework (2025).
+## Riferimenti Bibliografici
+- Fleurence, R. L., Dawoud, D., Bian, J., Higashi, M. K., Wang, X., Xu, H., Chhatwal, J., & Ayer, T. (2025). ELEVATE-GenAI: Reporting guidelines for the use of large language models in health economics and outcomes research: An ISPOR Working Group report. *Value in Health*, *28*(11), 1611–1625. https://doi.org/10.1016/j.jval.2025.06.018
+- Huo, B., Collins, G. S., Chartash, D., Thirunavukarasu, A. J., Flanagin, A., Iorio, A., Cacciamani, G., et al. (2025). Reporting guideline for chatbot health advice studies: The CHART statement. *JAMA Network Open*, *8*(8), e2530220. https://doi.org/10.1001/jamanetworkopen.2025.30220
 
 ## Relazioni
 - [[linee-guida-reporting-ai-generativa-chart-elevate|Sintesi: Linee Guida per il Reporting della GenAI in Medicina ed Economia Sanitaria]]

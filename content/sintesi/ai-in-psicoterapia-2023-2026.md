@@ -233,12 +233,12 @@ sequenceDiagram
 - Consiglio Nazionale dell'Ordine degli Psicologi (CNOP). (2026). *Intelligenza artificiale e psicologi, l'innovazione va governata (e non subita)*. Indagine nazionale presentata alla Camera dei Deputati.
 - European Federation of Psychologists' Associations (EFPA). (2026). *EFPA highlights psychology's role in AI governance during Geneva Digital Week 2026*.
 - Global Psychology Alliance (GPA). (2026). *Top 10 Principles for Understanding Artificial Intelligence in Psychology*.
-- New Zealand Psychologists Board. (2025). *Updated AI Guidelines*.
+- New Zealand Psychologists Board. (2025). *Updated AI guidelines*. https://psychologistsboard.org.nz/wp-content/uploads/2025/10/Updated-AI-Guidelines-October-2025.pdf
 - Parlamento Europeo e Consiglio dell'Unione Europea. (2024). *Regolamento (UE) 2024/1689 che stabilisce regole armonizzate sull'intelligenza artificiale (AI Act)*.
 - Raczka, R. (2026). *The future of AI in psychology*. British Psychological Society Blog.
 - Signorini, S., & Paganin, W. (2026). *Artificial intelligence as a digital analytic third: the SADAR framework for reflective supervision in psychotherapy*. Frontiers in Psychology, 17, 1690291.
 - Signorini, S., & Paganin, W. (2026). *Practical AI for Clinicians: The Sistema Autoesplorativo Dialogico Autentico Relazionale (SADAR) 3-2-1 Post Session Method*. Practice Innovations.
-- Tandem Health. (2025). *AI Act risk classification for mental health tools*.
+- Tandem Health. (2025). *AI Act risk classification for mental health tools*. https://tandemhealth.ai/resources/knowledge/ai-act-risk-classification-mental-health-tools
 
 ---
 

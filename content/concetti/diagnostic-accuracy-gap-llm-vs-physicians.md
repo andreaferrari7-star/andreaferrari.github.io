@@ -30,11 +30,15 @@ Il **Diagnostic Accuracy Gap** (Divario di Accuratezza Diagnostica) definisce la
 - **Medicina Interna/Rare/Autoimmuni:** Marcato vantaggio umano (complessità polisindromica).
 - **Seniority dell'Umano:** Gli LLM superano specializzandi in domini complessi, ma sono surclassati da specialisti senior.
 
-**Riferimenti Bibliografici:**
-- Shan, et al. (2025). "Diagnostic Accuracy Gap: Large Language Models vs Clinical Professionals". *Journal of Medical Informatics*. (medinform-v13-e64963).
-- Ito, et al. (2023). "Bias in LLM Diagnostic Proposals".
-- Pillai, et al. (2023). "Performance of LLMs in Rare Diseases".
-- Gunes, et al. (2024); Nakaura, et al.; Hirosawa, et al.; Kaya, et al.
+## Riferimenti Bibliografici
+- Shan, G., Chen, X., Wang, C., Liu, L., Gu, Y., Jiang, H., & Shi, T. (2025). Comparing diagnostic accuracy of clinical professionals and large language models: Systematic review and meta-analysis. *JMIR Medical Informatics*, *13*, e64963. https://doi.org/10.2196/64963
+- Ito, N., Kadomatsu, S., Fujisawa, M., et al. (2023). The accuracy and potential racial and ethnic biases of GPT-4 in the diagnosis and triage of health conditions: Evaluation study. *JMIR Medical Education*, *9*, e47532. https://doi.org/10.2196/47532
+- Pillai, J., & Pillai, K. (2023). Accuracy of generative artificial intelligence models in differential diagnoses of familial Mediterranean fever and deficiency of interleukin-1 receptor antagonist. *Journal of Translational Autoimmunity*, *7*, 100213. https://doi.org/10.1016/j.jtauto.2023.100213
+- Gunes, Y. C., & Cesur, T. (2024). The diagnostic performance of large language models and general radiologists in thoracic radiology cases: A comparative study. *Journal of Thoracic Imaging*. Advance online publication. https://doi.org/10.1097/RTI.0000000000000805
+- Hirosawa, T., Kawamura, R., Harada, Y., et al. (2023a). ChatGPT-generated differential diagnosis lists for complex case-derived clinical vignettes: Diagnostic accuracy evaluation. *JMIR Medical Informatics*, *11*, e48808. https://doi.org/10.2196/48808
+- Hirosawa, T., Mizuta, K., Harada, Y., & Shimizu, T. (2023b). Comparative evaluation of diagnostic accuracy between Google Bard and physicians. *The American Journal of Medicine*, *136*(11), 1119–1123. https://doi.org/10.1016/j.amjmed.2023.08.003
+- Kaya, K., Gietzen, C., Hahnfeldt, R., et al. (2024). Generative pre-trained transformer 4 analysis of cardiovascular magnetic resonance reports in suspected myocarditis: A multicenter study. *Journal of Cardiovascular Magnetic Resonance*, *26*(2), 101068. https://doi.org/10.1016/j.jocmr.2024.101068
+- Nakaura, T., Yoshida, N., Kobayashi, N., et al. (2024). Preliminary assessment of automated radiology report generation with generative pre-trained transformers: Comparing results to radiologist-generated reports. *Japanese Journal of Radiology*, *42*(2), 190–200. https://doi.org/10.1007/s11604-023-01487-y
 
 ## Relazioni
 - [[medinform-v13-e64963]]: Sintesi sistematica e meta-analisi PRISMA-DTA.

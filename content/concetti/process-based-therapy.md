@@ -17,7 +17,7 @@ source_papers: ["1-s2.0-S0272735826000917-main.pdf"]
 - L'analisi sistematica della letteratura sui processi (Hofmann et al., 2026) sottolinea come la ricerca psicoterapeutica debba passare dalla semplice quantificazione dei mediatori lineari a modelli multivariati e di rete dinamica per comprendere l'interazione causale tra processi intra-personali e contesti relazionali.
 - I processi di cambiamento non agiscono in isolamento, ma si organizzano gerarchicamente (es. la flessibilità psicologica come macro-processo che racchiude processi specifici di decentering, accettazione e reappraisal).
 
-**Riferimenti Bibliografici:**
+## Riferimenti Bibliografici
 - Hofmann, S. G., Pahlen, L., Westhoff, M., Hossner, K., Quintarelli, H., Usée, F., Stenzel, K., & Stangier, U. (2026). Processes in psychotherapy: A scoping review with LLM-assisted clustering. *Clinical Psychology Review*, 128, Article 102782. https://doi.org/10.1016/j.cpr.2026.102782
 - Hofmann, S. G., & Hayes, S. C. (2019). The future of intervention science: Process-based therapy. *Clinical Psychological Science*, 7(1), 37–50. https://doi.org/10.1177/2167702618772296
 - Hayes, S. C., Hofmann, S. G., & Ciarrochi, J. (2020). A process-based approach to psychological diagnosis and treatment: The conceptual and treatment utility of an extended evolutionary meta model. *Clinical Psychology Review*, 82, Article 101908. https://doi.org/10.1016/j.cpr.2020.101908

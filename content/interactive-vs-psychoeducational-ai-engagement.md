@@ -104,8 +104,7 @@ sequenceDiagram
 2.  **Apprendimento Trasformativo vs Informativo:** La psicoeducazione passiva agisce sul piano informativo; l'intervento interattivo guidato da LLM agisce come uno *scaffolding procedurale* che allena la funzione riflessiva e sviluppa senso di auto-efficacia (*agency*).
 3.  **Superamento della Fatica Digitale:** Il chatbot generativo riduce la soglia di attrito cognitivo segmentando l'esercizio in micro-scambi conversazionali calorosi e privi di minaccia valutativa.
 
-**Riferimenti Bibliografici:**
-
+## Riferimenti Bibliografici
 *   Habicht, J., Dina, L.-M., McFadyen, J., Stylianou, M., Harper, R., Hauser, T. U., & Rollwage, M. (2025). Generative AI–Enabled Therapy Support Tool for Improved Clinical Outcomes and Patient Engagement in Group Therapy: Real-World Observational Study. *Journal of Medical Internet Research*, 27, e60435. https://doi.org/10.2196/60435
 *   Borghouts, J., Eikey, E., Mark, G., De Leon, C., Schueller, S. M., Schneider, M., et al. (2021). Barriers to and facilitators of user engagement with digital mental health interventions: systematic review. *Journal of Medical Internet Research*, 23(3), e24387.
 *   Kazantzis, N., Whittington, C., Zelencich, L., Kyrios, M., Norton, P. J., & Hofmann, S. G. (2016). Quantity and quality of homework compliance: a meta-analysis of relations with outcome in cognitive behavior therapy. *Behavior Therapy*, 47(5), 755–772.

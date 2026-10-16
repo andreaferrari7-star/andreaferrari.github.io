@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [sycophancy, mental-health-chatbots, large-language-models, generative-ai]
 tipo_fonte: scientifica
 source_papers: ["11920_2026_Article_1690.pdf"]
 ---

@@ -42,7 +42,7 @@ flowchart TD
 - **Frequenza e Dinamismo delle Transizioni:** La presenza dello stage controller ha promosso un flusso di sessione significativamente più dinamico, con un numero significativamente maggiore di transizioni di stato ($t = 6.36, p < 0.001$), impedendo alla conversazione di ristagnare in scambi superficiali o inconcludenti (Wang, Chen et al., 2026).
 - **Percezione di Realismo Clinico:** La progressione a stadi guidata da vincoli euristici (es. divieto di escalation prima del turno 5, de-escalation forzata dopo 2 tentativi del terapeuta) ha permesso ai terapeuti valutatori di percepire l'interazione come autentica, elastica e strutturata secondo i reali ritmi della psicoterapia di coppia ($z = 24.72, p < 0.001$) (Wang, Chen et al., 2026; Choubey et al., 2025).
 
-**Riferimenti Bibliografici:**
+## Riferimenti Bibliografici
 - Wang, C., Chen, A., Bao, C., Jin, S., Swartz, H., Wu, T., Kraut, R. E., & Zhu, H. (2026). Simulating Couple Conflict: Designing A Multi-Agent System for Therapy Training and Practice. *arXiv preprint arXiv:2601.10970v2*. https://arxiv.org/abs/2601.10970
 - Choubey, P. K., Peng, X., Bhagavath, S., Xiong, C., Pentyala, S. K., & Wu, C.-S. (2025). Turning Conversations into Workflows: A Framework to Extract and Evaluate Dialog Workflows for Service AI Agents. *Proceedings of ACL 2025*, 3933–3954.
 - Almasi, M., & Kristensen-McLachlan, R. D. (2025). Alignment Drift in CEFR-prompted LLMs for Interactive Spanish Tutoring. *Proceedings of BEA 2025 (ACL)*, 70–88.

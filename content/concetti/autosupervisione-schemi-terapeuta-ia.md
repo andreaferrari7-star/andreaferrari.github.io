@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [supervisione, large-language-models, psychotherapy, riunione]
 tipo_fonte: interna
 source_papers: ["07-08 Riunione_ Pianificazione corso IA per psicoterapia — struttura, validazione interessi, microprogettazione e coordinamento.txt"]
 ---

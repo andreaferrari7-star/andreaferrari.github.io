@@ -43,8 +43,8 @@ flowchart TD
 ## Evidenze dalla Letteratura
 Il protocollo operativo e la tassonomia tecnica sono stati formalizzati dal **Gruppo di Lavoro Intelligenza Artificiale dell'Ordine delle Psicologhe e degli Psicologi del Veneto (OPPV, 2026)**. Tale guida definisce il principio di separazione dei contesti (setting clinico vs attività di studio/organizzazione), le procedure tecniche di *opt-out* dal training algoritmico, la gestione della persistenza e della memoria nei sistemi LLM e le checklist pre-sessione per 11 piattaforme digitali.
 
-**Riferimenti Bibliografici:**
-- OPPV (2026). *Guida Pratica all'Utilizzo dell'IA nella Pratica Professionale*. Gruppo di Lavoro Intelligenza Artificiale dell'Ordine delle Psicologhe e degli Psicologi del Veneto.
+## Riferimenti Bibliografici
+- Ordine delle Psicologhe e degli Psicologi del Veneto. (2026). *Guida operativa all'utilizzo dell'AI nella pratica professionale*. Gruppo di Lavoro Intelligenza Artificiale.
 
 ## Relazioni
 - [[guida-pratica-ai-oppv-1|Guida Operativa all'Utilizzo dell'AI nella Pratica Professionale (OPPV, 2026)]]: Sintesi istituzionale completa della fonte.

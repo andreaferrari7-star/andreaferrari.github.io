@@ -42,7 +42,7 @@ L'imperizia tecnologica non è ammessa come giustificazione deontologica. L'APA 
 | **Ambito di Responsabilità** | Sicurezza informatica, aderenza a specifiche tecniche e dichiarazione trasparente dei dati di training. | Responsabilità diretta sul benessere del paziente, consenso informato e appropriatezza clinica dell'intervento. |
 | **Profilo di Colpa Tipico** | Difetto del prodotto, mancata conformità normativa pre-market (es. EU AI Act / FDA). | Negligenza clinica, affidamento acritico (*negligent reliance*), violazione del codice deontologico. |
 
-**Riferimenti Bibliografici:**
+## Riferimenti Bibliografici
 - American Psychological Association [APA] - Mental Health Technology Advisory Committee [MHTAC]. (2025). *Ethical Guidance for AI in the Professional Practice of Health Service Psychology*. Washington, D.C.: APA.
 - American Psychological Association [APA]. (2017). *Ethical Principles of Psychologists and Code of Conduct*. Washington, D.C.: APA.
 - Cabitza, F., Campagner, A., & Balsano, C. (2020). Bridging the uncanny valley of artificial intelligence in medicine. *Future Healthcare Journal*, 7(2), e37–e40. https://doi.org/10.7861/fhj.2020-0037

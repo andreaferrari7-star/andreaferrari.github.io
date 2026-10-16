@@ -14,7 +14,7 @@ source_papers: ["JML_1001.pdf", "Using_Large_Language_Models_in_Psychological_Re
 - L'impiego congiunto di strutture algoritmiche (cluster bibliometrici, stepwise reasoning) e sintesi LLM migliora l'accuratezza e riduce le allucinazioni (Camelo-Guerrero & Diaz-Rodriguez, 2026; Wang et al., 2026; Tingelhoff et al., 2024).
 - I flussi non strutturati che si affidano unicamente alla generazione libera degli LLM manifestano elevata instabilità metodologica e citazioni inesistenti (Camelo-Guerrero & Diaz-Rodriguez, 2026; Adeyemi, 2024).
 
-**Riferimenti Bibliografici:**
+## Riferimenti Bibliografici
 - Adeyemi, V. (2024). Using Large Language Models in Psychological Research: A New Frontier for Hypothesis Generation. *Premier Journal of Psychology*, 1–4.
 - Camelo-Guerrero, A., & Diaz-Rodriguez, J. (2026). How Much Structure Do LLMs Need? Evaluating LLMs for Bibliometric Cluster Description. *arXiv preprint arXiv:2605.24351v1*. https://arxiv.org/abs/2605.24351v1
 - Tingelhoff, F., Brugger, M., & Leimeister, J. M. (2024). A guide for structured literature reviews in business research: The state-of-the-art and how to integrate generative artificial intelligence. *Journal of Information Technology*, 1–23. https://doi.org/10.1177/02683962241304105

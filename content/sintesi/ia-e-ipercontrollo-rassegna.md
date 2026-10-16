@@ -137,7 +137,7 @@ I modelli sono calibrati su norme espressive occidentali; in culture collettivis
 - Bennemann, B., Schwartz, B., Giesemann, J., & Lutz, W. (2022). Predicting patients who will drop out of out-patient psychotherapy using machine learning algorithms. *The British Journal of Psychiatry*, 220, 192–201. https://doi.org/10.1192/bjp.2022.17
 - Cardinal, E., et al. (2021). Smartphone application for adolescents with anorexia nervosa. *Journal of Eating Disorders*, 9, Article 119. https://doi.org/10.1186/s40337-021-00452-4
 - De Jong, K., et al. (2024). Predicting depression treatment outcomes for cognitive behavioural therapy using machine learning. *Journal of Affective Disorders*. https://doi.org/10.1016/j.jad.2024.03.056
-- Ewbank, M. P., et al. (2020). Quantifying the association between psychotherapist competence and patient outcomes. *JAMA Psychiatry*, 77(4). https://doi.org/10.1001/jamapsychiatry.2019.2664
+- Ewbank, M. P., Cummins, R., Tablan, V., et al. (2020). Quantifying the association between psychotherapy content and clinical outcomes using deep learning. *JAMA Psychiatry*, *77*(1), 35–43.
 - Gao, X., et al. (2025). Artificial intelligence in mental health care: a scoping review of reviews. *Frontiers in Psychiatry*, 16, 1688043. https://doi.org/10.3389/fpsyt.2026.1688043
 - Gasser, M., et al. (2023). Predictors for improvement in personality functioning during psychotherapy. *BMC Psychiatry*. https://doi.org/10.1186/s12888-024-06395-5
 - Gilmartin, T., Dipnall, J. F., Gurvich, C., & Sharp, G. (2024). Identifying overcontrol and undercontrol personality types among young people using the five factor model. *Journal of Eating Disorders*, 12(1), Article 16. https://doi.org/10.1186/s40337-024-00967-4

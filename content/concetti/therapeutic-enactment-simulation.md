@@ -39,7 +39,7 @@ flowchart TD
 - **Riconoscimento e Fedeltà nella Simulazione:** Nello studio di validazione tecnica, lo stadio di Enactment generato dagli agenti ha raggiunto una precisione del 100% e un accordo sostanziale ($\kappa = 0.723$, F1 = 0.84) rispetto alle annotazioni umane, dimostrando che gli agenti sono in grado di attenuare la reattività aggressiva su sollecitazione clinica (Wang, Chen et al., 2026).
 - **Valore Didattico per i Terapeuti:** I clinici partecipanti hanno evidenziato che la simulazione permette ai tirocinanti di sperimentare la delicata transizione dall'escalation all'enactment, imparando a calibrare il tempismo degli inviti al dialogo diretto e a verificare se i partner sono pronti ad aprirsi senza ricadere immediatamente nelle accuse (Wang, Chen et al., 2026; Andersson et al., 2006).
 
-**Riferimenti Bibliografici:**
+## Riferimenti Bibliografici
 - Wang, C., Chen, A., Bao, C., Jin, S., Swartz, H., Wu, T., Kraut, R. E., & Zhu, H. (2026). Simulating Couple Conflict: Designing A Multi-Agent System for Therapy Training and Practice. *arXiv preprint arXiv:2601.10970v2*. https://arxiv.org/abs/2601.10970
 - Johnson, S. M., & Greenman, P. S. (2006). The Path to a Secure Bond: Emotionally Focused Couple Therapy. *Journal of Clinical Psychology*, 62(5), 597–609.
 - Woolley, S. R., Wampler, K. S., & Davis, S. D. (2012). Enactments in couple therapy: Identifying therapist interventions associated with positive change. *Journal of Family Therapy*, 34(3), 284–305.

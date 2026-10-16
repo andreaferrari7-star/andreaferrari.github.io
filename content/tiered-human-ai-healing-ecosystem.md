@@ -97,7 +97,7 @@ flowchart TD
 
 ---
 
-**Riferimenti Bibliografici:**
+## Riferimenti Bibliografici
 - Ma, A., Chen, J., & Yang, Z. (2026). From Tool to Agent: A Semi-Systematic Review of Human–AI Alignment and a Proposed Tiered Healing Ecosystem for Mental Health. *Healthcare*, 14(6), 820. https://doi.org/10.3390/healthcare14060820
 - Heinz, M. V., Mackin, D. M., Trudeau, B. M., Bhattacharya, S., Wang, Y., Banta, H. A., ... & Jacobson, N. C. (2025). Randomized trial of a generative AI chatbot for mental health treatment. *NEJM AI*, 2, AIoa2400802.
 - Kim, Y., Jeong, H., Park, C., Park, E., Zhang, H., Liu, X., et al. (2025). Tiered agentic oversight: a hierarchical multi-agent system for AI safety in healthcare. *arXiv preprint arXiv:2506.12482*.

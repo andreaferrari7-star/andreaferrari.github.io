@@ -211,7 +211,7 @@ Sulla base del Traffic Light Framework, ogni futuro studio su sistemi conversazi
 
 - Page, M. J., et al. (2021). The PRISMA 2020 statement: an updated guideline for reporting systematic reviews. *BMJ*, 372, n71.
 
-- Stern, J. A., et al. (2019). RoB 2: a revised Cochrane risk-of-bias tool for randomized trials. *BMJ*, 366, l4898.
+- Sterne, J. A. C., Savović, J., Page, M. J., et al. (2019). RoB 2: A revised tool for assessing risk of bias in randomised trials. *BMJ*, *366*, l4898. https://doi.org/10.1136/bmj.l4898
 
 - World Health Organization. (2024). *Ethics and governance of artificial intelligence for health: Guidance on large multi-modal models*. WHO Guidelines Approved by the Guidelines Review Committee.
 

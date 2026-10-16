@@ -1,8 +1,10 @@
 ---
 tags: [Clinical Fidelity, AI, Psychotherapy, NLP, Implementation Science]
 tipo_fonte: scientifica
-source_papers: []
+source_papers: ["final_textbook_genAIinpsychologyresearchandtraining.pdf"]
 ---
+
+# Clinical Fidelity Assessment
 
 ## Definizione Operativa
 - Metodologia automatizzata per verificare aderenza e competenza nell'erogazione di psicoterapie evidence-based (EBT) tramite NLP e LLM.

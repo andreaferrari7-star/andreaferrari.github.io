@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [psychotherapy, large-language-models, supervisione]
 tipo_fonte: scientifica
 source_papers: ["2510.03913v1.pdf"]
 ---

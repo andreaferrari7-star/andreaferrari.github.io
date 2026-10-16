@@ -181,4 +181,5 @@ Benosman propone l'adozione di STAMP-LLM come protocollo condiviso di rendiconta
 - [[measurement-phantoms]]: Artefatti di misurazione e costrutti illusori generati da prompt engineering.
 - [[pmv-framework]]: Framework di validità psicometrica per l'intelligenza artificiale.
 - [[algorithmic-bias-and-digital-inequalities]]: Disuguaglianze algoritmiche e riflessi clinico-sociali.
+- [[2509-13324v3]]
 

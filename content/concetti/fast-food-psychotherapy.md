@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [psychotherapy, generative-ai, mental-health-chatbots, neuroimaging]
 tipo_fonte: scientifica
 source_papers: ["11920_2026_Article_1690.pdf"]
 ---
@@ -78,5 +78,5 @@ Studi di neuroimaging (Zhang et al., 2025; Cavalera et al., 2026) dimostrano che
 ## Riferimenti Bibliografici
 - Armanino, D., & Furlani, F. A. (2023). *Identità, personalità e dissociazione: Un approccio costruttivista al paziente grave*. FrancoAngeli.
 - Cavalera, C., Frisone, F., Rossi, C., Oasi, O., Pagnini, F., Riva, G., & Antichi, L. (2026). The Digital Mirror: Clinical Potentials and Relational Risks of Generative AI in Mental Health Interventions. *Current Psychiatry Reports*, 28, 40. https://doi.org/10.1007/s11920-026-01690-4
-- Gilbert, P., & Simos, G. (2022). Compassion focused therapy: Clinical practice and applications. Routledge.
+- Gilbert, P., & Simos, G. (Eds.). (2022). *Compassion focused therapy: Clinical practice and applications*. Routledge.
 - Zhang, X., Li, H., Yin, M., Zhang, M., et al. (2025). Investigating AI chatbot dependence: Associations with internet and smartphone dependence, mental health outcomes, and the moderating role of usage purposes. *Int J Hum-Comput Int*, 1–13.

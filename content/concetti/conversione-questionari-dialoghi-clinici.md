@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [large-language-models, depression, psicometria, prompt-engineering]
 tipo_fonte: scientifica
 source_papers: ["2510.25384v1.pdf", "2508.11398v2.pdf"]
 ---

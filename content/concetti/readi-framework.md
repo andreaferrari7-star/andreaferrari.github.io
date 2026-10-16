@@ -1,7 +1,7 @@
 ---
 tags: [readi-framework, implementation-science, clinical-validation, governance, health-equity, mental-health-ai, human-in-the-loop]
 tipo_fonte: [scientifica, interna]
-source_papers: ["AI Generativa in Psicoterapia.docx", "Stade et al. (2025)"]
+source_papers: ["AI Generativa in Psicoterapia.docx"]
 ---
 
 # Framework READI (Readiness Evaluation for AI-Mental Health Deployment and Implementation)

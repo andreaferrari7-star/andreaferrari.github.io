@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [supervisione, large-language-models, psychotherapy, anxiety]
 tipo_fonte: evento
 source_papers: ["06-10 Lezione_ RAG, LLM in Psicoterapia e Governance Etica.txt"]
 ---

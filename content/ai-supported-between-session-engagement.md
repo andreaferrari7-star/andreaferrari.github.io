@@ -18,10 +18,10 @@ source_papers: ["jmir-2025-1-e60435.pdf"]
 - **Effetto paracolpi (*Buffer Effect*) nella terapia di gruppo:** Nei contesti di gruppo (storicamente caratterizzati da tassi di dropout superiori del 15–20% per via della ridotta attenzione individuale), l'assistente IA funge da equalizzatore terapeutico, garantendo a ogni paziente un supporto personalizzato nell'applicazione pratica dei protocolli (Habicht et al., 2025).
 - **Governance clinica, sicurezza e impatto farmacoeconomico:** L'agente opera come dispositivo medico human-in-the-loop ([[modello-centauro-clinico]]) senza effettuare diagnosi autonome o sostituire il terapeuta, implementando guardrails certificati (ISO 13485) per la prevenzione del rischio e la gestione delle crisi (Gilbert et al., 2023; Rollwage et al., 2024); a fronte di un costo medio di £1.087 per *reliable recovery* nell'NHS, l'incremento di efficacia genera un valore netto stimato di £228 per paziente (Habicht et al., 2025).
 
-**Riferimenti Bibliografici:**
-- Beck, A. T. (1979). *Cognitive therapy of depression*. Guilford Press.
+## Riferimenti Bibliografici
+- Beck, A. T., Rush, A. J., Shaw, B. F., & Emery, G. (1979). *Cognitive therapy of depression*. Guilford Press.
 - Cuijpers, P., Miguel, C., Harrer, M., Plessen, C. Y., Ciharova, M., Ebert, D., et al. (2023). Cognitive behavior therapy vs. control conditions, other psychotherapies, pharmacotherapies and combined treatment for depression: a comprehensive meta-analysis including 409 trials with 52,702 patients. *World Psychiatry*, 22(1), 105–115.
-- Gilbert, S., Mehl, A., Balza, R., et al. (2023). How to regulate medical AI: A blueprint for quality and safety. *npj Digital Medicine*, 6, 12.
+- Gilbert, S., Harvey, H., Melvin, T., Vollebregt, E., & Wicks, P. (2023). Large language model AI chatbots require approval as medical devices. *Nature Medicine*, *29*(10), 2396–2398. https://doi.org/10.1038/s41591-023-02412-6
 - Habicht, J., Dina, L.-M., McFadyen, J., Stylianou, M., Harper, R., Hauser, T. U., & Rollwage, M. (2025). Generative AI–Enabled Therapy Support Tool for Improved Clinical Outcomes and Patient Engagement in Group Therapy: Real-World Observational Study. *Journal of Medical Internet Research*, 27, e60435. https://doi.org/10.2196/60435
 - Kazantzis, N., Whittington, C., Zelencich, L., Kyrios, M., Norton, P. J., & Hofmann, S. G. (2016). Quantity and quality of homework compliance: a meta-analysis of relations with outcome in cognitive behavior therapy. *Behavior Therapy*, 47(5), 755–772.
 - McFadyen, J., Habicht, J., Dina, L. M., Harper, R., Hauser, T. U., & Rollwage, M. (2024). AI-enabled conversational agent increases engagement with cognitive-behavioral therapy: a randomized controlled trial. *medRxiv*, 10.1101/2024.11.01.24316565.

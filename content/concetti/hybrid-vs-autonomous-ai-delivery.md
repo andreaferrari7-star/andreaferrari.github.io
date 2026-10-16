@@ -14,7 +14,7 @@ source_papers: ["10.1177_18911803261439274.pdf"]
 - Il livello di supervisione e coinvolgimento umano modera in modo significativo i tassi di aderenza, la ritenzione al trattamento e l'efficacia clinica percepita (Soni et al., 2026; Lau et al., 2025).
 - Nelle sintesi quantitative è indispensabile separare metodologicamente i bracci di trattamento ibridi da quelli interamente automatizzati per evitare fattori di confondimento nell'attribuzione causale dell'effetto terapeutico all'IA (Soni et al., 2026).
 
-**Riferimenti Bibliografici:**
+## Riferimenti Bibliografici
 - Soni, A. K., Singh, V. K., & Kumar, M. (2026). Protocol: Effectiveness of Artificial Intelligence-Based Psychotherapy in Treating Mental Disorders. *Campbell Systematic Reviews*, 22(2), 1–19. https://doi.org/10.1177/18911803261439274
 
 ## Relazioni

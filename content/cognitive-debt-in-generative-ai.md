@@ -58,12 +58,12 @@ La mente umana è un "avaro cognitivo" (*cognitive miser*; Stanovich, 2009; Deng
 * **Iperattivazione del Sistema 1:** Le risposte sintatticamente impeccabili di ChatGPT offrono una falsa sensazione di comprensione immediata (*fluency heuristic*), spegnendo i meccanismi di verifica critica.
 * **Atrofia Funzionale del Sistema 2:** Il sistema deliberativo, deputato al ragionamento logico-matematico, alla decostruzione di premesse fallaci e al controllo comportamentale, viene disattivato. Negli utilizzatori abituali di ChatGPT si registra un calo statisticamente significativo nei punteggi del **Cognitive Reflection Test (CRT)** e un aumento dei fallimenti cognitivi quotidiani (misurati con il *Cognitive Failures Questionnaire* - CFQ-7; Goh et al., 2025).
 
-**Riferimenti Bibliografici:**
+## Riferimenti Bibliografici
 - Kosmyna, N., Hauptmann, E., Yuan, Y. T., Situ, J., Liao, X.-H., Beresnitzky, A. V., et al. (2025). *Your brain on ChatGPT: Accumulation of cognitive debt when using an AI assistant for essay writing task* (arXiv:2506.08872). arXiv.
-- Liao, J., Ko, S., & Yen, H. (2026). *Sistematizzazione del Debito Cognitivo nell'Era Generativa*.
+- Liao, H.-Y., Ko, C.-H., & Yen, C.-F. (2026). Problematic ChatGPT use: Manifestations, etiologies, and evaluation. *Biomedical Journal*, *49*(1), 100998. https://doi.org/10.1016/j.bj.2026.100998
 - Stanovich, K. E. (2009). *Decision making and rationality in the modern world*.
-- Deng, Y., & Deng, X. (2025). *Cognitive Miserliness and Human-AI Interaction*.
-- Goh, A., et al. (2025). *Cognitive Failures Questionnaire in AI-enhanced learning*.
+- Deng, Z., & Deng, Z. (2025). Becoming a cognitive miser? Antecedents and consequences of addictive ChatGPT use. *Social Science & Medicine*, 118467.
+- Goh, A. Y., Hartanto, A., & Majeed, N. M. (2025). Generative artificial intelligence dependency: Scale development, validation, and its motivational, behavioral, and psychological correlates. *Computers in Human Behavior Reports*, 100845.
 
 ## Relazioni
 - [[main-1]]

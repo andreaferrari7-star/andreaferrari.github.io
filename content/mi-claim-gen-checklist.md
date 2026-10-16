@@ -95,10 +95,10 @@ graph TD
 
 ---
 
-**Riferimenti Bibliografici:**
+## Riferimenti Bibliografici
 - Miao, B. Y., Chen, I. Y., Williams, C. Y., Davidson, J., Garcia-Agundez, A., Sun, S., et al. (2025). The MI-CLAIM-GEN checklist for generative artificial intelligence in health. *Nature Medicine*, 31(5), 1394–1398. https://doi.org/10.1038/s41591-024-03470-0
 - Wang, X., Zhou, Y., & Zhou, G. (2025). The Application and Ethical Implication of Generative AI in Mental Health: Systematic Review. *JMIR Mental Health*, 12, e70610. https://doi.org/10.2196/70610
-- Fleurence, R. L., et al. (2025). ELEVATE-GenAI: Reporting Guidelines for Generative AI in Health Economics and Outcomes Research. *Value in Health*, 28(6), 701–712. https://doi.org/10.1016/j.jval.2025.06.018
+- Fleurence, R. L., Dawoud, D., Bian, J., Higashi, M. K., Wang, X., Xu, H., Chhatwal, J., & Ayer, T. (2025). ELEVATE-GenAI: Reporting guidelines for the use of large language models in health economics and outcomes research: An ISPOR Working Group report. *Value in Health*, *28*(11), 1611–1625. https://doi.org/10.1016/j.jval.2025.06.018
 - Ryder, A. G., Yang, J., Zhu, X., et al. (2008). The cultural shaping of depression: somatic symptoms in China, psychological symptoms in North America? *Journal of Abnormal Psychology*, 117(2), 300–313. https://doi.org/10.1038/0021-843X.117.2.300
 - Santos, W. M., Secoli, S. R., & Püschel, V. A. (2018). The Joanna Briggs Institute approach for systematic reviews. *Revista Latino-Americana de Enfermagem*, 26, e3074. https://doi.org/10.1590/1518-8345.2885.3074
 

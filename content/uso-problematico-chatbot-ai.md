@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [mental-health-chatbots, large-language-models, supervisione, sycophancy]
 tipo_fonte: [scientifica, evento]
 source_papers: ["06-10 Lezione_ RAG, LLM in Psicoterapia e Governance Etica.txt"]
 ---

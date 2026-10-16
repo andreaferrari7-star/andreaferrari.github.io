@@ -4,6 +4,8 @@ tipo_fonte: scientifica
 source_papers: ["Bollettino_IPERlab_inTherapy_N01 (1).pdf"]
 ---
 
+# Metastabilità, Predictive Coding e Trauma
+
 ## Definizione Operativa
 - La teoria della metastabilità e del predictive coding ridefinisce il PTSD come un collasso del modello generativo bayesiano cerebrale, caratterizzato da un'iper-precisione assegnata ai priors di minaccia.
 - **Utilità CBT / Applicativa:** Sposta il focus clinico dalla "liberazione" di memorie somatiche alla ricalibrazione dell'accuratezza predittiva e al ripristino della flessibilità neurale tramite esposizione ed esperienze di flusso.

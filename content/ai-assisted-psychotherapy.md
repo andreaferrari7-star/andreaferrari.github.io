@@ -41,7 +41,7 @@ Le evidenze sottolineano la necessità di cautele strutturali [1]:
 - **Prevenzione del De-Skilling Clinico**: Per evitare l'atrofia delle competenze dei terapeuti causata da suggerimenti automatizzati passivi, gli strumenti di supporto (es. *Coach AI*) sono progettati per stimolare la concettualizzazione del caso, la formulazione diagnostica e la riflessione critica [1].
 
 ## Fonti
-- [1] [[000|The Future of AI and Implementation Science in Mental Health (Wiltsey Sturman, 2026)]]
+- [1] [[000|The Future of AI and Implementation Science in Mental Health (Wiltsey Stirman, 2026)]]
 - [2] [[03-13-avvio-gruppo-lavoro-ia-psicoterapia|Avvio del Gruppo di Lavoro sull'Intelligenza Artificiale in Psicoterapia (13 Marzo 2026)]]
 
 ## Relazioni

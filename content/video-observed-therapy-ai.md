@@ -63,8 +63,7 @@ flowchart TD
 
 ---
 
-**Riferimenti Bibliografici:**
-
+## Riferimenti Bibliografici
 - Joshua, C., & Peterson, W. (2025). AI-Powered Real-Time Adherence Monitoring for Remote Patient Care in Telemedicine. *Research Article*, June 2025.
 - Labovitz, D. L., et al. (2020). Using Artificial Intelligence to Measure Adherence to Anticoagulants in Stroke Patients. *Stroke and Cerebrovascular Diseases*, 29(10), 105048.
 - Sekandi, J. N., et al. (2023). Application of AI to the Monitoring of Medication Adherence for TB Treatment in Africa. *JMIR AI*, 2(1), e40167.

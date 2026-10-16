@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [large-language-models, cbt, prompt-engineering, medical-ethics]
 tipo_fonte: scientifica
 source_papers: ["2510.25384v1.pdf"]
 ---

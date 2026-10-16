@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [mental-health-chatbots, generative-ai, prompt-engineering, psychotherapy]
 tipo_fonte: scientifica
 source_papers: ["2512.16206v2.pdf"]
 ---
@@ -69,7 +69,7 @@ Secondo Pendse et al. (2026), la Role Induction deve essere implementata nell'in
 - [[fast-food-psychotherapy]]
 
 ## Riferimenti Bibliografici
-- Gray, A. (2013). An introduction to the therapeutic frame. Routledge.
+- Gray, A. (2013). *An introduction to the therapeutic frame*. Routledge.
 - Hill, K. (2025, 13 giugno). They asked an A.I. chatbot questions. The answers sent them spiraling. *The New York Times*. https://www.nytimes.com/2025/06/13/technology/chatgpt-ai-chatbots-conspiracies.html
 - Morrin, H., Nicholls, L., Levin, M., Yiend, J., Iyengar, U., DelGuidice, F., Bhattacharyya, S., MacCabe, J., Tognin, S., Twumasi, R., Alderson-Day, B., & Pollak, T. (2025). Delusions by design? How everyday AIs might be fuelling psychosis (and what can be done about it). *PsyArXiv*. https://doi.org/10.31234/osf.io/cmy7n_v5
 - Orne, M. T., & Wender, P. H. (1968). Anticipatory socialization for psychotherapy: Method and rationale. *American Journal of Psychiatry*, 124(9), 1202–1212.

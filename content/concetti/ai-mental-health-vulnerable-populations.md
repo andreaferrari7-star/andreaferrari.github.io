@@ -13,16 +13,14 @@ Quadro metodologico, etico e applicativo per l'implementazione di interventi di 
 L'obiettivo è fornire supporto psicologico scalabile, accessibile e sicuro in ambienti dove l'assistenza tradizionale risulta inaccessibile.
 
 ## Evidenze dalla Letteratura
-Oltre l'80% della popolazione globale affetta da disturbi mentali risiede in **Paesi a Basso e Medio Reddito (LMICs)**. Sahab et al. (2025) dimostrano che l'integrazione di LLM in queste popolazioni richiede:
+Oltre l'80% della popolazione globale affetta da disturbi mentali risiede in **Paesi a Basso e Medio Reddito (LMICs)** (Sahab et al., 2025). Gli stessi autori mostrano che l'integrazione di LLM in queste popolazioni richiede:
 
 1. **Architettura Stateless/Memoryless**: Per prevenire rischi derivanti dall'ispezione dei dispositivi (autorità/familiari) e ridurre la rievocazione non controllata di traumi.
 2. **Interventi a Sessione Singola (SSI)**: Focalizzati su 60 minuti di valore terapeutico immediato (de-escalation dell'ansia, ristrutturazione cognitiva), data l'instabilità delle connessioni e dell'accesso ai dispositivi.
 3. **Sicurezza Pre-Sessione**: Verifica della privacy fisica e istruzioni chiare per evitare la divulgazione di dati identificativi.
 
-**Riferimenti Bibliografici:**
-- [[2508-00847v1|Sahab et al. (2025)]]
-- World Health Organization (WHO), 2021
-- Schwartz et al. (2023)
+## Riferimenti Bibliografici
+- Sahab, S., Haqbeen, J., Sapkota, D., & Ito, T. (2025). *GPT chatbots for alleviating anxiety and depression: A pilot randomized controlled trial with Afghan women* (arXiv:2508.00847). arXiv.
 
 ## Relazioni
 ```mermaid
@@ -59,3 +57,4 @@ flowchart TD
 - [[stepped-care-ai-integration]]
 - [[simulated-therapeutic-alliance]]
 - [[conversational-agents-mental-health]]
+- [[2508-00847v1]]

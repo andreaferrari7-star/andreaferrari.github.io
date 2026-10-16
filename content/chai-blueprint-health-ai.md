@@ -52,7 +52,7 @@ Il Blueprint CHAI ha fornito le fondamenta concettuali per la governance dell'IA
 - **271 Quesiti Binarizzati/Standardizzati:** Checklist granulare che trasforma principi etici in test verificabili.
 - **Integrazione Regolatoria:** Ponte operativo verso la conformità ai requisiti stringenti di **FDA SaMD** (21 CFR 820) e dell'**EU AI Act** (Articoli 9, 10, 13, 14, 15).
 
-**Riferimenti Bibliografici:**
+## Riferimenti Bibliografici
 - Coalition for Health AI (CHAI). (2023). *Blueprint for Trustworthy AI: Implementation Guidance and Assurance for Healthcare*. Published online April 2023. https://www.coalitionforhealthai.org/
 - Hua, Y., Xia, W., Bates, D., Hartstein, G. L., Kim, H. T., Li, M., Nelson, B. W., Stromeyer, C., IV, King, D., Suh, J., Zhou, L., & Torous, J. (2025). Standardizing and Scaffolding Health Care AI-Chatbot Evaluation: Systematic Review. *JMIR AI*, 4, e69006. https://doi.org/10.2196/69006
 

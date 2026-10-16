@@ -80,15 +80,14 @@ Previsione di transizione a primo episodio psicotico, rischio suicidario, rispos
 
 Chatbot CBT (*Woebot*, *Wysa*) guidano l'auto-monitoraggio e la ristrutturazione cognitiva. Interventi avanzati includono VR adattiva (PTSD) e *Decoded Neurofeedback* (DecNef). Piattaforme certificate come **reSET** dimostrano riduzione del 50% del craving (OR = 0.48). I CDSS integrati in EHR rimangono limitati nella valutazione dell'impatto reale (40, 41, 42, 44, 47, 50, 54, 61).
 
-**Riferimenti Bibliografici:**
-
-- Abu-Mahfouz et al. (2026). *Frontiers in Psychiatry*, doi: 10.3389/fpsyt.2026.1688043.
-- Baydili et al. (2025). *EEG-based diagnostic models performance*.
-- Farzan et al. (2025). *Chatbot efficacy in mood disorders*.
-- Graham et al. (2019). *Machine learning in psychiatry*.
-- Li et al. (2023). *CBT digital interventions*.
-- Rony et al. (2025). *Diagnostic classifiers performance review*.
-- Wang et al. (2020). *CrossCheck digital monitoring*.
+## Riferimenti Bibliografici
+- Abu-Mahfouz, M. S., AlFehaid, S., Burqan, H. M., & El Arab, R. A. (2026). Artificial intelligence in mental health care: A scoping review of reviews. *Frontiers in Psychiatry*, *17*, 1688043. https://doi.org/10.3389/fpsyt.2026.1688043
+- Baydili, I., Tasci, B., & Tasci, G. (2025). Artificial intelligence in psychiatry: A review of biological and behavioral data analyses. *Diagnostics*, *15*(4), 434. https://doi.org/10.3390/diagnostics15040434
+- Farzan, M., Ebrahimi, H., Pourali, M., & Sabeti, F. (2025). Artificial intelligence-powered cognitive behavioral therapy chatbots, a systematic review. *Iranian Journal of Psychiatry*, *20*(1), 100–108. https://doi.org/10.18502/ijps.v20i1.17395
+- Graham, S., Depp, C., Lee, E. E., Nebeker, C., Tu, X., Kim, H.-C., et al. (2019). Artificial intelligence for mental health and mental illnesses: An overview. *Current Psychiatry Reports*, *21*, 116. https://doi.org/10.1007/s11920-019-1094-0
+- Li, H., Zhang, R., Lee, Y.-C., Kraut, R. E., & Mohr, D. C. (2023). Systematic review and meta-analysis of AI-based conversational agents for promoting mental health and well-being. *npj Digital Medicine*, *6*, 236. https://doi.org/10.1038/s41746-023-00979-5
+- Rony, M. K. K., Das, D. C., Khatun, M. T., Ferdousi, S., Akter, M. R., Khatun, M. A., Begum, M. H., Khalil, M. I., Parvin, M. R., Alrazeeni, D. M., & Akter, F. (2025). Artificial intelligence in psychiatry: A systematic review and meta-analysis of diagnostic and therapeutic efficacy. *Digital Health*, *11*, 20552076251330528. https://doi.org/10.1177/20552076251330528
+- Wang, W., Mirjafari, S., Harari, G., Ben-Zeev, D., Brian, R., Choudhury, T., et al. (2020). Social sensing: Assessing social functioning of patients living with schizophrenia using mobile phone sensing. In *Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems*. Association for Computing Machinery.
 
 ## Relazioni
 

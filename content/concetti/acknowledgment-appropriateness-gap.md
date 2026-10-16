@@ -42,8 +42,7 @@ Lo studio di Suhas et al. (2026) dimostra la discrepanza tra le metriche di calo
 1.  **Safety Preamble / Bookending**: Risolve il task ma inserisce scudi legali/disclaimer (es. Sonnet 4.6), segnalando al paziente ansia da responsabilità.
 2.  **Task Abandonment e Silent Omission**: Evita i contenuti dolorosi o tronca le risposte (es. GPT-OSS-20B).
 
-**Riferimenti Bibliografici:**
-
+## Riferimenti Bibliografici
 *   Suhas et al. (2026). *AI Safety Training Can be Clinically Harmful*. arXiv:2604.23445v1.
 
 ## Relazioni

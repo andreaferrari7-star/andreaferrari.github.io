@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [clinical-simulation, large-language-models, prompt-engineering, psychotherapy]
 tipo_fonte: scientifica
 source_papers: ["2602.19948v2.pdf"]
 ---
@@ -85,10 +85,10 @@ L'agente sintetizza tutti i passaggi interni per generare la risposta verbale es
 - [[risk-ontology-ai-psychotherapy]] — Ontologia dei costrutti e dei segnali di allarme
 
 ## Riferimenti Bibliografici
-- Ellsworth, P. C. (1991). Some implications of cognitive appraisal theories of emotion.
+- Ellsworth, P. C. (1991). Some implications of cognitive appraisal theories of emotion. In K. T. Strongman (Ed.), *International review of studies on emotion* (Vol. 1, pp. 143–161). Wiley.
 - Georgeff, M., Pell, B., Pollack, M., Tambe, M., & Wooldridge, M. (1998). The belief-desire-intention model of agency. In *International workshop on agent theories, architectures, and languages. Springer* (pp. 1–10).
-- Gross, J. J. (2013). Handbook of emotion regulation. Guilford publications.
-- Lazarus, R. S., & Folkman, S. (1984). Stress, appraisal, and coping. Springer publishing company.
-- Neisser, U. (2014). Cognitive psychology: Classic edition. Psychology press.
+- Gross, J. J. (Ed.). (2013). *Handbook of emotion regulation*. Guilford Press.
+- Lazarus, R. S., & Folkman, S. (1984). *Stress, appraisal, and coping*. Springer.
+- Neisser, U. (2014). *Cognitive psychology* (Classic ed.). Psychology Press.
 - Steenstra, I., Nouraei, F., & Bickmore, T. (2025). Scaffolding empathy: Training counselors with simulated patients and utterance-level performance visualizations. In *Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems (CHI '25)*. Association for Computing Machinery.
 - Steenstra, I., Pedrelli, P., Shi, W., Marsella, S., & Bickmore, T. W. (2026). Assessing Risks of Large Language Models in Mental Health Support: A Framework for Automated Clinical AI Red Teaming. *arXiv preprint arXiv:2602.19948v2 [cs.CL]*, 1–32.

@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [samd, depression, mental-health-chatbots, clinical-decision-support]
 tipo_fonte: interna
 source_papers: ["05-11 Discussione del Gruppo di Ricerca su AI e Psicoterapia.txt"]
 ---

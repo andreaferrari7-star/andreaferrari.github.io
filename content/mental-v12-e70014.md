@@ -169,7 +169,7 @@ flowchart TD
 
 ---
 
-**Riferimenti Bibliografici:**
+## Riferimenti Bibliografici
 - Wang, L., Bhanushali, T., Huang, Z., Yang, J., Badami, S., & Hightow-Weidman, L. (2025). Evaluating Generative AI in Mental Health: Systematic Review of Capabilities and Limitations. *JMIR Mental Health*, 12, e70014. https://doi.org/10.2196/70014
 - Alanezi, F. (2024). Assessing the effectiveness of ChatGPT in delivering mental health support: a qualitative study. *Journal of Multidisciplinary Healthcare*, 17, 461–471. https://doi.org/10.2147/JMDH.S447368
 - Balamurali, B. T., & Chen, J. M. (2024). Performance assessment of ChatGPT versus Bard in detecting Alzheimer’s dementia. *Diagnostics*, 14(8), 817. https://doi.org/10.3390/diagnostics14080817

@@ -19,7 +19,7 @@ La letteratura (Stojanovic et al., 2026; Moshe et al., 2021) indica che:
 2.  **Necessità dell'Attrito:** La CBT richiede attrito cognitivo; gli agenti orientati solo alla soddisfazione utente (*sycophancy*) possono assecondare distorsioni.
 3.  **Dose-Response:** Il miglioramento correla con la pratica ripetuta delle tecniche funzionali, non solo con la durata della conversazione.
 
-**Riferimenti Bibliografici:**
+## Riferimenti Bibliografici
 - Stojanovic, A., Stankovic, M., & Ristic, A. (2026). AI-Guided Cognitive Behavioral Therapy for Depression and Anxiety: Bridging the Mental Health Treatment Gap Through Digital Psychiatry. *Healthcare*, 14(15), 2334. https://doi.org/10.3390/healthcare14152334
 - Berger, T. (2017). The therapeutic alliance in internet interventions: A narrative review and suggestions for future research. *Psychotherapy Research*, 27(5), 511–524.
 - Cuijpers, P., Karyotaki, E., Reijnders, M., & Huibers, M. J. H. (2018). Who benefits from psychotherapies for adult depression? A meta-analytic update. *Cognitive Behaviour Therapy*, 47(2), 91–106.

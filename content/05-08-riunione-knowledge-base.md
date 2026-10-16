@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [riunione, prompt-engineering, medical-ethics, human-in-the-loop]
 tipo_fonte: interna
 data: 2026-05-08
 source_papers: ["05-08 Riunione_ Sviluppo Knowledge Base AI, Etica e Applicazioni Cliniche.txt"]

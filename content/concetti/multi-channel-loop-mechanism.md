@@ -40,7 +40,7 @@ flowchart TD
   - Nel dataset CRISP, il meccanismo produce una media di **7.39 dialoghi per situazione iniziale**, con **2.94 canali di distorsione medi** e **2.28 cicli di loop per sessione clinica** (Zhou et al., 2025).
   - L'ablazione sperimentale del multi-channel distortion identification (*w/o MDI*) ha causato un crollo significativo sia nell'utilità percepita (*Helpfulness*) che nella credibilità (*Trustworthiness*), dimostrando che la capacità di discriminare e trattare molteplici distorsioni è cruciale per la relazione terapeutica digitale (Zhou et al., 2025).
 
-**Riferimenti Bibliografici:**
+## Riferimenti Bibliografici
 - Sperry, L., & Sperry, J. (2020). *Case conceptualization: Mastering this competency with ease and confidence*. Routledge.
 - Bargh, J. A., & Chartrand, T. L. (1999). The unbearable automaticity of being. *American Psychologist*, 54(7), 462.
 - Zhou, J., Chen, Y., Yin, J., Huang, Y., Shi, Y., Zhang, X., Peng, L., Zhang, R., Lv, T., Hu, Z., Wang, H., & Huang, M. (2025). CRISP: Cognitive Restructuring of Negative Thoughts through Multi-turn Supportive Dialogues. *arXiv preprint arXiv:2504.17238*. https://arxiv.org/abs/2504.17238

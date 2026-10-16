@@ -59,7 +59,7 @@ flowchart TD
 
 ---
 
-**Riferimenti Bibliografici:**
+## Riferimenti Bibliografici
 - Pendse, S. R., Gergle, D., Kornfield, R., Kruzan, K., Mohr, D., Schleider, J., Suh, J., Wescott, A., & Meyerhoff, J. (2026). The Agony of Opacity: Foundations for Reflective Interpretability in AI-Mediated Mental Health Support. In *Proceedings of the Second Conference of the International Association for Safe and Ethical Artificial Intelligence (IASEAI'26)*, arXiv:2512.16206v2 [cs.HC], 1–18.
 - Pendse, S. R., Stapleton, L., Kumar, N., De Choudhury, M., & Chancellor, S. (2024). Advancing a consent-forward paradigm for digital mental health data. *Nature Mental Health*, 2(11), 1298–1307.
 - Grüning, D., & Kamin, J. (2025). Prosocial design in trust and safety. *arXiv preprint arXiv:2506.12792*.

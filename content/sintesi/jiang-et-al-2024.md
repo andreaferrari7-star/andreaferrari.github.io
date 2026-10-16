@@ -193,6 +193,7 @@ Oltre il 60% dei chatbot per la salute mentale si basa su principi CBT.
 - [[ctrs-automated-evaluation]]: Valutazione automatizzata della qualità terapeutica e della fidelity.
 - [[clinical-fidelity-assessment]]: Monitoraggio standardizzato delle competenze cliniche.
 - [[simulazione-pazienti-ai]]: Ambienti di role-playing per il training clinico (PATIENT-Ψ).
+- [[2407-19422v1]]
 
 ## Riferimenti Bibliografici
 - Chen, Z., Flemotomos, N., Imel, Z. E., et al. (2022a). Leveraging open data and task augmentation to automated behavioral coding of psychotherapy conversations in low-resource scenarios. *arXiv preprint* arXiv:2210.14254.

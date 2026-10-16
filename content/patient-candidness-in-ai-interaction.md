@@ -4,6 +4,8 @@ tipo_fonte: scientifica
 source_papers: ["fpsyt-15-1444382.pdf"]
 ---
 
+# Patient Candidness in AI Interaction
+
 ## Definizione Operativa
 - Costrutto clinico e socio-cognitivo che descrive la propensione dei pazienti a manifestare maggiore sincerità e franchezza (*candidness*) nell'auto-rivelazione di materiale emotivo intimo, traumatico o stigmatizzato quando interagiscono con un'IA rispetto a un clinico umano.
 - **Utilità CBT / Applicativa:** Funziona come canale a bassa soglia di accesso per il rilevamento precoce di sintomi critici (ideazione suicidaria, dipendenze, vissuti di colpa) altrimenti taciuti, permettendo l'integrazione di dati grezzi nella formulazione clinica del caso.

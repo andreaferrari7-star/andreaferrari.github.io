@@ -78,11 +78,11 @@ Tre rischi clinicamente critici distinguono l'AI applicata all'overcontrol rispe
 
 ## Riferimenti Bibliografici
 
-- Aafjes-van Doorn, K., et al. (2021). Machine learning in psychotherapy research and practice. *Psychotherapy Research*, 31(4). https://doi.org/10.1080/10503307.2021.1898372
+- Aafjes-van Doorn, K., Kamsteeg, C., Bate, J., & Aafjes, M. (2021). A scoping review of machine learning in psychotherapy research. *Psychotherapy Research*, *31*(1), 92–116.
 - Arena, L., Penate, W., Rivero, F., Marrero, R. J., Olivares, T., Scarano, A., Fumero, A., & Grecucci, A. (2025). Gray and white matter alterations in OCPD: a data fusion machine learning approach. *Frontiers in Human Neuroscience*, 19, 1559760. https://doi.org/10.3389/fnhum.2025.1559760
 - Bennemann, B., Schwartz, B., Giesemann, J., & Lutz, W. (2022). Predicting patients who will drop out of out-patient psychotherapy using machine learning algorithms. *The British Journal of Psychiatry*, 220, 192–201. https://doi.org/10.1192/bjp.2022.17
-- De Jong, K., et al. (2024). Predicting depression treatment outcomes for CBT using machine learning. *Journal of Affective Disorders*. https://doi.org/10.1016/j.jad.2024.03.056
-- Ewbank, M. P., et al. (2020). Quantifying the association between psychotherapist competence and patient outcomes. *JAMA Psychiatry*, 77(4). https://doi.org/10.1001/jamapsychiatry.2019.2664
+- De Jong, K., et al. (2024). Predicting depression treatment outcomes for CBT using machine learning. *Journal of Affective Disorders*. https://doi.org/10.1016/j.jad.2024.03.056 [da verificare: riferimento non presente nelle fonti in `raw/`]
+- Ewbank, M. P., Cummins, R., Tablan, V., et al. (2020). Quantifying the association between psychotherapy content and clinical outcomes using deep learning. *JAMA Psychiatry*, *77*(1), 35–43.
 - Gao, X., et al. (2025). Artificial intelligence in mental health care: a scoping review of reviews. *Frontiers in Psychiatry*, 16, 1688043. https://doi.org/10.3389/fpsyt.2026.1688043
 - Gasser, M., et al. (2023). Predictors for improvement in personality functioning during psychotherapy. *BMC Psychiatry*. https://doi.org/10.1186/s12888-024-06395-5
 - Gilmartin, T., Dipnall, J. F., Gurvich, C., & Sharp, G. (2024). Identifying overcontrol and undercontrol personality types among young people using the five factor model. *Journal of Eating Disorders*, 12(1). https://doi.org/10.1186/s40337-024-00967-4
@@ -90,7 +90,7 @@ Tre rischi clinicamente critici distinguono l'AI applicata all'overcontrol rispe
 - Hyatt, C. S., et al. (2025). Leveraging normative personality data and machine learning to predict OCPD traits. *Journal of Abnormal Psychology*. https://doi.org/10.1037/abn0000889
 - Kim, S., et al. (2024). Momentary physiological indices related to eating disorders — a wearable review. *Frontiers in Psychiatry*, 15, 1378342. https://doi.org/10.3389/fpsyt.2024.1378342
 - Lekkas, D., Gyorda, J. A., Price, G. D., & Jacobson, N. (2023). Depression deconstructed: wearables and passive digital phenotyping for analyzing individual symptoms. *Behaviour Research and Therapy*, 168. https://doi.org/10.1016/j.brat.2023.104382
-- Linardon, J., et al. (2025). Predicting responsiveness to a DBT skills program. *International Journal of Eating Disorders*. https://doi.org/10.1002/eat.24156
+- Linardon, J., et al. (2025). Predicting responsiveness to a DBT skills program. *International Journal of Eating Disorders*. https://doi.org/10.1002/eat.24156 [da verificare: riferimento non presente nelle fonti in `raw/`]
 - Lynch, T. R. (2018). *Radically Open Dialectical Behavior Therapy: Clinician manual for targeting disorders of overcontrol*. New Harbinger Publications.
 - Mocnik, S., et al. (2024). Beyond clinical observations: a scoping review of AI-detectable observable cues in BPD. *Frontiers in Psychiatry*, 15, 1345916. https://doi.org/10.3389/fpsyt.2024.1345916
 - Ryu, J., Heisig, S., McLaughlin, C., Katz, M., Mayberg, H., & Gu, X. (2023). A natural language processing approach reveals first-person pronoun usage and non-fluency as markers of therapeutic alliance. *iScience*, 26. https://doi.org/10.1016/j.isci.2023.106860

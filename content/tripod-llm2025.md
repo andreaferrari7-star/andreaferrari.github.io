@@ -307,7 +307,7 @@ flowchart LR
 - Gallifant, J., Afshar, M., Ameen, S., Aphinyanaphongs, Y., Chen, S., Cacciamani, G., Demner-Fushman, D., Dligach, D., Daneshjou, R., Fernandes, C., Hansen, L. H., Landman, A., Lehmann, L., McCoy, L. G., Miller, T., Moreno, A., Munch, N., Restrepo, D., Savova, G., Umeton, R., Gichoya, J. W., Collins, G. S., Moons, K. G. M., Celi, L. A., & Bitterman, D. S. (2025). The TRIPOD-LLM reporting guideline for studies using large language models. *Nature Medicine*, 31(1), 60–69. https://doi.org/10.1038/s41591-024-03425-5
 - Collins, G. S., Moons, K. G. M., Dhiman, P., Riley, R. D., Beam, A. L., Van Calster, B., Ghassemi, M., Liu, X., Reitsma, J. B., van Smeden, M., et al. (2024). TRIPOD+AI statement: updated guidance for reporting clinical prediction models that use regression or machine learning methods. *BMJ*, 385, e078378. https://doi.org/10.1136/bmj-2023-078378
 - Huo, B., et al. (2025). Reporting standards for the use of large language model-linked chatbots for health advice (CHART). *JAMA Network Open*, 8(1), e2530220.
-- Fleurence, R. L., et al. (2025). ELEVATE-GenAI: A reporting guideline for generative artificial intelligence in health economics and outcomes research. *Value in Health*, 28(2), 150–162.
+- Fleurence, R. L., Dawoud, D., Bian, J., Higashi, M. K., Wang, X., Xu, H., Chhatwal, J., & Ayer, T. (2025). ELEVATE-GenAI: Reporting guidelines for the use of large language models in health economics and outcomes research: An ISPOR Working Group report. *Value in Health*, *28*(11), 1611–1625. https://doi.org/10.1016/j.jval.2025.06.018
 
 ---
 

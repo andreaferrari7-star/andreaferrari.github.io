@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [large-language-models, formazione-clinica, riunione, psychotherapy]
 tipo_fonte: interna
 source_papers: ["07-17 Riunione_ Corso di Formazione sull'IA in Psicologia e Utilizzo Clinico.txt"]
 ---

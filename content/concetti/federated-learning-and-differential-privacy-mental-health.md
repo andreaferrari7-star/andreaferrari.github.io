@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [privacy, federated-learning, gdpr, machine-learning]
 tipo_fonte: scientifica
 source_papers: ["ai-v5-e84305.pdf"]
 ---

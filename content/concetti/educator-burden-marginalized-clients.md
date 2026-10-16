@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [psychotherapy, large-language-models, generative-ai, therapeutic-alliance]
 tipo_fonte: scientifica
 source_papers: ["2512.22462v1.pdf"]
 ---
@@ -79,4 +79,4 @@ I sistemi basati su LLM possono svolgere un'azione di **Mediazione Epistemica bi
 ## Riferimenti Bibliografici
 - Meyer, I. H. (2003). Prejudice, social stress, and mental health in lesbian, gay, and bisexual populations: Conceptual issues and research evidence. *Psychological Bulletin*, 129(5), 674–697.
 - Quan, J., Li, Z., Zhu, T. Q., Li, Y., Wang, B., Pratt, W., & Gao, N. (2025). Relational Mediators: LLM Chatbots as Boundary Objects in Psychotherapy. *arXiv preprint arXiv:2512.22462v1 [cs.HC]*, 1–35. https://doi.org/10.48550/arXiv.2512.22462
-- Sue, D. W., & Sue, D. (1999). Counseling the culturally different: theory and practice (3rd ed.). Wiley.
+- Sue, D. W., & Sue, D. (1999). *Counseling the culturally different: Theory and practice* (3rd ed.). Wiley.

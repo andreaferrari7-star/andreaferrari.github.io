@@ -30,7 +30,7 @@ source_papers: ["fpsyg-16-1715306.pdf"]
 2. **Integrazione della Fenomenologia Culturale:** Includere nel prompting e nelle basi di conoscenza RAG i concetti del *Cultural Formulation Interview* (CFI del DSM-5) e gli idiomi somatici del disagio.
 3. **Audit Sistematici di Equità (Fairness Audits):** Verificare la parità di sensibilità e specificità nell'identificazione del rischio suicidario e psicopatologico tra diversi sottogruppi etnoculturali.
 
-**Riferimenti Bibliografici:**
+## Riferimenti Bibliografici
 - Hadar-Shoval, D., Asraf, K., Mizrachi, Y., Haber, Y., & Elyoseph, Z. (2024). Assessing the alignment of large language models with human values for mental health integration: cross-sectional study using Schwartz’s theory of basic values. *JMIR Mental Health*, 11, e55988. https://doi.org/10.2196/55988
 - Forane, S. G., Ezugwu, A. E., & Igwe, K. (2024). Evaluating the cultural sensitivity of large language models in mental health support: a framework inspired by Ubuntu values. *International Conference on Big Data Analytics*.
 - Chen, C.-C., Chen, J. A., Liang, C.-S., & Lin, Y.-H. (2025). Large language models may struggle to detect culturally embedded filicide-suicide risks. *Asian Journal of Psychiatry*, 105, 104395. https://doi.org/10.1016/j.ajp.2025.104395

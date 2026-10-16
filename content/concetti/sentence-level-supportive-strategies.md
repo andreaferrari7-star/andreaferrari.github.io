@@ -45,9 +45,9 @@ mindmap
      - *Negotiate:* Ricerca di compromessi e co-definizione flessibile degli obiettivi con il paziente.
 - **Impatto sul Modello Computazionale:** Nel dataset CRISP e nei modelli CRISPERS-14B, le risposte del terapeuta integrano in media 2.23 strategie per turno con un'accuratezza annotativa del 97.6% ($\kappa = 0.712$). Gli studi di ablazione (*w/o SSCG*) dimostrano che eliminare il controllo sentence-level causa un decadimento drastico della qualità globale, del supporto percepito e della fiducia relazionale (Zhou et al., 2025).
 
-**Riferimenti Bibliografici:**
+## Riferimenti Bibliografici
 - Hill, C. E. (2009). *Helping skills: Facilitating exploration, insight, and action*. American Psychological Association.
-- Linehan, M. (2014). *DBT Skills Training Manual*. Guilford Publications.
+- Linehan, M. M. (2014). *DBT skills training manual* (2nd ed.). Guilford Publications.
 - Zhou, J., Chen, Y., Yin, J., Huang, Y., Shi, Y., Zhang, X., Peng, L., Zhang, R., Lv, T., Hu, Z., Wang, H., & Huang, M. (2025). CRISP: Cognitive Restructuring of Negative Thoughts through Multi-turn Supportive Dialogues. *arXiv preprint arXiv:2504.17238*. https://arxiv.org/abs/2504.17238
 
 ## Relazioni

@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [formazione-clinica, riunione, large-language-models, human-in-the-loop]
 tipo_fonte: interna
 data: 2026-06-05
 source_papers: ["06-05 Riunione_ Impiego dell'IA in ambito clinico, bias e formazione.txt"]

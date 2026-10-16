@@ -3,7 +3,7 @@ title: Libet Prime e Agenti Didattici CBT
 created: 2026-08-31
 last_updated: 2026-08-27
 tags: [psicoterapia, AI, didattica, LIBET]
-tipo_fonte: scientifica
+tipo_fonte: interna
 ---
 
 # Libet Prime e Agenti Didattici CBT
@@ -27,10 +27,6 @@ Il modello si basa su una Knowledge Base ingegnerizzata di 26 capitoli, redatta 
 
 Il sistema adotta un approccio socratico, stimolando la riflessione metacognitiva invece di fornire risposte pre-confezionate. È stata documentata la gestione del *Prompt Regression* causato dall'*over-constraining*, risolta tramite la creazione di istanze *clean agent* e A/B testing su casi standardizzati.
 
-**Riferimenti Bibliografici:**
-- 05-11 Discussione del Gruppo di Ricerca su AI e Psicoterapia.
-- 05-08 Riunione Sviluppo Knowledge Base AI, Etica e Applicazioni Cliniche.
-
 ## Relazioni
 - [[05-11-discussione-gruppo-ricerca]]
 - [[human-in-the-reasoning]]
@@ -38,3 +34,4 @@ Il sistema adotta un approccio socratico, stimolando la riflessione metacognitiv
 - [[prompting-in-psychology]]
 - [[large-language-models]]
 - [[etica-privacy-bias-ia-clinica]]
+- [[05-08-riunione-knowledge-base]]

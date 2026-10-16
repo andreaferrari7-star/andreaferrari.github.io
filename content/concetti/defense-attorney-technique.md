@@ -27,7 +27,7 @@ flowchart LR
   3. **Verdetto (Verdict):** Al termine del contraddittorio, il sistema valuta se si è verificato un effettivo disancoraggio cognitivo (*cognitive shift*). Se la risoluzione ha successo, il paziente formula un verdetto sintetico positivo, realistico e costruttivo (Zhou et al., 2025).
 - **Applicazione nei Modelli Linguistici (LLM):** Nel framework CRDIAL e nei modelli CRISPERS, l'implementazione del DAT evita il tono predicatorio tipico delle parafrasi dirette, delegando al paziente il ruolo attivo di esaminatore delle proprie convinzioni e generando un cambiamento cognitivo duraturo (incremento del +48.77% nell'affetto positivo misurato su scala PANAS) (Zhou et al., 2025).
 
-**Riferimenti Bibliografici:**
+## Riferimenti Bibliografici
 - de Oliveira, I. R. (2011). Kafka’s trial dilemma: proposal of a practical solution to Joseph K.’s unknown accusation. *Medical Hypotheses*, 77(1), 5–6.
 - Zhou, J., Chen, Y., Yin, J., Huang, Y., Shi, Y., Zhang, X., Peng, L., Zhang, R., Lv, T., Hu, Z., Wang, H., & Huang, M. (2025). CRISP: Cognitive Restructuring of Negative Thoughts through Multi-turn Supportive Dialogues. *arXiv preprint arXiv:2504.17238*. https://arxiv.org/abs/2504.17238
 

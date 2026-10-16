@@ -146,7 +146,7 @@ Il framework evidenzia come l'evoluzione della salute mentale digitale sia stata
 
 ## Riferimenti Bibliografici
 *   Bucher, A., Egger, S., Vashkite, I., Wu, W., & Schwabe, G. (2025). "It’s Not Only Attention We Need": Systematic Review of Large Language Models in Mental Health Care. *JMIR Mental Health*, 12, e78410. https://doi.org/10.2196/78410
-*   Vaswani, A., et al. (2017). Attention Is All You Need. *NeurIPS 2017*, 30.
+*   Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł., & Polosukhin, I. (2017). Attention is all you need. In *Advances in Neural Information Processing Systems* (Vol. 30).
 *   vom Brocke, J., et al. (2015). Standing on the shoulders of giants: challenges and recommendations of literature search in information systems research. *CAIS*, 37(1), 9.
 *   Ji, S., et al. (2022). MentalBERT: publicly available pretrained language models for mental healthcare. *LREC 2022*, 7184–7190.
 *   Yang, K., et al. (2024). MentaLLaMA: interpretable mental health analysis on social media with large language models. *WWW '24*, 4489–4500.

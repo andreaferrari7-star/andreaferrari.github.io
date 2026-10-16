@@ -105,7 +105,7 @@ graph LR
 
 ---
 
-**Riferimenti Bibliografici:**
+## Riferimenti Bibliografici
 - Suhas, B. N., Sherrill, A. M., Arriaga, R. I., Wiese, C. W., & Abdullah, S. (2026). AI Safety Training Can be Clinically Harmful. *arXiv preprint arXiv:2604.23445v1 [cs.CL]*, 1–26.
 - Foa, E. B., Hembree, E. A., Rothbaum, B. O., & Rauch, S. A. M. (2019). *Prolonged Exposure Therapy for PTSD: Emotional Processing of Traumatic Experiences: Therapist Guide*. Oxford University Press.
 - Nie, J., Shao, H., Fan, Y., Shao, Q., You, H., Preindl, M., & Jiang, X. (2024). LLM-based conversational AI therapist for daily functioning screening and psychotherapeutic intervention via everyday smart devices. *ACM Transactions on Computing for Healthcare*, 4(2).

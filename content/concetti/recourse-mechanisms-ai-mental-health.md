@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [generative-ai, mental-health-chatbots, ai-safety]
 tipo_fonte: scientifica
 source_papers: ["2512.16206v2.pdf"]
 ---
@@ -66,10 +66,10 @@ Pendse et al. (2026) propongono di mutuare il modello da iniziative indipendenti
 - [[etica-privacy-bias-ia-clinica]]
 
 ## Riferimenti Bibliografici
-- Adler, S. (2025). Practical tips for reducing chatbot psychosis. Clear-Eyed AI (Substack).
+- Adler, S. (2025, ottobre). Practical tips for reducing chatbot psychosis. *Clear-Eyed AI*. https://stevenadler.substack.com/p/practical-tips-for-reducing-chatbot
 - Frizelle, F. (2024). Review of the health and disability commissioner act and code-your chance to have your say. *The New Zealand Medical Journal (Online)*, *137*(1599), 13–15.
 - Furniss, R., & Ormond-Walshe, S. (2007). An alternative to the clinical negligence system. *BMJ*, *334*(7590), 400–402.
 - Hill, K. (2025, 13 giugno). They asked an A.I. chatbot questions. The answers sent them spiraling. *The New York Times*. https://www.nytimes.com/2025/06/13/technology/chatgpt-ai-chatbots-conspiracies.html
-- Jost, T. (2011). Implementing health reform: the appeals process amended rule. Health Affairs Forefront.
+- Jost, T. (2011). Implementing health reform: The appeals process amended rule. *Health Affairs Forefront*.
 - Klee, M. (2025, ottobre). He grew obsessed with an AI chatbot. Then he vanished in the Ozarks. *Rolling Stone*. https://www.rollingstone.com/culture/culture-features/ai-chatbot-disappearance-jon-ganz-1235438552/
 - Pendse, S. R., Gergle, D., Kornfield, R., Kruzan, K., Mohr, D., Schleider, J., Suh, J., Wescott, A., & Meyerhoff, J. (2026). The Agony of Opacity: Foundations for Reflective Interpretability in AI-Mediated Mental Health Support. In *Proceedings of the Second Conference of the International Association for Safe and Ethical Artificial Intelligence (IASEAI'26)*, arXiv:2512.16206v2 [cs.HC], 1–18. https://doi.org/10.48550/arXiv.2512.16206

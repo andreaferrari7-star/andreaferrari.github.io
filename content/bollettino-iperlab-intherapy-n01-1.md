@@ -55,14 +55,13 @@ flowchart TD
 - **Network Analysis:** De Francesco et al. (2026) evidenziano che nei pazienti con disturbo di personalità la ruminazione si struttura come un processo **ego-sintonico**. 
 - **Trauma e Metastabilità:** Kotler et al. (2026) propongono che la patologia derivi da una drammatica perdita di metastabilità, dove il cervello collassa in stati attrattori rigidi e iper-stabili di difesa.
 
-**Riferimenti Bibliografici:**
-
+## Riferimenti Bibliografici
 - Caselli, G., Grazioli, S., Piron, R., Fanfoni, M., Giuri, S., Scaini, S., Ruggiero, G.M., Sassaroli, S. (2026). *Effectiveness of Cognitive Behavioral Therapy on anxiety and depression symptoms in naturalistic settings for patients with and without personality disorders*. British Journal of Clinical Psychology.
 - De Francesco, S., Caselli, G., Giani, L., Ocera, A., Scaini, S., Buattini, M., Piron, R., Fanfoni, M., Giuri, S., Nordahl, H.M., Sassaroli, S., Ruggiero, G.M. (2026). *Network analysis of emotional disorders with and without comorbid personality disorders: Symptom, metacognition, and repetitive thinking patterns*. Journal of Affective Disorders, Vol. 398, 121062.
 - Grazioli, S., Ocera, A., Notaristefano, I., Piron, R., Fanfoni, M., Terrazzan, L., Ruggiero, G.M., Sassaroli, S., Caselli, G. (2025). *Advancing Cognitive Behavioural Therapy Progress Tracking: A Study on the Design and Implementation of the Online Platform GRETA*. Psychological Reports.
 - Kotler, S., Mannino, M., Fox, G., & Friston, K. (2026). *The body does not keep the score: trauma, predictive coding, and the restoration of metastability*. Frontiers in Systems Neuroscience, 20, 1812957.
-- van der Kolk, B. (2014). *The Body Keeps the Score*.
-- Roberts, B. W., et al. (2017). Meta-analisi sulla modificabilità dei tratti.
+- van der Kolk, B. A. (2014). *The body keeps the score: Brain, mind, and body in the healing of trauma*. Viking.
+- Roberts, B. W., Luo, J., Briley, D. A., Chow, P. I., Su, R., & Hill, P. L. (2017). A systematic review of personality trait change through intervention. *Psychological Bulletin*, *143*(2), 117–141. https://doi.org/10.1037/bul0000088
 
 ## Relazioni
 

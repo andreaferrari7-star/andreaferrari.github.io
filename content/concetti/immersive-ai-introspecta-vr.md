@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [formazione-clinica, generative-ai, mental-health-chatbots, prompt-engineering]
 tipo_fonte: scientifica
 source_papers: ["11920_2026_Article_1690.pdf"]
 ---

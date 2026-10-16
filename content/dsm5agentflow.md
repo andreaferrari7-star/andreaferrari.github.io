@@ -57,7 +57,7 @@ flowchart TD
   - Nella sperimentazione su 8.000 colloqui clinici simulati con 4 architetture LLM (*Llama-4-scout-17b*, *Mistral-Saba-24b*, *Qwen-QwQ-32b*, *GPT-4.1-Nano*), l'adozione di un modello esplicitamente addestrato per il ragionamento logico (*Qwen-QwQ-32b*) ha consentito di raggiungere la massima accuratezza (70%), recall (72%) e F1-score (77%), dimostrando una capacità superiore di ancorare le prove verbali del paziente ai criteri nosografici rispetto a modelli ottimizzati per la sola scorrevolezza discorsiva (Ozgun et al., 2025).
 - **Modularità e Privacy:** L'architettura è concepita come modulare e plug-and-play: supporta inferenza locale tramite Ollama (evitando l'invio di dati sensibili a cloud proprietari), consente l'integrazione a runtime di nuovi questionari o manuali diagnostici (TXT, Markdown, PDF) e permette la definizione flessibile di nuovi profili di pazienti sintetici (Ozgun et al., 2025).
 
-**Riferimenti Bibliografici:**
+## Riferimenti Bibliografici
 - Ozgun, M. C., Pei, J., Hindriks, K., Donatelli, L., Liu, Q., & Wang, J. (2025). Trustworthy AI Psychotherapy: Multi-Agent LLM Workflow for Counseling and Explainable Mental Disorder Diagnosis. In *Proceedings of the 34th ACM International Conference on Information and Knowledge Management (CIKM ’25)*, November 10–14, 2025, Seoul, Republic of Korea. ACM, New York, NY, USA, 10 pages. https://doi.org/10.1145/3746252.3761164 / arXiv:2508.11398v2 [cs.HC]
 - American Psychiatric Association. (2013). *Diagnostic and Statistical Manual of Mental Disorders (DSM-5®)*. American Psychiatric Publishing.
 

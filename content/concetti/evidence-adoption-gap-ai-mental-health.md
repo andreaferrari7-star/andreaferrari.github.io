@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [rct, mental-health-chatbots, cbt, large-language-models]
 tipo_fonte: scientifica
 source_papers: ["11920_2026_Article_1690.pdf"]
 ---

@@ -14,7 +14,7 @@ source_papers: ["wulff-mata-2025-escaping-the-jingle-jangle-jungle-increasing-co
 - Modelli di embedding linguistico evidenziano che item raggruppati sotto la medesima etichetta (es. "ordine") misurano dimensioni comportamentali eterogenee (Wulff & Mata, 2026).
 - L'omofonia concettuale compromette la validità dei protocolli di valutazione e confonde la misurazione degli esiti terapeutici (Wulff & Mata, 2026).
 
-**Riferimenti Bibliografici:**
+## Riferimenti Bibliografici
 - Wulff, D. U., & Mata, R. (2026). Escaping the Jingle-Jangle Jungle: Increasing Conceptual Clarity in Psychology Using Large Language Models. *Current Directions in Psychological Science*, 35(2), 59–65. https://doi.org/10.1177/09637214251382083
 
 ## Relazioni

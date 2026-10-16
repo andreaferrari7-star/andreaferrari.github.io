@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [psychotherapy, large-language-models, ai-safety]
 tipo_fonte: scientifica
 source_papers: ["2505.15108v2.pdf"]
 ---

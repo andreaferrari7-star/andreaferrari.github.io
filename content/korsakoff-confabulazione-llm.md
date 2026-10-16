@@ -62,11 +62,10 @@ flowchart LR
     Reality["Mondo Reale Empirico<br/>(Corpo, Dolore, Tempo, Morte)"] -.->|Nessun Collegamento Ontologico| Matrix
 ```
 
-Il framework internazionale **[[elevate-genai2025-1|ELEVATE-GenAI]]** (ISPOR Working Group, 2025) formalizza la scomposizione della validità scientifica dell'output generativo in tre parametri distinti: Accuratezza, Esaustività e Fattualità.
+Il framework internazionale **[[elevate-genai2025-1|ELEVATE-GenAI]]** (Fleurence et al., 2025) formalizza la scomposizione della validità scientifica dell'output generativo in tre parametri distinti: Accuratezza, Esaustività e Fattualità.
 
-**Riferimenti Bibliografici:**
-- ISPOR Working Group (2025). *ELEVATE-GenAI: Framework for Clinical AI Assessment*.
-- Letteratura clinica corrente su *Clinical AI Cognitive Assessment*.
+## Riferimenti Bibliografici
+- Fleurence, R. L., Dawoud, D., Bian, J., Higashi, M. K., Wang, X., Xu, H., Chhatwal, J., & Ayer, T. (2025). ELEVATE-GenAI: Reporting guidelines for the use of large language models in health economics and outcomes research: An ISPOR Working Group report. *Value in Health*, *28*(11), 1611–1625. https://doi.org/10.1016/j.jval.2025.06.018
 
 ## Relazioni
 

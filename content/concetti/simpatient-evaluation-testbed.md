@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [ai-safety, depression, large-language-models, conversational-agents]
 tipo_fonte: scientifica
 source_papers: ["2505.15108v2.pdf"]
 ---

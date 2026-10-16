@@ -4,6 +4,8 @@ tipo_fonte: scientifica
 source_papers: ["TRIPOD-LLM2025.pdf"]
 ---
 
+# Modular Reporting Framework per LLM
+
 ## Definizione Operativa
 - Il **Modular Reporting Framework for LLMs** è il paradigma metodologico introdotto dallo standard internazionale [[tripod-llm2025|TRIPOD-LLM]] (Gallifant et al., *Nature Medicine* 2025) per superare i limiti delle checklist di rendicontazione monolitiche nella ricerca biomedica basata su modelli generativi.
 - **Utilità CBT / Applicativa:** Consente un filtraggio dinamico dei requisiti di trasparenza tramite una matrice bidimensionale (4 Disegni di Ricerca x 9 Task Clinici), garantendo rigore metodologico ed eliminando l'overhead di rendicontazione non pertinente.

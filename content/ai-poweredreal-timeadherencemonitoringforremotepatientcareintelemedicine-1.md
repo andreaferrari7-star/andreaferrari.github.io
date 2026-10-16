@@ -149,7 +149,7 @@ flowchart LR
    - *Campioni Ridotti e Breve Follow-Up*: Molti RCT (inclusi quelli di AiCure) hanno arruolato campioni contenuti ($n < 60$) con osservazione limitata a 12–24 settimane, lasciando aperta la questione del mantenimento dell'aderenza su scale pluriennali.
    - *Latenza Computazionale*: L'overhead introdotto da Homomorphic Encryption e Federated Learning può generare ritardi di elaborazione incompatibili con il monitoraggio ad altissima frequenza.
 
-**Riferimenti Bibliografici:**
+## Riferimenti Bibliografici
 - Joshua, C., & Peterson, W. (2025). AI-Powered Real-Time Adherence Monitoring for Remote Patient Care in Telemedicine. *Research Article*, June 2025.
 - Labovitz, D. L., et al. (2020). Using Artificial Intelligence to Measure Adherence to Anticoagulants in Stroke Patients. *Stroke and Cerebrovascular Diseases*, 29(10), 105048.
 - Sekandi, J. N., et al. (2023). Application of AI to the Monitoring of Medication Adherence for TB Treatment in Africa. *JMIR AI*, 2(1), e40167.

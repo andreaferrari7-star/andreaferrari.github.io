@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [ai-safety, psicometria, large-language-models]
 tipo_fonte: scientifica
 source_papers: ["2512.04124v4.pdf"]
 ---

@@ -49,7 +49,7 @@ flowchart TD
 - **Discrepanza tra Sonno Percepito e Misurato:** Il confronto tra log conversazionali e rilevazioni biometriche (Fitbit) su oltre 500 soggetti rivela significative divergenze individuali tra durata percepita e oggettiva del sonno, evidenziando la necessità che i modelli LLM calibrino i loro consigli integrando entrambi i flussi di dati (Jang et al., 2023).
 - **Limiti e Rischi di Bias:** La maggioranza delle evidenze attuali poggia su trial pilota a breve termine (1-2 settimane) o valutazioni di esperti su compiti circoscritti, con un rischio non trascurabile di allucinazioni su terapie chirurgiche o tecnologiche avanzate (es. HGNS) e assenza di validazioni su campioni ampi a lungo termine (Mansoor, 2025; Pordzik et al., 2024).
 
-**Riferimenti Bibliografici:**
+## Riferimenti Bibliografici
 - Mansoor, H. (2025). A Scoping Review of Large Language Models in Personal Sleep Wellness. *Mayo Clinic Proceedings: Digital Health*, 3(4), 100301. https://doi.org/10.1016/j.mcpdig.2025.100301
 - Bragazzi, N. L., & Garbarino, S. (2024). Assessing the accuracy of generative conversational artificial intelligence in debunking sleep health myths: mixed methods comparative study with expert analysis. *JMIR Formative Research*, 8(1), e55762. https://doi.org/10.2196/55762
 - Cheong, R. C. T., Unadkat, S., Mcneillis, V., et al. (2024). Artificial intelligence chatbots as sources of patient education material for obstructive sleep apnoea: ChatGPT versus google bard. *European Archives of Oto-Rhino-Laryngology*, 281(2), 985–993. https://doi.org/10.1007/s00405-023-08319-9

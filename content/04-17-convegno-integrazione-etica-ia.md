@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [medical-ethics, psychotherapy, formazione-clinica, large-language-models]
 tipo_fonte: evento
 data: 2026-04-17
 source_papers: ["04-17 Convegno_ Integrazione etica dell’IA nella psicoterapia (scrittura clinica, supervisione, monitoraggio, formazione).txt"]

@@ -26,8 +26,8 @@ Per risultare efficaci e funzionali, i RAA non devono mai basarsi su processi co
 - *Formulazione Errata (Prolissa e Dispersiva):* "Gli studenti esploreranno alcune delle molte teorie e ne valuteranno le opportune applicazioni a varie situazioni."
 - *Formulazione Corretta (Concisa e Applicativa):* "Gli studenti saranno in grado di applicare le principali teorie all'analisi di situazioni del contesto specifico."
 
-**Riferimenti Bibliografici:**
-- METID - Politecnico di Milano. *Esempi Formulazione Risultati di Apprendimento Attesi*.
+## Riferimenti Bibliografici
+- METID – Politecnico di Milano. (n.d.). *Esempi di formulazione dei risultati di apprendimento attesi*.
 
 ## Relazioni
 - Vedi anche: [[08-28-riunione-corso-ia-clinici]], [[07-17-riunione-corso-formazione|Corso di formazione sull'IA per clinici]]

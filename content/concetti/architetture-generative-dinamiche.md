@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [prompt-engineering, riunione, large-language-models, depression]
 tipo_fonte: interna
 source_papers: ["06-05 Riunione_ Impiego dell'IA in ambito clinico, bias e formazione.txt"]
 ---

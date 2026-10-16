@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [medical-ethics, privacy, large-language-models, psychotherapy]
 tipo_fonte: [interna, evento]
 source_papers: ["05-11 Discussione del Gruppo di Ricerca su AI e Psicoterapia.txt", "04-17 Convegno_ Integrazione etica dell’IA nella psicoterapia (scrittura clinica, supervisione, monitoraggio, formazione).txt", "05-08 Riunione_ Sviluppo Knowledge Base AI, Etica e Applicazioni Cliniche.txt"]
 ---

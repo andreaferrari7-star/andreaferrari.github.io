@@ -52,7 +52,7 @@ flowchart TD
 | **Ipotesi** | Brainstorming rapido. | Convergenza sui medesimi collegamenti probabilistici. |
 | **Autonomia** | Percezione di competenza accresciuta. | Rischio di dipendenza e atrofia del pensiero divergente. |
 
-**Riferimenti Bibliografici:**
+## Riferimenti Bibliografici
 - Doshi, A. R., & Hauser, O. P. (2024). Generative AI enhances individual creativity but reduces the collective diversity of novel content. *Science Advances*, 10(28), eadn5290. https://doi.org/10.1126/sciadv.adn5290
 - Mabirizi, V., Katushabe, C., Muhoza, G., & Rugasira, J. (2025). A systematic review of the impact of generative AI on postgraduate research. *Discover Artificial Intelligence*, 5, 238.
 - Aytes, S. A., Baek, J., & Hwang, S. J. (2025). Sketch-of-thought: Efficient llm reasoning with adaptive cognitive-inspired sketching. *arXiv preprint*, arXiv:2503.05179.

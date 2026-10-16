@@ -58,7 +58,7 @@ flowchart TD
 
 ---
 
-**Riferimenti Bibliografici:**
+## Riferimenti Bibliografici
 - He, Y., Wang, E., Rong, Y., Cheng, Z., & Chen, H. (2024). Security of AI Agents. *arXiv preprint*.
 - Bell, D. E., & LaPadula, L. J. (1989). *Secure computer systems: Mathematical foundations*. National Technical Information Service.
 - Cohen, S., Bitton, R., & Nassi, B. (2024). ComPromptMized: Unleashing zero-click worms that target GenAI-powered applications. *arXiv preprint*.

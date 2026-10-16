@@ -58,7 +58,7 @@ flowchart TD
 | **Chatbot Conversazionali Autonomi (LLM)** | Psicoterapia o supporto conversazionale non supervisionato | Accessibilità 24/7, basso costo di erogazione | Rischio elevato di AI Psychosis, sicofanzia, rinforzo di deliri, stigma | **CONTROINDICATO** nella psicosi attiva senza clinico umano |
 | **Co-pilota Centauro / Real-Time Recommendation** | Suggerimento argomenti e tecniche al terapeuta durante la seduta | Preserva l'alleanza terapeutica, potenzia la decisione umana | Accuratezza attuale moderata (64%), necessità di calibrazione | **Promettente** come supporto decisionale per il terapeuta |
 
-**Riferimenti Bibliografici:**
+## Riferimenti Bibliografici
 - Mok, C. H. Y., Cheng, C. P. W., & Chu, M. H. W. (2025). Application of artificial intelligence and psychosocial functioning in psychosis: a systematic review and meta-analysis. *Frontiers in Psychiatry*, 16, 1692177. https://doi.org/10.3389/fpsyt.2025.1692177
 - Bosco, F. M., Colle, L., Salvini, R., & Gabbatore, I. (2024). A machine-learning approach to investigating the complexity of theory of mind in individuals with schizophrenia. *Heliyon*, 10(6), e30693. https://doi.org/10.1016/j.heliyon.2024.e30693
 - Li, C., Wang, W., Guo, Q., Jiang, L., Qiao, K., Hu, Y., et al. (2022). Deep learning system for brain image-aided diagnosis of multiple major mental disorders. *bioRxiv*, 2022-06. https://doi.org/10.1101/2022.06.01.22275855

@@ -27,7 +27,7 @@ Il framework è supportato dalla letteratura recente che esplora l'integrazione 
 - **Efficacia clinica:** Il modello integra i pilastri della *Cognitive Therapy of Depression* (Beck et al., 2024) adattandoli alle moderne interfacce conversazionali.
 - **Governance:** Kazdin (2019) supporta l'espansione dei servizi di salute mentale attraverso nuovi modelli di delivery, in linea con l'approccio *stepped-care* integrato nel modello.
 
-**Riferimenti Bibliografici:**
+## Riferimenti Bibliografici
 - Stojanovic, A., Stankovic, M., & Ristic, A. (2026). AI-Guided Cognitive Behavioral Therapy for Depression and Anxiety: Bridging the Mental Health Treatment Gap Through Digital Psychiatry. *Healthcare*, 14(15), 2334. https://doi.org/10.3390/healthcare14152334
 - Andersson, G., Titov, N., Dear, B. F., Rozental, A., & Carlbring, P. (2019). Internet-delivered psychological treatments: From innovation to implementation. *World Psychiatry*, 18(1), 20–28.
 - Beck, A. T., Rush, A. J., Shaw, B. F., Emery, G., DeRubeis, R. J., & Hollon, S. D. (2024). *Cognitive Therapy of Depression*. Guilford Publications.

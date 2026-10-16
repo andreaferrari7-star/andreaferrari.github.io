@@ -106,9 +106,8 @@ flowchart TD
 
 ## Riferimenti Bibliografici
 
-- *L'Intelligenza Artificiale Generativa in Psicoterapia: Dalla Scatola Nera alla Pratica Clinica Sicura* (cfr. [[clinical-ai-blueprint]]).
 - Rizzi, R., Grecucci, A., & Stella, M. (2026). MyMentorLLM: A Psychotherapy GenAI Environment with Multimodal Voice/Text Patients, Trainees and Experts for Deliberate Practice. *arXiv:2607.25667*.
-- Rousmaniere, T. (2024). *Deliberate Practice in Clinical Psychology*. American Psychological Association.
+- Rousmaniere, T. (2024). *Deliberate practice for psychotherapists: A guide to improving clinical effectiveness*. Routledge.
 - Goldberg, S. B., Baldwin, S. A., Merced, K., Caperton, D. D., Imel, Z. E., Atkins, D. C., & Creed, T. (2020). The structure of competence: Evaluating the factor structure of the Cognitive Therapy Rating Scale. *Behavior Therapy*, *51*(1), 113–122. https://doi.org/10.1016/j.beth.2019.05.008
 
 ---

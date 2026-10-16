@@ -1,4 +1,5 @@
 ---
+tags: [formazione-clinica, riunione, prompt-engineering, psychotherapy]
 title: Microprogettazione Formativa per l'IA
 summary: Modello metodologico iterativo per la progettazione, validazione e implementazione di percorsi formativi specialistici sull'Intelligenza Artificiale applicata alla psicoterapia.
 last_updated: 2026-08-27

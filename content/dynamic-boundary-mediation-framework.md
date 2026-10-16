@@ -103,7 +103,7 @@ sequenceDiagram
 
 ---
 
-**Riferimenti Bibliografici:**
+## Riferimenti Bibliografici
 - Quan, J., Li, Z., Zhu, T. Q., Li, Y., Wang, B., Pratt, W., & Gao, N. (2025). Relational Mediators: LLM Chatbots as Boundary Objects in Psychotherapy. *arXiv preprint arXiv:2512.22462v1 [cs.HC]*, 1–35.
 - Star, S. L., & Griesemer, J. R. (1989). Institutional ecology, 'translations' and boundary objects: Amateurs and professionals in Berkeley's Museum of Vertebrate Zoology, 1907-39. *Social Studies of Science*, 19(3), 387–420.
 - BenEzer, G. (2012). From Winnicott’s potential space to mutual creative space: A principle for intercultural psychotherapy. *Transcultural Psychiatry*, 49(2), 323–339.

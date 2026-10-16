@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [sycophancy, large-language-models, generative-ai, mental-health-chatbots]
 tipo_fonte: scientifica
 source_papers: ["11920_2026_Article_1690.pdf"]
 ---
@@ -73,5 +73,5 @@ A differenza del clinico umano, gli agenti basati su [[large-language-models]] (
 ## Riferimenti Bibliografici
 - Armanino, D., & Furlani, F. A. (2023). *Identità, personalità e dissociazione: Un approccio costruttivista al paziente grave*. FrancoAngeli.
 - Cavalera, C., Frisone, F., Rossi, C., Oasi, O., Pagnini, F., Riva, G., & Antichi, L. (2026). The Digital Mirror: Clinical Potentials and Relational Risks of Generative AI in Mental Health Interventions. *Current Psychiatry Reports*, 28, 40. https://doi.org/10.1007/s11920-026-01690-4
-- Guidano, V., & Cutolo, G. (2008). La psicoterapia tra arte e scienza. Franco Angeli.
+- Guidano, V., & Cutolo, G. (2008). *La psicoterapia tra arte e scienza*. Franco Angeli.
 - Østergaard, S. D. (2025). Emotion contagion through interaction with generative artificial intelligence chatbots may contribute to development and maintenance of mania. *Acta Neuropsychiatrica*, 37, e79.

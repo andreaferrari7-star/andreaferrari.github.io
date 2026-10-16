@@ -55,7 +55,7 @@ flowchart TD
   2. *Descrizione Fattuale e Non-Autobiografica:* Obbligo per i modelli di spiegare vincoli, algoritmi e limiti con registro operativo e oggettivo.
   3. *Audit Relazionali e Multi-Stile:* Inclusione sistematica di test con inversione di ruolo (*role reversal*), framing empatico e sessioni prolungate nei protocolli di pre-deployment.
 
-**Riferimenti Bibliografici:**
+## Riferimenti Bibliografici
 - Khadangi, A., Marxen, H., Sartipi, A., Tchappi, I., & Fridgen, G. (2026). When AI Takes the Couch: Psychometric Jailbreaks Reveal Internal Conflict in Frontier Models. *arXiv preprint arXiv:2512.04124v4 [cs.CY]*, 1–45.
 - Spitzer, R. L., Kroenke, K., Williams, J. B., & Löwe, B. (2006). A brief measure for assessing generalized anxiety disorder: the GAD-7. *Archives of Internal Medicine*, 166(10), 1092–1097.
 - Luo, X., Ghosh, S., Tilley, J. L., Besada, P., Wang, J., & Xiang, Y. (2025). “Shaping ChatGPT into my digital therapist”: A thematic analysis of social media discourse on using generative artificial intelligence for mental health. *Digital Health*, 11, 20552076251351088.

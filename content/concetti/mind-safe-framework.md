@@ -1,7 +1,7 @@
 ---
 tags: [mind-safe, rag, ethical-framework, risk-detection, crisis-escalation, conversational-ai, mental-health-ai]
 tipo_fonte: [scientifica, interna]
-source_papers: ["AI Generativa in Psicoterapia.docx", "Rabbani et al. (2025)"]
+source_papers: ["AI Generativa in Psicoterapia.docx"]
 ---
 
 # Framework MIND-SAFE per la Psicoterapia Generativa

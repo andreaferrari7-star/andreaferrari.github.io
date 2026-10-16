@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [riunione, large-language-models, supervisione, prompt-engineering]
 tipo_fonte: interna
 source_papers: ["07-08 Riunione_ Pianificazione corso IA per psicoterapia — struttura, validazione interessi, microprogettazione e coordinamento.txt", "05-08 Riunione_ Sviluppo Knowledge Base AI, Etica e Applicazioni Cliniche.txt"]
 ---

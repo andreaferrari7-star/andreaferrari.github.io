@@ -37,10 +37,9 @@ L'Assessment Cognitivo dell'AI è un'architettura pedagogica e metodologica per 
 *   **Standard di Rendicontazione:** Adozione dei framework TRIPOD-LLM e CHART per garantire trasparenza e riproducibilità scientifica nell'uso dell'AI clinica.
 
 ### Riferimenti Bibliografici
-*   *Clinical AI Cognitive Assessment* (Documento tecnico di riferimento).
-*   Linee guida CHART per la rendicontazione dell'AI in sanità.
-*   TRIPOD-LLM (2025) per la validazione di modelli clinici.
-*   Framework MIND-SAFE per l'ingegneria dei sistemi clinici.
+*   Huo, B., Collins, G. S., Chartash, D., Thirunavukarasu, A. J., Flanagin, A., Iorio, A., Cacciamani, G., et al. (2025). Reporting guideline for chatbot health advice studies: The CHART statement. *JAMA Network Open*, *8*(8), e2530220. https://doi.org/10.1001/jamanetworkopen.2025.30220
+*   Gallifant, J., Afshar, M., Ameen, S., et al. (2025). The TRIPOD-LLM reporting guideline for studies using large language models. *Nature Medicine*, *31*(1), 60–69. https://doi.org/10.1038/s41591-024-03425-5
+*   Boit, S., & Patil, R. (2025). A prompt engineering framework for large language model-based mental health chatbots: MIND-SAFE. *JMIR Mental Health*.
 
 ## Relazioni
 *   [[korsakoff-confabulazione-llm]]: Approfondisce la natura delle allucinazioni.

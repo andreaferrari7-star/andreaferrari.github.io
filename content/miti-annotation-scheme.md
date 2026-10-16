@@ -36,7 +36,7 @@ mindmap
   - Utilizzato come benchmark di classificazione multi-output multi-classe per verificare la capacità degli LLM (ChatGPT-4.0, Gemini-2.0 Flash, DeepSeek-V3) di autovalutarsi e valutare sintesi esterne.
   - I risultati mostrano che la presenza di prompt arricchiti (*few-shot*) con descrizioni esplicite delle ancore Likert aumenta la concordanza tra predizione dell'LLM e ground truth umana (Kumar et al., 2025).
 
-**Riferimenti Bibliografici:**
+## Riferimenti Bibliografici
 - Kumar, V., Rajawat, P. S., & Ntoutsi, E. (2025). Mitigating semantic drift: Evaluating LLMs’ efficacy in psychotherapy through MI dialogue summarization leveraging MITI code. In *2025 International Joint Conference on Neural Networks (IJCNN)*, pp. 1–8. arXiv preprint arXiv:2511.22818v1.
 - Moyers, T. B., Manuel, J. K., Ernst, D., & Fortini, C. (2014). *Motivational Interviewing Treatment Integrity Coding Manual 4.1 (MITI 4.1)*. University of New Mexico CASAA.
 - Moyers, T. B., Rowell, L. N., Manuel, J. K., Ernst, D., & Houck, J. M. (2016). The Motivational Interviewing Treatment Integrity code (MITI 4): Rationale, preliminary reliability and validity. *Journal of Substance Abuse Treatment*, 65, 36–42.

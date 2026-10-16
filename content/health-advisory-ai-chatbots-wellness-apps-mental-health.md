@@ -101,29 +101,29 @@ L'APA Advisory focalizza la propria disamina esclusivamente sulle **tecnologie r
 ### 5. Privacy e Mental Privacy
 L'APA richiede la protezione della **Mental Privacy** come diritto fondamentale, imponendo approcci *Safe-by-Default* contro la profilazione commerciale di stati affettivi e cognitivi.
 
-**Riferimenti Bibliografici:**
+## Riferimenti Bibliografici
 - American Psychological Association. (2025). *APA Health Advisory on the Use of Generative AI Chatbots and Wellness Applications for Mental Health*. APA.org.
 - Arias, D., et al. (2024). Quantifying the global burden of mental disorders and their economic value. *eClinicalMedicine*.
 - Baier, A. L., et al. (2020). Therapeutic alliance as a mediator of change. *Clinical Psychology Review*.
 - Bouguettaya, A., et al. (2025). Racial bias in AI-mediated psychiatric diagnosis. *NPJ Digital Medicine*.
 - De Freitas, J., & Cohen, I. G. (2024). The health risks of generative AI-based wellness apps. *Nature Medicine*.
-- Dohnány, S., et al. (2025). Technological folie à deux. *arXiv*.
+- Dohnány, S., Kurth-Nelson, Z., Spens, E., Luettgau, L., Reid, A., Gabriel, I., Summerfield, C., Shanahan, M., & Nour, M. M. (2025). *Technological folie à deux: Feedback loops between AI chatbots and mental illness* (arXiv:2507.19218). arXiv. https://doi.org/10.48550/arXiv.2507.19218
 - Figueroa, C. A., et al. (2025). Advancing youth co-design of ethical guidelines. *Nature Mental Health*.
 - Head, K. (2025). Minds in crisis. *Journal of Mental Health & Clinical Psychology*.
 - Iftikhar, Z., et al. (2025). How LLM Counselors Violate Ethical Standards. *AAAI/ACM AIES*.
 - Laestadius, L., et al. (2022). Too human and not human enough. *New Media & Society*.
 - Luo, X., et al. (2025). “Shaping ChatGPT into my Digital Therapist”. *Digital Health*.
-- Malmqvist, L. (2025). Sycophancy in large language models. *Springer*.
+- Malmqvist, L. (2025). Sycophancy in large language models: Causes and mitigations. In A. K. Sangaiah, M. Sheng, & M. A. Jan (Eds.), *Lecture notes in networks and systems* (Vol. 932, pp. 47–58). Springer. https://doi.org/10.1007/978-3-031-92611-2_5
 - Malouin-Lachance, A., et al. (2025). Does the digital therapeutic alliance exist? *JMIR Mental Health*.
 - Moore, J., et al. (2025). Expressing stigma and inappropriate responses. *ACM FAccT*.
-- Morrin, H., et al. (2025). Delusions by design? *PsyArXiv*.
+- Morrin, H., Nicholls, L., Levin, M., Yiend, J., Iyengar, U., DelGuidice, F., Bhattacharyya, S., MacCabe, J., Tognin, S., Twumasi, R., Alderson-Day, B., & Pollak, T. (2025). *Delusions by design? How everyday AIs might be fuelling psychosis (and what can be done about it)* [Preprint]. PsyArXiv. https://doi.org/10.31234/osf.io/cmy7n_v5
 - Rathje, S., et al. (2024). Sycophantic AI increases attitude extremity. *PsyArXiv*.
 - Robb, M. B., & Mann, S. (2025). *Talk, trust, and trade-offs*. Common Sense Media.
 - Rousmaniere, T., et al. (2025). Large language models as mental health resources. *Practice Innovations*.
-- Sharma, M., et al. (2025). Towards understanding sycophancy. *arXiv*.
+- Sharma, M., Tong, M., Korbak, T., Duvenaud, D., Askell, A., Bowman, S. R., Cheng, N., Durmus, E., Hatfield-Dodds, Z., Johnston, S. R., Kravec, S., Maxwell, T., McCandlish, S., Ndousse, K., Rausch, O., Schiefer, N., Yan, D., Zhang, M., & Perez, E. (2025). *Towards understanding sycophancy in language models* (arXiv:2310.13548). arXiv.
 - Smith, M. G., et al. (2025). Can generative AI chatbots emulate human connection? *Perspectives on Psychological Science*.
 - Stade, E. C., et al. (2025). READI: A proposed framework. *Technology, Mind, and Behavior*.
-- Sun, Y., & Wang, T. (2025). Be friendly, not friends. *arXiv*.
+- Sun, Y., & Wang, T. (2025). *Be friendly, not friends: How LLM sycophancy shapes user trust* (arXiv:2502.10844). arXiv. https://doi.org/10.48550/arXiv.2502.10844
 
 ## Relazioni
 - Documenti e concetti collegati: [[single-person-echo-chambers]], [[mental-privacy-in-clinical-ai]], [[sycophantic-mirroring]], [[simulated-therapeutic-alliance]], [[artificial-intimacy]], [[emotional-infrastructure]], [[uso-problematico-chatbot-ai]], [[ai-psychosis]], [[calibrated-mismatches]], [[anthropomorphism-in-ai]], [[software-as-a-medical-device-salute-mentale]], [[pediatric-ai-bias-and-vulnerabilities]], [[deployment-readiness-checklist-mental-health-ai]], [[human-oversight-and-liability-in-clinical-ai]], [[behavsci-16-00676]]

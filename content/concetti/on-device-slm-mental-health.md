@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [privacy, large-language-models, ai-safety, gdpr]
 tipo_fonte: scientifica
 source_papers: ["2510.03913v1.pdf"]
 ---

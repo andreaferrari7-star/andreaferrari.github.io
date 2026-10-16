@@ -61,9 +61,9 @@ Sviluppato dall'ISPOR Working Group on Generative AI, ELEVATE-GenAI introduce un
 *   **Bias Algoritmico:** Monitoraggio delle disparità nei dataset.
 *   **Living Guidelines:** Natura dinamica dei framework per adattarsi all'evoluzione dei modelli.
 
-**Riferimenti Bibliografici:**
-
-*   Riferimenti completi inclusi nel documento originale citato nei metadati (`source_papers`).
+## Riferimenti Bibliografici
+*   Huo, B., Collins, G. S., Chartash, D., Thirunavukarasu, A. J., Flanagin, A., Iorio, A., Cacciamani, G., et al. (2025). Reporting guideline for chatbot health advice studies: The CHART statement. *JAMA Network Open*, *8*(8), e2530220. https://doi.org/10.1001/jamanetworkopen.2025.30220
+*   Fleurence, R. L., Dawoud, D., Bian, J., Higashi, M. K., Wang, X., Xu, H., Chhatwal, J., & Ayer, T. (2025). ELEVATE-GenAI: Reporting guidelines for the use of large language models in health economics and outcomes research: An ISPOR Working Group report. *Value in Health*, *28*(11), 1611–1625. https://doi.org/10.1016/j.jval.2025.06.018
 
 ## Relazioni
 *   [[chart2025-1|CHART Statement 2025]]

@@ -49,7 +49,7 @@ flowchart TD
 - La fluidità diagnostica in psicologia rende insidiosa la frontiera applicativa: assistenti conversazionali inizialmente sviluppati per il benessere generale (es. mindfulness o gestione dello stress) possono intercettare marker prodromici a disturbi depressivi maggiori o attacchi di panico; in assenza di perimetri espliciti, la dottrina prudenziale impone di considerare tali strumenti come SaMD non appena formulano raccomandazioni su costrutti disfunzionali specifici (Garante Privacy, 2023; 2025).
 - L'impiego o la somministrazione clinica da parte dello psicologo di chatbot terapeutici privi di marcatura CE viola contemporaneamente il Codice Deontologico (Artt. 3 e 5: tutela della persona e divieto di strumenti non validati) e l'Art. 22 del GDPR, che vieta decisioni cliniche automatizzate prive di un effettivo controllo umano (*Human-in-the-Loop*) (Consiglio di Stato, 2024; CNOP, 2024).
 
-**Riferimenti Bibliografici:**
+## Riferimenti Bibliografici
 - Consiglio di Stato. (2024). *Sentenza n. 10376/2024 del 24 dicembre 2024 (Annullamento referendum revisione Codice Deontologico Psicologi)*. Roma: Consiglio di Stato.
 - Consiglio Nazionale Ordine Psicologi [CNOP]. (2024). *Codice Deontologico degli Psicologi Italiani (Testo vigente 2013)*. Roma: CNOP. https://www.psy.it/
 - Garante per la Protezione dei Dati Personali. (2023). *Sanità: decalogo del Garante Privacy sull'uso dell'intelligenza artificiale* (Provvedimento n. 9937730). Roma: Garante Privacy. https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/9937730

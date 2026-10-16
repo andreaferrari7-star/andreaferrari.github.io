@@ -29,7 +29,7 @@ flowchart LR
 - **Mitigazione tramite Prompting Progressivo:** Il passaggio da prompt zero-shot generici a strategie di prompting guidato *one-shot* e *few-shot* (incorporanti esempi e definizioni analitiche delle ancore Likert) riduce in modo tangibile la dispersione e la deriva semantica nei modelli (Kumar et al., 2025).
 - **Implicazioni per la Sicurezza e la Non-Discriminazione:** La deriva semantica non controllata amplifica bias preesistenti e disparità nell'accesso alle cure e nella qualità dell'assistenza psicologica digitale (Sogancioglu et al., 2024; Tripathi et al., 2024).
 
-**Riferimenti Bibliografici:**
+## Riferimenti Bibliografici
 - Kumar, V., Rajawat, P. S., & Ntoutsi, E. (2025). Mitigating semantic drift: Evaluating LLMs’ efficacy in psychotherapy through MI dialogue summarization leveraging MITI code. In *2025 International Joint Conference on Neural Networks (IJCNN)*, pp. 1–8. arXiv preprint arXiv:2511.22818v1.
 - Moyers, T. B., Rowell, L. N., Manuel, J. K., Ernst, D., & Houck, J. M. (2016). The Motivational Interviewing Treatment Integrity code (MITI 4): Rationale, preliminary reliability and validity. *Journal of Substance Abuse Treatment*, 65, 36–42.
 - Liu, N. F., Lin, K., Hewitt, J., Paranjape, A., Bevilacqua, M., Petroni, F., & Liang, P. (2024). Lost in the middle: How language models use long contexts. *Transactions of the Association for Computational Linguistics*, 12, 157–173.

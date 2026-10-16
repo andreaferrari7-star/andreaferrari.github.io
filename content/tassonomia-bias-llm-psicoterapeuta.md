@@ -38,7 +38,7 @@ source_papers: ["report_bias_llm_psicoterapia.pdf", "2509.13324v3.pdf", "2607.25
 ### Mitigazioni architetturali trasversali
 Le strategie di sicurezza indipendenti dal singolo bias restano: **RAG vincolato a DSM-5/linee guida**, **Chain-of-Thought + Self-Verification**, **HITL / Tiered Oversight**, **bypass deterministico per crisi** (suicidio/abuso/psicosi attiva), **audit trail immutabile** (Apex Lab, 2026).
 
-**Riferimenti Bibliografici:**
+## Riferimenti Bibliografici
 - Apex Lab. (2026). *Mappatura dei Bias Algoritmici e Linee Guida di Safety nel Decision-Making Psicoterapeutico assistito da LLM*. Report Tecnico.
 - Balan, R., & Gumpel, T. P. (2025). ChatGPT Clinical Use in Mental Health Care: Scoping Review of Empirical Evidence. *JMIR Mental Health*, 12, e81204. https://doi.org/10.2196/81204
 - Bai, X., Wang, A., Sucholutsky, I., & Griffiths, T. L. (2025). Explicitly unbiased large language models still form biased associations. *PNAS*, 122(8), e2416228122.

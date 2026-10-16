@@ -4,6 +4,8 @@ tipo_fonte: scientifica
 source_papers: ["MI-CLEAR-LLM_2025.pdf"]
 ---
 
+# MI-CLEAR-LLM: Aggiornamento 2025 per gli Studi di Accuratezza degli LLM
+
 ## Definizione Operativa
 - Il **MI-CLEAR-LLM (2025 Updates)** è una linea guida metodologica standardizzata per garantire trasparenza, completezza e riproducibilità negli studi clinici che valutano l'accuratezza diagnostica di LLM e LMM in sanità.
 - **Utilità CBT / Applicativa:** Fornisce un framework rigoroso per valutare l'interazione con LLM via API e modelli locali, prevenendo il data leakage e documentando la stocasticità dei modelli, essenziale per la validazione clinica e regolatoria.

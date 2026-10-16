@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [formazione-clinica, riunione, large-language-models, generative-ai]
 tipo_fonte: interna
 data: 2026-07-17
 source_papers: ["07-17 Riunione_ Corso di Formazione sull'IA in Psicologia e Utilizzo Clinico.txt"]

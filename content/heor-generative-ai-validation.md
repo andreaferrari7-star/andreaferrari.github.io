@@ -101,7 +101,7 @@ Nell'applicazione dell'IA all'economia sanitaria, l'iperconfidenza (*overconfide
 2. **Soglie di Revisione Dinamica:** Nei protocolli ibridi uomo-macchina, gli abstract o i blocchi di codice la cui confidenza cade al di sotto di una soglia prefissata (es. $< 0.90$) vengono deviati automaticamente a un revisore umano esperto, garantendo la sicurezza senza annullare i guadagni di efficienza.
 3. **Tutela dei Dati Tramite Dati Fittizi (*Dummy Data*):** Per validare pipeline di simulazione economica su LLM commerciali senza violare le normative sulla privacy (GDPR/HIPAA), è buona prassi sostituire i dati reali sensibili con dataset fittizi di pari struttura durante la fase di programmazione e debug del codice.
 
-**Riferimenti Bibliografici:**
+## Riferimenti Bibliografici
 - Fleurence, R. L., Dawoud, D., Bian, J., Higashi, M. K., Wang, X., Xu, H., Chhatwal, J., & Ayer, T. (2025). ELEVATE-GenAI: Reporting Guidelines for the Use of Large Language Models in Health Economics and Outcomes Research: An ISPOR Working Group Report. *Value in Health*, 28(11), 1611–1625. https://doi.org/10.1016/j.jval.2025.06.018
 - Reason, T., Rawlinson, W., Langham, J., Gimblett, A., Malcolm, B., & Klijn, S. (2024). Artificial intelligence to automate health economic modelling: a case study to evaluate the potential application of large language models. *PharmacoEconomics - Open*, 8(2), 191–203.
 - Robinson, A., Thorne, W., Wu, B. P., et al. (2023). Bio-sieve: Exploring instruction tuning large language models for systematic review automation. *arXiv preprint arXiv:2308.06610*.

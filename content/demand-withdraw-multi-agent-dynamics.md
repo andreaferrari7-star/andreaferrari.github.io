@@ -56,7 +56,7 @@ Per garantire un valore pedagogico ottimale ed evitare stalli o derive incontrol
 
 ---
 
-**Riferimenti Bibliografici:**
+## Riferimenti Bibliografici
 - Wang, C., Chen, A., Bao, C., Jin, S., Swartz, H., Wu, T., Kraut, R. E., & Zhu, H. (2026). Simulating Couple Conflict: Designing A Multi-Agent System for Therapy Training and Practice. *arXiv preprint arXiv:2601.10970v2 [cs.CY]*, 1–21. https://doi.org/10.48550/arXiv.2601.10970
 - Christensen, A., & Heavey, C. L. (1990). Gender and social structure in the demand/withdraw pattern of marital conflict. *Journal of Personality and Social Psychology*, 59(1), 73–81.
 - Christensen, A., Atkins, D. C., Berns, S., Wheeler, J., Baucom, D. H., & Simpson, L. E. (2004). Traditional versus integrative behavioral couple therapy: Longitudinal results from a randomized clinical trial. *Journal of Consulting and Clinical Psychology*, 72(2), 176–191.

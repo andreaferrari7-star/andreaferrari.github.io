@@ -70,7 +70,7 @@ Quando integrati responsabilmente, gli oggetti di confine potenziati da LLM prom
 
 ---
 
-**Riferimenti Bibliografici:**
+## Riferimenti Bibliografici
 - Star, S. L., & Griesemer, J. R. (1989). Institutional ecology, 'translations' and boundary objects: Amateurs and professionals in Berkeley's Museum of Vertebrate Zoology, 1907-39. *Social Studies of Science*, 19(3), 387–420.
 - Trompette, P., & Vinck, D. (2009). Revisiting the notion of boundary object. *Revue d’anthropologie des connaissances*, 3(1), 3–25.
 - Quan, J., Li, Z., Zhu, T. Q., Li, Y., Wang, B., Pratt, W., & Gao, N. (2025). Relational Mediators: LLM Chatbots as Boundary Objects in Psychotherapy. *arXiv preprint arXiv:2512.22462v1 [cs.HC]*, 1–35.

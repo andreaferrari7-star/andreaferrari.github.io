@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [human-in-the-loop, riunione, supervisione, cbt]
 tipo_fonte: [interna, evento]
 source_papers: ["04-20 Tavola rotonda_ Integrazione dell’IA in psicoterapia — governance, co‑ragionamento e modelli ibridi.txt", "05-08 Riunione_ Sviluppo Knowledge Base AI, Etica e Applicazioni Cliniche.txt"]
 ---

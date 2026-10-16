@@ -77,8 +77,8 @@ flowchart TD
     ModulatedResponse -->|GPT-3.5 / Llama| Inconsistent["Incoerenza Comportamentale: Oscillazione tra passività e ricaduta in consigli diretti"]
 ```
 
-**Riferimenti Bibliografici:**
-- Chiu, K., et al. (2024). *Behavioral Assessment of LLM Therapists*. [Studio fondamentale del framework BOLT].
+## Riferimenti Bibliografici
+- Chiu, Y. Y., Sharma, A., Lin, I. W., & Althoff, T. (2024). *A computational framework for behavioral assessment of LLM therapists* (arXiv:2401.00820). arXiv.
 
 ## Relazioni
 - [[sunto-articoli]]

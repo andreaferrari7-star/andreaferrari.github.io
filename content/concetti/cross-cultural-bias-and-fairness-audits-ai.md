@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [nlp, machine-learning, systematic-review]
 tipo_fonte: scientifica
 source_papers: ["ai-v5-e84305.pdf"]
 ---

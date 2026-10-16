@@ -4,6 +4,8 @@ tipo_fonte: scientifica
 source_papers: ["medinform-v13-e64963.pdf"]
 ---
 
+# Meta-Analisi Accuratezza Diagnostica: Medici vs LLM
+
 ## Definizione Operativa
 - Prima revisione sistematica e meta-analisi globale (PRISMA-DTA) che confronta l'accuratezza diagnostica di LLM e medici umani su 30 studi clinici.
 - **Utilità CBT / Applicativa:** Fornisce una metrica di base sull'affidabilità degli LLM nel triage e nella diagnostica, evidenziando il loro ruolo potenziale come assistenti nel modello di collaborazione "centauro".

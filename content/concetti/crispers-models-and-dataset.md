@@ -49,7 +49,7 @@ flowchart TD
   - *Valutazione Pointwise Interattiva:* Supera sistematicamente GPT-4o, GLM-4 e Qwen-2.5-72B/14B in tutte e 6 le dimensioni cliniche (Sensatezza, Specificità, Supporto emotivo, Utilità, Affidabilità e Qualità complessiva).
   - *Trial Clinico di Intervento (PANAS su 90 soggetti):* Produce un incremento dell'affetto positivo del **+48.77%** ($p = 5.40 \times 10^{-8}$) e un abbattimento dell'affetto negativo del **-44.01%** ($p = 1.07 \times 10^{-10}$), distaccando in modo statisticamente significativo ($p < 0.05$ su Tukey HSD) il modello maestro GPT-4o e l'LLM clinico commerciale Emohaa (Zhou et al., 2025).
 
-**Riferimenti Bibliografici:**
+## Riferimenti Bibliografici
 - Zhou, J., Chen, Y., Yin, J., Huang, Y., Shi, Y., Zhang, X., Peng, L., Zhang, R., Lv, T., Hu, Z., Wang, H., & Huang, M. (2025). CRISP: Cognitive Restructuring of Negative Thoughts through Multi-turn Supportive Dialogues. *arXiv preprint arXiv:2504.17238*. https://arxiv.org/abs/2504.17238
 - Watson, D., Clark, L. A., & Tellegen, A. (1988). Development and validation of brief measures of positive and negative affect: The PANAS scales. *Journal of Personality and Social Psychology*, 54(6), 1063–1070.
 

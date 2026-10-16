@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [mental-health-chatbots, reporting-guidelines, privacy, ai-safety]
 tipo_fonte: scientifica
 source_papers: ["11920_2026_Article_1690.pdf"]
 ---

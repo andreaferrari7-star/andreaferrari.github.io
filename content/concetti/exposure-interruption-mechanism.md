@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [ptsd, large-language-models, ai-safety, psychotherapy]
 tipo_fonte: scientifica
 source_papers: ["2604.23445v1.pdf"]
 ---

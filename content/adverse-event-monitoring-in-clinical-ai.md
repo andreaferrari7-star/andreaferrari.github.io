@@ -130,13 +130,13 @@ Per colmare il divario evidenziato da Olisaeloka et al. (2026), i futuri trial c
    - **Linee Guida CHART ed ELEVATE:** Dichiarazione esplicita degli eventi avversi nei report scientifici;
    - **Normative SaMD / FDA:** Istituzione di registri di incidenti per il monitoraggio post-commercializzazione (*Post-Market Surveillance*).
 
-**Riferimenti Bibliografici:**
+## Riferimenti Bibliografici
 - Olisaeloka et al. (2026). *Safety Mechanisms and Risk Mitigation in Generative AI Mental Health Chatbots - A Scoping Review*.
-- Heinz et al. (2025), citato in Olisaeloka et al. (2026).
-- Campellone et al. (2025), citato in Olisaeloka et al. (2026).
-- Guo et al. (2024), citato in Olisaeloka et al. (2026).
-- Liu et al. (2024), citato in Olisaeloka et al. (2026).
-- Ng et al. (2023), citato in Olisaeloka et al. (2026).
+- Heinz, M. V., Mackin, D. M., Trudeau, B. M., Bhattacharya, S., Wang, Y., Banta, H. A., Jewett, A. D., Salzhauer, A. J., Griffin, T. Z., & Jacobson, N. C. (2025). Randomized trial of a generative AI chatbot for mental health treatment. *NEJM AI*, *2*(4), AIoa2400802.
+- Campellone, T. R., Flom, M., Montgomery, R. M., Bullard, L., Pirner, M. C., Pavez, A., et al. (2025). Safety and user experience of a generative artificial intelligence digital mental health intervention: Exploratory randomized controlled trial. *Journal of Medical Internet Research*, *27*, e67365.
+- Guo, Z., Lai, A., Deng, Z., & Li, K. (2024). Evaluating the feasibility and acceptability of a GPT-based chatbot for depression screening: A mixed-methods study. In X. Xie, I. Styles, G. Powathil, & M. Ceccarelli (Eds.), *Artificial intelligence in healthcare* (pp. 249–263). Springer Nature Switzerland.
+- Liu, T., Zhao, H., Liu, Y., Wang, X., & Peng, Z. (2024). *ComPeer: A generative conversational agent for proactive peer support* (arXiv:2407.18064). arXiv. https://doi.org/10.48550/arXiv.2407.18064
+- Ng, S. H., Soon, L.-K., & Su, T. T. (2023). Emotion-aware chatbot with cultural adaptation for mitigating work-related stress. In *Proceedings of the Asian HCI Symposium 2023* (pp. 41–50). Association for Computing Machinery. https://doi.org/10.1145/3604571.3604578
 
 ## Relazioni
 - [[safety-mechanisms-ai-chatbots|Safety Mechanisms and Risk Mitigation in Generative AI Mental Health Chatbots (Olisaeloka et al., 2026)]]

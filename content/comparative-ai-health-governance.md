@@ -96,7 +96,7 @@ Nonostante le profonde divergenze culturali e normative, le principali organizza
 2. **UNESCO (2021 - *Recommendation on the Ethics of AI*):** Richiede a tutti gli Stati membri di vietare l'impiego di IA che violi i diritti umani e di impedire che logiche puramente finanziarie prevalgano sulla dignità del paziente.
 3. **World Medical Association (WMA, 2019 - *Statement on Augmented Intelligence*):** Ribadisce che l'IA in sanità deve essere concepita come "Intelligenza Aumentata" al servizio del medico, senza mai compromettere il nucleo deontologico della relazione di cura.
 
-**Riferimenti Bibliografici:**
+## Riferimenti Bibliografici
 - Montanari Vergallo, G., Campanozzi, L. L., Gulino, M., Bassis, L., Ricci, P., Zaami, S., Marinelli, S., Tambone, V., & Frati, P. (2025). How Could Artificial Intelligence Change the Doctor–Patient Relationship? A Medical Ethics Perspective. *Healthcare*, 13(18), 2340. https://doi.org/10.3390/healthcare13182340
 - American Medical Association [AMA]. (2024). *Augmented Intelligence Development, Deployment, and Use in Health Care*. AMA Principles.
 - European Parliament and Council of the European Union. (2016). Regulation (EU) 2016/679 (General Data Protection Regulation). *Official Journal of the European Union*, L119, 1–88.

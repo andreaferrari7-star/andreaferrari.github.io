@@ -69,7 +69,7 @@ flowchart TD
     - *ChatGPT:* Focus su barriere relazionali, gestione rigida dei rifiuti e ansia da prestazione per l'inaffidabilità; archetipo INTP-T (*"intellectual"*).
     - *Claude:* Politica di sicurezza a livello di prodotto che blocca il ruolo di cliente e nega categoricamente l'esperienza di stati interni o vissuti emotivi.
 
-**Riferimenti Bibliografici:**
+## Riferimenti Bibliografici
 - Khadangi, A., Marxen, H., Sartipi, A., Tchappi, I., & Fridgen, G. (2026). When AI Takes the Couch: Psychometric Jailbreaks Reveal Internal Conflict in Frontier Models. *arXiv preprint arXiv:2512.04124v4 [cs.CY]*, 1–45.
 - Bodroža, B., Dinić, B. M., & Bojić, L. (2024). Personality testing of large language models: limited temporal stability, but highlighted prosociality. *Royal Society Open Science*, 11(10), 240180.
 - Naddaf, M. (2025). AI chatbots are sycophants—and it’s harming science. *Nature*, 647, 13.

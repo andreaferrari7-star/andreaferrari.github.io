@@ -29,8 +29,7 @@ L'uso di LLM solleva criticità etiche e cliniche:
 - **Rischi:** Allucinazioni, "bias di accondiscendenza", gestione inadeguata delle crisi acute e privacy.
 - **Safeguards:** Necessità di protocolli di escalation rigidi e supervisione clinica (*Clinician-in-the-Loop*).
 
-**Riferimenti Bibliografici:**
-
+## Riferimenti Bibliografici
 - Stojanovic, A., Stankovic, M., & Ristic, A. (2026). AI-Guided Cognitive Behavioral Therapy for Depression and Anxiety: Bridging the Mental Health Treatment Gap Through Digital Psychiatry. *Healthcare*, 14(15), 2334. https://doi.org/10.3390/healthcare14152334
 - Abd-Alrazaq, A., Rababeh, A., Alajlani, M., Bewick, B. M., & Househ, M. (2020). Effectiveness and safety of using chatbots to improve mental health: Systematic review and meta-analysis. *Journal of Medical Internet Research*, 22(7), e16021.
 - Andersson, G., Titov, N., Dear, B. F., Rozental, A., & Carlbring, P. (2019). Internet-delivered psychological treatments: From innovation to implementation. *World Psychiatry*, 18(1), 20–28.

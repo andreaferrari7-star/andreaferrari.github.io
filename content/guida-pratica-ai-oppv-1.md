@@ -42,11 +42,11 @@ Il documento analizza il quadro normativo di riferimento su quattro livelli (Deo
 La guida include inoltre un vademecum operativo per le piattaforme (Zoom, Teams, Meet, LLM, strumenti di trascrizione) con l'imposizione di configurazioni di *hardening* specifico per mantenere la conformità.
 
 ### Riferimenti Bibliografici
-*   Ordine delle Psicologhe e degli Psicologi del Veneto (OPPV), Gennaio 2026, *Guida Operativa all'Utilizzo dell'AI nella Pratica Professionale* (Versione 1 e 1.1).
-*   Regolamento (UE) 2016/679 (GDPR).
-*   Regolamento (UE) 2024/1689 (EU AI Act).
-*   Legge 23 settembre 2025 n. 132.
-*   Regolamento (UE) 2025/327 (EHDS).
+*   Ordine delle Psicologhe e degli Psicologi del Veneto. (2026). *Guida operativa all'utilizzo dell'AI nella pratica professionale* (Versioni 1 e 1.1).
+*   Regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio del 27 aprile 2016 relativo alla protezione delle persone fisiche con riguardo al trattamento dei dati personali (Regolamento generale sulla protezione dei dati). (2016). *Gazzetta ufficiale dell'Unione europea*, L 119, 1–88.
+*   Regolamento (UE) 2024/1689 del Parlamento europeo e del Consiglio del 13 giugno 2024 che stabilisce regole armonizzate sull'intelligenza artificiale (AI Act). (2024). *Gazzetta ufficiale dell'Unione europea*, L 2024/1689.
+*   Legge 23 settembre 2025, n. 132. Disposizioni e deleghe al Governo in materia di intelligenza artificiale. (2025). *Gazzetta Ufficiale della Repubblica Italiana*.
+*   Regolamento (UE) 2025/327 del Parlamento europeo e del Consiglio dell'11 febbraio 2025 sullo spazio europeo dei dati sanitari (EHDS). (2025). *Gazzetta ufficiale dell'Unione europea*.
 
 ## Relazioni
 - [[quattro-condizioni-liceita-ia-psicologia|Le Quattro Condizioni di Liceità e Correttezza Deontologica per l'IA in Psicologia]]

@@ -4,6 +4,8 @@ tipo_fonte: [scientifica, interna]
 source_papers: ["report_bias_llm_psicoterapia.pdf"]
 ---
 
+# Overfitting Protocollare
+
 ## Definizione Operativa
 - Tendenza degli LLM a generare risposte cliniche formalmente impeccabili ma prive di efficacia applicativa e sensibilità situazionale (Apex Lab, 2026).
 - **Utilità CBT / Applicativa:** Avverte il professionista che l'accuratezza linguistica non equivale alla competenza terapeutica, fondamentale per evitare interventi fuori timing o inefficaci.

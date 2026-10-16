@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [algorithmic-bias, machine-learning, generative-ai, conversational-agents]
 tipo_fonte: scientifica
 source_papers: ["10.1177_00469580261438322.pdf"]
 ---

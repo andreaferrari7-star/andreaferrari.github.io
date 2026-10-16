@@ -14,7 +14,7 @@ source_papers: ["10.1177_18911803261439274.pdf"]
 - L'attribuzione rigorosa degli esiti clinici alla tecnologia richiede di escludere interventi in cui l'IA è confinata a ruoli periferici (es. interfacce utente, promemoria, raccolta passiva di dati o repository psicoeducativi statici) (Soni et al., 2026).
 - Gli agenti terapeutici attivi basati su logiche adattive, NLP e modelli generativi consentono di modulare in tempo reale il feedback su distorsioni cognitive, schemi disfunzionali e strategie di regolazione emotiva (Soni et al., 2026; Li et al., 2023b).
 
-**Riferimenti Bibliografici:**
+## Riferimenti Bibliografici
 - Soni, A. K., Singh, V. K., & Kumar, M. (2026). Protocol: Effectiveness of Artificial Intelligence-Based Psychotherapy in Treating Mental Disorders. *Campbell Systematic Reviews*, 22(2), 1–19. https://doi.org/10.1177/18911803261439274
 
 ## Relazioni

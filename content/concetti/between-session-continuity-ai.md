@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [ai-safety, psychotherapy, cbt, anxiety]
 tipo_fonte: scientifica
 source_papers: ["2512.22462v1.pdf"]
 ---

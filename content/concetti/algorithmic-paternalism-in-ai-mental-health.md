@@ -32,22 +32,21 @@ graph LR
 Nella revisione sistematica di Kandeel et al. (2026) e nella letteratura empirica correlata emergono pattern comportamentali critici:
 
 1. **Affidamento alle Decisioni dell'Algoritmo**: Kandeel et al. (2026), citando Darcy et al. (2021), riportano che quasi il 25% dei pazienti si fida delle decisioni dell'IA più che di quelle dei clinici. Nello stesso articolo il dato compare anche in forma opposta (circa il 25% dei pazienti dichiara di non potersi fidare dell'IA per le decisioni), quindi va controllato sullo studio originale [da verificare].
-2. **Erosione della Sicurezza Diagnostica dei Clinici**: Gli specialisti manifestano una riduzione della fiducia nel proprio giudizio clinico intuitivo (*reduced diagnostic confidence*) quando l'IA diverge dalla loro valutazione (Topol, 2019).
-3. **Paternalismo Predittivo dai Wearable**: Notifiche biometriche predittive possono indurre profezie che si auto-avverano, portando il paziente a conformare i propri stati soggettivi all'indicatore della macchina.
+2. **Erosione della Sicurezza Diagnostica dei Clinici**: una parte degli specializzandi in psichiatria riferisce una minore fiducia nelle proprie diagnosi (*reduced diagnostic confidence*) quando usa strumenti di IA (Kandeel et al., 2026, che citano Topol, 2019).
+3. **Paternalismo Predittivo dai Wearable**: Notifiche biometriche predittive possono indurre profezie che si auto-avverano, portando il paziente a conformare i propri stati soggettivi all'indicatore della macchina [da verificare].
 
 ### Il Divario di Alfabetizzazione Sanitaria Digitale
-Il rischio è amplificato dalle disuguaglianze socio-sanitarie (Dzangare & Gulu, 2025):
-- **Popolazione Anziana**: 60% dei pazienti fatica a distinguere consigli umani da IA.
-- **Basso Livello di Scolarizzazione**: 40% degli utenti non decodifica la spiegabilità (XAI), accettando acriticamente il software.
+Il rischio è amplificato dalle disuguaglianze socio-sanitarie (Kandeel et al., 2026):
+- **Popolazione anziana e a basso reddito**: circa il 30% delle persone a basso reddito non possiede uno smartphone e le persone anziane aderiscono meno agli strumenti di IA per la salute mentale (Kandeel et al., 2026).
+- **Spiegabilità poco accessibile**: il 40% dei pazienti in condizioni di povertà trova difficili le spiegazioni tecniche dei sistemi di IA (Dzangare & Gulu, 2025, citati in Kandeel et al., 2026).
 
-**Riferimenti Bibliografici:**
-
-*   Kandeel et al. (2026)
-*   Topol, E. (2019). *Deep Medicine*.
-*   Darcy, A., et al. (2021).
-*   Dzangare, T., & Gulu, M. (2025).
-*   Arya, V., et al. (2020).
-*   Torous, J., et al. (2021).
+## Riferimenti Bibliografici
+*   Kandeel, M. E., Abo Hamza, E. G., Abouahmed, A., AbdelAziz, G. M., Hashish, A., Abo El Wafa, T., Khalil, A., & Eldakak, A. (2026). AI applications integrating legal and regulatory perspectives in mental health: Systematic review. *JMIR AI*, *5*, e84305. https://doi.org/10.2196/84305
+*   Topol, E. J. (2019). *Deep medicine: How artificial intelligence can make healthcare human again*. Basic Books.
+*   Darcy, A., Daniels, J., Salinger, D., Wicks, P., & Robinson, A. (2021). Evidence of human-level bonds established with a digital conversational agent: Cross-sectional, retrospective observational study. *JMIR Formative Research*, *5*(5), e27868. https://doi.org/10.2196/27868
+*   Dzangare, G., & Gulu, T. A. (2025). Adopting artificial intelligence for health information literacy: A literature review. *Information Development*, *41*(3), 576–591. https://doi.org/10.1177/02666669251314839
+*   Arya, V., Bellamy, R. K. E., Chen, P.-Y., et al. (2020). AI Explainability 360: An extensible toolkit for understanding data and machine learning models. *Journal of Machine Learning Research*, *21*, 1–6.
+*   Torous, J., Bucci, S., Bell, I. H., et al. (2021). The growing field of digital psychiatry: Current evidence and the future of apps, social media, chatbots, and virtual reality. *World Psychiatry*, *20*(3), 318–335. https://doi.org/10.1002/wps.20883
 
 ## Relazioni
 

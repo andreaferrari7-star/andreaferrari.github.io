@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [psychotherapy, riunione, large-language-models, formazione-clinica]
 tipo_fonte: [interna, evento]
 source_papers: ["07-10 Riunione_ Test e Valutazione di “Libet Prime” (Tutor AI per Libet_CBT), Trainer Simulator e Piano Operativo.txt", "04-20 Tavola rotonda_ Integrazione dell’IA in psicoterapia — governance, co‑ragionamento e modelli ibridi.txt"]
 ---

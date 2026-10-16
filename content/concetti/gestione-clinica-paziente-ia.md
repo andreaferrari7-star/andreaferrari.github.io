@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [large-language-models, mental-health-chatbots, formazione-clinica, riunione]
 tipo_fonte: interna
 source_papers: ["07-17 Riunione_ Corso di Formazione sull'IA in Psicologia e Utilizzo Clinico.txt"]
 ---
@@ -94,3 +94,4 @@ Sussiste una lacuna nella letteratura clinica e nelle linee guida deontologiche 
 - [[clinical-fidelity-assessment]]
 - [[simulazione-pazienti-ai]]
 - [[ai-research-ethics]]
+- [[upheal-webinar-ai-pazienti-2026]]

@@ -55,9 +55,8 @@ Il passaggio concettuale da "validazione" a **valutazione continua** poggia su q
 *   **Calibrazione:** La gerarchia (da *in-the-large* a *forte*) definisce la qualità del rischio. L'uso di *Calibration Plots* con curve flessibili è lo standard aureo.
 *   **Utilità Clinica:** La DCA misura il beneficio netto rispetto al "Tratta Tutti" o "Nessuno".
 
-**Riferimenti Bibliografici:**
-
-*   Collins, G. S., et al. (2024). "TRIPOD+AI: A Reporting Guideline for Prediction Models in Health Care". *BMJ*.
+## Riferimenti Bibliografici
+*   Collins, G. S., Moons, K. G. M., Dhiman, P., Riley, R. D., Beam, A. L., Van Calster, B., Ghassemi, M., Liu, X., Reitsma, J. B., van Smeden, M., Boulesteix, A.-L., Camaradou, J. C., Celi, L. A., Denaxas, S., Denniston, A. K., Glocker, B., Golub, R. M., Harvey, H., Heinze, G., . . . Logullo, P. (2024). TRIPOD+AI statement: Updated guidance for reporting clinical prediction models that use regression or machine learning methods. *BMJ*, *385*, Article e078378. https://doi.org/10.1136/bmj-2023-078378
 *   Van Calster, B., et al. (2023). "There is no such thing as a validated prediction model". *BMC Medicine*.
 *   Vickers, A. J., & Elkin, E. B. (2006). "Decision curve analysis: a novel method for evaluating prediction models". *Medical Decision Making*.
 

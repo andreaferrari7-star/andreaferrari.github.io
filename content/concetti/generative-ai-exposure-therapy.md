@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [ptsd, generative-ai, psychotherapy]
 tipo_fonte: scientifica
 source_papers: ["2505.20796v1.pdf"]
 ---

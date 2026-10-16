@@ -47,13 +47,13 @@ La rassegna analizza le linee guida internazionali per la trasparenza degli LLM 
 *   **REFINE Statement (2026)**: Integrità dei Foundation Models nella ricerca clinica.
 
 ### Riferimenti Bibliografici
-*   Boit, A., & Patil, A. (2025). *MIND-SAFE Framework*.
-*   Cabrera Lozoya, et al. (2025). *Client101: Simulazione Pazienti Virtuali*.
-*   Chen, Lu, & Wang (2023). *Diagnosis of Thought (DoT)*, EMNLP.
-*   Chiu, et al. (2024). *BOLT Behavioral Assessment Framework*.
-*   Filienko, et al. (2024). *PST and Prompting Experiment*.
-*   Grabb (2023). *Prompting in Clinical Psychiatry*.
-*   Meskó, et al. (2023). *AI Literacy in Healthcare*.
+*   Boit, S., & Patil, R. (2025). A prompt engineering framework for large language model-based mental health chatbots: MIND-SAFE. *JMIR Mental Health*.
+*   Cabrera Lozoya, D., Conway, M., De Duro, E. S., et al. (2025). Leveraging large language models for simulated psychotherapy client interactions: Development and usability study of Client 101. *JMIR Medical Education*, *11*(1), e68056. https://doi.org/10.2196/68056
+*   Chen, Z., Lu, Y., & Wang, W. Y. (2023). Empowering psychotherapy with large language models: Cognitive distortion detection through diagnosis of thought prompting. In *Findings of the Association for Computational Linguistics: EMNLP 2023*. Association for Computational Linguistics.
+*   Chiu, Y. Y., Sharma, A., Lin, I. W., & Althoff, T. (2024). *A computational framework for behavioral assessment of LLM therapists* (arXiv:2401.00820). arXiv.
+*   Filienko, D., Wang, Y., El Jazmi, C., Xie, S., Cohen, T., De Cock, M., & Yuwen, W. (2024). *Toward large language models as a therapeutic tool: Comparing prompting techniques to improve GPT-delivered problem-solving therapy* (arXiv:2409.00112). arXiv.
+*   Grabb, D. (2023). The impact of prompt engineering in large language model performance: A psychiatric example. *Journal of Medical Artificial Intelligence*, *6*, 20. https://doi.org/10.21037/jmai-23-71
+*   Meskó, B. (2023). Prompt engineering as an important emerging skill for medical professionals: Tutorial. *Journal of Medical Internet Research*, *25*, e50638.
 
 ## Relazioni
 *   **Relazione tra pilastri**: Esiste una necessità di convergenza tra l'ingegnerizzazione del prompt (Ricerca 1) e l'adozione rigorosa degli standard di reporting (Ricerca 4) per garantire la sicurezza del paziente.

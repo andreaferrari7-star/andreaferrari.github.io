@@ -89,7 +89,7 @@ Per trasformare i chatbot da prototipi sperimentali a interventi digitali clinic
 3. **Architetture Agentiche con Safety Monitor:** Disaccoppiamento tra l'agente conversazionale di front-end e agenti di background dedicati al monitoraggio continuo del rischio e all'escalation umana.
 4. **Conformità a Standard SaMD e Privacy Sanitaria:** Rispetto rigoroso di GDPR/HIPAA, crittografia end-to-end e allineamento con i requisiti di auditabilità dell'AI Act.
 
-**Riferimenti Bibliografici:**
+## Riferimenti Bibliografici
 - Cho, H. N., Wang, J., Hu, D., & Zheng, K. (2026). Large Language Model–Based Chatbots and Agentic AI for Mental Health Counseling: Systematic Review of Methodologies, Evaluation Frameworks, and Ethical Safeguards. *JMIR AI*, 5, e80348. https://doi.org/10.2196/80348
 - Abbasian, M., Khatibi, E., Azimi, I., Oniani, D., Shakeri Hossein Abad, Z., Thieme, A., et al. (2024). Foundation metrics for evaluating effectiveness of healthcare conversations powered by generative AI. *NPJ Digital Medicine*, 7(1), 82.
 - Cavalera, C., Frisone, F., Rossi, C., Oasi, O., Pagnini, F., Riva, G., & Antichi, L. (2026). The Digital Mirror: Clinical Potentials and Relational Risks of Generative AI in Mental Health Interventions. *Current Psychiatry Reports*, 28, 40. https://doi.org/10.1007/s11920-026-01690-4

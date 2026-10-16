@@ -100,7 +100,7 @@ Per superare l'impasse tra l'inefficacia dell'AI-T rigida e la pericolosità del
 
 ---
 
-**Riferimenti Bibliografici:**
+## Riferimenti Bibliografici
 - Ma, A., Chen, J., & Yang, Z. (2026). From Tool to Agent: A Semi-Systematic Review of Human–AI Alignment and a Proposed Tiered Healing Ecosystem for Mental Health. *Healthcare*, 14(6), 820. https://doi.org/10.3390/healthcare14060820
 - Clegg, K. A. (2025). Shoggoths, sycophancy, psychosis, oh my: Rethinking large language model use and safety. *JMIR Mental Health*, 12, e87367.
 - Coeckelbergh, M. (2023). Chatbots Can Kill: The Suicide of a Belgian Man Raises Ethical Issues about the Use of ChatGPT. *Medium*.

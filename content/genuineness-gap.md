@@ -25,7 +25,7 @@ flowchart LR
 - **Depotenziamento delle Esperienze Emotive Correttive:** L'esperienza emotiva correttiva (Alexander & French, 1946; Goldfried, 2012) scaturisce dalla disconferma delle aspettative di rifiuto o giudizio negativo da parte di un altro individuo. L'assenza di rischio sociale e la natura artificiale del partner conversazionale indeboliscono la portata trasformativa dell'esperienza.
 - **Modulazione dell'Antropomorfismo e Dinamica Dual-Process:** L'antropomorfizzazione (stimolata da solitudine, ansia sociale o corporeità tecnologica) può mascherare temporaneamente il Genuineness Gap attraverso il Sistema 1 (euristico/intuitivo), ma la persistente attivazione del Sistema 2 (analitico/riflessivo) continua a richiamare la natura meccanica dell'agente (Epley et al., 2007; Złotowski et al., 2018; Leichtmann et al., 2025).
 
-**Riferimenti Bibliografici:**
+## Riferimenti Bibliografici
 - Herbener, A. B., & Damholdt, M. F. (2025). A Theoretical Framework of the Processes of Change in Psychotherapy Delivered by Artificial Agents. *arXiv preprint arXiv:2509.02144v1 [cs.HC]*.
 - Gelso, C. (2014). A tripartite model of the therapeutic relationship: Theory, research, and practice. *Psychotherapy Research*, 24(2), 117–131.
 - Sullivan, H. S. (1953). *The interpersonal theory of psychiatry*. W. W. Norton & Co.

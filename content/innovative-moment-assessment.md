@@ -69,7 +69,7 @@ flowchart TD
 - **Rivelazione della "Trappola del Conforto" negli LLM Generalisti:**
   - L'analisi IMA dimostra che modelli come GPT-4o e Claude-3.7 mostrano un'alta frequenza di risposte di rassicurazione ma ottengono una salienza di Livello 2 molto ridotta (~4–5%), mantenendo il cliente bloccato nella descrizione del problema. Al contrario, INT raggiunge una salienza complessiva del **29.70%** (quasi raddoppiando Action II all'8.73% e Reflection II al 9.68%).
 
-**Riferimenti Bibliografici:**
+## Riferimenti Bibliografici
 - Feng, Y., Wang, J., Zhang, W., Chen, Z., Shen, Y., Xiao, X., Huang, M., Jing, L., & Yu, J. (2025). Reframe Your Life Story: Interactive Narrative Therapist and Innovative Moment Assessment with Large Language Models. *arXiv preprint arXiv:2507.20241v2*. https://arxiv.org/abs/2507.20241
 - Gonçalves, M. M., Ribeiro, A. P., Mendes, I., Matos, M., & Santos, A. (2011). Tracking novelties in psychotherapy process research: The innovative moments coding system. *Psychotherapy Research*, 21(5), 497–509.
 - Gonçalves, M. M., Mendes, I., Cruz, G., Ribeiro, A. P., Sousa, I., Angus, L., & Greenberg, L. S. (2012). Innovative moments and change in client-centered therapy. *Psychotherapy Research*, 22(4), 389–401.

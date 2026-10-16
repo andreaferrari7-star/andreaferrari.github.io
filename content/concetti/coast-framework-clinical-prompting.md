@@ -68,8 +68,7 @@ flowchart LR
     LLM --> StructuredOut["Sintesi Clinica Rigorosa & Formattata ad Alta Fedeltà"]
 ```
 
-**Riferimenti Bibliografici:**
-- *L'Intelligenza Artificiale Generativa in Psicoterapia: Dalla Scatola Nera alla Pratica Clinica Sicura* (cfr. [[clinical-ai-blueprint]]).
+## Riferimenti Bibliografici
 - Beck, J. S. (2020). *Cognitive Behavior Therapy: Basics and Beyond* (3rd ed.). Guilford Press.
 - Wu, J., Xie, K., Gu, B., Krüger, N., Lin, K. J., & Yang, J. (2025). *Why chain of thought fails in clinical text understanding* (arXiv:2509.21933). arXiv. https://doi.org/10.48550/arXiv.2509.21933
 

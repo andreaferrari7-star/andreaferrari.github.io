@@ -28,9 +28,9 @@ La scoping review di [[1-s2-0-s0272735826000917-main|Hofmann et al. (2026)]], ba
   - *Flessibilità Psicologica e Attivazione Comportamentale* (tolleranza dell'incertezza, esposizione, abitudini basate sui valori).
 - **Frammentazione e Jingle-Jangle Fallacies**: Il 48.3% dei processi estratti è stato studiato una sola volta, evidenziando una grave eterogeneità terminologica ([[jingle-fallacy]], [[jangle-fallacy]]) che ostacola la replicabilità e i modelli transdiagnostici integrati.
 
-**Riferimenti Bibliografici:**
+## Riferimenti Bibliografici
 - Hofmann, S. G., & Hayes, S. C. (2019). *Process-based CBT: The science and core clinical competencies of cognitive behavioral therapy*. New Harbinger Publications.
-- Hofmann et al. (2026). [1-s2.0-S0272735826000917-main].
+- Hofmann, S. G., Pahlen, L., Westhoff, M., Hossner, K., Quintarelli, H., Usée, F., Stenzel, K., & Stangier, U. (2026). Processes in psychotherapy: A scoping review with LLM-assisted clustering. *Clinical Psychology Review*, *128*, Article 102782. https://doi.org/10.1016/j.cpr.2026.102782
 - Kazdin, A. E. (2007). Mediators and mechanisms of change in psychotherapy research. *Annual Review of Clinical Psychology*.
 
 ## Relazioni

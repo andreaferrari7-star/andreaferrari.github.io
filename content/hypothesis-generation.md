@@ -14,7 +14,7 @@ source_papers: ["Using_Large_Language_Models_in_Psychological_Resea.pdf"]
 - Gli LLM aumentano la capacità di integrare domini scientifici distanti e suggerire percorsi di ricerca innovativi non evidenti con metodi tradizionali (Adeyemi, 2024).
 - Sussiste il rischio di produrre ipotesi plausibili ma non falsificabili, o viziate da bias di confermazione presenti nei testi di addestramento (Adeyemi, 2024).
 
-**Riferimenti Bibliografici:**
+## Riferimenti Bibliografici
 - Adeyemi, V. (2024). Using Large Language Models in Psychological Research: A New Frontier for Hypothesis Generation. *Premier Journal of Psychology*, 1–4.
 
 ## Relazioni

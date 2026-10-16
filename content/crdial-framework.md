@@ -46,7 +46,7 @@ flowchart TD
 - **Gestione della Resistenza Emotiva:** Integrando 8 sotto-strategie di supporto emotivo (derivate da Hill, 2009 e Linehan, 2014) codificate frase per frase, il framework garantisce che ogni stimolo di sfida cognitiva sia bilanciato da validazione, rispecchiamento o empatia, riducendo le reazioni di rigetto (Zhou et al., 2025).
 - **Adattamento alle Differenze Individuali:** Tramite la ramificazione multi-canale (fino a 3 distorsioni simultanee per problema) e la ricorsione ciclica (*loop*), CRDIAL garantisce la completezza della ristrutturazione, coprendo sistematicamente i bias associati (Zhou et al., 2025).
 
-**Riferimenti Bibliografici:**
+## Riferimenti Bibliografici
 - Zhou, J., Chen, Y., Yin, J., Huang, Y., Shi, Y., Zhang, X., Peng, L., Zhang, R., Lv, T., Hu, Z., Wang, H., & Huang, M. (2025). CRISP: Cognitive Restructuring of Negative Thoughts through Multi-turn Supportive Dialogues. *arXiv preprint arXiv:2504.17238*. https://arxiv.org/abs/2504.17238
 - Beck, A. T. (1979). *Cognitive therapy and the emotional disorders*. Penguin.
 - Beck, J. S. (2011). *Cognitive behavior therapy: Basics and beyond*. Guilford Publications.

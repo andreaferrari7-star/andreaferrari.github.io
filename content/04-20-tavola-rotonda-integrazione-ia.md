@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [psychotherapy, cbt, supervisione, generative-ai]
 tipo_fonte: evento
 data: 2026-04-20
 source_papers: ["04-20 Tavola rotonda_ Integrazione dell’IA in psicoterapia — governance, co‑ragionamento e modelli ibridi.txt"]

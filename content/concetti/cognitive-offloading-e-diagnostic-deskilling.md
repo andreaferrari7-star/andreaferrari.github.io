@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [psychotherapy, automation-bias, large-language-models]
 tipo_fonte: [scientifica, interna]
 source_papers: ["AI in Psicoterapia 2023-2026.docx"]
 ---

@@ -1,4 +1,5 @@
 ---
+tags: [autism, large-language-models, formazione-clinica]
 title: Strumenti di IA Assistiva per la Comunicazione nello Spettro Autistico
 summary: Applicazione dei Large Language Models come tecnologie assistive per supportare persone nello spettro autistico (ASC) nell'interpretazione di contesti sociali ambigui, decodifica di intenzioni non letterali (ironia, gaffe, doppi sensi) e mediazione comunicativa.
 sources: 
@@ -23,10 +24,10 @@ Tuttavia, le evidenze (Holl-Etten et al., 2026) sottolineano limitazioni critich
 - **Cecità Non Verbale**: L'IA testuale non percepisce tono di voce, prosodia o linguaggio del corpo.
 - **Rischio di Dipendenza**: Necessità di un design orientato all'empowerment per evitare la dipendenza eccessiva nelle scelte relazionali.
 
-**Riferimenti Bibliografici:**
-- APA (2013). *Diagnostic and Statistical Manual of Mental Disorders*.
-- Holl-Etten et al. (2026). *Evidenze sperimentali sull'uso di LLM nell'autismo*.
-- Jaliaawala & Khan (2020). *Technology in Autism Spectrum Condition*.
+## Riferimenti Bibliografici
+- American Psychiatric Association. (2013). *Diagnostic and statistical manual of mental disorders* (5th ed.). American Psychiatric Publishing.
+- Holl-Etten, A. K., Schnaderbeck, N., Kosareva, E., Prattke, L. A., Krüger, R., Warner, L. M., & Vetter, N. C. (2026). *Applied theory of mind and large language models: How good is ChatGPT at solving social vignettes?* (arXiv:2601.06032). arXiv.
+- Jaliaawala, M. S., & Khan, R. A. (2020). Can autism be catered with artificial intelligence-assisted intervention technology? A comprehensive survey. *Artificial Intelligence Review*, *53*(2), 1039–1069.
 
 ## Relazioni
 ```mermaid

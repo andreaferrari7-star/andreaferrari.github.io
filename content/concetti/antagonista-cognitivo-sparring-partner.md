@@ -1,7 +1,7 @@
 ---
 tags: [cognitive-antagonist, sparring-partner, dialectical-ai, clinical-supervision, debiasing, dual-process-theory, human-in-the-reasoning]
 tipo_fonte: [scientifica, interna]
-source_papers: ["AI Generativa in Psicoterapia.docx", "Buattini et al. (2026)", "Qazi et al. (2025)"]
+source_papers: ["AI Generativa in Psicoterapia.docx"]
 ---
 
 # L'IA come Antagonista Cognitivo e Sparring Partner Dialettico

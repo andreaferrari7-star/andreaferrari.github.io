@@ -48,11 +48,10 @@ Il framework **ACCEPT-AI** (*Recommendations for the use of pediatric data in ar
 *   **Age-Appropriate Explanations**: Spiegazioni graduate in base al destinatario (clinico, genitore, paziente).
 *   **Valutazione Disaggregata dei Sottogruppi**: Monitoraggio specifico per le diverse finestre evolutive.
 
-**Riferimenti Bibliografici:**
-
+## Riferimenti Bibliografici
 *   Beauchamp, T. L., & Childress, J. F. (2001). *Principles of Biomedical Ethics*.
 *   Muralidharan, et al. (2023). *Recommendations for the use of pediatric data in artificial intelligence and machine learning (ACCEPT-AI framework)*.
-*   Verhoeven, T., Bouisaghouane, A., & Hulscher, J. (2026). *Explainable AI in Pediatric Ethics*.
+*   Verhoeven, R., Bouisaghouane, W., & Hulscher, J. B. F. (2026). Explainable AI: Ethical frameworks, bias, and the necessity for benchmarks. *European Journal of Pediatric Surgery*, *36*(1), 168–173. https://doi.org/10.1055/a-2702-1843
 
 ## Relazioni
 

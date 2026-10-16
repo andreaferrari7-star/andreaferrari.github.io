@@ -1,19 +1,18 @@
 ---
 tags: [psicologia, IA, etica, psicoterapia, tecnologia]
-tipo_fonte: scientifica
-source_papers: []
+tipo_fonte: evento
+source_papers: ["04-17 Convegno_ Integrazione etica dell’IA nella psicoterapia (scrittura clinica, supervisione, monitoraggio, formazione).txt"]
 ---
+
+# Digital Therapeutic Alliance
 
 ## Definizione Operativa
 - Modello teorico-clinico che estende la triade di Bordin (compiti, obiettivi, legame) all'interazione triadica Paziente-Terapeuta-IA. L'IA agisce come \terzo artificiale\ che influenza dinamiche di transfert, percezione di competenza e fiducia.
 - **Utilità CBT / Applicativa:** Supporta il clinico nella gestione etica della tecnologia, prevenendo dipendenze dallo strumento (overreliance) e mantenendo la titolarità decisionale umana nel processo terapeutico.
 
 ## Evidenze dalla Letteratura
-- Dati emersi: Possibile uso disfunzionale da parte del paziente (ruminazione assistita, ricerca compulsiva di rassicurazioni). L'uso di feedback IA nella formazione accresce l'autoefficacia del trainee, purché l'algoritmo sia esplicitato (04-17 Convegno, 2026).
-- Limiti tecnici: Rischi legati a bias algoritmici, antropomorfizzazione del sistema e percezione di invasività o sfiducia nel setting clinico (04-17 Convegno, 2026).
-
-## Riferimenti Bibliografici
-- 04-17 Convegno. (2026). Integrazione etica dell'IA nella psicoterapia (scrittura clinica, supervisione, monitoraggio, formazione).
+- Dati emersi: Possibile uso disfunzionale da parte del paziente (ruminazione assistita, ricerca compulsiva di rassicurazioni). L'uso di feedback IA nella formazione accresce l'autoefficacia del trainee, purché l'algoritmo sia esplicitato (cfr. [[04-17-convegno-integrazione-etica-ia]]).
+- Limiti tecnici: Rischi legati a bias algoritmici, antropomorfizzazione del sistema e percezione di invasività o sfiducia nel setting clinico (cfr. [[04-17-convegno-integrazione-etica-ia]]).
 
 ## Relazioni
 - Vedi anche: [[04-17-convegno-integrazione-etica-ia]], [[augmented-psychotherapy]], [[ai-research-ethics]], [[anthropomorphism-in-ai]], [[hybrid-ai-research-workflows]], [[large-language-models]]

@@ -116,7 +116,7 @@ La tabella sintetizza i principali pattern di sicurezza implementati nei sistemi
 - Campellone, T. R., Flom, M., Montgomery, R. M., Bullard, L., Pirner, M. C., Pavez, A., et al. (2025). Safety and User Experience of a Generative Artificial Intelligence Digital Mental Health Intervention: Exploratory Randomized Controlled Trial. *Journal of Medical Internet Research*, 27, e67365.
 - Heinz, M. V., Mackin, D. M., Trudeau, B. M., Bhattacharya, S., Wang, Y., Banta, H. A., et al. (2025). Randomized Trial of a Generative AI Chatbot for Mental Health Treatment. *NEJM AI*, 2, AIoa2400802.
 - Habicht, J., Viswanathan, S., Carrington, B., Hauser, T. U., Harper, R., & Rollwage, M. (2024). Closing the accessibility gap to mental health treatment with a personalized self-referral chatbot. *Nature Medicine*, 30, 595–602.
-- Food and Drug Administration (FDA). (2025). *FDA Digital Health Advisory Committee Meeting: Adverse Event Definitions and Monitoring for AI-Enabled Health Tools*. FDA.
+- Food and Drug Administration (FDA). (2025). *FDA Digital Health Advisory Committee Meeting: Adverse Event Definitions and Monitoring for AI-Enabled Health Tools*. FDA. [da verificare: titolo non presente nelle fonti in `raw/`]
 - Cho, H. N., Wang, J., Hu, D., & Zheng, K. (2026). Large Language Model–Based Chatbots and Agentic AI for Mental Health Counseling: Systematic Review of Methodologies, Evaluation Frameworks, and Ethical Safeguards. *JMIR AI*, 5, e80348.
 
 ---

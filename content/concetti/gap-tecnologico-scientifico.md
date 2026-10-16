@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [medical-ethics, riunione, samd, large-language-models]
 tipo_fonte: interna
 source_papers: ["06-05 Riunione_ Impiego dell'IA in ambito clinico, bias e formazione.txt", "05-08 Riunione_ Sviluppo Knowledge Base AI, Etica e Applicazioni Cliniche.txt"]
 ---

@@ -34,7 +34,7 @@ source_papers: ["fpsyg-16-1715306.pdf"]
 - **Rischio di Correlazioni Spurie:** Difficoltà nel distinguere l'attivazione fisiologica non patologica (es. attività fisica, assunzione di caffeina, risposta ortostatica) dal reale distress emotivo in assenza di un contesto multimodale accurato.
 - **Privacy Estrema e Tutela dei Dati Biometrici:** La registrazione continua di dati neurofisiologici ed emotivi espone a rischi critici di sorveglianza e violazione della riservatezza, imponendo elaborazione edge/on-device e protocolli crittografici conformi agli standard sanitari (Kwesi et al., 2025).
 
-**Riferimenti Bibliografici:**
+## Riferimenti Bibliografici
 - Dongre, P. (2024). Physiology-driven empathic large language models (EmLLMs) for mental health support. *Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (CHI EA '24)*. ACM.
 - Sharma, N., & Liu, Y. (2022). A hybrid science-guided machine learning approach for modeling chemical processes: a review. *AIChE Journal*, 68(3), e17609. https://doi.org/10.1002/aic.17609
 - Yang, J., Liu, T., Luo, Y. T., Niu, T., Pang, P., Xiang, A., & Yang, Q. (2026). Exploring the application boundaries of LLMs in mental health: a systematic scoping review. *Frontiers in Psychology*, 16:1715306. https://doi.org/10.3389/fpsyg.2025.1715306

@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [riunione, psychotherapy, formazione-clinica, cbt]
 tipo_fonte: interna
 data: 2026-07-08
 source_papers: ["07-08 Riunione_ Pianificazione corso IA per psicoterapia — struttura, validazione interessi, microprogettazione e coordinamento.txt"]

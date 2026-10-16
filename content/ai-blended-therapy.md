@@ -103,9 +103,9 @@ L'implementazione su larga scala solleva questioni cruciali (Bucher et al., 2025
 3. **Responsabilità Medico-Legale Non Delegabile:** Le decisioni diagnostiche, terapeutiche e di emergenza restano al professionista umano (*human-in-the-loop / human-in-the-reasoning*).
 4. **AI Literacy per Clinici e Pazienti:** È indispensabile formare il terapeuta a interpretare criticamente gli output dell'IA, gestire la dashboard e istruire il paziente sui limiti del modello linguistico.
 
-**Riferimenti Bibliografici:**
+## Riferimenti Bibliografici
 - Bucher, A., Egger, S., Vashkite, I., Wu, W., & Schwabe, G. (2025). "It’s Not Only Attention We Need": Systematic Review of Large Language Models in Mental Health Care. *JMIR Mental Health*, 12, e78410. https://doi.org/10.2196/78410
-- Wentzel, J., et al. (2016). Blended eHealth for depression: a systematic review and meta-analysis. *JMIR Mental Health*, 3(3), e34.
+- Wentzel, J., van der Vaart, R., Bohlmeijer, E. T., & van Gemert-Pijnen, J. E. W. C. (2016). Mixing online and face-to-face therapy: How to benefit from blended care in mental health care. *JMIR Mental Health*, *3*(1), e9.
 - Herbener, A. B., & Damholdt, M. F. (2025). A Theoretical Framework of the Processes of Change in Psychotherapy Delivered by Artificial Agents. *arXiv preprint arXiv:2509.02144v1 [cs.HC]*, 1–16. https://doi.org/10.48550/arXiv.2509.02144
 - Kim, T., Bae, S., Kim, H., Lee, S., Hong, H., & Yang, C. (2024). MindfulDiary: harnessing large language model to support psychiatric patients' journaling. *CHI '24*, 1–20.
 - Berrezueta-Guzman, S., et al. (2024). Exploring the efficacy of robotic assistants with chatGPT and claude in enhancing ADHD therapy. *Intelligent Environments 2024*, 1–10.

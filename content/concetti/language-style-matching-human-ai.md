@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [depression, anxiety, mental-health-chatbots, rct]
 tipo_fonte: scientifica
 source_papers: ["2508.00847v1.pdf"]
 ---

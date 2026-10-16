@@ -53,7 +53,7 @@ flowchart TD
 - **Accuratezza nella Risposta ai Quesiti sull'Insonnia:** La valutazione da parte di specialisti dei disturbi del sonno delle risposte fornite da modelli generativi a quesiti sull'insonnia conferma un'eccellente accuratezza clinica e un linguaggio adattabile alle esigenze educative dei pazienti, evidenziando tuttavia la necessità di validare la correttezza formale delle citazioni fornite (Alapati et al., 2024).
 - **Limiti Metodologici e Rischi di Drop-Out:** La maggioranza degli interventi di dCBT-I basati su IA conversazionale soffre di campioni ridotti e periodi di osservazione limitati a poche settimane; è indispensabile strutturare protocolli di escalation clinica (*triage/hand-off*) verso il terapeuta umano in presenza di insonnia cronica resistente, comorbidità depressive severe o ideazione suicidaria (Mansoor, 2025; Stanley et al., 2025).
 
-**Riferimenti Bibliografici:**
+## Riferimenti Bibliografici
 - Mansoor, H. (2025). A Scoping Review of Large Language Models in Personal Sleep Wellness. *Mayo Clinic Proceedings: Digital Health*, 3(4), 100301. https://doi.org/10.1016/j.mcpdig.2025.100301
 - Alapati, R., Campbell, D., Molin, N., et al. (2024). Evaluating insomnia queries from an artificial intelligence chatbot for patient education. *Journal of Clinical Sleep Medicine*, 20(4), 583–594. https://doi.org/10.5664/jcsm.10948
 - Chan, W. S., Cheng, W. Y., Lok, S. H. C., et al. (2024). Assessing the short-term efficacy of digital cognitive behavioral therapy for insomnia with different types of coaching: randomized controlled comparative trial. *JMIR Mental Health*, 11(1), e51716. https://doi.org/10.2196/51716

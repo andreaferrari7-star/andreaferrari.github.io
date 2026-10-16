@@ -14,7 +14,7 @@ source_papers: ["JML_1001.pdf"]
 - L'applicazione di framework strutturati a otto stadi e il confronto comparativo tra strumenti AI garantiscono replicabilità e rigore metodologico (Tingelhoff et al., 2024).
 - La conduzione non sistematica o priva di criteri espliciti di inclusione ed esclusione introduce forti bias di selezione e distorsione dei risultati (Tingelhoff et al., 2024).
 
-**Riferimenti Bibliografici:**
+## Riferimenti Bibliografici
 - Tingelhoff, F., Brugger, M., & Leimeister, J. M. (2024). A guide for structured literature reviews in business research: The state-of-the-art and how to integrate generative artificial intelligence. *Journal of Information Technology*, 1–23. https://doi.org/10.1177/02683962241304105
 
 ## Relazioni

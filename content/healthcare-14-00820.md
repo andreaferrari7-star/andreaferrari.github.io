@@ -161,7 +161,7 @@ Su 61 studi analizzati:
 
 ---
 
-**Riferimenti Bibliografici:**
+## Riferimenti Bibliografici
 - Ma, A., Chen, J., & Yang, Z. (2026). From Tool to Agent: A Semi-Systematic Review of Human–AI Alignment and a Proposed Tiered Healing Ecosystem for Mental Health. *Healthcare*, 14(6), 820. https://doi.org/10.3390/healthcare14060820
 - Bilalpur, M., Inan, M., Zeinali, D., Cohn, J. F., & Alikhani, M. (2024). Learning to generate context-sensitive backchannel smiles for embodied AI agents with applications in mental health dialogues. *arXiv preprint arXiv:2402.08837*.
 - Chen, Y. X., Chang, Y. C., & Ho, H. W. (2025). Empathy-enhanced chatbot for psychological support: A retrieval-augmented and therapy-informed approach. *IEEE ICHMS 2025*, 385–390.

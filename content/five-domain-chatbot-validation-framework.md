@@ -26,10 +26,10 @@ Il framework articola la validazione su cinque pilastri fondamentali:
 4. **Esiti di Cambiamento Comportamentale:** Misura l'impatto clinico sugli 8 comportamenti target della medicina dello stile di vita, utilizzando grandezze di effetto come $Hedges\ g$ o $Cohen\ d$ con focus sulla tenuta nel lungo termine (52 settimane).
 5. **Costo ed Economia Sanitaria:** Analizza la sostenibilità finanziaria (ICER, QALY, DALY, costo per paziente). Attualmente, la letteratura presenta un gap sistemico: **0% di evidenze** documentate su studi del settore.
 
-**Riferimenti Bibliografici:**
-- Fu L, et al. "The Development and Use of AI Chatbots for Health Behavior Change: Scoping Review." *Journal of Medical Internet Research (JMIR)*, 2026; 28:e79677. DOI: 10.2196/79677.
-- Mathews SC, et al. "Digital health scorecard framework." *NPJ Digital Medicine*, 2019.
-- Perski O, et al. "Engagement with digital behavior change interventions." *Translational Behavioral Medicine*, 2017.
+## Riferimenti Bibliografici
+- Fu, L., Burns, R., Xie, Y., Shen, J., Zhe, S., Estabrooks, P., & Bai, Y. (2026). The development and use of AI chatbots for health behavior change: Scoping review. *Journal of Medical Internet Research*, *28*, e79677. https://doi.org/10.2196/79677
+- Mathews, S. C., McShea, M. J., Hanley, C. L., Ravitz, A., Labrique, A. B., & Cohen, A. B. (2019). Digital health: A path to validation. *npj Digital Medicine*, *2*(1), 38.
+- Perski, O., Blandford, A., West, R., & Michie, S. (2017). Conceptualising engagement with digital behaviour change interventions: A systematic review using principles from critical interpretive synthesis. *Translational Behavioral Medicine*, *7*(2), 254–267.
 
 ## Relazioni
 - **Studio Fondativo:** [[jmir-v28i1e79677|Scoping Review JMIR 2026 (Fu et al.)]]
