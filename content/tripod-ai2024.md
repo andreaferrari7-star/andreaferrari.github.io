@@ -26,26 +26,17 @@ source_papers:
 - Il **TRIPOD+AI Statement** (*Transparent Reporting of a multivariable prediction model for Individual Prognosis Or Diagnosis - Artificial Intelligence*) è lo standard metodologico internazionale per la rendicontazione trasparente e riproducibile degli studi che sviluppano o valutano modelli di predizione multivariabile, inclusi modelli di regressione tradizionale e algoritmi di Machine Learning (ML) / Intelligenza Artificiale (AI).
 - **Sostituzione di TRIPOD 2015:** TRIPOD+AI sostituisce integralmente la checklist TRIPOD 2015, armonizzando la terminologia e introducendo requisiti avanzati di trasparenza metodologica.
 - **Struttura:** Comprende una checklist principale di 27 item (suddivisi in 52 sotto-item) e una checklist abbreviata di 13 item per gli abstract (TRIPOD+AI for Abstracts).
+- **Utilità CBT:** Offre al clinico e ricercatore CBT criteri rigorosi per valutare criticamente la validità, la generalizzabilità e il rischio di bias di modelli predittivi applicati alla salute mentale (es. previsione di risposta terapeutica, drop-out o ricadute).
 
-## Evidenze
-- **Efficacia (ToM/CBT)**: N/A. L'efficacia di questo documento si esplica nel fornire uno standard rigoroso per il reporting, migliorando la trasparenza e la completezza delle pubblicazioni sui modelli predittivi, facilitando peer review, meta-analisi e adozione clinica.
-- **Limiti/Rischi**: Il principale rischio evidenziato dal paper nel settore è la persistente sotto-rendicontazione, con omissioni critiche riguardo alla gestione dei dati mancanti, ottimizzazione degli iperparametri, selezione dei predittori, calibrazione e utilità clinica. L'implementazione clinica di modelli con questo livello di opacità porta a stime di rischio errate e disparità sanitarie.
-- **Metodologia**: Il framework è stato sviluppato tramite una Delphi a due round, una sessione di Patient and Public Involvement (PPIE) e un consensus meeting finale.
-
-## Riferimenti
-- Collins, G. S., Moons, K. G. M., Dhiman, P., Riley, R. D., Beam, A. L., Van Calster, B., ... & Logullo, P. (2024). TRIPOD+AI statement: updated guidance for reporting clinical prediction models that use regression or machine learning methods. *The BMJ*, 385, e078378. https://doi.org/10.1136/bmj-2023-078378
-
-## Relazioni
-- [[tripod-ai-reporting-guideline|TRIPOD+AI Reporting Guideline]]
-- [[clinical-prediction-model-evaluation|Valutazione dei Modelli Predittivi Clinici]]
-- [[tripod-llm-reporting-guideline]]
-- [[chart-reporting-guideline]]
-- [[refine-reporting-checklist]]
-- [[elevate-genai-framework]]
-- [[gamer-reporting-guideline]]
-- [[mi-clear-llm-guideline]]
-- [[software-as-a-medical-device-salute-mentale|Software as a Medical Device (SaMD)]]
-- [[cross-cultural-bias-and-fairness-audits-ai|Audit di Fairness e Bias nei Sistemi di IA Sanitaria]]
+## Evidenze dalla Letteratura
+- **Metodologia:** Il framework è stato sviluppato tramite una Delphi a due round, una sessione di coinvolgimento di pazienti e cittadini (*Patient and Public Involvement and Engagement*, PPIE) e un consensus meeting finale (Collins et al., 2024).
+- **Contenuti:** Unifica la rendicontazione tra statistica classica e machine learning/deep learning, con standard dettagliati su calibrazione, discriminazione, utilità clinica (*decision curve analysis*), condivisione di codice e dati (open science) e coinvolgimento di pazienti e stakeholder (Collins et al., 2024).
+- **Equità algoritmica:** Richiede di documentare esplicitamente le prestazioni nei sottogruppi sociodemografici e le strategie per non aggravare le disparità sanitarie (Collins et al., 2024).
+- **Motivazione:** Risponde all'evidenza di una diffusa bassa qualità metodologica, di un elevato rischio di bias, di una scarsa riproducibilità e della sovrainterpretazione (*spin*) dei risultati nella letteratura sui modelli predittivi sanitari basati su IA (Collins et al., 2024).
+- **Limiti e rischi:** Il principale problema segnalato nel settore è la persistente sotto-rendicontazione, con omissioni critiche su gestione dei dati mancanti, ottimizzazione degli iperparametri, selezione dei predittori, calibrazione e utilità clinica. L'implementazione clinica di modelli così poco trasparenti porta a stime di rischio errate e a disparità sanitarie (Collins et al., 2024).
 
 ## Riferimenti Bibliografici
-- Collins, G. S., Moons, K. G. M., Dhiman, P., et al. (2024). TRIPOD+AI statement: Updated guidance for reporting clinical prediction models that use regression or machine learning methods. *BMJ*, *385*, e078378. https://doi.org/10.1136/bmj-2023-078378
+- Collins, G. S., Moons, K. G. M., Dhiman, P., Riley, R. D., Beam, A. L., Van Calster, B., Ghassemi, M., Liu, X., Reitsma, J. B., van Smeden, M., Boulesteix, A.-L., Camaradou, J. C., Celi, L. A., Denaxas, S., Denniston, A. K., Glocker, B., Golub, R. M., Harvey, H., Heinze, G., . . . Logullo, P. (2024). TRIPOD+AI statement: Updated guidance for reporting clinical prediction models that use regression or machine learning methods. *BMJ*, *385*, Article e078378. https://doi.org/10.1136/bmj-2023-078378
+
+## Relazioni
+- Vedi anche: [[tripod-ai-reporting-guideline]], [[clinical-prediction-model-evaluation]], [[tripod-llm-reporting-guideline]], [[chart-reporting-guideline]], [[refine-reporting-checklist]], [[elevate-genai-framework]], [[gamer-reporting-guideline]], [[mi-clear-llm-guideline]], [[software-as-a-medical-device-salute-mentale]], [[cross-cultural-bias-and-fairness-audits-ai]], [[ai-research-ethics]], [[ai-assisted-psychotherapy]]

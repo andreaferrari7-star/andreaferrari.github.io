@@ -27,6 +27,6 @@ source_papers: ["wulff-mata-2025-escaping-the-jingle-jangle-jungle-increasing-co
 
 ## Relazioni
 
-*   **Vedi anche:** [[wulff-mata-2025]], [[taxonomic-incommensurability]], [[jingle-fallacy]], [[jangle-fallacy]], [[llm-assisted-semantic-clustering]], [[dual-validity-framework]]
+*   **Vedi anche:** [[wulff-mata-2025]], [[taxonomic-incommensurability]], [[jingle-fallacy]], [[jangle-fallacy]], [[llm-assisted-clustering]], [[dual-validity-framework]]
 
 

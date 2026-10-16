@@ -51,4 +51,4 @@ Le evidenze sottolineano la necessità di cautele strutturali [1]:
 - [[large-language-models]]
 - [[ai-research-ethics]]
 - [[prompting-in-psychology]]
-- [[adamkovic-2025]]
+- [[final-textbook-genaiinpsychologyresearchandtraining]]

@@ -86,6 +86,12 @@ Circa il 40% dei lncRNA umani è espresso specificamente nel cervello, dove agis
 - [[peripheral-blood-biomarkers-and-exosomes-in-mdd]]: Trasporto di ncRNA attraverso la barriera emato-encefalica.
 - [[single-cell-and-spatial-transcriptomics-in-mental-health]]: Espressione cellula-specifica di ncRNA nel tessuto cerebrale.
 - [[ai-multi-omics-psychiatric-biomarkers]]: Analisi computazionale di profili di ncRNA tramite Machine Learning.
+- [[41398-2025-article-3497]]
+- [[multi-omics-ai-psychiatry]]
+- [[ai-assisted-psychotherapy]]
+- [[treatment-outcome-and-relapse-prediction]]
+- [[software-as-a-medical-device-salute-mentale]]
+- [[11920-2026-article-1690]]
 
 ## Riferimenti Bibliografici
 - Cui, X., Niu, W., Kong, L., He, M., Jiang, K., Chen, S., et al. (2016). hsa_circRNA_103636: potential novel diagnostic and therapeutic biomarker in Major depressive disorder. *Biomark Med*, *10*, 943–52.

@@ -58,4 +58,4 @@ Il Blueprint CHAI ha fornito le fondamenta concettuali per la governance dell'IA
 
 ## Relazioni
 - Scheda sintesi collegata: [[ai-v4i1e69006]]
-- Concetti correlati: [[haicef-framework]], [[healthcare-conversational-agents]], [[five-axis-clinical-evaluation]], [[software-as-a-medical-device-salute-mentale]], [[three-layer-governance-framework]], [[reflective-interpretability]], [[audit-bias-llm-clinici]], [[modello-centauro-clinico]].
+- Concetti correlati: [[haicef-framework]], [[healthcare-conversational-agents]], [[five-axis-mental-health-evaluation-framework]], [[software-as-a-medical-device-salute-mentale]], [[three-layer-governance-framework]], [[reflective-interpretability]], [[audit-bias-llm-clinici]], [[modello-centauro-clinico]].

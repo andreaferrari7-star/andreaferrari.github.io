@@ -34,7 +34,7 @@ Il framework articola la validazione su cinque pilastri fondamentali:
 ## Relazioni
 - **Studio Fondativo:** [[jmir-v28i1e79677|Scoping Review JMIR 2026 (Fu et al.)]]
 - **Dinamica Posologica:** [[routine-coach-vs-on-demand-assistant]]
-- **Valutazione Clinica Avanzata:** [[five-axis-clinical-evaluation|Five-Axis Clinical Evaluation Framework]]
+- **Valutazione Clinica Avanzata:** [[five-axis-mental-health-evaluation-framework|Five-Axis Clinical Evaluation Framework]]
 - **Valutazione Economico-Sanitaria:** [[heor-generative-ai-validation]]
 - **Fattori Relazionali e di Ingaggio:** [[digital-therapeutic-alliance|Alleanza Terapeutica Digitale]], [[social-oriented-vs-task-oriented-chatbots]]
 - **Integrazione Sensori:** [[wearable-sensor-fusion-adherence]]

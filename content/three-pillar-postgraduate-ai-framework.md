@@ -138,5 +138,5 @@ Per consentire l'adozione del framework anche in contesti con vincoli economici,
 ---
 
 ## Relazioni
-- Vedi anche: [[s44163-025-00495-3]], [[individual-boost-vs-collective-homogenization]], [[criteria-centric-genai-integration]], [[eight-step-genai-research-workflow]], [[structured-literature-reviews]], [[three-layer-governance-framework]], [[ai-literacy-in-academia]], [[ai-research-ethics]], [[mabirizi-et-al-2025]]
+- Vedi anche: [[s44163-025-00495-3]], [[individual-boost-vs-collective-homogenization]], [[criteria-centric-genai-integration]], [[eight-step-genai-research-workflow]], [[structured-literature-reviews]], [[three-layer-governance-framework]], [[ai-literacy-in-academia]], [[ai-research-ethics]]
 

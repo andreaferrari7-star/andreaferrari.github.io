@@ -123,6 +123,14 @@ Il superamento di tutti e cinque gli assi fornisce agli sviluppatori e alle auto
 - [[software-as-a-medical-device-salute-mentale]] — Requisiti SaMD e normative internazionali per i dispositivi medici in salute mentale.
 - [[ctrs-automated-evaluation]] — Valutazione automatica dell'aderenza alle scale CBT.
 - [[synthetic-clinical-dialogues]] — Metodologia di creazione e validazione di dataset clinici sintetici.
+- [[2604-23445v1]]
+- [[clinical-fidelity-assessment]]
+- [[three-layer-governance-framework]]
+- [[automated-clinical-ai-red-teaming]]
+- [[audit-bias-llm-clinici]]
+- [[validita-psicometrica-llm]]
+- [[ai-assisted-psychotherapy]]
+- [[000]]
 
 ## Riferimenti Bibliografici
 - Asgari, E., Brown, N. M., Dubois, M., Khalil, S., Balloch, J., Yeung, J. A., & Pimentel, D. (2025). A framework to assess clinical safety and hallucination rates of LLMs for medical text summarisation. npj Digital Medicine.

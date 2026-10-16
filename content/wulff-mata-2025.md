@@ -41,6 +41,6 @@ Vedi anche:
 *   [[shared-semantic-space]]
 *   [[jingle-fallacy]]
 *   [[jangle-fallacy]]
-*   [[llm-assisted-semantic-clustering]]
+*   [[llm-assisted-clustering]]
 *   [[dual-validity-framework]]
 

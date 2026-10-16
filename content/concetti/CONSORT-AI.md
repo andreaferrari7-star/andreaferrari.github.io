@@ -20,4 +20,4 @@ source_papers: ["CONSORT-AI (2020)"]
 - Cruz Rivera, S., Liu, X., Chan, A. W., Denniston, A. K., & Calvert, M. J. (2020). Guidelines for clinical trial protocols for interventions involving artificial intelligence: the SPIRIT-AI extension. *Nature Medicine*, 26(9), 1351–1363. https://doi.org/10.1038/s41591-020-1037-7
 
 ## Relazioni
-- Vedi anche: [[TRIPOD_AI2024]], [[linee-guida-prisma]]
+- Vedi anche: [[tripod-ai2024]], [[linee-guida-prisma]]

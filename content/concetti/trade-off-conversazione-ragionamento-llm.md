@@ -75,7 +75,7 @@ Questo modello disaccoppiato consente di sfruttare i punti di forza complementar
 
 ## Relazioni
 - [[dsm5agentflow]]: Architettura del workflow multi-agente per la simulazione e la diagnosi clinica.
-- [[explainable-mental-disorder-diagnosis]]: Trasparenza, evidenze semantiche e razionali diagnostici.
+- [[explainable-mental-health-diagnosis]]: Trasparenza, evidenze semantiche e razionali diagnostici.
 - [[synthetic-clinical-dialogues]]: Generazione di dataset sintetici per benchmarking multi-modello.
 - [[ozgun-et-al-2025]]: Sintesi completa della pubblicazione CIKM 2025.
 - [[large-language-models]]: Fondamenti teorici ed evoluzione dei modelli linguistici.

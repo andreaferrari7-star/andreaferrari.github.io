@@ -183,7 +183,7 @@ L'evidenza principale dello studio è la divergenza di capacità tra modelli lin
 
 ## Relazioni
 - [[dsm5agentflow]]: Architettura e dinamiche del workflow multi-agente per lo screening clinico.
-- [[explainable-mental-disorder-diagnosis]]: Metodologie di trasparenza, tagging clinico e razionali diagnostici step-by-step.
+- [[explainable-mental-health-diagnosis]]: Metodologie di trasparenza, tagging clinico e razionali diagnostici step-by-step.
 - [[trade-off-conversazione-ragionamento-llm]]: Analisi del divario prestazionale tra modelli conversazionali e modelli di ragionamento nell'IA clinica.
 - [[synthetic-clinical-dialogues]]: Generazione controllata di dialoghi sintetici per la ricerca psicoterapeutica e il superamento della scarsità dei dati.
 - [[simulazione-pazienti-ai]]: Metodologie generali di modellizzazione dei pazienti virtuali.

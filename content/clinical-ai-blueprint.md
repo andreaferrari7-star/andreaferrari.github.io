@@ -39,6 +39,6 @@ Il **Clinical AI Blueprint** è un quadro sistematico e programmatico per la tra
 
 ## Relazioni
 - **Concetti Chiave**: [[coast-framework-clinical-prompting]], [[patient-psi-simulazione-clinica]], [[mind-safe-framework]], [[chart-reporting-guideline]].
-- **Framework Metodologici**: [[haicef-framework]], [[chai-blueprint-health-ai]], [[five-axis-clinical-evaluation]], [[reflective-interpretability]], [[stepwise-cot]].
+- **Framework Metodologici**: [[haicef-framework]], [[chai-blueprint-health-ai]], [[five-axis-mental-health-evaluation-framework]], [[reflective-interpretability]], [[stepwise-cot]].
 - **Governance**: [[gdpr-governance-mental-health-ai]], [[rischio-suicidario-ai-limits]], [[three-layer-governance-framework]], [[audit-bias-llm-clinici]].
 - **Modelli Clinici**: [[cbt-dialogue-systems-and-tools]], [[deliberate-practice-in-psicoterapia-ia]], [[modello-centauro-clinico]].

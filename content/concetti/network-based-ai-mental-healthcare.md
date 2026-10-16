@@ -70,4 +70,8 @@ graph TD
 - [[stepped-care-ai-integration]]
 - [[modello-centauro-clinico]]
 - [[human-in-the-reasoning]]
+- [[10-1177-20552076261421688]]
+- [[clinical-nlp-domain-shift]]
+- [[ai-assisted-psychotherapy]]
+- [[digital-therapeutic-alliance]]
 

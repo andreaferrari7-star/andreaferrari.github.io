@@ -250,7 +250,7 @@ flowchart LR
 - [[multimodal-diagnostic-ai-mental-health]]: Architetture diagnostiche ibride (NLP, wearables, neuroimaging, cartelle cliniche elettroniche).
 - [[cross-cultural-bias-and-fairness-audits-ai]]: Analisi e mitigazione dei bias etnici, linguistici e culturali nei modelli predittivi psichiatrici.
 - [[software-as-a-medical-device-salute-mentale]]: Standard regolatori e percorsi di validazione clinica per algoritmi e dispositivi SaMD.
-- [[explainable-mental-disorder-diagnosis]]: Metodologie XAI (LIME, SHAP) per la trasparenza e l'adozione fiduciaria da parte di clinici e pazienti.
+- [[explainable-mental-health-diagnosis]]: Metodologie XAI (LIME, SHAP) per la trasparenza e l'adozione fiduciaria da parte di clinici e pazienti.
 - [[three-layer-governance-framework]]: Modello strutturato a tre livelli per la sicurezza tecnica, la governance clinica e la regolamentazione istituzionale.
 - [[etica-privacy-bias-ia-clinica]]: Fondamenti deontologici e rischi di violazione della riservatezza nell'IA applicata alla psicoterapia.
 - [[evidence-adoption-gap-ai-mental-health]]: Il divario tra la proliferazione commerciale di app e la reale validazione empirica evidence-based.

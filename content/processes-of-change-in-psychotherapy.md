@@ -18,7 +18,7 @@ Nella psicoterapia evidence-based contemporanea e nella [[process-based-therapy]
 4. **Fattori Comuni vs Fattori Specifici**: I fattori relazionali e di alleanza terapeutica costituiscono contesti facilitanti necessari ma spesso non sufficienti, che interagiscono con i processi specifici di apprendimento, regolazione emotiva e ristrutturazione cognitiva.
 
 ## Evidenze dalla Letteratura
-La scoping review di [[1-s2-0-s0272735826000917-main|Hofmann et al. (2026)]], basata su 778 studi e 684 processi raggruppati tramite [[llm-assisted-semantic-clustering]], evidenzia:
+La scoping review di [[1-s2-0-s0272735826000917-main|Hofmann et al. (2026)]], basata su 778 studi e 684 processi raggruppati tramite [[llm-assisted-clustering]], evidenzia:
 
 - **Iper-focalizzazione sui Fattori Comuni**: I processi di alleanza terapeutica, collaborazione e funzionamento interpersonale rappresentano il 20.6% di tutte le etichette studiate in letteratura, riflettendo un'attenzione sproporzionata rispetto alla ricerca sui meccanismi specifici.
 - **Principali Domini di Processo CBT**:
@@ -35,7 +35,7 @@ La scoping review di [[1-s2-0-s0272735826000917-main|Hofmann et al. (2026)]], ba
 
 ## Relazioni
 - [[1-s2-0-s0272735826000917-main]]
-- [[llm-assisted-semantic-clustering]]
+- [[llm-assisted-clustering]]
 - [[process-based-therapy]]
 - [[jingle-fallacy]]
 - [[jangle-fallacy]]

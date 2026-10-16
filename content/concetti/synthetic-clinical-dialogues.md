@@ -92,7 +92,7 @@ La validazione della qualità dei dialoghi sintetici richiede un approccio integ
 - [[dsm5agentflow]]: Il framework multi-agente per la generazione e valutazione di dialoghi DSM-5.
 - [[ozgun-et-al-2025]]: Sintesi del paper di riferimento (CIKM 2025).
 - [[simulazione-pazienti-ai]]: Principi generali di simulazione di pazienti virtuali e prompt engineering.
-- [[explainable-mental-disorder-diagnosis]]: Trasparenza ed esplicabilità diagnostica basata su dialoghi clinici.
+- [[explainable-mental-health-diagnosis]]: Trasparenza ed esplicabilità diagnostica basata su dialoghi clinici.
 - [[trade-off-conversazione-ragionamento-llm]]: Valutazione comparativa dei modelli linguistici su compiti sintetici.
 - [[three-layer-governance-framework]]: Quadro etico e di governance per l'uso dell'IA in salute mentale.
 - [[ai-assisted-psychotherapy]]: Stato dell'arte dell'integrazione tra IA e psicoterapia.

@@ -21,4 +21,4 @@ source_papers: ["STARD-AI (2021)"]
 - Bossuyt, P. M., Reitsma, J. B., Bruns, D. E., Gatsonis, C. A., Glasziou, P. P., Irwig, L., ... & STARD Group. (2015). STARD 2015: an updated list of essential items for reporting diagnostic accuracy studies. *BMJ*, 351, h5527.
 
 ## Relazioni
-- Vedi anche: [[TRIPOD_AI2024]], [[linee-guida-prisma]]
+- Vedi anche: [[tripod-ai2024]], [[linee-guida-prisma]]

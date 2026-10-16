@@ -41,7 +41,7 @@ Per neutralizzare il paradosso, sono stati convalidati framework di confinamento
 *   **Architettura LLM4CBT:** Risolve il bias da problem-solving precoce imponendo regole dinamiche di interazione (es. rallentamento del *pacing*, risposte riflessive) (Kim et al., 2025).
 
 ### Riferimenti Bibliografici
-- Wu, K., et al. (2025). Why Chain of Thought Fails in Clinical Text Understanding. *arXiv:2509.21933* / *OpenReview*.
+- Wu, J., Xie, K., Gu, B., Krüger, N., Lin, K. J., & Yang, J. (2025). *Why chain of thought fails in clinical text understanding* (arXiv:2509.21933). arXiv. https://doi.org/10.48550/arXiv.2509.21933
 - Source-Aware Clinical AI Group. (2026). When Reasoning Hurts: Source-Aware Evaluation of Frontier LLMs for Clinical SOAP Note Generation. *arXiv:2605.24902*.
 - Kim, Y., Choi, C.-H., Cho, S., Sohn, J.-Y., & Kim, B.-H. (2025). Aligning large language models for cognitive behavioral therapy: A proof-of-concept study. *Frontiers in Psychiatry*, *16*, 1583739. https://doi.org/10.3389/fpsyt.2025.1583739
 - Gallifant, J., et al. (2025). The TRIPOD-LLM reporting guideline for studies using large language models. *medRxiv*.

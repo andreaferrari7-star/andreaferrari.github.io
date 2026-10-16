@@ -83,6 +83,6 @@ Dato un tempo di cutoff $t_C$, il corpus futuro è $\mathcal{C}_{\text{future}} 
 
 ## Relazioni
 
-*   Vedi anche: [[2603-27146v3]], [[stepwise-cot]], [[time-sliced-scientific-forecasting]], [[hypothesis-generation]], [[hybrid-ai-research-workflows]], [[large-language-models]], [[structured-literature-reviews]], [[llm-assisted-synthesis]], [[wang-et-al-2026]]
+*   Vedi anche: [[2603-27146v3]], [[stepwise-cot]], [[time-sliced-scientific-forecasting]], [[hypothesis-generation]], [[hybrid-ai-research-workflows]], [[large-language-models]], [[structured-literature-reviews]], [[llm-assisted-synthesis]]
 
 

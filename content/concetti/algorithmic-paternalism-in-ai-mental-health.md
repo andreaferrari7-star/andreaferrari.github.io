@@ -59,4 +59,4 @@ Il rischio è amplificato dalle disuguaglianze socio-sanitarie (Dzangare & Gulu,
 - [[simulated-empathy-vs-authentic-presence]]
 - [[human-in-the-reasoning]]
 - [[cross-cultural-bias-and-fairness-audits-ai]]
-- [[explainable-mental-disorder-diagnosis]]
+- [[explainable-mental-health-diagnosis]]

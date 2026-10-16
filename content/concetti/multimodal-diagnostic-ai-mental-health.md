@@ -74,7 +74,7 @@ Sebbene i modelli multimodali raggiungano le prestazioni più elevate ($\text{AU
 
 ## Relazioni
 - [[kandeel-et-al-2026]]
-- [[explainable-mental-disorder-diagnosis]]
+- [[explainable-mental-health-diagnosis]]
 - [[federated-learning-and-differential-privacy-mental-health]]
 - [[gdpr-governance-mental-health-ai]]
 - [[software-as-a-medical-device-salute-mentale]]

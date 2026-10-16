@@ -294,7 +294,7 @@ flowchart LR
 | Standard | Target Primario | Architettura Checklist | Focus Metodologico Distintivo |
 | :--- | :--- | :--- | :--- |
 | **TRIPOD-LLM (2025)** | Modelli Linguistici Generativi in Sanità | **19 macro / 50 sotto-item** (Filtraggio modulare 4 design × 9 task) | Parametri di inferenza stocastica, system prompt, date estreme dei dati testuali, qualifiche valutatori, living guideline trimestrale. |
-| **[[TRIPOD_AI2024\|TRIPOD+AI (2024)]]** | Modelli Predittivi di Regressione e ML Classico | **27 macro / 52 sotto-item** (Matrice D, E, D;E) | Calibrazione continua, utilità clinica (Decision Curve Analysis), fairness pervasiva, non-esistenza del modello validato una volta per tutte. |
+| **[[tripod-ai2024\|TRIPOD+AI (2024)]]** | Modelli Predittivi di Regressione e ML Classico | **27 macro / 52 sotto-item** (Matrice D, E, D;E) | Calibrazione continua, utilità clinica (Decision Curve Analysis), fairness pervasiva, non-esistenza del modello validato una volta per tutte. |
 | **[[chart-reporting-guideline\|CHART (2025)]]** | Chatbot per Consigli Sanitari (*Chatbot Health Advice*) | **12 macro / 39 sotto-item** | Sessioni di chat multi-turno, sicurezza delle raccomandazioni cliniche, accecamento valutatori, diagramma di flusso query. |
 | **[[elevate-genai-framework\|ELEVATE-GenAI (2025)]]** | Ricerca Economico-Sanitaria ed Esiti (HEOR) | **10 domini / Scoring a 30 punti** | Modelli markoviani, de-identificazione PHI, living guideline con livelli di maturità metrologica. |
 | **CANGARU (2023)** | Uso di GenAI nella Scrittura Accademica | Checklist trasversale | Trasparenza sull'uso di LLM per redazione manoscritti, traduzione e correzione bozze. |

@@ -45,4 +45,4 @@ Il documento identifica 6 pilastri fondamentali per l'integrazione dell'IA:
 *   APA Office of Health Care Innovation. (2025). *Readiness Evaluation for AI-Mental Health Deployment and Implementation (READI)*. American Psychological Association.
 
 ## Relazioni
-- Vedi anche: [[informed-consent-for-clinical-ai]], [[human-oversight-and-liability-in-clinical-ai]], [[gdpr-governance-mental-health-ai]], [[three-layer-governance-framework]], [[algorithmic-paternalism-in-ai-mental-health]], [[human-in-the-reasoning]], [[audit-bias-llm-clinici]], [[modello-centauro-clinico]], [[software-as-a-medical-device-salute-mentale]], [[ai-research-ethics]], [[five-axis-clinical-evaluation]]
+- Vedi anche: [[informed-consent-for-clinical-ai]], [[human-oversight-and-liability-in-clinical-ai]], [[gdpr-governance-mental-health-ai]], [[three-layer-governance-framework]], [[algorithmic-paternalism-in-ai-mental-health]], [[human-in-the-reasoning]], [[audit-bias-llm-clinici]], [[modello-centauro-clinico]], [[software-as-a-medical-device-salute-mentale]], [[ai-research-ethics]], [[five-axis-mental-health-evaluation-framework]]

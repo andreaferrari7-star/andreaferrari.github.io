@@ -22,4 +22,4 @@ source_papers: ["1-s2.0-S0272735826000917-main.pdf"]
 - Tee, J., & Kazantzis, N. (2011). Collaborative empiricism in cognitive therapy: A definition and theory for the relationship construct. *Clinical Psychology: Science and Practice*, 18(1), 47–61. https://doi.org/10.1111/j.1468-2850.2010.01234.x
 
 ## Relazioni
-- Vedi anche: [[jingle-fallacy]], [[jangle-fallacy]], [[wulff-mata-2026]], [[llm-assisted-clustering]], [[process-of-change]], [[hofmann-et-al-2026]]
+- Vedi anche: [[jingle-fallacy]], [[jangle-fallacy]], [[wulff-mata-2025]], [[llm-assisted-clustering]], [[process-of-change]], [[hofmann-et-al-2026]]

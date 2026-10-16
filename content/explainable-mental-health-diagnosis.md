@@ -23,12 +23,24 @@ source_papers: ["2508.11398v2.pdf"]
 - **Trade-off tra Fluenza Conversazionale e Rigore di Ragionamento:** La sperimentazione comparativa di Ozgun et al. (2025) evidenzia una divergenza critica tra modelli linguistici:
   - Modelli orientati al dialogo (*dialogue-focused LLM*, es. Llama-4, Mistral-Saba) producono testi empatici e scorrevoli ma generano referti opachi o tautologici ("i sintomi appaiono coerenti con i criteri DSM-5"), senza citare clausole o evidenze dirette.
   - Modelli specializzati nel ragionamento logico (*reasoning-focused LLM*, es. Qwen-QwQ-32b) sacrificano parzialmente la fluidità del parlato ma producono catene diagnostiche complete, rigorose e perfettamente tracciabili, garantendo la massima fedeltà nosografica.
+- **Benchmark sull'esplicabilità:** Lo studio genera 8.000 conversazioni simulate tra terapeuta e cliente, 2.000 per ciascuno dei quattro modelli testati (Ozgun et al., 2025):
+  - Qwen-QwQ-32b produce un razionale numerato che ancora i sintomi alle clausole formali (Criteri A–E) e risulta il più verificabile.
+  - GPT-4.1-Nano inserisce più marcatori degli altri modelli (29 tag `<sym>` e 6 tag `<med>`), ma non cita mai le clausole del DSM e non organizza il ragionamento in passi.
+  - Llama-4-scout-17b ottiene l'esplicabilità più bassa su tutte le metriche: nessun criterio citato e nessuna citazione del paziente.
+- **Esempio di razionale trasparente** (Qwen-QwQ-32b, Ozgun et al., 2025):
+  > 1. `<sym>Auditory hallucinations for 3 weeks</sym>` satisfy **DSM-5 Criterion A1**.
+  > 2. No mood episode longer than the psychosis (**Criterion D**).
+  > 3. Normal toxicology panel excludes substance aetiology (**Criterion E**).
+  > 4. `<quote>“I know these voices aren’t real”</quote>` indicates partial insight.
+  > 5. Hence provisional `<med>Schizophreniform Disorder</med>`.
+- **Esempio di razionale opaco** (Llama-4-scout-17b, Ozgun et al., 2025):
+  > *"Symptoms appear consistent with DSM-5 mood and anxiety criteria. Provisional diagnosis: MDD, GAD, Panic."*
 - **Implicazioni Medico-Legali e Sicurezza Clinica:** La spiegabilità diagnostica è un prerequisito fondamentale per la conformità normativa (es. Software as a Medical Device - SaMD, AI Act) e per la governance etica della salute mentale digitale, consentendo la *root-cause analysis* in caso di errore diagnostico e facilitando la supervisione umana (*Human-in-the-Loop*) (Ozgun et al., 2025).
 
-**Riferimenti Bibliografici:**
-- Ozgun, M. C., Pei, J., Hindriks, K., Donatelli, L., Liu, Q., & Wang, J. (2025). Trustworthy AI Psychotherapy: Multi-Agent LLM Workflow for Counseling and Explainable Mental Disorder Diagnosis. In *Proceedings of the 34th ACM International Conference on Information and Knowledge Management (CIKM ’25)*, November 10–14, 2025, Seoul, Republic of Korea. ACM, New York, NY, USA, 10 pages. https://doi.org/10.1145/3746252.3761164 / arXiv:2508.11398v2 [cs.HC]
+## Riferimenti Bibliografici
 - Barkan, O., Toib, Y., Elisha, Y., & Koenigstein, N. (2024). A learning-based approach for explaining language models. In *Proceedings of CIKM ’24* (pp. 98–108). ACM.
 - Cirasola, A., Szegedi, D., Fonagy, P., & Midgley, N. (2024). “You can't really have a relationship with them because they just ask you questions”: Understanding adolescent dropout. *Frontiers in Psychology*, 15, 1381901.
+- Ozgun, M. C., Pei, J., Hindriks, K., Donatelli, L., Liu, Q., & Wang, J. (2025). Trustworthy AI Psychotherapy: Multi-Agent LLM Workflow for Counseling and Explainable Mental Disorder Diagnosis. In *Proceedings of the 34th ACM International Conference on Information and Knowledge Management (CIKM ’25)*, November 10–14, 2025, Seoul, Republic of Korea. ACM, New York, NY, USA, 10 pages. https://doi.org/10.1145/3746252.3761164 / arXiv:2508.11398v2 [cs.HC]
 
 ## Relazioni
-- Vedi anche: [[2508-11398v2]], [[dsm5agentflow]], [[audit-bias-llm-clinici]], [[clinical-ai-simulation]], [[risk-ontology-ai-psychotherapy]], [[supervisione-clinica-ai]], [[modello-centauro-clinico]], [[software-as-a-medical-device-salute-mentale]]
+- Vedi anche: [[2508-11398v2]], [[dsm5agentflow]], [[ozgun-et-al-2025]], [[trade-off-conversazione-ragionamento-llm]], [[synthetic-clinical-dialogues]], [[audit-bias-llm-clinici]], [[clinical-ai-simulation]], [[risk-ontology-ai-psychotherapy]], [[supervisione-clinica-ai]], [[modello-centauro-clinico]], [[human-in-the-reasoning]], [[ai-clinical-decision-support]], [[rag-in-psicoterapia]], [[software-as-a-medical-device-salute-mentale]]

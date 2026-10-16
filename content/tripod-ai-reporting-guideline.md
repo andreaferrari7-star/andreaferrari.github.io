@@ -171,4 +171,4 @@ graph TD
 - van Smeden, M., Moons, K. G., de Groot, J. A., et al. (2019). Sample size for binary logistic prediction models: Beyond events per variable criteria. *Stat Methods Med Res*, *28*, 2455-74. https://doi.org/10.1177/0962280218784726
 
 ## Relazioni
-- Vedi anche: [[clinical-prediction-model-evaluation]], [[tripod-ai2024]], [[TRIPOD_AI2024]], [[CLAIM]], [[tripod-llm-reporting-guideline]], [[chart-reporting-guideline]], [[refine-reporting-checklist]], [[elevate-genai-framework]]
+- Vedi anche: [[clinical-prediction-model-evaluation]], [[tripod-ai2024]], [[CLAIM]], [[tripod-llm-reporting-guideline]], [[chart-reporting-guideline]], [[refine-reporting-checklist]], [[elevate-genai-framework]]

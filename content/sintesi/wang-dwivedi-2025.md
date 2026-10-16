@@ -264,4 +264,4 @@ Gli autori identificano le priorità per la ricerca futura:
 - [[ai-clinical-decision-support]]: Sistemi di supporto alle decisioni cliniche in psichiatria e psicoterapia.
 
 ## Relazioni
-- Vedi anche: [[41398-2025-article-3497]], [[multi-omics-ai-psychiatry]], [[non-coding-rna-psychiatric-biomarkers]], [[ai-multi-omics-psychiatric-biomarkers]], [[multi-omics-depression-suicide]], [[non-coding-rna-biomarkers-psychiatry]], [[peripheral-blood-biomarkers-and-exosomes-in-mdd]], [[reti-neurali-in-psicologia]]
+- Vedi anche: [[41398-2025-article-3497]], [[multi-omics-ai-psychiatry]], [[non-coding-rna-biomarkers-psychiatry]], [[ai-multi-omics-psychiatric-biomarkers]], [[multi-omics-depression-suicide]], [[peripheral-blood-biomarkers-and-exosomes-in-mdd]], [[reti-neurali-in-psicologia]]
