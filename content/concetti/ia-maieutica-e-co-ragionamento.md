@@ -7,7 +7,7 @@ source_papers: ["07-10 Riunione_ Test e Valutazione di “Libet Prime” (Tutor 
 # IA Maieutica e Co-Ragionamento
 
 **Summary**: Paradigma pedagogico e clinico che impiega l'intelligenza artificiale non come fornitore passivo di soluzioni rapide, ma come interlocutore maieutico e socratico volto ad allungare il processo di riflessione critica, prevenire l'over-confidence e gestire i bias cognitivi.
-**Fonti**: [[07-10-riunione-test-libet-prime|Riunione 07-10: Test e Valutazione di Libet Prime, Trainer Simulator e Piano Operativo]], [[04-20-tavola-rotonda-integrazione-ia|Tavola Rotonda: Integrazione dell'IA in Psicoterapia — Governance, Co-Ragionamento e Modelli Ibridi]]
+**Fonti**: Riunione del gruppo del 10 luglio 2026 (verbale interno), [[04-20-tavola-rotonda-integrazione-ia|Tavola Rotonda: Integrazione dell'IA in Psicoterapia — Governance, Co-Ragionamento e Modelli Ibridi]]
 **Last updated**: 2026-08-27
 ---
 
@@ -64,6 +64,5 @@ L'approccio maieutico è la declinazione operativa del paradigma [[human-in-the-
 - [[libet-prime]]
 - [[trainer-simulator]]
 - [[testing-e-validazione-agenti-didattici]]
-- [[07-10-riunione-test-libet-prime]]
 - [[digital-therapeutic-alliance]]
 - [[ai-research-ethics]]

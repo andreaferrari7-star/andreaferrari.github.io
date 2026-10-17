@@ -7,7 +7,7 @@ source_papers: ["05-11 Discussione del Gruppo di Ricerca su AI e Psicoterapia.tx
 # Software as a Medical Device (SaMD) in Salute Mentale
 
 **Summary**: Framework regolatorio, metodologico e clinico per l'integrazione di sistemi di intelligenza artificiale certificati come dispositivi medici (SaMD) nei servizi sanitari pubblici, con focus sulla gestione dei pazienti Not-On-Track e la validazione tramite RCT in cieco.
-**Fonti**: [[05-11-discussione-gruppo-ricerca|Riunione 05-11: Discussione del Gruppo di Ricerca su AI e Psicoterapia]]
+**Fonti**: Riunione del gruppo di ricerca dell'11 maggio 2026 (verbale interno)
 **Last updated**: 2026-08-27
 
 ---
@@ -57,7 +57,6 @@ Ottenere la certificazione SaMD impone requisiti di evidenza empirica eccezional
 
 ## Relazioni
 
-- [[05-11-discussione-gruppo-ricerca]]
 - [[libet-prime-agenti-didattici]]
 - [[human-in-the-reasoning]]
 - [[digital-therapeutic-alliance]]

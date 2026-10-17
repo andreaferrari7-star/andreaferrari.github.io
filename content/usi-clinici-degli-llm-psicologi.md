@@ -18,7 +18,7 @@ source_papers: ["Using_Large_Language_Models_in_Psychological_Resea.pdf", "final
 - Limiti: allucinazioni fattuali, forte sensibilità al prompt, assenza di autentica comprensione semantica o intenzionalità clinica (Adeyemi, 2024; Adamkovič, 2025).
 
 ### 2. Documentazione clinica "bottom-up" (prassi di gruppo)
-- Nel progetto *inTherapy* gli LLM (es. Claude) elaborano le trascrizioni delle riunioni d'équipe ed estraggono caso indice, temi trasversali e snodi decisionali, producendo checklist e addendum operativi (cfr. [[07-17-riunione-corso-formazione]]).
+- Nel progetto *inTherapy* gli LLM (es. Claude) elaborano le trascrizioni delle riunioni d'équipe ed estraggono caso indice, temi trasversali e snodi decisionali, producendo checklist e addendum operativi (cfr. riunione del gruppo del 17 luglio 2026).
 - Il risultato è un *Living Clinical Document*, aggiornato per aree tematiche e con versioning: vedi [[bottom-up-clinical-documentation]].
 - Si tratta di una pratica del gruppo, non di un dato empirico.
 

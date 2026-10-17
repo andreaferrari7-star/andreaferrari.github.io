@@ -7,7 +7,7 @@ source_papers: ["04-20 Tavola rotonda_ Integrazione dell’IA in psicoterapia �
 # Human-in-the-Reasoning
 
 **Summary**: Paradigma di interazione clinica uomo-macchina che supera la mera supervisione operativa (Human-in-the-loop), integrando il clinico nella comprensione e co-guida attiva dei processi inferenziali, logico-decisionali e metacognitivi del modello.
-**Fonti**: [[04-20-tavola-rotonda-integrazione-ia|Tavola Rotonda: Integrazione dell'IA in Psicoterapia — Governance, Co-Ragionamento e Modelli Ibridi]], [[05-08-riunione-knowledge-base|Riunione 05-08: Sviluppo Knowledge Base AI, Etica e Applicazioni Cliniche]]
+**Fonti**: [[04-20-tavola-rotonda-integrazione-ia|Tavola Rotonda: Integrazione dell'IA in Psicoterapia — Governance, Co-Ragionamento e Modelli Ibridi]], Riunione del gruppo dell'8 maggio 2026 (verbale interno)
 **Last updated**: 2026-08-27
 ---
 
@@ -32,7 +32,6 @@ Il concetto di **Human-in-the-Reasoning** ridefinisce il ruolo del clinico nell'
 
 ## Relazioni
 
-- [[05-08-riunione-knowledge-base]]
 - [[04-20-tavola-rotonda-integrazione-ia]]
 - [[simulazione-pazienti-ai]]
 - [[digital-therapeutic-alliance]]

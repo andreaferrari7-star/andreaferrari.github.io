@@ -28,11 +28,10 @@ La formazione specialistica sull'IA in contesti clinici richiede un approccio sp
 
 ## Relazioni
 
-- [[07-08-riunione-pianificazione-corso]]
 - [[second-brain-clinico]]
 - [[ai-literacy-in-academia]]
 - [[human-in-the-reasoning]]
 - [[prompting-in-psychology]]
 
 ## Fonti
-- [[07-08-riunione-pianificazione-corso|Riunione 07-08: Pianificazione Corso IA per Psicoterapia — Struttura, Validazione Interessi, Microprogettazione e Coordinamento]]
+- Riunione del gruppo dell'8 luglio 2026 (verbale interno)

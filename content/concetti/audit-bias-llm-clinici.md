@@ -43,7 +43,7 @@ Le metodologie principali includono:
 3.  **Auditing Continuo tramite Meta-Prompting**: Utilizzo di tool di ispezione di secondo livello per scansionare l'output di altri agenti e segnalare gradi di tendenziosità argomentativa.
 
 ## Fonti
-*   [[06-05-riunione-impiego-ia|Riunione 06-05: Impiego dell'IA in Ambito Clinico, Bias e Formazione]]
+*   Riunione del gruppo del 5 giugno 2026 (verbale interno)
 *   [[04-20-tavola-rotonda-integrazione-ia|Tavola Rotonda: Integrazione dell'IA in Psicoterapia — Governance, Co-Ragionamento e Modelli Ibridi]]
 
 ## Relazioni
@@ -51,5 +51,4 @@ Le metodologie principali includono:
 *   [[human-in-the-reasoning]]
 *   [[large-language-models]]
 *   [[machine-psychology]]
-*   [[06-05-riunione-impiego-ia]]
 *   [[gap-tecnologico-scientifico]]

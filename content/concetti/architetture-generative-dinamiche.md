@@ -7,7 +7,7 @@ source_papers: ["06-05 Riunione_ Impiego dell'IA in ambito clinico, bias e forma
 # Architetture Software Generative e Interfacce Fluide
 
 **Summary**: Modello architetturale per software clinici e ambienti digitali in cui interfacce utente, dashboard, flussi di lavoro e moduli di monitoraggio non sono codificati staticamente ma generati e riadattati in tempo reale da meta-agenti IA tramite istruzioni in linguaggio naturale (*meta-prompting*).
-**Fonti**: [[06-05-riunione-impiego-ia|Riunione 06-05: Impiego dell'IA in Ambito Clinico, Bias e Formazione]]
+**Fonti**: Riunione del gruppo del 5 giugno 2026 (verbale interno)
 **Last updated**: 2026-08-27
 ---
 
@@ -42,5 +42,4 @@ graph TD
 - [[gap-tecnologico-scientifico]]
 - [[augmented-psychotherapy]]
 - [[human-in-the-reasoning]]
-- [[06-05-riunione-impiego-ia]]
 - [[digital-therapeutic-alliance]]

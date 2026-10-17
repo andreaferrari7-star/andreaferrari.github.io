@@ -42,11 +42,10 @@ Le evidenze sottolineano la necessità di cautele strutturali [1]:
 
 ## Fonti
 - [1] [[000|The Future of AI and Implementation Science in Mental Health (Wiltsey Stirman, 2026)]]
-- [2] [[03-13-avvio-gruppo-lavoro-ia-psicoterapia|Avvio del Gruppo di Lavoro sull'Intelligenza Artificiale in Psicoterapia (13 Marzo 2026)]]
+- [2] Riunione di avvio del gruppo di lavoro del 13 marzo 2026 (verbale interno)
 
 ## Relazioni
 - [[000]]
-- [[03-13-avvio-gruppo-lavoro-ia-psicoterapia]]
 - [[clinical-fidelity-assessment]]
 - [[large-language-models]]
 - [[ai-research-ethics]]

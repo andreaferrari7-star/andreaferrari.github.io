@@ -61,7 +61,7 @@ graph TD
 - **Supervisione Continua e Scalabile:** Superamento del collo di bottiglia della supervisione manuale (che richiede l'ascolto integrale di ore di registrazione da parte di supervisori esperti).
 - **Cruscotto di Autovalutazione:** Restituzione al terapeuta di metriche quantitative sulle aree di eccellenza e sui punti deboli (es. insufficiente revisione dei compiti a casa, eccessiva direttività, dispersione dell'agenda).
 - **Integrazione con Ambienti di Simulazione (PATIENT-Ψ):** Valutazione automatica istantanea delle competenze degli studenti durante simulazioni con pazienti virtuali LLM (Wang et al., 2024a).
-- **Piattaforme commerciali:** il fornitore di una piattaforma clinica ha riferito al gruppo un progetto con Kazantzis e l'Università di Melbourne per confrontare i punteggi CTRS assegnati da una pipeline di IA con quelli dei supervisori. È una dichiarazione del fornitore, non un risultato pubblicato (cfr. [[10-16-riunione-demo-piattaforma-pilota]]).
+- **Piattaforme commerciali:** il fornitore di una piattaforma clinica ha riferito al gruppo un progetto con Kazantzis e l'Università di Melbourne per confrontare i punteggi CTRS assegnati da una pipeline di IA con quelli dei supervisori. È una dichiarazione del fornitore, non un risultato pubblicato (cfr. incontro del gruppo con un fornitore del 16 ottobre 2026).
 
 ---
 

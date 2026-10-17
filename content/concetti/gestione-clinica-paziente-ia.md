@@ -7,7 +7,7 @@ source_papers: ["07-17 Riunione_ Corso di Formazione sull'IA in Psicologia e Uti
 # Gestione Clinica dell'Uso dell'IA da parte del Paziente
 
 **Summary**: Inquadramento clinico, psicopatologico e operativo dell'utilizzo autonomo di agenti conversazionali (LLM/chatbot) da parte dei pazienti in psicoterapia. Analisi dei pattern di funzionamento disfunzionale, rischi di bypass metacognitivo, protocolli di assessment clinico e integrazione nella concettualizzazione cognitivo-comportamentale (ABC).
-**Fonti**: [[07-17-riunione-corso-formazione|Riunione 07-17: Corso di Formazione sull'IA in Psicologia, Gestione Clinica del Paziente, LLM-Wiki e Documentazione Bottom-Up]]
+**Fonti**: Riunione del gruppo del 17 luglio 2026 (verbale interno)
 **Last updated**: 2026-08-27
 ---
 
@@ -87,7 +87,6 @@ Sussiste una lacuna nella letteratura clinica e nelle linee guida deontologiche 
 ---
 
 ## Relazioni
-- [[07-17-riunione-corso-formazione]]
 - [[digital-therapeutic-alliance]]
 - [[human-in-the-reasoning]]
 - [[ai-assisted-psychotherapy]]

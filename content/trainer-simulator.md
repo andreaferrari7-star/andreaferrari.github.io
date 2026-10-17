@@ -7,7 +7,7 @@ source_papers: ["07-10 Riunione_ Test e Valutazione di “Libet Prime” (Tutor 
 # Trainer Simulator
 
 **Summary**: Simulatore conversazionale basato su LLM (Interview Trainer) per l'addestramento pratico di psicoterapeuti in formazione, dotato di una libreria di pazienti virtuali su tre livelli di difficoltà, comandi di controllo del setting e rubrica di valutazione analitica delle competenze.
-**Fonti**: [[07-10-riunione-test-libet-prime|Riunione 07-10: Test e Valutazione di Libet Prime, Trainer Simulator e Piano Operativo]]
+**Fonti**: Riunione del gruppo del 10 luglio 2026 (verbale interno)
 **Last updated**: 2026-08-27
 
 ---
@@ -70,7 +70,6 @@ Il Trainer Simulator risponde all'esigenza formativa di offrire agli allievi dei
 
 ## Relazioni
 - [[libet-prime]]
-- [[07-10-riunione-test-libet-prime]]
 - [[simulazione-pazienti-ai]]
 - [[clinical-ai-simulation]]
 - [[human-in-the-reasoning]]

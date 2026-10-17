@@ -43,11 +43,9 @@ L'agente utilizza un routing dinamico tra 5 modalità funzionali per gestire eff
 
 ## Relazioni
 
-- [[07-10-riunione-test-libet-prime]]
 - [[trainer-simulator]]
 - [[testing-e-validazione-agenti-didattici]]
 - [[ia-maieutica-e-co-ragionamento]]
 - [[human-in-the-reasoning]]
 - [[simulazione-pazienti-ai]]
-- [[05-08-riunione-knowledge-base]]
 - [[discussione-panel-ia-libet-2026]]

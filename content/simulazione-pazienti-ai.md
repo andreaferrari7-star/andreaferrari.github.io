@@ -7,7 +7,7 @@ source_papers: ["05-08 Riunione_ Sviluppo Knowledge Base AI, Etica e Applicazion
 # Simulazione Pazienti AI
 
 **Summary**: Metodologia di impiego degli LLM per generare profili e dialoghi di pazienti virtuali a fini di addestramento psicoterapeutico, sperimentazione didattica e testing clinico.
-**Fonti**: [[05-08-riunione-knowledge-base|Riunione 05-08: Sviluppo Knowledge Base AI, Etica e Applicazioni Cliniche]]
+**Fonti**: Riunione del gruppo dell'8 maggio 2026 (verbale interno)
 **Last updated**: 2026-08-27
 
 ---
@@ -34,7 +34,6 @@ La **Simulazione Pazienti AI** consiste nella progettazione di agenti conversazi
 
 ## Relazioni
 
-- [[05-08-riunione-knowledge-base]]
 - [[human-in-the-reasoning]]
 - [[prompting-in-psychology]]
 - [[machine-psychology]]

@@ -28,10 +28,8 @@ Il modello si basa su una Knowledge Base ingegnerizzata di 26 capitoli, redatta 
 Il sistema adotta un approccio socratico, stimolando la riflessione metacognitiva invece di fornire risposte pre-confezionate. È stata documentata la gestione del *Prompt Regression* causato dall'*over-constraining*, risolta tramite la creazione di istanze *clean agent* e A/B testing su casi standardizzati.
 
 ## Relazioni
-- [[05-11-discussione-gruppo-ricerca]]
 - [[human-in-the-reasoning]]
 - [[simulazione-pazienti-ai]]
 - [[prompting-in-psychology]]
 - [[large-language-models]]
 - [[etica-privacy-bias-ia-clinica]]
-- [[05-08-riunione-knowledge-base]]

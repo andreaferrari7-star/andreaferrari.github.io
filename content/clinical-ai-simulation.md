@@ -15,5 +15,5 @@ source_papers: ["03-13 Avvio del Gruppo di Lavoro sull'Intelligenza Artificiale 
 - Limiti tecnici, bias e rischi specifici documentati: le risposte simulate possono riflettere pattern linguistici superficiali o bias presenti nei dataset di addestramento. La simulazione è intesa come esperienza integrativa e non sostitutiva della supervisione umana.
 
 ## Relazioni
-- Vedi anche: [[03-13-avvio-gruppo-lavoro-ia-psicoterapia]], [[ai-assisted-psychotherapy]], [[simulazione-pazienti-ai]], [[machine-psychology]], [[prompting-in-psychology]], [[ai-research-ethics]]
+- Vedi anche: [[ai-assisted-psychotherapy]], [[simulazione-pazienti-ai]], [[machine-psychology]], [[prompting-in-psychology]], [[ai-research-ethics]]
 

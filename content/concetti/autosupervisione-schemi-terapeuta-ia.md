@@ -7,7 +7,7 @@ source_papers: ["07-08 Riunione_ Pianificazione corso IA per psicoterapia — st
 # Autosupervisione e Schemi del Terapeuta nell'Uso dell'IA
 
 **Summary**: Modello di riflessione metacognitiva sull'interazione tra gli schemi di funzionamento personale del terapeuta e l'utilizzo clinico dell'Intelligenza Artificiale. Analizza le dinamiche in cui il ricorso ai modelli linguistici è guidato da bisogni di autorassicurazione di fronte all'incertezza diagnostica, prevenendo fenomeni di suggestionabilità algoritmica e bias di conferma.
-**Fonti**: [[07-08-riunione-pianificazione-corso|Riunione 07-08: Pianificazione Corso IA per Psicoterapia — Struttura, Validazione Interessi, Microprogettazione e Coordinamento]]
+**Fonti**: Riunione del gruppo dell'8 luglio 2026 (verbale interno)
 **Last updated**: 2026-08-27
 ---
 
@@ -52,7 +52,6 @@ graph TD
 ---
 
 ## Relazioni
-- [[07-08-riunione-pianificazione-corso]]
 - [[human-in-the-reasoning]]
 - [[second-brain-clinico]]
 - [[ai-research-ethics]]

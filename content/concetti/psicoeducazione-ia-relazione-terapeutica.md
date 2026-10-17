@@ -7,7 +7,7 @@ source_papers: ["07-08 Riunione_ Pianificazione corso IA per psicoterapia — st
 # Psicoeducazione sull'IA nella Relazione Terapeutica
 
 **Summary**: Linee guida cliniche per l'indagine, la psicoeducazione e la gestione terapeutica dell'utilizzo spontaneo dei modelli linguistici da parte dei pazienti. Include la diagnosi funzionale di comportamenti disfunzionali assistiti da IA (rimuginio ricorsivo, ricerca compulsiva di rassicurazioni) e la ristrutturazione dell'alleanza in una cornice triadica (paziente-terapeuta-tecnologia).
-**Fonti**: [[07-08-riunione-pianificazione-corso|Riunione 07-08: Pianificazione Corso IA per Psicoterapia — Struttura, Validazione Interessi, Microprogettazione e Coordinamento]]
+**Fonti**: Riunione del gruppo dell'8 luglio 2026 (verbale interno)
 **Last updated**: 2026-08-27
 ---
 
@@ -53,7 +53,6 @@ graph TD
 ---
 
 ## Relazioni
-- [[07-08-riunione-pianificazione-corso]]
 - [[digital-therapeutic-alliance]]
 - [[augmented-psychotherapy]]
 - [[human-in-the-reasoning]]

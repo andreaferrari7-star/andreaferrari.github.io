@@ -8,7 +8,7 @@ source_papers: ["07-08 Riunione_ Pianificazione corso IA per psicoterapia — st
 
 **Summary**: Metodologia e architettura di gestione della conoscenza personale (PKM) per psicoterapeuti, basata su archivi locali strutturati (es. Obsidian, Markdown) e integrabile con modelli linguistici. Consente di organizzare protocolli evidence-based, concettualizzazioni di caso e percorsi di autosupervisione senza delegare acriticamente il metodo clinico a software commerciali proprietari.
 
-**Fonti**: [[07-08-riunione-pianificazione-corso|Riunione 07-08: Pianificazione Corso IA per Psicoterapia — Struttura, Validazione Interessi, Microprogettazione e Coordinamento]], [[05-08-riunione-knowledge-base|Riunione 05-08: Sviluppo Knowledge Base AI, Etica e Applicazioni Cliniche]]
+**Fonti**: Riunione del gruppo dell'8 luglio 2026 (verbale interno), Riunione del gruppo dell'8 maggio 2026 (verbale interno)
 
 **Last updated**: 2026-08-27
 
@@ -54,10 +54,8 @@ graph TD
 ---
 
 ## Relazioni
-- [[07-08-riunione-pianificazione-corso]]
 - [[microprogettazione-formativa-ia]]
 - [[human-in-the-reasoning]]
 - [[augmented-psychotherapy]]
 - [[ai-assisted-psychotherapy]]
 - [[prompting-in-psychology]]
-- [[05-08-riunione-knowledge-base]]

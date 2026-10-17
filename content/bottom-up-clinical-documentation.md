@@ -7,7 +7,7 @@ source_papers: ["07-17 Riunione_ Corso di Formazione sull'IA in Psicologia e Uti
 # Documentazione Clinica Bottom-Up e Living Documents
 
 **Summary**: Metodologia per la generazione dinamica e continua di manuali clinici operativi, linee guida procedurali e alberi decisionali a partire dall'elaborazione computazionale (tramite LLM) dei trascritti di riunioni d'équipe e discussioni su casi clinici reali. Introduce il paradigma del *Living Clinical Document* ad aggiornamento incrementale e con autorato clinico diffuso.
-**Fonti**: [[07-17-riunione-corso-formazione|Riunione 07-17: Corso di Formazione sull'IA in Psicologia, Gestione Clinica del Paziente, LLM-Wiki e Documentazione Bottom-Up]]
+**Fonti**: Riunione del gruppo del 17 luglio 2026 (verbale interno)
 **Last updated**: 2026-08-27
 
 ---
@@ -79,7 +79,6 @@ graph TD
 
 ## Relazioni
 
-- [[07-17-riunione-corso-formazione]]
 - [[llm-wiki]]
 - [[clinical-fidelity-assessment]]
 - [[microprogettazione-formativa-ia]]
@@ -87,4 +86,3 @@ graph TD
 - [[human-in-the-reasoning]]
 - [[augmented-psychotherapy]]
 - [[supervisione-clinica-ai]]
-- [[07-08-riunione-pianificazione-corso]]

@@ -895,3 +895,18 @@ Integrazione del paper sull'uso degli LLMs per la sintesi dei dialoghi nel collo
 - `quartz/content/index.md` rigenerato come indice locale senza la riga 7 del sommario e senza Sezione 7: 0 link rotti, nessun verbale, conteggi coerenti, fine riga CRLF come l'originale. Backup dei due indici fuori dal vault.
 - Su decisione dell'utente restano doppie nell'indice locale le 7 pagine di evento (sezione tematica e Sezione 7). Aggiunta in `agent.md` un'eccezione esplicita alla regola «ogni pagina va indicizzata una sola volta».
 - Problema aperto, non corretto: 26 pagine pubblicate contengono wikilink a verbali interni (soprattutto `05-08-riunione-knowledge-base`, 10 pagine), che non vengono pubblicati e sul sito risultano link senza destinazione.
+
+## [2026-10-17] lint | regola-citazione-verbali
+- Aggiornata in `agent.md` la regola di citazione delle fonti interne, per coerenza con l'esclusione dei verbali dalla pubblicazione:
+  - gli eventi esterni, che sono pubblicati, si citano ancora con un wikilink;
+  - le riunioni interne si citano in testo semplice con tipo e data, es. «(cfr. riunione del gruppo del 2 ottobre 2026)», senza wikilink e senza voci in `## Relazioni`; i wikilink ai verbali restano ammessi solo tra verbali e in `wiki/index.md`.
+- Allineati il passo 9 del flusso di ingestione e la regola sulle fonti miste; aggiunto al lint il controllo dei wikilink ai verbali nelle pagine pubblicate.
+- Le 26 pagine con wikilink a verbali non sono ancora state adeguate alla nuova regola.
+
+## [2026-10-17] lint | link-verbali-in-testo-semplice
+- Applicata la nuova regola di citazione a 26 pagine, 52 righe in tutto, con uno script (originali salvati fuori dal vault):
+  - citazioni nel testo: `(cfr. [[verbale]])` diventa «(cfr. riunione del gruppo del [data])»;
+  - righe «Fonti» e sezioni `## Fonti`: il link diventa «Riunione del gruppo del [data] (verbale interno)», mentre i link agli eventi esterni nella stessa riga restano;
+  - sezioni `## Relazioni`: tolti i link ai verbali (rimosse 28 voci, ripulite 2 righe «Vedi anche»).
+- Verifica: nessun wikilink a verbali nelle pagine destinate alla pubblicazione.
+- `risultati-apprendimento-attesi-raa` era rimasta senza voci in `## Relazioni`: aggiunti [[microprogettazione-formativa-ia]] e [[modello-rocco]]. Nella stessa pagina tolto il `[da verificare]` sull'autore della scheda METID, perché il PDF riporta «Autore: METID-Politecnico di Milano».

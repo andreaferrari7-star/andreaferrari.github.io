@@ -7,7 +7,7 @@ source_papers: ["07-17 Riunione_ Corso di Formazione sull'IA in Psicologia e Uti
 # LLM-Wiki (Architettura di Conoscenza Processuale)
 
 **Summary**: Paradigma di gestione e strutturazione della conoscenza computazionale introdotto da Andrej Karpathy. Invece di interrogare archivi statici di documenti grezzi tramite Retrieval-Augmented Generation (RAG vettoriale a frammenti), un agente LLM cura, sintetizza e aggiorna continuamente un'enciclopedia/wiki strutturata in Markdown con collegamenti ipertestuali concettuali bidirezionali.
-**Fonti**: [[07-17-riunione-corso-formazione|Riunione 07-17: Corso di Formazione sull'IA in Psicologia, Gestione Clinica del Paziente, LLM-Wiki e Documentazione Bottom-Up]]
+**Fonti**: Riunione del gruppo del 17 luglio 2026 (verbale interno)
 **Last updated**: 2026-08-27
 ---
 
@@ -76,7 +76,6 @@ flowchart TD
 ---
 
 ## Relazioni
-- [[07-17-riunione-corso-formazione]]
 - [[second-brain-clinico]]
 - [[bottom-up-clinical-documentation]]
 - [[libet-prime]]
@@ -86,4 +85,3 @@ flowchart TD
 - [[augmented-psychotherapy]]
 - [[ai-assisted-psychotherapy]]
 - [[06-10-lezione-rag-llm]]
-- [[05-08-riunione-knowledge-base]]

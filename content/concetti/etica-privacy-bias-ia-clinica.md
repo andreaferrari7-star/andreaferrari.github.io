@@ -7,7 +7,7 @@ source_papers: ["05-11 Discussione del Gruppo di Ricerca su AI e Psicoterapia.tx
 # Etica, Privacy e Bias nell'IA Clinica
 
 **Summary**: Analisi delle sfide deontologiche, della tutela dei dati ipersensibili e dei bias sistematici di genere/diagnostici nell'utilizzo dei modelli linguistici in psicoterapia, con definizione delle buone pratiche di alfabetizzazione clinica.
-**Fonti**: [[05-11-discussione-gruppo-ricerca|Riunione 05-11: Discussione del Gruppo di Ricerca su AI e Psicoterapia]], [[04-17-convegno-integrazione-etica-ia|Convegno: Integrazione Etica dell'IA nella Psicoterapia]], [[05-08-riunione-knowledge-base|Riunione 05-08: Sviluppo Knowledge Base AI, Etica e Applicazioni Cliniche]]
+**Fonti**: Riunione del gruppo di ricerca dell'11 maggio 2026 (verbale interno), [[04-17-convegno-integrazione-etica-ia|Convegno: Integrazione Etica dell'IA nella Psicoterapia]], Riunione del gruppo dell'8 maggio 2026 (verbale interno)
 **Last updated**: 2026-08-27
 ---
 
@@ -45,7 +45,6 @@ Per garantire un utilizzo clinicamente ed eticamente fondato dell'IA, il gruppo 
 ---
 
 ## Relazioni
-- [[05-11-discussione-gruppo-ricerca]]
 - [[human-in-the-reasoning]]
 - [[simulazione-pazienti-ai]]
 - [[software-as-a-medical-device-salute-mentale]]

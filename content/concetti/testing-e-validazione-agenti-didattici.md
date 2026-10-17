@@ -7,7 +7,7 @@ source_papers: ["07-10 Riunione_ Test e Valutazione di “Libet Prime” (Tutor 
 # Testing e Validazione di Agenti Didattici
 
 **Summary**: Metodologia, protocolli operativi e criteri qualitativi per la sperimentazione, il benchmarking e la prevenzione delle regressioni algoritmiche nello sviluppo di agenti AI applicati alla didattica e alla clinica psicoterapeutica.
-**Fonti**: [[07-10-riunione-test-libet-prime|Riunione 07-10: Test e Valutazione di Libet Prime, Trainer Simulator e Piano Operativo]], [[05-08-riunione-knowledge-base|Riunione 05-08: Sviluppo Knowledge Base AI, Etica e Applicazioni Cliniche]]
+**Fonti**: Riunione del gruppo del 10 luglio 2026 (verbale interno), Riunione del gruppo dell'8 maggio 2026 (verbale interno)
 **Last updated**: 2026-08-27
 ---
 
@@ -59,7 +59,6 @@ flowchart TD
 ---
 
 ## Relazioni
-- [[07-10-riunione-test-libet-prime]]
 - [[libet-prime]]
 - [[trainer-simulator]]
 - [[ia-maieutica-e-co-ragionamento]]

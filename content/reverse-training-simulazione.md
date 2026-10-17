@@ -8,7 +8,7 @@ source_papers: ["06-05 Riunione_ Impiego dell'IA in ambito clinico, bias e forma
 
 **Summary**: Metodologia pedagogica avanzata per la formazione clinica e la psicoterapia in cui lo specializzando modella e addestra un paziente virtuale basato su LLM per dimostrare la padronanza di un quadro diagnostico-funzionale (*learning by teaching*), sottoponendo l'agente simulato alla valutazione del docente/supervisore.
 
-**Fonti**: [[06-05-riunione-impiego-ia|Riunione 06-05: Impiego dell'IA in Ambito Clinico, Bias e Formazione]], [[05-08-riunione-knowledge-base|Riunione 05-08: Sviluppo Knowledge Base AI, Etica e Applicazioni Cliniche]]
+**Fonti**: Riunione del gruppo del 5 giugno 2026 (verbale interno), Riunione del gruppo dell'8 maggio 2026 (verbale interno)
 
 **Last updated**: 2026-08-27
 
@@ -45,7 +45,6 @@ flowchart TD
 
 ## Relazioni
 
-- [[06-05-riunione-impiego-ia]]
 - [[simulazione-pazienti-ai]]
 - [[clinical-ai-simulation]]
 - [[human-in-the-reasoning]]

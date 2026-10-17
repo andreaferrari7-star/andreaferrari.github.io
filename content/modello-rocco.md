@@ -7,7 +7,7 @@ source_papers: ["10-02 Riunione_ Corso AI per terapeuti e valutazione software-S
 # Modello R.O.C.C.O.
 
 ## Definizione Operativa
-- Griglia per la stesura di prompt clinici usata nel corso del gruppo: nel Modulo 1 i partecipanti riscrivono un prompt spontaneo con l'acronimo ROCCO, iterano e confrontano gli output (cfr. [[10-02-riunione-corso-ai-terapeuti-software]]).
+- Griglia per la stesura di prompt clinici usata nel corso del gruppo: nel Modulo 1 i partecipanti riscrivono un prompt spontaneo con l'acronimo ROCCO, iterano e confrontano gli output (cfr. riunione del gruppo del 2 ottobre 2026).
 - I cinque campi dell'acronimo (Ruolo, Obiettivo, Contesto, Criteri, Output) e lo scopo di ridurre l'ambiguità pragmatica degli LLM provengono dal manuale tecnico del corso, generato a partire da questa wiki e quindi non utilizzabile come fonte indipendente [da verificare].
 - **Utilità CBT:** Lo scopo dichiarato è ottenere output strutturati, prodotti su dati de-identificati e utilizzabili in seduta, limitando allucinazioni e violazioni deontologiche; l'efficacia della griglia non è stata verificata [da verificare].
 
@@ -20,4 +20,4 @@ source_papers: ["10-02 Riunione_ Corso AI per terapeuti e valutazione software-S
 - Wu, J., Xie, K., Gu, B., Krüger, N., Lin, K. J., & Yang, J. (2025). *Why chain of thought fails in clinical text understanding* (arXiv:2509.21933). arXiv. https://doi.org/10.48550/arXiv.2509.21933
 
 ## Relazioni
-- Vedi anche: [[coast-framework-clinical-prompting]], [[LLM4CBT]], [[clinical-chain-of-thought-paradox]], [[stepwise-cot]], [[human-in-the-reasoning]], [[10-02-riunione-corso-ai-terapeuti-software]]
+- Vedi anche: [[coast-framework-clinical-prompting]], [[LLM4CBT]], [[clinical-chain-of-thought-paradox]], [[stepwise-cot]], [[human-in-the-reasoning]]

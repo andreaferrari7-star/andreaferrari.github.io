@@ -7,7 +7,7 @@ source_papers: ["06-05 Riunione_ Impiego dell'IA in ambito clinico, bias e forma
 # Gap Tecnologico-Scientifico e Living Labs in Sanità Digitale
 
 **Summary**: Fenomeno di asincronia e disallineamento sistemico tra la velocità esponenziale di avanzamento delle tecnologie di IA generativa e i tempi pluriennali richiesti dalla validazione empirica formale (trial clinici controllati, certificazioni SaMD, bioetica), con la conseguente necessità di adottare modelli di Living Lab.
-**Fonti**: [[06-05-riunione-impiego-ia|Riunione 06-05: Impiego dell'IA in Ambito Clinico, Bias e Formazione]], [[05-08-riunione-knowledge-base|Riunione 05-08: Sviluppo Knowledge Base AI, Etica e Applicazioni Cliniche]]
+**Fonti**: Riunione del gruppo del 5 giugno 2026 (verbale interno), Riunione del gruppo dell'8 maggio 2026 (verbale interno)
 **Last updated**: 2026-08-27
 ---
 
@@ -46,4 +46,3 @@ Per colmare questo divario senza rinunciare al rigore metodologico ed etico, eme
 - [[ai-research-ethics]]
 - [[augmented-psychotherapy]]
 - [[human-in-the-reasoning]]
-- [[06-05-riunione-impiego-ia]]
