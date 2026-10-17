@@ -779,3 +779,8 @@ Integrazione del paper sull'uso degli LLMs per la sintesi dei dialoghi nel collo
 - Copiati dall'utente in `raw/` la trascrizione della riunione del 28/08 e `2.3_esempi_raa.pdf`: le fonti di `08-28-riunione-corso-ia-clinici` e `risultati-apprendimento-attesi-raa` ora sono presenti.
 - Decisione: i due manuali del corso (`Manuale_Tecnico_GenAI_Psicoterapia_CBT 1.0.md`, `manuale_genai_cbt_libet.md`) non vanno in `raw/`, perché sono stati generati consultando la wiki: usarli come fonte renderebbe circolari le citazioni.
 - `modello-rocco`: tolti i due manuali da `source_papers`; restano il verbale del 2/10 e le fonti delle citazioni di Wu et al. (2025) e Abdulnour et al. (2025). I cinque campi dell'acronimo e l'utilità dichiarata, presenti solo nel manuale, sono segnati `[da verificare]` finché un documento del gruppo non li definisce. Aggiornata la descrizione nell'indice.
+
+## [2026-10-17] lint | navigazione-sommario-ottimizzata
+- Aggiunti collegamenti rapidi di ritorno al sommario [[#Indice Knowledge Base|↑]] direttamente accanto a tutti i titoli di capitolo (##), sottotema (###) e blocchi di tipo pagina (Concetti / Paper).
+- Implementato pulsante fluttuante interattivo 'Back-to-Top' in Quartz (JS in componentResources + stili in custom.scss) che appare dopo lo scroll e permette di tornare al sommario con un clic.
+- Sincronizzata la wiki su quartz/content e verificata la compilazione locale.

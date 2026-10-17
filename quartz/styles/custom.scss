@@ -56,3 +56,63 @@ article th {
 article td {
   border-bottom: 1px solid #e5e5e5;
 }
+
+/* --- PULSANTE FLUTTUANTE BACK-TO-TOP --- */
+#back-to-top-btn {
+  position: fixed;
+  bottom: 2.5rem;
+  right: 2.5rem;
+  width: 3.2rem;
+  height: 3.2rem;
+  border-radius: 50%;
+  background-color: var(--secondary);
+  color: var(--light);
+  border: 1px solid var(--lightgray);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  font-size: 1.4rem;
+  font-weight: bold;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.25s ease, visibility 0.25s ease, transform 0.2s ease, background-color 0.2s ease;
+  z-index: 1000;
+
+  &:hover {
+    transform: translateY(-3px);
+    background-color: var(--tertiary);
+  }
+
+  &.visible {
+    opacity: 0.9;
+    visibility: visible;
+  }
+}
+
+@media all and (max-width: 800px) {
+  #back-to-top-btn {
+    bottom: 1.5rem;
+    right: 1.5rem;
+    width: 2.8rem;
+    height: 2.8rem;
+    font-size: 1.2rem;
+  }
+}
+
+/* --- LINK TORNA AL SOMMARIO NEI TITOLI --- */
+.back-to-top-link {
+  font-size: 0.85em;
+  margin-left: 0.45rem;
+  text-decoration: none;
+  opacity: 0.45;
+  transition: opacity 0.2s ease, transform 0.2s ease;
+  vertical-align: middle;
+  display: inline-block;
+
+  &:hover {
+    opacity: 1;
+    transform: translateY(-2px);
+  }
+}
