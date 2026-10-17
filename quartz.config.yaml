@@ -12,6 +12,9 @@ configuration:
     - private
     - templates
     - .obsidian
+    - "*riunione*"
+    - "03-13-avvio*"
+    - "05-11-discussione*"
   theme:
     fontOrigin: googleFonts
     cdnCaching: true

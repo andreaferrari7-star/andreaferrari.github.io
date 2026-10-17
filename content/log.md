@@ -2,6 +2,13 @@
 
 Registro cronologico di acquisizioni, query e manutenzione.
 
+## [2026-10-17] lint | rimozione riunioni interne e consolidamento su 6 sezioni
+- Rimosse le note delle riunioni interne del gruppo dalla pubblicazione pubblica di Quartz (mantenute localmente in `wiki/`).
+- Aggiornato `quartz.config.yaml` con `ignorePatterns` per escludere note di riunione interne (`*riunione*`, `03-13-avvio*`, `05-11-discussione*`).
+- Riorganizzato `index.md`: eliminata la Sezione 7 ("Attività del Gruppo") e ricollocati i 7 eventi e seminari esterni nei relativi macro-domini tematici (Sezione 2, 4, 5 e 6).
+- Aggiornato il totale e il sommario della wiki su 6 macro-sezioni tematiche coerenti.
+- Aggiornato `agent.md` per formalizzare la policy di pubblicazione selettiva.
+
 ## [2026-09-01] ingest | 2603.27146v3.pdf
 - Ingestito il paper "Learning to Predict Future-Aligned Research Proposals with Language Models".
 - Creata la pagina `2603-27146v3.md` con Efficacia, Limiti/Rischi e Riferimenti.
@@ -784,3 +791,72 @@ Integrazione del paper sull'uso degli LLMs per la sintesi dei dialoghi nel collo
 - Aggiunti collegamenti rapidi di ritorno al sommario [[#Indice Knowledge Base|↑]] direttamente accanto a tutti i titoli di capitolo (##), sottotema (###) e blocchi di tipo pagina (Concetti / Paper).
 - Implementato pulsante fluttuante interattivo 'Back-to-Top' in Quartz (JS in componentResources + stili in custom.scss) che appare dopo lo scroll e permette di tornare al sommario con un clic.
 - Sincronizzata la wiki su quartz/content e verificata la compilazione locale.
+
+## [2026-10-17] ingest | shafran-et-al-2026
+- Fonte `1-s2.0-S0005796725002736-main.pdf`, classe `scientifica`: Shafran et al. (2026), *Behaviour Research and Therapy*, 197, 104945. È un articolo di posizione di 20 autori sull'IA nella formazione e supervisione in CBT, senza dati originali.
+- Creata `shafran-et-al-2026`: aderenza e competenza, pazienti virtuali standardizzati, strumenti di supervisione e architettura multi-agente *bug-in-ear*, dati e bias, contesti a basse risorse e impatto ambientale, stato della ricerca (criteri di superiorità o non inferiorità), linee guida della Tabella 1, rischi e conflitti di interesse dichiarati. Le fonti secondarie sono citate come «citati in Shafran et al., 2026». Indicizzata nel dominio 3, tabella dei paper.
+- Aggiornate:
+  - `supervisione-clinica-ai`: nuova sezione di evidenze e bibliografia; `tipo_fonte` passa a `[evento, scientifica]`;
+  - `simulazione-clinica-pazienti-virtuali`: stato delle prove sugli AI-VSP e competenza multiculturale;
+  - `concetti/ctrs-automated-evaluation`: limiti del rating automatico tra aderenza e competenza, indicatori EQUIP;
+  - `concetti/readi-framework`: uso di READI per la governance dei dati nel training;
+  - `concetti/algorithmic-paternalism-in-ai-mental-health`: paternalismo algoritmico verso allievi e supervisori;
+  - `concetti/deliberate-practice-in-psicoterapia-ia`: «risolve» sostituito con «punta a superare» il collo di bottiglia della formazione, perché la nuova fonte giudica preliminari le prove sui pazienti virtuali.
+- Divergenza segnalata in `concetti/readi-framework`: Shafran et al. citano READI con tre autori (Stade, Kim e Wiltsey Stirman), la voce della pagina ne riporta quattro (con Eichstaedt). Segnata `[da verificare]`.
+- Indice: aggiunta la riga del paper (conteggio del dominio 3 da 52 a 53); riscritte le descrizioni di `supervisione-clinica-ai`, che era troncata, e di `concetti/algorithmic-paternalism-in-ai-mental-health`, che era generica.
+
+## [2026-10-17] ingest | cioffi-et-al-2025
+- Fonte `informatics-12-00029.pdf`, classe `scientifica`: Cioffi et al. (2025), *Informatics*, 12(1), 29. Studio italiano di 12 scuole di Gestalt: specializzandi valutano alla cieca il feedback di supervisione di ChatGPT-4 senza contesto, di ChatGPT-4 orientato da un prompt e di un supervisore esperto sullo stesso caso clinico.
+- Creata `cioffi-et-al-2025`: disegno, quattro componenti della PCA, risultati dell'ANOVA (il feedback orientato dal prompt è migliore di quello senza contesto nella componente relazionale-emotiva e migliore anche del supervisore nell'orientamento professionale; il supervisore è migliore nell'indicare le aree di miglioramento), proposta di supervisione *blended*, limiti dichiarati e limiti del disegno. Indicizzata nel dominio 3, tabella dei paper (conteggio da 53 a 54).
+- Segnate `[da verificare]` due incertezze: la superiorità sul supervisore per l'impatto emotivo, con medie molto vicine in Tabella 4 (2,96 e 2,86); la struttura dei valutatori, perché l'ANOVA tratta come gruppi indipendenti valutazioni che potrebbero venire dalle stesse persone. Annotate anche le incoerenze interne tra la nota della Tabella 3 e il testo.
+- Aggiornate:
+  - `supervisione-clinica-ai`: risultati dello studio e proposta *blended*; aggiornata anche la descrizione nell'indice;
+  - `prompting-in-psychology`: effetto di un prompt di dominio sul feedback di supervisione.
+- Corretta un'attribuzione errata in `11920-2026-article-1690` e in `sintesi/cavalera-et-al-2026`: nella fonte (Cavalera et al., 2026) la rilevazione di stagnazione, alleanza e andamento dei sintomi in supervisione è attribuita a Kuo et al. (2024); a Cioffi et al. resta solo l'indicazione che gli output dell'IA vanno trattati come ipotesi per il supervisore. Aggiunta la voce APA di Cioffi et al. nelle due bibliografie.
+- Shafran et al. (2026) citano lo studio con l'anno 2024 e un titolo diverso («…support automating clinical supervision?»). La pagina usa i dati dell'articolo pubblicato (marzo 2025).
+
+## [2026-10-17] ingest | apa-2026-guida-consigli-ia
+- Fonte `guide-navigating-ai-advice.pdf`, classe `scientifica` (documento istituzionale): American Psychological Association (2026, giugno), *APA guide to navigating AI-generated advice thoughtfully and safely*. È una guida di 4 pagine per il pubblico, senza dati originali, redatta da un panel di 13 esperti con lo staff APA. Il PDF non riporta l'URL, segnato `[da verificare]` nella voce bibliografica.
+- Creata `apa-2026-guida-consigli-ia`: premessa (nessuna sostituzione della cura, niente diagnosi, nessun affidamento in caso di crisi), sei caratteristiche dell'IA da conoscere, uso per informazioni e supporto emotivo, prompt per un uso più sicuro, valutazione critica dei consigli. Indicizzata nel dominio 5, sottotema *Chatbot, app e interventi digitali*, tabella dei paper (conteggi da 177 a 178 e da 39 a 40).
+- Aggiornate:
+  - `health-advisory-ai-chatbots-wellness-apps-mental-health`: nuova sezione sulla guida come sviluppo successivo dell'Advisory;
+  - `concetti/sycophantic-mirroring`: contromisure dal lato dell'utente, collegate alle politiche anti-sicofanzia di Shafran et al. (2026);
+  - `uso-problematico-chatbot-ai`: indicazioni APA su relazioni e segnali d'allarme; la pagina aveva `tipo_fonte: [scientifica, evento]` ma una bibliografia vuota, ora contiene la voce APA.
+- Da verificare: la guida cita le versioni pubblicate di due lavori che la wiki cita come preprint in almeno 8 pagine, Dohnány et al. (2026, *Nature Mental Health*) e Morrin et al. (2026, *The Lancet Psychiatry*). Il titolo dell'articolo di Morrin et al. è diverso da quello del preprint «Delusions by design?»; le bibliografie non sono state modificate.
+
+## [2026-10-17] ingest | jose-et-al-2025
+- Fonte `fpsyg-16-1550621.pdf`, classe `scientifica`: Jose et al. (2025), *Frontiers in Psychology*, 16, 1550621, articolo di opinione. Con pdftotext le cifre andavano perse per un problema di font; anno, volume e DOI sono stati recuperati con PyMuPDF.
+- Creata `jose-et-al-2025`: *cognitive offloading*; studi citati su memoria, pensiero critico, creatività, STEM e lingue; lettura con teoria del carico cognitivo, tassonomia di Bloom e teoria dell'autodeterminazione; roadmap e contromisure didattiche. Indicizzata nel dominio 3, tabella dei paper (conteggio da 54 a 55).
+- Qualità delle fonti segnalata nella pagina: alcuni dati vengono da un blog, da un articolo giornalistico e da una tesi; due riferimenti non sono pertinenti al tema per cui sono citati (Kim et al., 2024; Shaikh et al., 2021); la tabella annunciata nel testo manca. I dati numerici sono `[da verificare]` sugli studi originali.
+- Aggiornate:
+  - `cognitive-debt-in-generative-ai`: nuova sezione sul «paradosso cognitivo» nell'istruzione;
+  - `concetti/cognitive-offloading-e-diagnostic-deskilling`: definizione di Risko e Gilbert e contromisure didattiche, presentate come analogia e non come dato per la formazione clinica.
+
+## [2026-10-17] ingest | 10-16-riunione-demo-piattaforma-pilota
+- Fonte `10-16 Customer Consultation_ AI Psychotherapy Platform Demonstration and Pilot Planning-transcript.txt`, classe `interna` (scelta dell'utente: incontro del gruppo con un fornitore esterno).
+- Creata `10-16-riunione-demo-piattaforma-pilota` con il modello verbale: architettura e funzioni dichiarate (trascrizione, ABC e concettualizzazione, Patient Mode Map, materiali e test, practice assistant, account di organizzazione), personalizzazione, possibile integrazione del modello LIBET, validazione (progetto CTRS con Kazantzis e Melbourne, coorte di ricerca di 80 pazienti e 80 terapeuti), bisogni del gruppo, pilota di un mese, onboarding del 23 ottobre. Le funzioni sono riportate come dichiarazioni del fornitore. Indicizzata nella sezione 7, *Riunioni del gruppo* (conteggio da 15 a 16).
+- Aggiornate:
+  - `10-02-riunione-corso-ai-terapeuti-software`: segnata come svolta l'azione «richiedere la demo» e aggiunto il link;
+  - `concetti/ctrs-automated-evaluation`: menzione del progetto riferito dal fornitore, con rimando al verbale; `tipo_fonte` passa a `[scientifica, interna]`.
+- Divergenze segnalate nel verbale: il 2/10 il fornitore dichiarava «non anonimizza i dati», il 16/10 descrive opzioni di pseudo-anonimizzazione e anonimizzazione completa; il «feedback live» del 2/10 non è stato mostrato. Restano `[da verificare]` l'identità con la piattaforma del 2/10, il nome commerciale («therapy support» nel transcript) e il numero di aree della CTRS (12 secondo il fornitore, 11 nella wiki).
+
+## [2026-10-17] ingest | 10-10-giornata-nazionale-psicologia-ia-quo-vadis
+- Fonte `[Italian (auto-generated)] Giornata Nazionale della Psicologia 2026 - IA – Intelligenza Artificiale Quo Vadis [DownSub.com].txt`, classe `evento`: per scelta dell'utente, nessuna voce APA, perché il testo è fatto di sottotitoli automatici. Organizzatore CNOP, 10 ottobre 2026, Roma e streaming. Letto per intero (circa 9.800 righe), in una copia di lavoro compattata in blocchi nella scratchpad; `raw/` non è stato modificato.
+- Creata `10-10-giornata-nazionale-psicologia-ia-quo-vadis` con il modello evento: organizzatore, data, relatori e una sintesi per sessione (saluti, Carlucci Aiello su ELIZA, panel su persona e tecnologia, panel su etica con la survey CNOP, lezione di Ienca sui neurodiritti, tavola rotonda giuridica, panel sulle professioni sanitarie). Le cifre dei relatori non verificabili sono segnate `[da verificare]`. È annotato che la citazione di Umberto Eco usata in apertura è stata dichiarata falsa dalla stessa presidente in chiusura. Indicizzata nella sezione 7, *Eventi esterni* (conteggio da 16 a 17).
+- Aggiornate, con attribuzione via wikilink all'evento:
+  - `normativa-llm-psicologia-in-italia`: nuova sezione con legge 132/2025 (in vigore dal 10/10/2025, art. 13), esercizio abusivo (art. 348 c.p. e art. 1 L. 56/1989), alfabetizzazione AI Act e artt. 5 e 7 del codice deontologico, linee di indirizzo CNOP in preparazione. Corretta la sigla «L. 132/2024» nello schema e nella tabella in «L. 132/2025 (ex DDL)», coerente con le altre pagine della wiki;
+  - `mental-privacy-in-clinical-ai`: sezione sui quattro neurodiritti;
+  - `concetti/automation-bias-clinical-reasoning`: deskilling, paradosso dell'accuratezza e asimmetria medico-legale secondo un neurologo relatore;
+  - `usi-clinici-degli-llm-psicologi`: dati della survey CNOP (58% degli psicologi usa l'IA, 55% riferisce che la usano anche i propri utenti);
+  - `concetti/rischio-suicidario-ai-limits`: guardrail che si indeboliscono nelle conversazioni lunghe. L'esempio dei ponti è ricondotto, da verificare, a Moore et al. (2025), di cui è stata aggiunta la voce APA presa dalla bibliografia di Shafran et al. (2026); `tipo_fonte` passa a `[evento, scientifica]`.
+
+## [2026-10-17] catalog | catalogo-raw
+- `catalogo_raw.md` aggiornato: aggiunte 44 righe per i file di `raw/` non ancora catalogati (i 6 nuovi e 38 acquisiti in precedenza ma mai catalogati). Rimossa la riga del duplicato `...CHART ed ELEVATE-GenAI (1).pdf`, non più presente in `raw/`. Tabella riordinata per nome file e rinumerata: 159 righe per 159 file, senza duplicati. Le 116 righe esistenti non sono state modificate.
+- Anomalie rilevate nei file:
+  - `AI_in_OCD.pdf` è una copia identica di `40501_2025_Article_359.pdf`;
+  - `Predicting cognitive-behavioral therapy outcomes ... inhibitory control neural activity.pdf` contiene in realtà il protocollo Wrist Angel (Lønfeldt et al., 2023, *JMIR Research Protocols*), non il preprint ENIGMA-OCD; il log del 01/09 lo aveva saltato come duplicato e il protocollo non risulta acquisito nella wiki;
+  - il PDF di Beg (2023) non ha testo estraibile: i dati vengono dal nome del file.
+- Divergenze con pagine wiki esistenti, non corrette in questa sessione:
+  - `ai-mental-healthcare-bhavnani-mckim-2025` indica il 2025, il volume riporta «First edition published 2026»;
+  - `mind-and-machine-beg-verma-2023` riporta l'ISBN 978-8374274424, che ha una cifra di controllo non valida, mentre il nome del file indica 978-8374274425; il coautore Verma non è verificabile dal file;
+  - `apa-artificial-intelligence-ebooklet` indica il 2024, ma l'e-booklet contiene articoli del 2025 e non riporta l'anno di pubblicazione.
