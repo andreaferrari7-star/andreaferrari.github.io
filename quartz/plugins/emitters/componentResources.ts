@@ -294,12 +294,41 @@ function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentReso
       });
     }
 
+    function setupAnchorScroll() {
+      document.addEventListener('click', (e) => {
+        const link = e.target.closest('a');
+        if (!link) return;
+        const href = link.getAttribute('href');
+        if (!href) return;
+        const hashIdx = href.indexOf('#');
+        if (hashIdx === -1) return;
+        const hash = href.substring(hashIdx);
+        if (hash === '#' || hash === '#!') return;
+        
+        const isCurrentPage = hashIdx === 0 || href.startsWith('./#') || href.startsWith('/#') || link.pathname === window.location.pathname;
+        if (!isCurrentPage) return;
+
+        const id = decodeURIComponent(hash.slice(1));
+        const target = document.getElementById(id);
+        if (target) {
+          e.preventDefault();
+          target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+          if (history.pushState) {
+            history.pushState(null, '', hash);
+          } else {
+            window.location.hash = hash;
+          }
+        }
+      });
+    }
+
     if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', setupBackToTop);
+      document.addEventListener('DOMContentLoaded', () => { setupBackToTop(); setupAnchorScroll(); });
     } else {
       setupBackToTop();
+      setupAnchorScroll();
     }
-    document.addEventListener('nav', setupBackToTop);
+    document.addEventListener('nav', () => { setupBackToTop(); setupAnchorScroll(); });
   `)
 }
 
