@@ -1,7 +1,7 @@
 ---
 tags: [automation-bias, clinical-reasoning, cognitive-offloading, dual-process-theory, deskilling, trial-rct, medical-ai]
-tipo_fonte: [scientifica, interna]
-source_papers: ["AI Generativa in Psicoterapia.docx"]
+tipo_fonte: [scientifica, interna, evento]
+source_papers: ["AI Generativa in Psicoterapia.docx", "[Italian (auto-generated)] Giornata Nazionale della Psicologia 2026 - IA – Intelligenza Artificiale Quo Vadis [DownSub.com].txt"]
 ---
 
 # Automation Bias nel Ragionamento Clinico e Paradosso dell'Esperienza
@@ -79,6 +79,12 @@ graph LR
 - **Configurazione come [[antagonista-cognitivo-sparring-partner]]**: L'IA deve essere programmata per sollevare dubbi, contro-argomentare e proporre diagnosi differenziali improbabili per forzare l'attivazione del System 2, anziché confermare accondiscendentemente le prime impressioni del terapeuta ([[sycophantic-mirroring]]).
 - **Interfacce Ibride Neuro-Simboliche**: Adozione di sistemi come [[hybrid-neuro-symbolic-cdss]] (Kim & Wang, 2025) che rendono il codice delle regole diagnostiche ispezionabile prima dell'output.
 
+### La prospettiva della pratica medica
+Alla Giornata Nazionale della Psicologia 2026 un neurologo ha descritto tre meccanismi osservati nella pratica (cfr. [[10-10-giornata-nazionale-psicologia-ia-quo-vadis]]). Sono osservazioni di un relatore; gli studi citati non sono stati verificati.
+- **Deskilling:** in uno studio sui gastroenterologi, i medici che lavoravano con il supporto dell'IA, una volta rimosso il supporto, tornavano a un livello inferiore a quello di partenza [da verificare].
+- **Paradosso dell'accuratezza:** l'automation bias cresce con l'accuratezza del sistema. Se l'IA sbaglia due volte su dieci si controlla sempre; se sbaglia una volta su centomila, quando si è in disaccordo si dubita di sé.
+- **Asimmetria medico-legale:** poiché la responsabilità resta in capo al professionista (legge 132/2025), l'accordo con l'IA offre una copertura, mentre il disaccordo espone il medico: se va contro l'output e sbaglia, l'output può essere usato contro di lui. Questo spinge ulteriormente verso l'accordo.
+
 ---
 
 ## Relazioni
@@ -90,6 +96,7 @@ graph LR
 - [[ai-clinical-decision-support]]
 - [[sycophantic-mirroring]]
 - [[etica-privacy-bias-ia-clinica]]
+- [[10-10-giornata-nazionale-psicologia-ia-quo-vadis]]
 
 ## Riferimenti Bibliografici
 - Kim, B. H., & Wang, C. (2025). Large language models for interpretable mental health diagnosis [Preprint]. AAAI 2025 Workshop on Large Language Models and Generative AI for Health (GenAI4Health). *arXiv*. https://doi.org/10.48550/arXiv.2501.07653

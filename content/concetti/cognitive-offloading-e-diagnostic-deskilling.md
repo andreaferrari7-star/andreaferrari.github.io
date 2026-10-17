@@ -1,7 +1,7 @@
 ---
 tags: [psychotherapy, automation-bias, large-language-models]
 tipo_fonte: [scientifica, interna]
-source_papers: ["AI in Psicoterapia 2023-2026.docx"]
+source_papers: ["AI in Psicoterapia 2023-2026.docx", "fpsyg-16-1550621.pdf"]
 ---
 
 # Cognitive Offloading e Diagnostic Deskilling in Psicoterapia
@@ -80,6 +80,10 @@ L'**Automation Bias** è la tendenza euristica a sovrastimare l'affidabilità, l
 - **Mantenimento di Compiti Mentali Non Delegabili**: La stesura della concettualizzazione del caso e la formulazione diagnostica devono rimanere atti intellettuali prioritariamente umani.
 - **Formazione Continua sui Bias Tecnologici**: Inserimento dell'automation bias nei curricula ECM e di specializzazione per psicoterapeuti.
 
+### Il cognitive offloading nell'istruzione
+- Il *cognitive offloading* è l'uso di supporti esterni per svolgere compiti cognitivi (Risko & Gilbert, 2016, citati in Jose et al., 2025). In ambito educativo, Jose et al. (2025) osservano che l'IA facilita il compito ma riduce le occasioni di richiamo attivo e di problem solving.
+- Le contromisure didattiche che propongono sono vicine all'«attrito cognitivo intenzionale» descritto sopra: rielaborare con parole proprie le risposte dell'IA, sessioni periodiche di lavoro senza IA, discussione tra pari (Jose et al., 2025). L'articolo riguarda gli studenti, non i clinici: l'estensione alla formazione in psicoterapia è un'analogia, non un dato. Vedi [[jose-et-al-2025]].
+
 ---
 
 ## Relazioni
@@ -90,7 +94,10 @@ L'**Automation Bias** è la tendenza euristica a sovrastimare l'affidabilità, l
 - [[artificial-intelligence-replacement-dysfunction]]
 - [[tecnostress-e-paradosso-sovradocumentazione]]
 - [[ai-in-psicoterapia-2023-2026]]
+- [[jose-et-al-2025]]
+- [[cognitive-debt-in-generative-ai]]
 
 ## Riferimenti Bibliografici
+- Jose, B., Cherian, J., Verghis, A. M., Varghise, S. M., S, M., & Joseph, S. (2025). The cognitive paradox of AI in education: Between enhancement and erosion. *Frontiers in Psychology*, *16*, 1550621. https://doi.org/10.3389/fpsyg.2025.1550621
 - Parasuraman, R., & Manzey, D. H. (2010). Complacency and bias in human use of automation: An attentional integration. *Human Factors*, *52*(3), 381–410. https://doi.org/10.1177/0018720810376055
 - Signorini, S., & Paganin, W. (2026). Artificial intelligence as a digital analytic third: The SADAR framework for reflective supervision in psychotherapy. *Frontiers in Psychology*, *17*, 1690291. https://doi.org/10.3389/fpsyg.2026.1690291

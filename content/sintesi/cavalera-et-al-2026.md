@@ -142,7 +142,7 @@ flowchart LR
    - Spazio condiviso tra paziente e terapeuta dove l'IA supporta la compilazione di un diario riflessivo a fine seduta, propone esercizi di riconoscimento emotivo concordati e monitora i parametri di rischio tra un incontro e l'altro (Aschieri et al., 2024).
 2. **Formazione Clinica e Supervisione Aumentata**:
    - **Simulazione di Pazienti Virtuali**: ambienti protetti con LLM dove gli specializzandi possono allenare abilità di intervista, assessment e gestione delle crisi ricevendo feedback strutturato (Shoemaker et al., 2025; Lozoya et al., 2025).
-   - **Supervisione Assistita da IA**: rilevazione di pattern di stagnazione clinica, rotture dell'alleanza e traiettorie sintomatiche (Kuo et al., 2024; Cioffi et al., 2025). Gli output dell'IA restano pure ipotesi di lavoro da sottoporre al vaglio del supervisore umano.
+   - **Supervisione Assistita da IA**: rilevazione di pattern di stagnazione clinica, rotture dell'alleanza e traiettorie sintomatiche (Kuo et al., 2024). Gli output dell'IA restano pure ipotesi di lavoro da sottoporre al vaglio del supervisore umano (Cioffi et al., 2025; vedi [[cioffi-et-al-2025]]).
 3. **IA Immersiva e Parts Work ([[immersive-ai-introspecta-vr|Introspecta VR]])**:
    - Integrazione di Realtà Virtuale e GenAI (Antichi et al., 2025; Rossi et al., 2025; Hidding et al., 2024): generazione in tempo reale di "skyboxes" a 360° per consentire al paziente di visualizzare e dialogare con aspetti diversi del sé (presente, passato, futuro), esplicitando conflitti interni e promuovendo self-compassion.
 
@@ -167,6 +167,7 @@ Per colmare il divario tra la diffusione commerciale incontrollata dei chatbot e
 ## Riferimenti Bibliografici Principali della Review
 - Cavalera, C., Frisone, F., Rossi, C., Oasi, O., Pagnini, F., Riva, G., & Antichi, L. (2026). The Digital Mirror: Clinical Potentials and Relational Risks of Generative AI in Mental Health Interventions. *Current Psychiatry Reports*, 28, 40. https://doi.org/10.1007/s11920-026-01690-4
 - Antichi, L., Baglìo, L., Rossi, C., & Riva, G. (2025). Introspecta VR: the use of virtual reality and artificial intelligence for self-understanding, future self-identification, and personal transformation. *Cyberpsychology, Behavior, and Social Networking*, 28(6), 447–449.
+- Cioffi, V., Ragozzino, O., Mosca, L. L., Moretto, E., Tortora, E., Acocella, A., Montanari, C., Ferrara, A., Crispino, S., Gigante, E., Lommatzsch, A., Pizzimenti, M., Temporin, E., Barlacchi, V., Billi, C., Salonia, G., & Sperandeo, R. (2025). Can AI technologies support clinical supervision? Assessing the potential of ChatGPT. *Informatics*, *12*(1), 29. https://doi.org/10.3390/informatics12010029
 - Heinz, M. V., Mackin, D. M., Trudeau, et al. (2025). Randomized trial of a generative AI chatbot for mental health treatment. *NEJM AI*, 2(4), AIoa2400802.
 - Kuo, P. B., Tanana, M. J., Goldberg, S. B., et al. (2024). Machine-learning-based prediction of client distress from session recordings. *Clinical Psychological Science*, 12(3), 435–446.
 - Spytska, L. (2025). The use of artificial intelligence in psychotherapy: development of intelligent therapeutic systems. *BMC Psychology*, 13(1), 175.

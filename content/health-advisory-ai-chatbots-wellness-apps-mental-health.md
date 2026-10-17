@@ -16,6 +16,7 @@ tags:
 tipo_fonte: scientifica
 source_papers:
   - health-advisory-ai-chatbots-wellness-apps-mental-health.pdf
+  - guide-navigating-ai-advice.pdf
 ---
 
 # APA Health Advisory on the Use of Generative AI Chatbots and Wellness Applications for Mental Health (APA, 2025)
@@ -101,8 +102,13 @@ L'APA Advisory focalizza la propria disamina esclusivamente sulle **tecnologie r
 ### 5. Privacy e Mental Privacy
 L'APA richiede la protezione della **Mental Privacy** come diritto fondamentale, imponendo approcci *Safe-by-Default* contro la profilazione commerciale di stati affettivi e cognitivi.
 
+### 6. Sviluppo successivo: la guida per il pubblico (APA, 2026)
+- Nel giugno 2026 l'APA ha pubblicato una guida di quattro pagine per gli utenti, che cita l'Advisory tra i riferimenti e traduce in indicazioni pratiche le raccomandazioni su sostituzione della psicoterapia, dipendenza affettiva, privacy e alfabetizzazione: come funziona l'IA, come usarla per informazioni e supporto emotivo, quali prompt rendono l'uso più sicuro, come valutarne criticamente i consigli (American Psychological Association [APA], 2026). Vedi [[apa-2026-guida-consigli-ia]].
+- La guida cita le versioni pubblicate di due preprint presenti nella bibliografia di questa pagina: Dohnány et al. (2026), su *Nature Mental Health*, e Morrin et al. (2026), su *The Lancet Psychiatry*, con un titolo diverso dal preprint «Delusions by design?» [da verificare].
+
 ## Riferimenti Bibliografici
 - American Psychological Association. (2025). *APA Health Advisory on the Use of Generative AI Chatbots and Wellness Applications for Mental Health*. APA.org.
+- American Psychological Association. (2026, giugno). *APA guide to navigating AI-generated advice thoughtfully and safely*.
 - Arias, D., et al. (2024). Quantifying the global burden of mental disorders and their economic value. *eClinicalMedicine*.
 - Baier, A. L., et al. (2020). Therapeutic alliance as a mediator of change. *Clinical Psychology Review*.
 - Bouguettaya, A., et al. (2025). Racial bias in AI-mediated psychiatric diagnosis. *NPJ Digital Medicine*.
@@ -126,4 +132,4 @@ L'APA richiede la protezione della **Mental Privacy** come diritto fondamentale,
 - Sun, Y., & Wang, T. (2025). *Be friendly, not friends: How LLM sycophancy shapes user trust* (arXiv:2502.10844). arXiv. https://doi.org/10.48550/arXiv.2502.10844
 
 ## Relazioni
-- Documenti e concetti collegati: [[single-person-echo-chambers]], [[mental-privacy-in-clinical-ai]], [[sycophantic-mirroring]], [[simulated-therapeutic-alliance]], [[artificial-intimacy]], [[emotional-infrastructure]], [[uso-problematico-chatbot-ai]], [[ai-psychosis]], [[calibrated-mismatches]], [[anthropomorphism-in-ai]], [[software-as-a-medical-device-salute-mentale]], [[pediatric-ai-bias-and-vulnerabilities]], [[deployment-readiness-checklist-mental-health-ai]], [[human-oversight-and-liability-in-clinical-ai]], [[behavsci-16-00676]]
+- Documenti e concetti collegati: [[single-person-echo-chambers]], [[mental-privacy-in-clinical-ai]], [[sycophantic-mirroring]], [[simulated-therapeutic-alliance]], [[artificial-intimacy]], [[emotional-infrastructure]], [[uso-problematico-chatbot-ai]], [[ai-psychosis]], [[calibrated-mismatches]], [[anthropomorphism-in-ai]], [[software-as-a-medical-device-salute-mentale]], [[pediatric-ai-bias-and-vulnerabilities]], [[deployment-readiness-checklist-mental-health-ai]], [[human-oversight-and-liability-in-clinical-ai]], [[behavsci-16-00676]], [[apa-2026-guida-consigli-ia]]

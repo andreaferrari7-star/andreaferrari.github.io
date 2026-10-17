@@ -86,7 +86,7 @@ flowchart TD
 
 - Abu-Mahfouz, M. S., AlFehaid, S., Burqan, H. M., & El Arab, R. A. (2026). Artificial intelligence in mental health care: A scoping review of reviews. *Frontiers in Psychiatry*, 17, 1688043. https://doi.org/10.3389/fpsyt.2026.1688043
 - Adamkovič, M. (2025). *Large Language Models in (Not Only) Psychology Training and Research: A Brief Introduction*. Centre of Social and Psychological Sciences, Slovak Academy of Sciences. https://doi.org/10.31577/2025.9788082980144
-- Beg, M. J., & Verma, M. K. (2023). *The Mind and Machine: An Introduction to Artificial Intelligence*. Amazon International. ISBN: 978-8374274424.
+- Beg, M. J., & Verma, M. K. (2023). *The mind and machine: An introduction to artificial intelligence*. ISBN 979-8-3742-7442-4. (Il volume non indica l'editore.)
 - Bhak, Y., Jeong, H.-O., Cho, Y. S., Jeon, S., Cho, J., Gim, J.-A., et al. (2019). Depression and suicide risk prediction models using blood-derived multi-omics data. *Translational Psychiatry*, *9*, 262.
 - Dzinalija, N., et al. (2026). Predicting cognitive-behavioral therapy outcomes in obsessive-compulsive disorder from inhibitory control neural activity: A mega-analysis and machine learning study from the ENIGMA-OCD consortium. *Biological Psychiatry: Cognitive Neuroscience and Neuroimaging*.
 - Hua, Y., Siddals, S., Ma, Z., Galatzer-Levy, I., Xia, W., Hau, C., Na, H., Flathers, M., Linardon, J., Ayubcha, C., & Torous, J. (2025). Charting the evolution of artificial intelligence mental health chatbots from rule-based systems to large language models: A systematic review. *World Psychiatry*, *24*(3), 383–394. https://doi.org/10.1002/wps.21352

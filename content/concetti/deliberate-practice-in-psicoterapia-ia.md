@@ -1,7 +1,7 @@
 ---
 tags: [deliberate-practice, psychotherapy-training, cbt, behavioral-rehearsal, skill-acquisition, clinical-competence, generative-ai]
 tipo_fonte: scientifica
-source_papers: ["2607.25667v1.pdf"]
+source_papers: ["2607.25667v1.pdf", "1-s2.0-S0005796725002736-main.pdf"]
 title: "Deliberate Practice in Psicoterapia mediata da IA"
 ---
 
@@ -42,7 +42,7 @@ La piena implementazione della deliberate practice in psicoterapia è storicamen
 - **Limiti degli Attori Standardizzati**: Gli attori umani sono costosi, difficilmente scalabili e presentano limiti nella riproduzione di quadri clinici complessi o reazioni emotive dinamiche;
 - **Scarsità dei Supervisori Esperti**: La revisione analitica di registrazioni o trascritti richiede decine di ore settimanali di specialisti senior.
 
-L'integrazione di ambienti generativi come **MyMentorLLM** (Rizzi et al., 2026) risolve questo collo di bottiglia fornendo una **palestra clinica virtuale a ciclo chiuso**, dove l'allievo può condurre centinaia di colloqui simulati, sperimentare interventi alternativi e ricevere feedback standardizzato e riflessivo a costo computazionale marginale.
+L'integrazione di ambienti generativi come **MyMentorLLM** (Rizzi et al., 2026) punta a superare questo collo di bottiglia fornendo una **palestra clinica virtuale a ciclo chiuso**, dove l'allievo può condurre centinaia di colloqui simulati, sperimentare interventi alternativi e ricevere feedback standardizzato e riflessivo a costo computazionale marginale.
 
 ---
 
@@ -64,6 +64,8 @@ L'integrazione di ambienti generativi come **MyMentorLLM** (Rizzi et al., 2026) 
    Come dimostrato da Rizzi et al. (2026), la deliberate practice basata esclusivamente su testo o audio trascritto genera punteggi di competenza artificialmente gonfiati. L'addestramento efficace richiede **interazioni audio native (*speech-to-speech*)**, che preservano il carico cognitivo della prosodia, del silenzio e dell'esitazione reale.
 2. **Accoppiamento con Supervisori Umani**:
    L'IA funge da strumento preparatorio e integrativo. La supervisione finale di casi reali complessi e la validazione delle competenze abilitanti rimangono di esclusiva pertinenza di formatori clinici umani qualificati.
+3. **Prove ancora preliminari**:
+   Shafran et al. (2026) osservano che la ricerca sui pazienti virtuali nella formazione CBT consiste soprattutto in studi pilota di fattibilità e accettabilità e che l'addestramento a tecniche complesse resta in gran parte non testato. Chiedono studi che mostrino superiorità sugli esiti a livello di terapeuta rispetto alla formazione in presenza, oppure non inferiorità sugli esiti clinici con vantaggi su costi e scalabilità. Vedi [[shafran-et-al-2026]].
 
 ---
 
@@ -75,9 +77,11 @@ L'integrazione di ambienti generativi come **MyMentorLLM** (Rizzi et al., 2026) 
 - [[feedback-informed-practice-ai]]: Integrazione di feedback continui nei sistemi di salute mentale.
 - [[simulazione-pazienti-ai]]: Architettura di base per la creazione di pazienti virtuali.
 - [[rizzi-et-al-2026]]: Studio sperimentale su larga scala sulla deliberate practice simulata.
+- [[shafran-et-al-2026]]: Stato delle prove e linee guida per l'IA nella formazione CBT.
 
 ## Riferimenti Bibliografici
 - Ericsson, A., & Pool, R. (2016). *Peak: Secrets from the new science of expertise*. Houghton Mifflin Harcourt.
 - Goldberg, S. B., Rousmaniere, T., Miller, S. D., Whipple, J., Nielsen, S. L., Hoyt, W. T., & Wampold, B. E. (2016). Do psychotherapists improve with time and experience? A longitudinal analysis of outcomes in a clinical setting. *Journal of Counseling Psychology*, *63*(1), 1–11. https://doi.org/10.1037/cou0000131
 - Rizzi, R., Grecucci, A., & Stella, M. (2026). MyMentorLLM: A psychotherapy GenAI environment with multimodal voice/text patients, trainees and experts for deliberate practice. *arXiv preprint arXiv:2607.25667v1 [cs.CL]*, 1–27.
 - Rousmaniere, T. (2024). *Deliberate practice for psychotherapists: A guide to improving clinical effectiveness*. Routledge.
+- Shafran, R., Bond, L., Carlbring, P., Cohen, Z. D., Creed, T. A., Davey, E., Egan, S. J., Freeman, D., Hollon, S. D., Jacobson, N. C., Johnson, C., Kaysen, D., McGuinness, D. L., Patel, V., Pozuelo, J. R., Santos, H., Singla, D. R., Wiltsey Stirman, S., Taylor, D. J., & Wade, T. D. (2026). From innovation to implementation: Artificial intelligence in cognitive behaviour therapy training and supervision. *Behaviour Research and Therapy*, *197*, Article 104945. https://doi.org/10.1016/j.brat.2025.104945

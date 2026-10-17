@@ -1,7 +1,7 @@
 ---
 tags: [readi-framework, implementation-science, clinical-validation, governance, health-equity, mental-health-ai, human-in-the-loop]
 tipo_fonte: [scientifica, interna]
-source_papers: ["AI Generativa in Psicoterapia.docx"]
+source_papers: ["AI Generativa in Psicoterapia.docx", "1-s2.0-S0005796725002736-main.pdf"]
 ---
 
 # Framework READI (Readiness Evaluation for AI-Mental Health Deployment and Implementation)
@@ -59,6 +59,13 @@ Il framework READI stabilisce che nessuna delle sei dimensioni può considerarsi
 
 ---
 
+## Applicazione alla formazione e alla supervisione
+
+- Shafran et al. (2026) indicano READI come riferimento per costruire standard globali di governance dei dati negli strumenti di IA per la formazione e la supervisione in CBT, insieme alla privacy by design (de-identificazione automatica prima dell'elaborazione), al controllo locale dei dati da parte di clinici e istituzioni e alla formazione all'etica digitale. Vedi [[shafran-et-al-2026]].
+- Divergenza sui dati bibliografici: Shafran et al. (2026) citano il lavoro con tre autori (Stade, Kim e Wiltsey Stirman) e con il titolo «Readiness evaluation for AI-mental health deployment and implementation (READI)»; la voce in fondo a questa pagina ne riporta quattro, includendo Eichstaedt. L'elenco degli autori va controllato sull'articolo originale, che non è in `raw/` [da verificare].
+
+---
+
 ## Relazioni
 - [[ai-generativa-in-psicoterapia]]
 - [[mind-safe-framework]]
@@ -68,6 +75,8 @@ Il framework READI stabilisce che nessuna delle sei dimensioni può considerarsi
 - [[rischio-suicidario-ai-limits]]
 - [[weird-bias-cultural-adaptability-ai]]
 - [[etica-privacy-bias-ia-clinica]]
+- [[shafran-et-al-2026]]
 
 ## Riferimenti Bibliografici
+- Shafran, R., Bond, L., Carlbring, P., Cohen, Z. D., Creed, T. A., Davey, E., Egan, S. J., Freeman, D., Hollon, S. D., Jacobson, N. C., Johnson, C., Kaysen, D., McGuinness, D. L., Patel, V., Pozuelo, J. R., Santos, H., Singla, D. R., Wiltsey Stirman, S., Taylor, D. J., & Wade, T. D. (2026). From innovation to implementation: Artificial intelligence in cognitive behaviour therapy training and supervision. *Behaviour Research and Therapy*, *197*, Article 104945. https://doi.org/10.1016/j.brat.2025.104945
 - Stade, E. C., Eichstaedt, J. C., Kim, J. P., & Stirman, S. W. (2025). Readiness evaluation for artificial intelligence-mental health deployment and implementation (READI): A review and proposed framework. *Technology, Mind, and Behavior*, *6*(2). https://doi.org/10.1037/tmb0000163

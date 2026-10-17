@@ -1,7 +1,7 @@
 ---
 tags: [cognitive-debt, cognitive-offloading, neurocognition, eeg-connectivity, dual-system-theory, cognitive-miserliness, crt, alpha-beta-suppression, executive-functions, generative-ai]
 tipo_fonte: scientifica
-source_papers: ["main (1).pdf"]
+source_papers: ["main (1).pdf", "fpsyg-16-1550621.pdf"]
 ---
 
 # Accumulo di Debito Cognitivo nell'Uso dell'IA Generativa (Cognitive Debt in Generative AI)
@@ -58,14 +58,21 @@ La mente umana è un "avaro cognitivo" (*cognitive miser*; Stanovich, 2009; Deng
 * **Iperattivazione del Sistema 1:** Le risposte sintatticamente impeccabili di ChatGPT offrono una falsa sensazione di comprensione immediata (*fluency heuristic*), spegnendo i meccanismi di verifica critica.
 * **Atrofia Funzionale del Sistema 2:** Il sistema deliberativo, deputato al ragionamento logico-matematico, alla decostruzione di premesse fallaci e al controllo comportamentale, viene disattivato. Negli utilizzatori abituali di ChatGPT si registra un calo statisticamente significativo nei punteggi del **Cognitive Reflection Test (CRT)** e un aumento dei fallimenti cognitivi quotidiani (misurati con il *Cognitive Failures Questionnaire* - CFQ-7; Goh et al., 2025).
 
+### 4. Il «paradosso cognitivo» nell'istruzione (Jose et al., 2025)
+- Un articolo di opinione descrive l'IA nell'istruzione come insieme amplificatore e inibitore cognitivo: riduce il carico estraneo ma, se usata in eccesso, anche il carico pertinente necessario all'apprendimento profondo; sostiene il richiamo e la sintesi ma rischia di soffocare analisi e giudizio (Jose et al., 2025).
+- Tra i dati citati: studenti che si esercitavano con ChatGPT risolvevano il 48% di problemi in più durante l'esercitazione ma ottenevano il 17% in meno in un test di comprensione concettuale (Barshay, 2024, citato in Jose et al., 2025). Il dato viene da un articolo giornalistico e va verificato sullo studio originale [da verificare].
+- Contromisure didattiche proposte: rielaborare con parole proprie le risposte dell'IA, sessioni periodiche senza IA, discussione tra pari (Jose et al., 2025). Vedi [[jose-et-al-2025]].
+
 ## Riferimenti Bibliografici
 - Kosmyna, N., Hauptmann, E., Yuan, Y. T., Situ, J., Liao, X.-H., Beresnitzky, A. V., et al. (2025). *Your brain on ChatGPT: Accumulation of cognitive debt when using an AI assistant for essay writing task* (arXiv:2506.08872). arXiv.
 - Liao, H.-Y., Ko, C.-H., & Yen, C.-F. (2026). Problematic ChatGPT use: Manifestations, etiologies, and evaluation. *Biomedical Journal*, *49*(1), 100998. https://doi.org/10.1016/j.bj.2026.100998
 - Stanovich, K. E. (2009). *Decision making and rationality in the modern world*.
 - Deng, Z., & Deng, Z. (2025). Becoming a cognitive miser? Antecedents and consequences of addictive ChatGPT use. *Social Science & Medicine*, 118467.
 - Goh, A. Y., Hartanto, A., & Majeed, N. M. (2025). Generative artificial intelligence dependency: Scale development, validation, and its motivational, behavioral, and psychological correlates. *Computers in Human Behavior Reports*, 100845.
+- Jose, B., Cherian, J., Verghis, A. M., Varghise, S. M., S, M., & Joseph, S. (2025). The cognitive paradox of AI in education: Between enhancement and erosion. *Frontiers in Psychology*, *16*, 1550621. https://doi.org/10.3389/fpsyg.2025.1550621
 
 ## Relazioni
+- [[jose-et-al-2025]]
 - [[main-1]]
 - [[uso-problematico-chatbot-ai]]
 - [[psychometric-assessment-problematic-ai-use]]

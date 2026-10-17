@@ -1,7 +1,7 @@
 ---
 tags: [normativa-ia, deontologia-psicologi, ai-act, mdr-2017-745, samd, gdpr-sanita, garante-privacy, ddl-ia, legge-gelli-bianco, codice-deontologico-2013, consiglio-di-stato-10376-2024, human-in-the-loop, segreto-professionale, privacy-clinica, allucinazioni-algoritmiche, checklist-compliance]
-tipo_fonte: [scientifica, interna]
-source_papers: ["Normativa LLM Psicologia in Italia.pdf"]
+tipo_fonte: [scientifica, interna, evento]
+source_papers: ["Normativa LLM Psicologia in Italia.pdf", "[Italian (auto-generated)] Giornata Nazionale della Psicologia 2026 - IA – Intelligenza Artificiale Quo Vadis [DownSub.com].txt"]
 ---
 
 # Rapporto di Analisi Tecnico-Giuridica: Conformità Normativa e Deontologica nell'Impiego dei Large Language Models nella Pratica Psicologica e Psicoterapeutica in Italia
@@ -16,7 +16,7 @@ flowchart TD
         UE1["<b>Diritto UE (AI Act):</b> Reg. UE 2024/1689 Art. 14 (HITL) & All. III (Alto Rischio)"]
         UE2["<b>Diritto UE (MDR):</b> Reg. UE 2017/745 All. VIII Regola 11 & MDCG 2019-11 (SaMD)"]
         PRV["<b>Privacy UE/IT (GDPR & Codice Privacy):</b> Artt. 5, 9, 22, 25, 28, 32, 35 & Provv. Garante 9937730 / 10154670"]
-        LEG["<b>Legge Nazionale Sanitaria:</b> DDL IA (L. 132/2024) Artt. 7, 13 + L. 24/2017 Gelli-Bianco & Art. 622 c.p."]
+        LEG["<b>Legge Nazionale Sanitaria:</b> L. 132/2025 (ex DDL IA) Artt. 7, 13 + L. 24/2017 Gelli-Bianco & Art. 622 c.p."]
         DEO["<b>Deontologia:</b> Codice Deontologico Psicologi (Testo 2013 post-Sentenza CdS 10376/2024 - Artt. 1, 5, 11, 13, 14, 17, 24)"]
     end
 
@@ -53,7 +53,7 @@ L'integrazione degli LLM e della GenAI nella salute mentale in Italia è governa
 | **1. Diritto UE** | **Regolamento (UE) 2017/745 (MDR)** & **Linee Guida MDCG 2019-11** (rev. 2024/2025) | **Allegato VIII, Regola 11:** Classificazione Software as a Medical Device ([[software-as-a-medical-device-salute-mentale\|SaMD]]). Software per decisioni diagnostiche/terapeutiche = **Classe IIa** (o **Classe IIb/III** in caso di pericolo di morte o grave deterioramento). | Cogente (MDR) e interpretativa (MDCG) |
 | **2. Privacy UE/IT** | **Regolamento (UE) 2016/679 (GDPR)** | **Art. 5:** Principi di limitazione e minimizzazione; **Art. 9:** Trattamento dati particolari/sanitari (deroga par. 2 lett. h per finalità di cura con segreto); **Art. 22:** Divieto decisioni unicamente automatizzate; **Art. 25:** Privacy by design/default; **Art. 28:** DPA con vendor; **Art. 32:** Sicurezza; **Art. 35:** Valutazione d'Impatto (**DPIA**). | Cogente (Regolamento UE) |
 | **2. Privacy UE/IT** | **D.Lgs. 196/2003** (agg. D.Lgs. 101/2018) & **Provvedimenti Garante Privacy** | **Art. 2-septies:** Misure di garanzia dati sanitari;<br/>**Provv. 9937730 (Ottobre 2023 - Decalogo IA):** Trasparenza, supervisione umana, non discriminazione algoritmica;<br/>**Provv. 10154670 (Luglio 2025 - Allarme Referti IA):** Divieto caricamento referti/dati clinici su piattaforme IA senza controllo e DPA. | Cogente (Legge nazionale e Delibere Autorità) |
-| **3. Normativa IT** | **DDL Intelligenza Artificiale (Atto S. 1146-B / L. 132/2024-2025)** | **Art. 7:** L'IA in sanità è mero "supporto", decisione clinica riservata esclusivamente al professionista sanitario;<br/>**Art. 13:** Nelle professioni intellettuali l'uso è solo strumentale con prevalenza del lavoro umano e obbligo di informativa chiara al cliente;<br/>**Art. 9:** Fascicolo Sanitario Elettronico. | Cogente (Legge nazionale) |
+| **3. Normativa IT** | **Legge 23 settembre 2025, n. 132 (ex DDL Atto S. 1146-B)** | **Art. 7:** L'IA in sanità è mero "supporto", decisione clinica riservata esclusivamente al professionista sanitario;<br/>**Art. 13:** Nelle professioni intellettuali l'uso è solo strumentale con prevalenza del lavoro umano e obbligo di informativa chiara al cliente;<br/>**Art. 9:** Fascicolo Sanitario Elettronico. | Cogente (Legge nazionale) |
 | **3. Normativa IT** | **Codice Penale** e **Legge 24/2017 (Gelli-Bianco)** | **Art. 622 c.p.:** Rivelazione del segreto professionale;<br/>**Legge 24/2017:** Responsabilità professionale sanitaria per colpa (imperizia, negligenza) e inosservanza delle *leges artis*; intrasferibilità della responsabilità al software. | Cogente (Legge nazionale) |
 | **4. Deontologia** | **Codice Deontologico degli Psicologi Italiani** (Testo 2013 ripristinato post-**Sentenza Consiglio di Stato n. 10376/2024**) | **Art. 1:** Responsabilità professionale personale;<br/>**Art. 5:** Competenza metodologica e uso esclusivo di strumenti scientificamente validati;<br/>**Art. 11:** Segreto professionale rigoroso;<br/>**Art. 13:** Deroghe al segreto;<br/>**Art. 14:** Riservatezza nei setting di gruppo;<br/>**Art. 17:** Stretta custodia di dati, appunti e registrazioni;<br/>**Art. 24:** Consenso informato preventivo ed esplicito. | Cogente (Sanzionabile in sede disciplinare dall'Ordine) |
 
@@ -135,7 +135,7 @@ graph LR
 
 ### 3. [[demarcazione-wellness-vs-samd-salute-mentale|Confine tra Wellness App e Medical Device]]
 - **Zona Grigia:** Le applicazioni per il benessere generale o la gestione dello stress quotidiano (*lifestyle/wellness*) sfuggono alla disciplina dei dispositivi medici. Tuttavia, se un assistente basato su LLM eroga tecniche di mindfulness e contestualmente intercetta marker linguistici di depressione maggiore modulando le risposte, sconfina nella clinica.
-- **Criterio Prudenziale:** In assenza di linee guida verticali del CNOP o del Ministero della Salute, qualsiasi software che inferisce costrutti psicopatologici e formula raccomandazioni cliniche mirate deve essere considerato SaMD e sottoposto ai requisiti del MDR 2017/745.
+- **Criterio Prudenziale:** In assenza di linee guida verticali del CNOP (in preparazione nell'ottobre 2026, cfr. [[10-10-giornata-nazionale-psicologia-ia-quo-vadis]]) o del Ministero della Salute, qualsiasi software che inferisce costrutti psicopatologici e formula raccomandazioni cliniche mirate deve essere considerato SaMD e sottoposto ai requisiti del MDR 2017/745.
 
 ---
 
@@ -181,6 +181,17 @@ sequenceDiagram
 
 ---
 
+## Aggiornamenti dalla Giornata Nazionale della Psicologia 2026
+
+Interventi dei giuristi alla Giornata del CNOP del 10 ottobre 2026; sono posizioni dei relatori, non pareri ufficiali (cfr. [[10-10-giornata-nazionale-psicologia-ia-quo-vadis]]).
+- **Legge 132/2025:** è in vigore dal 10 ottobre 2025. Nelle professioni intellettuali l'art. 13 consente l'IA solo per attività strumentali e di supporto: la prestazione va restituita all'utente direttamente dal professionista. È stato citato un decreto legislativo attuativo pubblicato pochi giorni prima dell'evento [numero e contenuto da verificare].
+- **Esercizio abusivo della professione:** si configura combinando l'art. 348 c.p. con l'art. 1 della legge 56/1989. Tra le finalità dell'atto tipico dello psicologo rientra anche il sostegno psicologico. Secondo il relatore, un servizio commerciale di sostegno psicologico tramite chatbot potrebbe configurare esercizio abusivo da parte di chi lo predispone: è un'ipotesi discussa, non un orientamento giurisprudenziale.
+- **Alfabetizzazione e deontologia:** l'obbligo di alfabetizzazione in materia di IA previsto dall'AI Act si salda con il dovere di competenza (art. 5) e di verifica delle fonti (art. 7) del codice deontologico.
+- **Misure minime proposte:** informare il paziente dell'uso dell'IA nell'incarico o nel consenso; minimizzare i dati e non inserire dati identificativi; verificare dove si trovano i server e quali standard di sicurezza applicano.
+- **Linee di indirizzo CNOP:** il gruppo di lavoro CNOP sull'IA le sta preparando.
+
+---
+
 ## Evidenze dalla Letteratura e Fonti Giuridiche
 - La giurisprudenza europea e nazionale concorda nel considerare i dati sanitari mentali come meritevoli della massima tutela, escludendo che l'anonimizzazione parziale (pseudonimizzazione) elimini il rischio di identificabilità contestuale (Garante Privacy, 2023; 2025).
 - L'evoluzione del diritto sanitario e dell'IA Act qualifica gli strumenti diagnostico-terapeutici come SaMD ad alto rischio, vietandone l'impiego privo di marcatura CE (MDCG, 2019; Regolamento UE 2017/745; Regolamento UE 2024/1689).
@@ -200,4 +211,4 @@ sequenceDiagram
 ---
 
 ## Relazioni
-- Vedi anche: [[quattro-condizioni-liceita-ia-psicologia]], [[configurazione-sicurezza-piattaforme-ia-clinica]], [[guida-pratica-ai-oppv-1]], [[responsabilita-sanitaria-allucinazioni-algoritmiche]], [[demarcazione-wellness-vs-samd-salute-mentale]], [[software-as-a-medical-device-salute-mentale]], [[human-oversight-and-liability-in-clinical-ai]], [[gdpr-governance-mental-health-ai]], [[informed-consent-for-clinical-ai]], [[large-language-models]], [[over-deference-in-llm-supervision]]
+- Vedi anche: [[10-10-giornata-nazionale-psicologia-ia-quo-vadis]], [[quattro-condizioni-liceita-ia-psicologia]], [[configurazione-sicurezza-piattaforme-ia-clinica]], [[guida-pratica-ai-oppv-1]], [[responsabilita-sanitaria-allucinazioni-algoritmiche]], [[demarcazione-wellness-vs-samd-salute-mentale]], [[software-as-a-medical-device-salute-mentale]], [[human-oversight-and-liability-in-clinical-ai]], [[gdpr-governance-mental-health-ai]], [[informed-consent-for-clinical-ai]], [[large-language-models]], [[over-deference-in-llm-supervision]]

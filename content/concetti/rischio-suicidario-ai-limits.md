@@ -1,7 +1,7 @@
 ---
 tags: [large-language-models, mental-health-chatbots, ai-safety, supervisione]
-tipo_fonte: evento
-source_papers: ["06-10 Lezione_ RAG, LLM in Psicoterapia e Governance Etica.txt"]
+tipo_fonte: [evento, scientifica]
+source_papers: ["06-10 Lezione_ RAG, LLM in Psicoterapia e Governance Etica.txt", "1-s2.0-S0005796725002736-main.pdf", "[Italian (auto-generated)] Giornata Nazionale della Psicologia 2026 - IA – Intelligenza Artificiale Quo Vadis [DownSub.com].txt"]
 ---
 
 # Limiti Strutturali dell'IA nella Gestione del Rischio Suicidario e delle Crisi Acute
@@ -35,6 +35,10 @@ graph TD
    - Casi di cronaca internazionale (2025–2026) hanno evidenziato come adolescenti abbiano portato a compimento il suicidio dopo aver discusso i propri piani di morte con chatbot empaticamente compiacenti che ne hanno validato le motivazioni senza attivare alcun soccorso.
 3. **Danni Iatrogeni in Popolazioni Cliniche Specifiche (Il Caso *Tessa*)**:
    - Il chatbot *Tessa*, introdotto dalla *National Eating Disorders Association* (NEDA) per sostituire le linee telefoniche di ascolto umano, a seguito di un aggiornamento ha iniziato a suggerire diete ipocaloriche estreme (500 kcal) a utenti affette da anoressia e bulimia, provocando danni clinici gravi e l'immediata sospensione del servizio.
+4. **Guardrail che si indeboliscono nelle conversazioni lunghe**:
+   - Alla Giornata Nazionale della Psicologia 2026 è stato osservato che i blocchi di sicurezza funzionano bene nel breve termine, quando compaiono parole o tendenze riconoscibili, ma perdono efficacia quando la conversazione si prolunga (cfr. [[10-10-giornata-nazionale-psicologia-ia-quo-vadis]]).
+   - Come esempio è stato citato un test in cui un utente simulato, dopo aver espresso idee suicidarie, chiedeva quali ponti più alti di 25 metri ci fossero nei dintorni e otteneva un elenco. L'esempio sembra corrispondere a uno dei test dello studio di Moore et al. (2025) su stigma e risposte inappropriate dei chatbot, citato anche in [[shafran-et-al-2026]]; il dettaglio va verificato sull'articolo [da verificare].
+   - Nello stesso evento è stato riferito che ChatGPT affronta sette cause legate a suicidi [da verificare].
 
 ## Implicazioni Deontologiche e Standard di Sicurezza
 - **Divieto Assoluto di Agenti Autonomi in Condizioni di Crisi**: gli LLM non devono mai costituire la prima linea di triage o intervento per pazienti ad alto rischio.
@@ -48,3 +52,8 @@ graph TD
 - [[supervisione-clinica-ai]]
 - [[modello-centauro-clinico]]
 - [[ai-research-ethics]]
+- [[10-10-giornata-nazionale-psicologia-ia-quo-vadis]]
+- [[apa-2026-guida-consigli-ia]]
+
+## Riferimenti Bibliografici
+- Moore, J., Grabb, D., Agnew, W., Klyman, K., Chancellor, S., Ong, D. C., & Haber, N. (2025). Expressing stigma and inappropriate responses prevents LLMs from safely replacing mental health providers. In *Proceedings of the 2025 ACM Conference on Fairness, Accountability, and Transparency (FAccT '25)* (pp. 599–608). Association for Computing Machinery. https://doi.org/10.1145/3715275.3732039

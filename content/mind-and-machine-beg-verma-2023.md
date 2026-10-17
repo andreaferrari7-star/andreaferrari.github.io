@@ -19,7 +19,7 @@ source_papers: ["The Mind and Machine_ An Introduction to Artificial -- Mirza Ja
 - **Limiti tecnici, bias e rischi specifici documentati:** Il volume richiama l'attenzione sulle sfide etiche, sottolineando come gli algoritmi di ML siano vulnerabili al bias presente nei dati di addestramento (rischiando di esacerbare discriminazioni sistematiche e stereotipi) e come la mancanza di trasparenza (effetto *black-box* delle reti neurali) complichi l'interpretazione dei processi decisionali algoritmici (Beg & Verma, 2023).
 
 ## Riferimenti Bibliografici
-- Beg, M. J., & Verma, M. K. (2023). *The Mind and Machine: An Introduction to Artificial Intelligence*. Amazon International. ISBN: 978-8374274424.
+- Beg, M. J., & Verma, M. K. (2023). *The mind and machine: An introduction to artificial intelligence*. ISBN 979-8-3742-7442-4. (Il volume non indica l'editore.)
 
 ## Relazioni
 - Vedi anche: [[hybrid-neuro-symbolic-cdss]], [[etica-privacy-bias-ia-clinica]]

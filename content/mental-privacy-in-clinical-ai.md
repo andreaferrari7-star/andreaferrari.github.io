@@ -1,7 +1,7 @@
 ---
 tags: [mental-privacy, data-protection, neuro-rights, algorithmic-profiling, safe-by-default, digital-mental-health, gdpr, hipaa-gaps, apa-health-advisory]
-tipo_fonte: scientifica
-source_papers: ["health-advisory-ai-chatbots-wellness-apps-mental-health.pdf", "behavsci-16-00676.pdf"]
+tipo_fonte: [scientifica, evento]
+source_papers: ["health-advisory-ai-chatbots-wellness-apps-mental-health.pdf", "behavsci-16-00676.pdf", "[Italian (auto-generated)] Giornata Nazionale della Psicologia 2026 - IA – Intelligenza Artificiale Quo Vadis [DownSub.com].txt"]
 ---
 
 # Mental Privacy in Clinical AI
@@ -82,6 +82,16 @@ L'APA Health Advisory formula specifiche prescrizioni per garantire la protezion
 
 ---
 
+### 5. Neurodiritti e dati neurali
+Nella lezione magistrale alla Giornata Nazionale della Psicologia 2026, Marcello Ienca ha collocato la privacy mentale tra quattro neurodiritti (cfr. [[10-10-giornata-nazionale-psicologia-ia-quo-vadis]]):
+- **libertà cognitiva:** consentire o rifiutare l'accesso alle proprie funzioni mentali e la loro modulazione;
+- **privacy mentale:** protezione dalle inferenze sulle vulnerabilità mentali, resa più urgente da sensori EEG nei dispositivi di consumo e dalle tecniche di decodifica di immagini e linguaggio da dati neurali;
+- **integrità mentale:** collegare la mente a un computer la espone alle stesse vulnerabilità informatiche;
+- **continuità psicologica:** protezione da cambiamenti di preferenze, identità o senso di agency indotti da dispositivi o dal loro espianto.
+- Secondo il relatore la domanda etica si sposta da «chi possiede i miei dati» a «chi può conoscere le mie vulnerabilità mentali e usarle per modificare ciò che penso, desidero o scelgo». I dati neurali non sono menzionati esplicitamente nel GDPR. Come riferimenti internazionali ha indicato la raccomandazione OCSE del 2019, quella UNESCO del 2025 e la tutela costituzionale dei neurodiritti in Cile. Sono posizioni del relatore, da verificare sulle sue pubblicazioni [da verificare].
+
+---
+
 ## Riferimenti Bibliografici
 - American Psychological Association. (2025). *APA Health Advisory on the Use of Generative AI Chatbots and Wellness Applications for Mental Health*. APA.org. https://www.apa.org/topics/artificial-intelligence-machine-learning/health-advisory-ai-chatbots-wellness-apps
 - Bouguettaya, A., Stuart, E. M., & Aboujaoude, E. (2025). Racial bias in AI-mediated psychiatric diagnosis and treatment: A qualitative comparison of four large language models. *NPJ Digital Medicine*, 8, 332. https://doi.org/10.1038/s41746-025-01746-4
@@ -96,5 +106,5 @@ L'APA Health Advisory formula specifiche prescrizioni per garantire la protezion
 ---
 
 ## Relazioni
-- Concetti e fonti collegate: [[health-advisory-ai-chatbots-wellness-apps-mental-health]], [[single-person-echo-chambers]], [[gdpr-governance-mental-health-ai]], [[software-as-a-medical-device-salute-mentale]], [[emotional-infrastructure]], [[artificial-intimacy]], [[uso-problematico-chatbot-ai]], [[human-oversight-and-liability-in-clinical-ai]], [[pediatric-ai-bias-and-vulnerabilities]], [[open-weight-privacy-compliant-synthesis]]
+- Concetti e fonti collegate: [[health-advisory-ai-chatbots-wellness-apps-mental-health]], [[single-person-echo-chambers]], [[gdpr-governance-mental-health-ai]], [[software-as-a-medical-device-salute-mentale]], [[emotional-infrastructure]], [[artificial-intimacy]], [[uso-problematico-chatbot-ai]], [[human-oversight-and-liability-in-clinical-ai]], [[pediatric-ai-bias-and-vulnerabilities]], [[open-weight-privacy-compliant-synthesis]], [[10-10-giornata-nazionale-psicologia-ia-quo-vadis]]
 

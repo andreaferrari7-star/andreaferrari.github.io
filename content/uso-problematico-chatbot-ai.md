@@ -1,7 +1,7 @@
 ---
 tags: [mental-health-chatbots, large-language-models, supervisione, sycophancy]
 tipo_fonte: [scientifica, evento]
-source_papers: ["06-10 Lezione_ RAG, LLM in Psicoterapia e Governance Etica.txt"]
+source_papers: ["06-10 Lezione_ RAG, LLM in Psicoterapia e Governance Etica.txt", "guide-navigating-ai-advice.pdf"]
 ---
 
 # Uso Problematico da Chatbot e Dipendenze da Intelligenza Artificiale
@@ -105,6 +105,11 @@ L'intervento terapeutico si fonda sui protocolli per le dipendenze comportamenta
 3. **Interventi Sistemico-Familiari**: Psicoeducazione per genitori e insegnanti volta a stabilire confini temporali rigidi e monitorare i segnali precoci di ritiro sociale.
 4. **Sviluppo del "Filtro Umano"**: Educare l'adolescente a considerare l'output dell'IA non come una verità o una guida esistenziale, ma come un mero testo computazionale da vagliare criticamente.
 
+### Indicazioni APA per gli utenti (APA, 2026)
+- La guida APA per il pubblico sconsiglia di trattare l'IA come amico, partner, professionista o principale fonte di supporto emotivo: i chatbot simulano l'empatia ma non formano relazioni umane autentiche (American Psychological Association [APA], 2026).
+- Segnali d'allarme indicati dalla guida: l'IA suggerisce di allontanarsi dalle relazioni reali, anche quando sembra emotivamente più «sicura»; le conversazioni interferiscono con sonno, hobby, scuola, lavoro o vita sociale. Molti prodotti sono progettati per trattenere l'utente e l'uso eccessivo riduce le attività sane (APA, 2026).
+- La guida invita anche a dire al proprio terapeuta se si usa l'IA come supporto, perché possa verificarne la coerenza con gli obiettivi del trattamento (APA, 2026). Vedi [[apa-2026-guida-consigli-ia]].
+
 ---
 
 ## Relazioni
@@ -120,5 +125,7 @@ L'intervento terapeutico si fonda sui protocolli per le dipendenze comportamenta
 - [[ai-research-ethics]]
 - [[human-in-the-reasoning]]
 - [[large-language-models]]
+- [[apa-2026-guida-consigli-ia]]
 
 ## Riferimenti Bibliografici
+- American Psychological Association. (2026, giugno). *APA guide to navigating AI-generated advice thoughtfully and safely*.

@@ -4,10 +4,10 @@ tipo_fonte: scientifica
 source_papers: ["bhavnani.pdf"]
 ---
 
-# Artificial Intelligence in Mental Healthcare: Potential Applications and New Frontiers (Bhavnani & McKim, 2025)
+# Artificial Intelligence in Mental Healthcare: Potential Applications and New Frontiers (Bhavnani & McKim, 2026)
 
 ## Definizione Operativa
-- Monografia di riferimento (2025) che esplora le applicazioni cliniche dell'IA lungo tutto il "patient journey" (Prevenzione, Diagnosi, Trattamento). Gli autori (S. Bhavnani e R. McKim) inquadrano l'evoluzione dell'IA nella salute mentale come una transizione verso la *Precision Psychiatry* (psichiatria di precisione) abilitata dall'integrazione multimodale di dati biologici e psicosociali.
+- Monografia di riferimento (prima edizione CRC Press, 2026) che esplora le applicazioni cliniche dell'IA lungo tutto il "patient journey" (Prevenzione, Diagnosi, Trattamento). Gli autori (S. Bhavnani e R. McKim) inquadrano l'evoluzione dell'IA nella salute mentale come una transizione verso la *Precision Psychiatry* (psichiatria di precisione) abilitata dall'integrazione multimodale di dati biologici e psicosociali.
 - **Utilità CBT / Applicativa:** Fornisce una mappa esaustiva delle tecnologie di intervento, dalle applicazioni di *Digital Phenotyping* e *Voice Biomarkers* (es. Kintsugi) fino all'implementazione di avatar terapeutici e modelli predittivi per l'esito dei trattamenti (es. previsione di risposta a SSRI, Ketamina o ECT). 
 
 ## Evidenze dalla Letteratura e Ambiti di Intervento
@@ -20,11 +20,11 @@ source_papers: ["bhavnani.pdf"]
 - **Terapia Psicosociale (LLM e Avatar):** Evoluzione dai chatbot rule-based (es. Woebot) verso LLM specializzati e "instruction tuned" per la psicoterapia (es. *Therabot*, testato in RCT con risultati paragonabili alla terapia clinica umana in termini di riduzione dei sintomi depressivi). Sviluppo verso sistemi multi-agente e "digital twins".
 - **Limiti tecnici, bias e rischi specifici documentati:** 
   - **Etica e Responsabilità:** Il cosiddetto "Responsibility gap" (R-gap) in caso di errori dell'IA o consigli dannosi, oltre alle sfide di privacy (incompatibilità delle black box cloud-based con l'HIPAA standard).
-  - **Impatto a Lungo Termine:** Rischio clinico di de-socializzazione, attaccamento parasociale, dipendenza emotiva e alterata percezione di sé. Nei pazienti vulnerabili o con psicosi latenti, l'uso di IA può rafforzare l'ideazione paranoide o generare "AI Psychosis" (Bhavnani & McKim, 2025).
+  - **Impatto a Lungo Termine:** Rischio clinico di de-socializzazione, attaccamento parasociale, dipendenza emotiva e alterata percezione di sé. Nei pazienti vulnerabili o con psicosi latenti, l'uso di IA può rafforzare l'ideazione paranoide o generare "AI Psychosis" (Bhavnani & McKim, 2026).
   - **Bias Algoritmico:** Persistenza di iniquità strutturali per razza, etnia e genere a causa di dataset non rappresentativi.
 
 ## Riferimenti Bibliografici
-- Bhavnani, S., & McKim, R. (2025). *Artificial Intelligence in Mental Healthcare: Potential Applications and New Frontiers*. CRC Press (Taylor & Francis Group). ISBN: 978-1-032-93288-0.
+- Bhavnani, S., & McKim, R. (2026). *Artificial intelligence in mental healthcare: Potential applications and new frontiers*. CRC Press. https://doi.org/10.1201/9781003565215
 
 ## Relazioni
 - Vedi anche: [[clinical-prediction-model-evaluation]], [[ai-psychosis]], [[simulated-therapeutic-alliance]], [[uso-problematico-chatbot-ai]], [[etica-privacy-bias-ia-clinica]]

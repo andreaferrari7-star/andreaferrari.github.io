@@ -18,5 +18,5 @@ source_papers: ["fpsyt-14-1231024.pdf"]
 - Lønfeldt, N. N., Olesen, K. V., Das, S., Mora-Jensen, A. R. C., Pagsberg, A. K., & Clemmensen, L. K. H. (2023). Predicting obsessive-compulsive disorder episodes in adolescents using a wearable biosensor—A wrist angel feasibility study. *Frontiers in Psychiatry*, 14, 1231024. https://doi.org/10.3389/fpsyt.2023.1231024
 
 ## Relazioni
-- Vedi anche: [[wearable-biosensors-ocd]]
+- Vedi anche: [[wearable-biosensors-ocd]], [[lonfeldt-clemmensen-pagsberg-2023]] (protocollo dello studio)
 

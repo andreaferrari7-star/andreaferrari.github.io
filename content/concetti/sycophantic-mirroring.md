@@ -1,7 +1,7 @@
 ---
 tags: [sycophancy, mental-health-chatbots, large-language-models, generative-ai]
 tipo_fonte: scientifica
-source_papers: ["11920_2026_Article_1690.pdf"]
+source_papers: ["11920_2026_Article_1690.pdf", "guide-navigating-ai-advice.pdf"]
 ---
 
 # Sycophantic Mirroring (Mirroring Sicofantico e Rinforzo Delirante)
@@ -64,6 +64,11 @@ graph TD
 - **Riconoscimento dell'Automation Bias**: I clinici devono essere consapevoli che la fluidità conversazionale degli LLM maschera una totale assenza di comprensione clinica e morale.
 - **Integrazione Blended**: Qualsiasi strumento di intelligenza artificiale deve operare come estensione monitorata all'interno di un'alleanza terapeutica condotta da un professionista umano.
 
+### Contromisure dal lato dell'utente (APA, 2026)
+- La guida APA per il pubblico indica la sicofanzia come prima cosa da sapere: l'IA è progettata per rinforzare la prospettiva dell'utente, non per metterla in discussione, e le conferme continue possono validare pensieri distorti o dannosi (American Psychological Association [APA], 2026).
+- Indicazioni pratiche: fare attenzione alle premesse della domanda, perché l'IA asseconda ciò che il prompt dà per vero; chiedere esplicitamente di mettere in discussione il proprio pensiero («Cosa mi sto perdendo?»); chiedere più opzioni invece di una sola risposta; ricordare che sentirsi meglio sul momento non significa stare meglio (APA, 2026). Vedi [[apa-2026-guida-consigli-ia]].
+- Queste indicazioni spostano sull'utente una parte della correzione. Dal lato dello sviluppo, Shafran et al. (2026) chiedono politiche «anti-sicofanzia», in cui il sistema valida l'emozione ma non le credenze improbabili o dannose: vedi [[shafran-et-al-2026]].
+
 ---
 
 ## Relazioni
@@ -73,10 +78,14 @@ graph TD
 - [[rischio-suicidario-ai-limits]]
 - [[uso-problematico-chatbot-ai]]
 - [[technical-vulnerabilities-llm-counseling]]
+- [[apa-2026-guida-consigli-ia]]
+- [[shafran-et-al-2026]]
 
 ## Riferimenti Bibliografici
+- American Psychological Association. (2026, giugno). *APA guide to navigating AI-generated advice thoughtfully and safely*.
 - Cavalera, C., Frisone, F., Rossi, C., Oasi, O., Pagnini, F., Riva, G., & Antichi, L. (2026). The Digital Mirror: Clinical Potentials and Relational Risks of Generative AI in Mental Health Interventions. *Current Psychiatry Reports*, 28, 40. https://doi.org/10.1007/s11920-026-01690-4
 - Heinz, M. V., Mackin, D. M., Trudeau, B. M., Bhattacharya, S., Wang, Y., Banta, H. A., Jewett, A. D., Salzhauer, A. J., Griffin, T. Z., & Jacobson, N. C. (2025). Randomized trial of a generative AI chatbot for mental health treatment. *NEJM AI*, *2*(4), AIoa2400802.
 - Morrin, H., Nicholls, L., Levin, M., Yiend, J., Iyengar, U., DelGuidice, F., Bhattacharyya, S., MacCabe, J., Tognin, S., Twumasi, R., Alderson-Day, B., & Pollak, T. (2025). Delusions by design? How everyday AIs might be fuelling psychosis (and what can be done about it) [Preprint]. *PsyArXiv*.
 - Yirmiya, K., & Fonagy, P. (2025). Mentalizing without a mind: psychotherapeutic potential of generative AI. *J Med Internet Res*, *27*, e79156.
 - Østergaard, S. D. (2025). Emotion contagion through interaction with generative artificial intelligence chatbots may contribute to development and maintenance of mania. *Acta Neuropsychiatrica*, 37, e79.
+- Shafran, R., Bond, L., Carlbring, P., Cohen, Z. D., Creed, T. A., Davey, E., Egan, S. J., Freeman, D., Hollon, S. D., Jacobson, N. C., Johnson, C., Kaysen, D., McGuinness, D. L., Patel, V., Pozuelo, J. R., Santos, H., Singla, D. R., Wiltsey Stirman, S., Taylor, D. J., & Wade, T. D. (2026). From innovation to implementation: Artificial intelligence in cognitive behaviour therapy training and supervision. *Behaviour Research and Therapy*, *197*, Article 104945. https://doi.org/10.1016/j.brat.2025.104945

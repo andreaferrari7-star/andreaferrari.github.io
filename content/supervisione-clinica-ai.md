@@ -1,14 +1,14 @@
 ---
 tags: [supervisione, large-language-models, psychotherapy, anxiety]
-tipo_fonte: evento
-source_papers: ["06-10 Lezione_ RAG, LLM in Psicoterapia e Governance Etica.txt"]
+tipo_fonte: [evento, scientifica]
+source_papers: ["06-10 Lezione_ RAG, LLM in Psicoterapia e Governance Etica.txt", "1-s2.0-S0005796725002736-main.pdf", "informatics-12-00029.pdf"]
 ---
 
 # Supervisione Clinica e Intelligenza Artificiale
 
-**Summary**: Inquadramento teorico ed evidenze empiriche sull'utilizzo dei Large Language Models e chatbot come strumenti a supporto della supervisione e dell'intervisione in psicoterapia. L'analisi include lo studio pionieristico di Cosentino et al. (2026) su allievi specializzandi e terapeuti esperti, focalizzandosi su timore della colpa, ansia sociale, rischi di de-skilling e sycophancy.
-**Fonti**: [[06-10-lezione-rag-llm|Lezione e Seminario: RAG, LLM in Psicoterapia, Supervisione e Governance Etica (10 Giugno 2026)]]
-**Last updated**: 2026-08-27
+**Summary**: Inquadramento teorico ed evidenze empiriche sull'utilizzo dei Large Language Models e chatbot come strumenti a supporto della supervisione e dell'intervisione in psicoterapia. L'analisi include lo studio pionieristico di Cosentino et al. (2026) su allievi specializzandi e terapeuti esperti, focalizzandosi su timore della colpa, ansia sociale, rischi di de-skilling e sycophancy, la rassegna di Shafran et al. (2026) sugli strumenti di IA per la supervisione in CBT e lo studio di Cioffi et al. (2025) sul feedback di supervisione generato da ChatGPT-4.
+**Fonti**: [[06-10-lezione-rag-llm|Lezione e Seminario: RAG, LLM in Psicoterapia, Supervisione e Governance Etica (10 Giugno 2026)]]; [[shafran-et-al-2026|Shafran et al. (2026)]]; [[cioffi-et-al-2025|Cioffi et al. (2025)]]
+**Last updated**: 2026-10-17
 
 ---
 
@@ -89,7 +89,28 @@ graph TD
 
 ---
 
+## Evidenze dalla Letteratura: strumenti di IA per la supervisione in CBT
+
+- Shafran et al. (2026) distinguono quattro usi dell'IA nella formazione e nella supervisione, con requisiti di dati diversi: paziente virtuale standardizzato, rating automatico della fedeltà, supervisione o feedback narrativo tramite agenti, consulente IA che risponde alle domande del supervisore.
+- Nella pratica reale questi strumenti possono trascrivere e analizzare le sedute, preparare bozze di note e segnalare i momenti da rivedere in supervisione: opportunità mancate, deviazioni dal protocollo, interazioni critiche (Shafran et al., 2026). Per il rating della fedeltà vedi [[ctrs-automated-evaluation]].
+- Architettura proposta: un agente fa da consulente conversazionale; un secondo agente, nascosto, guida il «terapeuta» sulla concettualizzazione del caso e riassume le decisioni delle consultazioni precedenti, sul modello della supervisione *bug-in-ear* (Shafran et al., 2026).
+- L'IA potrebbe servire anche a formare i supervisori, analizzando le sedute di supervisione con strumenti standardizzati di valutazione delle competenze supervisive (Shafran et al., 2026).
+- Rischi: [[algorithmic-paternalism-in-ai-mental-health|paternalismo algoritmico]] se le decisioni sul percorso dell'allievo vengono prese senza coinvolgerlo; perdita graduale di competenze in formatori e supervisori che si rimettono al giudizio della macchina; valutazioni opache e difficili da contestare. Per gli autori l'IA va usata insieme al giudizio umano e deve spiegare le proprie conclusioni (Shafran et al., 2026).
+- **Feedback di supervisione generato da ChatGPT-4 (Cioffi et al., 2025).** Specializzandi in psicoterapia della Gestalt hanno valutato alla cieca tre feedback sullo stesso caso clinico: ChatGPT-4 senza contesto, ChatGPT-4 orientato da un prompt sulla supervisione gestaltica, un supervisore esperto. Il feedback orientato dal prompt è stato giudicato migliore di quello senza contesto nella dimensione relazionale ed emotiva, dove non differisce dal supervisore umano, e migliore anche del supervisore nell'orientamento professionale. Il supervisore umano è stato giudicato migliore nell'evidenziare le aree di miglioramento; su chiarezza, completezza e analisi delle tecniche non ci sono differenze. Lo studio usa un solo caso e un solo supervisore e misura la soddisfazione degli specializzandi, non gli effetti sulle competenze: vedi [[cioffi-et-al-2025]].
+- Gli autori propongono una supervisione *blended* a due livelli, con un primo feedback dell'IA rivisto poi dal supervisore esperto, e l'uso dell'IA tra un incontro di supervisione e l'altro (Cioffi et al., 2025).
+- La rassegna converge con quanto emerso nella lezione del 10 giugno (cfr. [[06-10-lezione-rag-llm]]): l'IA è un complemento, non un sostituto, della supervisione umana, e il rischio di de-skilling è centrale. Shafran et al. (2026) aggiungono che le prove sperimentali sui modelli di formazione e supervisione, con o senza IA, sono ancora scarse.
+
+---
+
+## Riferimenti Bibliografici
+- Cioffi, V., Ragozzino, O., Mosca, L. L., Moretto, E., Tortora, E., Acocella, A., Montanari, C., Ferrara, A., Crispino, S., Gigante, E., Lommatzsch, A., Pizzimenti, M., Temporin, E., Barlacchi, V., Billi, C., Salonia, G., & Sperandeo, R. (2025). Can AI technologies support clinical supervision? Assessing the potential of ChatGPT. *Informatics*, *12*(1), 29. https://doi.org/10.3390/informatics12010029
+- Shafran, R., Bond, L., Carlbring, P., Cohen, Z. D., Creed, T. A., Davey, E., Egan, S. J., Freeman, D., Hollon, S. D., Jacobson, N. C., Johnson, C., Kaysen, D., McGuinness, D. L., Patel, V., Pozuelo, J. R., Santos, H., Singla, D. R., Wiltsey Stirman, S., Taylor, D. J., & Wade, T. D. (2026). From innovation to implementation: Artificial intelligence in cognitive behaviour therapy training and supervision. *Behaviour Research and Therapy*, *197*, Article 104945. https://doi.org/10.1016/j.brat.2025.104945
+
+---
+
 ## Relazioni
+- [[shafran-et-al-2026]]
+- [[cioffi-et-al-2025]]
 - [[06-10-lezione-rag-llm]]
 - [[modello-centauro-clinico]]
 - [[uso-problematico-chatbot-ai]]
