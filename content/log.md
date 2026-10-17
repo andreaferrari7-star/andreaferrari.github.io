@@ -774,3 +774,8 @@ Integrazione del paper sull'uso degli LLMs per la sintesi dei dialoghi nel collo
   - `concetti/CONSORT-AI` e `concetti/STARD-AI`: aggiunti l'ambito secondo TRIPOD+AI, i limiti per l'IA generativa (REFINE, GAMER) e la cronologia di STARD-AI fino alla pubblicazione del 2025; il numero di item di STARD-AI, prima attribuito a QUADAS-AI (un altro strumento), è segnato `[da verificare]`.
 - Corretti i nomi dei file in `source_papers` di `08-28-riunione-corso-ia-clinici`, `modello-rocco` (manuale «1.0») e `risultati-apprendimento-attesi-raa`, cui è stata aggiunta la trascrizione del 28/08. Questi quattro file non sono ancora in `raw/`. Segnata `[da verificare]` l'attribuzione a METID del PDF sui RAA.
 - Indice: aggiornata la descrizione di `concetti/llm-as-a-judge`.
+
+## [2026-10-17] lint | fonti-modello-rocco
+- Copiati dall'utente in `raw/` la trascrizione della riunione del 28/08 e `2.3_esempi_raa.pdf`: le fonti di `08-28-riunione-corso-ia-clinici` e `risultati-apprendimento-attesi-raa` ora sono presenti.
+- Decisione: i due manuali del corso (`Manuale_Tecnico_GenAI_Psicoterapia_CBT 1.0.md`, `manuale_genai_cbt_libet.md`) non vanno in `raw/`, perché sono stati generati consultando la wiki: usarli come fonte renderebbe circolari le citazioni.
+- `modello-rocco`: tolti i due manuali da `source_papers`; restano il verbale del 2/10 e le fonti delle citazioni di Wu et al. (2025) e Abdulnour et al. (2025). I cinque campi dell'acronimo e l'utilità dichiarata, presenti solo nel manuale, sono segnati `[da verificare]` finché un documento del gruppo non li definisce. Aggiornata la descrizione nell'indice.

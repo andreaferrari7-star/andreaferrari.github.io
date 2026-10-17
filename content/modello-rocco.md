@@ -1,14 +1,15 @@
 ---
 tags: [prompt-engineering, cbt, clinical-reasoning, coast-framework, llm4cbt]
 tipo_fonte: [scientifica, interna]
-source_papers: ["Manuale_Tecnico_GenAI_Psicoterapia_CBT 1.0.md", "manuale_genai_cbt_libet.md", "10-02 Riunione_ Corso AI per terapeuti e valutazione software-Summary.md"]
+source_papers: ["10-02 Riunione_ Corso AI per terapeuti e valutazione software-Summary.md", "Ricerca Prompting LLM Clinico Sanitario.pdf", "Ricerca AI In Psicoterapia.docx"]
 ---
 
 # Modello R.O.C.C.O.
 
 ## Definizione Operativa
-- Griglia operativa proprietaria a 5 campi (Ruolo, Obiettivo, Contesto, Criteri, Output) per la stesura materiale di prompt clinici, progettata per ridurre l'ambiguità pragmatica degli LLM. È descritta nel manuale tecnico del corso, materiale didattico interno del gruppo. Nel Modulo 1 del corso i partecipanti riscrivono un prompt spontaneo con l'acronimo ROCCO e confrontano gli output (cfr. [[10-02-riunione-corso-ai-terapeuti-software]]).
-- **Utilità CBT:** Garantisce che l'intelligenza artificiale produca output terapeutici strutturati, sicuri (su dati de-identificati) e immediatamente azionabili in seduta, inibendo allucinazioni enciclopediche e violazioni deontologiche.
+- Griglia per la stesura di prompt clinici usata nel corso del gruppo: nel Modulo 1 i partecipanti riscrivono un prompt spontaneo con l'acronimo ROCCO, iterano e confrontano gli output (cfr. [[10-02-riunione-corso-ai-terapeuti-software]]).
+- I cinque campi dell'acronimo (Ruolo, Obiettivo, Contesto, Criteri, Output) e lo scopo di ridurre l'ambiguità pragmatica degli LLM provengono dal manuale tecnico del corso, generato a partire da questa wiki e quindi non utilizzabile come fonte indipendente [da verificare].
+- **Utilità CBT:** Lo scopo dichiarato è ottenere output strutturati, prodotti su dati de-identificati e utilizzabili in seduta, limitando allucinazioni e violazioni deontologiche; l'efficacia della griglia non è stata verificata [da verificare].
 
 ## Evidenze dalla Letteratura
 - Il *Chain-of-Thought* non vincolato peggiora le prestazioni nell'86,3% dei 95 LLM valutati su 87 compiti con testi clinici reali (Wu et al., 2025). L'ipotesi che una griglia prescrittiva come R.O.C.C.O. contenga questo effetto non è stata verificata empiricamente [da verificare].
