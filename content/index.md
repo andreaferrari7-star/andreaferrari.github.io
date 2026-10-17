@@ -13,9 +13,9 @@
 >     - [[#Processi terapeutici, CBT e pratica clinica aumentata|Processi terapeutici, CBT e pratica clinica aumentata]] (70)
 > 6. [[#Etica, Governance e Regolazione|Etica, Governance e Regolazione]] (43)
 
-Ogni sezione elenca prima i concetti e le sintesi tematiche (in ordine alfabetico), poi i paper e i documenti in tabella (dal più recente). Accanto a ciascun titolo trovi la freccia `↑` per tornare rapidamente al sommario. Quando esiste anche una pagina di sintesi del paper, compare il link *sintesi* accanto al titolo.
+Ogni sezione elenca prima i concetti e le sintesi tematiche (in ordine alfabetico), poi i paper e i documenti in tabella (dal più recente). In calce a ciascuna sezione trovi il collegamento `↑ Torna al sommario` per risalire rapidamente all'indice. Quando esiste anche una pagina di sintesi del paper, compare il link *sintesi* accanto al titolo.
 
-## Da dove iniziare [[#Indice Knowledge Base|↑]]
+## Da dove iniziare
 
 - [Usi clinici degli LLM da parte degli psicologi](usi-clinici-degli-llm-psicologi.md) - panoramica su supporto clinico, documentazione e screening.
 - [AI-Assisted Psychotherapy](ai-assisted-psychotherapy.md) - quadro generale dell'IA in psicoterapia.
@@ -30,9 +30,9 @@ Ogni sezione elenca prima i concetti e le sintesi tematiche (in ordine alfabetic
 
 [[#Indice Knowledge Base|↑ Torna al sommario]]
 
-## Linee Guida, Metodologia della Ricerca e Reporting [[#Indice Knowledge Base|↑]]
+## Linee Guida, Metodologia della Ricerca e Reporting
 
-### Concetti e sintesi tematiche [[#Indice Knowledge Base|↑]]
+### Concetti e sintesi tematiche
 
 - [Accuratezza vs. Fattualità nei Modelli di Intelligenza Artificiale](accuratezza-vs-fattualita-in-genai.md) - La distinzione tra Accuratezza (*Accuracy*) e Fattualità (*Factuality*) costituisce uno dei pilastri concettuali ed epistemologici più critici nella…
 - [Automated CTRS and Fidelity Evaluation (Valutazione Automatizzata della Fidelity e Qualità CBT)](concetti/ctrs-automated-evaluation.md) - L'impiego di modelli di Elaborazione del Linguaggio Naturale (NLP), rappresentazioni contestualizzate (BERT adattato) e architetture gerarchiche di Deep Lear…
@@ -98,7 +98,7 @@ Ogni sezione elenca prima i concetti e le sintesi tematiche (in ordine alfabetic
 - [Validazione MCCV, Bilanciamento Dati e Test Statistici Corretti nel Machine Learning Clinico](concetti/mccv-and-statistical-validation-clinical-ml.md) - Framework metodologico per la valutazione rigorosa e la significatività statistica di algoritmi di Machine Learning applicati a coorti cliniche di d…
 - [Valutazione dei Modelli Predittivi Clinici: Metodi, Metriche ed Epistemologia della Valutazione Continua](clinical-prediction-model-evaluation.md) - La Valutazione dei Modelli Predittivi Clinici (*Clinical Prediction Model Evaluation*) è l'insieme rigoroso di metodologie statistiche e quantitative impiega…
 
-### Paper e documenti [[#Indice Knowledge Base|↑]]
+### Paper e documenti
 
 | Anno | Autori | Titolo | Focus |
 |---|---|---|---|
@@ -149,9 +149,9 @@ Ogni sezione elenca prima i concetti e le sintesi tematiche (in ordine alfabetic
 
 [[#Indice Knowledge Base|↑ Torna al sommario]]
 
-## Sicurezza Clinica, Bias, Allineamento e Red Teaming [[#Indice Knowledge Base|↑]]
+## Sicurezza Clinica, Bias, Allineamento e Red Teaming
 
-### Concetti e sintesi tematiche [[#Indice Knowledge Base|↑]]
+### Concetti e sintesi tematiche
 
 - [Accumulo di Debito Cognitivo nell'Uso dell'IA Generativa (Cognitive Debt in Generative AI)](cognitive-debt-in-generative-ai.md) - Il costrutto di Debito Cognitivo (*Cognitive Debt*) nell'interazione con l'Intelligenza Artificiale Generativa (formalizzato empiricamente da Kosmyna et al.,…
 - [Acknowledgment-Appropriateness Gap & The Crisis Cliff](concetti/acknowledgment-appropriateness-gap.md) - Fenomeno clinico-metodologico per cui i modelli linguistici mantengono livelli quasi perfetti di calore conversazionale ed empatia superficiale (*acknowledgm…
@@ -251,7 +251,7 @@ Ogni sezione elenca prima i concetti e le sintesi tematiche (in ordine alfabetic
 - [Visibilità Negoziabile dei Dati e Privacy Dinamica in Sanità Mentale](concetti/negotiable-data-visibility-privacy.md) - Paradigma di sicurezza e governance del dato clinico (DG2, Quan et al., 2025) basato su un'architettura di privacy flessibile e multilivello (*share…
 - [WEIRD Bias and Cultural Adaptability in Mental Health AI (Bias di Campionamento W.E.I.R.D. e Adattabilità Interculturale)](concetti/weird-bias-cultural-adaptability-ai.md) - La quasi totalità dei modelli di Intelligenza Artificiale e degli agenti conversazionali per la salute mentale viene sviluppata e addestrata su dataset prove…
 
-### Paper e documenti [[#Indice Knowledge Base|↑]]
+### Paper e documenti
 
 | Anno | Autori | Titolo | Focus |
 |---|---|---|---|
@@ -284,9 +284,9 @@ Ogni sezione elenca prima i concetti e le sintesi tematiche (in ordine alfabetic
 
 [[#Indice Knowledge Base|↑ Torna al sommario]]
 
-## Simulazione Clinica, Formazione e Supervisione [[#Indice Knowledge Base|↑]]
+## Simulazione Clinica, Formazione e Supervisione
 
-### Concetti e sintesi tematiche [[#Indice Knowledge Base|↑]]
+### Concetti e sintesi tematiche
 
 - [Adaptive Learning and Code Tutoring in Psychology (Apprendimento Adattivo e Tutoring di Programmazione in Psicologia)](adaptive-learning-in-psychology.md) - L'Adaptive Learning and Code Tutoring in Psychology (apprendimento adattivo e tutoraggio computazionale nelle scienze psicologiche) identifica il mo…
 - [AI Literacy in Academia](ai-literacy-in-academia.md) - Competenze critiche, metodologiche ed etiche necessarie a ricercatori e clinici per valutare, interrogare e impiegare responsabilmente i modelli di IA.
@@ -333,7 +333,7 @@ Ogni sezione elenca prima i concetti e le sintesi tematiche (in ordine alfabetic
 - [Three-Pillar Postgraduate AI Framework (Framework a Tre Pilastri per l'Integrazione Responsabile della GenAI)](three-pillar-postgraduate-ai-framework.md) - Il Three-Pillar Postgraduate AI Framework è un modello teorico-operativo di governance e pedagogia scientifica formalizzato da Vicent Mabirizi, Calorine Katu…
 - [Trainer Simulator](trainer-simulator.md) - Simulatore conversazionale basato su LLM (Interview Trainer) per l'addestramento pratico di psicoterapeuti in formazione, dotato di una libreria di…
 
-### Paper e documenti [[#Indice Knowledge Base|↑]]
+### Paper e documenti
 
 | Anno | Autori | Titolo | Focus |
 |---|---|---|---|
@@ -351,9 +351,9 @@ Ogni sezione elenca prima i concetti e le sintesi tematiche (in ordine alfabetic
 
 [[#Indice Knowledge Base|↑ Torna al sommario]]
 
-## Architetture Cliniche, Prompt Engineering e Modelli Operativi [[#Indice Knowledge Base|↑]]
+## Architetture Cliniche, Prompt Engineering e Modelli Operativi
 
-### Concetti e sintesi tematiche [[#Indice Knowledge Base|↑]]
+### Concetti e sintesi tematiche
 
 - [AI in Clinical Decision Support and Diagnostic Triage](concetti/ai-clinical-decision-support.md) - L'impiego di agenti conversazionali e modelli linguistici di intelligenza artificiale per supportare il ragionamento clinico, eseguire il triage sintomatolog…
 - [Architetture Software Generative e Interfacce Fluide](concetti/architetture-generative-dinamiche.md) - Modello architetturale per software clinici e ambienti digitali in cui interfacce utente, dashboard, flussi di lavoro e moduli di monitoraggio non s…
@@ -391,7 +391,7 @@ Ogni sezione elenca prima i concetti e le sintesi tematiche (in ordine alfabetic
 - [Tiered Human–AI Healing Ecosystem (THHE)](tiered-human-ai-healing-ecosystem.md) - Il Tiered Human–AI Healing Ecosystem (THHE) è un modello sistemico di governance, interazione e delivery clinica formalizzato da Ma, Chen e Yang (2026) per s…
 - [Trade-Off tra Conversazione e Ragionamento nei Modelli Linguistici Clinici](concetti/trade-off-conversazione-ragionamento-llm.md) - Fenomeno empirico evidenziato nei sistemi multi-agente per la salute mentale, caratterizzato dalla divergenza tra le prestazioni dei Large Language…
 
-### Paper e documenti [[#Indice Knowledge Base|↑]]
+### Paper e documenti
 
 | Anno | Autori | Titolo | Focus |
 |---|---|---|---|
@@ -406,11 +406,11 @@ Ogni sezione elenca prima i concetti e le sintesi tematiche (in ordine alfabetic
 
 [[#Indice Knowledge Base|↑ Torna al sommario]]
 
-## Psicoterapia Aumentata, Interventi Digitali e Biomarcatori [[#Indice Knowledge Base|↑]]
+## Psicoterapia Aumentata, Interventi Digitali e Biomarcatori
 
-### Disturbi specifici: OCD, ipercontrollo e perfezionismo [[#Indice Knowledge Base|↑]]
+### Disturbi specifici: OCD, ipercontrollo e perfezionismo
 
-#### Concetti e sintesi tematiche [[#Indice Knowledge Base|↑]]
+#### Concetti e sintesi tematiche
 
 - [Analisi Computazionale della RO-DBT e Fenotipi di Overcontrol](applicazioni-computazionali-ro-dbt-overcontrol.md) - Sintesi sistematica delle applicazioni di intelligenza artificiale, NLP e passive sensing nel framework della RO-DBT e nei disturbi caratterizzati da ipercontrollo (Cluster C).
 - [Biosensori Indossabili per il Monitoraggio dell'OCD](concetti/wearable-biosensors-ocd.md) - Utilizzo di dispositivi wearable (es. smartwatch, fasce toraciche) equipaggiati con sensori fisiologici per la rilevazione continua di parametri del sistema nervoso autonomo associati allo stress ossessivo-compulsivo.
@@ -429,7 +429,7 @@ Ogni sezione elenca prima i concetti e le sintesi tematiche (in ordine alfabetic
 - [Rassegna degli Studi: IA per la Comprensione e il Trattamento dell'Ipercontrollo](sintesi/ia-e-ipercontrollo-rassegna.md) - Rassegna trasversale su sei direttrici computazionali (cluster analysis di personalità, neuroimaging OCPD, predizione esiti CBT, digital phenotyping, NLP clinico e app digitali) per l'inquadramento e il trattamento…
 - [Stato dell'Arte su AI, RO-DBT e Overcontrol (Consensus Review)](consensus-review-ai-ro-dbt.md) - Revisione della letteratura generata tramite AI che esplora i gap e le opportunità d'impiego di NLP, predizione di outcome, sensing passivo e AI per la RO-DBT.
 
-#### Paper e documenti [[#Indice Knowledge Base|↑]]
+#### Paper e documenti
 
 | Anno | Autori | Titolo | Focus |
 |---|---|---|---|
@@ -451,9 +451,9 @@ Ogni sezione elenca prima i concetti e le sintesi tematiche (in ordine alfabetic
 | 2019 | Chandran et al. | [NLP per la Rilevazione di Sintomi Ossessivo-Compulsivi nelle Cartelle Cliniche](chandran-et-al-2019.md) | Sviluppo e validazione di un algoritmo di Natural Language Processing (NLP) basato su regole (utilizzando il software GATE) per estrarre e… |
 | 2018 | Reggente et al. | [Multivariate resting-state functional connectivity predicts response to cognitive behavioral therapy in obsessive-compulsive disorder](reggente-et-al-2018.md) | Studio fMRI su ML multivariato che dimostra come la connettività di DMN e network visivo predica il successo della CBT. |
 
-### Biomarcatori, sensing e predizione degli esiti [[#Indice Knowledge Base|↑]]
+### Biomarcatori, sensing e predizione degli esiti
 
-#### Concetti e sintesi tematiche [[#Indice Knowledge Base|↑]]
+#### Concetti e sintesi tematiche
 
 - [AI and Multi-Omics for Psychiatric Biomarkers and Risk Prediction (Intelligenza Artificiale e Multi-Omica per Biomarcatori Psichiatrici e Predizione del Rischio)](concetti/ai-multi-omics-psychiatric-biomarkers.md) - L'impiego di modelli di Machine Learning (ML), Deep Learning (DL) e Natural Language Processing (NLP) per analizzare set di dati biologici e clinici ad altis…
 - [Differenziazione tra Dropout Precoce e Tardivo nella CBT Online (Early vs. Late Dropout)](early-vs-late-dropout-cbt.md) - La differenziazione tra Dropout Precoce e Tardivo (*Early vs. Late Dropout Distinction*) è un paradigma clinico e metodologico che dimostra come l'interruzio…
@@ -480,16 +480,16 @@ Ogni sezione elenca prima i concetti e le sintesi tematiche (in ordine alfabetic
 - [Vocal Biomarkers In Depression](vocal-biomarkers-in-depression.md) - Biomarcatori vocali della depressione: domini delle feature acustiche (prosodiche, spettrali, di sorgente) e loro prestazioni diagnostiche secondo la meta-analisi di Maran et al. (2025).
 - [Wearable Sensor Fusion and Gesture Recognition for Passive Adherence Monitoring](wearable-sensor-fusion-adherence.md) - L'utilizzo integrato di sensori inerziali indossabili (accelerometri e giroscopi triassiali inseriti in smartwatch commerciali o cerotti cutanei smart) combi…
 
-#### Paper e documenti [[#Indice Knowledge Base|↑]]
+#### Paper e documenti
 
 | Anno | Autori | Titolo | Focus |
 |---|---|---|---|
 | 2026 | Villanueva et al. | [A Multimodal Machine Learning Approach to Adolescent Loneliness](villanueva-et-al-2026.md) | Studio trasversale predittivo che applica ML multimodale per identificare i fattori di rischio della solitudine negli adolescenti tramite pattern… |
 | 2025 | Wang & Dwivedi | [Biomarcatori Multi-Omici e Trascrittoomica nella Psichiatria Traslazionale](41398-2025-article-3497.md) · [sintesi](sintesi/wang-dwivedi-2025.md) | Narrative review sistematica e approfondita pubblicata su *Translational Psychiatry* da Qingzhong Wang e Yogesh Dwivedi (Department of Psychiatry and… |
 
-### Chatbot, app e interventi digitali [[#Indice Knowledge Base|↑]]
+### Chatbot, app e interventi digitali
 
-#### Concetti e sintesi tematiche [[#Indice Knowledge Base|↑]]
+#### Concetti e sintesi tematiche
 
 - [Active AI Therapeutic Agent](active-ai-therapeutic-agent.md) - Criterio metodologico e clinico che identifica i sistemi in cui l'algoritmo di intelligenza artificiale, machine learning o elaborazione del linguaggio natur…
 - [Addiction Cessation Chatbots](addiction-cessation-chatbots.md) - Agenti conversazionali basati su IA progettati per supportare la cessazione del fumo, la riduzione dell'abuso di sostanze (alcol, cannabis) e la gestione del…
@@ -525,7 +525,7 @@ Ogni sezione elenca prima i concetti e le sintesi tematiche (in ordine alfabetic
 - [Stepped-Care AI Integration](concetti/stepped-care-ai-integration.md) - Modello organizzativo e clinico che inserisce gli strumenti basati su intelligenza artificiale nei sistemi di cura a gradini (*stepped-care*), alloc…
 - [Strumenti di IA Assistiva per la Comunicazione nello Spettro Autistico](concetti/ai-assistive-autism-communication.md) - L'applicazione dei Large Language Models (LLM) come tecnologie assistive per persone nello spettro autistico (ASC) mira a fornire supporto nell'interpretazio…
 
-#### Paper e documenti [[#Indice Knowledge Base|↑]]
+#### Paper e documenti
 
 | Anno | Autori | Titolo | Focus |
 |---|---|---|---|
@@ -537,9 +537,9 @@ Ogni sezione elenca prima i concetti e le sintesi tematiche (in ordine alfabetic
 | 2025 | Lee et al. | [Development of a Mobile Intervention for Procrastination Augmented With a Semigenerative Chatbot](lee-et-al-2025.md) | Studio RCT pilota che valuta l'efficacia di un'app to-do integrata con un chatbot semi-generativo (Moa) basato su CBT per la riduzione della… |
 | 2025 | Sahab et al. | [Chatbot Basati su GPT per Ansia e Depressione: RCT Pilota](2508-00847v1.md) · [sintesi](sintesi/sahab-et-al-2025.md) | Studio controllato randomizzato (RCT) pilota ($N=60$) condotto da Sahab et al. (2025) volto a valutare l'efficacia clinica e le dinamiche… |
 
-### Processi terapeutici, CBT e pratica clinica aumentata [[#Indice Knowledge Base|↑]]
+### Processi terapeutici, CBT e pratica clinica aumentata
 
-#### Concetti e sintesi tematiche [[#Indice Knowledge Base|↑]]
+#### Concetti e sintesi tematiche
 
 - [AI-Assisted Psychotherapy](ai-assisted-psychotherapy.md) - Modello di integrazione di sistemi basati su intelligenza artificiale, large-language-models (LLM), elaborazione del linguaggio naturale (NLP) e age…
 - [AI-Enhanced Cognitive Behavioral Therapy](concetti/ai-enhanced-cbt.md) - Integrazione sistematica e modulare di algoritmi e tecnologie di Intelligenza Artificiale (Machine Learning, Deep Learning, Natural Language Processing, Larg…
@@ -612,7 +612,7 @@ Ogni sezione elenca prima i concetti e le sintesi tematiche (in ordine alfabetic
 - [Three-Layer Morphological Framework in Mental Health AI](three-layer-morphological-framework-mental-health-ai.md) - Il Three-Layer Morphological Framework in Mental Health AI (Framework Morfologico a Tre Livelli per l'IA in Salute Mentale) è una tassonomia concettuale e un…
 - [Usi Clinici degli LLM da parte degli Psicologi](usi-clinici-degli-llm-psicologi.md) - Sintesi da quesito su supporto al lavoro clinico, documentazione d'équipe bottom-up e screening diagnostico multi-agente, con limiti documentati.
 
-### Paper e documenti [[#Indice Knowledge Base|↑]]
+### Paper e documenti
 
 | Anno | Autori | Titolo | Focus |
 |---|---|---|---|
@@ -629,9 +629,9 @@ Ogni sezione elenca prima i concetti e le sintesi tematiche (in ordine alfabetic
 
 [[#Indice Knowledge Base|↑ Torna al sommario]]
 
-## Etica, Governance e Regolazione [[#Indice Knowledge Base|↑]]
+## Etica, Governance e Regolazione
 
-### Concetti e sintesi tematiche [[#Indice Knowledge Base|↑]]
+### Concetti e sintesi tematiche
 
 - [ACCEPT-AI and Ethical Frameworks in Pediatric AI](concetti/accept-ai-and-pediatric-ethical-frameworks.md) - L'applicazione dell'Intelligenza Artificiale (IA) in ambito pediatrico richiede un'integrazione rigorosa tra i pilastri bioetici classici e i moderni framewo…
 - [AI Research Ethics](ai-research-ethics.md) - Insieme di principi deontologici e metodologici (privacy, consenso informato, non-maleficenza, trasparenza) che regolano l'uso dell'IA nella ricerca psicolog…
@@ -671,7 +671,7 @@ Ogni sezione elenca prima i concetti e le sintesi tematiche (in ordine alfabetic
 - [Tavola Rotonda: Integrazione dell'IA in Psicoterapia (20 Aprile 2026)](04-20-tavola-rotonda-integrazione-ia.md) - Sintesi organica della tavola rotonda promossa dalla Consulta delle Scuole di Psicoterapia Cognitivo-Comportamentale e dall'Università Pontificia Salesiana.
 - [Three-Layer Governance Framework](concetti/three-layer-governance-framework.md) - Modello di governance integrata articolato su tre livelli (Salvaguardie Tecniche, Governance Clinica, Supervisione Istituzionale e Regolatoria) per l'uso eti…
 
-### Paper e documenti [[#Indice Knowledge Base|↑]]
+### Paper e documenti
 
 | Anno | Autori | Titolo | Focus |
 |---|---|---|---|

@@ -2,6 +2,11 @@
 
 Registro cronologico di acquisizioni, query e manutenzione.
 
+## [2026-10-17] lint | ripristino integrità ancore e collegamenti sommario index.md
+- Rimosso il pattern `[[#Indice Knowledge Base|↑]]` inserito all'interno delle righe di intestazione Markdown (`##` e `###`). L'inserimento di un wikilink nel testo del titolo alterava gli slug HTML (aggiungendo trattini di coda) e impediva la risoluzione delle ancore di sezione in Obsidian e Quartz.
+- Verificata la corrispondenza 100% tra tutti i link del sommario (`> [!abstract]`) e i relativi target di sezione sia nell'indice locale (`wiki/index.md`) che nell'indice pubblico (`quartz/content/index.md`).
+- Mantenuto il collegamento pulito `↑ Torna al sommario` al termine di ciascuna sezione.
+
 ## [2026-10-17] lint | preservazione Sezione 7 locale e separazione da indice online
 - Ripristinata la Sezione 7 ("Attività del Gruppo: Riunioni ed Eventi") in `wiki/index.md` (10 note di riunione e 7 eventi esterni) ad uso esclusivo locale su Obsidian.
 - Confermato che `quartz/content/index.md` rimane strutturato sulle 6 sezioni tematiche senza la Sezione 7 e senza note di riunione.
