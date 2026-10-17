@@ -246,15 +246,15 @@ Registro cronologico di acquisizioni, query e manutenzione.
 
 ## [2026-08-31] ingest | 2601-06032v1
 - Ingestione del paper 'Applied Theory of Mind and Large Language Models'. Creato riassunto strutturato evidenziando efficacia di GPT-4 nella ToM e i limiti derivanti dall'eccessivo uso di Uncertainty Markers.
-# #   [ 2 0 2 6 - 0 8 - 3 1 ]   i n g e s t   |   T R I P O D + A I 2 0 2 4 . p d f 
- 
- # #   [ 2 0 2 6 - 0 8 - 3 1 ]   i n g e s t   |   2 5 0 9 . 1 3 3 2 4 v 3 . p d f 
- 
- # #   [ 2 0 2 6 - 0 8 - 3 1 ]   i n g e s t   |   2 6 0 2 . 1 9 9 4 8 v 2 . p d f 
- 
- # #   [ 2 0 2 6 - 0 8 - 3 1 ]   i n g e s t   |   E L E V A T E - G e n A I 2 0 2 5 . p d f 
- 
- 
+
+## [2026-08-31] ingest | TRIPOD+AI2024.pdf
+
+## [2026-08-31] ingest | 2509.13324v3.pdf
+
+## [2026-08-31] ingest | 2602.19948v2.pdf
+
+## [2026-08-31] ingest | ELEVATE-GenAI2025.pdf
+
 ## [2026-09-01] ingest | 2505.15108v2.pdf
 - Ingestione del paper sull'ontologia del rischio per psicoterapeuti AI. Creato file md corrispondente e aggiornato index.
 
@@ -276,38 +276,11 @@ Integrazione del paper sull'uso degli LLMs per la sintesi dei dialoghi nel collo
 - Creata la pagina `2512-04124v4.md` con l'estrazione di Efficacia, Limiti/Rischi e Riferimenti.
 - Aggiornato `index.md` nella sezione Lotti 17-21.
 
- 
- # #   [ 2 0 2 6 - 0 9 - 0 1 ]   i n g e s t   |   2 5 1 2 . 0 5 8 3 6 v 1 . p d f 
- 
- -   I n g e s t i t o   i l   p a p e r   \ 
- 
- U s i n g 
- 
- L a r g e 
- 
- L a n g u a g e 
- 
- M o d e l s 
- 
- t o 
- 
- C r e a t e 
- 
- P e r s o n a l i z e d 
- 
- N e t w o r k s 
- 
- F r o m 
- 
- T h e r a p y 
- 
- S e s s i o n s \ . 
- 
- -   C r e a t a   l a   p a g i n a   \ 2 5 1 2 - 0 5 8 3 6 v 1 . m d \   c o n   l a   d e f i n i z i o n e   o p e r a t i v a ,   e v i d e n z e   ( e f f i c a c i a   9 0 %   n e l   r i l e v a r e   p r o c e s s i   p s i c o l o g i c i ) ,   l i m i t i   ( a s s e n z a   d i   n o n - v e r b a l e ,   a l l u c i n a z i o n i )   e   r i f e r i m e n t i . 
- 
- -   A g g i o r n a t o   \ i n d e x . m d \   i n s e r e n d o   i l   p a p e r   n e l l a   s e z i o n e   L o t t i   1 7 - 2 1 . 
- 
- 
+## [2026-09-01] ingest | 2512.05836v1.pdf
+- Ingestito il paper "Using Large Language Models to Create Personalized Networks From Therapy Sessions".
+- Creata la pagina `2512-05836v1.md` con la definizione operativa, evidenze (efficacia 90% nel rilevare processi psicologici), limiti (assenza di non-verbale, allucinazioni) e riferimenti.
+- Aggiornato `index.md` inserendo il paper nella sezione Lotti 17-21.
+
 ## [2026-09-01] ingest | 2602.19948v2.pdf
 - Ingestito il paper "Assessing Risks of Large Language Models in Mental Health Support".
 - Creata la pagina 2602-19948v2.md con Efficacia, Limiti/Rischi (AI Psychosis, Sycophancy) e Riferimenti.
@@ -791,3 +764,13 @@ Integrazione del paper sull'uso degli LLMs per la sintesi dei dialoghi nel collo
 - `source_papers` corretti in 15 pagine (nomi di file reali in `raw/` al posto di autori, titoli o liste vuote). Restano senza file in `raw/`: `08-28-riunione-corso-ia-clinici`, `modello-rocco` (manuali), `risultati-apprendimento-attesi-raa`, `linee-guida-prisma`, `concetti/cbt`, `concetti/llm-as-a-judge`, `concetti/CONSORT-AI`, `concetti/STARD-AI`.
 - Collegate le 13 pagine raggiungibili solo dall'indice con un wikilink da una pagina affine (es. sintesi → scheda del paper).
 - Verifica (esclusa la cartella `CORSO AI/`, comparsa in `wiki/` durante il lavoro): 567 pagine, 0 wikilink rotti, tutte con frontmatter, titolo, tag e indicizzate. Due file di `CORSO AI/` modificati per errore dallo script (`agent.md`, `agent backup- Copia.md`) sono stati ripristinati dal backup. Backup pre-modifica fuori dal vault.
+
+## [2026-10-17] lint | log-utf16-e-fonti-mancanti
+- Log: riconvertiti in UTF-8 due blocchi scritti in UTF-16, con le voci del 31/08 e dell'01/09: quattro intestazioni di ingestione senza testo e la voce su 2512.05836v1, il cui titolo era spezzato una parola per riga. Il testo è invariato; le barre rovesciate sono rese come apici inversi e virgolette.
+- Riscritte sulle fonti in `raw/` cinque pagine prive di file sorgente:
+  - `linee-guida-prisma`: corretto il DOI di McGowan et al. (2020); il diagramma di flusso non segue più la struttura a quattro fasi della versione 2009; aggiunti il dato di Kandeel et al. (2026) sull'aderenza a PRISMA 2020 (20%) e sulla registrazione del protocollo (14%), PRISMA-DTA (McInnes et al., 2018) e PRISMA-AI;
+  - `concetti/llm-as-a-judge`: l'accordo «superiore all'80%» con i valutatori umani, riferito a compiti generali, è sostituito dalle correlazioni misurate in ambito terapeutico da Vu et al. (2025), r tra 0 e 0,41; corretto l'autore «Ying, Y.» in «Sheng, Y.» (Zheng et al., 2023);
+  - `concetti/cbt`: tolta l'affermazione non supportata sulla CBT come approccio più traducibile in alberi decisionali (attribuita a Gaffney et al., 2019); aggiunti i dati di Olisaeloka et al. (2025a, 2025b) e Hang et al. (2026); il limite è collegato a [[overfitting-protocollare]];
+  - `concetti/CONSORT-AI` e `concetti/STARD-AI`: aggiunti l'ambito secondo TRIPOD+AI, i limiti per l'IA generativa (REFINE, GAMER) e la cronologia di STARD-AI fino alla pubblicazione del 2025; il numero di item di STARD-AI, prima attribuito a QUADAS-AI (un altro strumento), è segnato `[da verificare]`.
+- Corretti i nomi dei file in `source_papers` di `08-28-riunione-corso-ia-clinici`, `modello-rocco` (manuale «1.0») e `risultati-apprendimento-attesi-raa`, cui è stata aggiunta la trascrizione del 28/08. Questi quattro file non sono ancora in `raw/`. Segnata `[da verificare]` l'attribuzione a METID del PDF sui RAA.
+- Indice: aggiornata la descrizione di `concetti/llm-as-a-judge`.

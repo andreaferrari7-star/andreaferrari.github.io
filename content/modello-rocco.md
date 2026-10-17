@@ -1,7 +1,7 @@
 ---
 tags: [prompt-engineering, cbt, clinical-reasoning, coast-framework, llm4cbt]
 tipo_fonte: [scientifica, interna]
-source_papers: ["Manuale_Tecnico_GenAI_Psicoterapia_CBT 1.md", "manuale_genai_cbt_libet.md", "10-02 Riunione_ Corso AI per terapeuti e valutazione software-Summary.md"]
+source_papers: ["Manuale_Tecnico_GenAI_Psicoterapia_CBT 1.0.md", "manuale_genai_cbt_libet.md", "10-02 Riunione_ Corso AI per terapeuti e valutazione software-Summary.md"]
 ---
 
 # Modello R.O.C.C.O.

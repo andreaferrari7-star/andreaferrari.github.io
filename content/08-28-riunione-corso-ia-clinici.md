@@ -2,7 +2,7 @@
 tags: [riunione, corso-ia-psicoterapia, libet-prime, progettazione-didattica, chatbot-tutor]
 tipo_fonte: interna
 data: 2026-08-28
-source_papers: ["08-28 Riunione settimanale_ Progettazione corso IA per clinici..."]
+source_papers: ["08-28 Riunione settimanale_ Progettazione corso IA per clinici, moduli LLM_RAG, esercitazioni e piattaforma Libetime-transcript.txt"]
 ---
 
 # 08-28 Riunione Settimanale: Progettazione Corso IA per Clinici
