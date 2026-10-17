@@ -2,6 +2,11 @@
 
 Registro cronologico di acquisizioni, query e manutenzione.
 
+## [2026-10-17] lint | preservazione Sezione 7 locale e separazione da indice online
+- Ripristinata la Sezione 7 ("Attività del Gruppo: Riunioni ed Eventi") in `wiki/index.md` (10 note di riunione e 7 eventi esterni) ad uso esclusivo locale su Obsidian.
+- Confermato che `quartz/content/index.md` rimane strutturato sulle 6 sezioni tematiche senza la Sezione 7 e senza note di riunione.
+- Aggiornato `agent.md` per formalizzare la distinzione tra indice locale (7 sezioni) e indice per la pubblicazione online su Quartz (6 sezioni).
+
 ## [2026-10-17] lint | rimozione riunioni interne e consolidamento su 6 sezioni
 - Rimosse le note delle riunioni interne del gruppo dalla pubblicazione pubblica di Quartz (mantenute localmente in `wiki/`).
 - Aggiornato `quartz.config.yaml` con `ignorePatterns` per escludere note di riunione interne (`*riunione*`, `03-13-avvio*`, `05-11-discussione*`).
@@ -860,3 +865,21 @@ Integrazione del paper sull'uso degli LLMs per la sintesi dei dialoghi nel collo
   - `ai-mental-healthcare-bhavnani-mckim-2025` indica il 2025, il volume riporta «First edition published 2026»;
   - `mind-and-machine-beg-verma-2023` riporta l'ISBN 978-8374274424, che ha una cifra di controllo non valida, mentre il nome del file indica 978-8374274425; il coautore Verma non è verificabile dal file;
   - `apa-artificial-intelligence-ebooklet` indica il 2024, ma l'e-booklet contiene articoli del 2025 e non riporta l'anno di pubblicazione.
+
+## [2026-10-17] ingest | lonfeldt-clemmensen-pagsberg-2023
+- Fonte `Predicting cognitive-behavioral therapy outcomes in obsessivecompulsive disorder from inhibitory control neural activity.pdf`, classe `scientifica`. Il file contiene il protocollo Wrist Angel (Lønfeldt, Clemmensen, & Pagsberg, 2023, *JMIR Research Protocols*, 12, e45123), non il preprint ENIGMA-OCD che il nome suggerisce; letto per intero (17 pagine).
+- Creata `lonfeldt-clemmensen-pagsberg-2023`: disegno caso-controllo, biosensore E4 indossato per 8 settimane da ragazzi e genitori, esperimenti multimodali (video, parlato, ossitocina), criteri di fattibilità, misure di qualità dell'ERP (abituazione e violazione delle aspettative), stato del reclutamento, limiti. Indicizzata nel dominio 5, sottotema DOC (conteggi da 179 a 180 e da 33 a 34).
+- Aggiornate:
+  - `concetti/wearable-biosensors-ocd`: disegno multimodale, misure di qualità dell'ERP e rischio che segnare gli episodi interagisca con il DOC. Le citazioni sono disambiguate secondo APA: «Lønfeldt, Clemmensen, & Pagsberg, 2023» per il protocollo e «Lønfeldt, Olesen, et al., 2023» per lo studio di fattibilità;
+  - `lonfeldt-et-al-2023`: link al protocollo.
+
+## [2026-10-17] lint | correzioni-bibliografiche-e-indice
+- Corrette le tre divergenze emerse dalla catalogazione, verificate sui volumi:
+  - `ai-mental-healthcare-bhavnani-mckim-2025`: anno 2026 («First edition published 2026 by CRC Press») e DOI 10.1201/9781003565215; stessa correzione in `concetti/digital-therapeutics-ai`. Il nome del file della pagina resta invariato per non rompere i link;
+  - `mind-and-machine-beg-verma-2023`: le pagine del volume, rese come immagini, confermano Beg e Verma come autori (copyright 2023) e riportano l'ISBN 979-8-3742-7442-4. Era errato sia l'ISBN della wiki (978-8374274424) sia quello nel nome del file (978-8374274425). Tolto l'editore «Amazon International», non indicato nel volume. Stessa correzione in `concetti/reti-neurali-in-psicologia` e nella riga di `catalogo_raw.md`. Rettifica della voce precedente del log: il coautore Verma è verificabile dalle pagine del volume;
+  - `apa-artificial-intelligence-ebooklet`: anno «s.d.», perché l'e-booklet non lo indica e contiene articoli fino a gennaio-febbraio 2025.
+- `index.md`, tenendo conto del nuovo schema a sei sezioni di `agent.md` (modificato alle 14:47; i verbali interni non sono più indicizzati):
+  - sottotema DOC: «Bernstein et al.» corretto in Kim et al. (2025); «Bruin et al., 2023» corretto in van de Mortel et al. (2025) e spostato fra le righe del 2025;
+  - sezione 1: unite le due righe di Wulff & Mata (la riga 2026 puntava alla pagina eliminata `wulff-mata-2026`, quella «Elson et al., 2023» aveva autore e anno errati); l'e-booklet APA spostato in fondo alla tabella come «s.d.»; conteggio da 107 a 106;
+  - Bhavnani & McKim spostati fra le righe del 2026 nel sottotema Chatbot.
+- Restano nell'indice 11 link verso pagine eliminate durante l'unione dei doppioni del 16/10. La corrispondenza con le pagine sostitutive è nel log `[2026-10-16] lint | unione-doppioni`.
