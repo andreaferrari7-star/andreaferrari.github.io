@@ -1,7 +1,7 @@
 ---
 tags: [diagnostic-accuracy, clinical-decision-support, large-language-models, physician-vs-ai, meta-analysis, primary-diagnosis, differential-diagnosis, emergency-triage, medical-reasoning, tacit-knowledge]
 tipo_fonte: scientifica
-source_papers: ["medinform-v13-e64963.pdf"]
+source_papers: ["medinform-v13-e64963.pdf", "BackgroundMaterials_AI-Health_C4M1_JK_Dec29_2024_V1.0 (1).pdf"]
 ---
 
 # Diagnostic Accuracy Gap: Large Language Models vs Clinical Professionals
@@ -30,6 +30,9 @@ Il **Diagnostic Accuracy Gap** (Divario di Accuratezza Diagnostica) definisce la
 - **Medicina Interna/Rare/Autoimmuni:** Marcato vantaggio umano (complessità polisindromica).
 - **Seniority dell'Umano:** Gli LLM superano specializzandi in domini complessi, ma sono surclassati da specialisti senior.
 
+### Una divergenza nei materiali didattici
+- Il corso *AI for Healthcare Systems* afferma che gli LLM hanno dimostrato capacità diagnostiche «eccezionali», «spesso superiori ai medici in studi controllati» (Khuntia, 2024m). Il quadro meta-analitico di Shan et al. (2025) contraddice questa affermazione per la diagnosi principale; regge solo per il triage e per il confronto con gli specializzandi in alcuni domini. Generalizzare quei risultati favorevoli porta a sovrastimare l'affidabilità diagnostica degli LLM.
+
 ## Riferimenti Bibliografici
 - Shan, G., Chen, X., Wang, C., Liu, L., Gu, Y., Jiang, H., & Shi, T. (2025). Comparing diagnostic accuracy of clinical professionals and large language models: Systematic review and meta-analysis. *JMIR Medical Informatics*, *13*, e64963. https://doi.org/10.2196/64963
 - Ito, N., Kadomatsu, S., Fujisawa, M., et al. (2023). The accuracy and potential racial and ethnic biases of GPT-4 in the diagnosis and triage of health conditions: Evaluation study. *JMIR Medical Education*, *9*, e47532. https://doi.org/10.2196/47532
@@ -38,6 +41,7 @@ Il **Diagnostic Accuracy Gap** (Divario di Accuratezza Diagnostica) definisce la
 - Hirosawa, T., Kawamura, R., Harada, Y., et al. (2023a). ChatGPT-generated differential diagnosis lists for complex case-derived clinical vignettes: Diagnostic accuracy evaluation. *JMIR Medical Informatics*, *11*, e48808. https://doi.org/10.2196/48808
 - Hirosawa, T., Mizuta, K., Harada, Y., & Shimizu, T. (2023b). Comparative evaluation of diagnostic accuracy between Google Bard and physicians. *The American Journal of Medicine*, *136*(11), 1119–1123. https://doi.org/10.1016/j.amjmed.2023.08.003
 - Kaya, K., Gietzen, C., Hahnfeldt, R., et al. (2024). Generative pre-trained transformer 4 analysis of cardiovascular magnetic resonance reports in suspected myocarditis: A multicenter study. *Journal of Cardiovascular Magnetic Resonance*, *26*(2), 101068. https://doi.org/10.1016/j.jocmr.2024.101068
+- Khuntia, J. (2024m). *Background materials for Course 4: AI integration in healthcare. Module 1: Models to agents in health AI* [Materiale didattico, versione 1.0]. AI for Healthcare Systems Specialization, University of Colorado System; Coursera. https://www.coursera.org/learn/ai-agents-in-healthcare-and-capstone
 - Nakaura, T., Yoshida, N., Kobayashi, N., et al. (2024). Preliminary assessment of automated radiology report generation with generative pre-trained transformers: Comparing results to radiologist-generated reports. *Japanese Journal of Radiology*, *42*(2), 190–200. https://doi.org/10.1007/s11604-023-01487-y
 
 ## Relazioni
@@ -48,3 +52,4 @@ Il **Diagnostic Accuracy Gap** (Divario di Accuratezza Diagnostica) definisce la
 - [[human-in-the-reasoning]]: Preservazione del giudizio critico.
 - [[cognitive-offloading-e-diagnostic-deskilling]]: Rischi di atrofia delle competenze.
 - [[traffic-light-quality-appraisal-clinical-ai]]: Metodologia di valutazione.
+- [[ai-health-c4m1-khuntia-2024]]: Materiale didattico che sovrastima le capacità diagnostiche degli LLM.

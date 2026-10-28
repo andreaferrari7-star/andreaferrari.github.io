@@ -74,5 +74,5 @@ flowchart TD
 ---
 
 ## Relazioni
-- Vedi anche: [[fpsyt-16-1628216]], [[genai-in-autism-spectrum-disorders]], [[accept-ai-and-pediatric-ethical-frameworks]], [[ai-research-ethics]], [[algorithmic-bias-and-digital-inequalities]], [[cross-cultural-bias-and-fairness-audits-ai]], [[consenso-dinamico-e-governance-dati-ia]], [[automated-clinical-ai-red-teaming]]
+- Vedi anche: [[fpsyt-16-1628216]], [[genai-in-autism-spectrum-disorders]], [[accept-ai-and-pediatric-ethical-frameworks]], [[ai-research-ethics]], [[algorithmic-bias-and-digital-inequalities]], [[cross-cultural-bias-and-fairness-audits-ai]], [[consenso-dinamico-e-governance-dati-ia]], [[automated-clinical-ai-red-teaming]], [[value-sensitive-design-ia-sanitaria]]
 

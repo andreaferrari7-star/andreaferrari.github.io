@@ -1,13 +1,13 @@
 ---
 tags: [algorithmic-bias, machine-learning, generative-ai, conversational-agents]
 tipo_fonte: scientifica
-source_papers: ["10.1177_00469580261438322.pdf"]
+source_papers: ["10.1177_00469580261438322.pdf", "BackgroundMaterials_AI-Health_C1M2_JK_Oct30_2024_V12.3 (1).pdf"]
 ---
 
 # Algorithmic Bias and Digital Inequalities in Mental Health
 
 **Summary**: Disamina dei rischi di amplificazione delle disuguaglianze socio-economiche, culturali e cliniche derivanti da bias nei dataset di addestramento (sovrarappresentazione WEIRD), barriere di connettività e divario di alfabetizzazione digitale nei servizi di salute mentale basati su IA.
-**Fonti**: Erdemir & Sumbas (2026)
+**Fonti**: Erdemir & Sumbas (2026); Khuntia (2024b)
 **Last updated**: 2026-08-27
 ---
 
@@ -53,6 +53,7 @@ flowchart TD
 ### 2. Barriere Economiche e Divario di Connettività
 - L'accesso agli strumenti più avanzati e sicuri di IA generativa è frequentemente subordinato a canoni di abbonamento (*paywall*) e a requisiti hardware elevati.
 - Le fasce di popolazione a basso reddito e le comunità rurali o isolate, che presentano i tassi più elevati di bisogni inevasi di salute mentale, rischiano di rimanere escluse o di avere accesso solo a modelli a basso costo non validati e privi di salvaguardie di sicurezza.
+- Nei materiali didattici sui sistemi sanitari generali il rischio è riconosciuto con un'enfasi diversa. Khuntia (2024b) presenta telemedicina, app di salute mobile e triage basato sull'IA soprattutto come strumenti di equità. Cita il divario digitale solo come rischio futuro, che si concretizza se l'accesso agli strumenti non diventa universale.
 
 ### 3. Divario di Alfabetizzazione Digitale (*Digital Health Literacy*)
 - L'utilizzo efficace e critico degli strumenti digitali richiede competenze tecnologiche e metacognitive per interpretare i suggerimenti dell'IA, riconoscere le allucinazioni e tutelare la propria privacy.
@@ -74,6 +75,8 @@ flowchart TD
 - [[technical-vulnerabilities-llm-counseling]]
 - [[ai-research-ethics]]
 - [[ai-literacy-in-academia]]
+- [[ai-health-c1m2-khuntia-2024]]
 
 ## Riferimenti Bibliografici
 - Erdemir, N., & Sumbas, E. (2026). Integrating Artificial Intelligence into Psychological Counseling: A Narrative Review and Governance Framework. *INQUIRY: The Journal of Health Care Organization, Provision, and Financing*, 63, 1–16. https://doi.org/10.1177/00469580261438322
+- Khuntia, J. (2024b). *Background materials for Course 1: Artificial intelligence (AI) for health systems: Foundation and potential. Module 2: Where health systems stand* [Materiale didattico, versione 12.3]. AI for Healthcare Systems Specialization, University of Colorado System; Coursera. https://www.coursera.org/learn/foundation-and-potential-of-ai-in-healthcare

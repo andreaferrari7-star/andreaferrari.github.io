@@ -1,14 +1,14 @@
 ---
 tags: [machine-learning, cross-validation, mccv, balanced-accuracy, corrected-resampled-t-test, smote, statistics, clinical-ml, methodology]
 tipo_fonte: scientifica
-source_papers: ["2601.06159v1.pdf"]
+source_papers: ["2601.06159v1.pdf", "BackgroundMaterials_AI-Health_C2M3_JK_Dec18_2024_V1.0 (1).pdf"]
 title: "Validazione MCCV, Bilanciamento Dati e Test Statistici Corretti nel Machine Learning Clinico"
 ---
 
 # Validazione MCCV, Bilanciamento Dati e Test Statistici Corretti nel Machine Learning Clinico
 
 **Summary**: Framework metodologico per la valutazione rigorosa e la significatività statistica di algoritmi di Machine Learning applicati a coorti cliniche di dimensioni ridotte o sbilanciate, basato su Monte Carlo Cross-Validation (MCCV), sovracampionamento sintetico (SMOTE-NC), Balanced Accuracy e Corrected Resampled $t$-test.
-**Fonti**: Jacobs et al. (2026), Nadeau & Bengio (2003), Bouckaert & Frank (2004), Lemaître et al. (2017)
+**Fonti**: Jacobs et al. (2026), Nadeau & Bengio (2003), Bouckaert & Frank (2004), Lemaître et al. (2017), Khuntia (2024g)
 **Last updated**: 2026-08-27
 ---
 
@@ -98,6 +98,9 @@ graph LR
 2. **Preregistrazione dei Protocolli**: Preregistrare le ipotesi, gli outcome primari e la pipeline su piattaforme pubbliche (es. Open Science Framework - OSF) prima dell'inizio delle analisi computazionali.
 3. **Controllo Rigoroso del Data Leakage**: Assicurare che tutte le fasi di imputazione dei dati mancanti, standardizzazione, selezione delle feature e oversampling avvengano rigorosamente all'interno del ciclo di cross-validation.
 
+### Un errore ricorrente nei materiali didattici
+- La guida alla regressione logistica del corso *AI for Healthcare Systems* (Khuntia, 2024g) colloca il bilanciamento delle classi (sovracampionamento, sottocampionamento, SMOTE) e la pulizia dei dati prima della divisione tra training e test set. Usa poi un'unica divisione 80/20 e indica l'accuratezza come prima metrica. Sono tre punti in contrasto con le regole sopra: il bilanciamento va fatto solo nel training set, la validazione va ripetuta e su classi sbilanciate serve la *balanced accuracy*. Chi usa quelle guide a scopo formativo deve correggerle su questi punti.
+
 ---
 
 ## Relazioni
@@ -105,9 +108,12 @@ graph LR
 - [[pretraining-simulated-data-clinical-ml]]: Modelli di pretraining per Random Forest e confronto statistico.
 - [[open-data-scarcity-clinical-psychology]]: Sfide di trasparenza metodologica e replicabilità nei dati clinici.
 - [[treatment-outcome-and-relapse-prediction]]: Metriche e modelli predittivi nella ricerca psicoterapeutica.
+- [[algoritmi-ml-sanita]]: Famiglie di algoritmi e correzioni di metodo alle guide didattiche.
+- [[ai-health-c2m3-khuntia-2024]]: Guide passo-passo alla regressione lineare e logistica con gli errori segnalati sopra.
 
 ## Riferimenti Bibliografici
 - Bouckaert, R. R., & Frank, E. (2004). Evaluating the Replicability of Significance Tests for Comparing Learning Algorithms. *Advances in Knowledge Discovery and Data Mining*, 3056, 3–12.
 - Jacobs, N., Voelkle, M. C., Kathmann, N., & Hilbert, K. (2026). Can we Improve Prediction of Psychotherapy Outcomes Through Pretraining With Simulated Data? *arXiv preprint arXiv:2601.06159v1 [stat.ML]*.
+- Khuntia, J. (2024g). *Background materials for Course 2: The data to decision path for infusion of AI in healthcare. Module 3: AI and ML relevant algorithms in healthcare models* [Materiale didattico, versione 1.0]. AI for Healthcare Systems Specialization, University of Colorado System; Coursera. https://www.coursera.org/learn/the-data-to-decision-path-for-infusion-of-ai-in-healthcare
 - Lemaître, G., Nogueira, F., & Aridas, C. K. (2017). Imbalanced-learn: A Python toolbox to tackle the curse of imbalanced datasets in machine learning. *Journal of Machine Learning Research*, *18*(17), 1–5. https://jmlr.org/papers/v18/16-365.html
 - Nadeau, C., & Bengio, Y. (2003). Inference for the generalization error. *Machine Learning*, *52*(3), 239–281. https://doi.org/10.1023/A:1024068626366

@@ -1,7 +1,7 @@
 ---
 tags: [model-evaluation, clinical-prediction, statistical-learning, machine-learning, calibration, discrimination, clinical-utility, decision-curve-analysis, net-benefit, model-updating, recalibration, validation-myth, data-leakage]
 tipo_fonte: scientifica
-source_papers: ["TRIPOD+AI2024.pdf"]
+source_papers: ["TRIPOD+AI2024.pdf", "BackgroundMaterials_AI-Health_C2M2_JK_Dec17_2024_V1.0 (4).pdf"]
 ---
 
 # Valutazione dei Modelli Predittivi Clinici: Metodi, Metriche ed Epistemologia della Valutazione Continua
@@ -55,8 +55,13 @@ Il passaggio concettuale da "validazione" a **valutazione continua** poggia su q
 *   **Calibrazione:** La gerarchia (da *in-the-large* a *forte*) definisce la qualità del rischio. L'uso di *Calibration Plots* con curve flessibili è lo standard aureo.
 *   **Utilità Clinica:** La DCA misura il beneficio netto rispetto al "Tratta Tutti" o "Nessuno".
 
+### Il ciclo di vita del modello nei materiali didattici
+*   Nei materiali del corso *AI for Healthcare Systems*, Khuntia (2024f) descrive cinque passaggi: preparazione dei dati, addestramento, validazione su dati mai visti, integrazione nel flusso clinico, monitoraggio con riaddestramento continuo. L'ultimo serve a contrastare il calo di accuratezza dovuto ai cambiamenti di popolazione e di protocolli, un'impostazione coerente con la valutazione continua di TRIPOD+AI.
+*   Le metriche indicate sono solo di classificazione (accuratezza, precisione, *recall*), con attenzione al rischio di *alert fatigue*. Calibrazione e utilità clinica non compaiono: in un percorso formativo vanno aggiunte per non ridurre la valutazione alla sola discriminazione.
+
 ## Riferimenti Bibliografici
 *   Collins, G. S., Moons, K. G. M., Dhiman, P., Riley, R. D., Beam, A. L., Van Calster, B., Ghassemi, M., Liu, X., Reitsma, J. B., van Smeden, M., Boulesteix, A.-L., Camaradou, J. C., Celi, L. A., Denaxas, S., Denniston, A. K., Glocker, B., Golub, R. M., Harvey, H., Heinze, G., . . . Logullo, P. (2024). TRIPOD+AI statement: Updated guidance for reporting clinical prediction models that use regression or machine learning methods. *BMJ*, *385*, Article e078378. https://doi.org/10.1136/bmj-2023-078378
+*   Khuntia, J. (2024f). *Background materials for Course 2: The data to decision path for infusion of AI in healthcare. Module 2: Emphasizing analytics in DIAD for healthcare* [Materiale didattico, versione 1.0]. AI for Healthcare Systems Specialization, University of Colorado System; Coursera. https://www.coursera.org/learn/the-data-to-decision-path-for-infusion-of-ai-in-healthcare
 *   Van Calster, B., et al. (2023). "There is no such thing as a validated prediction model". *BMC Medicine*.
 *   Vickers, A. J., & Elkin, E. B. (2006). "Decision curve analysis: a novel method for evaluating prediction models". *Medical Decision Making*.
 
@@ -68,3 +73,4 @@ Il passaggio concettuale da "validazione" a **valutazione continua** poggia su q
 *   [[cross-cultural-bias-and-fairness-audits-ai|Audit di Fairness e Bias nei Sistemi di IA Sanitaria]]
 *   [[dataset-integrity-and-contamination-in-medical-ai|Integrità del Dataset e Contaminazione nei Sistemi Sanitari]]
 *   [[software-as-a-medical-device-salute-mentale|Software as a Medical Device (SaMD)]]
+*   [[ai-health-c2m2-khuntia-2024|AI for Healthcare Systems, C2M2: l'analisi dei dati nel DIAD]]

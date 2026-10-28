@@ -1,7 +1,7 @@
 ---
 tags: [causal-machine-learning, causal-discovery, gfci-algorithm, structural-equation-modeling, bayesian-networks, psychosocial-outcomes, psychosis, theory-of-mind, personalized-psychiatry]
 tipo_fonte: scientifica
-source_papers: ["fpsyt-16-1692177.pdf"]
+source_papers: ["fpsyt-16-1692177.pdf", "BackgroundMaterials_AI-Health_C3M2_JK_Dec28_2024_V1.0 pdf  (1).pdf", "BackgroundMaterials_AI-Health_C3M3_JK_Dec22_2024_V1.0 (1).pdf"]
 ---
 
 # Causal Discovery e Machine Learning per i Target Psicosociali
@@ -85,12 +85,21 @@ flowchart LR
 - **Primato della ToM di Prima Persona:** La consapevolezza introspettiva e il riconoscimento in prima persona dei propri stati interni (*first-order first-person ToM*) costituiscono la condizione necessaria affinché il paziente possa sviluppare o mantenere capacità di mentalizzazione più complesse.
 - **Deficit Elettivi nella Schizofrenia:** I deficit più severi si riscontrano nella *Second-Order ToM* e nella *Third-Person Allocentric ToM*. Tuttavia, tentare di riabilitare direttamente queste ultime senza aver prima consolidato la ToM di prima persona risulta clinicamente inefficace, poiché la struttura probabilistica della rete mostra che la probabilità di successo sui compiti di terzo ordine è condizionata all'integrità del primo ordine.
 
+### 3. Il contrasto con i materiali didattici generalisti
+- I materiali del corso *AI for Healthcare Systems* oscillano su questo punto:
+  - presentano le regole di associazione come base per raccomandare farmaci (Khuntia, 2024j) e come fonte di indicazioni «sulla causalità» (Khuntia, 2024k);
+  - nello stesso modulo avvertono che correlazione e causalità vanno distinte, con l'esempio della degenza lunga associata a esiti peggiori perché i pazienti più gravi restano di più (Khuntia, 2024k);
+  - attribuiscono infine all'IA la capacità di «validare» legami causali senza indicare metodi.
+- Il caso della durata della psicosi non trattata, associata alla prognosi ma senza effetto causale diretto, mostra perché servono metodi espliciti di scoperta causale e non la sola analisi predittiva o associativa (Mok, Cheng, & Chu, 2025).
+
 ## Riferimenti Bibliografici
 - Mok, C. H. Y., Cheng, C. P. W., & Chu, M. H. W. (2025). Application of artificial intelligence and psychosocial functioning in psychosis: a systematic review and meta-analysis. *Frontiers in Psychiatry*, 16, 1692177. https://doi.org/10.3389/fpsyt.2025.1692177
 - Miley, K., Meyer-Kalos, P., Ma, S., Bond, D. J., Kummerfeld, E., & Vinogradov, S. (2023). Causal pathways to social and occupational functioning in the first episode of schizophrenia: uncovering unmet treatment needs. *Psychological Medicine*, 53(5), 2041–2049. https://doi.org/10.1017/S0033291721003780
+- Khuntia, J. (2024j). *Background materials for Course 3: AI integration in healthcare. Module 2: Relevant ML algorithms in healthcare* [Materiale didattico, versione 1.0]. AI for Healthcare Systems Specialization, University of Colorado System; Coursera. https://www.coursera.org/learn/ai-integration-in-healthcare
+- Khuntia, J. (2024k). *Background materials for Course 3: AI integration in healthcare. Module 3: The craft of modeling for AI in healthcare* [Materiale didattico, versione 1.0]. AI for Healthcare Systems Specialization, University of Colorado System; Coursera. https://www.coursera.org/learn/ai-integration-in-healthcare
 - Bosco, F. M., Colle, L., Salvini, R., & Gabbatore, I. (2024). A machine-learning approach to investigating the complexity of theory of mind in individuals with schizophrenia. *Heliyon*, 10(6), e30693. https://doi.org/10.1016/j.heliyon.2024.e30693
 - Rajula, H. S. R., Verlato, G., Manchia, M., Antonucci, N., & Fanos, V. (2020). Comparison of conventional statistical methods with machine learning in medicine: diagnosis, drug development, and treatment. *Medicina*, 56(9), 455. https://doi.org/10.3390/medicina56090455
 
 ## Relazioni
 
-- Vedi anche: [[fpsyt-16-1692177]], [[ai-psychosocial-functioning-in-psychosis]], [[applied-theory-of-mind-llm]], [[modello-centauro-clinico]], [[synthetic-psychopathology]], [[metastabilita-predictive-coding-trauma]], [[multimodal-anxiety-detection-ai]], [[clinical-ai-simulation]]
+- Vedi anche: [[fpsyt-16-1692177]], [[ai-psychosocial-functioning-in-psychosis]], [[applied-theory-of-mind-llm]], [[modello-centauro-clinico]], [[synthetic-psychopathology]], [[metastabilita-predictive-coding-trauma]], [[multimodal-anxiety-detection-ai]], [[clinical-ai-simulation]], [[health-ai-landscape]], [[ai-health-c3m3-khuntia-2024]]

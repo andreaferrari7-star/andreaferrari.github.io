@@ -33,14 +33,14 @@ Nella sessione di apertura tecnica (Dott. Giacomantonio, nella trascrizione «Gi
   - *Supporto alla ricerca e manipolazioni sperimentali*: somministrazione di questionari e adattamento dinamico delle risposte e delle manipolazioni in tempo reale sulla base della memoria utente.
 
 #### Confronto Strutturale: Interfacce Web Commerciali vs API-First
-| Dimensione | Utilizzo Classico Web / Chatbot | Integrazione tramite API |
-| :--- | :--- | :--- |
-| **Costi** | Abbonamento fisso elevato (20–200 €/mese per utente). | Pay-per-token estremamente economico (frazioni di centesimo per query). |
-| **Privacy e GDPR** | I dati inseriti possono essere usati per addestrare i modelli pubblici. | Politica di **zero-data retention**: i dati scambiati via API non vengono usati per l'addestramento (OpenAI, Gemini). |
-| **Personalizzazione** | Limitata alla sessione o a Custom Instructions generiche. | Totale: selezione dinamica della memoria, prompt di sistema, RAG su basi documentali proprietarie. |
-| **Scalabilità** | Limitata all'interazione individuale 1:1. | Elevata: integrabile in questionari, piattaforme cliniche e app terze. |
-| **Affidabilità** | Più esposta ad allucinazioni generaliste e bias impliciti. | Riduzione delle allucinazioni tramite vincoli contestuali RAG e temperature controllate. |
-| **Barriere d'ingresso** | Nessuna (interfaccia utente immediata). | Richiede competenze di programmazione e gestione dell'infrastruttura. |
+| Dimensione              | Utilizzo Classico Web / Chatbot                                         | Integrazione tramite API                                                                                              |
+| :---------------------- | :---------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------- |
+| **Costi**               | Abbonamento fisso elevato (20–200 €/mese per utente).                   | Pay-per-token estremamente economico (frazioni di centesimo per query).                                               |
+| **Privacy e GDPR**      | I dati inseriti possono essere usati per addestrare i modelli pubblici. | Politica di **zero-data retention**: i dati scambiati via API non vengono usati per l'addestramento (OpenAI, Gemini). |
+| **Personalizzazione**   | Limitata alla sessione o a Custom Instructions generiche.               | Totale: selezione dinamica della memoria, prompt di sistema, RAG su basi documentali proprietarie.                    |
+| **Scalabilità**         | Limitata all'interazione individuale 1:1.                               | Elevata: integrabile in questionari, piattaforme cliniche e app terze.                                                |
+| **Affidabilità**        | Più esposta ad allucinazioni generaliste e bias impliciti.              | Riduzione delle allucinazioni tramite vincoli contestuali RAG e temperature controllate.                              |
+| **Barriere d'ingresso** | Nessuna (interfaccia utente immediata).                                 | Richiede competenze di programmazione e gestione dell'infrastruttura.                                                 |
 
 ### 2. Applicazione Clinica in Vivo: Il Modello Centauro e l'Analisi della Seduta
 

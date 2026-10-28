@@ -13,6 +13,21 @@ article p, article li {
   line-height: 1.7;
 }
 
+/* --- FIX COLORI PER MERMAID --- */
+/* Il tema Obsidian (@quartz-themes/core) definisce --secondary e --tertiary
+   con hsl(calc(...)). Lo script Mermaid di Quartz passa questi valori come
+   testo a Mermaid, che non sa interpretare calc() e non disegna nessun grafico.
+   Qui si fissano gli stessi colori già calcolati, così l'aspetto non cambia. */
+:root:root {
+  --secondary: rgb(138, 92, 245) !important;
+  --tertiary: rgb(166, 138, 249) !important;
+}
+
+:root:root[saved-theme="dark"] {
+  --secondary: rgb(166, 138, 249) !important;
+  --tertiary: rgb(197, 182, 252) !important;
+}
+
 /* --- FIX GRAFICI MERMAID --- */
 /* Crea un "contenitore" pulito per isolare i diagrammi complessi */
 .mermaid {

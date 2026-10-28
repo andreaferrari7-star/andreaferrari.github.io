@@ -52,7 +52,6 @@ flowchart TD
     C --> C1["Forza Strutturale: Tassonomia, Layout & Lessico Ipotetico"]
     C --> C2["Barriere di Astrazione: Confusione Coping vs Temi di Vita"]
     C --> C3["Cecità Relazionale & Allucinazioni Interpretative"]
-end
 ```
 
 ### 2.1 Diagnosi Differenziale, Pattern Recognition e Modelli Multimodali

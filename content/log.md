@@ -910,3 +910,211 @@ Integrazione del paper sull'uso degli LLMs per la sintesi dei dialoghi nel collo
   - sezioni `## Relazioni`: tolti i link ai verbali (rimosse 28 voci, ripulite 2 righe «Vedi anche»).
 - Verifica: nessun wikilink a verbali nelle pagine destinate alla pubblicazione.
 - `risultati-apprendimento-attesi-raa` era rimasta senza voci in `## Relazioni`: aggiunti [[microprogettazione-formativa-ia]] e [[modello-rocco]]. Nella stessa pagina tolto il `[da verificare]` sull'autore della scheda METID, perché il PDF riporta «Autore: METID-Politecnico di Milano».
+
+## [2026-10-27] ingest | ai-health-c1m1-khuntia-2024
+- Fonte `BackgroundMaterials_AI-Health_Module1_JK_Oct30_2024_V2.3 (2).pdf`, classe `scientifica`: materiale didattico della specializzazione Coursera *AI for Healthcare Systems* (University of Colorado System), docente Jiban Khuntia. Ente e corso sono indicati dall'utente, il docente è ricavato dalla scheda Coursera e dalla sigla «JK» nei nomi dei file. È la prima delle 14 dispense della serie, acquisite una alla volta su richiesta dell'utente. Classe scelta su raccomandazione, su richiesta dell'utente: materiale pubblicato da un ente universitario, non materiale del gruppo.
+- Lettura integrale (46 pagine). Read non può aprire le pagine dei PDF perché manca `pdftoppm`: il testo è stato estratto con `pdftotext` pagina per pagina, in una cartella temporanea fuori dal vault.
+- `wiki-search.cmd` non parte da Git Bash per lo spazio nel percorso del vault; eseguito tramite un file batch temporaneo che entra nella radice del vault e chiama il wrapper. L'indice QMD risulta aggiornato 60 giorni fa, quindi i risultati sono stati controllati anche con ricerca testuale.
+- Create:
+  - `ai-for-healthcare-systems-khuntia-2024`: scheda della serie con struttura dei quattro corsi, note sulla numerazione incoerente delle intestazioni e schema di citazione (Khuntia, 2024a–n, lettere in ordine di modulo);
+  - `ai-health-c1m1-khuntia-2024`: definizioni, storia in tre periodi, applicazioni, limiti della fonte (nessun riferimento bibliografico, tono promozionale, cronologia imprecisa su Logic Theorist, Fifth Generation e inverno dell'IA, segnalata come [da verificare]);
+  - `concetti/ia-machine-learning-deep-learning`: gerarchia IA ⊃ ML ⊃ DL, componenti, breve storia; da ampliare con i moduli sugli algoritmi.
+- Su ELIZA nessuna contraddizione con `10-10-giornata-nazionale-psicologia-ia-quo-vadis`.
+- `index.md`: le tre pagine nel dominio 4, conteggio da 43 a 46.
+
+## [2026-10-27] ingest | ai-health-c1m2-khuntia-2024
+- Fonte `BackgroundMaterials_AI-Health_C1M2_JK_Oct30_2024_V12.3 (1).pdf`, classe `scientifica` (seconda dispensa della serie *AI for Healthcare Systems*), letta per intero (33 pagine).
+- Creata `ai-health-c1m2-khuntia-2024`: storia della sanità e del sistema statunitense, triade paziente-erogatore-pagatore e ciclo dei pagamenti, quattro leve di ottimizzazione, confronto tra modello di mercato e medicina sociale, sfide (accesso e costi, qualità ed equità, salute della popolazione, sfide istituzionali), ruolo del digitale, passaggio dalla digitalizzazione «non intelligente» al paradigma guidato dai dati. Segnalati il quadro centrato sugli Stati Uniti e l'errore «Federal Drug Administration».
+- Aggiornate:
+  - `concetti/algorithmic-bias-and-digital-inequalities`: divergenza di enfasi. Khuntia (2024b) presenta il digitale soprattutto come leva di equità e cita il divario digitale come rischio futuro; Erdemir e Sumbas (2026) ne sottolineano l'effetto di amplificazione delle disuguaglianze senza governance;
+  - `ai-for-healthcare-systems-khuntia-2024`: link e voce APA del modulo.
+- `index.md`: riga nel dominio 4, conteggio da 46 a 47.
+
+## [2026-10-27] ingest | ai-health-c1m3-khuntia-2024
+- Fonte `BackgroundMaterials_AI-Health_C1M3_JK_Nov2_2024_V1.2 (1).pdf`, classe `scientifica` (terza dispensa della serie *AI for Healthcare Systems*), letta per intero (26 pagine).
+- Create:
+  - `ai-health-c1m3-khuntia-2024`: capacità operative, adattive e innovative; capacità dinamiche (sensing, seizing, transforming); casi di fallimento organizzativo; IA per coinvolgimento dei pazienti, operazioni e CDS. L'origine teorica della triade (Teece) non è citata nella fonte ed è segnata [da verificare], così come i casi di fallimento, solo nominati;
+  - `concetti/capacita-dinamiche-sistemi-sanitari`: la griglia applicata all'adozione dell'IA in un servizio.
+- Aggiornate:
+  - `concetti/ai-clinical-decision-support`: nuova sottosezione sulle tre funzioni del CDS secondo Khuntia (2024c), con la nota che il materiale non porta dati e va letto alla luce dell'eterogeneità documentata da Huynh et al. (2026);
+  - `ai-for-healthcare-systems-khuntia-2024`: link, voce APA, relazione.
+- Divergenze segnalate nella pagina del modulo:
+  - Khuntia (2024c) dà per scontato che le interazioni personalizzate con l'IA generino fiducia e senso di essere compresi; Herbener e Damholdt (2025, `genuineness-gap`) sostengono il contrario per la psicoterapia;
+  - la riduzione degli errori diagnostici grazie al CDS è affermata senza dati, mentre Huynh et al. (2026) trovano un'accuratezza eterogenea.
+- `index.md`: concetto e riga nel dominio 4, conteggio da 47 a 49.
+
+## [2026-10-27] ingest | ai-health-c1m4-khuntia-2024
+- Fonte `BackgroundMaterials_AI-Health_C1M4_JK_Nov14_2024_V1.2 (1).pdf`, classe `scientifica` (quarta dispensa della serie *AI for Healthcare Systems*, chiude il corso 1), letta per intero (27 pagine).
+- Creata `ai-health-c1m4-khuntia-2024`: sette grandi sfide; parallelo tra apprendimento clinico (strutturato ed esperienziale) e dell'IA (dati etichettati e non etichettati); dati su costi e accesso; soluzioni con esempi di prodotti per costi, accesso, cronicità, pandemie e ricerca.
+- Segnalati come [da verificare]: due dati incoerenti (10,9% di non assicurati negli USA pari a «quasi 30 milioni»; oltre 10 milioni di morti annue sotto i cinque anni per mancanza di accesso), prodotti presentati come attivi ma dismessi prima della data del materiale (IBM Watson for Drug Discovery, Babylon Health), il dato di Insilico Medicine. Segnalato un paragrafo duplicato dal modulo precedente.
+- Aggiornate:
+  - `concetti/ia-machine-learning-deep-learning`: nuova sottosezione sull'analogia tra apprendimento clinico e apprendimento supervisionato o non supervisionato, con i suoi limiti;
+  - `ai-for-healthcare-systems-khuntia-2024`: link e voce APA. Il corso 1 è completo.
+- `index.md`: riga nel dominio 4, conteggio da 49 a 50.
+
+## [2026-10-27] ingest | ai-health-c2m1-khuntia-2024
+- Fonte `BackgroundMaterials_AI-Health_C2M1_JK_Dec17_2024_V1.0 (2).pdf`, classe `scientifica` (quinta dispensa della serie *AI for Healthcare Systems*, apre il corso 2), letta per intero (25 pagine).
+- Create:
+  - `ai-health-c2m1-khuntia-2024`: framework DIAD; esempi di IA, ML e LLM nella decisione clinica; data mining nei tre stadi; visualizzazione, tempo reale, ETL e strumenti;
+  - `concetti/diad-framework`: i quattro stadi, il legame con la «digitalizzazione non intelligente» di C1M2, rischi e limiti. La parentela con la gerarchia DIKW non è dichiarata dalla fonte [da verificare].
+- Aggiornate:
+  - `concetti/ai-clinical-decision-support`: contraddizione esplicita. Khuntia (2024e) attribuisce agli LLM la capacità di proporre regimi chemioterapici personalizzati e sicuri, Chen et al. (2025) documentano bias, omissioni o allucinazioni nel 41,7% degli studi oncologici;
+  - `ai-health-c1m2-khuntia-2024`: link a `diad-framework`;
+  - `ai-for-healthcare-systems-khuntia-2024`: link, voce APA, relazione.
+- `index.md`: concetto e riga nel dominio 4, conteggio da 50 a 52.
+
+## [2026-10-27] ingest | ai-health-c2m2-khuntia-2024
+- Fonte `BackgroundMaterials_AI-Health_C2M2_JK_Dec17_2024_V1.0 (4).pdf`, classe `scientifica` (sesta dispensa della serie *AI for Healthcare Systems*), letta per intero (16 pagine).
+- Creata `ai-health-c2m2-khuntia-2024`: l'analisi come fondamento; il mito dell'IA come soluzione rapida con le quattro condizioni di successo (dati pronti, problema definito, collaborazione, monitoraggio); definizione, usi, ciclo di vita ed elementi del modello analitico. Segnalato il refuso «investimento di breve termine», che rovescia il senso della frase.
+- Aggiornate:
+  - `clinical-prediction-model-evaluation`: sottosezione sul ciclo di vita del modello nei materiali didattici. Concorda con la valutazione continua di TRIPOD+AI, ma usa solo metriche di classificazione, senza calibrazione né utilità clinica;
+  - `concetti/capacita-dinamiche-sistemi-sanitari`: le quattro condizioni contro il mito della soluzione rapida;
+  - `concetti/diad-framework`: lo stadio dell'analisi;
+  - `ai-for-healthcare-systems-khuntia-2024`: link e voce APA.
+- Non create nuove pagine concetto: i temi del modulo erano già coperti da pagine esistenti.
+- `index.md`: riga nel dominio 4, conteggio da 52 a 53.
+
+## [2026-10-27] ingest | ai-health-c2m3-khuntia-2024
+- Fonte `BackgroundMaterials_AI-Health_C2M3_JK_Dec18_2024_V1.0 (1).pdf`, classe `scientifica` (settima dispensa della serie *AI for Healthcare Systems*), letta per intero (22 pagine).
+- Create:
+  - `ai-health-c2m3-khuntia-2024`: panoramica delle famiglie di algoritmi; regressione lineare e logistica con le guide in 10 e 11 passi; esempi tra cui lo screening della depressione con la logistica;
+  - `concetti/algoritmi-ml-sanita`: mappa delle famiglie di algoritmi con tre correzioni di metodo; da completare con C2M4 e il corso 3.
+- Errori di metodo segnalati nella fonte:
+  - regressione lineare proposta per un esito binario (riammissione);
+  - bilanciamento delle classi e pulizia prima della divisione train/test, con rischio di *data leakage*, in contrasto con Jacobs et al. (2026);
+  - divisione singola 80/20 e accuratezza come prima metrica, in contrasto con Jacobs et al. (2026);
+  - nessuna calibrazione per un modello probabilistico, in contrasto con TRIPOD+AI.
+  - IBM Watson Health presentato come attivo [da verificare].
+- Aggiornate:
+  - `concetti/mccv-and-statistical-validation-clinical-ml`: nuova sottosezione sull'errore ricorrente nelle guide didattiche;
+  - `ai-for-healthcare-systems-khuntia-2024`: link, voce APA, relazione.
+- `index.md`: concetto e riga nel dominio 4, conteggio da 53 a 55.
+
+## [2026-10-27] ingest | ai-health-c2m4-khuntia-2024
+- Fonte `BackgroundMaterials_AI-Health_C2M4_JK_Dec18_2024_V1.0 (1).pdf`, classe `scientifica` (ottava dispensa della serie *AI for Healthcare Systems*, chiude il corso 2), letta per intero (63 pagine, in tre blocchi).
+- Creata `ai-health-c2m4-khuntia-2024`: alberi decisionali, random forest, gradient boosting con varianti e iperparametri, reti neurali (CNN, RNN e varianti, ibridi, transformer, GAN, autoencoder, CapsNet, SNN, GNN, neural ODE), guide operative ed esempi.
+- Errori e limiti segnalati:
+  - nell'albero sul diabete la soglia diagnostica di 126 mg/dL è usata come «rischio alto» [da verificare];
+  - alberi scritti a mano presentati come modelli appresi;
+  - SMOTE di nuovo prima della divisione train/test;
+  - probabilità e importanze delle variabili inventate a scopo illustrativo;
+  - probabilità di successo definita «regressione»;
+  - superiorità del gradient boosting e delle CNN affermata senza prove;
+  - allerta del modello tradotta direttamente in terapia;
+  - tabella comparativa dei boosting illeggibile nel PDF.
+  Rilevati anche i miglioramenti rispetto ai moduli precedenti: calibrazione, audit dei bias, SHAP e LIME.
+- Aggiornate:
+  - `concetti/algoritmi-ml-sanita`: sezione su alberi, ensemble e reti neurali, con il compromesso tra flessibilità e leggibilità (la preferenza per modelli semplici e calibrati è segnata [da verificare]);
+  - `concetti/reti-neurali-in-psicologia`: limite di generalizzazione tra popolazioni e apparecchiature, coerente con il divario tra validazione interna ed esterna già documentato;
+  - `ai-for-healthcare-systems-khuntia-2024`: link e voce APA. Il corso 2 è completo.
+- `index.md`: riga nel dominio 4, conteggio da 55 a 56.
+
+## [2026-10-27] ingest | ai-health-c3m1-khuntia-2024
+- Fonte `BackgroundMaterials_AI-Health_C3M1_JK_Dec28_2024_V1.0 (1) (1).pdf`, classe `scientifica` (nona dispensa della serie *AI for Healthcare Systems*, apre il corso 3), letta per intero (26 pagine).
+- Creata `ai-health-c3m1-khuntia-2024`: passaggio ai sistemi che apprendono e ostacoli all'adozione; quattro paradigmi con le domande critiche del modulo; classificazione e regressione (lineare, logistica, lasso, «multivariata», polinomiale); sottoadattamento e sovradattamento.
+- Segnalati:
+  - una frase residua da assistente conversazionale a pagina 19, indizio di testo generato con IA e non revisionato;
+  - «multivariata» usato per «multipla» [da verificare];
+  - di nuovo la riammissione, esito binario, trattata con la regressione;
+  - semplificazioni: classificazione uguale a diagnosi e regressione uguale a prognosi, rinforzo «interpretabile»;
+  - la richiesta di classi bilanciate, confrontata con Jacobs et al. (2026).
+- Aggiornate:
+  - `concetti/ia-machine-learning-deep-learning`: sezioni sui paradigmi di apprendimento e sul sovradattamento; nota sui materiali probabilmente generati con IA;
+  - `concetti/algoritmi-ml-sanita`: regressione lasso e polinomiale;
+  - `ai-for-healthcare-systems-khuntia-2024`: link, voce APA e nota sulla traccia di generazione automatica;
+  - `index.md`: descrizione aggiornata di `ia-machine-learning-deep-learning`.
+- `index.md`: riga nel dominio 4, conteggio da 56 a 57.
+
+## [2026-10-27] ingest | ai-health-c3m2-khuntia-2024
+- Fonte `BackgroundMaterials_AI-Health_C3M2_JK_Dec28_2024_V1.0 pdf  (1).pdf`, classe `scientifica` (decima dispensa della serie *AI for Healthcare Systems*), letta per intero (37 pagine). È il vero C3M2: il file omonimo del 22 dicembre è stato rinominato C3M3 dall'utente.
+- Creata `ai-health-c3m2-khuntia-2024`: non supervisionato (K-means, DBSCAN, PCA, ICA, Apriori, FP-Growth, z-score, Isolation Forest), k-NN, semi-supervisionato (self-training, co-training, grafi, VAE e GAN), apprendimento per rinforzo (model-free e model-based, scenari su insulina, ventilazione, radioterapia) con le sfide etiche.
+- Segnalati:
+  - regole di associazione presentate come base per raccomandare farmaci, senza distinguere tra associazione e causalità;
+  - applicazioni dell'apprendimento per rinforzo senza fonti né distinzione tra simulazione e uso clinico [da verificare];
+  - range «normale» della frequenza cardiaca a 55-85 bpm [da verificare];
+  - k-NN definito prima interpretabile e poi no;
+  - intestazione «Module 1».
+- Aggiornate:
+  - `concetti/algoritmi-ml-sanita`: sezione su tecniche non supervisionate, k-NN, semi-supervisionate e per rinforzo, con l'avvertenza su associazione e causalità;
+  - `ai-for-healthcare-systems-khuntia-2024`: link e voce APA.
+- `index.md`: riga nel dominio 4, conteggio da 57 a 58.
+
+## [2026-10-27] ingest | ai-health-c3m3-khuntia-2024
+- Fonte `BackgroundMaterials_AI-Health_C3M3_JK_Dec22_2024_V1.0 (1).pdf`, classe `scientifica` (undicesima dispensa della serie *AI for Healthcare Systems*), letta per intero (44 pagine, in due blocchi). Il file era nominato C3M2 per errore ed è stato rinominato dall'utente.
+- Create:
+  - `ai-health-c3m3-khuntia-2024`: quadro *Health AI Landscape* (dati con gestione, ingegneria e governance; analisi; algoritmi; modelli descrittivi, diagnostici, predittivi, prescrittivi e cognitivi; agenti; processi organizzativi; vincoli); approfondimento su modelli descrittivi e diagnostici;
+  - `concetti/health-ai-landscape`: la catena come lista di controllo per valutare uno strumento.
+- Segnalati:
+  - seconda frase residua da assistente conversazionale («Let me know if further elaboration is required!»);
+  - incoerenza interna su associazione e causalità, e l'IA che «valida» legami causali senza metodi;
+  - l'esempio dei social media per l'ideazione suicidaria presentato senza limiti;
+  - IBM Watson citato come modello di riferimento [da verificare].
+- Aggiornate:
+  - `causal-discovery-psychosocial-targets`: nuova sottosezione sul contrasto con i materiali didattici (Khuntia, 2024j, 2024k) e sul caso della DUP come esempio di associazione senza effetto causale diretto (Mok, Cheng, & Chu, 2025);
+  - `concetti/diad-framework`: estensione al Health AI Landscape;
+  - `ai-for-healthcare-systems-khuntia-2024`: link, voce APA, nota sulle tracce di generazione automatica, relazione.
+- `index.md`: concetto e riga nel dominio 4, conteggio da 58 a 60.
+
+## [2026-10-28] ingest | ai-health-c3m4-khuntia-2024
+- Fonte `BackgroundMaterials_AI-Health_C3M4_JK_Dec22_2024_V1.0 pgd (1).pdf`, classe `scientifica` (dodicesima dispensa della serie *AI for Healthcare Systems*, chiude il corso 3), letta per intero (52 pagine, in due blocchi).
+- Creata `ai-health-c3m4-khuntia-2024`: modelli predittivi, prescrittivi e cognitivi; confronto tra i cinque modelli; processo di sviluppo in otto fasi; dieci sfide di implementazione con le contromisure.
+- Segnalati:
+  - la supervisione umana elencata come limite dei modelli predittivi, in contrasto con AI Act art. 14, GDPR art. 22 e indicazioni OPPV;
+  - prescrizioni ad alto rischio senza discussione dell'affidamento eccessivo;
+  - chatbot «programmati per l'empatia», da confrontare con `genuineness-gap`;
+  - calibrazione ancora assente, anche se ora l'accuratezza è detta fuorviante con classi sbilanciate;
+  - dato sull'80% di dati non strutturati senza fonte [da verificare];
+  - tabella impaginata male e illustrazioni duplicate.
+- Aggiornate:
+  - `concetti/health-ai-landscape`: sezione su fasi di sviluppo, sfide, contromisure e supervisione umana;
+  - `concetti/human-in-the-loop`: impostazione opposta nei materiali didattici;
+  - `concetti/algoritmi-ml-sanita`: la preferenza per modelli interpretabili nelle applicazioni ad alto rischio, segnata [da verificare] nell'ingestione di C2M4, ora è attribuita a Khuntia (2024l);
+  - `ai-for-healthcare-systems-khuntia-2024`: link e voce APA. Il corso 3 è completo.
+- `index.md`: riga nel dominio 4, conteggio da 60 a 61.
+
+## [2026-10-28] ingest | ai-health-c4m1-khuntia-2024
+- Fonte `BackgroundMaterials_AI-Health_C4M1_JK_Dec29_2024_V1.0 (1).pdf`, classe `scientifica` (tredicesima dispensa della serie *AI for Healthcare Systems*, apre il corso 4), letta per intero (36 pagine, in due blocchi).
+- Create:
+  - `ai-health-c4m1-khuntia-2024`: modelli per condizione clinica, compresa la salute mentale; passaggio dai modelli agli agenti e i tre problemi che risolverebbero; RAG e agenti; tassonomia degli agenti; esempi di prodotti;
+  - `concetti/agenti-ia-sanita`: agente contro modello e RAG, tassonomia, rischi dell'autonomia. La derivazione della scala di intelligenza dai manuali di IA è segnata [da verificare].
+- Contraddizioni e limiti segnalati:
+  - gli LLM detti «spesso superiori ai medici», contro la meta-analisi di Shan et al. (2025);
+  - Woebot descritto come agente NLP, mentre Hua et al. (2025) classificano il Woebot originario tra i sistemi a regole;
+  - circa 16 nomi di prodotti non verificabili, introdotti da una frase in stile chatbot, possibili invenzioni del modello [da verificare];
+  - Babylon Health e IBM Watson for Oncology presentati come attivi [da verificare];
+  - azioni cliniche automatiche (insulina, farmaci, terapie d'emergenza) senza discussione della supervisione;
+  - salute mentale senza cautele su crisi e validazione.
+- Aggiornate:
+  - `concetti/diagnostic-accuracy-gap-llm-vs-physicians`: sottosezione sulla divergenza;
+  - `concetti/rag-in-psicoterapia`: distinzione tra RAG e agenti; `tipo_fonte` portato a `[evento, scientifica]`, aggiunte la sezione `## Riferimenti Bibliografici` (solo la fonte scientifica) e la fonte nella riga «Fonti»;
+  - `concetti/agent-harness-architecture`, `concetti/health-ai-landscape`: link al nuovo concetto;
+  - `ai-for-healthcare-systems-khuntia-2024`: link, voce APA, nota sui prodotti non verificabili.
+- `index.md`: concetto e riga nel dominio 4, conteggio da 61 a 63.
+
+## [2026-10-28] ingest | ai-health-c4m2-khuntia-2024
+- Fonte `BackgroundMaterials_AI-Health_C4M2_JK_Dec29_2024_V1.0 (1).pdf`, classe `scientifica` (quattordicesima e ultima dispensa della serie *AI for Healthcare Systems*), letta per intero (27 pagine).
+- Create:
+  - `ai-health-c4m2-khuntia-2024`: sistemi multi-agente e quindici applicazioni, compresa la salute mentale; tre ondate dell'IA (modelli, generativa, agentica); otto questioni di progettazione; Value-Sensitive Design in sette componenti;
+  - `concetti/value-sensitive-design-ia-sanitaria`: le componenti come griglia di valutazione. La letteratura di origine del VSD non è citata dalla fonte [da verificare].
+- Segnalati:
+  - incoerenza sull'autonomia: IA agentica «con intervento umano minimo» ma decisione finale al clinico;
+  - IA generativa che «crea piani di trattamento»;
+  - chatbot come «terapeuti virtuali» e agente antisuicidio che avvisa i familiari, senza cautele;
+  - affermazioni da verificare: «diritto alla spiegazione» nel GDPR, blockchain alla Mayo Clinic, Aarogya Setu come IA, programma di precertificazione FDA attivo, problema dei pulsossimetri risolto;
+  - acronimo «DCDCOP» [da verificare].
+- Aggiornate:
+  - `concetti/agenti-ia-sanita`: sistemi multi-agente e terza ondata;
+  - `concetti/human-in-the-loop`: oscillazione dell'ultimo modulo sull'autonomia;
+  - `compound-opacity-in-multi-agent-systems`, `embedded-ethics-interface`: link ai nuovi concetti. Le due pagine sono in CRLF: un primo `sed` le aveva convertite in LF, poi i fine riga CRLF originali sono stati ripristinati;
+  - `ai-for-healthcare-systems-khuntia-2024`: link, voce APA e nuova sezione «Valutazione complessiva» con usi utili e problemi ricorrenti della serie.
+- `index.md`: concetto e riga nel dominio 6 («Etica, Governance e Regolazione»), perché il modulo tratta progettazione ed etica; conteggio da 43 a 45. Gli altri 13 moduli, la scheda della serie e gli altri 6 concetti sono nel dominio 4.
+- Chiusura della serie: 14 dispense acquisite, 15 pagine di fonte (14 moduli e la scheda della serie), 7 concetti nuovi, 14 pagine esistenti aggiornate. Verifica finale con script: 0 wikilink rotti nelle pagine create o toccate, 0 link dell'indice verso file inesistenti, conteggi del sommario coerenti con le voci (dominio 4: 63; dominio 6: 45), fine riga coerenti in tutti i file modificati.
+- Nota per la pubblicazione: le pagine della serie non sono ancora in `quartz/content/` e la riga 4 del sommario pubblico non è aggiornata; servirà `/publish`.
+
+## [2026-10-28] lint | fix-grafici-mermaid
+- Problema: sul sito pubblicato nessun grafico Mermaid veniva disegnato. Errore in console: `Unsupported color format: "hsl(calc(258 - 3), ...)"`.
+- Causa: il plugin `@quartz-themes/core` (tema Obsidian) definisce `--secondary` e `--tertiary` con `hsl(calc(...))`. Lo script Mermaid di Quartz passa queste variabili come testo a Mermaid, che non interpreta `calc()` e si interrompe prima di disegnare i grafici. Il problema riguardava tutte le pagine con grafici, in tema chiaro e scuro.
+- Correzione in `quartz/quartz/styles/custom.scss`: `--secondary` e `--tertiary` fissati con gli stessi colori già calcolati dal browser, per tema chiaro e scuro. L'aspetto del sito non cambia.
+- `sintesi/ai-generativa-in-psicoterapia` (in `wiki/` e in `quartz/content/`): tolto un `end` in più nel secondo grafico, che chiudeva un `subgraph` inesistente e causava un errore di sintassi.
+- Controllati gli altri blocchi Mermaid della wiki: nessun altro `end` in eccesso (quelli in `jml-1001` e `sociotechnical-safety-in-clinical-ai` chiudono correttamente blocchi `loop`/`alt`).
+- Build locale riuscita. Le modifiche vanno ancora pubblicate.

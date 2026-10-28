@@ -1,7 +1,7 @@
 ---
 tags: [reti-neurali, cognitive-modeling, deep-learning, nlp-clinico, neuroimaging, salute-mentale]
 tipo_fonte: scientifica
-source_papers: ["The Mind and Machine_ An Introduction to Artificial -- Mirza Jahanzeb Beg -- 2023 -- Amazon International -- isbn13 9788374274425 -- fa14f76e252db0f4af074dfc90514bcd -- Anna’s Archive.pdf", "ARTIFICIAL INTELLIGENCE IN MEDICAL SCIENCES AND PSYCHOLOGY _ -- Tshepo Chris Nokeri -- 1st ed_, 2022 -- Apress L_ P_ -- isbn13 9781484282168 -- 8886f48d49e236b2a2665930d600ae1c -- Anna’s Archive.pdf", "fpsyt-17-1688043 (1).pdf", "41398_2025_Article_3497.pdf", "2407.19422v1.pdf"]
+source_papers: ["The Mind and Machine_ An Introduction to Artificial -- Mirza Jahanzeb Beg -- 2023 -- Amazon International -- isbn13 9788374274425 -- fa14f76e252db0f4af074dfc90514bcd -- Anna’s Archive.pdf", "ARTIFICIAL INTELLIGENCE IN MEDICAL SCIENCES AND PSYCHOLOGY _ -- Tshepo Chris Nokeri -- 1st ed_, 2022 -- Apress L_ P_ -- isbn13 9781484282168 -- 8886f48d49e236b2a2665930d600ae1c -- Anna’s Archive.pdf", "fpsyt-17-1688043 (1).pdf", "41398_2025_Article_3497.pdf", "2407.19422v1.pdf", "BackgroundMaterials_AI-Health_C2M4_JK_Dec18_2024_V1.0 (1).pdf"]
 title: "Reti Neurali in Psicologia"
 ---
 
@@ -79,6 +79,7 @@ flowchart TD
 - **Opacità Algoritmica (Black-Box Effect):** L'imperscrutabilità dei pesi sinaptici e dei passaggi intermedi impedisce la piena tracciabilità del ragionamento clinico, rendendo necessaria l'adozione di tecniche di *Explainable AI* (XAI) per l'uso decisionale sicuro (Beg & Verma, 2023; Xie et al., 2026).
 - **Assenza di Intenzionalità Semantica e Rischio Allucinazioni:** Le reti generano testo o stime ottimizzando la plausibilità statistica locale, ma sono prive di reale comprensione semantica, empatia autentica o vincolo deontologico, con conseguente rischio di generare consigli non validati o mancare segnali critici di crisi acuta (Adamkovič, 2025; Hua et al., 2025).
 - **Vulnerabilità ai Bias dei Dati:** Gli algoritmi rischiano di riflettere e cristallizzare disuguaglianze demografiche, di genere o culturali incorporate nei dataset di addestramento clinico (Beg & Verma, 2023; Tang et al., 2024).
+- **Generalizzazione tra popolazioni e strumenti:** anche i materiali didattici sulla sanità generale indicano tra i limiti delle CNN il calo di prestazioni su popolazioni o apparecchiature diverse da quelle di addestramento, insieme al bisogno di molti dati etichettati. È un dato coerente con il divario tra validazione interna ed esterna descritto sopra (Khuntia, 2024h). Per una mappa delle architetture oltre CNN e RNN (GAN, autoencoder, reti su grafi, *neural ODE*) vedi [[algoritmi-ml-sanita]].
 
 ---
 
@@ -91,10 +92,11 @@ flowchart TD
 - Dzinalija, N., et al. (2026). Predicting cognitive-behavioral therapy outcomes in obsessive-compulsive disorder from inhibitory control neural activity: A mega-analysis and machine learning study from the ENIGMA-OCD consortium. *Biological Psychiatry: Cognitive Neuroscience and Neuroimaging*.
 - Hua, Y., Siddals, S., Ma, Z., Galatzer-Levy, I., Xia, W., Hau, C., Na, H., Flathers, M., Linardon, J., Ayubcha, C., & Torous, J. (2025). Charting the evolution of artificial intelligence mental health chatbots from rule-based systems to large language models: A systematic review. *World Psychiatry*, *24*(3), 383–394. https://doi.org/10.1002/wps.21352
 - Jiang, M., Zhao, Q., Li, J., Wang, F., He, T., Cheng, X., Yang, B. X., Ho, G. W. K., & Fu, G. (2024). *A generic review of integrating artificial intelligence in cognitive behavioral therapy* (arXiv:2407.19422). arXiv.
+- Khuntia, J. (2024h). *Background materials for Course 2: The data to decision path for infusion of AI in healthcare. Module 4: AI relevant complex algorithms in healthcare models* [Materiale didattico, versione 1.0]. AI for Healthcare Systems Specialization, University of Colorado System; Coursera. https://www.coursera.org/learn/the-data-to-decision-path-for-infusion-of-ai-in-healthcare
 - Nokeri, T. C. (2022). *Artificial Intelligence in Medical Sciences and Psychology: With Application of Machine Language, Computer Vision, and NLP Techniques*. Apress. https://doi.org/10.1007/978-1-4842-8217-5
 - Wang, Q., & Dwivedi, Y. (2025). Recent developments in omics studies and artificial intelligence in depression and suicide. *Translational Psychiatry*, 15(1), 1–18. https://doi.org/10.1038/s41398-025-03497-6
 
 ---
 
 ## Relazioni
-- Vedi anche: [[mind-and-machine-beg-verma-2023]], [[ai-medical-sciences-psychology-nokeri-2022]], [[fpsyt-17-1688043-1]], [[cognitive-distortion-detection]], [[large-language-models]], [[marketing-architecture-mismatch-in-mental-health-ai]], [[dzinalija-et-al-2026]], [[41398-2025-article-3497]]
+- Vedi anche: [[mind-and-machine-beg-verma-2023]], [[ai-medical-sciences-psychology-nokeri-2022]], [[fpsyt-17-1688043-1]], [[cognitive-distortion-detection]], [[large-language-models]], [[marketing-architecture-mismatch-in-mental-health-ai]], [[dzinalija-et-al-2026]], [[41398-2025-article-3497]], [[algoritmi-ml-sanita]], [[ai-health-c2m4-khuntia-2024]]

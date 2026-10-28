@@ -1,13 +1,13 @@
 ---
 tags: [psychotherapy, large-language-models, supervisione, privacy]
-tipo_fonte: evento
-source_papers: ["06-10 Lezione_ RAG, LLM in Psicoterapia e Governance Etica.txt"]
+tipo_fonte: [evento, scientifica]
+source_papers: ["06-10 Lezione_ RAG, LLM in Psicoterapia e Governance Etica.txt", "BackgroundMaterials_AI-Health_C4M1_JK_Dec29_2024_V1.0 (1).pdf"]
 ---
 
 # Retrieval-Augmented Generation (RAG) in Psicoterapia
 
 **Summary**: Architettura informatica che integra modelli linguistici di grandi dimensioni (LLM) con database documentali clinici esterni per fornire risposte contestualizzate, minimizzare le allucinazioni e preservare la privacy e la deontologia professionale.
-**Fonti**: [[06-10-lezione-rag-llm|Lezione e Seminario: RAG, LLM in Psicoterapia, Supervisione e Governance Etica (10 Giugno 2026)]]
+**Fonti**: [[06-10-lezione-rag-llm|Lezione e Seminario: RAG, LLM in Psicoterapia, Supervisione e Governance Etica (10 Giugno 2026)]]; Khuntia (2024m)
 **Last updated**: 2026-08-27
 ---
 
@@ -22,6 +22,9 @@ graph LR
     Prompt --> LLM["Large Language Model (API protette)"]
     LLM --> Output["Feedback Clinico Strutturato / Report"]
 ```
+
+### RAG e agenti
+- Il RAG va distinto dagli agenti. Il RAG arricchisce la *conoscenza* della risposta recuperando fonti esterne; un agente pianifica ed esegue *azioni* in più passaggi tramite strumenti e API, come prenotazioni, aggiornamento della cartella o notifiche (Khuntia, 2024m). Un sistema RAG per la supervisione post-seduta resta uno strumento di consultazione. Un agente che agisce sul paziente o sui suoi dati richiede limiti di autonomia e supervisione più stringenti. Vedi [[agenti-ia-sanita]].
 
 ## Applicazioni Cliniche e Formative
 1. **Analisi e Supervisione Post-Seduta**:
@@ -39,7 +42,11 @@ graph LR
 
 ---
 
+## Riferimenti Bibliografici
+- Khuntia, J. (2024m). *Background materials for Course 4: AI integration in healthcare. Module 1: Models to agents in health AI* [Materiale didattico, versione 1.0]. AI for Healthcare Systems Specialization, University of Colorado System; Coursera. https://www.coursera.org/learn/ai-agents-in-healthcare-and-capstone
+
 ## Relazioni
+- [[agenti-ia-sanita]]
 - [[modello-centauro-clinico]]
 - [[feedback-informed-practice-ai]]
 - [[augmented-psychotherapy]]

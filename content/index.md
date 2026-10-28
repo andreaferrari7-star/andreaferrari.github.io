@@ -5,13 +5,13 @@
 > 1. [[#Linee Guida, Metodologia della Ricerca e Reporting|Linee Guida, Metodologia della Ricerca e Reporting]] (100)
 > 2. [[#Sicurezza Clinica, Bias, Allineamento e Red Teaming|Sicurezza Clinica, Bias, Allineamento e Red Teaming]] (122)
 > 3. [[#Simulazione Clinica, Formazione e Supervisione|Simulazione Clinica, Formazione e Supervisione]] (54)
-> 4. [[#Architetture Cliniche, Prompt Engineering e Modelli Operativi|Architetture Cliniche, Prompt Engineering e Modelli Operativi]] (43)
+> 4. [[#Architetture Cliniche, Prompt Engineering e Modelli Operativi|Architetture Cliniche, Prompt Engineering e Modelli Operativi]] (63)
 > 5. [[#Psicoterapia Aumentata, Interventi Digitali e Biomarcatori|Psicoterapia Aumentata, Interventi Digitali e Biomarcatori]] (177)
 >     - [[#Disturbi specifici: OCD, ipercontrollo e perfezionismo|Disturbi specifici: OCD, ipercontrollo e perfezionismo]] (34)
 >     - [[#Biomarcatori, sensing e predizione degli esiti|Biomarcatori, sensing e predizione degli esiti]] (25)
 >     - [[#Chatbot, app e interventi digitali|Chatbot, app e interventi digitali]] (40)
 >     - [[#Processi terapeutici, CBT e pratica clinica aumentata|Processi terapeutici, CBT e pratica clinica aumentata]] (68)
-> 6. [[#Etica, Governance e Regolazione|Etica, Governance e Regolazione]] (43)
+> 6. [[#Etica, Governance e Regolazione|Etica, Governance e Regolazione]] (45)
 
 Ogni sezione elenca prima i concetti e le sintesi tematiche (in ordine alfabetico), poi i paper e i documenti in tabella (dal più recente). In calce a ciascuna sezione trovi il collegamento `↑ Torna al sommario` per risalire rapidamente all'indice. Quando esiste anche una pagina di sintesi del paper, compare il link *sintesi* accanto al titolo.
 
@@ -346,8 +346,11 @@ Ogni sezione elenca prima i concetti e le sintesi tematiche (in ordine alfabetic
 
 ### Concetti e sintesi tematiche
 
+- [Agenti di IA in sanità: dal modello all'azione](concetti/agenti-ia-sanita.md) - Che cosa distingue un agente da un modello e dal RAG, tassonomia per funzione, intelligenza e interazione, rischi dell'autonomia nelle azioni cliniche.
 - [AI in Clinical Decision Support and Diagnostic Triage](concetti/ai-clinical-decision-support.md) - L'impiego di agenti conversazionali e modelli linguistici di intelligenza artificiale per supportare il ragionamento clinico, eseguire il triage sintomatolog…
+- [Algoritmi di machine learning in sanità](concetti/algoritmi-ml-sanita.md) - Famiglie di algoritmi (regressione, regole, ML supervisionato e non, rinforzo, deep learning) e correzioni di metodo: leakage, validazione ripetuta, calibrazione.
 - [Architetture Software Generative e Interfacce Fluide](concetti/architetture-generative-dinamiche.md) - Modello architetturale per software clinici e ambienti digitali in cui interfacce utente, dashboard, flussi di lavoro e moduli di monitoraggio non s…
+- [Capacità dinamiche dei sistemi sanitari](concetti/capacita-dinamiche-sistemi-sanitari.md) - Capacità operative, adattive e innovative e triade sensing-seizing-transforming: l'IA come leva delle capacità di un'organizzazione sanitaria, non come soluzione autonoma.
 - [Coast Framework Clinical Prompting](concetti/coast-framework-clinical-prompting.md) - Studio ed evidenze cliniche relative a Coast Framework Clinical Prompting.
 - [Context-Aware Adaptive Nudging and Reinforcement Learning in Adherence](concetti/context-aware-adaptive-nudging.md) - L'integrazione di agenti conversazionali intelligenti (chatbot testuali e vocali) e algoritmi di apprendimento per rinforzo (*Reinforcement Learning* - RL) p…
 - [Conversione Questionari-Linguaggio Naturale per Agenti Clinici](concetti/conversione-questionari-dialoghi-clinici.md) - Metodologia di ingegneria del prompt e preprocessing clinico che trasforma scale psicometriche tabulari (es. BDI, HAM-D, HAM-A) e metadati anamnesti…
@@ -356,10 +359,13 @@ Ogni sezione elenca prima i concetti e le sintesi tematiche (in ordine alfabetic
 - [Defense Attorney Technique (DAT)](concetti/defense-attorney-technique.md) - Tecnica strutturata di psicoterapia cognitivo-comportamentale ideata da Irismar Reis de Oliveira (2011) basata sulla metafora dell'aula di tribunale, in cui…
 - [Documentazione Clinica Bottom-Up e Living Documents](bottom-up-clinical-documentation.md) - Metodologia per la generazione dinamica e continua di manuali clinici operativi, linee guida procedurali e alberi decisionali a partire dall'elabora…
 - [Dynamic Boundary Mediation Framework](dynamic-boundary-mediation-framework.md) - Il Dynamic Boundary Mediation Framework è un modello teorico e progettuale formulato da Quan et al. (2025) per ridefinire l'integrazione dei Large Language M…
+- [Framework DIAD: dai dati alla decisione](concetti/diad-framework.md) - Percorso dati, informazione, analisi, decisione: dove interviene uno strumento di IA, quali tecniche servono a ogni stadio e che cosa resta al giudizio del clinico.
 - [Framework Diagnosis of Thought (DoT) e Disaccoppiamento Fatti-Interpretazioni](diagnosis-of-thought-framework.md) - Il Framework Diagnosis of Thought (DoT) è una metodologia strutturata di prompt engineering clinico e guida inferenziale per modelli linguistici generativi (…
 - [Framework SADAR (Sistema Autoesplorativo Dialogico Autentico Relazionale)](concetti/sadar-framework.md) - Framework procedurale e protocollo clinico (Signorini & Paganin, 2026) per l'impiego differito e post-seduta dei Large Language Models in psicoterap…
+- [Health AI Landscape: la catena dai dati agli agenti](concetti/health-ai-landscape.md) - Dati governati, analisi, algoritmi, cinque tipi di modelli, agenti e processi organizzativi dentro vincoli legali, etici e di sicurezza: una lista di controllo per valutare uno strumento.
 - [Health Care AI Chatbot Evaluation Framework (HAICEF)](haicef-framework.md) - Il Health Care AI Chatbot Evaluation Framework (HAICEF) è un meta-framework gerarchico e standardizzato per la valutazione sistematica, sicura ed etica degli…
 - [Integrazione dell'IA nel Modello LIBET e nella Psicoterapia (Discussione Panel, 2026)](discussione-panel-ia-libet-2026.md) - Sintesi di un panel clinico sull'uso di LLM come supporto alla concettualizzazione del caso (Modello LIBET) e analisi delle dimensioni di metacontrollo.
+- [Intelligenza Artificiale, Machine Learning e Deep Learning](concetti/ia-machine-learning-deep-learning.md) - Definizioni di base e gerarchia IA ⊃ ML ⊃ DL, paradigmi di apprendimento, sottoadattamento e sovradattamento, breve storia da Dartmouth ed ELIZA al deep learning.
 - [LLM-Assisted Semantic Clustering](concetti/llm-assisted-clustering.md) - Metodologia ibrida di raggruppamento e categorizzazione semantica di costrutti testuali non strutturati che combina la scalabilità computazionale dei Large L…
 - [LLM4CBT: Prompting a Due Livelli per la CBT](concetti/LLM4CBT.md) - Separazione tra messaggio di sistema (persona, pensieri automatici, freccia discendente) e messaggio utente (riflessione e normalizzazione invece di soluzioni premature).
 - [Memoria Aumentata nel Dialogo Terapeutico (Memory-Augmented Therapeutic Dialogue)](concetti/memory-augmented-therapeutic-dialogue.md) - Paradigma architetturale per agenti conversazionali di supporto psicologico che integra moduli esterni di memoria episodica e semantica a lungo term…
@@ -393,6 +399,20 @@ Ogni sezione elenca prima i concetti e le sintesi tematiche (in ordine alfabetic
 | 2025 | Quan et al. | [Framework di Sicurezza e Allineamento per Chatbot Terapeutici](2512-22462v1.md) · [sintesi](sintesi/quan-et-al-2025.md) | Studio qualitativo ed empirico-metodologico condotto da J. Quan, Z. Li, T. Q. Zhu, Y. Li, B. Wang, W. Pratt e N. Gao (The Hong Kong Polytechnic… |
 | 2025 | Zhou et al. | [CRISP: Ristrutturazione Cognitiva tramite Dialoghi Multi-Turn](2504-17238v1.md) · [sintesi](sintesi/zhou-et-al-2025.md) | Framework e dataset bilingue (CRISP, 22k dialoghi) per la ristrutturazione cognitiva (CR) multi-turno tramite LLM, basato sull'architettura clinica… |
 | 2024 | Babu & Joseph | [AI in Mental Healthcare: Transformative Potential vs. Human Interaction](fpsyg-15-1378904.md) | Revisione su Frontiers in Psychology che analizza il potenziale trasformativo dell'IA e la centralità insostituibile della relazione terapeutica… |
+| 2024 | Khuntia | [AI for Healthcare Systems: materiali del corso](ai-for-healthcare-systems-khuntia-2024.md) | Scheda della serie di 14 dispense della specializzazione Coursera della University of Colorado System: struttura dei quattro corsi, note sulla fonte e sulla citazione. |
+| 2024 | Khuntia | [AI for Healthcare Systems, C1M1: significato ed evoluzione dell'IA in sanità](ai-health-c1m1-khuntia-2024.md) | Definizioni di IA, ML e DL, storia in tre periodi, applicazioni in sanità e in altri settori; introduttivo, senza riferimenti bibliografici. |
+| 2024 | Khuntia | [AI for Healthcare Systems, C1M2: lo stato attuale dei sistemi sanitari](ai-health-c1m2-khuntia-2024.md) | Attori e ciclo dei pagamenti, sfide di accesso, qualità ed equità, ruolo del digitale e passaggio dalla digitalizzazione «non intelligente» al paradigma guidato dai dati. |
+| 2024 | Khuntia | [AI for Healthcare Systems, C1M3: capacità dei sistemi sanitari, digitalizzazione e IA](ai-health-c1m3-khuntia-2024.md) | Capacità e capacità dinamiche, casi di fallimento organizzativo, IA per coinvolgimento dei pazienti, operazioni e supporto alla decisione clinica. |
+| 2024 | Khuntia | [AI for Healthcare Systems, C1M4: l'IA per le grandi sfide della sanità](ai-health-c1m4-khuntia-2024.md) | Sette grandi sfide, dati su costi e accesso, parallelo tra apprendimento clinico e dell'IA, esempi di prodotti (alcuni dismessi) per costi, accesso, cronicità, pandemie e ricerca. |
+| 2024 | Khuntia | [AI for Healthcare Systems, C2M1: il ruolo dell'IA nel processo DIAD](ai-health-c2m1-khuntia-2024.md) | Il framework DIAD; IA, ML e LLM nella decisione clinica; data mining, visualizzazione, tempo reale ed ETL. Divergenza con Chen et al. (2025) sugli LLM in oncologia. |
+| 2024 | Khuntia | [AI for Healthcare Systems, C2M2: l'analisi dei dati nel DIAD](ai-health-c2m2-khuntia-2024.md) | Il mito dell'IA come soluzione rapida e le sue quattro condizioni di successo; elementi e ciclo di vita di un modello analitico; metriche senza calibrazione né utilità clinica. |
+| 2024 | Khuntia | [AI for Healthcare Systems, C2M3: algoritmi di IA e ML nei modelli sanitari](ai-health-c2m3-khuntia-2024.md) | Panoramica degli algoritmi; regressione lineare e logistica con guide passo-passo, tra cui lo screening della depressione. Errori di metodo segnalati: leakage, split singolo, calibrazione assente. |
+| 2024 | Khuntia | [AI for Healthcare Systems, C2M4: algoritmi complessi nei modelli sanitari](ai-health-c2m4-khuntia-2024.md) | Alberi decisionali, random forest, gradient boosting e varianti, reti neurali (CNN, RNN, ibridi, transformer, GAN e altre) con guide operative; esempi numerici illustrativi ed errori segnalati. |
+| 2024 | Khuntia | [AI for Healthcare Systems, C3M1: algoritmi di ML rilevanti in sanità, parte 1](ai-health-c3m1-khuntia-2024.md) | Quattro paradigmi di apprendimento, classificazione e regressione (lineare, logistica, lasso, polinomiale), sottoadattamento e sovradattamento; traccia di testo generato da IA non revisionato. |
+| 2024 | Khuntia | [AI for Healthcare Systems, C3M2: algoritmi di ML rilevanti in sanità, parte 2](ai-health-c3m2-khuntia-2024.md) | Non supervisionato (clustering, PCA/ICA, regole di associazione, anomalie), k-NN, semi-supervisionato, apprendimento per rinforzo; associazioni presentate come base per prescrivere. |
+| 2024 | Khuntia | [AI for Healthcare Systems, C3M3: la modellazione per l'IA in sanità, parte 1](ai-health-c3m3-khuntia-2024.md) | Il quadro Health AI Landscape (dati, analisi, algoritmi, modelli, agenti, processi, vincoli); modelli descrittivi e diagnostici; incoerenza su correlazione e causalità. |
+| 2024 | Khuntia | [AI for Healthcare Systems, C3M4: la modellazione per l'IA in sanità, parte 2](ai-health-c3m4-khuntia-2024.md) | Modelli predittivi, prescrittivi e cognitivi, processo di sviluppo in otto fasi, dieci sfide di implementazione con contromisure; la supervisione umana presentata come limite. |
+| 2024 | Khuntia | [AI for Healthcare Systems, C4M1: dai modelli agli agenti nell'IA sanitaria](ai-health-c4m1-khuntia-2024.md) | Dai modelli agli agenti, RAG e agenti, tassonomia degli agenti ed esempi per condizione clinica; LLM detti superiori ai medici (contro Shan et al., 2025) e prodotti probabilmente inventati. |
 | 2023 | Beg & Verma | [The Mind and Machine: An Introduction to Artificial Intelligence](mind-and-machine-beg-verma-2023.md) | Testo introduttivo sulle architetture dell'IA, con focus sul Cognitive Modeling (modelli ACT-R e SOAR) e l'applicazione delle reti neurali in… |
 
 [[#Indice Knowledge Base|↑ Torna al sommario]]
@@ -659,6 +679,7 @@ Ogni sezione elenca prima i concetti e le sintesi tematiche (in ordine alfabetic
 - [Supervisione Umana e Responsabilità Professionale nell'IA Clinica](human-oversight-and-liability-in-clinical-ai.md) - Principio cardine di governance etico-giuridica e clinica stabilito dalle linee guida dell'American Psychological Association (APA, 2025) che definisce la no…
 - [Tavola Rotonda: Integrazione dell'IA in Psicoterapia (20 Aprile 2026)](04-20-tavola-rotonda-integrazione-ia.md) - Sintesi organica della tavola rotonda promossa dalla Consulta delle Scuole di Psicoterapia Cognitivo-Comportamentale e dall'Università Pontificia Salesiana.
 - [Three-Layer Governance Framework](concetti/three-layer-governance-framework.md) - Modello di governance integrata articolato su tre livelli (Salvaguardie Tecniche, Governance Clinica, Supervisione Istituzionale e Regolatoria) per l'uso eti…
+- [Value-Sensitive Design nell'IA sanitaria](concetti/value-sensitive-design-ia-sanitaria.md) - Integrare i valori etici in tutto il ciclo di vita di un sistema: coinvolgimento degli utenti, test iterativi, equità, spiegabilità, privacy e supervisione etica.
 
 ### Paper e documenti
 
@@ -670,5 +691,6 @@ Ogni sezione elenca prima i concetti e le sintesi tematiche (in ordine alfabetic
 | 2026 | Orrù & Mannarini | [Clinical Psychology & Psychotherapy: Revisione Sistematica su AI e CBT](cpp-33-e70242-1.md) | Revisione sistematica condotta secondo le linee guida PRISMA e pubblicata su *Clinical Psychology & Psychotherapy* (Wiley, 2026) da Luisa Orrù e… |
 | 2026 | Rezaei et al. | [IA Basata su Reti nella Sanità Mentale Globale: Revisione Sistematica](10-1177-20552076261421688.md) · [sintesi](sintesi/rezaei-et-al-2026.md) | Revisione sistematica PRISMA 2020 su 37 studi che valuta l'efficacia clinica, le architetture ML/NLP e le implicazioni etiche dell'IA nella salute… |
 | 2025 | Montanari Vergallo et al. | [Healthcare: Studio di Efficacia su Chatbot e Benessere Psicologico](healthcare-13-02340.md) | Narrative review bioetica e medico-legale pubblicata su *Healthcare* (MDPI, Settembre 2025) da un gruppo interdisciplinare guidato da Gianluca… |
+| 2024 | Khuntia | [AI for Healthcare Systems, C4M2: progettazione ed etica dell'IA sanitaria](ai-health-c4m2-khuntia-2024.md) | Sistemi multi-agente, tre ondate dell'IA (modelli, generativa, agentica), otto questioni di progettazione e Value-Sensitive Design; incoerenza sull'autonomia degli agenti. Gli altri moduli della serie sono nel dominio 4. |
 
 [[#Indice Knowledge Base|↑ Torna al sommario]]
